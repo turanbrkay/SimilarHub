@@ -1,0 +1,55 @@
+# MacBook Air M1 Üzerinde SimilarHub Dağıtım (Deployment) Planı
+
+Bu plan, elinizdeki MacBook Air M1 cihazını SimilarHub uygulaması için tam donanımlı bir sunucuya dönüştürmek amacıyla hazırlanmıştır.
+
+## Hedef
+React (Frontend), Flask (Backend) ve PostgreSQL (Veritabanı) bileşenlerini içeren tüm sistemi yerel makinenizde "Docker" kullanarak çalıştırmak ve internete güvenli bir şekilde açmak.
+
+## Mimari Yapı
+Sistemin kararlı ve yönetilebilir olması için **Docker** teknolojisini kullanacağız. Bu sayede uygulamanız her ortamda aynı şekilde çalışacaktır.
+
+1.  **Frontend (Önyüz)**: React ve Vite ile geliştirilen arayüz.
+    *   *Nasıl Çalışacak?*: Kodlar "build" edilerek statik dosyalara dönüştürülecek ve **Nginx** sunucusu tarafından kullanıcılara sunulacak.
+2.  **Backend (Arka Uç)**: Flask ile yazılan API.
+    *   *Nasıl Çalışacak?*: Python tabanlı bir Docker konteyneri içinde çalışacak ve veritabanı ile iletişim kuracak.
+3.  **Veritabanı**: PostgreSQL ve pgvector eklentisi.
+    *   *Nasıl Çalışacak?*: Resmi PostgreSQL Docker imajı kullanılarak veriler güvenli bir şekilde saklanacak.
+4.  **Ters Vekil Sunucusu (Reverse Proxy)**: **Nginx**.
+    *   *Görevi*: Gelen tüm trafiği karşılayacak. Kullanıcı arayüzü isteklerini Frontend'e, veri isteklerini (API) Backend'e yönlendirecek.
+5.  **İnternete Açılma**: **Cloudflare Tunnel**.
+    *   *Görevi*: Modeminizde port açmaya gerek kalmadan, bilgisayarınızı güvenli bir tünel üzerinden dünyaya bağlayacak.
+
+## Kullanıcı Onayı Gerekenler
+> [!IMPORTANT]
+> **Cloudflare Tunnel** kullanımı için bir alan adına (domain) sahip olmanız en profesyonel çözümdür. Eğer bir domaininiz yoksa, test amaçlı geçici URL'ler veya `ngrok` gibi alternatifler kullanabiliriz. Ben planı en sağlam yöntem olan Cloudflare Tunnel'a göre hazırlıyorum.
+
+## Yapılacak Değişiklikler
+
+### 1. Backend'in Paketlenmesi (Containerization)
+Backend kodlarının her yerde çalışabilmesi için bir `Dockerfile` oluşturulacak.
+#### [YENİ] [Dockerfile.backend](file:///Users/macbookairm1/Desktop/SimilarHub/Dockerfile.backend)
+*   Python 3.11 tabanlı olacak.
+*   Gerekli kütüphaneler (Flask, PyTorch, vb.) içine kurulacak.
+
+### 2. Frontend'in Paketlenmesi ve Nginx Ayarı
+Frontend kodlarının derlenip sunulması için bir `Dockerfile` ve trafik yönetimi için [nginx.conf](file:///Users/macbookairm1/Desktop/SimilarHub/nginx.conf) oluşturulacak.
+#### [YENİ] [Dockerfile.frontend](file:///Users/macbookairm1/Desktop/SimilarHub/Dockerfile.frontend)
+*   İki aşamalı (multi-stage) kurulum: Önce kodlar derlenecek, sonra Nginx içine kopyalanacak.
+#### [YENİ] [nginx.conf](file:///Users/macbookairm1/Desktop/SimilarHub/nginx.conf)
+*   Gelen istekleri doğru yere (Frontend veya Backend) yönlendiren kurallar içerecek.
+
+### 3. Sistem Orkestrasyonu
+Tüm bu parçaların (Frontend, Backend, Veritabanı) tek bir komutla ayağa kalkması için [docker-compose.yml](file:///Users/macbookairm1/Desktop/SimilarHub/docker-compose.yml) dosyası güncellenecek.
+#### [DÜZENLE] [docker-compose.yml](file:///Users/macbookairm1/Desktop/SimilarHub/docker-compose.yml)
+
+## Doğrulama Planı (Verification Plan)
+
+### Otomatik Testler
+*   `docker-compose up --build` komutu ile tüm sistem başlatılacak ve hata logları kontrol edilecek.
+*   `curl http://localhost` komutu ile sitenin açılıp açılmadığı test edilecek.
+*   Backend API'sinin cevap verip vermediği kontrol edilecek.
+
+### Manuel Kontroller
+1.  Tarayıcıdan `http://localhost` adresine gidilecek.
+2.  Bir dizi/film araması yapılacak ve sonuçların gelip gelmediği kontrol edilecek.
+3.  Sistem yerelde sorunsuz çalıştıktan sonra, Cloudflare Tunnel kurulumuna geçilecek ve telefonunuzdan siteye erişim test edilecek.
