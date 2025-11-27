@@ -44,6 +44,7 @@ Import tamamlandıktan sonra backend'i yeniden başlatın:
 
 ```bash
 docker-compose restart backend
+docker-compose up -d
 ```
 
 Artık uygulamaya `http://localhost` adresinden erişip dizileri arayabilirsiniz!

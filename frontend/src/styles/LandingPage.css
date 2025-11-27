@@ -1,0 +1,311 @@
+/* LandingPage.css */
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+#intro {
+    background-image: url('/assets/img/banner.png');
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    color: #fff;
+    font-family: 'Inter', sans-serif;
+}
+
+#intro .wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+#intro .main {
+    flex-grow: 1;
+    background: linear-gradient(100deg,
+            rgba(0, 0, 0, 0.4) 0%,
+            rgba(0, 0, 0, 0.55) 20%,
+            rgba(0, 0, 0, 0.92) 40%,
+            rgba(0, 0, 0, 0.98) 100%);
+    padding-left: 30%;
+    padding-right: 6%;
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#intro .container {
+    padding: 0;
+}
+
+/* Ana içerik bloğu */
+.intro-container {
+    max-width: 720px;
+}
+
+.intro-wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1.0rem;
+    min-height: 60vh;
+}
+
+.intro-header {
+    display: flex;
+    flex-direction: column;
+    gap: 1.6rem;
+}
+
+.logo img {
+    width: 200px;
+    height: auto;
+    display: block;
+}
+
+
+.text-major {
+    font-size: 1.8rem;
+    font-weight: 700;
+    line-height: 1.25;
+    letter-spacing: -0.01em;
+    color: #b7fff5;
+    margin: 0.2rem 0 0;
+}
+
+.text-subtitle {
+    font-size: 0.98rem;
+    color: #c5c5c8;
+    max-width: 32rem;
+    margin: 0;
+}
+
+.head-search {
+    width: 590px;
+    max-width: 100%;
+    margin-top: 0.2rem;
+}
+
+
+.search-form {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    background: rgba(15, 16, 20, 0.96);
+    border-radius: 5px;
+    padding: 0.35rem 0.5rem;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    box-shadow: 0 14px 40px rgba(0, 0, 0, 0.55);
+}
+
+.filter-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    border: none;
+    background: rgba(43, 217, 198, 0.08);
+    color: #c7c9d3;
+    border-radius: 999px;
+    padding: 0.45rem 0.9rem;
+    font-size: 0.8rem;
+    font-weight: 500;
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+.filter-btn .material-icons {
+    font-size: 1rem;
+}
+
+/* Input */
+.search-form input[type="text"] {
+    flex: 1;
+    background: transparent;
+    border: none;
+    outline: none;
+    color: #f5f6fa;
+    font-size: 0.9rem;
+    padding: 0.4rem 0.75rem;
+    min-width: 0;
+}
+
+.search-form input::placeholder {
+    color: #6e7078;
+}
+
+.search-submit {
+    border: none;
+    background: #2bd9c6;
+    border-radius: 999px;
+    width: 38px;
+    height: 38px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    flex-shrink: 0;
+    transition: background 0.18s ease, transform 0.18s ease, box-shadow 0.18s ease;
+}
+
+.search-submit .material-icons {
+    font-size: 1.2rem;
+    color: #0f1014;
+}
+
+.search-submit:hover {
+    background: #25b8a7;
+    transform: translateY(-1px);
+    box-shadow: 0 8px 22px rgba(0, 0, 0, 0.45);
+}
+
+/* Share Buttons */
+.share {
+    display: flex;
+    gap: 10px;
+    margin-top: 0.5rem;
+    margin-bottom: 0.2rem;
+    flex-wrap: wrap;
+    max-width: 590px;
+}
+
+.description-text {
+    color: #a0a0a0;
+    line-height: 1.6;
+    max-width: 590px;
+    font-size: 0.95rem;
+}
+
+.description-text p {
+    margin-bottom: 0.75rem;
+}
+
+.share-btn {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 6px 12px;
+    width: 90px;
+    /* Hepsi aynı uzunlukta */
+    border-radius: 4px;
+    color: #fff;
+    font-size: 0.8rem;
+    font-weight: 600;
+    cursor: pointer;
+    /* skew efektini istemiyorsan tamamen kaldırıyoruz */
+    transform: none;
+    margin-right: 0;
+}
+
+.share-btn>* {
+    transform: none;
+}
+
+.share-btn .icon {
+    font-weight: 900;
+    font-family: serif;
+    margin-right: 5px;
+}
+
+.share-btn.facebook {
+    background-color: #3b5998;
+}
+
+.share-btn.twitter {
+    background-color: #1da1f2;
+}
+
+.share-btn.whatsapp {
+    background-color: #25d366;
+}
+
+.share-btn.reddit {
+    background-color: #ff4500;
+}
+
+.share-btn.messenger {
+    background-color: #0084ff;
+}
+
+.share-btn.telegram {
+    background-color: #0088cc;
+    width: 90px;
+    justify-content: space-between;
+    min-width: auto;
+}
+
+.footer {
+    border-top: 1px solid #161616;
+    color: #555;
+    font-size: 0.85rem;
+    padding-bottom: 0.2rem;
+}
+
+@media (max-width: 1199.98px) {
+    #intro .main {
+        padding-left: 0;
+        padding-right: 0;
+        padding-top: 2.5rem;
+        padding-bottom: 2.5rem;
+        width: 100%;
+        background: #000;
+    }
+
+    .intro-container {
+        max-width: 100%;
+    }
+
+    .intro-wrap {
+        width: 100%;
+        align-items: center;
+        text-align: center;
+        padding: 0 1.25rem;
+    }
+
+    .text-subtitle {
+        max-width: 100%;
+    }
+
+    .search-wrapper {
+        width: 100%;
+        max-width: 600px;
+    }
+
+    .share {
+        justify-content: center;
+    }
+
+    .head-search,
+    .description-text,
+    .share {
+        max-width: 100%;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .text-major {
+        font-size: 2rem;
+    }
+
+    .search-form {
+        flex-wrap: wrap;
+        align-items: stretch;
+    }
+
+    .filter-btn {
+        width: 100%;
+        justify-content: center;
+    }
+
+    .search-form input[type="text"] {
+        order: 2;
+        width: 100%;
+    }
+
+    .search-submit {
+        order: 3;
+        align-self: center;
+    }
+
+    .btn-homepage {
+        align-self: center;
+    }
+}

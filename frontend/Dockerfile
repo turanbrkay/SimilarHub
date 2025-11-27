@@ -3,10 +3,10 @@ FROM node:20-alpine as builder
 
 WORKDIR /app
 
-COPY frontend/package*.json ./
+COPY package*.json ./
 RUN npm install
 
-COPY frontend/ .
+COPY . .
 # Fix permissions for all copied files
 RUN chmod -R 755 . && npm run build
 
