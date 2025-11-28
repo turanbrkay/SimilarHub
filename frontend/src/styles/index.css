@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Arya:wght@400;700&display=swap');
+
 :root {
   --color-bg: #0f1014;
   --color-surface: #1f2125;
@@ -7,8 +9,9 @@
   --color-accent: #2bd9c6;
   --color-accent-hover: #25b8a7;
   --color-danger: #ff4d4d;
+  --color-background: #000000;
 
-  --font-family: 'Inter', system-ui, Avenir, Helvetica, Arial, sans-serif;
+  --font-family: 'Arya', sans-serif;
 }
 
 body {
@@ -41,12 +44,6 @@ button {
 }
 
 /* Utilities */
-.container {
-  max-width: 1400px;
-  margin: 0 auto;
-  padding: 0 2rem;
-}
-
 .flex-center {
   display: flex;
   align-items: center;

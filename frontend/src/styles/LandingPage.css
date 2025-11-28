@@ -19,10 +19,10 @@
 #intro .main {
     flex-grow: 1;
     background: linear-gradient(100deg,
-            rgba(0, 0, 0, 0.4) 0%,
-            rgba(0, 0, 0, 0.55) 20%,
+            rgba(0, 0, 0, 0.75) 0%,
+            rgba(0, 0, 0, 0.85) 20%,
             rgba(0, 0, 0, 0.92) 40%,
-            rgba(0, 0, 0, 0.98) 100%);
+            rgba(0, 0, 0, 0.75) 100%);
     padding-left: 30%;
     padding-right: 6%;
     padding-top: 2.5rem;
@@ -30,13 +30,14 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: flex-start;
 }
 
 #intro .container {
     padding: 0;
+    max-width: none;
 }
 
-/* Ana içerik bloğu */
 .intro-container {
     max-width: 720px;
 }
@@ -52,7 +53,7 @@
 .intro-header {
     display: flex;
     flex-direction: column;
-    gap: 1.6rem;
+    gap: 1.0rem;
 }
 
 .logo img {
@@ -260,6 +261,10 @@
         padding: 0 1.25rem;
     }
 
+    .intro-header {
+        align-items: center;
+    }
+
     .text-subtitle {
         max-width: 100%;
     }
@@ -308,4 +313,32 @@
     .btn-homepage {
         align-self: center;
     }
+}
+
+.btn-homepage {
+    background-color: #25b8a7;
+    color: #f5f6fa;
+    padding: 12px 32px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-top: 1rem;
+    transition: all 0.24s ease;
+    width: fit-content;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    letter-spacing: 0.08em;
+    font-size: 0.8rem;
+}
+
+.btn-homepage:hover {
+    background-color: #25b8a7;
+    transform: translateY(-2px);
+    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.6);
+}
+
+.btn-homepage .material-icons {
+    font-size: 1.05rem;
 }

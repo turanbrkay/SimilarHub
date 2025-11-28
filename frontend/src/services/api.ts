@@ -13,10 +13,21 @@ export interface Show {
     similarity_percent?: number;
 }
 
-// Search for shows
+// Search for shows or return popular if query is too short
 export async function searchShows(query: string): Promise<Show[]> {
-    if (query.length < 2) return [];
+    // Boş string veya 2 karakterden kısa ise: popüler dizileri getir
+    if (!query || query.trim().length < 2) {
+        try {
+            const response = await fetch(`${API_BASE}/shows/popular`);
+            if (!response.ok) throw new Error('Popular fetch failed');
+            return await response.json();
+        } catch (error) {
+            console.error('Popular fetch error:', error);
+            return [];
+        }
+    }
 
+    // Normal search
     try {
         const response = await fetch(`${API_BASE}/search?q=${encodeURIComponent(query)}`);
         if (!response.ok) throw new Error('Search failed');
@@ -26,6 +37,7 @@ export async function searchShows(query: string): Promise<Show[]> {
         return [];
     }
 }
+
 
 // Get similar shows
 export async function getSimilarShows(showId: number): Promise<{ source_item: Show, similar_items: Show[] }> {
@@ -56,4 +68,13 @@ export async function getAllShows(): Promise<Show[]> {
         console.error('Get all shows error:', error);
         return [];
     }
+}
+
+export async function getPopularShows(): Promise<Show[]> {
+    const res = await fetch(`${API_BASE}/popular-tv`);
+    if (!res.ok) {
+        console.error('Failed to fetch popular shows');
+        return [];
+    }
+    return res.json();
 }

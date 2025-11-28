@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 import '../styles/LandingPage.css';
 
@@ -11,9 +12,9 @@ const LandingPage: React.FC = () => {
     return (
         <div id="intro">
             <div className="wrapper">
-                <div className="main">
+                <div className="main" style={{ alignItems: 'flex-start' }}>
                     <div className="container intro-container">
-                        <div className="intro-wrap">
+                        <div className="intro-wrap" style={{ maxWidth: '720px' }}>
                             <header className="intro-header">
                                 <div className="logo">
                                     <img src="/assets/img/logo.png" alt="SimilarHub" />
@@ -55,6 +56,11 @@ const LandingPage: React.FC = () => {
                                     </div>
                                 </div>
                             </header>
+
+                            <Link className="btn-homepage" to="/app">
+                                <span>GO TO DASHBOARD</span>
+                                <span className="material-icons">arrow_forward</span>
+                            </Link>
 
                             <div className="description-text">
                                 <p>

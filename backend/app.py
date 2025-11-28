@@ -237,11 +237,37 @@ def search():
     conn = get_db_connection()
     with conn.cursor(cursor_factory=psycopg2.extras.RealDictCursor) as cur:
         cur.execute(
-            "SELECT id, title, poster_path, year FROM media_items WHERE source_type='tv' AND title ILIKE %s LIMIT 10",
+            "SELECT id, title, poster_path, year FROM media_items WHERE source_type='tv' AND title ILIKE %s LIMIT 100",
             (f'%{query}%',))
         results = cur.fetchall()
     conn.close()
     return jsonify(results)
+
+
+@app.route('/popular-tv', methods=['GET'])
+@app.route('/api/popular-tv', methods=['GET'])
+def popular_tv():
+    """En popüler ilk 50 TV dizisini döner."""
+    conn = get_db_connection()
+    with conn.cursor(cursor_factory=psycopg2.extras.RealDictCursor) as cur:
+        cur.execute("""
+            SELECT 
+                id, 
+                title, 
+                poster_path, 
+                year, 
+                overview, 
+                genres,
+                popularity
+            FROM media_items
+            WHERE source_type = 'tv'
+            ORDER BY popularity DESC NULLS LAST
+            LIMIT 50
+        """)
+        results = cur.fetchall()
+    conn.close()
+    return jsonify(results)
+
 
 
 @app.route('/simple-similar/<int:tv_id>')

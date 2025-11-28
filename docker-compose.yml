@@ -82,7 +82,8 @@ services:
 
 volumes:
   similarhub_data:
-
+    external: true
+    name: similarhub_similarhub_data
 
 networks:
   app-network:

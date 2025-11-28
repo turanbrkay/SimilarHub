@@ -1,0 +1,288 @@
+/* Navbar Header Styles - Inspired by dynamicWebsite header.css */
+
+.header {
+  background-color: #020202;
+  width: 100%;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  backdrop-filter: blur(10px);
+}
+
+/* Container specifically for header to avoid conflicts */
+.header>.container {
+  max-width: 1800px;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.header .wrap-head {
+  display: flex;
+  width: 100%;
+  height: 6rem;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* Left Head - Logo & Navigation */
+.header .wrap-head .l-head {
+  position: relative;
+  min-width: 15%;
+  align-items: center;
+  display: flex;
+}
+
+.header .wrap-head .l-head .head-logo img {
+  vertical-align: middle;
+  border-style: none;
+  margin-left: 1rem;
+  height: 3.0rem;
+}
+
+.header .wrap-head .l-head #head-nav {
+  margin-left: 1.5rem;
+}
+
+.header .wrap-head .l-head #head-nav>ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  position: relative;
+  display: flex;
+}
+
+.header .wrap-head .l-head #head-nav>ul>li {
+  position: relative;
+}
+
+.header .wrap-head .l-head #head-nav>ul>li>a {
+  color: rgb(153, 255, 241);
+  border-left-color: transparent;
+  cursor: pointer;
+  border-radius: 0.5rem;
+  border-left: 3px solid transparent;
+  display: block;
+  padding: 0 1.5rem 0 0.4rem;
+  font-size: 1rem;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.header .wrap-head .l-head #head-nav>ul>li:hover>a {
+  background: #208e79;
+  color: #fff;
+  border-left: 3px solid #28af95;
+}
+
+/* Dropdown menu */
+.header .wrap-head .l-head #head-nav>ul>li>ul {
+  margin: 0;
+  list-style: none;
+  display: none;
+  z-index: 2;
+  left: 0;
+  top: 100%;
+  min-width: 350px;
+  width: 100%;
+  background: #161616;
+  padding: 1rem;
+  position: absolute;
+  border-radius: 1rem;
+  margin-top: 0.3rem;
+}
+
+.header .wrap-head .l-head #head-nav>ul>li.expand:hover>ul {
+  display: block;
+}
+
+.header .wrap-head .l-head #head-nav>ul>li>ul>li {
+  float: left;
+  width: 33.3333333333%;
+}
+
+.header .wrap-head .l-head #head-nav>ul>li>ul>li a {
+  padding: 0.3rem 0.5rem;
+  display: block;
+  width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  color: #848484;
+  border-radius: 0.5rem;
+  background: transparent;
+  border-left: 1px solid transparent;
+  text-decoration: none;
+}
+
+.header .wrap-head .l-head #head-nav>ul>li>ul>li a:hover {
+  color: #b6fff5;
+  background: #2a2a2a;
+  border-left: 1px solid #848484;
+}
+
+/* Right Head - Search & User */
+.header .wrap-head .r-head {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  margin-right: 0.6rem;
+  gap: 1.5rem;
+}
+
+.header .wrap-head .r-head #user-head {
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+}
+
+/* User Profile Button */
+.user-profile-btn {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: #2bd9c6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #020202;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.user-profile-btn:hover {
+  background: #25b8a7;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 10px rgba(43, 217, 198, 0.4);
+}
+
+/* Dropdown Menu */
+.dropdown-menu {
+  position: absolute;
+  top: 120%;
+  right: 0;
+  z-index: 1000;
+  display: none;
+  min-width: 10rem;
+  padding: 0.4rem 0;
+  margin: 0.125rem 0 0;
+  font-size: 1rem;
+  color: #848484;
+  text-align: left;
+  list-style: none;
+  background-color: #161616;
+  border: 0 solid #208e79;
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+.dropdown-menu.show {
+  display: block;
+}
+
+.dropdown-item {
+  display: block;
+  width: 100%;
+  padding: 0.5rem 1rem;
+  clear: both;
+  font-weight: 400;
+  color: #c5c5c8;
+  text-align: inherit;
+  white-space: nowrap;
+  background-color: transparent;
+  border: 0;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: all 0.2s ease;
+}
+
+.dropdown-item:hover {
+  background-color: #2a2a2a;
+  color: #b6fff5;
+}
+
+/* Mobile Navigation Button */
+.header .wrap-head .l-head #head-nav-btn {
+  margin-right: 0.1rem;
+  cursor: pointer;
+  color: #b6fff5;
+  transition: color 0.4s;
+  display: none;
+}
+
+.header .wrap-head .l-head #head-nav-btn:hover {
+  color: #208e79;
+}
+
+/* Material Icons */
+.material-icons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-feature-settings: 'liga';
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Responsive Design */
+@media (max-width: 1199.98px) {
+  .header .wrap-head .l-head {
+    flex-direction: row-reverse;
+  }
+
+  .header .wrap-head .l-head #head-nav-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .header .wrap-head .l-head #head-nav {
+    top: 95%;
+    position: absolute;
+    display: none;
+    margin-left: 0;
+    left: 0;
+    background: #020202;
+    width: 100%;
+    padding: 1rem;
+    border-radius: 0 0 1rem 1rem;
+  }
+
+  .header .wrap-head .l-head #head-nav.show {
+    display: block;
+  }
+
+  .header .wrap-head .l-head #head-nav>ul {
+    flex-direction: column;
+  }
+
+  .header .wrap-head .l-head #head-nav>ul>li>a {
+    padding: 0.75rem 1rem;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .header .wrap-head {
+    height: 5rem;
+  }
+
+  .header .wrap-head .l-head .head-logo img {
+    height: 2.5rem;
+  }
+
+  .header .wrap-head .r-head {
+    gap: 1rem;
+  }
+}
