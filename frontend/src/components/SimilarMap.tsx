@@ -69,8 +69,8 @@ const SimilarMap: React.FC<SimilarMapProps> = ({ sourceShow, similarShows, onSho
                     <div
                         className="similar-map-node similar-map-node-center"
                         style={{
-                            width: '120px',
-                            height: '120px',
+                            width: '100px',
+                            height: '150px',
                             left: '50%',
                             top: '50%',
                             transform: 'translate(-50%, -50%)',
@@ -96,8 +96,8 @@ const SimilarMap: React.FC<SimilarMapProps> = ({ sourceShow, similarShows, onSho
                                 key={show.id}
                                 className="similar-map-node animated"
                                 style={{
-                                    width: '80px',
-                                    height: '80px',
+                                    width: '60px',
+                                    height: '90px',
                                     left: '50%',
                                     top: '50%',
                                     // CSS variables for base position and float offsets
