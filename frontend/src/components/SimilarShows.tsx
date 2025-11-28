@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from 'react';
-import { getSimilarShows, type Show } from '../services/api';
+import { getSimilarMap, type Show } from '../services/api';
+import SimilarMap from './SimilarMap';
+import '../styles/SimilarShows.css';
 
 interface SimilarShowsProps {
     showId: number;
@@ -17,7 +19,7 @@ const SimilarShows: React.FC<SimilarShowsProps> = ({ showId, onBack, onShowClick
     useEffect(() => {
         const loadSimilar = async () => {
             setIsLoading(true);
-            const data = await getSimilarShows(showId);
+            const data = await getSimilarMap(showId);
             setSourceShow(data.source_item);
             setSimilarShows(data.similar_items || []);
             setIsLoading(false);
@@ -29,148 +31,195 @@ const SimilarShows: React.FC<SimilarShowsProps> = ({ showId, onBack, onShowClick
     if (isLoading) {
         return (
             <div style={{ padding: '2rem', textAlign: 'center', color: 'white' }}>
-                <h2>Loading similar shows...</h2>
+                <h2>Loading...</h2>
             </div>
         );
     }
 
-    const isInList = sourceShow ? myList.some(s => String(s.id) === String(sourceShow.id)) : false;
+    if (!sourceShow) {
+        return (
+            <div style={{ padding: '2rem', textAlign: 'center', color: 'white' }}>
+                <h2>Show not found</h2>
+                <button onClick={onBack}>Back to Home</button>
+            </div>
+        );
+    }
+
+    // Helper functions
+    const getDisplayName = (show: Show): string => {
+        return show.title || show.name || 'Unknown';
+    };
+
+    const getYear = (show: Show): string => {
+        if (show.year) return String(show.year);
+        if (show.first_air_date) {
+            return show.first_air_date.substring(0, 4);
+        }
+        return '';
+    };
+
+    const formatVoteCount = (count: number): string => {
+        if (count >= 1000) {
+            return `${(count / 1000).toFixed(1)}K`;
+        }
+        return String(count);
+    };
+
+    const displayName = getDisplayName(sourceShow);
+    const year = getYear(sourceShow);
+    const backgroundImage = sourceShow.backdrop_path || sourceShow.poster_path;
 
     return (
-        <div>
-            {sourceShow && (
-                <div style={{
-                    height: '70vh',
-                    background: `linear-gradient(to bottom, rgba(0,0,0,0.3), rgba(0,0,0,0.9)), url(https://image.tmdb.org/t/p/original${sourceShow.poster_path})`,
-                    backgroundSize: 'cover',
-                    backgroundPosition: 'center',
-                    display: 'flex',
-                    flexDirection: 'column',
-                    justifyContent: 'flex-end',
-                    padding: '3rem',
-                    position: 'relative'
-                }}>
-                    <button
-                        onClick={onBack}
-                        style={{
-                            position: 'absolute',
-                            top: '2rem',
-                            left: '2rem',
-                            background: 'rgba(0,0,0,0.5)',
-                            color: 'white',
-                            border: '1px solid rgba(255,255,255,0.3)',
-                            padding: '0.5rem 1.5rem',
-                            borderRadius: '4px',
-                            cursor: 'pointer',
-                            backdropFilter: 'blur(5px)'
-                        }}
-                    >
-                        ← Back to Home
-                    </button>
+        <div className="similar-detail-page">
+            {/* Back button - positioned absolute */}
+            <button
+                onClick={onBack}
+                style={{
+                    position: 'fixed',
+                    top: '6rem',
+                    left: '2rem',
+                    background: 'rgba(0,0,0,0.7)',
+                    color: 'white',
+                    border: '1px solid rgba(255,255,255,0.3)',
+                    padding: '0.75rem 1.5rem',
+                    borderRadius: '8px',
+                    cursor: 'pointer',
+                    backdropFilter: 'blur(10px)',
+                    zIndex: 1000,
+                    fontSize: '1rem',
+                    fontWeight: '600',
+                    transition: 'all 0.3s ease',
+                }}
+                onMouseEnter={(e) => {
+                    e.currentTarget.style.background = 'rgba(43, 217, 198, 0.2)';
+                    e.currentTarget.style.borderColor = 'var(--color-accent)';
+                }}
+                onMouseLeave={(e) => {
+                    e.currentTarget.style.background = 'rgba(0,0,0,0.7)';
+                    e.currentTarget.style.borderColor = 'rgba(255,255,255,0.3)';
+                }}
+            >
+                ← Back
+            </button>
 
-                    <h1 style={{ fontSize: '3rem', color: 'white', marginBottom: '1rem' }}>
-                        {sourceShow.title}
-                    </h1>
-                    <div style={{ color: 'var(--color-text-muted)', marginBottom: '1rem', fontSize: '1.1rem' }}>
-                        {sourceShow.year} • {sourceShow.genres?.join(', ')}
+            {/* Section 2: Detail Hero */}
+            <div className="detail-hero">
+                <div
+                    className="detail-hero-background"
+                    style={{
+                        backgroundImage: backgroundImage
+                            ? `url(https://image.tmdb.org/t/p/original${backgroundImage})`
+                            : 'none',
+                    }}
+                />
+
+                <div className="detail-hero-content">
+                    {/* Left: Poster */}
+                    <div className="detail-hero-poster">
+                        <img
+                            src={`https://image.tmdb.org/t/p/w500${sourceShow.poster_path}`}
+                            alt={displayName}
+                        />
                     </div>
-                    {sourceShow.overview && (
-                        <p style={{ maxWidth: '700px', color: 'white', marginBottom: '1.5rem', fontSize: '1.1rem', lineHeight: '1.6' }}>
-                            {sourceShow.overview}
-                        </p>
-                    )}
 
-                    <div style={{ display: 'flex', gap: '1rem' }}>
-                        <button
-                            type="button"
-                            onClick={(e) => {
-                                e.stopPropagation();
-                                onToggleList(sourceShow);
-                            }}
-                            style={{
-                                background: isInList ? 'var(--color-accent)' : 'rgba(255,255,255,0.2)',
-                                color: isInList ? 'black' : 'white',
-                                border: isInList ? 'none' : '1px solid white',
-                                padding: '0.75rem 2rem',
-                                borderRadius: '4px',
-                                fontSize: '1rem',
-                                cursor: 'pointer',
-                                fontWeight: 'bold',
-                                display: 'flex',
-                                alignItems: 'center',
-                                gap: '0.5rem'
-                            }}
-                        >
-                            {isInList ? '✓ In My List' : '+ My List'}
-                        </button>
+                    {/* Right: Metadata */}
+                    <div className="detail-hero-metadata">
+                        <h1 className="detail-hero-title">{displayName}</h1>
+
+                        <div className="detail-hero-subtitle">
+                            {year && <span>{year}</span>}
+                            {sourceShow.number_of_seasons && (
+                                <span>{sourceShow.number_of_seasons} Season{sourceShow.number_of_seasons > 1 ? 's' : ''}</span>
+                            )}
+                            {sourceShow.genres && sourceShow.genres.length > 0 && (
+                                <span>{sourceShow.genres.join(', ')}</span>
+                            )}
+                        </div>
+
+                        {/* Badges */}
+                        <div className="detail-hero-badges">
+                            {sourceShow.vote_average && (
+                                <div className="detail-hero-badge score">
+                                    <span className="detail-hero-badge-icon">⭐</span>
+                                    <span>{sourceShow.vote_average.toFixed(1)}</span>
+                                </div>
+                            )}
+                            {sourceShow.vote_count && (
+                                <div className="detail-hero-badge">
+                                    <span>{formatVoteCount(sourceShow.vote_count)} votes</span>
+                                </div>
+                            )}
+                            {sourceShow.number_of_episodes && (
+                                <div className="detail-hero-badge">
+                                    <span>{sourceShow.number_of_episodes} Episodes</span>
+                                </div>
+                            )}
+                        </div>
+
+                        {/* Overview */}
+                        {sourceShow.overview && (
+                            <p className="detail-hero-overview">{sourceShow.overview}</p>
+                        )}
                     </div>
                 </div>
+            </div>
+
+            {/* Section 3: Visual Similarity Map */}
+            {similarShows.length > 0 && (
+                <SimilarMap
+                    sourceShow={sourceShow}
+                    similarShows={similarShows}
+                    onShowClick={onShowClick}
+                />
             )}
 
-            <div style={{ padding: '2rem' }}>
-                <h2 style={{ color: 'white', marginBottom: '1.5rem' }}>
-                    Similar Shows ({similarShows.length})
-                </h2>
+            {/* Section 4: "More Like This" Grid */}
+            <div className="similar-grid-section">
+                <h2 className="similar-grid-title">More Like This</h2>
 
                 {similarShows.length === 0 ? (
                     <div style={{ color: 'var(--color-text-muted)', padding: '2rem', textAlign: 'center' }}>
-                        No similar shows found. Try another show!
+                        No similar shows found.
                     </div>
                 ) : (
-                    <div style={{
-                        display: 'grid',
-                        gridTemplateColumns: 'repeat(auto-fill, minmax(200px, 1fr))',
-                        gap: '1.5rem'
-                    }}>
-                        {similarShows.map(show => (
-                            <div
-                                key={show.id}
-                                onClick={() => onShowClick(show.id)}
-                                style={{
-                                    background: 'rgba(255,255,255,0.05)',
-                                    borderRadius: '8px',
-                                    overflow: 'hidden',
-                                    transition: 'transform 0.2s',
-                                    cursor: 'pointer'
-                                }}
-                                className="hover-card"
-                            >
-                                {show.poster_path && (
-                                    <img
-                                        src={`https://image.tmdb.org/t/p/w500${show.poster_path}`}
-                                        alt={show.title}
-                                        style={{ width: '100%', height: '300px', objectFit: 'cover' }}
-                                    />
-                                )}
-                                <div style={{ padding: '1rem' }}>
-                                    {show.similarity_percent && (
-                                        <div style={{
-                                            background: 'var(--color-accent)',
-                                            color: 'black',
-                                            padding: '0.25rem 0.75rem',
-                                            borderRadius: '20px',
-                                            display: 'inline-block',
-                                            fontSize: '0.85rem',
-                                            fontWeight: 'bold',
-                                            marginBottom: '0.5rem'
-                                        }}>
-                                            {show.similarity_percent}% Match
-                                        </div>
-                                    )}
-                                    <h3 style={{ color: 'white', fontSize: '1rem', marginBottom: '0.25rem' }}>
-                                        {show.title}
-                                    </h3>
-                                    <div style={{ color: 'var(--color-text-muted)', fontSize: '0.9rem' }}>
-                                        {show.year}
+                    <div className="similar-grid-container">
+                        {similarShows.map((show) => {
+                            const showDisplayName = getDisplayName(show);
+                            const showYear = getYear(show);
+
+                            return (
+                                <div
+                                    key={show.id}
+                                    className="similar-grid-card"
+                                    onClick={() => onShowClick(show.id)}
+                                >
+                                    <div className="similar-grid-card-poster">
+                                        {show.similarity_percent && (
+                                            <div className="similar-grid-card-badge">
+                                                {show.similarity_percent}%
+                                            </div>
+                                        )}
+                                        <img
+                                            src={`https://image.tmdb.org/t/p/w500${show.poster_path}`}
+                                            alt={showDisplayName}
+                                        />
                                     </div>
-                                    {show.genres && (
-                                        <div style={{ color: 'var(--color-accent)', fontSize: '0.85rem', marginTop: '0.5rem' }}>
-                                            {show.genres.join(', ')}
+
+                                    <div className="similar-grid-card-info">
+                                        <h3>{showDisplayName}</h3>
+                                        <div className="similar-grid-card-meta">
+                                            {showYear && <span>{showYear}</span>}
+                                            {show.vote_average && <span>⭐ {show.vote_average.toFixed(1)}</span>}
                                         </div>
-                                    )}
+                                        {show.genres && show.genres.length > 0 && (
+                                            <div className="similar-grid-card-genres">
+                                                {show.genres.join(', ')}
+                                            </div>
+                                        )}
+                                    </div>
                                 </div>
-                            </div>
-                        ))}
+                            );
+                        })}
                     </div>
                 )}
             </div>

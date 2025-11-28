@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "Bash(rm:*)",
-      "Bash(dir:*)"
+      "Bash(dir:*)",
+      "Bash(docker-compose logs:*)",
+      "Bash(docker exec:*)"
     ],
     "deny": [],
     "ask": []

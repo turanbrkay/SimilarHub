@@ -327,6 +327,52 @@ def simple_similar(tv_id):
     })
 
 
+@app.route('/similar-map/<int:item_id>')
+@app.route('/api/similar-map/<int:item_id>')
+def similar_map(item_id):
+    """Enhanced similar items endpoint for visual similarity map with real database fields"""
+    conn = get_db_connection()
+    with conn.cursor(cursor_factory=psycopg2.extras.RealDictCursor) as cur:
+        # Get source item with all available fields from actual schema
+        cur.execute("""
+            SELECT id, title, poster_path, overview, genres, popularity,
+                   year, original_language, source_type
+            FROM media_items
+            WHERE id = %s AND source_type = 'tv'
+        """, (item_id,))
+        source_item = cur.fetchone()
+
+        if not source_item:
+            conn.close()
+            return jsonify({"error": "Item not found"}), 404
+
+        # Get similar items with posters (temporary: popularity-based)
+        # Later this will be replaced with FAISS-based similarity
+        cur.execute("""
+            SELECT id, title, poster_path, overview, genres, popularity, year
+            FROM media_items
+            WHERE source_type = 'tv'
+              AND id != %s
+              AND poster_path IS NOT NULL
+              AND poster_path != ''
+            ORDER BY popularity DESC
+            LIMIT 25
+        """, (item_id,))
+
+        similar_items = cur.fetchall()
+
+        # Generate similarity_percent (descending from 98)
+        for i, item in enumerate(similar_items):
+            item['similarity_percent'] = max(60, 98 - (i * 2))
+
+    conn.close()
+
+    return jsonify({
+        "source_item": source_item,
+        "similar_items": similar_items
+    })
+
+
 if __name__ == '__main__':
     load_resources()
     debug_mode = os.getenv('FLASK_DEBUG', '0').lower() in ['1', 'true', 'yes']

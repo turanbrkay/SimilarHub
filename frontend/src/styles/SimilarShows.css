@@ -1,0 +1,500 @@
+/* SimilarShows Detail Page Styles */
+
+.similar-detail-page {
+    min-height: 100vh;
+    background: var(--color-background);
+}
+
+/* ==================== SECTION 2: DETAIL HERO ==================== */
+
+.detail-hero {
+    position: relative;
+    min-height: 500px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.detail-hero-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    filter: blur(40px);
+    transform: scale(1.1);
+    z-index: 0;
+}
+
+.detail-hero-background::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to right,
+        rgba(0,0,0,0.95) 0%,
+        rgba(0,0,0,0.7) 50%,
+        rgba(0,0,0,0.95) 100%);
+}
+
+.detail-hero-content {
+    position: relative;
+    z-index: 1;
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 3rem 2rem;
+    display: grid;
+    grid-template-columns: 300px 1fr;
+    gap: 3rem;
+    align-items: start;
+}
+
+.detail-hero-poster {
+    width: 300px;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
+}
+
+.detail-hero-poster img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.detail-hero-metadata {
+    padding-top: 1rem;
+}
+
+.detail-hero-title {
+    font-size: 3rem;
+    font-weight: 700;
+    color: var(--color-text);
+    margin: 0 0 1rem 0;
+    line-height: 1.2;
+}
+
+.detail-hero-subtitle {
+    font-size: 1.1rem;
+    color: var(--color-text-muted);
+    margin-bottom: 1.5rem;
+}
+
+.detail-hero-subtitle span {
+    margin-right: 0.5rem;
+}
+
+.detail-hero-subtitle span:not(:last-child)::after {
+    content: '•';
+    margin-left: 0.5rem;
+    color: var(--color-accent);
+}
+
+.detail-hero-badges {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-bottom: 1.5rem;
+}
+
+.detail-hero-badge {
+    background: rgba(43, 217, 198, 0.15);
+    border: 1px solid var(--color-accent);
+    color: var(--color-text);
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    font-size: 0.95rem;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+}
+
+.detail-hero-badge.score {
+    background: rgba(255, 215, 0, 0.15);
+    border-color: #ffd700;
+}
+
+.detail-hero-badge-icon {
+    font-size: 1.1rem;
+}
+
+.detail-hero-overview {
+    max-width: 700px;
+    color: var(--color-text);
+    font-size: 1.05rem;
+    line-height: 1.7;
+    margin: 0;
+}
+
+/* Responsive Hero */
+@media (max-width: 991px) {
+    .detail-hero-content {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+
+    .detail-hero-poster {
+        width: 100%;
+        max-width: 300px;
+        margin: 0 auto;
+    }
+
+    .detail-hero-title {
+        font-size: 2.5rem;
+        text-align: center;
+    }
+
+    .detail-hero-subtitle {
+        text-align: center;
+    }
+
+    .detail-hero-badges {
+        justify-content: center;
+    }
+
+    .detail-hero-overview {
+        text-align: center;
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 767px) {
+    .detail-hero {
+        min-height: auto;
+    }
+
+    .detail-hero-content {
+        padding: 2rem 1rem;
+    }
+
+    .detail-hero-title {
+        font-size: 2rem;
+    }
+}
+
+/* ==================== SECTION 3: SIMILARITY MAP ==================== */
+
+.similar-map-section {
+    padding: 4rem 2rem;
+    background: var(--color-bg);
+}
+
+.similar-map-title {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--color-text);
+    margin: 0 0 3rem 0;
+}
+
+.similar-map-container {
+    max-width: 800px;
+    height: 600px;
+    margin: 0 auto;
+    position: relative;
+    background: rgba(255, 255, 255, 0.02);
+    border-radius: 16px;
+    border: 1px solid rgba(43, 217, 198, 0.1);
+}
+
+.similar-map-canvas {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    height: 100%;
+}
+
+.similar-map-node {
+    position: absolute;
+    cursor: pointer;
+    transition: transform 0.3s ease, z-index 0s 0.3s;
+    will-change: transform;
+}
+
+.similar-map-node:hover {
+    z-index: 100;
+    transition: transform 0.3s ease, z-index 0s 0s;
+}
+
+.similar-map-node-poster {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 2px solid rgba(43, 217, 198, 0.3);
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+.similar-map-node:hover .similar-map-node-poster {
+    border-color: var(--color-accent);
+    box-shadow: 0 0 20px rgba(43, 217, 198, 0.5);
+    transform: scale(1.15);
+}
+
+.similar-map-node-poster img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.similar-map-node-center .similar-map-node-poster {
+    border-width: 3px;
+    border-color: var(--color-accent);
+    box-shadow: 0 0 30px rgba(43, 217, 198, 0.6);
+}
+
+/* Hover Card */
+.similar-map-hover-card {
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-10px);
+    background: rgba(15, 16, 20, 0.98);
+    border: 1px solid var(--color-accent);
+    border-radius: 12px;
+    padding: 1rem;
+    min-width: 250px;
+    max-width: 300px;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.3s ease, transform 0.3s ease;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+}
+
+.similar-map-node:hover .similar-map-hover-card {
+    opacity: 1;
+    transform: translateX(-50%) translateY(-5px);
+}
+
+.similar-map-hover-card-poster {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 0.75rem;
+    overflow: hidden;
+}
+
+.similar-map-hover-card-poster img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.similar-map-hover-card-info h3 {
+    margin: 0 0 0.5rem 0;
+    font-size: 1.1rem;
+    color: var(--color-text);
+    font-weight: 600;
+}
+
+.similar-map-hover-card-info p {
+    margin: 0 0 0.5rem 0;
+    font-size: 0.9rem;
+    color: var(--color-text-muted);
+    line-height: 1.4;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+}
+
+.similar-map-hover-card-similarity {
+    display: inline-block;
+    background: var(--color-accent);
+    color: #000;
+    padding: 0.25rem 0.75rem;
+    border-radius: 12px;
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+
+/* Floating Animation */
+@keyframes float {
+    0%, 100% {
+        transform: translate(var(--base-x), var(--base-y)) translate(0, 0);
+    }
+    25% {
+        transform: translate(var(--base-x), var(--base-y)) translate(var(--float-x), var(--float-y));
+    }
+    50% {
+        transform: translate(var(--base-x), var(--base-y)) translate(calc(var(--float-x) * -1), var(--float-y));
+    }
+    75% {
+        transform: translate(var(--base-x), var(--base-y)) translate(var(--float-x), calc(var(--float-y) * -1));
+    }
+}
+
+.similar-map-node.animated {
+    animation: float 4s ease-in-out infinite;
+}
+
+/* Responsive Map */
+@media (max-width: 1199px) {
+    .similar-map-container {
+        max-width: 600px;
+        height: 450px;
+    }
+
+    .similar-map-node {
+        transform: scale(0.8);
+    }
+}
+
+@media (max-width: 767px) {
+    .similar-map-section {
+        padding: 3rem 1rem;
+    }
+
+    .similar-map-container {
+        height: 400px;
+    }
+
+    .similar-map-node {
+        transform: scale(0.6);
+    }
+
+    .similar-map-hover-card {
+        min-width: 200px;
+    }
+}
+
+/* Reduced motion */
+@media (prefers-reduced-motion: reduce) {
+    .similar-map-node.animated {
+        animation: none;
+    }
+}
+
+/* ==================== SECTION 4: MORE LIKE THIS GRID ==================== */
+
+.similar-grid-section {
+    padding: 4rem 2rem;
+    background: var(--color-background);
+}
+
+.similar-grid-title {
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--color-text);
+    margin: 0 0 2rem 0;
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.similar-grid-container {
+    max-width: 1400px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 2rem;
+}
+
+.similar-grid-card {
+    background: rgba(255, 255, 255, 0.03);
+    border-radius: 12px;
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+    position: relative;
+}
+
+.similar-grid-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 24px rgba(43, 217, 198, 0.3);
+}
+
+.similar-grid-card-poster {
+    position: relative;
+    width: 100%;
+    padding-bottom: 150%;
+    overflow: hidden;
+}
+
+.similar-grid-card-poster img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.similar-grid-card-badge {
+    position: absolute;
+    top: 0.75rem;
+    left: 0.75rem;
+    background: var(--color-accent);
+    color: #000;
+    padding: 0.4rem 0.8rem;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    font-weight: 700;
+    z-index: 10;
+}
+
+.similar-grid-card-info {
+    padding: 1rem;
+}
+
+.similar-grid-card-info h3 {
+    margin: 0 0 0.5rem 0;
+    font-size: 1.1rem;
+    color: var(--color-text);
+    font-weight: 600;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.similar-grid-card-meta {
+    display: flex;
+    gap: 0.5rem;
+    color: var(--color-text-muted);
+    font-size: 0.9rem;
+}
+
+.similar-grid-card-meta span:not(:last-child)::after {
+    content: '•';
+    margin-left: 0.5rem;
+}
+
+.similar-grid-card-genres {
+    margin-top: 0.5rem;
+    color: var(--color-accent);
+    font-size: 0.85rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+/* Responsive Grid */
+@media (max-width: 991px) {
+    .similar-grid-container {
+        grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+        gap: 1.5rem;
+    }
+}
+
+@media (max-width: 767px) {
+    .similar-grid-section {
+        padding: 3rem 1rem;
+    }
+
+    .similar-grid-container {
+        grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+        gap: 1rem;
+    }
+
+    .similar-grid-title {
+        font-size: 1.5rem;
+    }
+}

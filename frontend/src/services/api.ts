@@ -4,13 +4,20 @@ const API_BASE = '/api';
 // Movie/Show interface matching backend
 export interface Show {
     id: number;
-    title: string;
-    year: number;
+    title?: string;      // For compatibility with old data
+    name?: string;       // Actual DB field
+    year?: number;
     poster_path: string;
     overview?: string;
     genres?: string[];
     popularity?: number;
     similarity_percent?: number;
+    vote_average?: number;
+    vote_count?: number;
+    number_of_seasons?: number;
+    number_of_episodes?: number;
+    first_air_date?: string;
+    backdrop_path?: string;
 }
 
 // Search for shows or return popular if query is too short
@@ -77,4 +84,16 @@ export async function getPopularShows(): Promise<Show[]> {
         return [];
     }
     return res.json();
+}
+
+// Get similar items for visual similarity map with enhanced database fields
+export async function getSimilarMap(itemId: number): Promise<{ source_item: Show, similar_items: Show[] }> {
+    try {
+        const response = await fetch(`${API_BASE}/similar-map/${itemId}`);
+        if (!response.ok) throw new Error('Failed to get similar items');
+        return await response.json();
+    } catch (error) {
+        console.error('Similar map error:', error);
+        return { source_item: {} as Show, similar_items: [] };
+    }
 }

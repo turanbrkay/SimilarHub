@@ -31,7 +31,7 @@ const Search: React.FC<SearchProps> = ({ onSearchSelect }) => {
     }, [query]);
 
     const handleSelect = (show: Show) => {
-        setQuery(show.title);
+        setQuery(show.title || show.name || '');
         setShowDropdown(false);
         onSearchSelect(show);
     };
@@ -65,12 +65,12 @@ const Search: React.FC<SearchProps> = ({ onSearchSelect }) => {
                             {show.poster_path && (
                                 <img
                                     src={`https://image.tmdb.org/t/p/w92${show.poster_path}`}
-                                    alt={show.title}
+                                    alt={show.title || show.name}
                                     className="nav-search-item-image"
                                 />
                             )}
                             <div className="nav-search-item-text">
-                                <div className="title">{show.title}</div>
+                                <div className="title">{show.title || show.name}</div>
                                 <div className="year">{show.year}</div>
                             </div>
                         </button>
