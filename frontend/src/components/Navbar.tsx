@@ -42,60 +42,60 @@ const Navbar: React.FC<NavbarProps> = ({
                                 />
                             </Link>
                         </div>
-
-                        <nav id="head-nav" className={showMobileNav ? 'show' : ''}>
-                            <ul>
-                                <li>
-                                    <a
-                                        href="#"
-                                        onClick={(e) => {
-                                            e.preventDefault();
-                                            onCategoryChange('movies');
-                                        }}
-                                        className={
-                                            activeCategory === 'movies'
-                                                ? 'nav-link active'
-                                                : 'nav-link'
-                                        }
-                                    >
-                                        MOVIES
-                                    </a>
-                                </li>
-                                <li>
-                                    <a
-                                        href="#"
-                                        onClick={(e) => {
-                                            e.preventDefault();
-                                            onCategoryChange('tvshows');
-                                        }}
-                                        className={
-                                            activeCategory === 'tvshows'
-                                                ? 'nav-link active'
-                                                : 'nav-link'
-                                        }
-                                    >
-                                        TV SHOWS
-                                    </a>
-                                </li>
-                                <li>
-                                    <a
-                                        href="#"
-                                        onClick={(e) => {
-                                            e.preventDefault();
-                                            onCategoryChange('books');
-                                        }}
-                                        className={
-                                            activeCategory === 'books'
-                                                ? 'nav-link active'
-                                                : 'nav-link'
-                                        }
-                                    >
-                                        BOOKS
-                                    </a>
-                                </li>
-                            </ul>
-                        </nav>
                     </div>
+
+                    <nav id="head-nav" className={showMobileNav ? 'show' : ''}>
+                        <ul>
+                            <li>
+                                <a
+                                    href="#"
+                                    onClick={(e) => {
+                                        e.preventDefault();
+                                        onCategoryChange('movies');
+                                    }}
+                                    className={
+                                        activeCategory === 'movies'
+                                            ? 'nav-link active'
+                                            : 'nav-link'
+                                    }
+                                >
+                                    MOVIES
+                                </a>
+                            </li>
+                            <li>
+                                <a
+                                    href="#"
+                                    onClick={(e) => {
+                                        e.preventDefault();
+                                        onCategoryChange('tvshows');
+                                    }}
+                                    className={
+                                        activeCategory === 'tvshows'
+                                            ? 'nav-link active'
+                                            : 'nav-link'
+                                    }
+                                >
+                                    TV SHOWS
+                                </a>
+                            </li>
+                            <li>
+                                <a
+                                    href="#"
+                                    onClick={(e) => {
+                                        e.preventDefault();
+                                        onCategoryChange('books');
+                                    }}
+                                    className={
+                                        activeCategory === 'books'
+                                            ? 'nav-link active'
+                                            : 'nav-link'
+                                    }
+                                >
+                                    BOOKS
+                                </a>
+                            </li>
+                        </ul>
+                    </nav>
 
                     {/* Right Head - Search & User */}
                     <div className="r-head">
