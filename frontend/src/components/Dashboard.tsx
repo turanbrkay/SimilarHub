@@ -5,7 +5,7 @@ import { searchShows, getPopularShows, type Show } from '../services/api';
 import '../styles/Dashboard.css';
 
 const Dashboard: React.FC = () => {
-    const [activeCategory, setActiveCategory] = useState<'movies' | 'tvshows'>('tvshows');
+    const [activeCategory, setActiveCategory] = useState<'movies' | 'tvshows' | 'books'>('tvshows');
     const [view, setView] = useState<'home' | 'mylist' | 'similar'>('home');
     const [shows, setShows] = useState<Show[]>([]);
     const [selectedShowId, setSelectedShowId] = useState<number | null>(null);

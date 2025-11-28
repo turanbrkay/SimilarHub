@@ -19,10 +19,10 @@
 #intro .main {
     flex-grow: 1;
     background: linear-gradient(100deg,
-            rgba(0, 0, 0, 0.75) 0%,
-            rgba(0, 0, 0, 0.85) 20%,
+            rgba(0, 0, 0, 0.50) 0%,
+            rgba(0, 0, 0, 0.55) 20%,
             rgba(0, 0, 0, 0.92) 40%,
-            rgba(0, 0, 0, 0.75) 100%);
+            rgba(0, 0, 0, 0.85) 100%);
     padding-left: 30%;
     padding-right: 6%;
     padding-top: 2.5rem;

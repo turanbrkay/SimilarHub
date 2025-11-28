@@ -60,3 +60,6 @@ embeddings/*.npy
 
 # Docker
 .docker/
+
+start-project.bat
+stop-project.bat

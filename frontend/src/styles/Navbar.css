@@ -39,7 +39,10 @@
   vertical-align: middle;
   border-style: none;
   margin-left: 1rem;
-  height: 3.0rem;
+  height: auto;
+  max-height: 3rem;
+  width: auto;
+  max-width: 140px;
 }
 
 .header .wrap-head .l-head #head-nav {
@@ -284,5 +287,109 @@
 
   .header .wrap-head .r-head {
     gap: 1rem;
+  }
+}
+
+.nav-search {
+  position: relative;
+  width: 320px;
+  max-width: 100%;
+}
+
+.nav-search-input-wrap {
+  display: flex;
+  align-items: center;
+  background: rgba(15, 16, 20, 0.96);
+  border-radius: 999px;
+  padding: 0.35rem 0.9rem;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.55);
+}
+
+.nav-search-icon {
+  font-size: 1.1rem;
+  color: var(--color-accent);
+  margin-right: 0.4rem;
+}
+
+.nav-search-input {
+  flex: 1;
+  background: transparent;
+  border: none;
+  outline: none;
+  color: #f5f6fa;
+  font-size: 0.9rem;
+  padding: 0.35rem 0.25rem;
+  min-width: 0;
+}
+
+.nav-search-input::placeholder {
+  color: #6e7078;
+}
+
+.nav-search-loading {
+  font-size: 0.8rem;
+  color: var(--color-accent);
+  margin-left: 0.3rem;
+}
+
+/* Search dropdown */
+.nav-search-results {
+  position: absolute;
+  top: calc(100% + 0.35rem);
+  left: 0;
+  right: 0;
+  background: var(--color-surface);
+  border-radius: 0.5rem;
+  z-index: 100;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.7);
+  max-height: 420px;
+  overflow-y: auto;
+}
+
+.nav-search-item {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.6rem 0.75rem;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  border-bottom: 1px solid #262626;
+  text-align: left;
+}
+
+.nav-search-item:hover {
+  background: #161616;
+}
+
+.nav-search-item-image {
+  width: 32px;
+  height: 48px;
+  object-fit: cover;
+  border-radius: 3px;
+  flex-shrink: 0;
+}
+
+.nav-search-item-text .title {
+  color: #ffffff;
+  font-size: 0.9rem;
+}
+
+.nav-search-item-text .year {
+  color: var(--color-text-muted);
+  font-size: 0.8rem;
+}
+
+/* Küçük ekranlarda search bar genişliği */
+@media (max-width: 575.98px) {
+  .nav-search {
+    width: 100%;
+  }
+
+  .header .wrap-head .r-head {
+    flex-direction: row-reverse;
+    gap: 0.75rem;
   }
 }

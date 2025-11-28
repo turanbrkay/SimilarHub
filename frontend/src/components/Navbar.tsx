@@ -1,16 +1,23 @@
+// src/components/Navbar.tsx
 import React from 'react';
+import { Link } from 'react-router-dom';
 import Search from './Search';
 import type { Show } from '../services/api';
 import '../styles/Navbar.css';
 
 interface NavbarProps {
     onSearchSelect: (show: Show) => void;
-    activeCategory: 'movies' | 'tvshows';
-    onCategoryChange: (category: 'movies' | 'tvshows') => void;
+    activeCategory: 'movies' | 'tvshows' | 'books';
+    onCategoryChange: (category: 'movies' | 'tvshows' | 'books') => void;
     onMyListClick: () => void;
 }
 
-const Navbar: React.FC<NavbarProps> = ({ onSearchSelect, activeCategory, onCategoryChange, onMyListClick }) => {
+const Navbar: React.FC<NavbarProps> = ({
+    onSearchSelect,
+    activeCategory,
+    onCategoryChange,
+    onMyListClick
+}) => {
     const [showProfileMenu, setShowProfileMenu] = React.useState(false);
     const [showMobileNav, setShowMobileNav] = React.useState(false);
 
@@ -28,28 +35,28 @@ const Navbar: React.FC<NavbarProps> = ({ onSearchSelect, activeCategory, onCateg
                         </div>
 
                         <div className="head-logo">
-                            <img
-                                src="/assets/img/logo.png"
-                                alt="SimilarHub Logo"
-                            />
+                            <Link to="/">
+                                <img
+                                    src="/assets/img/logo.png"
+                                    alt="SimilarHub Logo"
+                                />
+                            </Link>
                         </div>
 
                         <nav id="head-nav" className={showMobileNav ? 'show' : ''}>
                             <ul>
                                 <li>
-                                    <a href="#" onClick={(e) => { e.preventDefault(); }}>GENRE</a>
-                                </li>
-                                <li>
-                                    <a href="#" onClick={(e) => { e.preventDefault(); }}>COUNTRY</a>
-                                </li>
-                                <li>
                                     <a
                                         href="#"
-                                        onClick={(e) => { e.preventDefault(); onCategoryChange('movies'); }}
-                                        style={{
-                                            color: activeCategory === 'movies' ? '#2bd9c6' : 'rgb(153, 255, 241)',
-                                            borderLeft: activeCategory === 'movies' ? '3px solid #28af95' : '3px solid transparent'
+                                        onClick={(e) => {
+                                            e.preventDefault();
+                                            onCategoryChange('movies');
                                         }}
+                                        className={
+                                            activeCategory === 'movies'
+                                                ? 'nav-link active'
+                                                : 'nav-link'
+                                        }
                                     >
                                         MOVIES
                                     </a>
@@ -57,17 +64,34 @@ const Navbar: React.FC<NavbarProps> = ({ onSearchSelect, activeCategory, onCateg
                                 <li>
                                     <a
                                         href="#"
-                                        onClick={(e) => { e.preventDefault(); onCategoryChange('tvshows'); }}
-                                        style={{
-                                            color: activeCategory === 'tvshows' ? '#2bd9c6' : 'rgb(153, 255, 241)',
-                                            borderLeft: activeCategory === 'tvshows' ? '3px solid #28af95' : '3px solid transparent'
+                                        onClick={(e) => {
+                                            e.preventDefault();
+                                            onCategoryChange('tvshows');
                                         }}
+                                        className={
+                                            activeCategory === 'tvshows'
+                                                ? 'nav-link active'
+                                                : 'nav-link'
+                                        }
                                     >
                                         TV SHOWS
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="#" onClick={(e) => { e.preventDefault(); }}>TOP IMDB</a>
+                                    <a
+                                        href="#"
+                                        onClick={(e) => {
+                                            e.preventDefault();
+                                            onCategoryChange('books');
+                                        }}
+                                        className={
+                                            activeCategory === 'books'
+                                                ? 'nav-link active'
+                                                : 'nav-link'
+                                        }
+                                    >
+                                        BOOKS
+                                    </a>
                                 </li>
                             </ul>
                         </nav>
@@ -76,7 +100,6 @@ const Navbar: React.FC<NavbarProps> = ({ onSearchSelect, activeCategory, onCateg
                     {/* Right Head - Search & User */}
                     <div className="r-head">
                         <Search onSearchSelect={onSearchSelect} />
-
                     </div>
                 </div>
             </div>
