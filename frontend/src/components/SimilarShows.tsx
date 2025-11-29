@@ -209,12 +209,6 @@ const SimilarShows: React.FC<SimilarShowsProps> = ({ showId, onBack, onShowClick
                                         <h3>{showDisplayName}</h3>
                                         <div className="similar-grid-card-meta">
                                             <span>{show.source_type === 'movie' ? 'Movie' : 'TV Show'}</span>
-                                            {show.vote_average && (
-                                                <span className="similar-grid-card-rating">
-                                                    <span>⭐</span>
-                                                    <span>{show.vote_average.toFixed(1)}/10</span>
-                                                </span>
-                                            )}
                                         </div>
                                     </div>
                                 </div>
