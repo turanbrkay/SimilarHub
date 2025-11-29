@@ -40,6 +40,10 @@
     overflow: hidden;
     border: 1px solid rgba(255, 255, 255, 0.1);
     transform-origin: center bottom;
+
+    /* Stable positioning using CSS variables passed from React */
+    top: 10%;
+    transform: translateY(var(--stack-offset)) scale(var(--stack-scale));
 }
 
 .map-stack-card img {
@@ -57,16 +61,15 @@
 
 .map-stack-card.selected {
     border-color: #2bd9c6;
-    box-shadow: 0 0 20px rgba(43, 217, 198, 0.3);
-    z-index: 100 !important;
-    /* Always on top when selected */
+    box-shadow: 0 0 20px rgba(43, 217, 198, 0.5);
+    /* Selected card stays in place but gets highlighted */
+    z-index: 90;
 }
 
 .map-stack-card:hover {
-    transform: scale(1.05) translateY(-10px) !important;
-    /* Lift up on hover */
-    z-index: 110 !important;
-    /* Even higher on hover */
+    /* Lift up slightly relative to its calculated offset */
+    transform: translateY(calc(var(--stack-offset) - 15px)) scale(1.05) !important;
+    z-index: 100 !important;
     box-shadow: 0 15px 40px rgba(0, 0, 0, 0.7);
 }
 

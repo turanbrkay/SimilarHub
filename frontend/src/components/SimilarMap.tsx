@@ -19,13 +19,17 @@ interface NodePosition {
     showId: number;
 }
 
-const SimilarMap: React.FC<SimilarMapProps> = ({ sourceShow, similarShows, onShowClick }) => {
+const SimilarMap: React.FC<SimilarMapProps> = React.memo(({ sourceShow, similarShows, onShowClick }) => {
     const [hoveredShowId, setHoveredShowId] = useState<number | null>(null);
 
     // Refs for direct DOM manipulation (performance)
     const nodeRefs = useRef<Map<number, HTMLDivElement>>(new Map());
     const lineRefs = useRef<Map<number, SVGLineElement>>(new Map());
-    const animationRef = useRef<number | null>(null);
+
+    // OPTIMIZATION: Cap the number of nodes to 40 to prevent performance bottlenecks
+    const limitedShows = useMemo(() => {
+        return similarShows.slice(0, 40);
+    }, [similarShows]);
 
     // Calculate initial node positions
     const { positionMap, canvasWidth, canvasHeight } = useMemo(() => {
@@ -62,7 +66,7 @@ const SimilarMap: React.FC<SimilarMapProps> = ({ sourceShow, similarShows, onSho
         const radiusRange = outerRadius - innerRadius;
 
         // STEP 1: SORT by similarity (descending: highest first)
-        const sortedShows = similarShows.slice().sort((a, b) =>
+        const sortedShows = limitedShows.slice().sort((a, b) =>
             (b.similarity_percent || 50) - (a.similarity_percent || 50)
         );
 
@@ -144,7 +148,7 @@ const SimilarMap: React.FC<SimilarMapProps> = ({ sourceShow, similarShows, onSho
         positions.forEach(pos => posMap.set(pos.showId, pos));
 
         return { positionMap: posMap, canvasWidth: canvasW, canvasHeight: canvasH };
-    }, [sourceShow.id, similarShows]);
+    }, [sourceShow.id, limitedShows]);
 
     // Animation Loop
     useEffect(() => {
@@ -152,20 +156,34 @@ const SimilarMap: React.FC<SimilarMapProps> = ({ sourceShow, similarShows, onSho
         const centerX = canvasWidth / 2;
         const centerY = canvasHeight / 2;
 
+        let animationFrameId: number;
+
         const animate = (time: number) => {
             const elapsed = time - startTime;
 
-            positionMap.forEach((pos, showId) => {
+            // Optimize: Use for...of or regular loop instead of forEach for better performance in hot path
+            // Converting Map values to iterator
+            const posIterator = positionMap.values();
+            let result = posIterator.next();
+
+            while (!result.done) {
+                const pos = result.value;
+                const showId = pos.showId;
                 const nodeEl = nodeRefs.current.get(showId);
                 const lineEl = lineRefs.current.get(showId);
 
                 if (nodeEl) {
                     // Calculate organic float movement
-                    const floatX = Math.sin(elapsed * pos.floatSpeed + pos.floatOffset) * 6 +
-                        Math.cos(elapsed * pos.floatSpeed * 0.5 + pos.floatPhase) * 3;
+                    // Pre-calculate common terms if possible, but these depend on pos-specifics
+                    const speed = elapsed * pos.floatSpeed;
+                    const phase = pos.floatPhase;
+                    const offset = pos.floatOffset;
 
-                    const floatY = Math.cos(elapsed * pos.floatSpeed + pos.floatOffset) * 6 +
-                        Math.sin(elapsed * pos.floatSpeed * 0.5 + pos.floatPhase) * 3;
+                    const floatX = Math.sin(speed + offset) * 6 +
+                        Math.cos(speed * 0.5 + phase) * 3;
+
+                    const floatY = Math.cos(speed + offset) * 6 +
+                        Math.sin(speed * 0.5 + phase) * 3;
 
                     const currentX = pos.x + floatX;
                     const currentY = pos.y + floatY;
@@ -176,26 +194,23 @@ const SimilarMap: React.FC<SimilarMapProps> = ({ sourceShow, similarShows, onSho
                     // Update Line Position (if exists)
                     if (lineEl) {
                         // Line ends at the center of the card
-                        // pos.x/y are already relative to center, so we just add them to center coordinates
                         const lineEndX = centerX + currentX;
                         const lineEndY = centerY + currentY;
 
-                        // Note: We only update x2/y2. x1/y1 are fixed at center.
                         lineEl.setAttribute('x2', String(lineEndX));
                         lineEl.setAttribute('y2', String(lineEndY));
                     }
                 }
-            });
+                result = posIterator.next();
+            }
 
-            animationRef.current = requestAnimationFrame(animate);
+            animationFrameId = requestAnimationFrame(animate);
         };
 
-        animationRef.current = requestAnimationFrame(animate);
+        animationFrameId = requestAnimationFrame(animate);
 
         return () => {
-            if (animationRef.current) {
-                cancelAnimationFrame(animationRef.current);
-            }
+            cancelAnimationFrame(animationFrameId);
         };
     }, [positionMap, canvasWidth, canvasHeight]);
 
@@ -284,18 +299,12 @@ const SimilarMap: React.FC<SimilarMapProps> = ({ sourceShow, similarShows, onSho
                             </filter>
                         </defs>
 
-                        {similarShows.map((show) => {
+                        {limitedShows.map((show) => {
                             const pos = positionMap.get(show.id);
                             if (!pos) return null;
 
                             const centerX = canvasWidth / 2;
                             const centerY = canvasHeight / 2;
-
-                            // Cards are positioned with: left: 50%, top: 50%, transform: translate(base-x, base-y)
-                            // This means the card's TOP-LEFT corner is at: (canvasCenter + pos.x, canvasCenter + pos.y)
-                            // BUT our pos.x/pos.y are calculated as offsets from the center.
-                            // And the transform `translate(-50%, -50%)` centers the card on that point.
-                            // So the visual center of the card IS exactly at (centerX + pos.x, centerY + pos.y).
                             const nodeX = centerX + pos.x;
                             const nodeY = centerY + pos.y;
 
@@ -350,7 +359,7 @@ const SimilarMap: React.FC<SimilarMapProps> = ({ sourceShow, similarShows, onSho
                     </div>
 
                     {/* Similar nodes */}
-                    {similarShows.map((show) => {
+                    {limitedShows.map((show) => {
                         const pos = positionMap.get(show.id);
                         if (!pos) return null;
 
@@ -419,6 +428,6 @@ const SimilarMap: React.FC<SimilarMapProps> = ({ sourceShow, similarShows, onSho
             </div>
         </div>
     );
-};
+});
 
 export default SimilarMap;

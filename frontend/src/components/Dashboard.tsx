@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef, useCallback } from 'react';
 import Navbar from './Navbar';
 import SimilarShows from './SimilarShows';
 import HorizontalRow from './HorizontalRow';
@@ -88,9 +88,16 @@ const Dashboard: React.FC = () => {
         loadHeroMap();
     }, [heroSelectedShow]);
 
-    const handleHeroStackHover = (show: Show) => {
-        setHeroSelectedShow(show);
-    };
+    const hoverTimeoutRef = useRef<NodeJS.Timeout | null>(null);
+
+    const handleHeroStackHover = useCallback((show: Show) => {
+        if (hoverTimeoutRef.current) {
+            clearTimeout(hoverTimeoutRef.current);
+        }
+        hoverTimeoutRef.current = setTimeout(() => {
+            setHeroSelectedShow(show);
+        }, 300); // 300ms delay
+    }, []);
 
     const toggleMyList = (show: Show) => {
         const isInList = myList.some(s => String(s.id) === String(show.id));
@@ -105,7 +112,8 @@ const Dashboard: React.FC = () => {
                 overview: show.overview,
                 genres: show.genres,
                 popularity: show.popularity,
-                similarity_percent: show.similarity_percent
+                similarity_percent: show.similarity_percent,
+                source_type: show.source_type
             };
             setMyList([...myList, cleanShow]);
         }

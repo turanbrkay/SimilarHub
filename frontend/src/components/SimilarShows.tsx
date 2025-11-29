@@ -1,5 +1,3 @@
-
-
 import React, { useState, useEffect, useCallback } from 'react';
 import { getSimilarMap, type Show } from '../services/api';
 import SimilarMap from './SimilarMap';
@@ -32,20 +30,23 @@ const SimilarShows: React.FC<SimilarShowsProps> = ({ showId, onBack, onShowClick
     useEffect(() => {
         const loadSimilar = async () => {
             setIsLoading(true);
-            const data = await getSimilarMap(showId);
-            setSourceShow(data.source_item);
-
-            // Set full list and reset view to initial 3 rows
-            setAllSimilarShows(data.similar_items || []);
-            setVisibleRows(INITIAL_ROWS);
-
-            setIsLoading(false);
-            window.scrollTo({ top: 0, behavior: 'smooth' });
+            try {
+                const data = await getSimilarMap(showId);
+                setSourceShow(data.source_item);
+                // Set full list and reset view to initial 3 rows
+                setAllSimilarShows(data.similar_items || []);
+                setVisibleRows(INITIAL_ROWS);
+            } catch (error) {
+                console.error("Failed to load similar shows", error);
+            } finally {
+                setIsLoading(false);
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            }
         };
         loadSimilar();
     }, [showId]);
 
-    // Infinite Scroll Handler
+    // Infinite Scroll Handler (Throttled)
     const handleScroll = useCallback(() => {
         // Return early if we've reached max rows or ran out of items
         if (visibleRows >= MAX_ROWS || (visibleRows * ITEMS_PER_ROW) >= allSimilarShows.length) {
@@ -62,11 +63,44 @@ const SimilarShows: React.FC<SimilarShowsProps> = ({ showId, onBack, onShowClick
         }
     }, [visibleRows, allSimilarShows.length]);
 
-    // Attach scroll listener
+    // Attach scroll listener with debounce
     useEffect(() => {
-        window.addEventListener('scroll', handleScroll);
-        return () => window.removeEventListener('scroll', handleScroll);
+        let timeoutId: NodeJS.Timeout;
+
+        const onScroll = () => {
+            if (timeoutId) return;
+            timeoutId = setTimeout(() => {
+                handleScroll();
+                timeoutId = undefined as any;
+            }, 100);
+        };
+
+        window.addEventListener('scroll', onScroll);
+        return () => {
+            window.removeEventListener('scroll', onScroll);
+            if (timeoutId) clearTimeout(timeoutId);
+        };
     }, [handleScroll]);
+
+    // Helper functions
+    const getDisplayName = (show: Show): string => {
+        return show.title || show.name || 'Unknown';
+    };
+
+    const getYear = (show: Show): string => {
+        if (show.year) return String(show.year);
+        if (show.first_air_date) {
+            return show.first_air_date.substring(0, 4);
+        }
+        return '';
+    };
+
+    const formatVoteCount = (count: number): string => {
+        if (count >= 1000) {
+            return `${(count / 1000).toFixed(1)}K`;
+        }
+        return String(count);
+    };
 
     if (isLoading) {
         return (
@@ -88,26 +122,6 @@ const SimilarShows: React.FC<SimilarShowsProps> = ({ showId, onBack, onShowClick
     // Slice the master list based on current row count
     // This ensures sorting (from API) is preserved and no duplicates occur
     const visibleShows = allSimilarShows.slice(0, visibleRows * ITEMS_PER_ROW);
-
-    // Helper functions
-    const getDisplayName = (show: Show): string => {
-        return show.title || show.name || 'Unknown';
-    };
-
-    const getYear = (show: Show): string => {
-        if (show.year) return String(show.year);
-        if (show.first_air_date) {
-            return show.first_air_date.substring(0, 4);
-        }
-        return '';
-    };
-
-    const formatVoteCount = (count: number): string => {
-        if (count >= 1000) {
-            return `${(count / 1000).toFixed(1)}K`;
-        }
-        return String(count);
-    };
 
     const displayName = getDisplayName(sourceShow);
     const year = getYear(sourceShow);
@@ -198,7 +212,6 @@ const SimilarShows: React.FC<SimilarShowsProps> = ({ showId, onBack, onShowClick
                     <div className="similar-grid-container">
                         {visibleShows.map((show) => {
                             const showDisplayName = getDisplayName(show);
-                            const showYear = getYear(show);
 
                             return (
                                 <div
