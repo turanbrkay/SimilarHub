@@ -1,0 +1,142 @@
+.similar-map-section {
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    /* Fill the viewport */
+    max-height: 1000px;
+    /* Cap height on very tall screens */
+    min-height: 700px;
+    /* Minimum height for usability */
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 2rem;
+    /* Space before Weekly row */
+}
+
+/* LEFT COLUMN: Card Stack */
+.map-stack-container {
+    width: 28%;
+    /* Approx 25-30% */
+    height: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-left: 2rem;
+    z-index: 10;
+    /* Above map lines if they cross over */
+}
+
+.map-stack-card {
+    position: absolute;
+    width: 160px;
+    height: 240px;
+    background: #1a1a20;
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+    transition: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
+    cursor: pointer;
+    overflow: hidden;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    transform-origin: center bottom;
+}
+
+.map-stack-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.7;
+    transition: opacity 0.3s ease;
+}
+
+.map-stack-card:hover img,
+.map-stack-card.selected img {
+    opacity: 1;
+}
+
+.map-stack-card.selected {
+    border-color: #2bd9c6;
+    box-shadow: 0 0 20px rgba(43, 217, 198, 0.3);
+    z-index: 100 !important;
+    /* Always on top when selected */
+}
+
+.map-stack-card:hover {
+    transform: scale(1.05) translateY(-10px) !important;
+    /* Lift up on hover */
+    z-index: 110 !important;
+    /* Even higher on hover */
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.7);
+}
+
+/* RIGHT COLUMN: Map Container */
+.dashboard-map-container {
+    width: 72%;
+    /* Remaining width */
+    height: 100%;
+    position: relative;
+    /* Ensure map is fully visible */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Adjust SimilarMap internal container to fit */
+.dashboard-map-container .similar-map-section {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    background: transparent;
+    /* Ensure transparency */
+}
+
+.dashboard-map-container .similar-map-container {
+    height: 100%;
+    width: 100%;
+    max-width: none;
+    /* Remove any max-width constraints */
+}
+
+.dashboard-map-container .similar-map-canvas {
+    height: 100%;
+    width: 100%;
+}
+
+/* Responsive adjustments */
+@media (max-width: 1024px) {
+    .similar-map-section {
+        flex-direction: column;
+        height: auto;
+        min-height: auto;
+    }
+
+    .map-stack-container {
+        width: 100%;
+        height: 300px;
+        /* Fixed height for horizontal stack or similar */
+        flex-direction: row;
+        overflow-x: auto;
+        padding: 1rem;
+        justify-content: flex-start;
+    }
+
+    .map-stack-card {
+        position: relative;
+        margin-right: -60px;
+        /* Overlap horizontally */
+        transform: none !important;
+        /* Reset stack transforms */
+        flex-shrink: 0;
+    }
+
+    .map-stack-card:hover {
+        transform: translateY(-10px) !important;
+        margin-right: 10px;
+    }
+
+    .dashboard-map-container {
+        width: 100%;
+        height: 500px;
+    }
+}

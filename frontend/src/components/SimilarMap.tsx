@@ -258,6 +258,8 @@ const SimilarMap: React.FC<SimilarMapProps> = ({ sourceShow, similarShows, onSho
                     <svg
                         key={`connections-${sourceShow.id}`}
                         className="similar-map-connections"
+                        viewBox={`0 0 ${canvasWidth} ${canvasHeight}`}
+                        preserveAspectRatio="xMidYMid meet"
                         style={{
                             position: 'absolute',
                             top: 0,
