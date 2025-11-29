@@ -70,19 +70,16 @@
     gap: 0;
     position: relative;
     z-index: 1;
-    border: 1px solid rgba(43, 217, 198, 0.15);
-    border-radius: 8px;
-    padding: 1rem;
-    background: rgba(31, 33, 37, 0.3);
 }
 
 .ranked-grid-item {
     position: relative;
     cursor: pointer;
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     justify-content: center;
     padding: 1.5rem 1rem;
+    overflow: hidden;
 }
 
 /* Grid cell borders using pseudo-elements */
@@ -125,15 +122,15 @@
 /* Large Rank Number Behind Card */
 .ranked-number {
     position: absolute;
-    font-size: clamp(8rem, 12vw, 14rem);
+    font-size: clamp(6rem, 10vw, 10rem);
     font-weight: 900;
     color: transparent;
     -webkit-text-stroke: 3px rgba(43, 217, 198, 0.5);
     text-stroke: 3px rgba(43, 217, 198, 0.5);
     z-index: 0;
-    left: -10%;
-    top: 50%;
-    transform: translateY(-50%);
+    left: 0.5rem;
+    top: 0.5rem;
+    transform: none;
     pointer-events: none;
     line-height: 1;
     font-family: var(--font-family);
@@ -143,7 +140,9 @@
 
 /* Handle "10" kerning */
 .ranked-number-double {
-    letter-spacing: -0.1em;
+    font-size: clamp(5rem, 8vw, 8rem);
+    letter-spacing: -0.15em;
+    left: 0.3rem;
 }
 
 /* Hover state: fill with gradient */
@@ -155,7 +154,7 @@
     -webkit-text-stroke: 3px rgba(43, 217, 198, 0.8);
     text-stroke: 3px rgba(43, 217, 198, 0.8);
     text-shadow: 0 0 40px rgba(43, 217, 198, 0.6), 0 0 80px rgba(43, 217, 198, 0.3);
-    transform: translateY(-50%) scale(1.05) translateX(-3%);
+    transform: scale(1.05) translateX(-3%);
 }
 
 /* Card on Top of Number */
@@ -163,7 +162,7 @@
     position: relative;
     z-index: 2;
     width: 100%;
-    max-width: 200px;
+    max-width: 150px;
     border-radius: 12px;
     overflow: hidden;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -222,13 +221,17 @@
     }
 
     .ranked-card {
-        max-width: 180px;
+        max-width: 140px;
     }
 
     .ranked-number {
-        font-size: clamp(7rem, 11vw, 12rem);
+        font-size: clamp(5rem, 9vw, 9rem);
         -webkit-text-stroke: 2.5px rgba(43, 217, 198, 0.5);
         text-stroke: 2.5px rgba(43, 217, 198, 0.5);
+    }
+
+    .ranked-number-double {
+        font-size: clamp(4rem, 7vw, 7rem);
     }
 
     .ranked-grid-item:hover .ranked-number {
@@ -252,13 +255,17 @@
     }
 
     .ranked-card {
-        max-width: 160px;
+        max-width: 130px;
     }
 
     .ranked-number {
-        font-size: clamp(6rem, 10vw, 10rem);
+        font-size: clamp(4.5rem, 8vw, 8rem);
         -webkit-text-stroke: 2px rgba(43, 217, 198, 0.5);
         text-stroke: 2px rgba(43, 217, 198, 0.5);
+    }
+
+    .ranked-number-double {
+        font-size: clamp(3.5rem, 6vw, 6rem);
     }
 
     .ranked-grid-item:hover .ranked-number {
@@ -290,13 +297,17 @@
     }
 
     .ranked-card {
-        max-width: 140px;
+        max-width: 110px;
     }
 
     .ranked-number {
-        font-size: clamp(5rem, 9vw, 8rem);
+        font-size: clamp(4rem, 7vw, 7rem);
         -webkit-text-stroke: 2px rgba(43, 217, 198, 0.5);
         text-stroke: 2px rgba(43, 217, 198, 0.5);
+    }
+
+    .ranked-number-double {
+        font-size: clamp(3rem, 5vw, 5rem);
     }
 
     .ranked-grid-item:hover .ranked-number {
@@ -349,14 +360,19 @@
     }
 
     .ranked-card {
-        max-width: 120px;
+        max-width: 100px;
     }
 
     .ranked-number {
-        font-size: clamp(4rem, 8vw, 6rem);
+        font-size: clamp(3.5rem, 6vw, 5rem);
         -webkit-text-stroke: 1.5px rgba(43, 217, 198, 0.5);
         text-stroke: 1.5px rgba(43, 217, 198, 0.5);
-        left: -5%;
+        left: 0.3rem;
+    }
+
+    .ranked-number-double {
+        font-size: clamp(2.5rem, 4.5vw, 4rem);
+        left: 0.2rem;
     }
 
     .ranked-grid-item:hover .ranked-number {
