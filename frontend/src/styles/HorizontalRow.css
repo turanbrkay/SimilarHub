@@ -12,7 +12,8 @@
     color: var(--color-text);
     margin: 0 0 1.2rem 2rem;
     letter-spacing: -0.02em;
-    display: none; /* Hidden because we use hero headers now */
+    display: none;
+    /* Hidden because we use hero headers now */
 }
 
 .horizontal-row-wrapper {
@@ -328,4 +329,23 @@
         width: 14px;
         height: 14px;
     }
+}
+
+/* Selected Card Highlight */
+.horizontal-row-card.selected {
+    transform: scale(1.05);
+    box-shadow: 0 0 20px rgba(43, 217, 198, 0.6), 0 0 40px rgba(43, 217, 198, 0.3);
+    border: 2px solid #2bd9c6;
+    z-index: 20;
+}
+
+.horizontal-row-card.selected .horizontal-row-card-poster::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    box-shadow: inset 0 0 20px rgba(43, 217, 198, 0.4);
+    pointer-events: none;
 }

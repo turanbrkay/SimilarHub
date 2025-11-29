@@ -12,6 +12,8 @@ interface HorizontalRowProps {
     myList?: Show[];
     onToggleList?: (show: Show) => void;
     contentType?: 'movies' | 'tvshows' | 'books';
+    selectedShowId?: number | null;
+    onShowHover?: (show: Show) => void;
 }
 
 const HorizontalRow: React.FC<HorizontalRowProps> = ({
@@ -22,7 +24,9 @@ const HorizontalRow: React.FC<HorizontalRowProps> = ({
     label,
     myList = [],
     onToggleList,
-    contentType
+    contentType,
+    selectedShowId,
+    onShowHover
 }) => {
     const scrollContainerRef = useRef<HTMLDivElement>(null);
     const [canScrollLeft, setCanScrollLeft] = useState(false);
@@ -125,12 +129,14 @@ const HorizontalRow: React.FC<HorizontalRowProps> = ({
                         const displayName = getDisplayName(show);
                         const year = getYear(show);
                         const inList = isInMyList(show);
+                        const isSelected = selectedShowId === show.id;
 
                         return (
                             <div
                                 key={show.id}
-                                className="horizontal-row-card"
+                                className={`horizontal-row-card ${isSelected ? 'selected' : ''}`}
                                 onClick={() => onShowClick(show.id)}
+                                onMouseEnter={() => onShowHover && onShowHover(show)}
                             >
                                 <div className="horizontal-row-card-poster">
                                     {show.poster_path ? (

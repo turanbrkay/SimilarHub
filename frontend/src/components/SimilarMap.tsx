@@ -252,7 +252,6 @@ const SimilarMap: React.FC<SimilarMapProps> = ({ sourceShow, similarShows, onSho
 
     return (
         <div className="similar-map-section">
-            <h2 className="similar-map-title">Visual Similarity Network</h2>
 
             <div className="similar-map-container">
                 <div className="similar-map-canvas">
