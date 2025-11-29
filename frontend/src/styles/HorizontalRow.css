@@ -1,0 +1,233 @@
+/* Horizontal Row Section - Netflix-style */
+
+.horizontal-row-section {
+    padding: 2rem 0;
+    margin-bottom: 1rem;
+}
+
+.horizontal-row-title {
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: var(--color-text);
+    margin: 0 0 1.2rem 2rem;
+    letter-spacing: -0.02em;
+}
+
+.horizontal-row-wrapper {
+    position: relative;
+    padding: 0 2rem;
+}
+
+.horizontal-row-container {
+    display: flex;
+    gap: 1rem;
+    overflow-x: auto;
+    overflow-y: hidden;
+    scroll-behavior: smooth;
+    padding: 0.5rem 0;
+    margin: 0 -0.5rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+
+    /* Hide scrollbar */
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
+
+.horizontal-row-container::-webkit-scrollbar {
+    display: none;
+}
+
+/* Card styling - reused from SimilarShows */
+.horizontal-row-card {
+    flex: 0 0 auto;
+    width: 180px;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+    position: relative;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+.horizontal-row-card:hover {
+    transform: scale(1.08);
+    box-shadow: 0 8px 24px rgba(43, 217, 198, 0.4);
+    z-index: 10;
+}
+
+.horizontal-row-card-poster {
+    position: relative;
+    width: 100%;
+    padding-bottom: 150%;
+    overflow: hidden;
+    background: #161616;
+}
+
+.horizontal-row-card-poster img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.horizontal-row-card-no-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #777;
+    font-size: 0.9rem;
+}
+
+/* Info overlay - hidden by default, shown on hover */
+.horizontal-row-card-info {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.95) 0%, rgba(0, 0, 0, 0.85) 70%, transparent 100%);
+    padding: 3rem 0.75rem 0.75rem;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.horizontal-row-card:hover .horizontal-row-card-info {
+    opacity: 1;
+}
+
+.horizontal-row-card-info h3 {
+    margin: 0 0 0.3rem 0;
+    font-size: 0.95rem;
+    color: var(--color-text);
+    font-weight: 600;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    line-height: 1.3;
+}
+
+.horizontal-row-card-meta {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+    color: var(--color-text-muted);
+    font-size: 0.8rem;
+    flex-wrap: wrap;
+}
+
+.horizontal-row-card-meta span:not(:last-child)::after {
+    content: '•';
+    margin-left: 0.5rem;
+}
+
+.horizontal-row-card-rating {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+    color: #ffd700;
+    font-weight: 600;
+}
+
+/* Navigation arrows */
+.horizontal-row-arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0, 0, 0, 0.7);
+    backdrop-filter: blur(4px);
+    border: 1px solid rgba(43, 217, 198, 0.3);
+    color: var(--color-accent);
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    font-size: 2rem;
+    cursor: pointer;
+    z-index: 20;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 1;
+    padding: 0;
+}
+
+.horizontal-row-arrow:hover {
+    background: rgba(43, 217, 198, 0.2);
+    border-color: var(--color-accent);
+    box-shadow: 0 4px 12px rgba(43, 217, 198, 0.3);
+}
+
+.horizontal-row-arrow-left {
+    left: -15px;
+}
+
+.horizontal-row-arrow-right {
+    right: -15px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 1399px) {
+    .horizontal-row-card {
+        width: 160px;
+    }
+}
+
+@media (max-width: 1199px) {
+    .horizontal-row-card {
+        width: 150px;
+    }
+}
+
+@media (max-width: 991px) {
+    .horizontal-row-title {
+        font-size: 1.4rem;
+        margin-left: 1rem;
+    }
+
+    .horizontal-row-wrapper {
+        padding: 0 1rem;
+    }
+
+    .horizontal-row-card {
+        width: 140px;
+    }
+
+    .horizontal-row-arrow {
+        width: 40px;
+        height: 40px;
+        font-size: 1.6rem;
+    }
+}
+
+@media (max-width: 767px) {
+    .horizontal-row-section {
+        padding: 1.5rem 0;
+    }
+
+    .horizontal-row-title {
+        font-size: 1.2rem;
+        margin-left: 0.5rem;
+        margin-bottom: 1rem;
+    }
+
+    .horizontal-row-wrapper {
+        padding: 0 0.5rem;
+    }
+
+    .horizontal-row-card {
+        width: 120px;
+    }
+
+    .horizontal-row-arrow {
+        display: none;
+    }
+}

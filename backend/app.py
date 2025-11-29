@@ -1,5 +1,4 @@
 
-
 import os
 import numpy as np
 import faiss
@@ -233,13 +232,14 @@ def index():
 
 
 @app.route('/search')
+@app.route('/api/search')
 def search():
     query = request.args.get('q', '')
     if len(query) < 2: return jsonify([])
     conn = get_db_connection()
     with conn.cursor(cursor_factory=psycopg2.extras.RealDictCursor) as cur:
         cur.execute(
-            "SELECT id, title, poster_path, year FROM media_items WHERE source_type='tv' AND title ILIKE %s LIMIT 100",
+            "SELECT id, title, poster_path, year, source_type FROM media_items WHERE title ILIKE %s LIMIT 100",
             (f'%{query}%',))
         results = cur.fetchall()
     conn.close()
@@ -253,14 +253,15 @@ def popular_tv():
     conn = get_db_connection()
     with conn.cursor(cursor_factory=psycopg2.extras.RealDictCursor) as cur:
         cur.execute("""
-            SELECT 
-                id, 
-                title, 
-                poster_path, 
-                year, 
-                overview, 
+            SELECT
+                id,
+                title,
+                poster_path,
+                year,
+                overview,
                 genres,
-                popularity
+                popularity,
+                source_type
             FROM media_items
             WHERE source_type = 'tv'
             ORDER BY popularity DESC NULLS LAST
@@ -270,6 +271,127 @@ def popular_tv():
     conn.close()
     return jsonify(results)
 
+
+@app.route('/popular-movies', methods=['GET'])
+@app.route('/api/popular-movies', methods=['GET'])
+def popular_movies():
+    """Returns top 50 random TV shows (temporary - will be movies later)"""
+    conn = get_db_connection()
+    with conn.cursor(cursor_factory=psycopg2.extras.RealDictCursor) as cur:
+        cur.execute("""
+            SELECT
+                id,
+                title,
+                poster_path,
+                year,
+                overview,
+                genres,
+                popularity,
+                source_type
+            FROM media_items
+            WHERE source_type = 'tv'
+              AND poster_path IS NOT NULL
+              AND poster_path != ''
+            ORDER BY RANDOM()
+            LIMIT 50
+        """)
+        results = cur.fetchall()
+    conn.close()
+    return jsonify(results)
+
+
+@app.route('/popular-books', methods=['GET'])
+@app.route('/api/popular-books', methods=['GET'])
+def popular_books():
+    """Returns top 50 random TV shows (temporary - will be books later)"""
+    conn = get_db_connection()
+    with conn.cursor(cursor_factory=psycopg2.extras.RealDictCursor) as cur:
+        cur.execute("""
+            SELECT
+                id,
+                title,
+                poster_path,
+                year,
+                overview,
+                genres,
+                popularity,
+                source_type
+            FROM media_items
+            WHERE source_type = 'tv'
+              AND poster_path IS NOT NULL
+              AND poster_path != ''
+            ORDER BY RANDOM()
+            LIMIT 50
+        """)
+        results = cur.fetchall()
+    conn.close()
+    return jsonify(results)
+
+
+@app.route('/top-rated', methods=['GET'])
+@app.route('/api/top-rated', methods=['GET'])
+def top_rated():
+    """Returns top 50 highest rated TV shows"""
+    conn = get_db_connection()
+    with conn.cursor(cursor_factory=psycopg2.extras.RealDictCursor) as cur:
+        cur.execute("""
+            SELECT
+                id,
+                title,
+                poster_path,
+                year,
+                overview,
+                genres,
+                popularity,
+                source_type
+            FROM media_items
+            WHERE source_type = 'tv'
+              AND poster_path IS NOT NULL
+              AND poster_path != ''
+            ORDER BY popularity DESC NULLS LAST
+            LIMIT 50
+        """)
+        results = cur.fetchall()
+    conn.close()
+    return jsonify(results)
+
+
+@app.route('/genre/<genre_name>', methods=['GET'])
+@app.route('/api/genre/<genre_name>', methods=['GET'])
+def by_genre(genre_name):
+    """Returns top 50 TV shows by genre"""
+    try:
+        conn = get_db_connection()
+        with conn.cursor(cursor_factory=psycopg2.extras.RealDictCursor) as cur:
+            # Use jsonb_array_elements_text to expand the JSON string array and ILIKE for matching
+            cur.execute("""
+                SELECT
+                    id,
+                    title,
+                    poster_path,
+                    year,
+                    overview,
+                    genres,
+                    popularity,
+                    source_type
+                FROM media_items
+                WHERE source_type = 'tv'
+                  AND poster_path IS NOT NULL
+                  AND poster_path != ''
+                  AND EXISTS (
+                      SELECT 1
+                      FROM jsonb_array_elements_text(genres::jsonb) AS g
+                      WHERE g ILIKE %s
+                  )
+                ORDER BY popularity DESC NULLS LAST
+                LIMIT 50
+            """, (f'%{genre_name}%',))
+            results = cur.fetchall()
+        conn.close()
+        return jsonify(results)
+    except Exception as e:
+        print(f"Error in by_genre endpoint for genre '{genre_name}': {e}")
+        return jsonify({"error": "Internal Server Error", "details": str(e)}), 500
 
 
 @app.route('/simple-similar/<int:tv_id>')

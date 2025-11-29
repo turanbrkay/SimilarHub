@@ -1,31 +1,60 @@
 import React, { useState, useEffect } from 'react';
 import Navbar from './Navbar';
 import SimilarShows from './SimilarShows';
-import { searchShows, getPopularShows, type Show } from '../services/api';
+import HorizontalRow from './HorizontalRow';
+import {
+    searchShows,
+    getPopularShows,
+    getPopularMovies,
+    getPopularBooks,
+    getTopRated,
+    getByGenre,
+    type Show
+} from '../services/api';
 import '../styles/Dashboard.css';
 
 const Dashboard: React.FC = () => {
     const [activeCategory, setActiveCategory] = useState<'movies' | 'tvshows' | 'books'>('tvshows');
     const [view, setView] = useState<'home' | 'mylist' | 'similar'>('home');
-    const [shows, setShows] = useState<Show[]>([]);
     const [selectedShowId, setSelectedShowId] = useState<number | null>(null);
     const [myList, setMyList] = useState<Show[]>([]);
-    const [recommendedTab, setRecommendedTab] = useState<'movies' | 'tv' | 'trending'>('movies');
-    const [trendingTab, setTrendingTab] = useState<'day' | 'week' | 'month'>('day');
+
+    // State for each category row
+    const [popularTVShows, setPopularTVShows] = useState<Show[]>([]);
+    const [popularMovies, setPopularMovies] = useState<Show[]>([]);
+    const [popularBooks, setPopularBooks] = useState<Show[]>([]);
+    const [topRated, setTopRated] = useState<Show[]>([]);
+    const [sciFi, setSciFi] = useState<Show[]>([]);
+    const [comedy, setComedy] = useState<Show[]>([]);
+    const [drama, setDrama] = useState<Show[]>([]);
 
     useEffect(() => {
-        const loadShows = async () => {
+        const loadAllCategories = async () => {
             try {
-                const results = await getPopularShows();
-                console.log('Loaded popular shows count:', results.length);
-                setShows(results);
+                // Load all categories in parallel - they will refresh when activeCategory changes
+                const [tv, movies, books, rated, sci, com, dra] = await Promise.all([
+                    getPopularShows(),
+                    getPopularMovies(),
+                    getPopularBooks(),
+                    getTopRated(),
+                    getByGenre('Science Fiction'),
+                    getByGenre('Comedy'),
+                    getByGenre('Drama')
+                ]);
+
+                setPopularTVShows(tv);
+                setPopularMovies(movies);
+                setPopularBooks(books);
+                setTopRated(rated);
+                setSciFi(sci);
+                setComedy(com);
+                setDrama(dra);
             } catch (err) {
-                console.error('Error loading popular shows', err);
-                setShows([]);
+                console.error('Error loading dashboard categories', err);
             }
         };
-        loadShows();
-    }, []);
+        loadAllCategories();
+    }, [activeCategory]); // Re-load when category changes
 
     const toggleMyList = (show: Show) => {
         const isInList = myList.some(s => String(s.id) === String(show.id));
@@ -102,24 +131,96 @@ const Dashboard: React.FC = () => {
                 </div>
             ) : (
                 <main className="dashboard-main">
-                    <div className="dashboard-container" style={{ paddingTop: '2rem' }}>
-                        <div className="aside-wrap">
-                            <div className="main-content">
-                                <section>
-                                    <div className="section-content">
-                                        <div className="base content movies">
-                                            {shows.slice(0, 49).map(show => (
-                                                <ShowCard key={show.id} show={show}
-                                                    onClick={() => handleShowClick(show.id)}
-                                                    onToggleList={() => toggleMyList(show)}
-                                                    inMyList={myList.some(s => s.id === show.id)} />
-                                            ))}
-                                        </div>
-                                    </div>
-                                </section>
-                            </div>
+                    <div className="dashboard-container-netflix">
+                        {activeCategory === 'tvshows' && (
+                            <>
+                                <HorizontalRow
+                                    title="Popular TV Shows"
+                                    shows={popularTVShows}
+                                    onShowClick={handleShowClick}
+                                />
+                                <HorizontalRow
+                                    title="Top Rated TV Shows"
+                                    shows={topRated}
+                                    onShowClick={handleShowClick}
+                                />
+                                <HorizontalRow
+                                    title="Science Fiction"
+                                    shows={sciFi}
+                                    onShowClick={handleShowClick}
+                                />
+                                <HorizontalRow
+                                    title="Comedy"
+                                    shows={comedy}
+                                    onShowClick={handleShowClick}
+                                />
+                                <HorizontalRow
+                                    title="Drama"
+                                    shows={drama}
+                                    onShowClick={handleShowClick}
+                                />
+                            </>
+                        )}
 
-                        </div>
+                        {activeCategory === 'movies' && (
+                            <>
+                                <HorizontalRow
+                                    title="Popular Movies"
+                                    shows={popularMovies}
+                                    onShowClick={handleShowClick}
+                                />
+                                <HorizontalRow
+                                    title="Top Rated Movies"
+                                    shows={topRated}
+                                    onShowClick={handleShowClick}
+                                />
+                                <HorizontalRow
+                                    title="Science Fiction Movies"
+                                    shows={sciFi}
+                                    onShowClick={handleShowClick}
+                                />
+                                <HorizontalRow
+                                    title="Comedy Movies"
+                                    shows={comedy}
+                                    onShowClick={handleShowClick}
+                                />
+                                <HorizontalRow
+                                    title="Drama Movies"
+                                    shows={drama}
+                                    onShowClick={handleShowClick}
+                                />
+                            </>
+                        )}
+
+                        {activeCategory === 'books' && (
+                            <>
+                                <HorizontalRow
+                                    title="Popular Books"
+                                    shows={popularBooks}
+                                    onShowClick={handleShowClick}
+                                />
+                                <HorizontalRow
+                                    title="Top Rated Books"
+                                    shows={topRated}
+                                    onShowClick={handleShowClick}
+                                />
+                                <HorizontalRow
+                                    title="Science Fiction Books"
+                                    shows={sciFi}
+                                    onShowClick={handleShowClick}
+                                />
+                                <HorizontalRow
+                                    title="Comedy Books"
+                                    shows={comedy}
+                                    onShowClick={handleShowClick}
+                                />
+                                <HorizontalRow
+                                    title="Drama Books"
+                                    shows={drama}
+                                    onShowClick={handleShowClick}
+                                />
+                            </>
+                        )}
                     </div>
                 </main>
             )}
@@ -135,6 +236,8 @@ interface ShowCardProps {
 }
 
 const ShowCard: React.FC<ShowCardProps> = ({ show, onClick }) => {
+    const displayName = show.title || show.name || 'Unknown';
+
     return (
         <div className="movie-item">
             <div className="movie-border">
@@ -143,7 +246,7 @@ const ShowCard: React.FC<ShowCardProps> = ({ show, onClick }) => {
                     <div className="movie-poster">
                         <div>
                             {show.poster_path ? (
-                                <img src={`https://image.tmdb.org/t/p/w500${show.poster_path}`} alt={show.title} />
+                                <img src={`https://image.tmdb.org/t/p/w500${show.poster_path}`} alt={displayName} />
                             ) : (
                                 <div style={{
                                     background: '#161616', display: 'flex', alignItems: 'center',
@@ -154,59 +257,18 @@ const ShowCard: React.FC<ShowCardProps> = ({ show, onClick }) => {
                         </div>
                     </div>
                 </a>
-                <a href="#" className="name" onClick={(e) => { e.preventDefault(); onClick(); }}>{show.title}</a>
+                <a href="#" className="name" onClick={(e) => { e.preventDefault(); onClick(); }}>{displayName}</a>
                 <div className="movie-info">
                     <div className="meta">
                         <span>{show.year}</span>
                         {show.genres && show.genres.length > 0 && <span>{show.genres[0]}</span>}
                     </div>
-                    <div className="type" style={{ fontSize: '0.85rem', color: '#777', textTransform: 'uppercase' }}>TV</div>
+                    <div className="type" style={{ fontSize: '0.85rem', color: '#777', textTransform: 'uppercase' }}>
+                        {show.source_type === 'movie' ? 'Movie' : 'TV'}
+                    </div>
                 </div>
             </div>
         </div>
-    );
-};
-
-interface SidebarShowCardProps {
-    show: Show;
-    rank: number;
-    onClick: () => void;
-}
-
-const SidebarShowCard: React.FC<SidebarShowCardProps> = ({ show, rank, onClick }) => {
-    return (
-        <a href="#" className="movie-item" onClick={(e) => { e.preventDefault(); onClick(); }}
-            style={{ display: 'flex', alignItems: 'center', textDecoration: 'none' }}>
-            <div style={{
-                fontSize: '2rem', fontWeight: 'bold', color: '#28af95',
-                minWidth: '40px', textAlign: 'center', marginRight: '0.5rem'
-            }}>{rank}</div>
-            <div className="movie-info">
-                <div className="top"><span>TV</span></div>
-                <div className="name">{show.title}</div>
-                <div className="bottom">
-                    <span><span id="star-and-rating">
-                        <i className="material-icons">&#xe885;</i>
-                        {show.popularity ? show.popularity.toFixed(1) : 'N/A'}
-                    </span></span>
-                    <span>{show.year}</span>
-                    {show.genres && show.genres.length > 0 && <span>{show.genres[0]}</span>}
-                </div>
-            </div>
-            <div className="movie-poster">
-                <div>
-                    {show.poster_path ? (
-                        <img src={`https://image.tmdb.org/t/p/w200${show.poster_path}`} alt={show.title} />
-                    ) : (
-                        <div style={{
-                            background: '#161616', display: 'flex', alignItems: 'center',
-                            justifyContent: 'center', color: '#777', fontSize: '0.7rem',
-                            position: 'absolute', top: 0, left: 0, width: '100%', height: '100%'
-                        }}>N/A</div>
-                    )}
-                </div>
-            </div>
-        </a>
     );
 };
 

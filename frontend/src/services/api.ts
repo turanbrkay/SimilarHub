@@ -98,3 +98,63 @@ export async function getSimilarMap(itemId: number): Promise<{ source_item: Show
         return { source_item: {} as Show, similar_items: [] };
     }
 }
+
+// Get popular movies
+export async function getPopularMovies(): Promise<Show[]> {
+    try {
+        const response = await fetch(`${API_BASE}/popular-movies`);
+        if (!response.ok) {
+            console.error('Failed to fetch popular movies');
+            return [];
+        }
+        return await response.json();
+    } catch (error) {
+        console.error('Popular movies error:', error);
+        return [];
+    }
+}
+
+// Get popular books
+export async function getPopularBooks(): Promise<Show[]> {
+    try {
+        const response = await fetch(`${API_BASE}/popular-books`);
+        if (!response.ok) {
+            console.error('Failed to fetch popular books');
+            return [];
+        }
+        return await response.json();
+    } catch (error) {
+        console.error('Popular books error:', error);
+        return [];
+    }
+}
+
+// Get top rated items
+export async function getTopRated(): Promise<Show[]> {
+    try {
+        const response = await fetch(`${API_BASE}/top-rated`);
+        if (!response.ok) {
+            console.error('Failed to fetch top rated');
+            return [];
+        }
+        return await response.json();
+    } catch (error) {
+        console.error('Top rated error:', error);
+        return [];
+    }
+}
+
+// Get items by genre
+export async function getByGenre(genre: string): Promise<Show[]> {
+    try {
+        const response = await fetch(`${API_BASE}/genre/${encodeURIComponent(genre)}`);
+        if (!response.ok) {
+            console.error(`Failed to fetch ${genre} items`);
+            return [];
+        }
+        return await response.json();
+    } catch (error) {
+        console.error(`Genre ${genre} error:`, error);
+        return [];
+    }
+}

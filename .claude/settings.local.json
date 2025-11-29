@@ -6,7 +6,13 @@
       "Bash(docker-compose logs:*)",
       "Bash(docker exec:*)",
       "Bash(python -m py_compile:*)",
-      "Bash(npm run build:*)"
+      "Bash(npm run build:*)",
+      "Bash(curl:*)",
+      "Bash(docker-compose down:*)",
+      "Bash(docker-compose up:*)",
+      "Bash(docker-compose build:*)",
+      "Bash(docker-compose restart:*)",
+      "Bash(docker system prune:*)"
     ],
     "deny": [],
     "ask": []
