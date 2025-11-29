@@ -200,7 +200,7 @@ const Dashboard: React.FC = () => {
                 </div>
             ) : (
                 <main className="dashboard-main">
-                    <div className="dashboard-container-netflix">
+                    <div className={`dashboard-container-netflix ${activeCategory === 'home' ? 'home-view' : 'category-view'}`}>
                         {activeCategory === 'home' && (
                             <>
                                 {/* HERO SECTION: Stack + Map */}
