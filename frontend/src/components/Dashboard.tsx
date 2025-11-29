@@ -124,10 +124,6 @@ const Dashboard: React.FC = () => {
         return () => container.removeEventListener('wheel', onWheel);
     }, [heroStackItems.length]);
 
-    const handleStackHover = (index: number) => {
-        setHeroSelectedIndex(index);
-    };
-
     const toggleMyList = (show: Show) => {
         const isInList = myList.some(s => String(s.id) === String(show.id));
         if (isInList) {
@@ -243,8 +239,13 @@ const Dashboard: React.FC = () => {
                                                         opacity: Math.max(opacity, 0),
                                                         pointerEvents: isActive ? 'auto' : 'none'
                                                     } as React.CSSProperties}
-                                                    onMouseEnter={() => handleStackHover(index)}
-                                                    onClick={() => handleShowClick(show.id)}
+                                                    onClick={() => {
+                                                        if (isSelected) {
+                                                            handleShowClick(show.id);
+                                                        } else {
+                                                            setHeroSelectedIndex(index);
+                                                        }
+                                                    }}
                                                 >
                                                     <img
                                                         src={`https://image.tmdb.org/t/p/w300${show.poster_path}`}
