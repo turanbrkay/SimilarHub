@@ -9,6 +9,11 @@
   background: linear-gradient(to bottom, #0a0a0f 0%, #12121a 50%, #0a0a0f 100%);
 }
 
+/* Category View - Top offset for fixed navbar */
+.dashboard-container-netflix.category-view {
+  padding-top: 7rem; /* Navbar height (5rem) + spacing (2rem) */
+}
+
 /* Aside Wrap - Main Layout */
 .aside-wrap {
   display: flex;
