@@ -71,37 +71,6 @@ const SimilarShows: React.FC<SimilarShowsProps> = ({ showId, onBack, onShowClick
 
     return (
         <div className="similar-detail-page">
-            {/* Back button - positioned absolute */}
-            <button
-                onClick={onBack}
-                style={{
-                    position: 'fixed',
-                    top: '6rem',
-                    left: '2rem',
-                    background: 'rgba(0,0,0,0.7)',
-                    color: 'white',
-                    border: '1px solid rgba(255,255,255,0.3)',
-                    padding: '0.75rem 1.5rem',
-                    borderRadius: '8px',
-                    cursor: 'pointer',
-                    backdropFilter: 'blur(10px)',
-                    zIndex: 1000,
-                    fontSize: '1rem',
-                    fontWeight: '600',
-                    transition: 'all 0.3s ease',
-                }}
-                onMouseEnter={(e) => {
-                    e.currentTarget.style.background = 'rgba(43, 217, 198, 0.2)';
-                    e.currentTarget.style.borderColor = 'var(--color-accent)';
-                }}
-                onMouseLeave={(e) => {
-                    e.currentTarget.style.background = 'rgba(0,0,0,0.7)';
-                    e.currentTarget.style.borderColor = 'rgba(255,255,255,0.3)';
-                }}
-            >
-                ← Back
-            </button>
-
             {/* Section 2: Detail Hero */}
             <div className="detail-hero">
                 <div

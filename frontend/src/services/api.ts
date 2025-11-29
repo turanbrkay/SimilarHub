@@ -18,6 +18,7 @@ export interface Show {
     number_of_episodes?: number;
     first_air_date?: string;
     backdrop_path?: string;
+    source_type?: string; // 'tv' or 'movie'
 }
 
 // Search for shows or return popular if query is too short
