@@ -1,4 +1,4 @@
-import React, { useMemo, useState } from 'react';
+import React, { useMemo, useState, useEffect, useRef } from 'react';
 import type { Show } from '../services/api';
 
 interface SimilarMapProps {
@@ -10,44 +10,44 @@ interface SimilarMapProps {
 interface NodePosition {
     x: number;
     y: number;
-    floatX: number;
-    floatY: number;
+    // Base float parameters for organic movement
+    floatSpeed: number;
+    floatOffset: number;
+    floatPhase: number;
     angle: number;
     radius: number;
+    showId: number;
 }
 
 const SimilarMap: React.FC<SimilarMapProps> = ({ sourceShow, similarShows, onShowClick }) => {
-    const [hoveredIndex, setHoveredIndex] = useState<number | null>(null);
+    const [hoveredShowId, setHoveredShowId] = useState<number | null>(null);
 
-    // Calculate node positions with STRICT rank-based radius and hard clamping
-    const { nodePositions, canvasWidth, canvasHeight } = useMemo(() => {
-        // Container dimensions (matching CSS)
+    // Refs for direct DOM manipulation (performance)
+    const nodeRefs = useRef<Map<number, HTMLDivElement>>(new Map());
+    const lineRefs = useRef<Map<number, SVGLineElement>>(new Map());
+    const animationRef = useRef<number | null>(null);
+
+    // Calculate initial node positions
+    const { positionMap, canvasWidth, canvasHeight } = useMemo(() => {
         const containerWidth = 1400;
         const containerHeight = 700;
         const padding = 40;
         const canvasW = containerWidth - padding;
         const canvasH = containerHeight - padding;
 
-        // Node dimensions
         const cardWidth = 60;
         const cardHeight = 90;
         const centerNodeWidth = 100;
         const centerNodeHeight = 150;
-        const floatOffsetMaxX = 4;
-        const floatOffsetMaxY = 4;
+
+        // Max float amplitude (must match animation loop)
+        const maxFloatAmplitude = 9; // 6 (sin) + 3 (cos)
+        const safetyMargin = 5;
 
         // HARD CLAMPING BOUNDS (accounting for card size and animation)
-        const paddingX = cardWidth * 0.25;
-        const paddingY = cardHeight * 0.25;
-        const minX = paddingX + floatOffsetMaxX;
-        const maxX = canvasW - paddingX - cardWidth - floatOffsetMaxX;
-        const minY = paddingY + floatOffsetMaxY;
-        const maxY = canvasH - paddingY - cardHeight - floatOffsetMaxY;
+        // We calculate safe bounds dynamically later
 
-        // Container size for radius calculations
         const baseSize = Math.min(canvasW, canvasH);
-
-        // Ellipse stretch factors
         const horizontalStretch = 1.15;
         const verticalStretch = 0.82;
 
@@ -60,7 +60,6 @@ const SimilarMap: React.FC<SimilarMapProps> = ({ sourceShow, similarShows, onSho
         const innerRadius = Math.max(exclusionRadius + 25, baseSize * 0.25);
         const outerRadius = baseSize * 0.72;
         const radiusRange = outerRadius - innerRadius;
-        const jitterAmount = radiusRange * 0.03; // 3% jitter max
 
         // STEP 1: SORT by similarity (descending: highest first)
         const sortedShows = similarShows.slice().sort((a, b) =>
@@ -71,7 +70,7 @@ const SimilarMap: React.FC<SimilarMapProps> = ({ sourceShow, similarShows, onSho
         const positions: NodePosition[] = [];
 
         // Minimum distance for anti-collision
-        const minNodeDistance = nodeDiagonal * 1.25;
+        const minNodeDistance = nodeDiagonal * 1.1;
 
         const isOverlapping = (newX: number, newY: number): boolean => {
             return positions.some(pos => {
@@ -86,96 +85,133 @@ const SimilarMap: React.FC<SimilarMapProps> = ({ sourceShow, similarShows, onSho
 
         // STEP 2: ASSIGN RADIUS BY RANK (strict monotonic)
         sortedShows.forEach((show, index) => {
-            const sim = show.similarity_percent || 50;
-
             // Rank-based t: 0 for most similar (index 0), 1 for least similar (index N-1)
             const t = N > 1 ? index / (N - 1) : 0;
 
             // Base radius from rank (STRICT: higher rank = larger radius)
-            const baseRadius = innerRadius + t * radiusRange;
-
-            // Tiny jitter (±3%), but clamped to preserve ordering
-            const jitter = (Math.random() - 0.5) * 2 * jitterAmount;
-            const minRadiusForIndex = baseRadius - jitterAmount;
-            const maxRadiusForIndex = baseRadius + jitterAmount;
-            let radius = Math.min(Math.max(baseRadius + jitter, minRadiusForIndex), maxRadiusForIndex);
+            // NO JITTER allowed on radius to preserve strict ordering
+            let radius = innerRadius + t * radiusRange;
             radius = Math.max(innerRadius, Math.min(outerRadius, radius));
 
             // ANGLE: organic distribution
             const shuffledIndex = shuffledIndices[index];
             let baseAngle = (2 * Math.PI * shuffledIndex) / N;
-            let angleJitter = (Math.random() - 0.5) * (Math.PI / 2.5);
-            let angle = baseAngle + angleJitter;
+            let angle = baseAngle;
 
             // Convert to Cartesian (elliptical)
             let x = radius * Math.cos(angle) * horizontalStretch;
             let y = radius * Math.sin(angle) * verticalStretch;
 
-            // Anti-collision
+            // Anti-collision: ONLY adjust angle, NEVER radius
             let attempts = 0;
-            const maxAttempts = 25;
+            const maxAttempts = 50;
+            const angleIncrement = Math.PI * (3 - Math.sqrt(5)); // Golden angle
+
             while (isOverlapping(x, y) && attempts < maxAttempts) {
-                if (attempts < 15) {
-                    angle += (Math.PI / 10) * (attempts % 2 === 0 ? 1 : -1);
-                } else {
-                    radius += 8;
-                    radius = Math.min(radius, outerRadius);
-                }
+                angle += angleIncrement;
                 x = radius * Math.cos(angle) * horizontalStretch;
                 y = radius * Math.sin(angle) * verticalStretch;
                 attempts++;
             }
 
             // HARD CLAMP to container bounds (centered coordinates)
+            // We must ensure that (x ± cardWidth/2 ± maxFloat) is within (-canvasWidth/2, canvasWidth/2)
             const halfW = canvasW / 2;
             const halfH = canvasH / 2;
 
-            // Clamp to safe zone (accounting for animation)
-            x = Math.max(minX - halfW, Math.min(maxX - halfW, x));
-            y = Math.max(minY - halfH, Math.min(maxY - halfH, y));
+            // Safe bounds for the CENTER of the node
+            const safeX = halfW - (cardWidth / 2) - maxFloatAmplitude - safetyMargin;
+            const safeY = halfH - (cardHeight / 2) - maxFloatAmplitude - safetyMargin;
 
-            // Float offsets (already accounted for in clamping)
-            const floatX = (Math.random() - 0.5) * (floatOffsetMaxX * 2);
-            const floatY = (Math.random() - 0.5) * (floatOffsetMaxY * 2);
+            // Clamp
+            x = Math.max(-safeX, Math.min(safeX, x));
+            y = Math.max(-safeY, Math.min(safeY, y));
 
-            positions.push({ x, y, floatX, floatY, angle, radius });
-
-            // DEBUG LOG (first 3 items)
-            if (index < 3) {
-                console.log(`[SimilarMap] Index ${index}: sim=${sim}%, radius=${radius.toFixed(1)}px`);
-            }
+            // Randomize float parameters for each node
+            positions.push({
+                x,
+                y,
+                angle,
+                radius,
+                showId: show.id,
+                floatSpeed: 0.001 + Math.random() * 0.0015, // Speed of oscillation
+                floatOffset: Math.random() * 1000, // Random start time
+                floatPhase: Math.random() * Math.PI * 2 // Random phase
+            });
         });
 
-        // Verify monotonic property (DEBUG)
-        const radii = positions.map(p => p.radius);
-        const isMonotonic = radii.every((r, i) => i === 0 || r >= radii[i - 1] - 0.1);
-        console.log(`[SimilarMap] Radius monotonic: ${isMonotonic}, range: [${Math.min(...radii).toFixed(1)}, ${Math.max(...radii).toFixed(1)}]`);
+        const posMap = new Map<number, NodePosition>();
+        positions.forEach(pos => posMap.set(pos.showId, pos));
 
-        return { nodePositions: positions, canvasWidth: canvasW, canvasHeight: canvasH };
-    }, [similarShows]);
+        return { positionMap: posMap, canvasWidth: canvasW, canvasHeight: canvasH };
+    }, [sourceShow.id, similarShows]);
 
-    // Get display name (handle both 'title' and 'name' fields)
-    const getDisplayName = (show: Show): string => {
-        return show.title || show.name || 'Unknown';
-    };
+    // Animation Loop
+    useEffect(() => {
+        const startTime = performance.now();
+        const centerX = canvasWidth / 2;
+        const centerY = canvasHeight / 2;
 
-    // Extract year from first_air_date or use year field
+        const animate = (time: number) => {
+            const elapsed = time - startTime;
+
+            positionMap.forEach((pos, showId) => {
+                const nodeEl = nodeRefs.current.get(showId);
+                const lineEl = lineRefs.current.get(showId);
+
+                if (nodeEl) {
+                    // Calculate organic float movement
+                    const floatX = Math.sin(elapsed * pos.floatSpeed + pos.floatOffset) * 6 +
+                        Math.cos(elapsed * pos.floatSpeed * 0.5 + pos.floatPhase) * 3;
+
+                    const floatY = Math.cos(elapsed * pos.floatSpeed + pos.floatOffset) * 6 +
+                        Math.sin(elapsed * pos.floatSpeed * 0.5 + pos.floatPhase) * 3;
+
+                    const currentX = pos.x + floatX;
+                    const currentY = pos.y + floatY;
+
+                    // Update Node Position
+                    nodeEl.style.transform = `translate(-50%, -50%) translate(${currentX}px, ${currentY}px)`;
+
+                    // Update Line Position (if exists)
+                    if (lineEl) {
+                        // Line ends at the center of the card
+                        // pos.x/y are already relative to center, so we just add them to center coordinates
+                        const lineEndX = centerX + currentX;
+                        const lineEndY = centerY + currentY;
+
+                        // Note: We only update x2/y2. x1/y1 are fixed at center.
+                        lineEl.setAttribute('x2', String(lineEndX));
+                        lineEl.setAttribute('y2', String(lineEndY));
+                    }
+                }
+            });
+
+            animationRef.current = requestAnimationFrame(animate);
+        };
+
+        animationRef.current = requestAnimationFrame(animate);
+
+        return () => {
+            if (animationRef.current) {
+                cancelAnimationFrame(animationRef.current);
+            }
+        };
+    }, [positionMap, canvasWidth, canvasHeight]);
+
+    const getDisplayName = (show: Show): string => show.title || show.name || 'Unknown';
+
     const getYear = (show: Show): string => {
         if (show.year) return String(show.year);
-        if (show.first_air_date) {
-            return show.first_air_date.substring(0, 4);
-        }
+        if (show.first_air_date) return show.first_air_date.substring(0, 4);
         return '';
     };
 
-    // Calculate hover card position to keep it inside container
-    const getHoverCardPosition = (index: number) => {
-        const pos = nodePositions[index];
+    const getHoverCardPosition = (pos: NodePosition) => {
         const cardWidth = 320;
         const cardHeight = 280;
         const offset = 15;
 
-        // Default: position above the node
         let position: React.CSSProperties = {
             bottom: '100%',
             left: '50%',
@@ -183,10 +219,8 @@ const SimilarMap: React.FC<SimilarMapProps> = ({ sourceShow, similarShows, onSho
             marginBottom: `${offset}px`,
         };
 
-        // Check if card would overflow top
         const nodeY = pos.y;
         if (nodeY - cardHeight - offset < -canvasHeight / 2) {
-            // Place below instead
             position = {
                 top: '100%',
                 left: '50%',
@@ -195,10 +229,8 @@ const SimilarMap: React.FC<SimilarMapProps> = ({ sourceShow, similarShows, onSho
             };
         }
 
-        // Check horizontal overflow
         const nodeX = pos.x;
         if (nodeX - cardWidth / 2 < -canvasWidth / 2) {
-            // Too far left, align to right of node
             position = {
                 ...position,
                 left: '100%',
@@ -206,7 +238,6 @@ const SimilarMap: React.FC<SimilarMapProps> = ({ sourceShow, similarShows, onSho
                 marginLeft: `${offset}px`,
             };
         } else if (nodeX + cardWidth / 2 > canvasWidth / 2) {
-            // Too far right, align to left of node
             position = {
                 ...position,
                 right: '100%',
@@ -225,8 +256,8 @@ const SimilarMap: React.FC<SimilarMapProps> = ({ sourceShow, similarShows, onSho
 
             <div className="similar-map-container">
                 <div className="similar-map-canvas">
-                    {/* Connection lines from center to each node (SVG overlay, behind cards) */}
                     <svg
+                        key={`connections-${sourceShow.id}`}
                         className="similar-map-connections"
                         style={{
                             position: 'absolute',
@@ -239,12 +270,10 @@ const SimilarMap: React.FC<SimilarMapProps> = ({ sourceShow, similarShows, onSho
                         }}
                     >
                         <defs>
-                            {/* Gradient for connection lines */}
                             <linearGradient id="connectionGradient" x1="0%" y1="0%" x2="100%" y2="0%">
                                 <stop offset="0%" style={{ stopColor: '#2bd9c6', stopOpacity: 0.5 }} />
                                 <stop offset="100%" style={{ stopColor: '#2bd9c6', stopOpacity: 0.15 }} />
                             </linearGradient>
-                            {/* Soft glow filter */}
                             <filter id="connectionGlow">
                                 <feGaussianBlur stdDeviation="1.5" result="coloredBlur" />
                                 <feMerge>
@@ -254,46 +283,41 @@ const SimilarMap: React.FC<SimilarMapProps> = ({ sourceShow, similarShows, onSho
                             </filter>
                         </defs>
 
-                        {/* Lines from center (0, 0) to each node */}
-                        {similarShows.map((show, index) => {
-                            const pos = nodePositions[index];
-                            // Center of canvas
+                        {similarShows.map((show) => {
+                            const pos = positionMap.get(show.id);
+                            if (!pos) return null;
+
                             const centerX = canvasWidth / 2;
                             const centerY = canvasHeight / 2;
-                            // Node dimensions (from layout calculations)
-                            const cardWidth = 60;
-                            const cardHeight = 90;
-                            // Node position + offset to geometric center of card
-                            const nodeX = centerX + pos.x + (cardWidth / 2);
-                            const nodeY = centerY + pos.y + (cardHeight / 2);
+
+                            // Cards are positioned with: left: 50%, top: 50%, transform: translate(base-x, base-y)
+                            // This means the card's TOP-LEFT corner is at: (canvasCenter + pos.x, canvasCenter + pos.y)
+                            // BUT our pos.x/pos.y are calculated as offsets from the center.
+                            // And the transform `translate(-50%, -50%)` centers the card on that point.
+                            // So the visual center of the card IS exactly at (centerX + pos.x, centerY + pos.y).
+                            const nodeX = centerX + pos.x;
+                            const nodeY = centerY + pos.y;
 
                             return (
-                                <g
-                                    key={show.id}
-                                    style={{
-                                        ['--float-x' as any]: `${pos.floatX}px`,
-                                        ['--float-y' as any]: `${pos.floatY}px`,
-                                        animation: `floatLine 4s ease-in-out infinite`,
-                                        animationDelay: `${index * 0.1}s`,
-                                        transformOrigin: `${centerX}px ${centerY}px`,
-                                    } as React.CSSProperties}
-                                >
-                                    <line
-                                        x1={centerX}
-                                        y1={centerY}
-                                        x2={nodeX}
-                                        y2={nodeY}
-                                        stroke="url(#connectionGradient)"
-                                        strokeWidth="1.5"
-                                        opacity="0.3"
-                                        filter="url(#connectionGlow)"
-                                        className="connection-line"
-                                    />
-                                </g>
+                                <line
+                                    key={`line-${sourceShow.id}-${show.id}`}
+                                    ref={(el) => {
+                                        if (el) lineRefs.current.set(show.id, el);
+                                        else lineRefs.current.delete(show.id);
+                                    }}
+                                    x1={centerX}
+                                    y1={centerY}
+                                    x2={nodeX}
+                                    y2={nodeY}
+                                    stroke="url(#connectionGradient)"
+                                    strokeWidth="1.5"
+                                    opacity="0.3"
+                                    filter="url(#connectionGlow)"
+                                    className="connection-line"
+                                />
                             );
                         })}
 
-                        {/* Central glow effect */}
                         <circle
                             cx={canvasWidth / 2}
                             cy={canvasHeight / 2}
@@ -304,7 +328,7 @@ const SimilarMap: React.FC<SimilarMapProps> = ({ sourceShow, similarShows, onSho
                         />
                     </svg>
 
-                    {/* Center node (source show) */}
+                    {/* Center node */}
                     <div
                         className="similar-map-node similar-map-node-center"
                         style={{
@@ -325,31 +349,33 @@ const SimilarMap: React.FC<SimilarMapProps> = ({ sourceShow, similarShows, onSho
                     </div>
 
                     {/* Similar nodes */}
-                    {similarShows.map((show, index) => {
-                        const pos = nodePositions[index];
+                    {similarShows.map((show) => {
+                        const pos = positionMap.get(show.id);
+                        if (!pos) return null;
+
                         const displayName = getDisplayName(show);
                         const year = getYear(show);
-                        const hoverCardStyle = hoveredIndex === index ? getHoverCardPosition(index) : {};
+                        const hoverCardStyle = hoveredShowId === show.id ? getHoverCardPosition(pos) : {};
 
                         return (
                             <div
-                                key={show.id}
-                                className="similar-map-node animated"
+                                key={`node-${sourceShow.id}-${show.id}`}
+                                ref={(el) => {
+                                    if (el) nodeRefs.current.set(show.id, el);
+                                    else nodeRefs.current.delete(show.id);
+                                }}
+                                className="similar-map-node"
                                 style={{
                                     width: '60px',
                                     height: '90px',
                                     left: '50%',
                                     top: '50%',
-                                    // CSS variables for base position and float offsets
-                                    ['--base-x' as any]: `${pos.x}px`,
-                                    ['--base-y' as any]: `${pos.y}px`,
-                                    ['--float-x' as any]: `${pos.floatX}px`,
-                                    ['--float-y' as any]: `${pos.floatY}px`,
-                                    animationDelay: `${index * 0.1}s`,
+                                    // Initial transform, will be overridden by animation loop
+                                    transform: `translate(-50%, -50%) translate(${pos.x}px, ${pos.y}px)`,
                                 }}
                                 onClick={() => onShowClick(show.id)}
-                                onMouseEnter={() => setHoveredIndex(index)}
-                                onMouseLeave={() => setHoveredIndex(null)}
+                                onMouseEnter={() => setHoveredShowId(show.id)}
+                                onMouseLeave={() => setHoveredShowId(null)}
                             >
                                 <div className="similar-map-node-poster">
                                     <img
@@ -358,7 +384,6 @@ const SimilarMap: React.FC<SimilarMapProps> = ({ sourceShow, similarShows, onSho
                                     />
                                 </div>
 
-                                {/* Hover card */}
                                 <div
                                     className="similar-map-hover-card"
                                     style={hoverCardStyle}
