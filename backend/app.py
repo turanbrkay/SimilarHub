@@ -349,7 +349,7 @@ def similar_map(item_id):
         # Get similar items with posters (temporary: popularity-based)
         # Later this will be replaced with FAISS-based similarity
         cur.execute("""
-            SELECT id, title, poster_path, overview, genres, popularity, year
+            SELECT id, title, poster_path, overview, genres, popularity, year, source_type
             FROM media_items
             WHERE source_type = 'tv'
               AND id != %s
@@ -361,9 +361,12 @@ def similar_map(item_id):
 
         similar_items = cur.fetchall()
 
-        # Generate similarity_percent (descending from 98)
+        # Generate similarity_percent (descending from 98) and mock vote_average from popularity
         for i, item in enumerate(similar_items):
             item['similarity_percent'] = max(60, 98 - (i * 2))
+            # Convert popularity (0-1000+) to vote_average (0-10) for display
+            if item.get('popularity'):
+                item['vote_average'] = min(10.0, (item['popularity'] / 100.0) * 1.2)
 
     conn.close()
 

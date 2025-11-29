@@ -208,14 +208,14 @@ const SimilarShows: React.FC<SimilarShowsProps> = ({ showId, onBack, onShowClick
                                     <div className="similar-grid-card-info">
                                         <h3>{showDisplayName}</h3>
                                         <div className="similar-grid-card-meta">
-                                            {showYear && <span>{showYear}</span>}
-                                            {show.vote_average && <span>⭐ {show.vote_average.toFixed(1)}</span>}
+                                            <span>{show.source_type === 'movie' ? 'Movie' : 'TV Show'}</span>
+                                            {show.vote_average && (
+                                                <span className="similar-grid-card-rating">
+                                                    <span>⭐</span>
+                                                    <span>{show.vote_average.toFixed(1)}/10</span>
+                                                </span>
+                                            )}
                                         </div>
-                                        {show.genres && show.genres.length > 0 && (
-                                            <div className="similar-grid-card-genres">
-                                                {show.genres.join(', ')}
-                                            </div>
-                                        )}
                                     </div>
                                 </div>
                             );
