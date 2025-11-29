@@ -65,7 +65,7 @@ html {
 /* Firefox scrollbar styling */
 html, body {
   scrollbar-width: thin;
-  scrollbar-color: rgba(43, 217, 198, 0.4) #0e0e12;
+  scrollbar-color: rgba(43, 217, 198, 0.4) rgb(10, 10, 15);
 }
 
 /* WebKit (Chrome, Edge, Safari) scrollbar styling */
@@ -75,7 +75,7 @@ html, body {
 }
 
 ::-webkit-scrollbar-track {
-  background: #0e0e12;
+  background: linear-gradient(to bottom, rgb(10, 10, 15) 0%, rgb(18, 18, 26) 50%, rgb(10, 10, 15) 100%);
 }
 
 ::-webkit-scrollbar-thumb {
