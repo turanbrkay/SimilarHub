@@ -35,22 +35,22 @@
     background: #1a1a20;
     border-radius: 12px;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
-    transition: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
+    transition: all 0.6s cubic-bezier(0.23, 1, 0.32, 1);
     cursor: pointer;
     overflow: hidden;
     border: 1px solid rgba(255, 255, 255, 0.1);
-    transform-origin: center bottom;
+    transform-origin: center center;
 
-    /* Stable positioning using CSS variables passed from React */
-    top: 10%;
-    transform: translateY(var(--stack-offset)) scale(var(--stack-scale));
+    /* Positioning is handled by inline styles in React */
+    left: calc(50% - 80px);
+    /* Center horizontally in the 28% container */
 }
 
 .map-stack-card img {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    opacity: 0.7;
+    opacity: 0.6;
     transition: opacity 0.3s ease;
 }
 
@@ -61,16 +61,31 @@
 
 .map-stack-card.selected {
     border-color: #2bd9c6;
-    box-shadow: 0 0 20px rgba(43, 217, 198, 0.5);
-    /* Selected card stays in place but gets highlighted */
-    z-index: 90;
+    box-shadow: 0 0 30px rgba(43, 217, 198, 0.4);
+    z-index: 100;
 }
 
 .map-stack-card:hover {
-    /* Lift up slightly relative to its calculated offset */
-    transform: translateY(calc(var(--stack-offset) - 15px)) scale(1.05) !important;
-    z-index: 100 !important;
-    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.7);
+    border-color: rgba(43, 217, 198, 0.6);
+    box-shadow: 0 0 25px rgba(43, 217, 198, 0.3);
+    /* No transform change to ensure stability */
+}
+
+/* Connection Beam Effect */
+.connection-beam {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 1;
+    background: radial-gradient(circle at 14% 30%,
+            rgba(43, 217, 198, 0.15) 0%,
+            transparent 50%);
+    filter: blur(40px);
+    opacity: 0.8;
+    mix-blend-mode: screen;
 }
 
 /* RIGHT COLUMN: Map Container */
@@ -131,6 +146,8 @@
         transform: none !important;
         /* Reset stack transforms */
         flex-shrink: 0;
+        left: auto;
+        top: auto;
     }
 
     .map-stack-card:hover {

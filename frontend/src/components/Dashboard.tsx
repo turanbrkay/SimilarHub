@@ -180,24 +180,36 @@ const Dashboard: React.FC = () => {
                             <>
                                 {/* HERO SECTION: Stack + Map */}
                                 <div className="similar-map-section">
+                                    <div className="connection-beam" />
                                     <div className="map-stack-container">
                                         {heroStackItems.map((show, index) => {
-                                            // Calculate offset for stack effect
-                                            // Higher index = lower in stack visually (further down)
-                                            const offset = index * 40;
-                                            const zIndex = 10 - index;
-                                            const isSelected = heroSelectedShow?.id === show.id;
+                                            const activeIndex = heroStackItems.findIndex(s => s.id === heroSelectedShow?.id);
+                                            const count = heroStackItems.length;
+                                            const effectiveActiveIndex = activeIndex === -1 ? 0 : activeIndex;
+                                            const visualIndex = (index - effectiveActiveIndex + count) % count;
+                                            const isSelected = visualIndex === 0;
+
+                                            const topOffset = 10 + (visualIndex * 4);
+                                            const scale = 1 - (visualIndex * 0.05);
+                                            const opacity = 1 - (visualIndex * 0.15);
+                                            const zIndex = 20 - visualIndex;
 
                                             return (
                                                 <div
                                                     key={show.id}
                                                     className={`map-stack-card ${isSelected ? 'selected' : ''}`}
                                                     style={{
-                                                        top: '10%', // Start from top area
-                                                        transform: `translateY(${offset}px) scale(${1 - index * 0.05})`,
-                                                        zIndex: zIndex
+                                                        '--visual-index': visualIndex,
+                                                        top: `${topOffset}%`,
+                                                        transform: `scale(${scale}) translateY(${visualIndex * 30}px)`,
+                                                        zIndex: zIndex,
+                                                        opacity: Math.max(opacity, 0)
+                                                    } as React.CSSProperties}
+                                                    onMouseEnter={() => {
+                                                        if (heroSelectedShow?.id !== show.id) {
+                                                            handleHeroStackHover(show);
+                                                        }
                                                     }}
-                                                    onMouseEnter={() => handleHeroStackHover(show)}
                                                     onClick={() => handleShowClick(show.id)}
                                                 >
                                                     <img
