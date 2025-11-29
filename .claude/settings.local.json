@@ -4,7 +4,9 @@
       "Bash(rm:*)",
       "Bash(dir:*)",
       "Bash(docker-compose logs:*)",
-      "Bash(docker exec:*)"
+      "Bash(docker exec:*)",
+      "Bash(python -m py_compile:*)",
+      "Bash(npm run build:*)"
     ],
     "deny": [],
     "ask": []

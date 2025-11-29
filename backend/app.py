@@ -1,3 +1,5 @@
+
+
 import os
 import numpy as np
 import faiss
@@ -346,8 +348,9 @@ def similar_map(item_id):
             conn.close()
             return jsonify({"error": "Item not found"}), 404
 
-        # Get similar items with posters (temporary: popularity-based)
-        # Later this will be replaced with FAISS-based similarity
+        # Get up to 210 similar items (30 rows * 7 items)
+        # We order by popularity here as a fallback since this is the mocked/fast endpoint.
+        # Ideally this would use FAISS like the /similar/ endpoint but for 210 items.
         cur.execute("""
             SELECT id, title, poster_path, overview, genres, popularity, year, source_type
             FROM media_items
@@ -356,14 +359,19 @@ def similar_map(item_id):
               AND poster_path IS NOT NULL
               AND poster_path != ''
             ORDER BY popularity DESC
-            LIMIT 25
+            LIMIT 210
         """, (item_id,))
 
         similar_items = cur.fetchall()
 
-        # Generate similarity_percent (descending from 98) and mock vote_average from popularity
+        # Generate similarity_percent
+        # We want to span roughly 98% down to 40% over 210 items.
+        # Formula: 98 - (i * 0.28) ~ 98 - 58 = 40.
         for i, item in enumerate(similar_items):
-            item['similarity_percent'] = max(60, 98 - (i * 2))
+            # Calculate mock similarity decreasing with rank
+            sim = 98 - (i * 0.28)
+            item['similarity_percent'] = int(max(40, sim))
+            
             # Convert popularity (0-1000+) to vote_average (0-10) for display
             if item.get('popularity'):
                 item['vote_average'] = min(10.0, (item['popularity'] / 100.0) * 1.2)

@@ -1,4 +1,6 @@
-import React, { useState, useEffect } from 'react';
+
+
+import React, { useState, useEffect, useCallback } from 'react';
 import { getSimilarMap, type Show } from '../services/api';
 import SimilarMap from './SimilarMap';
 import '../styles/SimilarShows.css';
@@ -11,22 +13,60 @@ interface SimilarShowsProps {
     onToggleList: (show: Show) => void;
 }
 
+const ITEMS_PER_ROW = 7;
+const INITIAL_ROWS = 3;
+const MAX_ROWS = 30;
+
 const SimilarShows: React.FC<SimilarShowsProps> = ({ showId, onBack, onShowClick, myList, onToggleList }) => {
     const [sourceShow, setSourceShow] = useState<Show | null>(null);
-    const [similarShows, setSimilarShows] = useState<Show[]>([]);
+
+    // allSimilarShows holds the full list fetched from API (up to 210 items)
+    const [allSimilarShows, setAllSimilarShows] = useState<Show[]>([]);
+
+    // visibleRows controls how many rows (chunks of 7) are currently rendered
+    const [visibleRows, setVisibleRows] = useState(INITIAL_ROWS);
+
     const [isLoading, setIsLoading] = useState(true);
 
+    // Initial Data Fetch
     useEffect(() => {
         const loadSimilar = async () => {
             setIsLoading(true);
             const data = await getSimilarMap(showId);
             setSourceShow(data.source_item);
-            setSimilarShows(data.similar_items || []);
+
+            // Set full list and reset view to initial 3 rows
+            setAllSimilarShows(data.similar_items || []);
+            setVisibleRows(INITIAL_ROWS);
+
             setIsLoading(false);
             window.scrollTo({ top: 0, behavior: 'smooth' });
         };
         loadSimilar();
     }, [showId]);
+
+    // Infinite Scroll Handler
+    const handleScroll = useCallback(() => {
+        // Return early if we've reached max rows or ran out of items
+        if (visibleRows >= MAX_ROWS || (visibleRows * ITEMS_PER_ROW) >= allSimilarShows.length) {
+            return;
+        }
+
+        // Check if we are near bottom of the page (within 400px)
+        const scrolledToBottom =
+            window.innerHeight + window.scrollY >= document.documentElement.offsetHeight - 400;
+
+        if (scrolledToBottom) {
+            // Append exactly one row
+            setVisibleRows(prev => prev + 1);
+        }
+    }, [visibleRows, allSimilarShows.length]);
+
+    // Attach scroll listener
+    useEffect(() => {
+        window.addEventListener('scroll', handleScroll);
+        return () => window.removeEventListener('scroll', handleScroll);
+    }, [handleScroll]);
 
     if (isLoading) {
         return (
@@ -44,6 +84,10 @@ const SimilarShows: React.FC<SimilarShowsProps> = ({ showId, onBack, onShowClick
             </div>
         );
     }
+
+    // Slice the master list based on current row count
+    // This ensures sorting (from API) is preserved and no duplicates occur
+    const visibleShows = allSimilarShows.slice(0, visibleRows * ITEMS_PER_ROW);
 
     // Helper functions
     const getDisplayName = (show: Show): string => {
@@ -133,26 +177,26 @@ const SimilarShows: React.FC<SimilarShowsProps> = ({ showId, onBack, onShowClick
                 </div>
             </div>
 
-            {/* Section 3: Visual Similarity Map */}
-            {similarShows.length > 0 && (
+            {/* Section 3: Visual Similarity Map - Uses top 25 from allSimilarShows for the visualization */}
+            {allSimilarShows.length > 0 && (
                 <SimilarMap
                     sourceShow={sourceShow}
-                    similarShows={similarShows}
+                    similarShows={allSimilarShows.slice(0, 25)}
                     onShowClick={onShowClick}
                 />
             )}
 
-            {/* Section 4: "More Like This" Grid */}
+            {/* Section 4: "More Like This" Grid - Infinite Scroll Enabled */}
             <div className="similar-grid-section">
                 <h2 className="similar-grid-title">More Like This</h2>
 
-                {similarShows.length === 0 ? (
+                {visibleShows.length === 0 ? (
                     <div style={{ color: 'var(--color-text-muted)', padding: '2rem', textAlign: 'center' }}>
                         No similar shows found.
                     </div>
                 ) : (
                     <div className="similar-grid-container">
-                        {similarShows.map((show) => {
+                        {visibleShows.map((show) => {
                             const showDisplayName = getDisplayName(show);
                             const showYear = getYear(show);
 
