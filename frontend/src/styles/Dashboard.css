@@ -11,7 +11,8 @@
 
 /* Category View - Top offset for fixed navbar */
 .dashboard-container-netflix.category-view {
-  padding-top: 7rem; /* Navbar height (5rem) + spacing (2rem) */
+  padding-top: 7rem;
+  /* Navbar height (5rem) + spacing (2rem) */
 }
 
 /* Aside Wrap - Main Layout */

@@ -5,6 +5,7 @@ import HorizontalRow from './HorizontalRow';
 import RankedGrid from './RankedGrid';
 import CategoryStrip from './CategoryStrip';
 import SimilarMap from './SimilarMap';
+import Footer from './Footer';
 import {
     getPopularShows,
     getPopularMovies,
@@ -157,7 +158,7 @@ const Dashboard: React.FC = () => {
     };
 
     return (
-        <div style={{ minHeight: '100vh', background: 'linear-gradient(to bottom, #0a0a0f 0%, #12121a 50%, #0a0a0f 100%)' }}>
+        <div style={{ minHeight: '100vh', background: 'linear-gradient(to bottom, #0a0a0f 0%, #12121a 50%, #0a0a0f 100%)', display: 'flex', flexDirection: 'column' }}>
             <Navbar
                 onSearchSelect={handleSearchSelect}
                 activeCategory={activeCategory}
@@ -168,340 +169,343 @@ const Dashboard: React.FC = () => {
                 onMyListClick={() => setView('mylist')}
             />
 
-            {view === 'similar' && selectedShowId ? (
-                <SimilarShows
-                    key={selectedShowId}
-                    showId={selectedShowId}
-                    onBack={() => setView('home')}
-                    onShowClick={handleShowClick}
-                    myList={myList}
-                    onToggleList={toggleMyList}
-                />
-            ) : view === 'mylist' ? (
-                <div className="dashboard-container" style={{ padding: '2rem 15px' }}>
-                    <h1 style={{ color: '#b6fff5', marginBottom: '2rem', fontSize: '2rem' }}>My List</h1>
-                    {myList.length === 0 ? (
-                        <div style={{ color: '#777', textAlign: 'center', padding: '3rem' }}>
-                            Your list is empty. Add some shows to get started!
-                        </div>
-                    ) : (
-                        <div className="content movies">
-                            {myList.map(show => (
-                                <ShowCard
-                                    key={show.id}
-                                    show={show}
-                                    onClick={() => handleShowClick(show.id)}
-                                    onToggleList={() => toggleMyList(show)}
-                                    inMyList={true}
-                                />
-                            ))}
-                        </div>
-                    )}
-                </div>
-            ) : (
-                <main className="dashboard-main">
-                    <div className={`dashboard-container-netflix ${activeCategory === 'home' ? 'home-view' : 'category-view'}`}>
-                        {activeCategory === 'home' && (
-                            <>
-                                {/* HERO SECTION: Stack + Map */}
-                                <div className="similar-map-section">
-                                    <div className="connection-beam" />
-                                    <div
-                                        ref={stackContainerRef}
-                                        className="map-stack-container"
-                                    >
-                                        {heroStackItems.map((show, index) => {
-                                            const count = heroStackItems.length;
-                                            // Calculate cyclic distance
-                                            let diff = (index - heroSelectedIndex + count) % count;
-                                            if (diff > count / 2) diff -= count;
-
-                                            const absDiff = Math.abs(diff);
-                                            const isSelected = diff === 0;
-
-                                            // Render all but hide distant ones to keep DOM stable
-                                            const isActive = absDiff <= 3;
-
-                                            // Visual parameters
-                                            const scale = 1 - (absDiff * 0.1);
-                                            const opacity = isActive ? 1 - (absDiff * 0.2) : 0;
-                                            const zIndex = 100 - absDiff;
-                                            const yOffset = diff * 60; // 60px vertical spacing
-
-                                            return (
-                                                <div
-                                                    key={show.id}
-                                                    className={`map-stack-card ${isSelected ? 'selected' : ''}`}
-                                                    style={{
-                                                        top: '50%',
-                                                        transform: `translateY(-50%) translateY(${yOffset}px) scale(${scale})`,
-                                                        zIndex: zIndex,
-                                                        opacity: Math.max(opacity, 0),
-                                                        pointerEvents: isActive ? 'auto' : 'none'
-                                                    } as React.CSSProperties}
-                                                    onClick={() => {
-                                                        if (isSelected) {
-                                                            handleShowClick(show.id);
-                                                        } else {
-                                                            setHeroSelectedIndex(index);
-                                                        }
-                                                    }}
-                                                >
-                                                    <img
-                                                        src={`https://image.tmdb.org/t/p/w300${show.poster_path}`}
-                                                        alt={show.name || show.title}
-                                                    />
-                                                </div>
-                                            );
-                                        })}
-                                    </div>
-                                    <div className="dashboard-map-container">
-                                        {heroSelectedShow && (
-                                            <SimilarMap
-                                                sourceShow={heroSelectedShow}
-                                                similarShows={heroSimilarShows}
-                                                onShowClick={handleShowClick}
-                                            />
-                                        )}
-                                    </div>
-                                </div>
-
-                                <HorizontalRow
-                                    title=""
-                                    backgroundText="WEEKLY"
-                                    shows={popularTVShows}
-                                    onShowClick={handleShowClick}
-                                    myList={myList}
-                                    onToggleList={toggleMyList}
-                                    contentType="tvshows"
-                                />
-
-                                <RankedGrid
-                                    shows={topRated}
-                                    onShowClick={handleShowClick}
-                                    myList={myList}
-                                    onToggleList={toggleMyList}
-                                />
-
-                                <CategoryStrip
-                                    categories={[
-                                        { name: 'Sci-Fi', shows: sciFi },
-                                        { name: 'Comedy', shows: comedy },
-                                        { name: 'Drama', shows: drama },
-                                        { name: 'Action', shows: popularTVShows },
-                                        { name: 'More', onClick: () => { } }
-                                    ]}
-                                />
-
-                                <HorizontalRow
-                                    title=""
-                                    backgroundText="SCI-FI"
-                                    shows={sciFi}
-                                    onShowClick={handleShowClick}
-                                    myList={myList}
-                                    onToggleList={toggleMyList}
-                                    contentType="tvshows"
-                                />
-                                <HorizontalRow
-                                    title=""
-                                    backgroundText="COMEDY"
-                                    shows={comedy}
-                                    onShowClick={handleShowClick}
-                                    myList={myList}
-                                    onToggleList={toggleMyList}
-                                    contentType="tvshows"
-                                />
-                                <HorizontalRow
-                                    title=""
-                                    backgroundText="DRAMA"
-                                    shows={drama}
-                                    onShowClick={handleShowClick}
-                                    myList={myList}
-                                    onToggleList={toggleMyList}
-                                    contentType="tvshows"
-                                />
-                            </>
-                        )}
-
-                        {activeCategory === 'tvshows' && (
-                            <>
-                                <HorizontalRow
-                                    title=""
-                                    backgroundText="WEEKLY"
-                                    shows={popularTVShows}
-                                    onShowClick={handleShowClick}
-                                    myList={myList}
-                                    onToggleList={toggleMyList}
-                                    contentType="tvshows"
-                                />
-
-                                <RankedGrid
-                                    shows={topRated}
-                                    onShowClick={handleShowClick}
-                                    myList={myList}
-                                    onToggleList={toggleMyList}
-                                />
-
-                                <CategoryStrip
-                                    categories={[
-                                        { name: 'Sci-Fi', shows: sciFi },
-                                        { name: 'Comedy', shows: comedy },
-                                        { name: 'Drama', shows: drama },
-                                        { name: 'Action', shows: popularTVShows },
-                                        { name: 'More', onClick: () => { } }
-                                    ]}
-                                />
-
-                                <HorizontalRow
-                                    title=""
-                                    backgroundText="SCI-FI"
-                                    shows={sciFi}
-                                    onShowClick={handleShowClick}
-                                    myList={myList}
-                                    onToggleList={toggleMyList}
-                                    contentType="tvshows"
-                                />
-                                <HorizontalRow
-                                    title=""
-                                    backgroundText="COMEDY"
-                                    shows={comedy}
-                                    onShowClick={handleShowClick}
-                                    myList={myList}
-                                    onToggleList={toggleMyList}
-                                    contentType="tvshows"
-                                />
-                                <HorizontalRow
-                                    title=""
-                                    backgroundText="DRAMA"
-                                    shows={drama}
-                                    onShowClick={handleShowClick}
-                                    myList={myList}
-                                    onToggleList={toggleMyList}
-                                    contentType="tvshows"
-                                />
-                            </>
-                        )}
-
-                        {activeCategory === 'movies' && (
-                            <>
-                                <HorizontalRow
-                                    title=""
-                                    backgroundText="WEEKLY"
-                                    shows={popularMovies}
-                                    onShowClick={handleShowClick}
-                                    myList={myList}
-                                    onToggleList={toggleMyList}
-                                    contentType="movies"
-                                />
-
-                                <RankedGrid
-                                    shows={topRated}
-                                    onShowClick={handleShowClick}
-                                    myList={myList}
-                                    onToggleList={toggleMyList}
-                                />
-
-                                <CategoryStrip
-                                    categories={[
-                                        { name: 'Sci-Fi', shows: sciFi },
-                                        { name: 'Comedy', shows: comedy },
-                                        { name: 'Drama', shows: drama },
-                                        { name: 'Action', shows: popularMovies },
-                                        { name: 'More', onClick: () => { } }
-                                    ]}
-                                />
-
-                                <HorizontalRow
-                                    title=""
-                                    backgroundText="SCI-FI"
-                                    shows={sciFi}
-                                    onShowClick={handleShowClick}
-                                    myList={myList}
-                                    onToggleList={toggleMyList}
-                                    contentType="movies"
-                                />
-                                <HorizontalRow
-                                    title=""
-                                    backgroundText="COMEDY"
-                                    shows={comedy}
-                                    onShowClick={handleShowClick}
-                                    myList={myList}
-                                    onToggleList={toggleMyList}
-                                    contentType="movies"
-                                />
-                                <HorizontalRow
-                                    title=""
-                                    backgroundText="DRAMA"
-                                    shows={drama}
-                                    onShowClick={handleShowClick}
-                                    myList={myList}
-                                    onToggleList={toggleMyList}
-                                    contentType="movies"
-                                />
-                            </>
-                        )}
-
-                        {activeCategory === 'books' && (
-                            <>
-                                <HorizontalRow
-                                    title=""
-                                    backgroundText="WEEKLY"
-                                    shows={popularBooks}
-                                    onShowClick={handleShowClick}
-                                    myList={myList}
-                                    onToggleList={toggleMyList}
-                                    contentType="books"
-                                />
-
-                                <RankedGrid
-                                    shows={topRated}
-                                    onShowClick={handleShowClick}
-                                    myList={myList}
-                                    onToggleList={toggleMyList}
-                                />
-
-                                <CategoryStrip
-                                    categories={[
-                                        { name: 'Sci-Fi', shows: sciFi },
-                                        { name: 'Comedy', shows: comedy },
-                                        { name: 'Drama', shows: drama },
-                                        { name: 'Fiction', shows: popularBooks },
-                                        { name: 'More', onClick: () => { } }
-                                    ]}
-                                />
-
-                                <HorizontalRow
-                                    title=""
-                                    backgroundText="SCI-FI"
-                                    shows={sciFi}
-                                    onShowClick={handleShowClick}
-                                    myList={myList}
-                                    onToggleList={toggleMyList}
-                                    contentType="books"
-                                />
-                                <HorizontalRow
-                                    title=""
-                                    backgroundText="COMEDY"
-                                    shows={comedy}
-                                    onShowClick={handleShowClick}
-                                    myList={myList}
-                                    onToggleList={toggleMyList}
-                                    contentType="books"
-                                />
-                                <HorizontalRow
-                                    title=""
-                                    backgroundText="DRAMA"
-                                    shows={drama}
-                                    onShowClick={handleShowClick}
-                                    myList={myList}
-                                    onToggleList={toggleMyList}
-                                    contentType="books"
-                                />
-                            </>
+            <div style={{ flex: 1 }}>
+                {view === 'similar' && selectedShowId ? (
+                    <SimilarShows
+                        key={selectedShowId}
+                        showId={selectedShowId}
+                        onBack={() => setView('home')}
+                        onShowClick={handleShowClick}
+                        myList={myList}
+                        onToggleList={toggleMyList}
+                    />
+                ) : view === 'mylist' ? (
+                    <div className="dashboard-container" style={{ padding: '2rem 15px' }}>
+                        <h1 style={{ color: '#b6fff5', marginBottom: '2rem', fontSize: '2rem' }}>My List</h1>
+                        {myList.length === 0 ? (
+                            <div style={{ color: '#777', textAlign: 'center', padding: '3rem' }}>
+                                Your list is empty. Add some shows to get started!
+                            </div>
+                        ) : (
+                            <div className="content movies">
+                                {myList.map(show => (
+                                    <ShowCard
+                                        key={show.id}
+                                        show={show}
+                                        onClick={() => handleShowClick(show.id)}
+                                        onToggleList={() => toggleMyList(show)}
+                                        inMyList={true}
+                                    />
+                                ))}
+                            </div>
                         )}
                     </div>
-                </main>
-            )}
+                ) : (
+                    <main className="dashboard-main">
+                        <div className={`dashboard-container-netflix ${activeCategory === 'home' ? 'home-view' : 'category-view'}`}>
+                            {activeCategory === 'home' && (
+                                <>
+                                    {/* HERO SECTION: Stack + Map */}
+                                    <div className="similar-map-section">
+                                        <div className="connection-beam" />
+                                        <div
+                                            ref={stackContainerRef}
+                                            className="map-stack-container"
+                                        >
+                                            {heroStackItems.map((show, index) => {
+                                                const count = heroStackItems.length;
+                                                // Calculate cyclic distance
+                                                let diff = (index - heroSelectedIndex + count) % count;
+                                                if (diff > count / 2) diff -= count;
+
+                                                const absDiff = Math.abs(diff);
+                                                const isSelected = diff === 0;
+
+                                                // Render all but hide distant ones to keep DOM stable
+                                                const isActive = absDiff <= 3;
+
+                                                // Visual parameters
+                                                const scale = 1 - (absDiff * 0.1);
+                                                const opacity = isActive ? 1 - (absDiff * 0.2) : 0;
+                                                const zIndex = 100 - absDiff;
+                                                const yOffset = diff * 60; // 60px vertical spacing
+
+                                                return (
+                                                    <div
+                                                        key={show.id}
+                                                        className={`map-stack-card ${isSelected ? 'selected' : ''}`}
+                                                        style={{
+                                                            top: '50%',
+                                                            transform: `translateY(-50%) translateY(${yOffset}px) scale(${scale})`,
+                                                            zIndex: zIndex,
+                                                            opacity: Math.max(opacity, 0),
+                                                            pointerEvents: isActive ? 'auto' : 'none'
+                                                        } as React.CSSProperties}
+                                                        onClick={() => {
+                                                            if (isSelected) {
+                                                                handleShowClick(show.id);
+                                                            } else {
+                                                                setHeroSelectedIndex(index);
+                                                            }
+                                                        }}
+                                                    >
+                                                        <img
+                                                            src={`https://image.tmdb.org/t/p/w300${show.poster_path}`}
+                                                            alt={show.name || show.title}
+                                                        />
+                                                    </div>
+                                                );
+                                            })}
+                                        </div>
+                                        <div className="dashboard-map-container">
+                                            {heroSelectedShow && (
+                                                <SimilarMap
+                                                    sourceShow={heroSelectedShow}
+                                                    similarShows={heroSimilarShows}
+                                                    onShowClick={handleShowClick}
+                                                />
+                                            )}
+                                        </div>
+                                    </div>
+
+                                    <HorizontalRow
+                                        title=""
+                                        backgroundText="WEEKLY"
+                                        shows={popularTVShows}
+                                        onShowClick={handleShowClick}
+                                        myList={myList}
+                                        onToggleList={toggleMyList}
+                                        contentType="tvshows"
+                                    />
+
+                                    <RankedGrid
+                                        shows={topRated}
+                                        onShowClick={handleShowClick}
+                                        myList={myList}
+                                        onToggleList={toggleMyList}
+                                    />
+
+                                    <CategoryStrip
+                                        categories={[
+                                            { name: 'Sci-Fi', shows: sciFi },
+                                            { name: 'Comedy', shows: comedy },
+                                            { name: 'Drama', shows: drama },
+                                            { name: 'Action', shows: popularTVShows },
+                                            { name: 'More', onClick: () => { } }
+                                        ]}
+                                    />
+
+                                    <HorizontalRow
+                                        title=""
+                                        backgroundText="SCI-FI"
+                                        shows={sciFi}
+                                        onShowClick={handleShowClick}
+                                        myList={myList}
+                                        onToggleList={toggleMyList}
+                                        contentType="tvshows"
+                                    />
+                                    <HorizontalRow
+                                        title=""
+                                        backgroundText="COMEDY"
+                                        shows={comedy}
+                                        onShowClick={handleShowClick}
+                                        myList={myList}
+                                        onToggleList={toggleMyList}
+                                        contentType="tvshows"
+                                    />
+                                    <HorizontalRow
+                                        title=""
+                                        backgroundText="DRAMA"
+                                        shows={drama}
+                                        onShowClick={handleShowClick}
+                                        myList={myList}
+                                        onToggleList={toggleMyList}
+                                        contentType="tvshows"
+                                    />
+                                </>
+                            )}
+
+                            {activeCategory === 'tvshows' && (
+                                <>
+                                    <HorizontalRow
+                                        title=""
+                                        backgroundText="WEEKLY"
+                                        shows={popularTVShows}
+                                        onShowClick={handleShowClick}
+                                        myList={myList}
+                                        onToggleList={toggleMyList}
+                                        contentType="tvshows"
+                                    />
+
+                                    <RankedGrid
+                                        shows={topRated}
+                                        onShowClick={handleShowClick}
+                                        myList={myList}
+                                        onToggleList={toggleMyList}
+                                    />
+
+                                    <CategoryStrip
+                                        categories={[
+                                            { name: 'Sci-Fi', shows: sciFi },
+                                            { name: 'Comedy', shows: comedy },
+                                            { name: 'Drama', shows: drama },
+                                            { name: 'Action', shows: popularTVShows },
+                                            { name: 'More', onClick: () => { } }
+                                        ]}
+                                    />
+
+                                    <HorizontalRow
+                                        title=""
+                                        backgroundText="SCI-FI"
+                                        shows={sciFi}
+                                        onShowClick={handleShowClick}
+                                        myList={myList}
+                                        onToggleList={toggleMyList}
+                                        contentType="tvshows"
+                                    />
+                                    <HorizontalRow
+                                        title=""
+                                        backgroundText="COMEDY"
+                                        shows={comedy}
+                                        onShowClick={handleShowClick}
+                                        myList={myList}
+                                        onToggleList={toggleMyList}
+                                        contentType="tvshows"
+                                    />
+                                    <HorizontalRow
+                                        title=""
+                                        backgroundText="DRAMA"
+                                        shows={drama}
+                                        onShowClick={handleShowClick}
+                                        myList={myList}
+                                        onToggleList={toggleMyList}
+                                        contentType="tvshows"
+                                    />
+                                </>
+                            )}
+
+                            {activeCategory === 'movies' && (
+                                <>
+                                    <HorizontalRow
+                                        title=""
+                                        backgroundText="WEEKLY"
+                                        shows={popularMovies}
+                                        onShowClick={handleShowClick}
+                                        myList={myList}
+                                        onToggleList={toggleMyList}
+                                        contentType="movies"
+                                    />
+
+                                    <RankedGrid
+                                        shows={topRated}
+                                        onShowClick={handleShowClick}
+                                        myList={myList}
+                                        onToggleList={toggleMyList}
+                                    />
+
+                                    <CategoryStrip
+                                        categories={[
+                                            { name: 'Sci-Fi', shows: sciFi },
+                                            { name: 'Comedy', shows: comedy },
+                                            { name: 'Drama', shows: drama },
+                                            { name: 'Action', shows: popularMovies },
+                                            { name: 'More', onClick: () => { } }
+                                        ]}
+                                    />
+
+                                    <HorizontalRow
+                                        title=""
+                                        backgroundText="SCI-FI"
+                                        shows={sciFi}
+                                        onShowClick={handleShowClick}
+                                        myList={myList}
+                                        onToggleList={toggleMyList}
+                                        contentType="movies"
+                                    />
+                                    <HorizontalRow
+                                        title=""
+                                        backgroundText="COMEDY"
+                                        shows={comedy}
+                                        onShowClick={handleShowClick}
+                                        myList={myList}
+                                        onToggleList={toggleMyList}
+                                        contentType="movies"
+                                    />
+                                    <HorizontalRow
+                                        title=""
+                                        backgroundText="DRAMA"
+                                        shows={drama}
+                                        onShowClick={handleShowClick}
+                                        myList={myList}
+                                        onToggleList={toggleMyList}
+                                        contentType="movies"
+                                    />
+                                </>
+                            )}
+
+                            {activeCategory === 'books' && (
+                                <>
+                                    <HorizontalRow
+                                        title=""
+                                        backgroundText="WEEKLY"
+                                        shows={popularBooks}
+                                        onShowClick={handleShowClick}
+                                        myList={myList}
+                                        onToggleList={toggleMyList}
+                                        contentType="books"
+                                    />
+
+                                    <RankedGrid
+                                        shows={topRated}
+                                        onShowClick={handleShowClick}
+                                        myList={myList}
+                                        onToggleList={toggleMyList}
+                                    />
+
+                                    <CategoryStrip
+                                        categories={[
+                                            { name: 'Sci-Fi', shows: sciFi },
+                                            { name: 'Comedy', shows: comedy },
+                                            { name: 'Drama', shows: drama },
+                                            { name: 'Fiction', shows: popularBooks },
+                                            { name: 'More', onClick: () => { } }
+                                        ]}
+                                    />
+
+                                    <HorizontalRow
+                                        title=""
+                                        backgroundText="SCI-FI"
+                                        shows={sciFi}
+                                        onShowClick={handleShowClick}
+                                        myList={myList}
+                                        onToggleList={toggleMyList}
+                                        contentType="books"
+                                    />
+                                    <HorizontalRow
+                                        title=""
+                                        backgroundText="COMEDY"
+                                        shows={comedy}
+                                        onShowClick={handleShowClick}
+                                        myList={myList}
+                                        onToggleList={toggleMyList}
+                                        contentType="books"
+                                    />
+                                    <HorizontalRow
+                                        title=""
+                                        backgroundText="DRAMA"
+                                        shows={drama}
+                                        onShowClick={handleShowClick}
+                                        myList={myList}
+                                        onToggleList={toggleMyList}
+                                        contentType="books"
+                                    />
+                                </>
+                            )}
+                        </div>
+                    </main>
+                )}
+            </div>
+            <Footer />
         </div>
     );
 };
