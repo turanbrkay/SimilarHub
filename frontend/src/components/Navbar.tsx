@@ -21,8 +21,26 @@ const Navbar: React.FC<NavbarProps> = ({
     const [showProfileMenu, setShowProfileMenu] = React.useState(false);
     const [showMobileNav, setShowMobileNav] = React.useState(false);
 
+    const [scrolled, setScrolled] = React.useState(false);
+
+    React.useEffect(() => {
+        const handleScroll = () => {
+            const offset = window.scrollY;
+            if (offset > 20) {
+                setScrolled(true);
+            } else {
+                setScrolled(false);
+            }
+        };
+
+        window.addEventListener('scroll', handleScroll);
+        return () => {
+            window.removeEventListener('scroll', handleScroll);
+        };
+    }, []);
+
     return (
-        <header className="header">
+        <header className={`header ${scrolled ? 'scrolled' : ''}`}>
             <div className="container">
                 <div className="wrap-head">
                     {/* Left Head - Logo & Navigation */}
