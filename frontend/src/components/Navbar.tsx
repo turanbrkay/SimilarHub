@@ -7,8 +7,8 @@ import '../styles/Navbar.css';
 
 interface NavbarProps {
     onSearchSelect: (show: Show) => void;
-    activeCategory: 'movies' | 'tvshows' | 'books';
-    onCategoryChange: (category: 'movies' | 'tvshows' | 'books') => void;
+    activeCategory: 'home' | 'movies' | 'tvshows' | 'books';
+    onCategoryChange: (category: 'home' | 'movies' | 'tvshows' | 'books') => void;
     onMyListClick: () => void;
 }
 
@@ -46,6 +46,22 @@ const Navbar: React.FC<NavbarProps> = ({
 
                     <nav id="head-nav" className={showMobileNav ? 'show' : ''}>
                         <ul>
+                            <li>
+                                <a
+                                    href="#"
+                                    onClick={(e) => {
+                                        e.preventDefault();
+                                        onCategoryChange('home');
+                                    }}
+                                    className={
+                                        activeCategory === 'home'
+                                            ? 'nav-link active'
+                                            : 'nav-link'
+                                    }
+                                >
+                                    HOME
+                                </a>
+                            </li>
                             <li>
                                 <a
                                     href="#"

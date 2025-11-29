@@ -15,7 +15,7 @@ import {
 import '../styles/Dashboard.css';
 
 const Dashboard: React.FC = () => {
-    const [activeCategory, setActiveCategory] = useState<'movies' | 'tvshows' | 'books'>('tvshows');
+    const [activeCategory, setActiveCategory] = useState<'home' | 'movies' | 'tvshows' | 'books'>('home');
     const [view, setView] = useState<'home' | 'mylist' | 'similar'>('home');
     const [selectedShowId, setSelectedShowId] = useState<number | null>(null);
     const [myList, setMyList] = useState<Show[]>([]);
@@ -133,6 +133,65 @@ const Dashboard: React.FC = () => {
             ) : (
                 <main className="dashboard-main">
                     <div className="dashboard-container-netflix">
+                        {activeCategory === 'home' && (
+                            <>
+                                <HorizontalRow
+                                    title=""
+                                    backgroundText="WEEKLY"
+                                    shows={popularTVShows}
+                                    onShowClick={handleShowClick}
+                                    myList={myList}
+                                    onToggleList={toggleMyList}
+                                    contentType="tvshows"
+                                />
+
+                                <RankedGrid
+                                    shows={topRated}
+                                    onShowClick={handleShowClick}
+                                    myList={myList}
+                                    onToggleList={toggleMyList}
+                                />
+
+                                <CategoryStrip
+                                    categories={[
+                                        { name: 'Sci-Fi', shows: sciFi },
+                                        { name: 'Comedy', shows: comedy },
+                                        { name: 'Drama', shows: drama },
+                                        { name: 'Action', shows: popularTVShows },
+                                        { name: 'More', onClick: () => { } }
+                                    ]}
+                                />
+
+                                <HorizontalRow
+                                    title=""
+                                    backgroundText="SCI-FI"
+                                    shows={sciFi}
+                                    onShowClick={handleShowClick}
+                                    myList={myList}
+                                    onToggleList={toggleMyList}
+                                    contentType="tvshows"
+                                />
+                                <HorizontalRow
+                                    title=""
+                                    backgroundText="COMEDY"
+                                    shows={comedy}
+                                    onShowClick={handleShowClick}
+                                    myList={myList}
+                                    onToggleList={toggleMyList}
+                                    contentType="tvshows"
+                                />
+                                <HorizontalRow
+                                    title=""
+                                    backgroundText="DRAMA"
+                                    shows={drama}
+                                    onShowClick={handleShowClick}
+                                    myList={myList}
+                                    onToggleList={toggleMyList}
+                                    contentType="tvshows"
+                                />
+                            </>
+                        )}
+
                         {activeCategory === 'tvshows' && (
                             <>
                                 <HorizontalRow
