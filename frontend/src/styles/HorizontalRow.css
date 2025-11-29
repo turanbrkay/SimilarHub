@@ -149,7 +149,7 @@
 /* Navigation arrows - Modern minimal style */
 .horizontal-row-arrow {
     position: absolute;
-    top: 1rem;
+    top: -3.5rem;
     background: rgba(0, 0, 0, 0.8);
     backdrop-filter: blur(8px);
     border: 1px solid rgba(43, 217, 198, 0.4);
@@ -178,11 +178,47 @@
 }
 
 .horizontal-row-arrow-left {
-    right: 4rem;
+    right: 4.8rem;
 }
 
 .horizontal-row-arrow-right {
-    right: 1rem;
+    right: 1.5rem;
+}
+
+/* Edge blur overlays - show when there's more content */
+.horizontal-row-edge-overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 150px;
+    pointer-events: none;
+    z-index: 15;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.horizontal-row-edge-overlay.visible {
+    opacity: 1;
+}
+
+.horizontal-row-edge-overlay-left {
+    left: 0;
+    background: linear-gradient(to right,
+            rgba(10, 10, 20, 1) 0%,
+            rgba(10, 10, 20, 0.95) 20%,
+            rgba(10, 10, 20, 0.8) 40%,
+            rgba(10, 10, 20, 0.5) 60%,
+            transparent 100%);
+}
+
+.horizontal-row-edge-overlay-right {
+    right: 0;
+    background: linear-gradient(to left,
+            rgba(10, 10, 20, 1) 0%,
+            rgba(10, 10, 20, 0.95) 20%,
+            rgba(10, 10, 20, 0.8) 40%,
+            rgba(10, 10, 20, 0.5) 60%,
+            transparent 100%);
 }
 
 /* Responsive adjustments */
@@ -220,15 +256,15 @@
         width: 42px;
         height: 42px;
         font-size: 1.6rem;
-        top: 0.75rem;
+        top: -3rem;
     }
 
     .horizontal-row-arrow-left {
-        right: 3.5rem;
+        right: 3rem;
     }
 
     .horizontal-row-arrow-right {
-        right: 0.75rem;
+        right: 0.5rem;
     }
 }
 
@@ -255,11 +291,11 @@
         width: 38px;
         height: 38px;
         font-size: 1.5rem;
-        top: 0.5rem;
+        top: -2.5rem;
     }
 
     .horizontal-row-arrow-left {
-        right: 3rem;
+        right: 2.5rem;
     }
 
     .horizontal-row-arrow-right {

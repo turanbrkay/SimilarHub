@@ -101,6 +101,10 @@ const HorizontalRow: React.FC<HorizontalRowProps> = ({
             )}
 
             <div className="horizontal-row-wrapper">
+                {/* Edge blur overlays */}
+                <div className={`horizontal-row-edge-overlay horizontal-row-edge-overlay-left ${canScrollLeft ? 'visible' : ''}`} />
+                <div className={`horizontal-row-edge-overlay horizontal-row-edge-overlay-right ${canScrollRight ? 'visible' : ''}`} />
+
                 {canScrollLeft && (
                     <button
                         className="horizontal-row-arrow horizontal-row-arrow-left"
