@@ -22,6 +22,7 @@ body {
   font-family: var(--font-family);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
 }
 
 * {
@@ -54,20 +55,36 @@ button {
   color: var(--color-accent);
 }
 
-/* Scrollbar */
+/* Scrollbar - Modern Netflix-style */
+/* Prevent horizontal scrollbar globally */
+html {
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+/* Firefox scrollbar styling */
+html, body {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(43, 217, 198, 0.4) #0e0e12;
+}
+
+/* WebKit (Chrome, Edge, Safari) scrollbar styling */
 ::-webkit-scrollbar {
-  width: 8px;
+  width: 6px;
+  height: 6px;
 }
 
 ::-webkit-scrollbar-track {
-  background: var(--color-bg);
+  background: #0e0e12;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: var(--color-surface);
-  border-radius: 4px;
+  background: rgba(43, 217, 198, 0.4);
+  border-radius: 9999px;
+  transition: background 0.2s ease, box-shadow 0.2s ease;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: var(--color-surface-hover);
+  background: rgba(43, 217, 198, 0.7);
+  box-shadow: 0 0 8px rgba(43, 217, 198, 0.5);
 }
