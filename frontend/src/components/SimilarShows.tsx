@@ -177,11 +177,11 @@ const SimilarShows: React.FC<SimilarShowsProps> = ({ showId, onBack, onShowClick
                 </div>
             </div>
 
-            {/* Section 3: Visual Similarity Map - Uses top 25 from allSimilarShows for the visualization */}
+            {/* Section 3: Visual Similarity Map - Uses top 40 from allSimilarShows for the visualization */}
             {allSimilarShows.length > 0 && (
                 <SimilarMap
                     sourceShow={sourceShow}
-                    similarShows={allSimilarShows.slice(0, 25)}
+                    similarShows={allSimilarShows.slice(0, 40)}
                     onShowClick={onShowClick}
                 />
             )}
