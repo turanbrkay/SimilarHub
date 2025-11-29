@@ -97,17 +97,31 @@ const Dashboard: React.FC = () => {
     }, [heroSelectedIndex, heroStackItems]);
 
     const lastWheelTime = useRef(0);
+    const stackContainerRef = useRef<HTMLDivElement>(null);
 
-    const handleStackWheel = useCallback((e: React.WheelEvent) => {
-        const now = Date.now();
-        if (now - lastWheelTime.current < 150) return; // Throttle for control
-        lastWheelTime.current = now;
+    useEffect(() => {
+        const container = stackContainerRef.current;
+        if (!container) return;
 
-        if (e.deltaY > 0) {
-            setHeroSelectedIndex(prev => (prev + 1) % heroStackItems.length);
-        } else {
-            setHeroSelectedIndex(prev => (prev - 1 + heroStackItems.length) % heroStackItems.length);
-        }
+        const onWheel = (e: WheelEvent) => {
+            e.preventDefault();
+            e.stopPropagation();
+
+            if (heroStackItems.length === 0) return;
+
+            const now = Date.now();
+            if (now - lastWheelTime.current < 150) return;
+            lastWheelTime.current = now;
+
+            if (e.deltaY > 0) {
+                setHeroSelectedIndex(prev => (prev + 1) % heroStackItems.length);
+            } else {
+                setHeroSelectedIndex(prev => (prev - 1 + heroStackItems.length) % heroStackItems.length);
+            }
+        };
+
+        container.addEventListener('wheel', onWheel, { passive: false });
+        return () => container.removeEventListener('wheel', onWheel);
     }, [heroStackItems.length]);
 
     const handleStackHover = (index: number) => {
@@ -197,8 +211,8 @@ const Dashboard: React.FC = () => {
                                 <div className="similar-map-section">
                                     <div className="connection-beam" />
                                     <div
+                                        ref={stackContainerRef}
                                         className="map-stack-container"
-                                        onWheel={handleStackWheel}
                                     >
                                         {heroStackItems.map((show, index) => {
                                             const count = heroStackItems.length;
