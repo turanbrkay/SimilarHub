@@ -1,0 +1,271 @@
+/* Ranked Grid Section - TODAY'S TOP MOVIES */
+
+.ranked-grid-section {
+    padding: 4rem 2rem 3rem 2rem;
+    margin-bottom: 2rem;
+    position: relative;
+}
+
+.ranked-grid-header {
+    position: relative;
+    margin-bottom: 3rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.ranked-grid-bg-text {
+    position: absolute;
+    top: -1rem;
+    left: 0;
+    font-size: clamp(6rem, 15vw, 12rem);
+    font-weight: 900;
+    letter-spacing: -0.03em;
+    line-height: 0.8;
+    background: linear-gradient(180deg, #2bd9c6 0%, #208e79 50%, #186d5d 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    opacity: 0.15;
+    z-index: 0;
+    pointer-events: none;
+    text-transform: uppercase;
+    white-space: nowrap;
+    font-family: var(--font-family);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.ranked-grid-title {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    margin-left: auto;
+    margin-top: 1rem;
+}
+
+.ranked-grid-title span {
+    font-size: clamp(1.5rem, 3vw, 2rem);
+    font-weight: 700;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    background: linear-gradient(180deg, #2bd9c6 0%, #208e79 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    line-height: 1.1;
+    font-family: var(--font-family);
+}
+
+/* 2x5 Grid Layout */
+.ranked-grid-container {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 2rem 1.5rem;
+    position: relative;
+    z-index: 1;
+}
+
+.ranked-grid-item {
+    position: relative;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Large Rank Number Behind Card */
+.ranked-number {
+    position: absolute;
+    font-size: clamp(8rem, 12vw, 14rem);
+    font-weight: 900;
+    color: transparent;
+    -webkit-text-stroke: 3px rgba(43, 217, 198, 0.4);
+    text-stroke: 3px rgba(43, 217, 198, 0.4);
+    z-index: 0;
+    left: -10%;
+    top: 50%;
+    transform: translateY(-50%);
+    pointer-events: none;
+    line-height: 1;
+    font-family: var(--font-family);
+}
+
+/* Card on Top of Number */
+.ranked-card {
+    position: relative;
+    z-index: 2;
+    width: 100%;
+    max-width: 200px;
+    border-radius: 12px;
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.5);
+}
+
+.ranked-grid-item:hover .ranked-card {
+    transform: scale(1.05);
+    box-shadow: 0 12px 32px rgba(155, 89, 182, 0.4);
+}
+
+.ranked-card-poster {
+    position: relative;
+    width: 100%;
+    padding-bottom: 150%;
+    overflow: hidden;
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+}
+
+.ranked-card-poster img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.ranked-card-no-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #777;
+    font-size: 0.9rem;
+}
+
+/* Action Icons */
+.ranked-card-actions {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    z-index: 15;
+    opacity: 0;
+    transform: translateX(10px);
+    transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.ranked-grid-item:hover .ranked-card-actions {
+    opacity: 1;
+    transform: translateX(0);
+}
+
+/* Info Overlay */
+.ranked-card-info {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.95) 0%, rgba(0, 0, 0, 0.85) 70%, transparent 100%);
+    padding: 3rem 0.75rem 0.75rem;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.ranked-grid-item:hover .ranked-card-info {
+    opacity: 1;
+}
+
+.ranked-card-info h3 {
+    margin: 0;
+    font-size: 0.95rem;
+    color: var(--color-text);
+    font-weight: 600;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    line-height: 1.3;
+}
+
+/* Responsive */
+@media (max-width: 1399px) {
+    .ranked-grid-container {
+        gap: 1.5rem 1rem;
+    }
+
+    .ranked-card {
+        max-width: 180px;
+    }
+
+    .ranked-number {
+        font-size: clamp(7rem, 11vw, 12rem);
+        -webkit-text-stroke: 2.5px rgba(43, 217, 198, 0.4);
+        text-stroke: 2.5px rgba(43, 217, 198, 0.4);
+    }
+}
+
+@media (max-width: 1199px) {
+    .ranked-grid-container {
+        gap: 1.5rem 0.8rem;
+    }
+
+    .ranked-card {
+        max-width: 160px;
+    }
+
+    .ranked-number {
+        font-size: clamp(6rem, 10vw, 10rem);
+    }
+}
+
+@media (max-width: 991px) {
+    .ranked-grid-section {
+        padding: 3rem 1rem 2rem 1rem;
+    }
+
+    .ranked-grid-container {
+        grid-template-columns: repeat(5, 1fr);
+        gap: 1rem 0.5rem;
+    }
+
+    .ranked-card {
+        max-width: 140px;
+    }
+
+    .ranked-number {
+        font-size: clamp(5rem, 9vw, 8rem);
+        -webkit-text-stroke: 2px rgba(43, 217, 198, 0.4);
+        text-stroke: 2px rgba(43, 217, 198, 0.4);
+    }
+}
+
+@media (max-width: 767px) {
+    .ranked-grid-section {
+        padding: 2rem 0.5rem 1.5rem 0.5rem;
+    }
+
+    .ranked-grid-container {
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: auto;
+        gap: 1rem 0.5rem;
+    }
+
+    .ranked-card {
+        max-width: 120px;
+    }
+
+    .ranked-number {
+        font-size: clamp(4rem, 8vw, 6rem);
+        -webkit-text-stroke: 1.5px rgba(43, 217, 198, 0.4);
+        text-stroke: 1.5px rgba(43, 217, 198, 0.4);
+        left: -5%;
+    }
+
+    .ranked-card-actions {
+        top: 8px;
+        right: 8px;
+        gap: 6px;
+    }
+}

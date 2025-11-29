@@ -1,14 +1,29 @@
 import React, { useRef, useState, useEffect } from 'react';
 import type { Show } from '../services/api';
+import SectionHeader from './SectionHeader';
 import '../styles/HorizontalRow.css';
 
 interface HorizontalRowProps {
     title: string;
     shows: Show[];
     onShowClick: (showId: number) => void;
+    backgroundText?: string;
+    label?: string;
+    myList?: Show[];
+    onToggleList?: (show: Show) => void;
+    contentType?: 'movies' | 'tvshows' | 'books';
 }
 
-const HorizontalRow: React.FC<HorizontalRowProps> = ({ title, shows, onShowClick }) => {
+const HorizontalRow: React.FC<HorizontalRowProps> = ({
+    title,
+    shows,
+    onShowClick,
+    backgroundText,
+    label,
+    myList = [],
+    onToggleList,
+    contentType
+}) => {
     const scrollContainerRef = useRef<HTMLDivElement>(null);
     const [canScrollLeft, setCanScrollLeft] = useState(false);
     const [canScrollRight, setCanScrollRight] = useState(false);
@@ -69,9 +84,27 @@ const HorizontalRow: React.FC<HorizontalRowProps> = ({ title, shows, onShowClick
         return null;
     }
 
+    const isInMyList = (show: Show): boolean => {
+        return myList.some(s => String(s.id) === String(show.id));
+    };
+
+    const handleToggleList = (e: React.MouseEvent, show: Show) => {
+        e.stopPropagation();
+        if (onToggleList) {
+            onToggleList(show);
+        }
+    };
+
     return (
         <div className="horizontal-row-section">
-            <h2 className="horizontal-row-title">{title}</h2>
+            {backgroundText && (
+                <SectionHeader
+                    backgroundText={backgroundText}
+                    label={label}
+                    title={title}
+                    contentType={contentType}
+                />
+            )}
 
             <div className="horizontal-row-wrapper">
                 {canScrollLeft && (
@@ -91,6 +124,7 @@ const HorizontalRow: React.FC<HorizontalRowProps> = ({ title, shows, onShowClick
                     {shows.map((show) => {
                         const displayName = getDisplayName(show);
                         const year = getYear(show);
+                        const inList = isInMyList(show);
 
                         return (
                             <div
@@ -110,6 +144,31 @@ const HorizontalRow: React.FC<HorizontalRowProps> = ({ title, shows, onShowClick
                                         </div>
                                     )}
                                 </div>
+
+                                {onToggleList && (
+                                    <div className="horizontal-row-card-actions">
+                                        <button
+                                            className={`action-icon-btn ${inList ? 'active' : ''}`}
+                                            onClick={(e) => handleToggleList(e, show)}
+                                            aria-label={inList ? 'Remove from list' : 'Add to list'}
+                                        >
+                                            <svg viewBox="0 0 24 24">
+                                                <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z" />
+                                            </svg>
+                                        </button>
+                                        <button
+                                            className="action-icon-btn"
+                                            onClick={(e) => {
+                                                e.stopPropagation();
+                                            }}
+                                            aria-label="Bookmark"
+                                        >
+                                            <svg viewBox="0 0 24 24">
+                                                <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" />
+                                            </svg>
+                                        </button>
+                                    </div>
+                                )}
 
                                 <div className="horizontal-row-card-info">
                                     <h3>{displayName}</h3>

@@ -2,8 +2,9 @@ import React, { useState, useEffect } from 'react';
 import Navbar from './Navbar';
 import SimilarShows from './SimilarShows';
 import HorizontalRow from './HorizontalRow';
+import RankedGrid from './RankedGrid';
+import CategoryStrip from './CategoryStrip';
 import {
-    searchShows,
     getPopularShows,
     getPopularMovies,
     getPopularBooks,
@@ -88,7 +89,7 @@ const Dashboard: React.FC = () => {
     };
 
     return (
-        <div style={{ minHeight: '100vh', background: '#000' }}>
+        <div style={{ minHeight: '100vh', background: 'linear-gradient(to bottom, #0a0a0f 0%, #12121a 50%, #0a0a0f 100%)' }}>
             <Navbar
                 onSearchSelect={handleSearchSelect}
                 activeCategory={activeCategory}
@@ -135,29 +136,58 @@ const Dashboard: React.FC = () => {
                         {activeCategory === 'tvshows' && (
                             <>
                                 <HorizontalRow
-                                    title="Popular TV Shows"
+                                    title=""
+                                    backgroundText="WEEKLY"
                                     shows={popularTVShows}
                                     onShowClick={handleShowClick}
+                                    myList={myList}
+                                    onToggleList={toggleMyList}
+                                    contentType="tvshows"
                                 />
-                                <HorizontalRow
-                                    title="Top Rated TV Shows"
+
+                                <RankedGrid
                                     shows={topRated}
                                     onShowClick={handleShowClick}
+                                    myList={myList}
+                                    onToggleList={toggleMyList}
                                 />
+
+                                <CategoryStrip
+                                    categories={[
+                                        { name: 'Sci-Fi', shows: sciFi },
+                                        { name: 'Comedy', shows: comedy },
+                                        { name: 'Drama', shows: drama },
+                                        { name: 'Action', shows: popularTVShows },
+                                        { name: 'More', onClick: () => { } }
+                                    ]}
+                                />
+
                                 <HorizontalRow
-                                    title="Science Fiction"
+                                    title=""
+                                    backgroundText="SCI-FI"
                                     shows={sciFi}
                                     onShowClick={handleShowClick}
+                                    myList={myList}
+                                    onToggleList={toggleMyList}
+                                    contentType="tvshows"
                                 />
                                 <HorizontalRow
-                                    title="Comedy"
+                                    title=""
+                                    backgroundText="COMEDY"
                                     shows={comedy}
                                     onShowClick={handleShowClick}
+                                    myList={myList}
+                                    onToggleList={toggleMyList}
+                                    contentType="tvshows"
                                 />
                                 <HorizontalRow
-                                    title="Drama"
+                                    title=""
+                                    backgroundText="DRAMA"
                                     shows={drama}
                                     onShowClick={handleShowClick}
+                                    myList={myList}
+                                    onToggleList={toggleMyList}
+                                    contentType="tvshows"
                                 />
                             </>
                         )}
@@ -165,29 +195,58 @@ const Dashboard: React.FC = () => {
                         {activeCategory === 'movies' && (
                             <>
                                 <HorizontalRow
-                                    title="Popular Movies"
+                                    title=""
+                                    backgroundText="WEEKLY"
                                     shows={popularMovies}
                                     onShowClick={handleShowClick}
+                                    myList={myList}
+                                    onToggleList={toggleMyList}
+                                    contentType="movies"
                                 />
-                                <HorizontalRow
-                                    title="Top Rated Movies"
+
+                                <RankedGrid
                                     shows={topRated}
                                     onShowClick={handleShowClick}
+                                    myList={myList}
+                                    onToggleList={toggleMyList}
                                 />
+
+                                <CategoryStrip
+                                    categories={[
+                                        { name: 'Sci-Fi', shows: sciFi },
+                                        { name: 'Comedy', shows: comedy },
+                                        { name: 'Drama', shows: drama },
+                                        { name: 'Action', shows: popularMovies },
+                                        { name: 'More', onClick: () => { } }
+                                    ]}
+                                />
+
                                 <HorizontalRow
-                                    title="Science Fiction Movies"
+                                    title=""
+                                    backgroundText="SCI-FI"
                                     shows={sciFi}
                                     onShowClick={handleShowClick}
+                                    myList={myList}
+                                    onToggleList={toggleMyList}
+                                    contentType="movies"
                                 />
                                 <HorizontalRow
-                                    title="Comedy Movies"
+                                    title=""
+                                    backgroundText="COMEDY"
                                     shows={comedy}
                                     onShowClick={handleShowClick}
+                                    myList={myList}
+                                    onToggleList={toggleMyList}
+                                    contentType="movies"
                                 />
                                 <HorizontalRow
-                                    title="Drama Movies"
+                                    title=""
+                                    backgroundText="DRAMA"
                                     shows={drama}
                                     onShowClick={handleShowClick}
+                                    myList={myList}
+                                    onToggleList={toggleMyList}
+                                    contentType="movies"
                                 />
                             </>
                         )}
@@ -195,29 +254,58 @@ const Dashboard: React.FC = () => {
                         {activeCategory === 'books' && (
                             <>
                                 <HorizontalRow
-                                    title="Popular Books"
+                                    title=""
+                                    backgroundText="WEEKLY"
                                     shows={popularBooks}
                                     onShowClick={handleShowClick}
+                                    myList={myList}
+                                    onToggleList={toggleMyList}
+                                    contentType="books"
                                 />
-                                <HorizontalRow
-                                    title="Top Rated Books"
+
+                                <RankedGrid
                                     shows={topRated}
                                     onShowClick={handleShowClick}
+                                    myList={myList}
+                                    onToggleList={toggleMyList}
                                 />
+
+                                <CategoryStrip
+                                    categories={[
+                                        { name: 'Sci-Fi', shows: sciFi },
+                                        { name: 'Comedy', shows: comedy },
+                                        { name: 'Drama', shows: drama },
+                                        { name: 'Fiction', shows: popularBooks },
+                                        { name: 'More', onClick: () => { } }
+                                    ]}
+                                />
+
                                 <HorizontalRow
-                                    title="Science Fiction Books"
+                                    title=""
+                                    backgroundText="SCI-FI"
                                     shows={sciFi}
                                     onShowClick={handleShowClick}
+                                    myList={myList}
+                                    onToggleList={toggleMyList}
+                                    contentType="books"
                                 />
                                 <HorizontalRow
-                                    title="Comedy Books"
+                                    title=""
+                                    backgroundText="COMEDY"
                                     shows={comedy}
                                     onShowClick={handleShowClick}
+                                    myList={myList}
+                                    onToggleList={toggleMyList}
+                                    contentType="books"
                                 />
                                 <HorizontalRow
-                                    title="Drama Books"
+                                    title=""
+                                    backgroundText="DRAMA"
                                     shows={drama}
                                     onShowClick={handleShowClick}
+                                    myList={myList}
+                                    onToggleList={toggleMyList}
+                                    contentType="books"
                                 />
                             </>
                         )}
