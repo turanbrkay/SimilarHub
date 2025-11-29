@@ -88,16 +88,6 @@ const HorizontalRow: React.FC<HorizontalRowProps> = ({
         return null;
     }
 
-    const isInMyList = (show: Show): boolean => {
-        return myList.some(s => String(s.id) === String(show.id));
-    };
-
-    const handleToggleList = (e: React.MouseEvent, show: Show) => {
-        e.stopPropagation();
-        if (onToggleList) {
-            onToggleList(show);
-        }
-    };
 
     return (
         <div className="horizontal-row-section">
@@ -128,7 +118,6 @@ const HorizontalRow: React.FC<HorizontalRowProps> = ({
                     {shows.map((show) => {
                         const displayName = getDisplayName(show);
                         const year = getYear(show);
-                        const inList = isInMyList(show);
                         const isSelected = selectedShowId === show.id;
 
                         return (
@@ -150,31 +139,6 @@ const HorizontalRow: React.FC<HorizontalRowProps> = ({
                                         </div>
                                     )}
                                 </div>
-
-                                {onToggleList && (
-                                    <div className="horizontal-row-card-actions">
-                                        <button
-                                            className={`action-icon-btn ${inList ? 'active' : ''}`}
-                                            onClick={(e) => handleToggleList(e, show)}
-                                            aria-label={inList ? 'Remove from list' : 'Add to list'}
-                                        >
-                                            <svg viewBox="0 0 24 24">
-                                                <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z" />
-                                            </svg>
-                                        </button>
-                                        <button
-                                            className="action-icon-btn"
-                                            onClick={(e) => {
-                                                e.stopPropagation();
-                                            }}
-                                            aria-label="Bookmark"
-                                        >
-                                            <svg viewBox="0 0 24 24">
-                                                <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" />
-                                            </svg>
-                                        </button>
-                                    </div>
-                                )}
 
                                 <div className="horizontal-row-card-info">
                                     <h3>{displayName}</h3>

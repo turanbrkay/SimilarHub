@@ -4,6 +4,11 @@
     padding: 0 0 3rem 0;
     margin-bottom: 1.5rem;
     position: relative;
+
+    /* Scroll-into-view animation */
+    animation: slideInUp 0.6s cubic-bezier(0.2, 0.8, 0.2, 1) forwards;
+    opacity: 0;
+    transform: translateY(30px);
 }
 
 .horizontal-row-title {
@@ -56,7 +61,7 @@
 
 .horizontal-row-card:hover {
     transform: scale(1.05);
-    box-shadow: 0 12px 32px rgba(155, 89, 182, 0.4);
+    box-shadow: 0 12px 32px rgba(43, 217, 198, 0.4);
     z-index: 10;
 }
 
@@ -141,72 +146,13 @@
     font-weight: 600;
 }
 
-/* Action Icons - Heart & Bookmark */
-.horizontal-row-card-actions {
-    position: absolute;
-    top: 12px;
-    right: 12px;
-    display: flex;
-    flex-direction: column;
-    gap: 8px;
-    z-index: 15;
-    opacity: 0;
-    transform: translateX(10px);
-    transition: opacity 0.3s ease, transform 0.3s ease;
-}
-
-.horizontal-row-card:hover .horizontal-row-card-actions {
-    opacity: 1;
-    transform: translateX(0);
-}
-
-.action-icon-btn {
-    width: 36px;
-    height: 36px;
-    border-radius: 50%;
-    background: rgba(0, 0, 0, 0.7);
-    backdrop-filter: blur(8px);
-    border: 1px solid rgba(255, 255, 255, 0.2);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    cursor: pointer;
-    transition: all 0.3s ease;
-    padding: 0;
-}
-
-.action-icon-btn:hover {
-    background: rgba(155, 89, 182, 0.8);
-    border-color: rgba(155, 89, 182, 1);
-    transform: scale(1.1);
-}
-
-.action-icon-btn svg {
-    width: 18px;
-    height: 18px;
-    fill: none;
-    stroke: #fff;
-    stroke-width: 2;
-    stroke-linecap: round;
-    stroke-linejoin: round;
-}
-
-.action-icon-btn.active {
-    background: rgba(233, 30, 99, 0.8);
-    border-color: rgba(233, 30, 99, 1);
-}
-
-.action-icon-btn.active svg {
-    fill: #fff;
-}
-
 /* Navigation arrows - Modern minimal style */
 .horizontal-row-arrow {
     position: absolute;
-    top: -8rem;
+    top: 1rem;
     background: rgba(0, 0, 0, 0.8);
     backdrop-filter: blur(8px);
-    border: 1px solid rgba(155, 89, 182, 0.4);
+    border: 1px solid rgba(43, 217, 198, 0.4);
     color: #fff;
     width: 45px;
     height: 45px;
@@ -225,18 +171,18 @@
 
 .horizontal-row-arrow:hover {
     opacity: 1;
-    background: rgba(155, 89, 182, 0.3);
-    border-color: rgba(155, 89, 182, 0.8);
-    box-shadow: 0 4px 16px rgba(155, 89, 182, 0.4);
+    background: rgba(43, 217, 198, 0.3);
+    border-color: rgba(43, 217, 198, 0.8);
+    box-shadow: 0 4px 16px rgba(43, 217, 198, 0.4);
     transform: scale(1.1);
 }
 
 .horizontal-row-arrow-left {
-    left: 0;
+    right: 4rem;
 }
 
 .horizontal-row-arrow-right {
-    right: 0;
+    right: 1rem;
 }
 
 /* Responsive adjustments */
@@ -274,17 +220,15 @@
         width: 42px;
         height: 42px;
         font-size: 1.6rem;
-        top: -6.5rem;
+        top: 0.75rem;
     }
 
-    .action-icon-btn {
-        width: 32px;
-        height: 32px;
+    .horizontal-row-arrow-left {
+        right: 3.5rem;
     }
 
-    .action-icon-btn svg {
-        width: 16px;
-        height: 16px;
+    .horizontal-row-arrow-right {
+        right: 0.75rem;
     }
 }
 
@@ -311,23 +255,15 @@
         width: 38px;
         height: 38px;
         font-size: 1.5rem;
-        top: -5.5rem;
+        top: 0.5rem;
     }
 
-    .horizontal-row-card-actions {
-        top: 8px;
-        right: 8px;
-        gap: 6px;
+    .horizontal-row-arrow-left {
+        right: 3rem;
     }
 
-    .action-icon-btn {
-        width: 28px;
-        height: 28px;
-    }
-
-    .action-icon-btn svg {
-        width: 14px;
-        height: 14px;
+    .horizontal-row-arrow-right {
+        right: 0.5rem;
     }
 }
 
@@ -348,4 +284,54 @@
     bottom: 0;
     box-shadow: inset 0 0 20px rgba(43, 217, 198, 0.4);
     pointer-events: none;
+}
+
+/* Scroll-into-view animation keyframes */
+@keyframes slideInUp {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Stagger animations for sequential sections */
+.horizontal-row-section:nth-child(1) {
+    animation-delay: 0s;
+}
+
+.horizontal-row-section:nth-child(2) {
+    animation-delay: 0.1s;
+}
+
+.horizontal-row-section:nth-child(3) {
+    animation-delay: 0.2s;
+}
+
+.horizontal-row-section:nth-child(4) {
+    animation-delay: 0.3s;
+}
+
+.horizontal-row-section:nth-child(5) {
+    animation-delay: 0.4s;
+}
+
+.horizontal-row-section:nth-child(6) {
+    animation-delay: 0.5s;
+}
+
+.horizontal-row-section:nth-child(7) {
+    animation-delay: 0.6s;
+}
+
+.horizontal-row-section:nth-child(8) {
+    animation-delay: 0.7s;
+}
+
+/* Respect reduced motion preference */
+@media (prefers-reduced-motion: reduce) {
+    .horizontal-row-section {
+        animation: none;
+        opacity: 1;
+        transform: none;
+    }
 }
