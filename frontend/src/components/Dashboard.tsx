@@ -34,6 +34,7 @@ const Dashboard: React.FC = () => {
 
     // Hero Section State
     const [heroStackItems, setHeroStackItems] = useState<Show[]>([]);
+    const [heroSelectedIndex, setHeroSelectedIndex] = useState(0);
     const [heroSelectedShow, setHeroSelectedShow] = useState<Show | null>(null);
     const [heroSimilarShows, setHeroSimilarShows] = useState<Show[]>([]);
 
@@ -59,11 +60,11 @@ const Dashboard: React.FC = () => {
                 setComedy(com);
                 setDrama(dra);
 
-                // Initialize Hero Stack with top 8 popular TV shows
+                // Initialize Hero Stack with top 15 popular TV shows for better cyclic feel
                 if (tv && tv.length > 0) {
-                    const stack = tv.slice(0, 8);
+                    const stack = tv.slice(0, 15);
                     setHeroStackItems(stack);
-                    // Select first one by default
+                    setHeroSelectedIndex(0);
                     setHeroSelectedShow(stack[0]);
                 }
             } catch (err) {
@@ -88,16 +89,30 @@ const Dashboard: React.FC = () => {
         loadHeroMap();
     }, [heroSelectedShow]);
 
-    const hoverTimeoutRef = useRef<NodeJS.Timeout | null>(null);
-
-    const handleHeroStackHover = useCallback((show: Show) => {
-        if (hoverTimeoutRef.current) {
-            clearTimeout(hoverTimeoutRef.current);
+    // Sync selected show when index changes
+    useEffect(() => {
+        if (heroStackItems.length > 0) {
+            setHeroSelectedShow(heroStackItems[heroSelectedIndex]);
         }
-        hoverTimeoutRef.current = setTimeout(() => {
-            setHeroSelectedShow(show);
-        }, 300); // 300ms delay
-    }, []);
+    }, [heroSelectedIndex, heroStackItems]);
+
+    const lastWheelTime = useRef(0);
+
+    const handleStackWheel = useCallback((e: React.WheelEvent) => {
+        const now = Date.now();
+        if (now - lastWheelTime.current < 150) return; // Throttle for control
+        lastWheelTime.current = now;
+
+        if (e.deltaY > 0) {
+            setHeroSelectedIndex(prev => (prev + 1) % heroStackItems.length);
+        } else {
+            setHeroSelectedIndex(prev => (prev - 1 + heroStackItems.length) % heroStackItems.length);
+        }
+    }, [heroStackItems.length]);
+
+    const handleStackHover = (index: number) => {
+        setHeroSelectedIndex(index);
+    };
 
     const toggleMyList = (show: Show) => {
         const isInList = myList.some(s => String(s.id) === String(show.id));
@@ -181,35 +196,40 @@ const Dashboard: React.FC = () => {
                                 {/* HERO SECTION: Stack + Map */}
                                 <div className="similar-map-section">
                                     <div className="connection-beam" />
-                                    <div className="map-stack-container">
+                                    <div
+                                        className="map-stack-container"
+                                        onWheel={handleStackWheel}
+                                    >
                                         {heroStackItems.map((show, index) => {
-                                            const activeIndex = heroStackItems.findIndex(s => s.id === heroSelectedShow?.id);
                                             const count = heroStackItems.length;
-                                            const effectiveActiveIndex = activeIndex === -1 ? 0 : activeIndex;
-                                            const visualIndex = (index - effectiveActiveIndex + count) % count;
-                                            const isSelected = visualIndex === 0;
+                                            // Calculate cyclic distance
+                                            let diff = (index - heroSelectedIndex + count) % count;
+                                            if (diff > count / 2) diff -= count;
 
-                                            const topOffset = 10 + (visualIndex * 4);
-                                            const scale = 1 - (visualIndex * 0.05);
-                                            const opacity = 1 - (visualIndex * 0.15);
-                                            const zIndex = 20 - visualIndex;
+                                            const absDiff = Math.abs(diff);
+                                            const isSelected = diff === 0;
+
+                                            // Render all but hide distant ones to keep DOM stable
+                                            const isActive = absDiff <= 3;
+
+                                            // Visual parameters
+                                            const scale = 1 - (absDiff * 0.1);
+                                            const opacity = isActive ? 1 - (absDiff * 0.2) : 0;
+                                            const zIndex = 100 - absDiff;
+                                            const yOffset = diff * 60; // 60px vertical spacing
 
                                             return (
                                                 <div
                                                     key={show.id}
                                                     className={`map-stack-card ${isSelected ? 'selected' : ''}`}
                                                     style={{
-                                                        '--visual-index': visualIndex,
-                                                        top: `${topOffset}%`,
-                                                        transform: `scale(${scale}) translateY(${visualIndex * 30}px)`,
+                                                        top: '50%',
+                                                        transform: `translateY(-50%) translateY(${yOffset}px) scale(${scale})`,
                                                         zIndex: zIndex,
-                                                        opacity: Math.max(opacity, 0)
+                                                        opacity: Math.max(opacity, 0),
+                                                        pointerEvents: isActive ? 'auto' : 'none'
                                                     } as React.CSSProperties}
-                                                    onMouseEnter={() => {
-                                                        if (heroSelectedShow?.id !== show.id) {
-                                                            handleHeroStackHover(show);
-                                                        }
-                                                    }}
+                                                    onMouseEnter={() => handleStackHover(index)}
                                                     onClick={() => handleShowClick(show.id)}
                                                 >
                                                     <img
