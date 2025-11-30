@@ -1,13 +1,14 @@
 import React, { useState, useEffect } from 'react';
 import MostLovedHeader from './MostLovedHeader';
 import HorizontalRow from './HorizontalRow';
-import { getPopularMovies, type Show } from '../services/api';
+import { getPopularMovies, getPopularShows, type Show } from '../services/api';
 
 interface MostLovedSectionProps {
     onShowClick: (showId: number) => void;
+    contentType: 'movies' | 'tvshows';
 }
 
-const MostLovedSection: React.FC<MostLovedSectionProps> = ({ onShowClick }) => {
+const MostLovedSection: React.FC<MostLovedSectionProps> = ({ onShowClick, contentType }) => {
     const [selectedPlatform, setSelectedPlatform] = useState<string>('Netflix');
     const [shows, setShows] = useState<Show[]>([]);
 
@@ -15,8 +16,9 @@ const MostLovedSection: React.FC<MostLovedSectionProps> = ({ onShowClick }) => {
         const fetchMostLoved = async () => {
             try {
                 // Backend henüz hazır olmadığı için mevcut API'leri kullanıyoruz
-                // Movies sayfasında olduğumuz için sadece movies getiriyoruz
-                const data = await getPopularMovies();
+                const data = contentType === 'movies'
+                    ? await getPopularMovies()
+                    : await getPopularShows();
                 setShows(data);
             } catch (error) {
                 console.error('Error fetching most-loved content:', error);
@@ -25,7 +27,7 @@ const MostLovedSection: React.FC<MostLovedSectionProps> = ({ onShowClick }) => {
         };
 
         fetchMostLoved();
-    }, [selectedPlatform]);
+    }, [selectedPlatform, contentType]);
 
     const handlePlatformChange = (platform: string) => {
         setSelectedPlatform(platform);
@@ -36,13 +38,14 @@ const MostLovedSection: React.FC<MostLovedSectionProps> = ({ onShowClick }) => {
             <MostLovedHeader
                 selectedPlatform={selectedPlatform}
                 onPlatformChange={handlePlatformChange}
+                contentType={contentType}
             />
             <div style={{ marginTop: '2rem' }}>
                 <HorizontalRow
                     title=""
                     shows={shows}
                     onShowClick={onShowClick}
-                    contentType="movies"
+                    contentType={contentType}
                     customHeader={<></>}
                 />
             </div>

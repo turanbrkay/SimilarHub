@@ -2,9 +2,11 @@ import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import HorizontalRow from '../components/HorizontalRow';
 import RankedGrid from '../components/RankedGrid';
+import MostLovedSection from '../components/MostLovedSection';
 import {
     getPopularShows,
     getByGenre,
+    getTopRated,
     type Show
 } from '../services/api';
 import '../styles/Dashboard.css';
@@ -13,6 +15,7 @@ const TVShows: React.FC = () => {
     const navigate = useNavigate();
 
     const [popularTVShows, setPopularTVShows] = useState<Show[]>([]);
+    const [topRated, setTopRated] = useState<Show[]>([]);
     const [sciFi, setSciFi] = useState<Show[]>([]);
     const [comedy, setComedy] = useState<Show[]>([]);
     const [drama, setDrama] = useState<Show[]>([]);
@@ -20,14 +23,16 @@ const TVShows: React.FC = () => {
     useEffect(() => {
         const loadCategories = async () => {
             try {
-                const [tv, sci, com, dra] = await Promise.all([
+                const [tv, rated, sci, com, dra] = await Promise.all([
                     getPopularShows(),
+                    getTopRated(),
                     getByGenre('Science Fiction'),
                     getByGenre('Comedy'),
                     getByGenre('Drama')
                 ]);
 
                 setPopularTVShows(tv);
+                setTopRated(rated);
                 setSciFi(sci);
                 setComedy(com);
                 setDrama(dra);
@@ -82,6 +87,24 @@ const TVShows: React.FC = () => {
                         backgroundText="COMEDY"
                         shows={comedy}
                         onShowClick={handleShowClick}
+                        contentType="tvshows"
+                    />
+                </div>
+
+                <div className="page-content-width">
+                    <MostLovedSection onShowClick={handleShowClick} contentType="tvshows" />
+                </div>
+
+                <div className="page-content-width">
+                    <HorizontalRow
+                        title="TOP RATED TV SHOWS"
+                        shows={topRated}
+                        onShowClick={handleShowClick}
+                        customHeader={
+                            <div className="custom-header-tv-on-air">
+                                TOP RATED TV SHOWS
+                            </div>
+                        }
                         contentType="tvshows"
                     />
                 </div>

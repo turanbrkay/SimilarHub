@@ -4,6 +4,7 @@ import '../styles/MostLovedHeader.css';
 interface MostLovedHeaderProps {
     selectedPlatform: string;
     onPlatformChange: (platform: string) => void;
+    contentType: 'movies' | 'tvshows';
 }
 
 const PLATFORM_LOGOS: Record<string, string> = {
@@ -19,7 +20,8 @@ const PLATFORMS = ['Netflix', 'Prime', 'Max', 'Disney+', 'Apple TV+', 'Paramount
 
 const MostLovedHeader: React.FC<MostLovedHeaderProps> = ({
     selectedPlatform,
-    onPlatformChange
+    onPlatformChange,
+    contentType
 }) => {
     const [isPlatformDropdownOpen, setIsPlatformDropdownOpen] = useState(false);
 
@@ -60,7 +62,9 @@ const MostLovedHeader: React.FC<MostLovedHeaderProps> = ({
                             MOST-<span className="most-loved-text-glow">LOVED</span>
                         </p>
                         <p className="most-loved-line2">
-                            <span className="most-loved-text-glow">MOVIES</span> ON
+                            <span className="most-loved-text-glow">
+                                {contentType === 'movies' ? 'MOVIES' : 'TV SHOWS'}
+                            </span> ON
                         </p>
                     </div>
 

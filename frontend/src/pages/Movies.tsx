@@ -6,6 +6,7 @@ import MostLovedSection from '../components/MostLovedSection';
 import {
     getPopularMovies,
     getByGenre,
+    getTopRated,
     type Show
 } from '../services/api';
 import '../styles/Dashboard.css';
@@ -14,6 +15,7 @@ const Movies: React.FC = () => {
     const navigate = useNavigate();
 
     const [popularMovies, setPopularMovies] = useState<Show[]>([]);
+    const [topRated, setTopRated] = useState<Show[]>([]);
     const [sciFi, setSciFi] = useState<Show[]>([]);
     const [comedy, setComedy] = useState<Show[]>([]);
     const [drama, setDrama] = useState<Show[]>([]);
@@ -21,14 +23,16 @@ const Movies: React.FC = () => {
     useEffect(() => {
         const loadCategories = async () => {
             try {
-                const [movies, sci, com, dra] = await Promise.all([
+                const [movies, rated, sci, com, dra] = await Promise.all([
                     getPopularMovies(),
+                    getTopRated(),
                     getByGenre('Science Fiction', 'movie'),
                     getByGenre('Comedy', 'movie'),
                     getByGenre('Drama', 'movie')
                 ]);
 
                 setPopularMovies(movies);
+                setTopRated(rated);
                 setSciFi(sci);
                 setComedy(com);
                 setDrama(dra);
@@ -87,7 +91,21 @@ const Movies: React.FC = () => {
                 </div>
 
                 <div className="page-content-width">
-                    <MostLovedSection onShowClick={handleShowClick} />
+                    <MostLovedSection onShowClick={handleShowClick} contentType="movies" />
+                </div>
+
+                <div className="page-content-width">
+                    <HorizontalRow
+                        title="TOP RATED MOVIES"
+                        shows={topRated}
+                        onShowClick={handleShowClick}
+                        customHeader={
+                            <div className="custom-header-tv-on-air">
+                                TOP RATED MOVIES
+                            </div>
+                        }
+                        contentType="movies"
+                    />
                 </div>
 
                 <div className="page-content-width">
