@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import HorizontalRow from '../components/HorizontalRow';
 import RankedGrid from '../components/RankedGrid';
-import CategoryStrip from '../components/CategoryStrip';
 import {
     getPopularBooks,
     getByGenre,
@@ -46,12 +45,16 @@ const Books: React.FC = () => {
     return (
         <main className="dashboard-main">
             <div className="dashboard-container-netflix category-view">
-                <div className="page-content-width" style={{ paddingTop: '80px' }}>
+                <div className="page-content-width">
                     <HorizontalRow
-                        title=""
-                        backgroundText="WEEKLY"
+                        title="BOOKS ON AIR"
                         shows={popularBooks}
                         onShowClick={handleShowClick}
+                        customHeader={
+                            <div className="custom-header-tv-on-air">
+                                BOOKS ON AIR
+                            </div>
+                        }
                         contentType="books"
                     />
                 </div>
@@ -59,18 +62,7 @@ const Books: React.FC = () => {
                 <div className="page-content-width">
                     <RankedGrid
                         onShowClick={handleShowClick}
-                    />
-                </div>
-
-                <div className="page-content-width">
-                    <CategoryStrip
-                        categories={[
-                            { name: 'Sci-Fi', shows: sciFi },
-                            { name: 'Comedy', shows: comedy },
-                            { name: 'Drama', shows: drama },
-                            { name: 'Fiction', shows: popularBooks },
-                            { name: 'More', onClick: () => { } }
-                        ]}
+                        fixedType="BOOKS"
                     />
                 </div>
 
