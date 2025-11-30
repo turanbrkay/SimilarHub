@@ -145,9 +145,13 @@ export async function getTopRated(): Promise<Show[]> {
 }
 
 // Get items by genre
-export async function getByGenre(genre: string): Promise<Show[]> {
+export async function getByGenre(genre: string, type?: 'movie' | 'tv'): Promise<Show[]> {
     try {
-        const response = await fetch(`${API_BASE}/genre/${encodeURIComponent(genre)}`);
+        let url = `${API_BASE}/genre/${encodeURIComponent(genre)}`;
+        if (type) {
+            url += `?type=${type}`;
+        }
+        const response = await fetch(url);
         if (!response.ok) {
             console.error(`Failed to fetch ${genre} items`);
             return [];

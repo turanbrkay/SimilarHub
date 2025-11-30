@@ -31,6 +31,7 @@ const Dashboard: React.FC = () => {
     const [topRated, setTopRated] = useState<Show[]>([]);
     const [sciFi, setSciFi] = useState<Show[]>([]);
     const [comedy, setComedy] = useState<Show[]>([]);
+    const [comedyMovies, setComedyMovies] = useState<Show[]>([]);
     const [drama, setDrama] = useState<Show[]>([]);
 
     // Hero Section State
@@ -43,13 +44,14 @@ const Dashboard: React.FC = () => {
         const loadAllCategories = async () => {
             try {
                 // Load all categories in parallel - they will refresh when activeCategory changes
-                const [tv, movies, books, rated, sci, com, dra] = await Promise.all([
+                const [tv, movies, books, rated, sci, com, comMov, dra] = await Promise.all([
                     getPopularShows(),
                     getPopularMovies(),
                     getPopularBooks(),
                     getTopRated(),
                     getByGenre('Science Fiction'),
                     getByGenre('Comedy'),
+                    getByGenre('Comedy', 'movie'),
                     getByGenre('Drama')
                 ]);
 
@@ -59,6 +61,7 @@ const Dashboard: React.FC = () => {
                 setTopRated(rated);
                 setSciFi(sci);
                 setComedy(com);
+                setComedyMovies(comMov);
                 setDrama(dra);
 
                 // Initialize Hero Stack with top 15 popular TV shows for better cyclic feel
@@ -323,11 +326,11 @@ const Dashboard: React.FC = () => {
                                         <HorizontalRow
                                             title=""
                                             backgroundText="COMEDY"
-                                            shows={comedy}
+                                            shows={comedyMovies}
                                             onShowClick={handleShowClick}
                                             myList={myList}
                                             onToggleList={toggleMyList}
-                                            contentType="tvshows"
+                                            contentType="movies"
                                         />
                                     </div>
 
