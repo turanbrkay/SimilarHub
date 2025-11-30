@@ -231,7 +231,22 @@ const SimilarShows: React.FC<SimilarShowsProps> = ({ showId, onBack, onShowClick
                                         <div className="similar-grid-card-poster">
                                             {show.similarity_percent && (
                                                 <div className="similar-grid-card-badge">
-                                                    {show.similarity_percent}%
+                                                    <div
+                                                        className={`radial-progress ${
+                                                            show.similarity_percent >= 70 ? 'text-green' :
+                                                            show.similarity_percent >= 40 ? 'text-yellow' :
+                                                            'text-red'
+                                                        }`}
+                                                        style={{
+                                                            '--value': show.similarity_percent,
+                                                            '--size': '36px',
+                                                            '--thickness': '2.5px'
+                                                        } as React.CSSProperties}
+                                                    >
+                                                        <span className="radial-progress-text">
+                                                            {Math.round(show.similarity_percent)}%
+                                                        </span>
+                                                    </div>
                                                 </div>
                                             )}
                                             <img

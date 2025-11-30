@@ -565,32 +565,83 @@
     object-fit: cover;
 }
 
-/* Similarity badge - top left corner */
+/* Similarity badge - top left corner with radial progress */
 .similar-grid-card-badge {
     position: absolute;
-    top: 0.4rem;
-    left: 0.4rem;
-    background: rgba(10, 12, 16, 0.85);
-    backdrop-filter: blur(4px);
-    color: var(--color-accent);
-    width: 32px;
-    height: 32px;
+    top: 0.5rem;
+    left: 0.5rem;
+    background: rgba(0, 0, 0, 0.75);
+    backdrop-filter: blur(8px);
+    padding: 0.2rem;
     border-radius: 50%;
-    border: 1.5px solid rgba(43, 217, 198, 0.4);
-    font-size: 0.65rem;
-    font-weight: 600;
-    letter-spacing: -0.02em;
     z-index: 10;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.6), inset 0 1px 2px rgba(43, 217, 198, 0.1);
-    transition: all 0.3s ease;
+    pointer-events: none;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
 }
 
-.similar-grid-card:hover .similar-grid-card-badge {
-    border-color: var(--color-accent);
-    box-shadow: 0 2px 8px rgba(43, 217, 198, 0.4), inset 0 1px 2px rgba(43, 217, 198, 0.15);
+/* Radial Progress */
+.radial-progress {
+    position: relative;
+    display: inline-grid;
+    height: var(--size);
+    width: var(--size);
+    place-content: center;
+    border-radius: 50%;
+    background-color: transparent;
+    vertical-align: middle;
+    box-sizing: content-box;
+    --value: 0;
+    --size: 36px;
+    --thickness: 2.5px;
+    font-size: 0.7rem;
+    font-weight: 700;
+    transform: rotate(-90deg);
+}
+
+.radial-progress::before {
+    content: "";
+    position: absolute;
+    border-radius: 50%;
+    inset: 0;
+    background: conic-gradient(
+        currentColor calc(var(--value) * 1%),
+        rgba(255, 255, 255, 0.15) 0
+    );
+    mask: radial-gradient(
+        farthest-side,
+        transparent calc(100% - var(--thickness) - 1px),
+        black calc(100% - var(--thickness))
+    );
+    -webkit-mask: radial-gradient(
+        farthest-side,
+        transparent calc(100% - var(--thickness) - 1px),
+        black calc(100% - var(--thickness))
+    );
+}
+
+/* Color classes */
+.radial-progress.text-green {
+    color: rgb(34, 197, 94);
+}
+
+.radial-progress.text-yellow {
+    color: rgb(252, 180, 6);
+}
+
+.radial-progress.text-red {
+    color: rgb(239, 68, 68);
+}
+
+/* Text inside radial progress */
+.radial-progress-text {
+    position: relative;
+    z-index: 1;
+    color: white;
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.9);
+    transform: rotate(90deg);
+    letter-spacing: -0.5px;
 }
 
 /* Info overlay - hidden by default, shown on hover */
