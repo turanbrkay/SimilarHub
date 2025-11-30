@@ -130,6 +130,20 @@ const Home: React.FC = () => {
                             ref={stackContainerRef}
                             className="map-stack-container"
                         >
+                            {/* Up Arrow */}
+                            <button
+                                className="horizontal-row-arrow"
+                                onClick={(e) => {
+                                    e.stopPropagation();
+                                    setHeroSelectedIndex(prev => (prev - 1 + heroStackItems.length) % heroStackItems.length);
+                                }}
+                                style={{ transform: 'rotate(90deg)', zIndex: 200 }}
+                                aria-label="Previous item"
+                            >
+                                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                                    <polyline points="15 18 9 12 15 6" />
+                                </svg>
+                            </button>
                             {heroStackItems.map((show, index) => {
                                 const count = heroStackItems.length;
                                 let diff = (index - heroSelectedIndex + count) % count;
@@ -137,7 +151,7 @@ const Home: React.FC = () => {
 
                                 const absDiff = Math.abs(diff);
                                 const isSelected = diff === 0;
-                                const isActive = absDiff <= 3;
+                                const isActive = absDiff <= 2;
 
                                 const scale = 1 - (absDiff * 0.1);
                                 const opacity = isActive ? 1 - (absDiff * 0.2) : 0;
@@ -170,6 +184,21 @@ const Home: React.FC = () => {
                                     </div>
                                 );
                             })}
+
+                            {/* Down Arrow */}
+                            <button
+                                className="horizontal-row-arrow"
+                                onClick={(e) => {
+                                    e.stopPropagation();
+                                    setHeroSelectedIndex(prev => (prev + 1) % heroStackItems.length);
+                                }}
+                                style={{ transform: 'rotate(90deg)', zIndex: 200 }}
+                                aria-label="Next item"
+                            >
+                                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                                    <polyline points="9 18 15 12 9 6" />
+                                </svg>
+                            </button>
                         </div>
                         <div className="dashboard-map-container">
                             {heroSelectedShow && (
