@@ -31,12 +31,12 @@ def get_all_shows_with_embeddings(vector_db: VectorDB) -> List[Dict]:
                 title,
                 embedding_analytical,
                 embedding_plot,
-                embedding_keywords
+                keywords_json
             FROM media_items 
             WHERE 
                 embedding_analytical IS NOT NULL AND
-                embedding_plot IS NOT NULL AND
-                embedding_keywords IS NOT NULL
+                embedding_plot IS NOT NULL
+            ORDER BY id
         """)
         
         shows = []
@@ -46,16 +46,16 @@ def get_all_shows_with_embeddings(vector_db: VectorDB) -> List[Dict]:
                 'title': row[1],
                 'embeddings': {
                     'analytical': np.array(row[2]),
-                    'plot': np.array(row[3]),
-                    'keywords': np.array(row[4])
-                }
+                    'plot': np.array(row[3])
+                },
+                'keywords_json': row[4]
             })
         
         return shows
 
 def calculate_similarities(
     database_url: str,
-    top_k: int = 20,
+    top_k: int = 50,
     batch_size: int = 50
 ):
     """
@@ -85,10 +85,12 @@ def calculate_similarities(
             # We exclude the show itself in the query logic usually, but let's handle it explicitly if needed
             # The search_multi_vector method returns top K matches
             
+            # 2. Calculate similarities
             results = vector_db.search_multi_vector(
                 query_vectors=source_show['embeddings'],
-                weights=WEIGHT_PROFILES['user_custom'],
-                limit=top_k + 1  # +1 because it will find itself
+                query_keywords=source_show.get('keywords_json'),
+                weights=WEIGHT_PROFILES['user_custom'], # Assuming 'user_custom' is the intended weight profile
+                limit=top_k + 1  # +1 to exclude itself
             )
             
             # Filter out self

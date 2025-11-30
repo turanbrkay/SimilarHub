@@ -168,31 +168,26 @@ class EmbeddingService:
             llm_responses: List of LLM response dicts
             
         Returns:
-            List of embedding dicts, one per show
+            List of embedding dicts with 'analytical' and 'plot' only
         """
         # Extract all texts
         analytical_texts = []
         plot_texts = []
-        keywords_texts = []
         
         for resp in llm_responses:
             analytical_texts.append(resp.get('analytical_summary', ''))
             plot_texts.append(resp.get('spoiler_rich_plot_summary', ''))
-            keywords_dict = resp.get('categorized_keywords', {})
-            keywords_texts.append(self.keywords_to_text(keywords_dict))
         
-        # Batch encode all at once
+        # Batch encode (only 2 types now)
         analytical_embeds = self.encode_batch(analytical_texts)
         plot_embeds = self.encode_batch(plot_texts)
-        keywords_embeds = self.encode_batch(keywords_texts)
         
         # Package results
         results = []
         for i in range(len(llm_responses)):
             results.append({
                 'analytical': analytical_embeds[i],
-                'plot': plot_embeds[i],
-                'keywords': keywords_embeds[i]
+                'plot': plot_embeds[i]
             })
         
         return results

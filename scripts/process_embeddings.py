@@ -180,17 +180,31 @@ def process_embeddings(
         llm_responses = [s['llm_response'] for s in batch]
         embeddings_batch = embedding_service.embed_shows_batch(llm_responses)
         
-        # Prepare data for database insert
+        # Prepare data for database insert (embeddings)
         db_data = [
             (title_to_id[title], embeddings)
             for title, embeddings in zip(batch_titles, embeddings_batch)
         ]
         
-        # Batch insert to database
+        # Batch insert embeddings to database
         vector_db.insert_embeddings_batch(db_data)
+        
+        # Extract and insert keywords
+        keywords_data = []
+        for show in batch:
+            show_id = title_to_id[show['title']]
+            llm_response = show['llm_response']
+            
+            # Extract categorized_keywords from LLM response
+            if 'categorized_keywords' in llm_response:
+                keywords_data.append((show_id, llm_response['categorized_keywords']))
+        
+        if keywords_data:
+            vector_db.insert_keywords_batch(keywords_data)
         
         processed += len(batch)
         logger.info(f"Progress: {processed}/{total} ({processed/total*100:.1f}%)")
+
     
     # Print statistics
     stats = vector_db.get_embedding_stats()
