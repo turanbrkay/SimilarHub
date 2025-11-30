@@ -162,3 +162,22 @@ export async function getByGenre(genre: string, type?: 'movie' | 'tv'): Promise<
         return [];
     }
 }
+
+// Get most-loved content by platform and type
+export async function getMostLoved(
+    platform: string = 'Netflix',
+    type: 'Movies' | 'Series' = 'Movies'
+): Promise<Show[]> {
+    try {
+        const params = new URLSearchParams({ platform, type });
+        const response = await fetch(`${API_BASE}/most-loved?${params}`);
+        if (!response.ok) {
+            console.error('Failed to fetch most-loved content');
+            return [];
+        }
+        return await response.json();
+    } catch (error) {
+        console.error('Most-loved fetch error:', error);
+        return [];
+    }
+}

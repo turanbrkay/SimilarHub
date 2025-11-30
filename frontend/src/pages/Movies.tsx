@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import HorizontalRow from '../components/HorizontalRow';
 import RankedGrid from '../components/RankedGrid';
+import MostLovedSection from '../components/MostLovedSection';
 import {
     getPopularMovies,
     getByGenre,
@@ -83,6 +84,10 @@ const Movies: React.FC = () => {
                         onShowClick={handleShowClick}
                         contentType="movies"
                     />
+                </div>
+
+                <div className="page-content-width">
+                    <MostLovedSection onShowClick={handleShowClick} />
                 </div>
 
                 <div className="page-content-width">

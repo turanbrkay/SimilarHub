@@ -1,0 +1,267 @@
+/* Most-Loved WATCH Section Styling */
+
+.most-loved-header-container {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: clamp(7rem, 12vw, 10rem);
+    margin-bottom: 2rem;
+    padding: 0;
+}
+
+/* Background "WATCH" Text - Same style as section-header-background */
+.most-loved-background {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    font-size: clamp(6rem, 15vw, 12rem);
+    font-weight: 900;
+    letter-spacing: -0.03em;
+    line-height: 0.8;
+    background: linear-gradient(180deg, #2bd9c6 0%, #208e79 50%, #186d5d 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    opacity: 0.15;
+    z-index: 0;
+    pointer-events: none;
+    text-transform: uppercase;
+    white-space: nowrap;
+    font-family: Montserrat, 'Montserrat Fallback', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/* Foreground Container with Dynamic Text */
+.most-loved-foreground {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    padding-left: 1rem;
+}
+
+/* Text Lines */
+.most-loved-line1,
+.most-loved-line2 {
+    font-family: Montserrat, 'Montserrat Fallback', sans-serif;
+    font-size: clamp(1.2rem, 2vw, 1.5rem);
+    font-weight: 700;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+    color: #ffffff;
+    line-height: 1.75rem;
+    display: flex;
+    align-items: baseline;
+}
+
+/* Normal text without glow */
+.most-loved-text-normal {
+    color: #ffffff;
+}
+
+/* Glowing text with primary color */
+.most-loved-text-glow {
+    color: #ffffff;
+    text-shadow:
+        0 0 10px rgba(43, 217, 198, 0.8),
+        0 0 20px rgba(43, 217, 198, 0.6),
+        0 0 30px rgba(43, 217, 198, 0.4),
+        0 0 40px rgba(43, 217, 198, 0.2);
+}
+
+/* Dynamic Text with Animation */
+.most-loved-dynamic-text {
+    display: inline-block;
+    animation: slideDownFadeIn 500ms ease-out;
+}
+
+/* Slide Down Animation (same as RankedGrid) */
+@keyframes slideDownFadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-100%);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Platform Logo */
+.most-loved-platform-logo {
+    position: absolute;
+    right: 14rem;
+    top: 50%;
+    transform: translateY(-50%);
+    height: 3rem;
+    width: auto;
+    object-fit: contain;
+    opacity: 0.9;
+    z-index: 2;
+    transition: opacity 0.3s ease;
+}
+
+.most-loved-platform-logo:hover {
+    opacity: 1;
+}
+
+@media (max-width: 768px) {
+    .most-loved-platform-logo {
+        height: 2.5rem;
+        right: 12rem;
+    }
+}
+
+/* Dropdowns Container */
+.most-loved-dropdowns {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    display: flex;
+    gap: 0.75rem;
+    z-index: 20;
+}
+
+/* Individual Dropdown Wrapper */
+.most-loved-dropdown {
+    position: relative;
+}
+
+/* Dropdown Button (same style as RankedGrid) */
+.most-loved-dropdown-button {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.75rem 1.25rem;
+    background: rgba(43, 217, 198, 0.1);
+    border: 1px solid rgba(43, 217, 198, 0.3);
+    border-radius: 8px;
+    color: var(--color-accent);
+    font-family: Montserrat, 'Montserrat Fallback', sans-serif;
+    font-size: 0.875rem;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all 200ms ease;
+    backdrop-filter: blur(10px);
+    white-space: nowrap;
+}
+
+.most-loved-dropdown-button:hover {
+    background: rgba(43, 217, 198, 0.15);
+    border-color: rgba(43, 217, 198, 0.5);
+    box-shadow: 0 4px 12px rgba(43, 217, 198, 0.2);
+}
+
+/* Dropdown Arrow */
+.most-loved-dropdown-arrow {
+    transition: transform 200ms ease;
+}
+
+.most-loved-dropdown-arrow.open {
+    transform: rotate(180deg);
+}
+
+/* Dropdown Menu */
+.most-loved-dropdown-menu {
+    position: absolute;
+    top: calc(100% + 0.5rem);
+    right: 0;
+    min-width: 12rem;
+    background: rgba(31, 33, 37, 0.95);
+    border: 1px solid rgba(43, 217, 198, 0.2);
+    border-radius: 8px;
+    overflow: hidden;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+    animation: dropdownSlideIn 200ms ease;
+    z-index: 30;
+}
+
+@keyframes dropdownSlideIn {
+    from {
+        opacity: 0;
+        transform: translateY(-8px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Dropdown Item */
+.most-loved-dropdown-item {
+    width: 100%;
+    padding: 0.875rem 1.25rem;
+    background: transparent;
+    border: none;
+    color: #ffffff;
+    font-family: Montserrat, 'Montserrat Fallback', sans-serif;
+    font-size: 0.875rem;
+    font-weight: 500;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: left;
+    cursor: pointer;
+    transition: all 150ms ease;
+    border-bottom: 1px solid rgba(43, 217, 198, 0.1);
+}
+
+.most-loved-dropdown-item:last-child {
+    border-bottom: none;
+}
+
+.most-loved-dropdown-item:hover {
+    background: rgba(43, 217, 198, 0.1);
+    color: var(--color-accent);
+    padding-left: 1.5rem;
+}
+
+.most-loved-dropdown-item.active {
+    background: rgba(43, 217, 198, 0.15);
+    color: var(--color-accent);
+    font-weight: 700;
+}
+
+/* Responsive adjustments */
+@media (max-width: 1024px) {
+    .most-loved-dropdowns {
+        gap: 0.5rem;
+    }
+
+    .most-loved-dropdown-button {
+        padding: 0.6rem 1rem;
+        font-size: 0.75rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .most-loved-header-container {
+        flex-direction: column;
+        align-items: flex-start;
+        height: auto;
+        gap: 1.5rem;
+        padding-bottom: 1rem;
+    }
+
+    .most-loved-dropdowns {
+        position: relative;
+        right: auto;
+        top: auto;
+        transform: none;
+    }
+
+    .most-loved-platform-logo {
+        position: relative;
+        right: auto;
+        top: auto;
+        transform: none;
+        margin-top: 1rem;
+    }
+}

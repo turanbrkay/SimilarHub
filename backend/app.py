@@ -356,6 +356,45 @@ def top_rated():
     return jsonify(results)
 
 
+@app.route('/most-loved', methods=['GET'])
+@app.route('/api/most-loved', methods=['GET'])
+def most_loved():
+    """Returns most-loved content filtered by platform and type"""
+    platform = request.args.get('platform', 'Netflix')
+    content_type = request.args.get('type', 'Movies')
+
+    # Map to source_type
+    source_type = 'movie' if content_type == 'Movies' else 'tv'
+
+    conn = get_db_connection()
+    with conn.cursor(cursor_factory=psycopg2.extras.RealDictCursor) as cur:
+        # Use vote_average as "most-loved" metric
+        # Platform filtering is placeholder for future enhancement
+        cur.execute("""
+            SELECT
+                id,
+                title,
+                name,
+                poster_path,
+                year,
+                overview,
+                genres,
+                popularity,
+                source_type,
+                vote_average
+            FROM media_items
+            WHERE source_type = %s
+              AND poster_path IS NOT NULL
+              AND poster_path != ''
+              AND vote_average IS NOT NULL
+            ORDER BY vote_average DESC, popularity DESC
+            LIMIT 20
+        """, (source_type,))
+        results = cur.fetchall()
+    conn.close()
+    return jsonify(results)
+
+
 @app.route('/genre/<genre_name>', methods=['GET'])
 @app.route('/api/genre/<genre_name>', methods=['GET'])
 def by_genre(genre_name):
