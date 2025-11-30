@@ -42,6 +42,7 @@
     flex-direction: column;
     gap: 0.25rem;
     padding-left: 1rem;
+    align-items: flex-start;
 }
 
 /* Text Lines */
@@ -91,17 +92,14 @@
     }
 }
 
-/* Platform Logo */
+/* Platform Logo - positioned below the text lines */
 .most-loved-platform-logo {
-    position: absolute;
-    right: 14rem;
-    top: 50%;
-    transform: translateY(-50%);
+    margin-top: 1rem;
     height: 3rem;
     width: auto;
+    max-width: 10rem;
     object-fit: contain;
     opacity: 0.9;
-    z-index: 2;
     transition: opacity 0.3s ease;
 }
 
@@ -112,18 +110,17 @@
 @media (max-width: 768px) {
     .most-loved-platform-logo {
         height: 2.5rem;
-        right: 12rem;
+        margin-top: 0.75rem;
     }
 }
 
-/* Dropdowns Container */
+/* Dropdowns Container - single dropdown on the right */
 .most-loved-dropdowns {
     position: absolute;
-    right: 0;
+    right: 1rem;
     top: 50%;
     transform: translateY(-50%);
     display: flex;
-    gap: 0.75rem;
     z-index: 20;
 }
 

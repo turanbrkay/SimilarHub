@@ -3,9 +3,7 @@ import '../styles/MostLovedHeader.css';
 
 interface MostLovedHeaderProps {
     selectedPlatform: string;
-    selectedType: 'Movies' | 'Series';
     onPlatformChange: (platform: string) => void;
-    onTypeChange: (type: 'Movies' | 'Series') => void;
 }
 
 const PLATFORM_LOGOS: Record<string, string> = {
@@ -18,19 +16,14 @@ const PLATFORM_LOGOS: Record<string, string> = {
 };
 
 const PLATFORMS = ['Netflix', 'Prime', 'Max', 'Disney+', 'Apple TV+', 'Paramount+'];
-const TYPES: Array<'Movies' | 'Series'> = ['Movies', 'Series'];
 
 const MostLovedHeader: React.FC<MostLovedHeaderProps> = ({
     selectedPlatform,
-    selectedType,
-    onPlatformChange,
-    onTypeChange
+    onPlatformChange
 }) => {
     const [isPlatformDropdownOpen, setIsPlatformDropdownOpen] = useState(false);
-    const [isTypeDropdownOpen, setIsTypeDropdownOpen] = useState(false);
 
     const platformDropdownRef = useRef<HTMLDivElement>(null);
-    const typeDropdownRef = useRef<HTMLDivElement>(null);
 
     useEffect(() => {
         const handleClickOutside = (event: MouseEvent) => {
@@ -39,12 +32,6 @@ const MostLovedHeader: React.FC<MostLovedHeaderProps> = ({
                 !platformDropdownRef.current.contains(event.target as Node)
             ) {
                 setIsPlatformDropdownOpen(false);
-            }
-            if (
-                typeDropdownRef.current &&
-                !typeDropdownRef.current.contains(event.target as Node)
-            ) {
-                setIsTypeDropdownOpen(false);
             }
         };
 
@@ -59,42 +46,34 @@ const MostLovedHeader: React.FC<MostLovedHeaderProps> = ({
         setIsPlatformDropdownOpen(false);
     };
 
-    const handleTypeSelect = (type: 'Movies' | 'Series') => {
-        onTypeChange(type);
-        setIsTypeDropdownOpen(false);
-    };
-
     return (
         <div className="most-loved-header-container">
             {/* Background "WATCH" Text */}
             <div className="most-loved-background">WATCH</div>
 
-            {/* Foreground Text with Glow Effects */}
+            {/* Foreground Text with Glow Effects and Platform Logo */}
             <div className="most-loved-foreground">
                 <div className="most-loved-line1">
                     <span className="most-loved-text-normal">Most-</span>
                     <span className="most-loved-text-glow">Loved</span>
                 </div>
                 <div className="most-loved-line2">
-                    <span key={selectedType} className="most-loved-text-glow most-loved-dynamic-text">
-                        {selectedType}
-                    </span>
+                    <span className="most-loved-text-glow">Movies</span>
                     <span className="most-loved-text-normal"> ON</span>
                 </div>
+
+                {/* Platform Logo */}
+                {PLATFORM_LOGOS[selectedPlatform] && (
+                    <img
+                        src={PLATFORM_LOGOS[selectedPlatform]}
+                        alt={`${selectedPlatform} logo`}
+                        className="most-loved-platform-logo"
+                    />
+                )}
             </div>
 
-            {/* Platform Logo */}
-            {PLATFORM_LOGOS[selectedPlatform] && (
-                <img
-                    src={PLATFORM_LOGOS[selectedPlatform]}
-                    alt={`${selectedPlatform} logo`}
-                    className="most-loved-platform-logo"
-                />
-            )}
-
-            {/* Dropdowns Container */}
+            {/* Platform Dropdown (single dropdown on the right) */}
             <div className="most-loved-dropdowns">
-                {/* Platform Dropdown */}
                 <div className="most-loved-dropdown" ref={platformDropdownRef}>
                     <button
                         className="most-loved-dropdown-button"
@@ -125,43 +104,6 @@ const MostLovedHeader: React.FC<MostLovedHeaderProps> = ({
                                     onClick={() => handlePlatformSelect(platform)}
                                 >
                                     {platform}
-                                </button>
-                            ))}
-                        </div>
-                    )}
-                </div>
-
-                {/* Type Dropdown */}
-                <div className="most-loved-dropdown" ref={typeDropdownRef}>
-                    <button
-                        className="most-loved-dropdown-button"
-                        onClick={() => setIsTypeDropdownOpen(!isTypeDropdownOpen)}
-                    >
-                        {selectedType}
-                        <svg
-                            className={`most-loved-dropdown-arrow ${isTypeDropdownOpen ? 'open' : ''}`}
-                            width="16"
-                            height="16"
-                            viewBox="0 0 24 24"
-                            fill="none"
-                            stroke="currentColor"
-                            strokeWidth="2"
-                        >
-                            <polyline points="6 9 12 15 18 9" />
-                        </svg>
-                    </button>
-
-                    {isTypeDropdownOpen && (
-                        <div className="most-loved-dropdown-menu">
-                            {TYPES.map((type) => (
-                                <button
-                                    key={type}
-                                    className={`most-loved-dropdown-item ${
-                                        selectedType === type ? 'active' : ''
-                                    }`}
-                                    onClick={() => handleTypeSelect(type)}
-                                >
-                                    {type}
                                 </button>
                             ))}
                         </div>

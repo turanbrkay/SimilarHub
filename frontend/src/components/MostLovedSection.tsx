@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import MostLovedHeader from './MostLovedHeader';
 import HorizontalRow from './HorizontalRow';
-import { getPopularMovies, getPopularShows, type Show } from '../services/api';
+import { getPopularMovies, type Show } from '../services/api';
 
 interface MostLovedSectionProps {
     onShowClick: (showId: number) => void;
@@ -9,17 +9,14 @@ interface MostLovedSectionProps {
 
 const MostLovedSection: React.FC<MostLovedSectionProps> = ({ onShowClick }) => {
     const [selectedPlatform, setSelectedPlatform] = useState<string>('Netflix');
-    const [selectedType, setSelectedType] = useState<'Movies' | 'Series'>('Movies');
     const [shows, setShows] = useState<Show[]>([]);
 
     useEffect(() => {
         const fetchMostLoved = async () => {
             try {
                 // Backend henüz hazır olmadığı için mevcut API'leri kullanıyoruz
-                // Type'a göre Movies veya Series getir
-                const data = selectedType === 'Movies'
-                    ? await getPopularMovies()
-                    : await getPopularShows();
+                // Movies sayfasında olduğumuz için sadece movies getiriyoruz
+                const data = await getPopularMovies();
                 setShows(data);
             } catch (error) {
                 console.error('Error fetching most-loved content:', error);
@@ -28,29 +25,23 @@ const MostLovedSection: React.FC<MostLovedSectionProps> = ({ onShowClick }) => {
         };
 
         fetchMostLoved();
-    }, [selectedPlatform, selectedType]);
+    }, [selectedPlatform]);
 
     const handlePlatformChange = (platform: string) => {
         setSelectedPlatform(platform);
-    };
-
-    const handleTypeChange = (type: 'Movies' | 'Series') => {
-        setSelectedType(type);
     };
 
     return (
         <div>
             <MostLovedHeader
                 selectedPlatform={selectedPlatform}
-                selectedType={selectedType}
                 onPlatformChange={handlePlatformChange}
-                onTypeChange={handleTypeChange}
             />
             <HorizontalRow
                 title=""
                 shows={shows}
                 onShowClick={onShowClick}
-                contentType={selectedType === 'Movies' ? 'movies' : 'tvshows'}
+                contentType="movies"
                 customHeader={<></>}
             />
         </div>
