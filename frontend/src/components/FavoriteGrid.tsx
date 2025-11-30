@@ -140,9 +140,9 @@ const FavoriteGrid: React.FC<FavoriteGridProps> = ({ onShowClick }) => {
                             </div>
 
                             <div className="favorite-featured-info">
-                                <h2 className="favorite-featured-title">
+                                <p className="favorite-featured-title">
                                     {getDisplayName(featuredShow)}
-                                </h2>
+                                </p>
 
                                 <div className="favorite-featured-meta">
                                     {featuredShow.vote_average && (
@@ -151,10 +151,10 @@ const FavoriteGrid: React.FC<FavoriteGridProps> = ({ onShowClick }) => {
                                                 <path fill="none" d="M0 0h24v24H0z"></path>
                                                 <path d="M14.43 10 12 2l-2.43 8H2l6.18 4.41L5.83 22 12 17.31 18.18 22l-2.35-7.59L22 10z"></path>
                                             </svg>
-                                            <span>{featuredShow.vote_average.toFixed(1)}</span>
+                                            <p className="favorite-rating-value">{featuredShow.vote_average.toFixed(1)}</p>
                                         </div>
                                     )}
-                                    <span className="favorite-featured-year">{getYear(featuredShow)}</span>
+                                    <p className="favorite-featured-year">{getYear(featuredShow)}</p>
                                 </div>
 
                                 {featuredShow.overview && (
@@ -162,15 +162,6 @@ const FavoriteGrid: React.FC<FavoriteGridProps> = ({ onShowClick }) => {
                                         {featuredShow.overview}
                                     </p>
                                 )}
-
-                                <button className="favorite-featured-button">
-                                    <span className="favorite-button-icon">
-                                        <svg stroke="currentColor" fill="currentColor" strokeWidth="0" viewBox="0 0 384 512" height="18" width="18" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M73 39c-14.8-9.1-33.4-9.4-48.5-.9S0 62.6 0 80L0 432c0 17.4 9.4 33.4 24.5 41.9s33.7 8.1 48.5-.9L361 297c14.3-8.7 23-24.2 23-41s-8.7-32.2-23-41L73 39z"></path>
-                                        </svg>
-                                    </span>
-                                    <span className="favorite-button-text">Start Watching</span>
-                                </button>
                             </div>
                         </div>
                     </div>
@@ -195,9 +186,9 @@ const FavoriteGrid: React.FC<FavoriteGridProps> = ({ onShowClick }) => {
                         <div className="favorite-card-overlay" />
 
                         <div className="favorite-card-content">
-                            <h3 className="favorite-card-title">
+                            <p className="favorite-card-title">
                                 {getDisplayName(show)}
-                            </h3>
+                            </p>
                             <div className="favorite-card-meta">
                                 {show.vote_average && (
                                     <div className="favorite-card-rating">
@@ -205,10 +196,10 @@ const FavoriteGrid: React.FC<FavoriteGridProps> = ({ onShowClick }) => {
                                             <path fill="none" d="M0 0h24v24H0z"></path>
                                             <path d="M14.43 10 12 2l-2.43 8H2l6.18 4.41L5.83 22 12 17.31 18.18 22l-2.35-7.59L22 10z"></path>
                                         </svg>
-                                        <span>{show.vote_average.toFixed(1)}</span>
+                                        <p className="favorite-rating-value">{show.vote_average.toFixed(1)}</p>
                                     </div>
                                 )}
-                                <span>{getYear(show)}</span>
+                                <p className="favorite-card-year">{getYear(show)}</p>
                             </div>
                         </div>
                     </div>
