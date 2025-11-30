@@ -2,10 +2,8 @@ import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import HorizontalRow from '../components/HorizontalRow';
 import RankedGrid from '../components/RankedGrid';
-import CategoryStrip from '../components/CategoryStrip';
 import {
     getPopularMovies,
-    getPopularShows,
     getByGenre,
     type Show
 } from '../services/api';
@@ -18,24 +16,21 @@ const Movies: React.FC = () => {
     const [sciFi, setSciFi] = useState<Show[]>([]);
     const [comedy, setComedy] = useState<Show[]>([]);
     const [drama, setDrama] = useState<Show[]>([]);
-    const [onAirShows, setOnAirShows] = useState<Show[]>([]);
 
     useEffect(() => {
         const loadCategories = async () => {
             try {
-                const [movies, sci, com, dra, tv] = await Promise.all([
+                const [movies, sci, com, dra] = await Promise.all([
                     getPopularMovies(),
                     getByGenre('Science Fiction', 'movie'),
                     getByGenre('Comedy', 'movie'),
-                    getByGenre('Drama', 'movie'),
-                    getPopularShows() // Using popular TV shows as "On Air" for now
+                    getByGenre('Drama', 'movie')
                 ]);
 
                 setPopularMovies(movies);
                 setSciFi(sci);
                 setComedy(com);
                 setDrama(dra);
-                setOnAirShows(tv);
             } catch (err) {
                 console.error('Error loading movie categories', err);
             }
@@ -52,42 +47,21 @@ const Movies: React.FC = () => {
             <div className="dashboard-container-netflix category-view">
                 <div className="page-content-width">
                     <HorizontalRow
-                        title="TV Shows on air"
-                        shows={onAirShows}
+                        title="MOVIES ON AIR"
+                        shows={popularMovies}
                         onShowClick={handleShowClick}
                         customHeader={
                             <div className="custom-header-tv-on-air">
-                                TV Shows on air
+                                MOVIES ON AIR
                             </div>
                         }
                     />
                 </div>
 
                 <div className="page-content-width">
-                    <HorizontalRow
-                        title=""
-                        backgroundText="WEEKLY"
-                        shows={popularMovies}
-                        onShowClick={handleShowClick}
-                        contentType="movies"
-                    />
-                </div>
-
-                <div className="page-content-width">
                     <RankedGrid
                         onShowClick={handleShowClick}
-                    />
-                </div>
-
-                <div className="page-content-width">
-                    <CategoryStrip
-                        categories={[
-                            { name: 'Sci-Fi', shows: sciFi },
-                            { name: 'Comedy', shows: comedy },
-                            { name: 'Drama', shows: drama },
-                            { name: 'Action', shows: popularMovies },
-                            { name: 'More', onClick: () => { } }
-                        ]}
+                        fixedType="MOVIES"
                     />
                 </div>
 
