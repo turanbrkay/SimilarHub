@@ -1,144 +1,76 @@
-// src/components/Navbar.tsx
-import React from 'react';
-import { Link } from 'react-router-dom';
-import Search from './Search';
-import type { Show } from '../services/api';
-import '../styles/Navbar.css';
+<div className="wrap-head">
+    {/* Left Head - Logo & Navigation */}
+    <div className="l-head">
+        <div
+            id="head-nav-btn"
+            onClick={() => setShowMobileNav(!showMobileNav)}
+        >
+            <span className="material-icons">menu</span>
+        </div>
 
-interface NavbarProps {
-    onSearchSelect: (show: Show) => void;
-    activeCategory: 'home' | 'movies' | 'tvshows' | 'books';
-    onCategoryChange: (category: 'home' | 'movies' | 'tvshows' | 'books') => void;
-    onMyListClick: () => void;
-}
+        <div className="head-logo">
+            <Link to="/home">
+                <img
+                    src="/assets/img/logo.png"
+                    alt="SimilarHub Logo"
+                />
+            </Link>
+        </div>
+    </div>
 
-const Navbar: React.FC<NavbarProps> = ({
-    onSearchSelect,
-    activeCategory,
-    onCategoryChange,
-    onMyListClick
-}) => {
-    const [showProfileMenu, setShowProfileMenu] = React.useState(false);
-    const [showMobileNav, setShowMobileNav] = React.useState(false);
+    <nav id="head-nav" className={showMobileNav ? 'show' : ''}>
+        <ul>
+            <li>
+                <NavLink
+                    to="/home"
+                    className={({ isActive }) =>
+                        isActive ? 'nav-link active' : 'nav-link'
+                    }
+                >
+                    HOME
+                </NavLink>
+            </li>
+            <li>
+                <NavLink
+                    to="/movies"
+                    className={({ isActive }) =>
+                        isActive ? 'nav-link active' : 'nav-link'
+                    }
+                >
+                    MOVIES
+                </NavLink>
+            </li>
+            <li>
+                <NavLink
+                    to="/tv-shows"
+                    className={({ isActive }) =>
+                        isActive ? 'nav-link active' : 'nav-link'
+                    }
+                >
+                    TV SHOWS
+                </NavLink>
+            </li>
+            <li>
+                <NavLink
+                    to="/books"
+                    className={({ isActive }) =>
+                        isActive ? 'nav-link active' : 'nav-link'
+                    }
+                >
+                    BOOKS
+                </NavLink>
+            </li>
+        </ul>
+    </nav>
 
-    const [scrolled, setScrolled] = React.useState(false);
-
-    React.useEffect(() => {
-        const handleScroll = () => {
-            const offset = window.scrollY;
-            if (offset > 20) {
-                setScrolled(true);
-            } else {
-                setScrolled(false);
-            }
-        };
-
-        window.addEventListener('scroll', handleScroll);
-        return () => {
-            window.removeEventListener('scroll', handleScroll);
-        };
-    }, []);
-
-    return (
-        <header className={`header ${scrolled ? 'scrolled' : ''}`}>
-            <div className="container">
-                <div className="wrap-head">
-                    {/* Left Head - Logo & Navigation */}
-                    <div className="l-head">
-                        <div
-                            id="head-nav-btn"
-                            onClick={() => setShowMobileNav(!showMobileNav)}
-                        >
-                            <span className="material-icons">menu</span>
-                        </div>
-
-                        <div className="head-logo">
-                            <Link to="/">
-                                <img
-                                    src="/assets/img/logo.png"
-                                    alt="SimilarHub Logo"
-                                />
-                            </Link>
-                        </div>
-                    </div>
-
-                    <nav id="head-nav" className={showMobileNav ? 'show' : ''}>
-                        <ul>
-                            <li>
-                                <a
-                                    href="#"
-                                    onClick={(e) => {
-                                        e.preventDefault();
-                                        onCategoryChange('home');
-                                    }}
-                                    className={
-                                        activeCategory === 'home'
-                                            ? 'nav-link active'
-                                            : 'nav-link'
-                                    }
-                                >
-                                    HOME
-                                </a>
-                            </li>
-                            <li>
-                                <a
-                                    href="#"
-                                    onClick={(e) => {
-                                        e.preventDefault();
-                                        onCategoryChange('movies');
-                                    }}
-                                    className={
-                                        activeCategory === 'movies'
-                                            ? 'nav-link active'
-                                            : 'nav-link'
-                                    }
-                                >
-                                    MOVIES
-                                </a>
-                            </li>
-                            <li>
-                                <a
-                                    href="#"
-                                    onClick={(e) => {
-                                        e.preventDefault();
-                                        onCategoryChange('tvshows');
-                                    }}
-                                    className={
-                                        activeCategory === 'tvshows'
-                                            ? 'nav-link active'
-                                            : 'nav-link'
-                                    }
-                                >
-                                    TV SHOWS
-                                </a>
-                            </li>
-                            <li>
-                                <a
-                                    href="#"
-                                    onClick={(e) => {
-                                        e.preventDefault();
-                                        onCategoryChange('books');
-                                    }}
-                                    className={
-                                        activeCategory === 'books'
-                                            ? 'nav-link active'
-                                            : 'nav-link'
-                                    }
-                                >
-                                    BOOKS
-                                </a>
-                            </li>
-                        </ul>
-                    </nav>
-
-                    {/* Right Head - Search & User */}
-                    <div className="r-head">
-                        <Search onSearchSelect={onSearchSelect} />
-                    </div>
-                </div>
-            </div>
-        </header>
-    );
+    {/* Right Head - Search & User */}
+    <div className="r-head">
+        <Search onSearchSelect={onSearchSelect || (() => { })} />
+    </div>
+</div>
+                                        </div >
+                                    </header >
+                                    );
 };
 
 export default Navbar;

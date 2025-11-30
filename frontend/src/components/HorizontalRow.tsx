@@ -9,8 +9,6 @@ interface HorizontalRowProps {
     onShowClick: (showId: number) => void;
     backgroundText?: string;
     label?: string;
-    myList?: Show[];
-    onToggleList?: (show: Show) => void;
     contentType?: 'movies' | 'tvshows' | 'books';
     selectedShowId?: number | null;
     onShowHover?: (show: Show) => void;
@@ -22,8 +20,6 @@ const HorizontalRow: React.FC<HorizontalRowProps> = ({
     onShowClick,
     backgroundText,
     label,
-    myList = [],
-    onToggleList,
     contentType,
     selectedShowId,
     onShowHover

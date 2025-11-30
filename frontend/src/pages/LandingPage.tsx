@@ -56,7 +56,7 @@ const LandingPage: React.FC = () => {
                                     </div>
                                 </header>
 
-                                <Link className="btn-homepage" to="/dashboard">
+                                <Link className="btn-homepage" to="/home">
                                     <span>GO TO DASHBOARD</span>
                                     <span className="material-icons">arrow_forward</span>
                                 </Link>

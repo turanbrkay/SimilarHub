@@ -1,3 +1,4 @@
+```typescript
 import React, { useState, useEffect, useCallback } from 'react';
 import { getSimilarMap, type Show } from '../services/api';
 import SimilarMap from './SimilarMap';
@@ -7,15 +8,13 @@ interface SimilarShowsProps {
     showId: number;
     onBack: () => void;
     onShowClick: (showId: number) => void;
-    myList: Show[];
-    onToggleList: (show: Show) => void;
 }
 
 const ITEMS_PER_ROW = 7;
 const INITIAL_ROWS = 3;
 const MAX_ROWS = 30;
 
-const SimilarShows: React.FC<SimilarShowsProps> = ({ showId, onBack, onShowClick, myList, onToggleList }) => {
+const SimilarShows: React.FC<SimilarShowsProps> = ({ showId, onBack, onShowClick }) => {
     const [sourceShow, setSourceShow] = useState<Show | null>(null);
 
     // allSimilarShows holds the full list fetched from API (up to 210 items)
@@ -97,7 +96,7 @@ const SimilarShows: React.FC<SimilarShowsProps> = ({ showId, onBack, onShowClick
 
     const formatVoteCount = (count: number): string => {
         if (count >= 1000) {
-            return `${(count / 1000).toFixed(1)}K`;
+            return `${ (count / 1000).toFixed(1) } K`;
         }
         return String(count);
     };
@@ -140,17 +139,17 @@ const SimilarShows: React.FC<SimilarShowsProps> = ({ showId, onBack, onShowClick
                     }}
                 />
 
-                <div className="detail-hero-content">
-                    {/* Left: Poster */}
-                    <div className="detail-hero-poster">
-                        <img
-                            src={`https://image.tmdb.org/t/p/w500${sourceShow.poster_path}`}
-                            alt={displayName}
-                        />
-                    </div>
+    < div className = "detail-hero-content" >
+    {/* Left: Poster */ }
+    < div className = "detail-hero-poster" >
+    <img
+        src={`https://image.tmdb.org/t/p/w500${sourceShow.poster_path}`}
+        alt={displayName}
+    />
+                    </div >
 
-                    {/* Right: Metadata */}
-                    <div className="detail-hero-metadata">
+    {/* Right: Metadata */ }
+    < div className = "detail-hero-metadata" >
                         <h1 className="detail-hero-title">{displayName}</h1>
 
                         <div className="detail-hero-subtitle">
@@ -163,88 +162,101 @@ const SimilarShows: React.FC<SimilarShowsProps> = ({ showId, onBack, onShowClick
                             )}
                         </div>
 
-                        {/* Badges */}
-                        <div className="detail-hero-badges">
-                            {sourceShow.vote_average && (
-                                <div className="detail-hero-badge score">
-                                    <span className="detail-hero-badge-icon">⭐</span>
-                                    <span>{sourceShow.vote_average.toFixed(1)}</span>
+                        {/* Badges */ }
+    < div className = "detail-hero-badges" >
+    {
+        sourceShow.vote_average && (
+            <div className="detail-hero-badge score">
+                <span className="detail-hero-badge-icon">⭐</span>
+                <span>{sourceShow.vote_average.toFixed(1)}</span>
+            </div>
+        )
+    }
+                            {
+        sourceShow.vote_count && (
+            <div className="detail-hero-badge">
+                <span>{formatVoteCount(sourceShow.vote_count)} votes</span>
+            </div>
+        )
+    }
+                            {
+        sourceShow.number_of_episodes && (
+            <div className="detail-hero-badge">
+                <span>{sourceShow.number_of_episodes} Episodes</span>
+            </div>
+        )
+    }
+                        </div >
+
+    {/* Overview */ }
+                        {
+        sourceShow.overview && (
+            <p className="detail-hero-overview">{sourceShow.overview}</p>
+        )
+    }
+                    </div >
+                </div >
+            </div >
+
+    {/* Section 3: Visual Similarity Map - Uses top 40 from allSimilarShows for the visualization */ }
+            {
+        allSimilarShows.length > 0 && (
+            <SimilarMap
+                sourceShow={sourceShow}
+                similarShows={allSimilarShows.slice(0, 40)}
+                onShowClick={onShowClick}
+            />
+        )
+    }
+
+            {/* Section 4: "More Like This" Grid - Infinite Scroll Enabled */ }
+    < div className = "similar-grid-section" >
+    <h2 className="similar-grid-title">More Like This</h2>
+
+                {
+        visibleShows.length === 0 ? (
+            <div style={{ color: 'var(--color-text-muted)', padding: '2rem', textAlign: 'center' }}>
+                No similar shows found.
+            </div>
+        ) : (
+            <div className="similar-grid-container">
+                {visibleShows.map((show) => {
+                    const showDisplayName = getDisplayName(show);
+
+                    return (
+                        <div
+                            key={show.id}
+                            className="similar-grid-card"
+                            onClick={() => onShowClick(show.id)}
+                        >
+                            <div className="similar-grid-card-poster">
+                                {show.similarity_percent && (
+                                    <div className="similar-grid-card-badge">
+                                        {show.similarity_percent}%
+                                    </div>
+                                )}
+                                <img
+                                    src={`https://image.tmdb.org/t/p/w500${show.poster_path}`}
+                                    alt={showDisplayName}
+                                />
+                            </div>
+
+                            <div className="similar-grid-card-info">
+                                <h3>{showDisplayName}</h3>
+                                <div className="similar-grid-card-meta">
+                                    <span>{show.source_type === 'movie' ? 'Movie' : 'TV Show'}</span>
                                 </div>
-                            )}
-                            {sourceShow.vote_count && (
-                                <div className="detail-hero-badge">
-                                    <span>{formatVoteCount(sourceShow.vote_count)} votes</span>
-                                </div>
-                            )}
-                            {sourceShow.number_of_episodes && (
-                                <div className="detail-hero-badge">
-                                    <span>{sourceShow.number_of_episodes} Episodes</span>
-                                </div>
-                            )}
+                            </div>
                         </div>
-
-                        {/* Overview */}
-                        {sourceShow.overview && (
-                            <p className="detail-hero-overview">{sourceShow.overview}</p>
-                        )}
-                    </div>
-                </div>
+                    );
+                })}
             </div>
-
-            {/* Section 3: Visual Similarity Map - Uses top 40 from allSimilarShows for the visualization */}
-            {allSimilarShows.length > 0 && (
-                <SimilarMap
-                    sourceShow={sourceShow}
-                    similarShows={allSimilarShows.slice(0, 40)}
-                    onShowClick={onShowClick}
-                />
-            )}
-
-            {/* Section 4: "More Like This" Grid - Infinite Scroll Enabled */}
-            <div className="similar-grid-section">
-                <h2 className="similar-grid-title">More Like This</h2>
-
-                {visibleShows.length === 0 ? (
-                    <div style={{ color: 'var(--color-text-muted)', padding: '2rem', textAlign: 'center' }}>
-                        No similar shows found.
-                    </div>
-                ) : (
-                    <div className="similar-grid-container">
-                        {visibleShows.map((show) => {
-                            const showDisplayName = getDisplayName(show);
-
-                            return (
-                                <div
-                                    key={show.id}
-                                    className="similar-grid-card"
-                                    onClick={() => onShowClick(show.id)}
-                                >
-                                    <div className="similar-grid-card-poster">
-                                        {show.similarity_percent && (
-                                            <div className="similar-grid-card-badge">
-                                                {show.similarity_percent}%
-                                            </div>
-                                        )}
-                                        <img
-                                            src={`https://image.tmdb.org/t/p/w500${show.poster_path}`}
-                                            alt={showDisplayName}
-                                        />
-                                    </div>
-
-                                    <div className="similar-grid-card-info">
-                                        <h3>{showDisplayName}</h3>
-                                        <div className="similar-grid-card-meta">
-                                            <span>{show.source_type === 'movie' ? 'Movie' : 'TV Show'}</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            );
-                        })}
-                    </div>
-                )}
-            </div>
-        </div>
+        )
+    }
+            </div >
+        </div >
     );
 };
 
 export default SimilarShows;
+```
