@@ -217,51 +217,51 @@ const Dashboard: React.FC = () => {
                                                 ref={stackContainerRef}
                                                 className="map-stack-container"
                                             >
-                                            {heroStackItems.map((show, index) => {
-                                                const count = heroStackItems.length;
-                                                // Calculate cyclic distance
-                                                let diff = (index - heroSelectedIndex + count) % count;
-                                                if (diff > count / 2) diff -= count;
+                                                {heroStackItems.map((show, index) => {
+                                                    const count = heroStackItems.length;
+                                                    // Calculate cyclic distance
+                                                    let diff = (index - heroSelectedIndex + count) % count;
+                                                    if (diff > count / 2) diff -= count;
 
-                                                const absDiff = Math.abs(diff);
-                                                const isSelected = diff === 0;
+                                                    const absDiff = Math.abs(diff);
+                                                    const isSelected = diff === 0;
 
-                                                // Render all but hide distant ones to keep DOM stable
-                                                const isActive = absDiff <= 3;
+                                                    // Render all but hide distant ones to keep DOM stable
+                                                    const isActive = absDiff <= 3;
 
-                                                // Visual parameters
-                                                const scale = 1 - (absDiff * 0.1);
-                                                const opacity = isActive ? 1 - (absDiff * 0.2) : 0;
-                                                const zIndex = 100 - absDiff;
-                                                const yOffset = diff * 60; // 60px vertical spacing
+                                                    // Visual parameters
+                                                    const scale = 1 - (absDiff * 0.1);
+                                                    const opacity = isActive ? 1 - (absDiff * 0.2) : 0;
+                                                    const zIndex = 100 - absDiff;
+                                                    const yOffset = diff * 60; // 60px vertical spacing
 
-                                                return (
-                                                    <div
-                                                        key={show.id}
-                                                        className={`map-stack-card ${isSelected ? 'selected' : ''}`}
-                                                        style={{
-                                                            top: '50%',
-                                                            transform: `translateY(-50%) translateY(${yOffset}px) scale(${scale})`,
-                                                            zIndex: zIndex,
-                                                            opacity: Math.max(opacity, 0),
-                                                            pointerEvents: isActive ? 'auto' : 'none'
-                                                        } as React.CSSProperties}
-                                                        onClick={() => {
-                                                            if (isSelected) {
-                                                                handleShowClick(show.id);
-                                                            } else {
-                                                                setHeroSelectedIndex(index);
-                                                            }
-                                                        }}
-                                                    >
-                                                        <img
-                                                            src={`https://image.tmdb.org/t/p/w300${show.poster_path}`}
-                                                            alt={show.name || show.title}
-                                                        />
-                                                    </div>
-                                                );
-                                            })}
-                                        </div>
+                                                    return (
+                                                        <div
+                                                            key={show.id}
+                                                            className={`map-stack-card ${isSelected ? 'selected' : ''}`}
+                                                            style={{
+                                                                top: '50%',
+                                                                transform: `translateY(-50%) translateY(${yOffset}px) scale(${scale})`,
+                                                                zIndex: zIndex,
+                                                                opacity: Math.max(opacity, 0),
+                                                                pointerEvents: isActive ? 'auto' : 'none'
+                                                            } as React.CSSProperties}
+                                                            onClick={() => {
+                                                                if (isSelected) {
+                                                                    handleShowClick(show.id);
+                                                                } else {
+                                                                    setHeroSelectedIndex(index);
+                                                                }
+                                                            }}
+                                                        >
+                                                            <img
+                                                                src={`https://image.tmdb.org/t/p/w300${show.poster_path}`}
+                                                                alt={show.name || show.title}
+                                                            />
+                                                        </div>
+                                                    );
+                                                })}
+                                            </div>
                                             <div className="dashboard-map-container">
                                                 {heroSelectedShow && (
                                                     <SimilarMap
@@ -287,15 +287,6 @@ const Dashboard: React.FC = () => {
                                     </div>
 
                                     <div className="page-content-width">
-                                        <RankedGrid
-                                            shows={topRated}
-                                            onShowClick={handleShowClick}
-                                            myList={myList}
-                                            onToggleList={toggleMyList}
-                                        />
-                                    </div>
-
-                                    <div className="page-content-width">
                                         <CategoryStrip
                                             categories={[
                                                 { name: 'Sci-Fi', shows: sciFi },
@@ -304,6 +295,15 @@ const Dashboard: React.FC = () => {
                                                 { name: 'Action', shows: popularTVShows },
                                                 { name: 'More', onClick: () => { } }
                                             ]}
+                                        />
+                                    </div>
+
+                                    <div className="page-content-width">
+                                        <RankedGrid
+                                            shows={topRated}
+                                            onShowClick={handleShowClick}
+                                            myList={myList}
+                                            onToggleList={toggleMyList}
                                         />
                                     </div>
 
