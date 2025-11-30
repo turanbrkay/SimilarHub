@@ -8,35 +8,52 @@
 
 .ranked-grid-header {
     position: relative;
-    margin-bottom: 3rem;
     display: flex;
     justify-content: flex-start;
     align-items: flex-start;
     height: clamp(8rem, 12vw, 10rem);
 }
 
+/* Blur effect below header - only under TODAY'S text */
+.ranked-grid-bg-text::after {
+    content: '';
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    height: 10rem;
+    background: linear-gradient(
+        to bottom,
+        rgba(0, 0, 0, 0.4) 0%,
+        rgba(0, 0, 0, 0.2) 30%,
+        transparent 60%
+    );
+    filter: blur(50px);
+    pointer-events: none;
+    z-index: -1;
+}
+
 .ranked-grid-bg-text {
     position: absolute;
     top: -1rem;
     left: 0;
-    font-size: clamp(6rem, 15vw, 12rem);
-    font-weight: 900;
-    letter-spacing: -0.03em;
+    font-size: clamp(6rem, 15vw, 9rem);
+    font-weight: 800;
+    letter-spacing: -0.05em;
     line-height: 0.8;
-    background: linear-gradient(135deg, #2bd9c6 0%, #3ee8d5 35%, #2bd9c6 70%, #208e79 100%);
+    background: linear-gradient(to bottom, #2bd9c6 0%, #323437 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
-    opacity: 0.25;
+    opacity: 0.5;
     z-index: 0;
     pointer-events: none;
     text-transform: uppercase;
-    white-space: nowrap;
-    font-family: var(--font-family);
+    white-space: pre-wrap;
+    font-family: Montserrat, 'Montserrat Fallback', sans-serif;
+    font-style: normal;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    filter: blur(0.5px);
-    text-shadow: 0 0 40px rgba(43, 217, 198, 0.3), 0 0 80px rgba(43, 217, 198, 0.15);
 }
 
 .ranked-grid-title {
