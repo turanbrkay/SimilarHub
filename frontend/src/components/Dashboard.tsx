@@ -18,6 +18,7 @@ import {
 } from '../services/api';
 import '../styles/Dashboard.css';
 import '../styles/HomeHero.css';
+import '../styles/AtmosphericBackground.css';
 
 const Dashboard: React.FC = () => {
     const [activeCategory, setActiveCategory] = useState<'home' | 'movies' | 'tvshows' | 'books'>('home');
@@ -162,7 +163,7 @@ const Dashboard: React.FC = () => {
     };
 
     return (
-        <div style={{ minHeight: '100vh', background: 'linear-gradient(to bottom, #0a0a0f 0%, #12121a 50%, #0a0a0f 100%)', display: 'flex', flexDirection: 'column' }}>
+        <div className="atmospheric-bg-wrapper" style={{ display: 'flex', flexDirection: 'column' }}>
             <Navbar
                 onSearchSelect={handleSearchSelect}
                 activeCategory={activeCategory}
