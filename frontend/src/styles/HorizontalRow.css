@@ -156,8 +156,9 @@
     justify-content: flex-end;
     gap: 0.5rem;
     margin-top: 0.5rem;
-    /* padding-right removed to align with card edge */
-    width: 100%;
+    margin-right: -0.5rem;
+    margin-left: -0.5rem;
+    /* Align with container negative margin */
     z-index: 20;
     position: relative;
 }
