@@ -3,11 +3,12 @@
 .most-loved-header-container {
     position: relative;
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     justify-content: space-between;
     gap: 2rem;
     padding: 1rem 4rem;
     margin-bottom: 2rem;
+    height: clamp(6rem, 10vw, 8rem);
 }
 
 @media (max-width: 639px) {
@@ -18,22 +19,21 @@
 
 /* Left container for text */
 .most-loved-left-section {
-    display: flex;
-    flex-direction: column;
-    gap: 0.5rem;
-    padding-top: 5rem;
     position: relative;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
 }
 
-/* Background "WATCH" Text */
+/* Background "WATCH" Text - exactly like TODAY'S */
 .most-loved-background {
     position: absolute;
-    top: 2.5rem;
+    top: -1rem;
     left: 0;
-    font-size: 7rem;
-    font-weight: 900;
-    letter-spacing: normal;
-    line-height: 1;
+    font-size: clamp(6rem, 15vw, 9rem);
+    font-weight: 800;
+    letter-spacing: -0.05em;
+    line-height: 0.8;
     background: linear-gradient(to bottom, #2bd9c6 0%, #323437 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -41,36 +41,23 @@
     opacity: 0.5;
     z-index: 0;
     pointer-events: none;
-    text-transform: lowercase;
-    white-space: nowrap;
+    text-transform: uppercase;
+    white-space: pre-wrap;
     font-family: Montserrat, 'Montserrat Fallback', sans-serif;
     font-style: normal;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
 
-@media (min-width: 640px) {
-    .most-loved-background {
-        top: 0;
-        font-size: 9rem;
-    }
-}
-
 /* Foreground Container with Dynamic Text */
 .most-loved-foreground {
-    position: relative;
+    position: absolute;
     z-index: 10;
-    margin-top: -2rem;
     display: flex;
     flex-direction: column;
-    gap: 0;
-}
-
-@media (min-width: 768px) {
-    .most-loved-foreground {
-        margin-top: -2.5rem;
-        transform: translateX(3.5rem);
-    }
+    align-items: flex-start;
+    left: 3.5rem;
+    top: 2.5rem;
 }
 
 /* Text Lines Container */
@@ -92,6 +79,7 @@
     text-transform: uppercase;
     color: #ffffff;
     margin: 0;
+    white-space: nowrap;
 }
 
 /* Normal text without glow */

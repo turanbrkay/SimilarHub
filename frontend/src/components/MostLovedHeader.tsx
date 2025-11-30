@@ -51,16 +51,16 @@ const MostLovedHeader: React.FC<MostLovedHeaderProps> = ({
             {/* Left Section: Text and Logo */}
             <div className="most-loved-left-section">
                 {/* Background "WATCH" Text */}
-                <div className="most-loved-background">watch</div>
+                <div className="most-loved-background">WATCH</div>
 
                 {/* Foreground Text with Glow Effects */}
                 <div className="most-loved-foreground">
                     <div className="most-loved-text-container">
                         <p className="most-loved-line1">
-                            Most-<span className="most-loved-text-glow">Loved</span>
+                            MOST-<span className="most-loved-text-glow">LOVED</span>
                         </p>
                         <p className="most-loved-line2">
-                            <span className="most-loved-text-glow">Movies</span> ON
+                            <span className="most-loved-text-glow">MOVIES</span> ON
                         </p>
                     </div>
 

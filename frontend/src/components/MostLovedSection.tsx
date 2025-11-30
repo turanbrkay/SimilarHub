@@ -37,13 +37,15 @@ const MostLovedSection: React.FC<MostLovedSectionProps> = ({ onShowClick }) => {
                 selectedPlatform={selectedPlatform}
                 onPlatformChange={handlePlatformChange}
             />
-            <HorizontalRow
-                title=""
-                shows={shows}
-                onShowClick={onShowClick}
-                contentType="movies"
-                customHeader={<></>}
-            />
+            <div style={{ marginTop: '2rem' }}>
+                <HorizontalRow
+                    title=""
+                    shows={shows}
+                    onShowClick={onShowClick}
+                    contentType="movies"
+                    customHeader={<></>}
+                />
+            </div>
         </div>
     );
 };
