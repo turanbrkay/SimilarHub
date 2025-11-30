@@ -192,52 +192,6 @@
 
 .horizontal-row-arrow:hover {
     opacity: 1;
-    background: rgba(43, 217, 198, 0.15);
-    border-color: rgba(43, 217, 198, 0.5);
-    box-shadow: 0 4px 12px rgba(43, 217, 198, 0.2);
-    transform: translateY(-2px);
-}
-
-/* Edge blur overlays - show when there's more content */
-.horizontal-row-edge-overlay {
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    width: 100px;
-    /* Slightly narrower for cleaner look */
-    pointer-events: none;
-    z-index: 15;
-    opacity: 0;
-    transition: opacity 0.3s ease;
-}
-
-.horizontal-row-edge-overlay.visible {
-    opacity: 1;
-}
-
-.horizontal-row-edge-overlay-left {
-    left: -0.5rem;
-    /* Start exactly at container edge (compensating for negative margin) */
-    background: linear-gradient(to right,
-            rgba(10, 10, 15, 1) 0%,
-            rgba(10, 10, 15, 0.8) 30%,
-            rgba(10, 10, 15, 0) 100%);
-}
-
-.horizontal-row-edge-overlay-right {
-    right: -0.5rem;
-    /* Start exactly at container edge */
-    background: linear-gradient(to left,
-            rgba(10, 10, 15, 1) 0%,
-            rgba(10, 10, 15, 0.8) 30%,
-            rgba(10, 10, 15, 0) 100%);
-}
-
-/* Responsive adjustments */
-@media (max-width: 1399px) {
-    .horizontal-row-card {
-        width: 180px;
-    }
 }
 
 @media (max-width: 1199px) {

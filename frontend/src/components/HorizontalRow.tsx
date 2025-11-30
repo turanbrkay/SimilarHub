@@ -104,13 +104,13 @@ const HorizontalRow: React.FC<HorizontalRowProps> = ({
 
             <div className="horizontal-row-wrapper">
                 <div className="horizontal-row-scroll-area">
-                    {/* Edge blur overlays */}
-                    <div className={`horizontal-row-edge-overlay horizontal-row-edge-overlay-left ${canScrollLeft ? 'visible' : ''}`} />
-                    <div className={`horizontal-row-edge-overlay horizontal-row-edge-overlay-right ${canScrollRight ? 'visible' : ''}`} />
-
                     <div
                         className="horizontal-row-container"
                         ref={scrollContainerRef}
+                        style={{
+                            maskImage: `linear-gradient(to right, ${canScrollLeft ? 'transparent, black 100px' : 'black 0%'}, ${canScrollRight ? 'black calc(100% - 100px), transparent' : 'black 100%'})`,
+                            WebkitMaskImage: `linear-gradient(to right, ${canScrollLeft ? 'transparent, black 100px' : 'black 0%'}, ${canScrollRight ? 'black calc(100% - 100px), transparent' : 'black 100%'})`
+                        }}
                     >
                         {shows.map((show) => {
                             const displayName = getDisplayName(show);
