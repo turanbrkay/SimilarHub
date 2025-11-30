@@ -3,8 +3,6 @@
     width: 100%;
     height: 100vh;
     /* Fill the viewport */
-    max-height: 1000px;
-    /* Cap height on very tall screens */
     min-height: 700px;
     /* Minimum height for usability */
     position: relative;
