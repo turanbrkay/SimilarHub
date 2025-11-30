@@ -23,13 +23,13 @@ const RankedGrid: React.FC<RankedGridProps> = ({ onShowClick }) => {
             let newShows: Show[] = [];
 
             if (type === 'MOVIES') {
-                // Fetch top-rated (simulate movies)
-                newShows = await api.getTopRated();
+                // Fetch by genre (simulate movies)
+                newShows = await api.getByGenre('Action');
             } else if (type === 'TV SHOWS') {
                 // Fetch popular (actual TV shows)
                 newShows = await api.getPopularShows();
             } else if (type === 'BOOKS') {
-                // Fetch different set (simulate books)
+                // Fetch different genre (simulate books)
                 newShows = await api.getByGenre('Drama');
             }
 
