@@ -4,6 +4,7 @@ import HorizontalRow from '../components/HorizontalRow';
 import RankedGrid from '../components/RankedGrid';
 import FavoriteGrid from '../components/FavoriteGrid';
 import CategoryStrip from '../components/CategoryStrip';
+import SimilarMap from '../components/SimilarMap';
 import {
     getPopularShows,
     getByGenre,
