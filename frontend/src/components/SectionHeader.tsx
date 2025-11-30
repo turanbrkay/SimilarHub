@@ -25,9 +25,9 @@ const SectionHeader: React.FC<SectionHeaderProps> = ({ backgroundText, label, ti
     const displayLabel = getDynamicLabel() || title;
 
     return (
-        <div className="ranked-grid-header" style={{ marginBottom: '-3.5rem', paddingLeft: '2rem' }}>
+        <div className="ranked-grid-header" style={{ marginBottom: '-3.5rem' }}>
             <div className="ranked-grid-bg-text">{backgroundText}</div>
-            <div className="ranked-grid-title" style={{ left: '2rem', top: '2.5rem' }}>
+            <div className="ranked-grid-title" style={{ left: '2rem' }}>
                 <span>{displayLabel}</span>
             </div>
         </div>
