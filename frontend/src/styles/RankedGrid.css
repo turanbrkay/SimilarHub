@@ -57,7 +57,7 @@
 
 .ranked-grid-title {
     position: absolute;
-    z-index: 1;
+    z-index: 10;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -66,16 +66,21 @@
 }
 
 .ranked-grid-title span {
-    font-size: clamp(1.5rem, 3vw, 2rem);
+    font-size: 1.25rem;
     font-weight: 700;
-    letter-spacing: 0.2em;
+    letter-spacing: 10px;
     text-transform: uppercase;
-    background: linear-gradient(180deg, #2bd9c6 0%, #208e79 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-    line-height: 1.1;
-    font-family: var(--font-family);
+    color: rgb(255, 255, 255);
+    line-height: 1.75rem;
+    font-family: Montserrat, 'Montserrat Fallback', sans-serif;
+    font-style: normal;
+}
+
+@media (min-width: 768px) {
+    .ranked-grid-title span {
+        font-size: 1.25rem;
+        line-height: 1.75rem;
+    }
 }
 
 /* 2x5 Grid Layout */
