@@ -1,5 +1,6 @@
 import React from 'react';
 import '../styles/Dashboard.css';
+import '../styles/RankedGrid.css';
 
 interface SectionHeaderProps {
     backgroundText: string;
@@ -21,17 +22,13 @@ const SectionHeader: React.FC<SectionHeaderProps> = ({ backgroundText, label, ti
         return undefined;
     };
 
-    const displayLabel = getDynamicLabel();
-    // Removed isGenreSection logic to enforce consistent left alignment for all labels
+    const displayLabel = getDynamicLabel() || title;
 
     return (
-        <div className="section-header-hero">
-            <div className="section-header-background">
-                {backgroundText}
-            </div>
-            <div className="section-header-foreground">
-                {displayLabel && <p className="section-header-label">{displayLabel}</p>}
-                <h2 className="section-header-title">{title}</h2>
+        <div className="ranked-grid-header" style={{ marginBottom: '-3.5rem', paddingLeft: '2rem' }}>
+            <div className="ranked-grid-bg-text">{backgroundText}</div>
+            <div className="ranked-grid-title" style={{ left: '2rem', top: '2.5rem' }}>
+                <span>{displayLabel}</span>
             </div>
         </div>
     );

@@ -146,43 +146,46 @@
     font-weight: 600;
 }
 
-/* Navigation arrows - Modern minimal style */
+/* Navigation arrows - Modern minimal style (RankedGrid Dropdown Match) */
 .horizontal-row-arrow {
     position: absolute;
-    top: -3.5rem;
-    background: rgba(0, 0, 0, 0.8);
-    backdrop-filter: blur(8px);
-    border: 1px solid rgba(43, 217, 198, 0.4);
-    color: #fff;
-    width: 45px;
-    height: 45px;
-    border-radius: 50%;
-    font-size: 1.8rem;
+    top: -4rem;
+    /* Aligned with header title area */
+    background: rgba(43, 217, 198, 0.1);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(43, 217, 198, 0.3);
+    color: var(--color-accent);
+    /* #2bd9c6 */
+    width: 40px;
+    height: 40px;
+    border-radius: 8px;
+    /* Pill/Rounded Rectangle shape */
+    font-size: 1.2rem;
     cursor: pointer;
     z-index: 20;
-    transition: all 0.3s ease;
+    transition: all 200ms ease;
     display: flex;
     align-items: center;
     justify-content: center;
     line-height: 1;
     padding: 0;
-    opacity: 0.7;
+    opacity: 0.8;
 }
 
 .horizontal-row-arrow:hover {
     opacity: 1;
-    background: rgba(43, 217, 198, 0.3);
-    border-color: rgba(43, 217, 198, 0.8);
-    box-shadow: 0 4px 16px rgba(43, 217, 198, 0.4);
-    transform: scale(1.1);
+    background: rgba(43, 217, 198, 0.15);
+    border-color: rgba(43, 217, 198, 0.5);
+    box-shadow: 0 4px 12px rgba(43, 217, 198, 0.2);
+    transform: translateY(-2px);
 }
 
 .horizontal-row-arrow-left {
-    right: 4.8rem;
+    right: 4rem;
 }
 
 .horizontal-row-arrow-right {
-    right: 1.5rem;
+    right: 1rem;
 }
 
 /* Edge blur overlays - show when there's more content */
@@ -190,7 +193,8 @@
     position: absolute;
     top: 0;
     bottom: 0;
-    width: 150px;
+    width: 100px;
+    /* Slightly narrower for cleaner look */
     pointer-events: none;
     z-index: 15;
     opacity: 0;
@@ -202,23 +206,21 @@
 }
 
 .horizontal-row-edge-overlay-left {
-    left: 0;
+    left: -0.5rem;
+    /* Start exactly at container edge (compensating for negative margin) */
     background: linear-gradient(to right,
-            rgba(10, 10, 20, 1) 0%,
-            rgba(10, 10, 20, 0.95) 20%,
-            rgba(10, 10, 20, 0.8) 40%,
-            rgba(10, 10, 20, 0.5) 60%,
-            transparent 100%);
+            rgba(10, 10, 15, 1) 0%,
+            rgba(10, 10, 15, 0.8) 30%,
+            rgba(10, 10, 15, 0) 100%);
 }
 
 .horizontal-row-edge-overlay-right {
-    right: 0;
+    right: -0.5rem;
+    /* Start exactly at container edge */
     background: linear-gradient(to left,
-            rgba(10, 10, 20, 1) 0%,
-            rgba(10, 10, 20, 0.95) 20%,
-            rgba(10, 10, 20, 0.8) 40%,
-            rgba(10, 10, 20, 0.5) 60%,
-            transparent 100%);
+            rgba(10, 10, 15, 1) 0%,
+            rgba(10, 10, 15, 0.8) 30%,
+            rgba(10, 10, 15, 0) 100%);
 }
 
 /* Responsive adjustments */
