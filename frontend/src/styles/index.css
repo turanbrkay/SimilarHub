@@ -88,3 +88,28 @@ html, body {
   background: rgba(43, 217, 198, 0.7);
   box-shadow: 0 0 8px rgba(43, 217, 198, 0.5);
 }
+
+/* ============================================
+   Shared Content Width System
+   Ensures alignment across header and content
+   ============================================ */
+.page-content-width {
+  width: 100%;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+/* Responsive breakpoints */
+@media (max-width: 991px) {
+  .page-content-width {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .page-content-width {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+  }
+}

@@ -24,7 +24,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding-left: 2rem;
+    padding-left: 0;
     z-index: 10;
     /* Above map lines if they cross over */
 }

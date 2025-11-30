@@ -444,7 +444,7 @@
 
 /* Category Strip Styles */
 .category-strip {
-  padding: 3rem 2rem;
+  padding: 3rem 0;
   margin-bottom: 2rem;
   position: relative;
 }
@@ -574,7 +574,7 @@
   }
 
   .category-strip {
-    padding: 2rem 1rem;
+    padding: 2rem 0;
   }
 
   .category-card {
@@ -610,7 +610,7 @@
   }
 
   .category-strip {
-    padding: 1.5rem 0.5rem;
+    padding: 1.5rem 0;
   }
 
   .category-card {
@@ -639,7 +639,7 @@
 
   /* Category Strip Styles */
   .category-strip {
-    padding: 3rem 2rem;
+    padding: 3rem 0;
     margin-bottom: 2rem;
     position: relative;
   }
@@ -769,7 +769,7 @@
     }
 
     .category-strip {
-      padding: 2rem 1rem;
+      padding: 2rem 0;
     }
 
     .category-card {
@@ -805,7 +805,7 @@
     }
 
     .category-strip {
-      padding: 1.5rem 0.5rem;
+      padding: 1.5rem 0;
     }
 
     .category-card {

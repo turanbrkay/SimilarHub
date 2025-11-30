@@ -23,7 +23,7 @@
 
 .horizontal-row-wrapper {
     position: relative;
-    padding: 0 2rem;
+    padding: 0;
     z-index: 10;
 }
 
@@ -245,7 +245,7 @@
     }
 
     .horizontal-row-wrapper {
-        padding: 0 1rem;
+        padding: 0;
     }
 
     .horizontal-row-card {
@@ -280,7 +280,7 @@
     }
 
     .horizontal-row-wrapper {
-        padding: 0 0.5rem;
+        padding: 0;
     }
 
     .horizontal-row-card {

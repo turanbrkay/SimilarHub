@@ -207,11 +207,16 @@ const Dashboard: React.FC = () => {
                                 <>
                                     {/* HERO SECTION: Stack + Map */}
                                     <div className="similar-map-section">
-                                        <div className="connection-beam" />
-                                        <div
-                                            ref={stackContainerRef}
-                                            className="map-stack-container"
-                                        >
+                                        <div className="page-content-width" style={{
+                                            height: '100%',
+                                            display: 'flex',
+                                            position: 'relative'
+                                        }}>
+                                            <div className="connection-beam" />
+                                            <div
+                                                ref={stackContainerRef}
+                                                className="map-stack-container"
+                                            >
                                             {heroStackItems.map((show, index) => {
                                                 const count = heroStackItems.length;
                                                 // Calculate cyclic distance
@@ -257,248 +262,305 @@ const Dashboard: React.FC = () => {
                                                 );
                                             })}
                                         </div>
-                                        <div className="dashboard-map-container">
-                                            {heroSelectedShow && (
-                                                <SimilarMap
-                                                    sourceShow={heroSelectedShow}
-                                                    similarShows={heroSimilarShows}
-                                                    onShowClick={handleShowClick}
-                                                />
-                                            )}
+                                            <div className="dashboard-map-container">
+                                                {heroSelectedShow && (
+                                                    <SimilarMap
+                                                        sourceShow={heroSelectedShow}
+                                                        similarShows={heroSimilarShows}
+                                                        onShowClick={handleShowClick}
+                                                    />
+                                                )}
+                                            </div>
                                         </div>
                                     </div>
 
-                                    <HorizontalRow
-                                        title=""
-                                        backgroundText="WEEKLY"
-                                        shows={popularTVShows}
-                                        onShowClick={handleShowClick}
-                                        myList={myList}
-                                        onToggleList={toggleMyList}
-                                        contentType="tvshows"
-                                    />
+                                    <div className="page-content-width">
+                                        <HorizontalRow
+                                            title=""
+                                            backgroundText="WEEKLY"
+                                            shows={popularTVShows}
+                                            onShowClick={handleShowClick}
+                                            myList={myList}
+                                            onToggleList={toggleMyList}
+                                            contentType="tvshows"
+                                        />
+                                    </div>
 
-                                    <RankedGrid
-                                        shows={topRated}
-                                        onShowClick={handleShowClick}
-                                        myList={myList}
-                                        onToggleList={toggleMyList}
-                                    />
+                                    <div className="page-content-width">
+                                        <RankedGrid
+                                            shows={topRated}
+                                            onShowClick={handleShowClick}
+                                            myList={myList}
+                                            onToggleList={toggleMyList}
+                                        />
+                                    </div>
 
-                                    <CategoryStrip
-                                        categories={[
-                                            { name: 'Sci-Fi', shows: sciFi },
-                                            { name: 'Comedy', shows: comedy },
-                                            { name: 'Drama', shows: drama },
-                                            { name: 'Action', shows: popularTVShows },
-                                            { name: 'More', onClick: () => { } }
-                                        ]}
-                                    />
+                                    <div className="page-content-width">
+                                        <CategoryStrip
+                                            categories={[
+                                                { name: 'Sci-Fi', shows: sciFi },
+                                                { name: 'Comedy', shows: comedy },
+                                                { name: 'Drama', shows: drama },
+                                                { name: 'Action', shows: popularTVShows },
+                                                { name: 'More', onClick: () => { } }
+                                            ]}
+                                        />
+                                    </div>
 
-                                    <HorizontalRow
-                                        title=""
-                                        backgroundText="SCI-FI"
-                                        shows={sciFi}
-                                        onShowClick={handleShowClick}
-                                        myList={myList}
-                                        onToggleList={toggleMyList}
-                                        contentType="tvshows"
-                                    />
-                                    <HorizontalRow
-                                        title=""
-                                        backgroundText="COMEDY"
-                                        shows={comedy}
-                                        onShowClick={handleShowClick}
-                                        myList={myList}
-                                        onToggleList={toggleMyList}
-                                        contentType="tvshows"
-                                    />
-                                    <HorizontalRow
-                                        title=""
-                                        backgroundText="DRAMA"
-                                        shows={drama}
-                                        onShowClick={handleShowClick}
-                                        myList={myList}
-                                        onToggleList={toggleMyList}
-                                        contentType="tvshows"
-                                    />
+                                    <div className="page-content-width">
+                                        <HorizontalRow
+                                            title=""
+                                            backgroundText="SCI-FI"
+                                            shows={sciFi}
+                                            onShowClick={handleShowClick}
+                                            myList={myList}
+                                            onToggleList={toggleMyList}
+                                            contentType="tvshows"
+                                        />
+                                    </div>
+
+                                    <div className="page-content-width">
+                                        <HorizontalRow
+                                            title=""
+                                            backgroundText="COMEDY"
+                                            shows={comedy}
+                                            onShowClick={handleShowClick}
+                                            myList={myList}
+                                            onToggleList={toggleMyList}
+                                            contentType="tvshows"
+                                        />
+                                    </div>
+
+                                    <div className="page-content-width">
+                                        <HorizontalRow
+                                            title=""
+                                            backgroundText="DRAMA"
+                                            shows={drama}
+                                            onShowClick={handleShowClick}
+                                            myList={myList}
+                                            onToggleList={toggleMyList}
+                                            contentType="tvshows"
+                                        />
+                                    </div>
                                 </>
                             )}
 
                             {activeCategory === 'tvshows' && (
                                 <>
-                                    <HorizontalRow
-                                        title=""
-                                        backgroundText="WEEKLY"
-                                        shows={popularTVShows}
-                                        onShowClick={handleShowClick}
-                                        myList={myList}
-                                        onToggleList={toggleMyList}
-                                        contentType="tvshows"
-                                    />
+                                    <div className="page-content-width">
+                                        <HorizontalRow
+                                            title=""
+                                            backgroundText="WEEKLY"
+                                            shows={popularTVShows}
+                                            onShowClick={handleShowClick}
+                                            myList={myList}
+                                            onToggleList={toggleMyList}
+                                            contentType="tvshows"
+                                        />
+                                    </div>
 
-                                    <RankedGrid
-                                        shows={topRated}
-                                        onShowClick={handleShowClick}
-                                        myList={myList}
-                                        onToggleList={toggleMyList}
-                                    />
+                                    <div className="page-content-width">
+                                        <RankedGrid
+                                            shows={topRated}
+                                            onShowClick={handleShowClick}
+                                            myList={myList}
+                                            onToggleList={toggleMyList}
+                                        />
+                                    </div>
 
-                                    <CategoryStrip
-                                        categories={[
-                                            { name: 'Sci-Fi', shows: sciFi },
-                                            { name: 'Comedy', shows: comedy },
-                                            { name: 'Drama', shows: drama },
-                                            { name: 'Action', shows: popularTVShows },
-                                            { name: 'More', onClick: () => { } }
-                                        ]}
-                                    />
+                                    <div className="page-content-width">
+                                        <CategoryStrip
+                                            categories={[
+                                                { name: 'Sci-Fi', shows: sciFi },
+                                                { name: 'Comedy', shows: comedy },
+                                                { name: 'Drama', shows: drama },
+                                                { name: 'Action', shows: popularTVShows },
+                                                { name: 'More', onClick: () => { } }
+                                            ]}
+                                        />
+                                    </div>
 
-                                    <HorizontalRow
-                                        title=""
-                                        backgroundText="SCI-FI"
-                                        shows={sciFi}
-                                        onShowClick={handleShowClick}
-                                        myList={myList}
-                                        onToggleList={toggleMyList}
-                                        contentType="tvshows"
-                                    />
-                                    <HorizontalRow
-                                        title=""
-                                        backgroundText="COMEDY"
-                                        shows={comedy}
-                                        onShowClick={handleShowClick}
-                                        myList={myList}
-                                        onToggleList={toggleMyList}
-                                        contentType="tvshows"
-                                    />
-                                    <HorizontalRow
-                                        title=""
-                                        backgroundText="DRAMA"
-                                        shows={drama}
-                                        onShowClick={handleShowClick}
-                                        myList={myList}
-                                        onToggleList={toggleMyList}
-                                        contentType="tvshows"
-                                    />
+                                    <div className="page-content-width">
+                                        <HorizontalRow
+                                            title=""
+                                            backgroundText="SCI-FI"
+                                            shows={sciFi}
+                                            onShowClick={handleShowClick}
+                                            myList={myList}
+                                            onToggleList={toggleMyList}
+                                            contentType="tvshows"
+                                        />
+                                    </div>
+
+                                    <div className="page-content-width">
+                                        <HorizontalRow
+                                            title=""
+                                            backgroundText="COMEDY"
+                                            shows={comedy}
+                                            onShowClick={handleShowClick}
+                                            myList={myList}
+                                            onToggleList={toggleMyList}
+                                            contentType="tvshows"
+                                        />
+                                    </div>
+
+                                    <div className="page-content-width">
+                                        <HorizontalRow
+                                            title=""
+                                            backgroundText="DRAMA"
+                                            shows={drama}
+                                            onShowClick={handleShowClick}
+                                            myList={myList}
+                                            onToggleList={toggleMyList}
+                                            contentType="tvshows"
+                                        />
+                                    </div>
                                 </>
                             )}
 
                             {activeCategory === 'movies' && (
                                 <>
-                                    <HorizontalRow
-                                        title=""
-                                        backgroundText="WEEKLY"
-                                        shows={popularMovies}
-                                        onShowClick={handleShowClick}
-                                        myList={myList}
-                                        onToggleList={toggleMyList}
-                                        contentType="movies"
-                                    />
+                                    <div className="page-content-width">
+                                        <HorizontalRow
+                                            title=""
+                                            backgroundText="WEEKLY"
+                                            shows={popularMovies}
+                                            onShowClick={handleShowClick}
+                                            myList={myList}
+                                            onToggleList={toggleMyList}
+                                            contentType="movies"
+                                        />
+                                    </div>
 
-                                    <RankedGrid
-                                        shows={topRated}
-                                        onShowClick={handleShowClick}
-                                        myList={myList}
-                                        onToggleList={toggleMyList}
-                                    />
+                                    <div className="page-content-width">
+                                        <RankedGrid
+                                            shows={topRated}
+                                            onShowClick={handleShowClick}
+                                            myList={myList}
+                                            onToggleList={toggleMyList}
+                                        />
+                                    </div>
 
-                                    <CategoryStrip
-                                        categories={[
-                                            { name: 'Sci-Fi', shows: sciFi },
-                                            { name: 'Comedy', shows: comedy },
-                                            { name: 'Drama', shows: drama },
-                                            { name: 'Action', shows: popularMovies },
-                                            { name: 'More', onClick: () => { } }
-                                        ]}
-                                    />
+                                    <div className="page-content-width">
+                                        <CategoryStrip
+                                            categories={[
+                                                { name: 'Sci-Fi', shows: sciFi },
+                                                { name: 'Comedy', shows: comedy },
+                                                { name: 'Drama', shows: drama },
+                                                { name: 'Action', shows: popularMovies },
+                                                { name: 'More', onClick: () => { } }
+                                            ]}
+                                        />
+                                    </div>
 
-                                    <HorizontalRow
-                                        title=""
-                                        backgroundText="SCI-FI"
-                                        shows={sciFi}
-                                        onShowClick={handleShowClick}
-                                        myList={myList}
-                                        onToggleList={toggleMyList}
-                                        contentType="movies"
-                                    />
-                                    <HorizontalRow
-                                        title=""
-                                        backgroundText="COMEDY"
-                                        shows={comedy}
-                                        onShowClick={handleShowClick}
-                                        myList={myList}
-                                        onToggleList={toggleMyList}
-                                        contentType="movies"
-                                    />
-                                    <HorizontalRow
-                                        title=""
-                                        backgroundText="DRAMA"
-                                        shows={drama}
-                                        onShowClick={handleShowClick}
-                                        myList={myList}
-                                        onToggleList={toggleMyList}
-                                        contentType="movies"
-                                    />
+                                    <div className="page-content-width">
+                                        <HorizontalRow
+                                            title=""
+                                            backgroundText="SCI-FI"
+                                            shows={sciFi}
+                                            onShowClick={handleShowClick}
+                                            myList={myList}
+                                            onToggleList={toggleMyList}
+                                            contentType="movies"
+                                        />
+                                    </div>
+
+                                    <div className="page-content-width">
+                                        <HorizontalRow
+                                            title=""
+                                            backgroundText="COMEDY"
+                                            shows={comedy}
+                                            onShowClick={handleShowClick}
+                                            myList={myList}
+                                            onToggleList={toggleMyList}
+                                            contentType="movies"
+                                        />
+                                    </div>
+
+                                    <div className="page-content-width">
+                                        <HorizontalRow
+                                            title=""
+                                            backgroundText="DRAMA"
+                                            shows={drama}
+                                            onShowClick={handleShowClick}
+                                            myList={myList}
+                                            onToggleList={toggleMyList}
+                                            contentType="movies"
+                                        />
+                                    </div>
                                 </>
                             )}
 
                             {activeCategory === 'books' && (
                                 <>
-                                    <HorizontalRow
-                                        title=""
-                                        backgroundText="WEEKLY"
-                                        shows={popularBooks}
-                                        onShowClick={handleShowClick}
-                                        myList={myList}
-                                        onToggleList={toggleMyList}
-                                        contentType="books"
-                                    />
+                                    <div className="page-content-width">
+                                        <HorizontalRow
+                                            title=""
+                                            backgroundText="WEEKLY"
+                                            shows={popularBooks}
+                                            onShowClick={handleShowClick}
+                                            myList={myList}
+                                            onToggleList={toggleMyList}
+                                            contentType="books"
+                                        />
+                                    </div>
 
-                                    <RankedGrid
-                                        shows={topRated}
-                                        onShowClick={handleShowClick}
-                                        myList={myList}
-                                        onToggleList={toggleMyList}
-                                    />
+                                    <div className="page-content-width">
+                                        <RankedGrid
+                                            shows={topRated}
+                                            onShowClick={handleShowClick}
+                                            myList={myList}
+                                            onToggleList={toggleMyList}
+                                        />
+                                    </div>
 
-                                    <CategoryStrip
-                                        categories={[
-                                            { name: 'Sci-Fi', shows: sciFi },
-                                            { name: 'Comedy', shows: comedy },
-                                            { name: 'Drama', shows: drama },
-                                            { name: 'Fiction', shows: popularBooks },
-                                            { name: 'More', onClick: () => { } }
-                                        ]}
-                                    />
+                                    <div className="page-content-width">
+                                        <CategoryStrip
+                                            categories={[
+                                                { name: 'Sci-Fi', shows: sciFi },
+                                                { name: 'Comedy', shows: comedy },
+                                                { name: 'Drama', shows: drama },
+                                                { name: 'Fiction', shows: popularBooks },
+                                                { name: 'More', onClick: () => { } }
+                                            ]}
+                                        />
+                                    </div>
 
-                                    <HorizontalRow
-                                        title=""
-                                        backgroundText="SCI-FI"
-                                        shows={sciFi}
-                                        onShowClick={handleShowClick}
-                                        myList={myList}
-                                        onToggleList={toggleMyList}
-                                        contentType="books"
-                                    />
-                                    <HorizontalRow
-                                        title=""
-                                        backgroundText="COMEDY"
-                                        shows={comedy}
-                                        onShowClick={handleShowClick}
-                                        myList={myList}
-                                        onToggleList={toggleMyList}
-                                        contentType="books"
-                                    />
-                                    <HorizontalRow
-                                        title=""
-                                        backgroundText="DRAMA"
-                                        shows={drama}
-                                        onShowClick={handleShowClick}
-                                        myList={myList}
-                                        onToggleList={toggleMyList}
-                                        contentType="books"
-                                    />
+                                    <div className="page-content-width">
+                                        <HorizontalRow
+                                            title=""
+                                            backgroundText="SCI-FI"
+                                            shows={sciFi}
+                                            onShowClick={handleShowClick}
+                                            myList={myList}
+                                            onToggleList={toggleMyList}
+                                            contentType="books"
+                                        />
+                                    </div>
+
+                                    <div className="page-content-width">
+                                        <HorizontalRow
+                                            title=""
+                                            backgroundText="COMEDY"
+                                            shows={comedy}
+                                            onShowClick={handleShowClick}
+                                            myList={myList}
+                                            onToggleList={toggleMyList}
+                                            contentType="books"
+                                        />
+                                    </div>
+
+                                    <div className="page-content-width">
+                                        <HorizontalRow
+                                            title=""
+                                            backgroundText="DRAMA"
+                                            shows={drama}
+                                            onShowClick={handleShowClick}
+                                            myList={myList}
+                                            onToggleList={toggleMyList}
+                                            contentType="books"
+                                        />
+                                    </div>
                                 </>
                             )}
                         </div>
