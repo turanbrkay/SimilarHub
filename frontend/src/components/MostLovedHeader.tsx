@@ -48,28 +48,31 @@ const MostLovedHeader: React.FC<MostLovedHeaderProps> = ({
 
     return (
         <div className="most-loved-header-container">
-            {/* Background "WATCH" Text */}
-            <div className="most-loved-background">WATCH</div>
+            {/* Left Section: Text and Logo */}
+            <div className="most-loved-left-section">
+                {/* Background "WATCH" Text */}
+                <div className="most-loved-background">watch</div>
 
-            {/* Foreground Text with Glow Effects and Platform Logo */}
-            <div className="most-loved-foreground">
-                <div className="most-loved-line1">
-                    <span className="most-loved-text-normal">Most-</span>
-                    <span className="most-loved-text-glow">Loved</span>
-                </div>
-                <div className="most-loved-line2">
-                    <span className="most-loved-text-glow">Movies</span>
-                    <span className="most-loved-text-normal"> ON</span>
-                </div>
+                {/* Foreground Text with Glow Effects */}
+                <div className="most-loved-foreground">
+                    <div className="most-loved-text-container">
+                        <p className="most-loved-line1">
+                            Most-<span className="most-loved-text-glow">Loved</span>
+                        </p>
+                        <p className="most-loved-line2">
+                            <span className="most-loved-text-glow">Movies</span> ON
+                        </p>
+                    </div>
 
-                {/* Platform Logo */}
-                {PLATFORM_LOGOS[selectedPlatform] && (
-                    <img
-                        src={PLATFORM_LOGOS[selectedPlatform]}
-                        alt={`${selectedPlatform} logo`}
-                        className="most-loved-platform-logo"
-                    />
-                )}
+                    {/* Platform Logo */}
+                    {PLATFORM_LOGOS[selectedPlatform] && (
+                        <img
+                            src={PLATFORM_LOGOS[selectedPlatform]}
+                            alt={`${selectedPlatform} logo`}
+                            className="most-loved-platform-logo"
+                        />
+                    )}
+                </div>
             </div>
 
             {/* Platform Dropdown (single dropdown on the right) */}

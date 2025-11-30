@@ -5,58 +5,93 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    height: clamp(7rem, 12vw, 10rem);
+    gap: 2rem;
+    padding: 1rem 4rem;
     margin-bottom: 2rem;
-    padding: 0;
 }
 
-/* Background "WATCH" Text - Same style as section-header-background */
+@media (max-width: 639px) {
+    .most-loved-header-container {
+        padding: 1rem 1rem;
+    }
+}
+
+/* Left container for text */
+.most-loved-left-section {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    padding-top: 5rem;
+    position: relative;
+}
+
+/* Background "WATCH" Text */
 .most-loved-background {
     position: absolute;
-    top: 50%;
+    top: 2.5rem;
     left: 0;
-    transform: translateY(-50%);
-    font-size: clamp(6rem, 15vw, 12rem);
+    font-size: 7rem;
     font-weight: 900;
-    letter-spacing: -0.03em;
-    line-height: 0.8;
-    background: linear-gradient(180deg, #2bd9c6 0%, #208e79 50%, #186d5d 100%);
+    letter-spacing: normal;
+    line-height: 1;
+    background: linear-gradient(to bottom, #2bd9c6 0%, #323437 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
-    opacity: 0.15;
+    opacity: 0.5;
     z-index: 0;
     pointer-events: none;
-    text-transform: uppercase;
+    text-transform: lowercase;
     white-space: nowrap;
     font-family: Montserrat, 'Montserrat Fallback', sans-serif;
+    font-style: normal;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+}
+
+@media (min-width: 640px) {
+    .most-loved-background {
+        top: 0;
+        font-size: 9rem;
+    }
 }
 
 /* Foreground Container with Dynamic Text */
 .most-loved-foreground {
     position: relative;
-    z-index: 1;
+    z-index: 10;
+    margin-top: -2rem;
     display: flex;
     flex-direction: column;
-    gap: 0.25rem;
-    padding-left: 1rem;
-    align-items: flex-start;
+    gap: 0;
+}
+
+@media (min-width: 768px) {
+    .most-loved-foreground {
+        margin-top: -2.5rem;
+        transform: translateX(3.5rem);
+    }
+}
+
+/* Text Lines Container */
+.most-loved-text-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+    margin-bottom: 1rem;
 }
 
 /* Text Lines */
 .most-loved-line1,
 .most-loved-line2 {
     font-family: Montserrat, 'Montserrat Fallback', sans-serif;
-    font-size: clamp(1.2rem, 2vw, 1.5rem);
+    font-size: 1.5rem;
+    line-height: 2rem;
     font-weight: 700;
     letter-spacing: 10px;
     text-transform: uppercase;
     color: #ffffff;
-    line-height: 1.75rem;
-    display: flex;
-    align-items: baseline;
+    margin: 0;
 }
 
 /* Normal text without glow */
@@ -64,14 +99,12 @@
     color: #ffffff;
 }
 
-/* Glowing text with primary color */
+/* Glowing text with primary color - same as ranked number hover */
 .most-loved-text-glow {
-    color: #ffffff;
-    text-shadow:
-        0 0 10px rgba(43, 217, 198, 0.8),
-        0 0 20px rgba(43, 217, 198, 0.6),
-        0 0 30px rgba(43, 217, 198, 0.4),
-        0 0 40px rgba(43, 217, 198, 0.2);
+    color: var(--color-accent);
+    -webkit-text-fill-color: var(--color-accent);
+    text-shadow: 0 0 10px rgba(43, 217, 198, 0.6),
+                 0 4px 10px rgba(43, 217, 198, 0.4);
 }
 
 /* Dynamic Text with Animation */
@@ -94,34 +127,34 @@
 
 /* Platform Logo - positioned below the text lines */
 .most-loved-platform-logo {
-    margin-top: 1rem;
-    height: 3rem;
+    height: 2.5rem;
     width: auto;
     max-width: 10rem;
     object-fit: contain;
-    opacity: 0.9;
-    transition: opacity 0.3s ease;
+    display: block;
+    vertical-align: middle;
 }
 
-.most-loved-platform-logo:hover {
-    opacity: 1;
-}
-
-@media (max-width: 768px) {
+@media (min-width: 640px) {
     .most-loved-platform-logo {
-        height: 2.5rem;
-        margin-top: 0.75rem;
+        height: 4rem;
     }
 }
 
 /* Dropdowns Container - single dropdown on the right */
 .most-loved-dropdowns {
-    position: absolute;
-    right: 1rem;
-    top: 50%;
-    transform: translateY(-50%);
     display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 0;
     z-index: 20;
+}
+
+@media (min-width: 640px) {
+    .most-loved-dropdowns {
+        justify-content: flex-end;
+    }
 }
 
 /* Individual Dropdown Wrapper */
