@@ -55,6 +55,10 @@ const FavoriteGrid: React.FC<FavoriteGridProps> = ({ onShowClick }) => {
         return '';
     };
 
+    const getRandomRating = (): number => {
+        return Number((Math.random() * (10 - 5) + 5).toFixed(1));
+    };
+
     const featuredShow = shows.length > 0 ? shows[0] : null;
     const regularShows = shows.slice(1, 5);
 
@@ -145,15 +149,16 @@ const FavoriteGrid: React.FC<FavoriteGridProps> = ({ onShowClick }) => {
                                 </p>
 
                                 <div className="favorite-featured-meta">
-                                    {featuredShow.vote_average && (
-                                        <div className="favorite-featured-rating">
-                                            <svg stroke="currentColor" fill="yellow" strokeWidth="0" viewBox="0 0 24 24" height="20" width="20" xmlns="http://www.w3.org/2000/svg">
-                                                <path fill="none" d="M0 0h24v24H0z"></path>
-                                                <path d="M14.43 10 12 2l-2.43 8H2l6.18 4.41L5.83 22 12 17.31 18.18 22l-2.35-7.59L22 10z"></path>
-                                            </svg>
-                                            <p className="favorite-rating-value">{featuredShow.vote_average.toFixed(1)}</p>
-                                        </div>
-                                    )}
+                                    <div className="favorite-featured-rating">
+                                        <svg stroke="currentColor" fill="yellow" strokeWidth="0" viewBox="0 0 24 24" height="20" width="20" xmlns="http://www.w3.org/2000/svg">
+                                            <path fill="none" d="M0 0h24v24H0z"></path>
+                                            <path d="M14.43 10 12 2l-2.43 8H2l6.18 4.41L5.83 22 12 17.31 18.18 22l-2.35-7.59L22 10z"></path>
+                                        </svg>
+                                        <p className="favorite-rating-value">
+                                            {featuredShow.vote_average ? featuredShow.vote_average.toFixed(1) : getRandomRating()}
+                                        </p>
+                                    </div>
+                                    <div className="favorite-featured-divider"></div>
                                     <p className="favorite-featured-year">{getYear(featuredShow)}</p>
                                 </div>
 
@@ -190,15 +195,15 @@ const FavoriteGrid: React.FC<FavoriteGridProps> = ({ onShowClick }) => {
                                 {getDisplayName(show)}
                             </p>
                             <div className="favorite-card-meta">
-                                {show.vote_average && (
-                                    <div className="favorite-card-rating">
-                                        <svg stroke="currentColor" fill="yellow" strokeWidth="0" viewBox="0 0 24 24" height="20" width="20" xmlns="http://www.w3.org/2000/svg">
-                                            <path fill="none" d="M0 0h24v24H0z"></path>
-                                            <path d="M14.43 10 12 2l-2.43 8H2l6.18 4.41L5.83 22 12 17.31 18.18 22l-2.35-7.59L22 10z"></path>
-                                        </svg>
-                                        <p className="favorite-rating-value">{show.vote_average.toFixed(1)}</p>
-                                    </div>
-                                )}
+                                <div className="favorite-card-rating">
+                                    <svg stroke="currentColor" fill="yellow" strokeWidth="0" viewBox="0 0 24 24" height="20" width="20" xmlns="http://www.w3.org/2000/svg">
+                                        <path fill="none" d="M0 0h24v24H0z"></path>
+                                        <path d="M14.43 10 12 2l-2.43 8H2l6.18 4.41L5.83 22 12 17.31 18.18 22l-2.35-7.59L22 10z"></path>
+                                    </svg>
+                                    <p className="favorite-rating-value">
+                                        {show.vote_average ? show.vote_average.toFixed(1) : getRandomRating()}
+                                    </p>
+                                </div>
                                 <p className="favorite-card-year">{getYear(show)}</p>
                             </div>
                         </div>
