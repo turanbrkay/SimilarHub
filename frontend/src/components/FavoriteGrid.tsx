@@ -79,37 +79,60 @@ const FavoriteGrid: React.FC<FavoriteGridProps> = ({ onShowClick }) => {
                     </span>
                 </div>
 
-                <div className="favorite-dropdown-wrapper">
+                <div className="favorite-controls-wrapper">
                     <button
-                        className="favorite-dropdown-button"
-                        onClick={() => setIsDropdownOpen(!isDropdownOpen)}
+                        className="favorite-reload-button"
+                        onClick={() => fetchContentByType(selectedType)}
+                        title="Reload"
                     >
-                        {selectedType}
                         <svg
-                            className={`favorite-dropdown-arrow ${isDropdownOpen ? 'open' : ''}`}
-                            width="16"
-                            height="16"
+                            width="18"
+                            height="18"
                             viewBox="0 0 24 24"
                             fill="none"
                             stroke="currentColor"
                             strokeWidth="2"
+                            strokeLinecap="round"
+                            strokeLinejoin="round"
                         >
-                            <polyline points="6 9 12 15 18 9" />
+                            <polyline points="23 4 23 10 17 10"></polyline>
+                            <polyline points="1 20 1 14 7 14"></polyline>
+                            <path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"></path>
                         </svg>
                     </button>
-                    {isDropdownOpen && (
-                        <div className="favorite-dropdown-menu">
-                            {contentTypes.map((type) => (
-                                <button
-                                    key={type}
-                                    className={`favorite-dropdown-item ${selectedType === type ? 'active' : ''}`}
-                                    onClick={() => handleTypeChange(type)}
-                                >
-                                    {type}
-                                </button>
-                            ))}
-                        </div>
-                    )}
+
+                    <div className="favorite-dropdown-wrapper">
+                        <button
+                            className="favorite-dropdown-button"
+                            onClick={() => setIsDropdownOpen(!isDropdownOpen)}
+                        >
+                            {selectedType}
+                            <svg
+                                className={`favorite-dropdown-arrow ${isDropdownOpen ? 'open' : ''}`}
+                                width="16"
+                                height="16"
+                                viewBox="0 0 24 24"
+                                fill="none"
+                                stroke="currentColor"
+                                strokeWidth="2"
+                            >
+                                <polyline points="6 9 12 15 18 9" />
+                            </svg>
+                        </button>
+                        {isDropdownOpen && (
+                            <div className="favorite-dropdown-menu">
+                                {contentTypes.map((type) => (
+                                    <button
+                                        key={type}
+                                        className={`favorite-dropdown-item ${selectedType === type ? 'active' : ''}`}
+                                        onClick={() => handleTypeChange(type)}
+                                    >
+                                        {type}
+                                    </button>
+                                ))}
+                            </div>
+                        )}
+                    </div>
                 </div>
             </div>
 
