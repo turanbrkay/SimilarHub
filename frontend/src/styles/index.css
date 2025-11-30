@@ -17,7 +17,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: var(--color-bg);
+  background-color: var(--fallback-b3, oklch(var(--b3) / 1));
   color: var(--color-text);
   font-family: var(--font-family);
   -webkit-font-smoothing: antialiased;
