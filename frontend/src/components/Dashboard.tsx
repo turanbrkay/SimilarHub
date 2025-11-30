@@ -3,6 +3,7 @@ import Navbar from './Navbar';
 import SimilarShows from './SimilarShows';
 import HorizontalRow from './HorizontalRow';
 import RankedGrid from './RankedGrid';
+import FavoriteGrid from './FavoriteGrid';
 import CategoryStrip from './CategoryStrip';
 import SimilarMap from './SimilarMap';
 import Footer from './Footer';
@@ -331,6 +332,12 @@ const Dashboard: React.FC = () => {
                                             myList={myList}
                                             onToggleList={toggleMyList}
                                             contentType="movies"
+                                        />
+                                    </div>
+
+                                    <div className="page-content-width">
+                                        <FavoriteGrid
+                                            onShowClick={handleShowClick}
                                         />
                                     </div>
 
