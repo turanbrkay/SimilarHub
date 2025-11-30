@@ -172,7 +172,8 @@
     -webkit-text-stroke: 2px var(--color-accent);
     text-stroke: 2px var(--color-accent);
     text-shadow: 0 0 30px rgba(43, 217, 198, 0.6);
-    transform: scale(1.1) translateX(-10%);
+    transform: translateX(-1rem);
+    transition: all 700ms ease;
 }
 
 /* Card on Top of Number */
