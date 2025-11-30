@@ -12,6 +12,7 @@ interface HorizontalRowProps {
     contentType?: 'movies' | 'tvshows' | 'books';
     selectedShowId?: number | null;
     onShowHover?: (show: Show) => void;
+    customHeader?: React.ReactNode;
 }
 
 const HorizontalRow: React.FC<HorizontalRowProps> = ({
@@ -22,7 +23,8 @@ const HorizontalRow: React.FC<HorizontalRowProps> = ({
     label,
     contentType,
     selectedShowId,
-    onShowHover
+    onShowHover,
+    customHeader
 }) => {
     const scrollContainerRef = useRef<HTMLDivElement>(null);
     const [canScrollLeft, setCanScrollLeft] = useState(false);
@@ -87,13 +89,17 @@ const HorizontalRow: React.FC<HorizontalRowProps> = ({
 
     return (
         <div className="horizontal-row-section">
-            {backgroundText && (
-                <SectionHeader
-                    backgroundText={backgroundText}
-                    label={label}
-                    title={title}
-                    contentType={contentType}
-                />
+            {customHeader ? (
+                customHeader
+            ) : (
+                backgroundText && (
+                    <SectionHeader
+                        backgroundText={backgroundText}
+                        label={label}
+                        title={title}
+                        contentType={contentType}
+                    />
+                )
             )}
 
             <div className="horizontal-row-wrapper">

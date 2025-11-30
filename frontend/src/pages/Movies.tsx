@@ -5,6 +5,7 @@ import RankedGrid from '../components/RankedGrid';
 import CategoryStrip from '../components/CategoryStrip';
 import {
     getPopularMovies,
+    getPopularShows,
     getByGenre,
     type Show
 } from '../services/api';
@@ -17,21 +18,24 @@ const Movies: React.FC = () => {
     const [sciFi, setSciFi] = useState<Show[]>([]);
     const [comedy, setComedy] = useState<Show[]>([]);
     const [drama, setDrama] = useState<Show[]>([]);
+    const [onAirShows, setOnAirShows] = useState<Show[]>([]);
 
     useEffect(() => {
         const loadCategories = async () => {
             try {
-                const [movies, sci, com, dra] = await Promise.all([
+                const [movies, sci, com, dra, tv] = await Promise.all([
                     getPopularMovies(),
                     getByGenre('Science Fiction', 'movie'),
                     getByGenre('Comedy', 'movie'),
-                    getByGenre('Drama', 'movie')
+                    getByGenre('Drama', 'movie'),
+                    getPopularShows() // Using popular TV shows as "On Air" for now
                 ]);
 
                 setPopularMovies(movies);
                 setSciFi(sci);
                 setComedy(com);
                 setDrama(dra);
+                setOnAirShows(tv);
             } catch (err) {
                 console.error('Error loading movie categories', err);
             }
@@ -46,7 +50,20 @@ const Movies: React.FC = () => {
     return (
         <main className="dashboard-main">
             <div className="dashboard-container-netflix category-view">
-                <div className="page-content-width" style={{ paddingTop: '80px' }}>
+                <div className="page-content-width">
+                    <HorizontalRow
+                        title="TV Shows on air"
+                        shows={onAirShows}
+                        onShowClick={handleShowClick}
+                        customHeader={
+                            <div className="custom-header-tv-on-air">
+                                TV Shows on air
+                            </div>
+                        }
+                    />
+                </div>
+
+                <div className="page-content-width">
                     <HorizontalRow
                         title=""
                         backgroundText="WEEKLY"
