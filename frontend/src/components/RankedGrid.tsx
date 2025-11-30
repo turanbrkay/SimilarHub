@@ -41,19 +41,23 @@ const RankedGrid: React.FC<RankedGridProps> = ({ shows, onShowClick }) => {
                             className="ranked-grid-item"
                             onClick={() => onShowClick(show.id)}
                         >
-                            <div className={`ranked-number ${rank === 10 ? 'ranked-number-double' : ''}`}>{rank}</div>
-                            <div className="ranked-card">
-                                <div className="ranked-card-poster">
-                                    {show.poster_path ? (
-                                        <img
-                                            src={`https://image.tmdb.org/t/p/w500${show.poster_path}`}
-                                            alt={displayName}
-                                        />
-                                    ) : (
-                                        <div className="ranked-card-no-image">
-                                            No Image
-                                        </div>
-                                    )}
+                            <div className="ranked-card-wrapper">
+                                <div className={`ranked-number ${rank === 10 ? 'ranked-number-double' : ''}`}>
+                                    {rank}
+                                </div>
+                                <div className="ranked-card">
+                                    <div className="ranked-card-poster">
+                                        {show.poster_path ? (
+                                            <img
+                                                src={`https://image.tmdb.org/t/p/w500${show.poster_path}`}
+                                                alt={displayName}
+                                            />
+                                        ) : (
+                                            <div className="ranked-card-no-image">
+                                                No Image
+                                            </div>
+                                        )}
+                                    </div>
                                 </div>
                             </div>
                         </div>
