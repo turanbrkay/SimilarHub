@@ -1,0 +1,86 @@
+{
+  "input_data": {
+    "title": "Battlestar Galactica",
+    "overview": "When an old enemy, the Cylons, resurface and obliterate the 12 colonies, the crew of the aged Galactica protect a small civilian fleet - the last of humanity - as they journey toward the fabled 13th colony, Earth.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Drama"
+    ],
+    "release_year": 2004,
+    "vote_count": 1343
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Battlestar Galactica is a gripping science fiction drama that explores themes of survival, faith, and the nature of humanity in the face of existential threat. Following a devastating attack by the Cylons, a relentless robotic race, the remnants of humanity embark on a perilous journey to find the mythical 13th colony, Earth. The series blends intense action sequences with complex character development and philosophical questioning, creating a tense and morally ambiguous narrative that examines the best and worst of human nature under extreme pressure. It's a story about hope, loss, and the enduring struggle for survival.",
+        "spoiler_rich_plot_summary": "The series begins with the near-total annihilation of the Twelve Colonies by the Cylons, a robotic race created by humans. The Galactica, an aging battlestar, is tasked with protecting a civilian fleet of survivors as they search for Earth, a legendary thirteenth colony. Their journey is fraught with constant Cylon attacks, internal conflicts, and the discovery of unsettling truths about the origins of the Cylons and humanity's own past. As the fleet travels, they encounter various challenges, including dwindling resources, political maneuvering among the colonial leadership, and the emergence of Cylon agents infiltrating their ranks. The search for Earth becomes intertwined with the revelation that some humans are, in fact, Cylons themselves, blurring the lines between friend and foe. The fleet eventually discovers a potential Earth, only to find it is not the paradise they envisioned, leading to difficult choices and a reevaluation of their mission. The series culminates in a final confrontation with the Cylons, where the true nature of humanity and the cycle of creation and destruction are brought to light, leaving the future uncertain.",
+        "categorized_keywords": {
+          "themes": [
+            "survival",
+            "faith",
+            "humanity",
+            "redemption",
+            "creation-and-destruction",
+            "identity-crisis",
+            "moral-ambiguity",
+            "political-conflict"
+          ],
+          "plot_and_concepts": [
+            "space-opera",
+            "robot-uprising",
+            "search-for-home",
+            "artificial-intelligence",
+            "religious-themes",
+            "political-intrigue",
+            "sleeper-agents"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "tense",
+            "suspenseful",
+            "gritty",
+            "philosophical"
+          ],
+          "genre_and_tropes": [
+            "sci-fi",
+            "space-western",
+            "found-family",
+            "military-drama"
+          ],
+          "setting": [
+            "space",
+            "colonial-ships",
+            "alternate-timeline"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "moral-gray-protagonist",
+            "military-leader"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "battlestar-galactica",
+            "cylons",
+            "raiders",
+            "colonial-flag",
+            "viper-fighter"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "Battlestar Galactica is a dark and suspenseful space opera that explores themes of survival, faith, and the nature of humanity as a fleet of refugees journeys through a dangerous galaxy searching for a new home."
+      },
+      "duration_seconds": 68.02120471000671
+    }
+  }
+}

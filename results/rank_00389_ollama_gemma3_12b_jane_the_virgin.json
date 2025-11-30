@@ -1,0 +1,87 @@
+{
+  "input_data": {
+    "title": "Jane the Virgin",
+    "overview": "A comedy-drama following a chaste young woman who is accidentally impregnated via artificial insemination as she struggles to inform her devoutly religious family and make the right choices concerning the child. Based on the telenovela \"Juana la virgen.\"",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2014,
+    "vote_count": 777
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Jane the Virgin is a comedic drama that blends telenovela tropes with a modern sensibility. The series follows Jane Villanueva, a young woman accidentally inseminated during a medical error, as she navigates the complexities of family, faith, and unexpected motherhood. The show balances humor and heartfelt moments, exploring themes of identity, destiny, and the power of love while satirizing the conventions of the telenovela genre. It's a lighthearted yet emotionally resonant exploration of unexpected life changes and the importance of connection.",
+        "spoiler_rich_plot_summary": "The series begins with Jane Villanueva, a hardworking and devout young woman, unexpectedly inseminated with the sperm of Rafael Solano, a wealthy businessman. This accidental insemination throws her life into turmoil, forcing her to confront her family's reaction and her own feelings about becoming a single mother. As Jane grapples with this unexpected pregnancy, she becomes entangled in Rafael's complicated life, which involves a troubled past, a complicated marriage, and a connection to his sister, Luisa. Throughout the series, Jane's relationship with Rafael deepens, but is constantly challenged by secrets, betrayals, and Luisa's own romantic interest in him. Jane's mother, Xiomara, and grandmother, Alba, provide unwavering support, while Jane's relationship with her boyfriend, Michael Cordero, a police officer, evolves in unexpected ways. Michael's own secrets and past traumas are gradually revealed, leading to dramatic consequences. The series explores themes of mistaken identity, hidden family histories, and the complexities of love and loyalty, culminating in significant life changes for all the main characters and a resolution that embraces the telenovela tradition of unexpected twists and emotional reunions.",
+        "categorized_keywords": {
+          "themes": [
+            "family-loyalty",
+            "faith",
+            "identity-quest",
+            "unexpected-pregnancy",
+            "love-and-relationships",
+            "destiny",
+            "social-class",
+            "mistaken-identity"
+          ],
+          "plot_and_concepts": [
+            "artificial-insemination",
+            "telenovela-tropes",
+            "romantic-comedy",
+            "police-procedural",
+            "family-secrets",
+            "love-triangle"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "humorous",
+            "emotional",
+            "romantic",
+            "satirical"
+          ],
+          "genre_and_tropes": [
+            "romantic-comedy",
+            "telenovela",
+            "family-drama",
+            "found-family",
+            "slow-burn-romance"
+          ],
+          "setting": [
+            "miami-florida",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "dutiful-daughter",
+            "reluctant-hero",
+            "wise-grandmother",
+            "wealthy-businessman",
+            "police-officer"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "flashbacks"
+          ],
+          "target_audience": [
+            "young-adult",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "artificial-insemination-clinic",
+            "wayne-manor",
+            "telenovela-studio",
+            "police-station",
+            "miami-beach"
+          ],
+          "maturity_and_content": [
+            "sexual-content",
+            "emotional-abuse"
+          ]
+        },
+        "keyword_sentence": "Jane the Virgin is a lighthearted and emotional romantic comedy that explores themes of family, faith, and unexpected pregnancy within the vibrant setting of Miami, embracing the dramatic conventions of the telenovela genre."
+      },
+      "duration_seconds": 100.12973284721375
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Spider-Man and His Amazing Friends",
+    "overview": "Spider-Man and His Amazing Friends is an American animated television series produced by Marvel Productions starring established Marvel Comics characters Spider-Man and Iceman and an original character, Firestar. As a trio called the Spider-Friends, they fought against various villains.",
+    "genres": [
+      "Action & Adventure",
+      "Animation",
+      "Family",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1981,
+    "vote_count": 215
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Spider-Man and His Amazing Friends is a lighthearted animated series aimed at a young audience, blending superhero action with a focus on teamwork and friendship. The show follows Spider-Man teaming up with Iceman and the newly introduced Firestar to combat a variety of villains, emphasizing problem-solving and cooperation over complex narratives. It's a classic example of 1980s superhero animation, designed for family viewing and featuring a generally optimistic tone.",
+        "spoiler_rich_plot_summary": "The series centers around Peter Parker/Spider-Man, Bobby Drake/Iceman, and Angelica Jones/Firestar, who form a superhero trio known as the Spider-Friends. Each episode typically involves a new villain threatening New York City, requiring the Spider-Friends to combine their powers and intellect to overcome the challenge. Recurring antagonists include Doctor Octopus, the Beetle, and Mysterio, each presenting unique threats that test the team's abilities and their bond. While the series maintains a largely episodic structure, there are occasional storylines that explore the characters' personal lives and the origins of their powers, reinforcing the importance of friendship and responsibility. The series concludes with the Spider-Friends consistently thwarting evil schemes and reaffirming their commitment to protecting the city, leaving audiences with a sense of hope and the power of collaboration.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "teamwork",
+            "responsibility",
+            "heroism",
+            "good-vs-evil"
+          ],
+          "plot_and_concepts": [
+            "superhero-team",
+            "villain-of-the-week",
+            "origin-story",
+            "power-combination"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "optimistic",
+            "family-friendly",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "superhero-action",
+            "animated-series",
+            "found-family",
+            "coming-of-age"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "young-hero"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "serialized-elements"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-children"
+          ],
+          "detail_plot": [
+            "spider-web",
+            "ice-powers",
+            "fire-powers",
+            "villain-lair"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Spider-Man and His Amazing Friends is a lighthearted animated series that celebrates friendship and teamwork as a trio of young heroes battles villains in New York City."
+      },
+      "duration_seconds": 55.88283681869507
+    }
+  }
+}

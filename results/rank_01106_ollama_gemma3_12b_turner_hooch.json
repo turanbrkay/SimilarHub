@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Turner & Hooch",
+    "overview": "A Deputy Marshal inherits an unruly dog who helps him solve crimes and investigate a family mystery.",
+    "genres": [
+      "Comedy",
+      "Family",
+      "Action & Adventure",
+      "Crime"
+    ],
+    "release_year": 2021,
+    "vote_count": 226
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Turner & Hooch is a comedic crime procedural series centered on a meticulous U.S. Marshal who reluctantly partners with a large, slobbery dog to solve cases. The show blends elements of buddy-cop dynamics with family-friendly humor and action-adventure, exploring themes of partnership, trust, and the unexpected bonds that can form between people and animals. It offers a lighthearted and entertaining experience, appealing to a broad audience with its mix of action, comedy, and heartwarming moments.",
+        "spoiler_rich_plot_summary": "The series begins with Scott Turner, a dedicated U.S. Marshal, inheriting a French Mastiff named Hooch after his former owner, a close friend, is murdered. Initially, Scott is determined to maintain his orderly life and solve the case independently, viewing Hooch as a hindrance. However, Hooch's surprising ability to sniff out clues and his unwavering loyalty gradually force Scott to accept the dog as a partner. As they investigate the murder, they uncover a complex web of family secrets and a conspiracy involving stolen artwork and a shadowy organization. Throughout the series, Scott and Hooch face numerous challenges, including dangerous criminals, skeptical colleagues, and the constant struggle to manage Hooch's chaotic behavior. The investigation leads them to confront the truth about Scott's friend's past and the reasons behind his death, ultimately revealing a deeper connection to the stolen artwork and the criminal enterprise. While the immediate threat is resolved, the series hints at ongoing mysteries and potential future cases, suggesting that Scott and Hooch's partnership is just beginning.",
+        "categorized_keywords": {
+          "themes": [
+            "partnership",
+            "trust",
+            "family-secrets",
+            "justice",
+            "redemption",
+            "friendship"
+          ],
+          "plot_and_concepts": [
+            "crime-investigation",
+            "buddy-cop",
+            "art-heist",
+            "mystery",
+            "dog-detective"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "comedic",
+            "wholesome",
+            "action-adventure"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "found-family",
+            "animal-companion",
+            "fish-out-of-water"
+          ],
+          "setting": [
+            "modern-day",
+            "california"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "loyal-companion",
+            "by-the-book-lawman"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-cases"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "french-mastiff",
+            "art-gallery",
+            "police-station",
+            "crime-scene"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Turner & Hooch is a lighthearted crime procedural series that blends comedic moments with action-adventure, exploring themes of partnership and justice as a meticulous U.S. Marshal reluctantly teams up with a loyal French Mastiff to solve mysteries."
+      },
+      "duration_seconds": 63.257227659225464
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Wolf Creek",
+    "overview": "An anthology series which centers on different characters being targeted by crazed serial killer Mick Taylor in the Australian outback.",
+    "genres": [
+      "Action & Adventure",
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2016,
+    "vote_count": 167
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Wolf Creek is an anthology series that plunges viewers into the heart of the Australian outback, where they encounter the terrifying reality of serial killer Mick Taylor. Each season follows new characters whose lives intersect with Taylor's path, exploring themes of survival, vulnerability, and the dark underbelly of seemingly idyllic landscapes. The series blends elements of crime, drama, and action, creating a suspenseful and often brutal viewing experience. Its anthology format allows for fresh narratives and character dynamics while maintaining the consistent threat of a relentless and unpredictable antagonist.",
+        "spoiler_rich_plot_summary": "The first season introduces viewers to Mick Taylor, a charismatic but deeply disturbed serial killer operating in the Australian outback. We follow several individuals whose lives become entangled with his, including a young woman seeking adventure and a family struggling with their own secrets. Taylor manipulates and terrorizes his victims, exploiting their trust and vulnerabilities before ultimately confronting them in horrific ways. The season culminates in a confrontation where some characters narrowly escape his grasp, while others meet a tragic end, leaving a lasting impact on those who survive. Subsequent seasons continue the pattern, each presenting a new set of characters drawn into Taylor's deadly game. These seasons explore the psychological toll on both the victims and those who attempt to track or understand Taylor, revealing the pervasive nature of his evil and the difficulty of escaping his reach. The anthology format allows for a constant sense of dread and uncertainty, as each new installment introduces fresh faces and fresh horrors, all under the shadow of Mick Taylor’s reign of terror.",
+        "categorized_keywords": {
+          "themes": [
+            "survival",
+            "vulnerability",
+            "psychological-horror",
+            "isolation",
+            "revenge",
+            "moral-ambiguity"
+          ],
+          "plot_and_concepts": [
+            "serial-killer",
+            "anthology-series",
+            "revenge-thriller",
+            "cat-and-mouse",
+            "crime-procedural"
+          ],
+          "mood_and_tone": [
+            "grim",
+            "suspenseful",
+            "dark",
+            "tense",
+            "bleak"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "horror",
+            "thriller",
+            "australian-outback"
+          ],
+          "setting": [
+            "australian-outback",
+            "remote-location",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "serial-killer",
+            "victim",
+            "reluctant-hero",
+            "investigator"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "anthology-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "remote-road",
+            "abandoned-farmhouse",
+            "pickup-truck",
+            "knife-attack",
+            "police-car"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "sexual-content",
+            "disturbing-themes"
+          ]
+        },
+        "keyword_sentence": "Wolf Creek is a grim and suspenseful anthology series set in the remote Australian outback, exploring themes of survival and vulnerability through the terrifying actions of a relentless serial killer."
+      },
+      "duration_seconds": 63.88102149963379
+    }
+  }
+}

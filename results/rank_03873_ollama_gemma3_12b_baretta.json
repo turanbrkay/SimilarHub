@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Baretta",
+    "overview": "Baretta is an American detective television series which ran on ABC from 1975 to 1978. The show was a milder version of a successful 1973–74 ABC series, Toma, starring Tony Musante as chameleon-like, real-life New Jersey police officer David Toma. While popular, Toma received intense criticism at the time for its realistic and frequent depiction of police and criminal violence. When Musante left the series after a single season, the concept was retooled as Baretta, with Robert Blake in the title role.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 1975,
+    "vote_count": 30
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Baretta is a crime drama series that follows a former police officer who operates as a vigilante after being forced out of the force. The show distinguishes itself with its unconventional protagonist, who uses his knowledge of police procedures to fight crime outside the legal system. While initially gritty and realistic, the series evolved to adopt a more lighthearted and quirky tone. Baretta explores themes of justice, redemption, and the complexities of morality, offering a blend of suspense and humor within a 1970s setting.",
+        "spoiler_rich_plot_summary": "The series begins with Tony Baretta, a decorated police officer, being implicated in a crime he didn't commit. Forced to resign from the force, he becomes a freelance agent, working under the supervision of Lieutenant Bilko, his former boss. Baretta operates outside the traditional legal framework, often bending or breaking the rules to achieve justice. He is aided by his loyal informant, Izzy Goldfarb, who provides him with valuable information. Throughout the series, Baretta confronts various criminals, from petty thieves to organized crime bosses, often facing personal danger and moral dilemmas. The show explores Baretta's attempts to clear his name and find a sense of purpose while navigating the complexities of the criminal underworld. While initially focused on his personal redemption, the series evolves to encompass broader themes of corruption and the challenges of upholding justice in a flawed system.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "redemption",
+            "corruption",
+            "vigilantism",
+            "moral-ambiguity"
+          ],
+          "plot_and_concepts": [
+            "crime-procedural",
+            "vigilante-justice",
+            "police-corruption",
+            "informant-network"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "quirky",
+            "suspenseful",
+            "lighthearted"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "police-procedural",
+            "70s-crime"
+          ],
+          "setting": [
+            "1970s",
+            "urban-setting"
+          ],
+          "character_archetypes": [
+            "vigilante",
+            "corrupt-official",
+            "loyal-informant"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "police-badge",
+            "informant-network",
+            "city-street",
+            "police-car"
+          ],
+          "maturity_and_content": [
+            "violence"
+          ]
+        },
+        "keyword_sentence": "Baretta is a suspenseful crime drama series set in the 1970s, following a former police officer who operates as a quirky vigilante seeking redemption while confronting corruption within an urban setting."
+      },
+      "duration_seconds": 76.79160737991333
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Holly Hobbie",
+    "overview": "Holly's a 13-year-old singer-songwriter who's got her best friends and close-knit family by her side, but she's dreaming of ways to save the world - even if it's starting in her own backyard.",
+    "genres": [
+      "Family",
+      "Drama"
+    ],
+    "release_year": 2018,
+    "vote_count": 61
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Holly Hobbie is a family-oriented drama series centered on a teenage singer-songwriter navigating the challenges of adolescence while striving to make a positive impact on her community. The show blends coming-of-age themes with elements of musical storytelling and emphasizes the importance of family, friendship, and pursuing one's dreams. It aims to offer a wholesome and uplifting viewing experience, exploring relatable struggles and celebrating the power of optimism and perseverance. The series balances personal growth with broader social themes, portraying a young woman's journey to find her place in the world and contribute to a better future.",
+        "spoiler_rich_plot_summary": "The series begins with Holly, a talented singer-songwriter, feeling a desire to make a difference in her small town. She often clashes with her parents, who have traditional views on what a young woman should be doing. Holly's best friends, Amy and Xavier, support her ambitions, but they also face their own personal struggles. Throughout the series, Holly organizes community events and initiatives, often encountering resistance from local authorities and skeptical residents. She learns valuable lessons about leadership, compromise, and the complexities of effecting change. Romantic interests emerge, adding another layer of emotional development for Holly and her friends. The series explores themes of social responsibility and the challenges of balancing personal aspirations with the needs of a community, culminating in Holly finding her voice and inspiring others to join her in creating a more positive future for their town.",
+        "categorized_keywords": {
+          "themes": [
+            "coming-of-age",
+            "family-dynamics",
+            "friendship",
+            "social-responsibility",
+            "community-building",
+            "personal-growth",
+            "optimism"
+          ],
+          "plot_and_concepts": [
+            "musical-storytelling",
+            "small-town-life",
+            "community-activism",
+            "coming-of-age-story"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "uplifting",
+            "heartwarming",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "family-drama",
+            "teen-drama",
+            "musical-drama"
+          ],
+          "setting": [
+            "small-town-usa",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "aspiring-artist",
+            "loyal-friend",
+            "supportive-family"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "music-studio",
+            "community-events",
+            "family-home",
+            "local-park"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Holly Hobbie is a heartwarming family drama series set in a small town, following a young artist’s journey of personal growth and community activism through music and friendship."
+      },
+      "duration_seconds": 59.68404960632324
+    }
+  }
+}

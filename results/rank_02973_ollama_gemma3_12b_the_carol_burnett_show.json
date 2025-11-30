@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "The Carol Burnett Show",
+    "overview": "The Carol Burnett Show is an American variety/sketch comedy television show starring Carol Burnett, Harvey Korman, Vicki Lawrence, Lyle Waggoner, and Tim Conway. It originally ran on CBS from September 11, 1967, to March 29, 1978, for 278 episodes and originated from CBS Television City's Studio 33. The series won 25 prime time Emmy Awards, was ranked No. 16 on TV Guide's 50 Greatest TV Shows of All Time in 2002 and in 2007 was listed as one of Time magazine's \"100 Best TV Shows of All Time.\"",
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "release_year": 1967,
+    "vote_count": 49
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Carol Burnett Show is a classic American sketch comedy series renowned for its improvisational humor and ensemble cast. The show's format revolves around a series of comedic sketches, musical performances, and recurring characters, often featuring physical comedy and satirical takes on everyday life and popular culture. It established a unique blend of broad, accessible humor with moments of genuine warmth and heart, appealing to a wide family audience. The show's legacy lies in its innovative approach to sketch comedy and the enduring popularity of its cast.",
+        "spoiler_rich_plot_summary": "The Carol Burnett Show doesn't follow a traditional narrative arc but rather presents a series of self-contained comedic sketches each week. Recurring characters like Eunice and Harvey, and Thelma Harper, become beloved figures through repeated appearances and evolving comedic situations. The show frequently utilizes audience interaction and improvisational elements, creating a sense of spontaneity and shared laughter. While there's no overarching plot, the evolution of the characters and the exploration of various comedic themes across the series' run contribute to a sense of continuity and familiarity for viewers. The show concludes its run after eleven seasons, leaving behind a rich tapestry of memorable sketches and beloved characters that continue to entertain audiences.",
+        "categorized_keywords": {
+          "themes": [
+            "family-comedy",
+            "satire",
+            "improvisation",
+            "generational-humor",
+            "domestic-life"
+          ],
+          "plot_and_concepts": [
+            "sketch-comedy",
+            "recurring-characters",
+            "audience-interaction",
+            "musical-numbers",
+            "parody"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "slapstick",
+            "absurdist",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "variety-show",
+            "sitcom",
+            "physical-comedy",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "domestic-setting",
+            "stage-setting",
+            "american-culture"
+          ],
+          "character_archetypes": [
+            "comedic-protagonist",
+            "eccentric-character",
+            "lovable-fool"
+          ],
+          "narrative_style": [
+            "episodic",
+            "anthology-series"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "stage-props",
+            "costume-changes",
+            "studio-audience",
+            "recurring-gags"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Carol Burnett Show is a lighthearted and beloved variety show celebrated for its improvisational sketch comedy and endearing ensemble cast, offering a consistently wholesome and comedic experience for family audiences."
+      },
+      "duration_seconds": 51.202383518218994
+    }
+  }
+}

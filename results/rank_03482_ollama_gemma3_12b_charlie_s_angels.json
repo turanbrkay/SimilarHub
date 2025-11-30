@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Charlie's Angels",
+    "overview": "Everyone deserves a second chance—even a thief, a street racer and a cop who got in a little too deep. After all, the three women who solve cases for their elusive boss, Charlie Townsend, are no saints. They're angels... Charlie's Angels.",
+    "genres": [
+      "Action & Adventure"
+    ],
+    "release_year": 2011,
+    "vote_count": 36
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Charlie's Angels (2011) is a reboot of the classic action series, blending action, comedy, and a touch of mystery. The series follows three skilled operatives working for the enigmatic Charlie Townsend, tackling dangerous assignments while navigating personal challenges and a complex relationship with their unseen employer. The show emphasizes female empowerment and teamwork, offering a lighthearted and action-packed experience with a focus on stylish visuals and dynamic fight sequences. It aims to recapture the charm of the original while updating the premise for a modern audience.",
+        "spoiler_rich_plot_summary": "The series begins with the recruitment of Abby, Natalie, and Eve, each possessing unique skills and troubled pasts. They are brought together by Bosley, who acts as their handler and liaison to Charlie Townsend, who communicates with them via speakerphone. Each episode typically involves a new case, ranging from corporate espionage to rescuing kidnapped individuals, with the Angels utilizing their combined talents to overcome obstacles and expose wrongdoing. As the series progresses, the Angels delve deeper into Charlie's past and the origins of the Townsend Agency, uncovering secrets and confronting adversaries who threaten their mission. While the cases are self-contained, recurring antagonists and plot threads emerge, hinting at a larger conspiracy and challenging the Angels' understanding of their role in the world. The series explores the complexities of trust and loyalty as the Angels grapple with personal demons and the moral ambiguities of their work, ultimately forging a strong bond of sisterhood and a commitment to justice.",
+        "categorized_keywords": {
+          "themes": [
+            "female-empowerment",
+            "teamwork",
+            "justice",
+            "redemption",
+            "trust",
+            "loyalty"
+          ],
+          "plot_and_concepts": [
+            "mystery",
+            "espionage",
+            "crime-solving",
+            "undercover-operation"
+          ],
+          "mood_and_tone": [
+            "action-comedy",
+            "lighthearted",
+            "stylish",
+            "fast-paced"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "buddy-cop",
+            "found-family",
+            "spy-thriller"
+          ],
+          "setting": [
+            "modern-day",
+            "urban-environment",
+            "global-locations"
+          ],
+          "character_archetypes": [
+            "skilled-operative",
+            "enigmatic-mentor",
+            "troubled-past",
+            "strong-female-lead"
+          ],
+          "narrative_style": [
+            "episodic-format",
+            "serialized-elements"
+          ],
+          "target_audience": [
+            "young-adult",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "speakerphone-communication",
+            "bosley-character",
+            "undercover-disguises",
+            "action-sequences"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Charlie's Angels delivers a stylish and fast-paced action-adventure series, blending mystery and crime-solving with a focus on female empowerment and a lighthearted tone, as skilled operatives navigate dangerous missions and forge a strong bond of sisterhood."
+      },
+      "duration_seconds": 56.64736294746399
+    }
+  }
+}

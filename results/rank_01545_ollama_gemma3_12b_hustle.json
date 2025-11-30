@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Hustle",
+    "overview": "A motley group of London con artists pull of a series of daring and intricate stings.",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2004,
+    "vote_count": 137
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Hustle is a British comedy-drama series centered around a team of con artists who target corrupt and morally bankrupt individuals. The show blends humor with suspense as the team meticulously plans and executes elaborate schemes, often involving intricate misdirection and clever manipulation. It explores themes of loyalty, morality, and the blurred lines between right and wrong, all while maintaining a lighthearted and entertaining tone. The series is characterized by its witty dialogue, charismatic characters, and a focus on the art of the con.",
+        "spoiler_rich_plot_summary": "The series begins with Albert Stroller, a seasoned con man, recruiting a new team after a previous operation goes wrong. He assembles a diverse group including Mark, a skilled technician; Charlie, a master of disguise; Emma, a seductive and resourceful con artist; and Ash, a naive but eager apprentice. Each season sees the team targeting a new mark, often wealthy and powerful individuals who have exploited others. Their schemes involve elaborate planning, intricate deception, and a constant risk of exposure. Throughout the series, the team faces challenges both professionally and personally, with relationships tested and loyalties questioned. While they strive to bring justice to their targets, the team also grapples with the ethical implications of their actions and the potential consequences of their lifestyle. The series culminates in a final, ambitious con that tests the team's skills and their bonds with one another, leaving their future uncertain.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "morality",
+            "loyalty",
+            "deception",
+            "redemption",
+            "class-conflict"
+          ],
+          "plot_and_concepts": [
+            "con-artist",
+            "heist",
+            "revenge",
+            "undercover-operation",
+            "crime"
+          ],
+          "mood_and_tone": [
+            "witty",
+            "suspenseful",
+            "lighthearted",
+            "caper-comedy"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "caper-comedy",
+            "ensemble-cast",
+            "found-family"
+          ],
+          "setting": [
+            "london-city",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "mastermind",
+            "con-artist",
+            "naive-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "london-streets",
+            "con-plan",
+            "disguise",
+            "mark-profile"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Hustle is a witty and suspenseful British series that follows a team of con artists as they execute elaborate schemes in modern-day London, exploring themes of justice, loyalty, and the blurred lines between right and wrong."
+      },
+      "duration_seconds": 62.21358251571655
+    }
+  }
+}

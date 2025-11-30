@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Spider-Man",
+    "overview": "Spider-Man is an animated television series that ran from September 9, 1967 to June 14, 1970. It was jointly produced in Canada and the United States and was the first animated adaptation of the Spider-Man comic book series, created by writer Stan Lee and artist Steve Ditko. It first aired on the ABC television network in the United States but went into syndication at the start of the third season. Grantray-Lawrence Animation produced the first season. Seasons 2 and 3 were crafted by producer Ralph Bakshi in New York City. In Canada, it is currently airing on Teletoon Retro. An internet meme, commonly known as 1960s Spiderman, regarding the series has received an overwhelming amount of popularity. The meme consists of a screenshot taken at a random part of the series and adding an inappropriate and/or witty text. Since the death of Max Ferguson on March 7 2013, there are only three surviving members from the cast. Those three being Paul Soles the voice of Spider-Man, Chris Wiggins the voice of Mysterio and Carl Banas the voice of the Scorpion.",
+    "genres": [
+      "Kids",
+      "Animation",
+      "Action & Adventure"
+    ],
+    "release_year": 1967,
+    "vote_count": 178
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Spider-Man is a pioneering animated series that brought the iconic comic book character to television screens in the late 1960s. The show blends action-adventure with a lighthearted tone, targeting a young audience with its episodic format and colorful visuals. It established many of the visual and narrative conventions associated with the character, and despite its age, has experienced a resurgence in popularity through internet memes. The series' legacy lies in its introduction of Spider-Man to a wider audience and its enduring appeal across generations.",
+        "spoiler_rich_plot_summary": "The series follows Peter Parker, a teenager who gains spider-like abilities after being bitten by a radioactive spider. Each episode typically features Peter balancing his high school life with his responsibilities as Spider-Man, battling a variety of villains threatening New York City. Early episodes focus on establishing Spider-Man's powers and his ongoing struggle to protect the city while keeping his identity a secret from his friends and family. Recurring antagonists include the Green Goblin, Doctor Octopus, Mysterio, and the Scorpion, each presenting unique challenges for the young hero. Throughout the series, Peter grapples with the consequences of his dual life, facing moral dilemmas and personal sacrifices as he strives to be a hero. The show maintains a largely episodic structure, with each villain posing a distinct threat that Spider-Man must overcome, reinforcing the theme of responsibility and the constant need to protect the innocent.",
+        "categorized_keywords": {
+          "themes": [
+            "responsibility",
+            "heroism",
+            "identity-secret",
+            "good-vs-evil",
+            "coming-of-age"
+          ],
+          "plot_and_concepts": [
+            "superhero-action",
+            "radioactive-mutation",
+            "secret-identity",
+            "monster-of-the-week",
+            "episodic-format"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "action-packed",
+            "wholesome",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "superhero-genre",
+            "animation",
+            "kids-entertainment"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "teenager-hero",
+            "reluctant-hero",
+            "villain"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "kids",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "spider-web",
+            "costume",
+            "radioactive-spider",
+            "green-goblin"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "This animated series, targeted towards a young audience, follows a teenager balancing his life as a superhero while battling villains in New York City, emphasizing themes of responsibility and heroism within a lighthearted and action-packed setting."
+      },
+      "duration_seconds": 59.80560374259949
+    }
+  }
+}

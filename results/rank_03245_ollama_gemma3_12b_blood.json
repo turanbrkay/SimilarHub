@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Blood",
+    "overview": "Cat Hogan returns to West Meath upon her mother's sudden death - she has an accident at home and died (or was it an accident?). Blood is about old secrets, older betrayals, mind games and the lies family tell each other.",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2018,
+    "vote_count": 41
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Blood is a dark and suspenseful Irish drama centered on a family grappling with the sudden death of their matriarch and the unsettling secrets that emerge in its wake. The series blends elements of mystery and psychological thriller, exploring themes of family loyalty, deception, and the corrosive effects of long-held secrets. The narrative unfolds with a slow burn, creating a pervasive atmosphere of unease and suspicion as the protagonist investigates her mother's death and uncovers a web of hidden relationships and past transgressions. The series offers a compelling exploration of the complexities of familial bonds and the lengths people will go to protect their reputations.",
+        "spoiler_rich_plot_summary": "The series begins with Cat Hogan returning to her hometown in West Meath after her mother, Eileen, dies in what appears to be an accidental fall. However, Cat quickly suspects foul play, fueled by inconsistencies in the circumstances surrounding her mother’s death and the strange behavior of her father, Paddy, and her sister, Sarah. As Cat delves deeper, she discovers that her mother was involved in a complex network of relationships and financial dealings, and that several townspeople had reasons to want her gone. The investigation reveals a history of infidelity, blackmail, and hidden identities, blurring the lines between victim and perpetrator. Paddy, the patriarch of the Hogan family, is revealed to have been entangled in a long-running affair with a local woman, and Sarah is shown to be harboring secrets of her own. The series culminates in a confrontation where the truth about Eileen’s death is exposed, and the Hogan family is forced to confront the devastating consequences of their past actions. While some secrets are revealed, the series leaves some ambiguity, suggesting that the cycle of deception and betrayal may continue.",
+        "categorized_keywords": {
+          "themes": [
+            "family-secrets",
+            "deception",
+            "betrayal",
+            "grief",
+            "small-town-dynamics",
+            "revenge",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "murder-mystery",
+            "small-town-secrets",
+            "family-drama",
+            "investigation",
+            "blackmail"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "brooding",
+            "tense",
+            "atmospheric"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "mystery-thriller",
+            "irish-drama"
+          ],
+          "setting": [
+            "rural-ireland",
+            "small-town-ireland",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "grieving-daughter",
+            "enigmatic-father",
+            "suspicious-sibling",
+            "small-town-villain"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "slow-burn",
+            "mystery-driven"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "family-farm",
+            "local-pub",
+            "police-station",
+            "family-grave"
+          ],
+          "maturity_and_content": [
+            "suspense",
+            "emotional-trauma"
+          ]
+        },
+        "keyword_sentence": "Blood is a suspenseful Irish drama exploring themes of family secrets and betrayal within a close-knit rural community, where a grieving daughter investigates her mother’s death and uncovers a web of deception and long-held grudges."
+      },
+      "duration_seconds": 62.80440402030945
+    }
+  }
+}

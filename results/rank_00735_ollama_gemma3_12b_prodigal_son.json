@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Prodigal Son",
+    "overview": "The son of a notorious serial killer becomes an acclaimed criminal psychologist who uses his unique insight into how killers think to help the NYPD.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2019,
+    "vote_count": 383
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Prodigal Son is a dark crime drama that explores the complex relationship between a brilliant criminal psychologist and his infamous serial killer father. The series blends procedural elements with psychological thriller aspects, delving into themes of nature versus nurture and the blurred lines between good and evil. It offers a suspenseful and often unsettling viewing experience, examining the psychological toll on both the protagonist and those around him as he confronts his father's legacy and uses his unique understanding of criminal minds to solve cases. The show maintains a darkly comic tone, juxtaposing the macabre nature of the crimes with the protagonist's attempts to maintain a semblance of normalcy.",
+        "spoiler_rich_plot_summary": "The series centers on Malcolm Bright, a gifted criminal psychologist haunted by his childhood as the son of serial killer Martin Harmon. Malcolm's father, incarcerated for decades, is consulted on active cases, forcing Malcolm to confront his past and the disturbing insights he gained from his upbringing. As Malcolm works with the NYPD, he grapples with his own potential for darkness, often blurring the lines between hunter and prey. Throughout the series, Malcolm's relationship with his father evolves, oscillating between resentment, fascination, and a twisted form of understanding. The team investigates a series of murders mirroring Martin's signature style, leading Malcolm to question whether his father is somehow involved, even from behind bars. The series explores the impact of Malcolm's past on his relationships with his colleagues and his own mental stability, revealing hidden traumas and unresolved conflicts. The overarching narrative involves uncovering the full extent of Martin's crimes and the secrets surrounding Malcolm's own birth and upbringing, ultimately challenging Malcolm's perception of himself and his family.",
+        "categorized_keywords": {
+          "themes": [
+            "nature-versus-nurture",
+            "family-secrets",
+            "redemption",
+            "moral-ambiguity",
+            "psychological-trauma",
+            "good-versus-evil"
+          ],
+          "plot_and_concepts": [
+            "serial-killer",
+            "police-investigation",
+            "criminal-profiling",
+            "psychological-thriller",
+            "procedural-drama"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "suspenseful",
+            "unsettling",
+            "grim",
+            "macabre"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "psychological-thriller",
+            "anti-hero",
+            "found-family"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "brilliant-but-damaged",
+            "criminal-mastermind",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "interrogation-room",
+            "crime-scene",
+            "prison-cell",
+            "police-station"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "psychological-manipulation"
+          ]
+        },
+        "keyword_sentence": "Prodigal Son is a darkly comic and suspenseful crime drama set in modern-day New York City, exploring themes of family secrets and moral ambiguity through the eyes of a brilliant but damaged criminal psychologist haunted by his serial killer father."
+      },
+      "duration_seconds": 64.15354132652283
+    }
+  }
+}

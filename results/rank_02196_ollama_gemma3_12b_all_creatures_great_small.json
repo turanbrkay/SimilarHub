@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "All Creatures Great & Small",
+    "overview": "The heartwarming and humorous adventures of a young country vet in the Yorkshire Dales in the 1930s. A remake of the 1978 series.",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "release_year": 2020,
+    "vote_count": 83
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "All Creatures Great & Small is a heartwarming and humorous drama series set in the picturesque Yorkshire Dales of the 1930s. Following the experiences of a young veterinarian, the show blends gentle comedy with poignant observations about rural life, animal care, and the challenges of establishing a career. It offers a comforting and nostalgic viewing experience, celebrating the beauty of the natural world and the importance of human connection. The series evokes a sense of timelessness and offers a respite from contemporary anxieties through its focus on simple pleasures and enduring values. It's a character-driven story, emphasizing the relationships between the vet and his colleagues, clients, and the animals he cares for.",
+        "spoiler_rich_plot_summary": "The series begins with James Herriot, a newly qualified veterinarian, arriving in the Dales to work alongside the established and often eccentric Siegfried Farnon at Skeldale House. James quickly learns the realities of rural veterinary practice, facing challenges ranging from difficult births and injured livestock to dealing with the local farmers and their unique personalities. He develops a close bond with Siegfried’s brother, Tristan, a perpetually struggling medical student, and navigates the complexities of their familial dynamic. Throughout the series, James encounters a variety of animals and their owners, each presenting unique and often humorous situations. He gradually earns the respect of the local community and finds a sense of belonging in the Dales. Romantic interests arise, adding another layer of complexity to James's personal life. The series explores themes of professional growth, personal responsibility, and the enduring power of human connection within a close-knit rural community, culminating in James establishing himself as a valued member of the Dales and finding a fulfilling life.",
+        "categorized_keywords": {
+          "themes": [
+            "rural-life",
+            "animal-welfare",
+            "professional-growth",
+            "friendship",
+            "community",
+            "nostalgia",
+            "family-dynamics"
+          ],
+          "plot_and_concepts": [
+            "veterinary-medicine",
+            "coming-of-age",
+            "small-town-life",
+            "found-family"
+          ],
+          "mood_and_tone": [
+            "heartwarming",
+            "humorous",
+            "gentle",
+            "wholesome",
+            "nostalgic"
+          ],
+          "genre_and_tropes": [
+            "period-drama",
+            "slice-of-life",
+            "feel-good-drama"
+          ],
+          "setting": [
+            "yorkshire-dales",
+            "1930s",
+            "rural-england"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "eccentric-mentor",
+            "naive-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "veterinary-clinic",
+            "farm-animals",
+            "yorkshire-landscape",
+            "vintage-car"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Set in the picturesque Yorkshire Dales of the 1930s, All Creatures Great & Small is a heartwarming and humorous drama celebrating rural life, animal welfare, and the enduring power of friendship within a close-knit community."
+      },
+      "duration_seconds": 64.90012073516846
+    }
+  }
+}

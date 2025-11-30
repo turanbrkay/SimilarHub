@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Camelot",
+    "overview": "Camelot is a historical-fantasy-drama television series based on the Arthurian legend, was produced by Graham King, Morgan O'Sullivan and Michael Hirst.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "release_year": 2011,
+    "vote_count": 131
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Camelot reimagines the Arthurian legend as a gritty, politically charged drama, blending historical elements with fantastical creatures and magic. The series explores the complex relationships between Arthur, Merlin, Guinevere, and other key figures as they navigate power struggles, betrayals, and the rise of a new kingdom. It's a character-driven narrative that examines themes of destiny, leadership, and the corrupting influence of power, presented with a dark and often cynical tone. The series aims to deconstruct the traditional heroic narrative, portraying its characters as flawed and morally ambiguous.",
+        "spoiler_rich_plot_summary": "The series begins with the death of King Uther Pendragon and the secret birth of his son, Arthur, who is raised in hiding by Sir Ector. As Arthur grows, Merlin, a powerful sorcerer, manipulates events to ensure Arthur's ascension to the throne, believing him to be the destined ruler who will unite the warring kingdoms of Britain. Arthur, unaware of his true parentage and destiny, is drawn into the political machinations of the Pendragon court and the ambitions of various lords vying for power. Guinevere, a young noblewoman, becomes entangled in Arthur's life, leading to a forbidden romance that threatens to destabilize the nascent kingdom. As Arthur begins his reign, he faces numerous challenges, including rebellions, betrayals, and the resurgence of ancient magic. The series explores the dark side of Camelot's founding, revealing the sacrifices and compromises made to establish the realm. Key figures like Morgana, Arthur's half-sister, evolve into formidable adversaries, fueled by resentment and a thirst for power. The series culminates in a confrontation between Arthur and his enemies, testing the foundations of Camelot and the fate of its people.",
+        "categorized_keywords": {
+          "themes": [
+            "destiny",
+            "leadership",
+            "power-corrupts",
+            "betrayal",
+            "loyalty",
+            "redemption",
+            "good-vs-evil"
+          ],
+          "plot_and_concepts": [
+            "magic",
+            "courtly-intrigue",
+            "founding-of-a-kingdom",
+            "prophecy",
+            "coming-of-age"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "gritty",
+            "epic",
+            "political-thriller"
+          ],
+          "genre_and_tropes": [
+            "historical-fantasy",
+            "sword-and-sorcery",
+            "coming-of-age",
+            "court-drama"
+          ],
+          "setting": [
+            "medieval-britain",
+            "castle",
+            "kingdom"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "femme-fatale",
+            "corrupted-sibling"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "excalibur",
+            "round-table",
+            "sorcerers-tower",
+            "royal-court"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "political-manipulation"
+          ]
+        },
+        "keyword_sentence": "Camelot explores the dark and gritty origins of a legendary kingdom, weaving together themes of destiny, betrayal, and political intrigue within a medieval setting, where magic and violence shape the fate of a reluctant hero and his court."
+      },
+      "duration_seconds": 72.54884696006775
+    }
+  }
+}

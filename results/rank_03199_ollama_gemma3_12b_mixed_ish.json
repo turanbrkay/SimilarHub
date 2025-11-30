@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "mixed-ish",
+    "overview": "Rainbow Johnson recounts her experience growing up in a mixed-race family in the ‘80s and the constant dilemmas they had to face over whether to assimilate or stay true to themselves.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2019,
+    "vote_count": 42
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Mixed-ish is a sitcom that explores the complexities of identity and belonging through the lens of a biracial family navigating the 1980s. The series uses humor to address themes of assimilation, cultural pride, and the challenges of raising children in a society grappling with issues of race and representation. It offers a nostalgic and heartwarming portrayal of family dynamics, emphasizing the importance of embracing one's heritage while finding common ground. The show's comedic tone is balanced by moments of genuine emotional depth, creating a relatable and entertaining experience for a broad audience.",
+        "spoiler_rich_plot_summary": "The series centers on Rainbow Johnson, who reflects on her childhood growing up in a predominantly white neighborhood with her Black father and white mother. Initially, her parents attempt to shield her from racial prejudice by encouraging her to assimilate, leading Rainbow to reject her African American heritage. As she grows older, Rainbow begins to question her parents' approach and seeks to connect with her cultural roots, often clashing with her mother's desire for acceptance. Throughout the series, Rainbow's siblings also grapple with their own identities and experiences, leading to humorous and poignant family moments. The show explores the evolving relationship between Rainbow and her parents as they learn to navigate the complexities of race and identity together, ultimately celebrating the strength and resilience of a mixed-race family.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "cultural-identity",
+            "race-relations",
+            "assimilation",
+            "nostalgia",
+            "self-discovery"
+          ],
+          "plot_and_concepts": [
+            "coming-of-age",
+            "sitcom-format",
+            "flashback-narrative"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "heartwarming",
+            "comedic",
+            "nostalgic"
+          ],
+          "genre_and_tropes": [
+            "family-sitcom",
+            "coming-of-age-story",
+            "80s-nostalgia"
+          ],
+          "setting": [
+            "1980s",
+            "suburban-america",
+            "american-family"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-parent",
+            "teenager"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "80s-fashion",
+            "cassette-tapes",
+            "family-dinner",
+            "school-bus"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Mixed-ish is a lighthearted family sitcom set in the 1980s, exploring themes of cultural identity and belonging as a young girl navigates the complexities of growing up in a mixed-race family."
+      },
+      "duration_seconds": 54.080692768096924
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "Night Gallery",
+    "overview": "Rod Serling narrates an anthology of fantasy, horror and sci-fi stories from a set resembling a macabre museum. A chilling work of art serves as the connective link between the stories.",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1970,
+    "vote_count": 85
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Night Gallery is an anthology series hosted and narrated by Rod Serling, known for his work on The Twilight Zone. Each episode presents a self-contained story exploring themes of horror, fantasy, and science fiction, often with a darkly comedic or unsettling tone. The series utilizes a recurring visual motif of a macabre art gallery, serving as a transition between stories and creating a sense of unease and mystery. It offers a blend of suspense, psychological thrills, and supernatural elements, appealing to viewers who enjoy thought-provoking and unsettling narratives.",
+        "spoiler_rich_plot_summary": "The series unfolds as a collection of standalone tales, each presented as a piece of art within a bizarre gallery curated by Serling's character. Stories range from tales of supernatural curses and vengeful spirits to explorations of psychological torment and futuristic anxieties. Recurring themes involve the consequences of greed, the dangers of unchecked ambition, and the fragility of the human psyche. While each story concludes independently, a sense of interconnectedness is subtly implied through the gallery setting and Serling's narration, suggesting a larger, unseen narrative force at play. The stories often feature unexpected twists and unsettling resolutions, leaving the viewer questioning the nature of reality and the darkness that lies beneath the surface of everyday life. The gallery itself seems to possess a life of its own, reflecting and amplifying the horrors depicted within each story.",
+        "categorized_keywords": {
+          "themes": [
+            "supernatural",
+            "psychological-horror",
+            "moral-ambiguity",
+            "fate",
+            "revenge",
+            "greed",
+            "existentialism"
+          ],
+          "plot_and_concepts": [
+            "anthology-series",
+            "supernatural-curse",
+            "time-loop",
+            "doppelganger",
+            "body-horror",
+            "psychological-manipulation"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "eerie",
+            "suspenseful",
+            "unsettling",
+            "macabre"
+          ],
+          "genre_and_tropes": [
+            "horror",
+            "science-fiction",
+            "fantasy",
+            "anthology",
+            "mystery"
+          ],
+          "setting": [
+            "1970s",
+            "art-gallery",
+            "alternate-reality"
+          ],
+          "character_archetypes": [
+            "host-narrator",
+            "victim",
+            "antagonist",
+            "artist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "self-contained-episodes"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "art-painting",
+            "gallery-hallway",
+            "shadowy-figure",
+            "antique-mirror"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "psychological-distress"
+          ]
+        },
+        "keyword_sentence": "Night Gallery presents a chilling collection of horror, science fiction, and fantasy stories, hosted by Rod Serling, exploring themes of fate and psychological distress within a macabre art gallery setting."
+      },
+      "duration_seconds": 65.29332494735718
+    }
+  }
+}

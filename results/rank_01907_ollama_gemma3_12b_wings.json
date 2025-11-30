@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Wings",
+    "overview": "Brothers Brian and Joe Hackett attempt to run an airline on the New England island of Nantucket while surrounded by their various wacky friends and employees.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 1990,
+    "vote_count": 104
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Wings is a character-driven comedy-drama series set on the small island of Nantucket, Massachusetts. The show centers on the Hackett brothers, Brian and Joe, as they navigate the challenges of running their fledgling airline, Pacific Southwest. The series blends humor with heartfelt moments, exploring themes of family, friendship, ambition, and the complexities of small-town life. The show's charm lies in its ensemble cast and its ability to find both comedic and dramatic depth in the everyday struggles of its characters.",
+        "spoiler_rich_plot_summary": "The series begins with Brian and Joe Hackett inheriting a small airline from their father. Initially struggling to keep the business afloat, they gradually expand Pacific Southwest, encountering numerous obstacles along the way. Their personal lives are equally complicated, with romantic relationships, sibling rivalries, and the eccentricities of their employees constantly creating conflict and comedic situations. Over the seasons, the brothers face financial crises, personal tragedies, and professional setbacks, forcing them to confront their own flaws and learn the importance of family and loyalty. While the airline grows, the brothers also mature, learning to balance their ambitions with their responsibilities to their community and each other. The series culminates in a bittersweet resolution, acknowledging the inevitable changes that come with growth and the enduring bonds that tie the characters together.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "small-town-life",
+            "ambition",
+            "friendship",
+            "redemption",
+            "loyalty"
+          ],
+          "plot_and_concepts": [
+            "airline-business",
+            "ensemble-cast",
+            "coming-of-age",
+            "business-rivalry"
+          ],
+          "mood_and_tone": [
+            "heartwarming",
+            "comedic",
+            "dramatic",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "family-drama",
+            "workplace-comedy",
+            "small-town-charm"
+          ],
+          "setting": [
+            "nantucket-island",
+            "new-england",
+            "1990s"
+          ],
+          "character_archetypes": [
+            "entrepreneur",
+            "reluctant-hero",
+            "eccentric-character"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "prop-planes",
+            "island-airport",
+            "local-businesses",
+            "island-community"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Set on a charming New England island, Wings is a heartwarming family drama that explores themes of ambition, friendship, and loyalty through the comedic struggles of two brothers running a small airline."
+      },
+      "duration_seconds": 58.16735339164734
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "M*A*S*H",
+    "overview": "The 4077th Mobile Army Surgical Hospital is stuck in the middle of the Korean war. With little help from the circumstances they find themselves in, they are forced to make their own fun. Fond of practical jokes and revenge, the doctors, nurses, administrators, and soldiers often find ways of making wartime life bearable.",
+    "genres": [
+      "War & Politics",
+      "Drama",
+      "Comedy"
+    ],
+    "release_year": 1972,
+    "vote_count": 560
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "M*A*S*H is a darkly comedic television series set during the Korean War, centered around a mobile army surgical hospital. The show blends elements of war drama and sitcom, using humor to explore the absurdity and trauma of conflict. It examines themes of camaraderie, resilience, and the search for meaning in chaotic circumstances, offering a poignant commentary on the human condition amidst the backdrop of war. The series is known for its sharp wit, memorable characters, and its ability to find moments of levity even in the face of tragedy.",
+        "spoiler_rich_plot_summary": "The series begins with the arrival of Hawkeye Pierce and B.J. Hunnicutt, two newly-arrived surgeons, at the 4077th MASH unit. Their irreverent and often rule-breaking attitudes clash with the more traditional approach of Colonel Sherman Taggart, creating immediate tension. Throughout the series, the team faces constant challenges, from treating a relentless stream of wounded soldiers to navigating the bureaucratic absurdities of the military. Relationships develop between the characters, forging a strong sense of found-family amidst the horrors of war. While the series maintains a comedic tone, it also delves into the psychological toll of combat, exploring themes of loss, grief, and the search for meaning. As the war progresses, the characters confront difficult moral dilemmas and experience profound personal growth, ultimately demonstrating the enduring power of human connection in the face of adversity. The series concludes with the unit's departure from Korea, leaving a legacy of laughter, tears, and a profound understanding of the human spirit.",
+        "categorized_keywords": {
+          "themes": [
+            "war-and-trauma",
+            "camaraderie",
+            "found-family",
+            "absurdity",
+            "human-spirit",
+            "loss-and-grief",
+            "moral-dilemmas"
+          ],
+          "plot_and_concepts": [
+            "mobile-surgical-hospital",
+            "korean-war",
+            "military-satire",
+            "dark-comedy",
+            "found-family-dynamic"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "satirical",
+            "poignant",
+            "wholesome",
+            "bittersweet"
+          ],
+          "genre_and_tropes": [
+            "war-drama",
+            "sitcom",
+            "military-comedy",
+            "satirical-comedy"
+          ],
+          "setting": [
+            "korean-war",
+            "mobile-hospital",
+            "military-base"
+          ],
+          "character_archetypes": [
+            "rebellious-doctor",
+            "wise-mentor",
+            "gruff-military-officer",
+            "optimistic-nurse"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "mobile-operating-room",
+            "military-jeep",
+            "surgical-instruments",
+            "army-uniform"
+          ],
+          "maturity_and_content": [
+            "war-violence"
+          ]
+        },
+        "keyword_sentence": "Set against the backdrop of the Korean War, M*A*S*H is a darkly comedic drama that explores themes of camaraderie, absurdity, and the enduring human spirit through the experiences of a mobile surgical hospital unit."
+      },
+      "duration_seconds": 97.0942132472992
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Kiss Me First",
+    "overview": "To escape reality 17-year-old Leila turns to a secret virtual paradise. Her real journey begins when this digital Eden turns dark.",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2018,
+    "vote_count": 78
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Kiss Me First is a British drama series blending elements of mystery, science fiction, and coming-of-age narratives. The series explores themes of escapism, identity, and the blurred lines between the virtual and real worlds. A young woman seeking refuge from her troubled life finds herself drawn into a dangerous online community, where she must confront both external threats and her own inner demons. The series maintains a suspenseful tone, punctuated by moments of psychological exploration and a growing sense of unease as the protagonist delves deeper into the digital underworld.",
+        "spoiler_rich_plot_summary": "The series centers on Leila, a teenager struggling with personal trauma and seeking solace in a virtual reality game called 'Apogee.' Apogee offers a vibrant and seemingly utopian digital world, but it's secretly controlled by a mysterious figure known as 'The Bunny.' Leila quickly becomes entangled in the game's complex social dynamics and the machinations of The Bunny, who manipulates players for their own purposes. As Leila investigates the secrets of Apogee, she uncovers a dark conspiracy involving the game's origins and the true identities of its players. She forms a complicated relationship with Callum, another player, and together they attempt to expose The Bunny's schemes. The investigation leads them to confront the real-world consequences of their actions within the virtual space, revealing a web of deception and danger that extends far beyond the digital realm. Ultimately, Leila must confront her own past and make difficult choices that will determine the fate of Apogee and those connected to it.",
+        "categorized_keywords": {
+          "themes": [
+            "escapism",
+            "identity-crisis",
+            "virtual-reality",
+            "online-community",
+            "deception",
+            "trauma",
+            "coming-of-age"
+          ],
+          "plot_and_concepts": [
+            "virtual-world",
+            "online-gaming",
+            "mystery-thriller",
+            "conspiracy",
+            "cat-and-mouse"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "psychological-thriller",
+            "eerie"
+          ],
+          "genre_and_tropes": [
+            "sci-fi",
+            "mystery",
+            "teen-drama",
+            "virtual-reality-trope"
+          ],
+          "setting": [
+            "virtual-world",
+            "modern-day",
+            "online-space"
+          ],
+          "character_archetypes": [
+            "troubled-teenager",
+            "enigmatic-antagonist",
+            "reluctant-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "mystery-driven"
+          ],
+          "target_audience": [
+            "teen-viewers",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "virtual-avatar",
+            "online-forum",
+            "game-interface",
+            "digital-currency"
+          ],
+          "maturity_and_content": [
+            "psychological-distress",
+            "cyberbullying"
+          ]
+        },
+        "keyword_sentence": "Kiss Me First is a suspenseful teen drama exploring themes of escapism and identity within a dark virtual world, where a troubled teenager confronts a dangerous conspiracy and the blurred lines between reality and online existence."
+      },
+      "duration_seconds": 64.97412300109863
+    }
+  }
+}

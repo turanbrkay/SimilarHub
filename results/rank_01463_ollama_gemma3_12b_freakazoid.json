@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Freakazoid!",
+    "overview": "The adventures of  Freakazoid, a manic, insane superhero who battles with an array of super villains.",
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "release_year": 1995,
+    "vote_count": 151
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Freakazoid! is a surreal and chaotic animated superhero comedy series that revels in absurdity and self-referential humor. The show follows the transformation of Dexter Douglas into the unpredictable and hyperactive superhero Freakazoid, who battles a colorful cast of villains in a bizarre and ever-changing world. Its humor is largely derived from its rapid-fire jokes, fourth-wall breaks, and willingness to subvert superhero tropes. The series offers a lighthearted and energetic viewing experience, appealing to audiences who enjoy unconventional comedy and animation.",
+        "spoiler_rich_plot_summary": "The series begins with Dexter Douglas, a computer nerd, accidentally absorbing a massive surge of energy while working on a computer system. This transforms him into Freakazoid, a superhero with unpredictable powers and a manic personality. Throughout the series, Freakazoid confronts a variety of eccentric villains, often with the assistance of his friends, Hunter and Lulu. The show's narrative structure is largely episodic, with each episode presenting a new threat or challenge for Freakazoid to overcome. Recurring villains like the Heap and Rainbow Simon provide ongoing conflict, while the show frequently introduces new and bizarre antagonists. While Freakazoid consistently saves the day, the series maintains a playful and irreverent tone, often poking fun at superhero conventions and the very notion of heroism. The show's ending is left open-ended, suggesting that Freakazoid's adventures will continue indefinitely, always ready to face whatever bizarre challenges the universe throws his way.",
+        "categorized_keywords": {
+          "themes": [
+            "absurdity",
+            "heroism",
+            "self-discovery",
+            "friendship",
+            "chaos"
+          ],
+          "plot_and_concepts": [
+            "transformation",
+            "superhero-action",
+            "villain-battles",
+            "fourth-wall-breaks",
+            "time-travel"
+          ],
+          "mood_and_tone": [
+            "comedic",
+            "surreal",
+            "energetic",
+            "lighthearted",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "comedy",
+            "superhero",
+            "satire",
+            "parody"
+          ],
+          "setting": [
+            "alternate-reality",
+            "modern-day",
+            "comic-book-world"
+          ],
+          "character_archetypes": [
+            "unconventional-hero",
+            "eccentric-villain",
+            "loyal-friend"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "superhero-costume",
+            "villain-lair",
+            "comic-book-panels"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Freakazoid! is a comedic animation series that embraces absurdity and superhero tropes through the adventures of an unconventional hero battling eccentric villains in a lighthearted and energetic alternate reality."
+      },
+      "duration_seconds": 61.06648826599121
+    }
+  }
+}

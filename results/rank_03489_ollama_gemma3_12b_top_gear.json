@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Top Gear",
+    "overview": "Hosts Tanner Foust, Adam Ferrara and Rutledge Wood embark on adventures as they test cars in extreme stunts, intense challenges and first-person reviews using their unique perspectives.",
+    "genres": [
+      "Comedy",
+      "Documentary"
+    ],
+    "release_year": 2010,
+    "vote_count": 36
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Top Gear is a motoring television series that blends car reviews, road trips, and comedic challenges. The show's appeal lies in its irreverent humor, its focus on automotive enthusiasm, and its willingness to push vehicles and hosts to their limits. It's a fast-paced, visually engaging show that caters to car lovers and those seeking lighthearted entertainment. The series emphasizes the personalities of the hosts and their interactions as much as the cars themselves, creating a dynamic and often chaotic viewing experience.",
+        "spoiler_rich_plot_summary": "The series follows a rotating cast of hosts, initially led by Jeremy Clarkson, Richard Hammond, and James May, who travel the globe in various vehicles, undertaking elaborate challenges and reviewing cars with a distinctive, often sarcastic, style. Early seasons established the hosts' chemistry and signature segments like the 'Star in a Car' and 'Reasonably Priced Car' challenges. Later seasons saw changes in the lineup, with new hosts attempting to maintain the show's established formula. The series frequently involves stunts and races across diverse terrains, pushing both the vehicles and the hosts to their limits. While the show doesn't have a traditional narrative arc, recurring themes involve the hosts' competitive spirit, their exploration of different cultures, and their shared passion for automobiles. The show's evolution reflects changes in automotive trends and the hosts' personal journeys, ultimately maintaining its core appeal of automotive adventure and comedic banter.",
+        "categorized_keywords": {
+          "themes": [
+            "automotive-culture",
+            "adventure",
+            "competition",
+            "travel",
+            "humor",
+            "male-bonding"
+          ],
+          "plot_and_concepts": [
+            "car-review",
+            "road-trip",
+            "stunt",
+            "challenge",
+            "race",
+            "automotive-engineering"
+          ],
+          "mood_and_tone": [
+            "comedic",
+            "fast-paced",
+            "irreverent",
+            "energetic",
+            "lighthearted"
+          ],
+          "genre_and_tropes": [
+            "automotive-show",
+            "travel-documentary",
+            "reality-tv",
+            "buddy-comedy"
+          ],
+          "setting": [
+            "global",
+            "road",
+            "racetrack",
+            "automotive-industry"
+          ],
+          "character_archetypes": [
+            "car-enthusiast",
+            "adventurer",
+            "comedian",
+            "expert"
+          ],
+          "narrative_style": [
+            "episodic",
+            "travelogue",
+            "challenge-based"
+          ],
+          "target_audience": [
+            "car-lovers",
+            "young-adults",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "car-review",
+            "racetrack",
+            "stunt-car",
+            "road-trip",
+            "challenge"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Top Gear is a globally-traveling automotive show that blends comedic challenges, car reviews, and fast-paced adventures with a lighthearted and irreverent tone."
+      },
+      "duration_seconds": 57.06132698059082
+    }
+  }
+}

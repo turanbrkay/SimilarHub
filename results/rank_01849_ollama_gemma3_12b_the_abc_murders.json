@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "The ABC Murders",
+    "overview": "1933. Hercule Poirot, older and greyer, receives letters threatening murder. The sender signs themselves only as “A.B.C.” When he takes the letters to the police looking for help, Hercule finds all his old friends have moved on. But soon there is a murder and the once-great detective must take matters into his own hands.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2018,
+    "vote_count": 108
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The ABC Murders is a three-part British crime drama based on Agatha Christie's novel. The series follows the aging detective Hercule Poirot as he investigates a series of murders seemingly connected by alphabetical order. It blends classic whodunit mystery with a poignant exploration of Poirot's declining years and the changing world around him. The tone is suspenseful and atmospheric, with a touch of melancholy, as Poirot confronts his own mortality and the loss of his former prominence. The series offers a compelling narrative driven by intricate plotting and strong character development, appealing to fans of classic mysteries and character-driven dramas.",
+        "spoiler_rich_plot_summary": "The series begins with Hercule Poirot, now retired and living a quiet life, receiving unsettling letters signed 'ABC,' hinting at impending murders. Initially dismissed by the police, Poirot soon finds his fears realized when a series of murders occur in towns corresponding to the letters in the sender's signature. As Poirot investigates, he discovers a pattern: each victim is seemingly random, but connected by the alphabetical sequence. Poirot teams up with Inspector Japp and Miss Marsh to unravel the killer's motive and identity. The investigation leads them through a complex web of suspects and red herrings, revealing dark secrets and hidden connections within the seemingly ordinary communities. The killer's methods become increasingly audacious, challenging Poirot's intellect and pushing him to confront his own limitations. Ultimately, the killer's identity is revealed to be someone deeply connected to the victims and driven by a twisted sense of justice, forcing Poirot to make a difficult choice to bring the perpetrator to justice while grappling with the moral implications of their actions.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "revenge",
+            "identity",
+            "aging",
+            "morality",
+            "class-conflict"
+          ],
+          "plot_and_concepts": [
+            "whodunit",
+            "serial-killer",
+            "alphabetical-sequence",
+            "police-investigation",
+            "false-leads"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "melancholy",
+            "atmospheric"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "mystery",
+            "classic-detective",
+            "red-herring"
+          ],
+          "setting": [
+            "1930s-england",
+            "small-town-england"
+          ],
+          "character_archetypes": [
+            "aging-detective",
+            "police-inspector",
+            "victim"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "limited-series"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "alphabetical-sequence",
+            "police-station",
+            "victims-homes",
+            "train-station"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Set in 1930s England, The ABC Murders is a suspenseful and atmospheric crime drama following an aging detective as he investigates a series of murders linked by a chilling alphabetical sequence."
+      },
+      "duration_seconds": 64.82109189033508
+    }
+  }
+}

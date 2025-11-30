@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Killing Eve",
+    "overview": "A security consultant hunts for a ruthless assassin. Equally obsessed with each other, they go head to head in an epic game of cat-and-mouse.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2018,
+    "vote_count": 1101
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Killing Eve is a darkly comedic thriller centered on a brilliant but bored MI6 operative who becomes obsessed with tracking down a highly skilled and elusive assassin. The series explores themes of obsession, identity, and the blurred lines between good and evil, with a stylish aesthetic and sharp, witty dialogue. It subverts traditional spy tropes by presenting a complex and compelling female protagonist and antagonist, creating a tense and unpredictable cat-and-mouse game.",
+        "spoiler_rich_plot_summary": "The series begins with Eve Polastri, a frustrated intelligence analyst, drawn into a case involving several high-profile murders committed by a mysterious assassin known only as Villanelle. Eve's relentless pursuit of Villanelle leads her down a rabbit hole of international intrigue and increasingly dangerous situations. As Eve gets closer to Villanelle, she finds herself captivated by her intelligence, charm, and utter lack of remorse. Villanelle, in turn, seems equally fascinated by Eve's determination and vulnerability. Their relationship evolves into a complex dance of obsession and manipulation, with each woman pushing the other to the edge. Throughout the series, Eve and Villanelle repeatedly cross paths, engaging in elaborate schemes and near misses. They both experience periods of separation and attempts at normalcy, but their connection proves inescapable. The series culminates in a confrontation where their intertwined fates are tested, forcing them to confront the consequences of their actions and the nature of their bond.",
+        "categorized_keywords": {
+          "themes": [
+            "obsession",
+            "identity-quest",
+            "female-agency",
+            "moral-ambiguity",
+            "cat-and-mouse",
+            "revenge"
+          ],
+          "plot_and_concepts": [
+            "spy-thriller",
+            "assassination",
+            "international-intrigue",
+            "serial-killer",
+            "female-protagonist"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "suspenseful",
+            "stylish",
+            "tense"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "spy-genre",
+            "slow-burn-romance",
+            "anti-heroine"
+          ],
+          "setting": [
+            "europe",
+            "modern-day",
+            "london-city"
+          ],
+          "character_archetypes": [
+            "anti-heroine",
+            "reluctant-hero",
+            "femme-fatale",
+            "morally-gray-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "assassination-scene",
+            "mi6-headquarters",
+            "stylish-clothing",
+            "european-cityscape"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "sexual-content"
+          ]
+        },
+        "keyword_sentence": "Killing Eve is a stylish and suspenseful spy thriller that explores themes of obsession and moral ambiguity through the intertwined fates of a brilliant intelligence operative and a captivating assassin."
+      },
+      "duration_seconds": 58.07988786697388
+    }
+  }
+}

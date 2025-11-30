@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Three Pines",
+    "overview": "Chief Inspector Armand Gamache and his team investigate a series of perplexing murders, in the seemingly idyllic village of Three Pines and uncover the buried secrets of its eccentric residents. In the process, Gamache is forced to confront buried secrets of his own. Based on the novels by Louise Penny.",
+    "genres": [
+      "Mystery",
+      "Crime"
+    ],
+    "release_year": 2022,
+    "vote_count": 40
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Three Pines is a Canadian crime drama series centered on Chief Inspector Armand Gamache and his team as they investigate murders within a picturesque Quebec village. The series blends elements of a police procedural with a character-driven narrative, exploring the complexities of human relationships and the darkness that can lurk beneath a seemingly tranquil surface. It delves into themes of community, morality, and the consequences of past actions, offering a contemplative and atmospheric viewing experience. The series distinguishes itself through its focus on character development and psychological depth, rather than relying solely on fast-paced action.",
+        "spoiler_rich_plot_summary": "The series begins with the investigation of a shocking murder in the seemingly peaceful village of Three Pines, disrupting the lives of its quirky residents. As Gamache and his team delve deeper into the case, they uncover a web of secrets and lies, revealing hidden tensions and long-held grudges among the villagers. Subsequent investigations expose a history of trauma and buried conflicts within the community, forcing Gamache to confront his own past and question his understanding of justice. The series explores the interconnectedness of the villagers, demonstrating how past events continue to shape the present. While the investigations resolve individual cases, a larger, overarching mystery regarding the village's history and Gamache's personal connection to it slowly unfolds, suggesting a deeper conspiracy at play. The series culminates in a confrontation with a figure from Gamache’s past, revealing a complex and painful truth about his own life and the origins of the village’s troubles.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "community",
+            "secrets",
+            "redemption",
+            "morality",
+            "past-trauma",
+            "small-town-life"
+          ],
+          "plot_and_concepts": [
+            "police-investigation",
+            "murder-mystery",
+            "small-town-secrets",
+            "past-crimes",
+            "character-driven-plot"
+          ],
+          "mood_and_tone": [
+            "atmospheric",
+            "contemplative",
+            "melancholy",
+            "suspenseful",
+            "dark"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "mystery",
+            "small-town-drama"
+          ],
+          "setting": [
+            "quebec",
+            "small-town-canada",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "wise-mentor",
+            "complex-protagonist",
+            "eccentric-villagers"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "village-square",
+            "police-station",
+            "antique-shop",
+            "art-gallery"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Set in a picturesque Quebec village, Three Pines is a contemplative crime drama that explores themes of justice, community, and buried secrets through a character-driven narrative and atmospheric tone."
+      },
+      "duration_seconds": 56.58937907218933
+    }
+  }
+}

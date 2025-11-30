@@ -1,0 +1,69 @@
+{
+  "input_data": {
+    "title": "Chip 'n' Dale: Park Life",
+    "overview": "A non-verbal, classic style comedy, following the ups and downs of the much-loved chipmunk troublemakers living life in the big city.",
+    "genres": [
+      "Animation",
+      "Kids"
+    ],
+    "release_year": 2021,
+    "vote_count": 64
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Chip 'n' Dale: Park Life is a comedic animated series that reimagines the classic chipmunk duo in a modern, urban setting. The show utilizes a largely non-verbal style, relying on visual gags and slapstick humor to tell its stories. It blends elements of classic cartoon comedy with a contemporary sensibility, appealing to both longtime fans and a new generation of viewers. The series explores themes of friendship, perseverance, and navigating the challenges of city life, all while maintaining a lighthearted and whimsical tone.",
+        "spoiler_rich_plot_summary": "The series follows Chip and Dale as they attempt to build a life for themselves in a bustling city park. Initially, they struggle to find stability, facing eviction and dealing with various eccentric park residents, including a grumpy pigeon and a family of squirrels. As they navigate these challenges, they form unexpected alliances and learn to rely on each other. Over time, they encounter rivalries with other animal groups vying for control of the park's resources. The series chronicles their attempts to establish a sense of community and find their place within the park's complex social hierarchy, facing setbacks and triumphs along the way. While they experience moments of conflict and disagreement, their bond as friends ultimately prevails, leading them to find a degree of acceptance and belonging.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "perseverance",
+            "city-life",
+            "community",
+            "acceptance"
+          ],
+          "plot_and_concepts": [
+            "slapstick-comedy",
+            "animal-comedy",
+            "non-verbal-humor",
+            "urban-setting"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "whimsical"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "kids-comedy",
+            "classic-cartoon"
+          ],
+          "setting": [
+            "city-park",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "mischievous-protagonist",
+            "loyal-friend"
+          ],
+          "narrative_style": [
+            "serialized-story"
+          ],
+          "target_audience": [
+            "kids",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "city-park-bench",
+            "squirrel-family",
+            "grumpy-pigeon"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Chip 'n' Dale: Park Life is a lighthearted animated comedy series for kids and families, following the mischievous chipmunks as they navigate city-park life and forge friendships through perseverance and wholesome humor."
+      },
+      "duration_seconds": 54.85489749908447
+    }
+  }
+}

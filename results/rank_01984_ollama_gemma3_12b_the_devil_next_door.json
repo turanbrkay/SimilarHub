@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "The Devil Next Door",
+    "overview": "A Cleveland grandfather is brought to trial in Israel, accused of being the infamous Nazi death camp guard known as Ivan the Terrible.",
+    "genres": [
+      "Documentary",
+      "Crime"
+    ],
+    "release_year": 2019,
+    "vote_count": 97
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Devil Next Door is a chilling documentary series that explores the extraordinary case of Johann Demjanjuk, a man accused of being the Nazi death camp guard 'Ivan the Terrible.' Through archival footage, interviews, and legal proceedings, the series examines the complexities of historical accountability, the challenges of identifying perpetrators of atrocities, and the enduring impact of the Holocaust. It blends elements of a true crime investigation with a profound meditation on memory, justice, and the search for truth. The series is emotionally intense and raises difficult questions about the nature of evil and the responsibility of individuals in the face of mass violence.",
+        "spoiler_rich_plot_summary": "The documentary begins by introducing Johann Demjanjuk, a retired Cleveland auto worker who lives a seemingly ordinary life. However, his past is dramatically unearthed when he is identified as 'Ivan the Terrible,' a notorious guard at the Treblinka extermination camp. The series follows the legal proceedings in Israel, where Demjanjuk is put on trial based largely on eyewitness testimony and a photograph. The prosecution attempts to prove his guilt, while the defense argues that the evidence is circumstantial and that Demjanjuk is the victim of mistaken identity. The trial is fraught with legal and evidentiary challenges, as the prosecution struggles to definitively link Demjanjuk to the atrocities committed at Treblinka. Despite the efforts of both sides, the trial ultimately ends in a controversial verdict, leaving many questions unanswered about Demjanjuk's true role in the Holocaust and the complexities of historical justice. The series concludes by reflecting on the enduring legacy of the Holocaust and the ongoing search for accountability.",
+        "categorized_keywords": {
+          "themes": [
+            "holocaust-denial",
+            "historical-accountability",
+            "justice",
+            "memory",
+            "identity",
+            "evil",
+            "truth"
+          ],
+          "plot_and_concepts": [
+            "true-crime",
+            "legal-proceedings",
+            "mistaken-identity",
+            "eyewitness-testimony",
+            "investigation"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "chilling",
+            "intense",
+            "reflective"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "true-crime",
+            "legal-drama"
+          ],
+          "setting": [
+            "cleveland-ohio",
+            "israel",
+            "treblinka-extermination-camp",
+            "world-war-ii"
+          ],
+          "character_archetypes": [
+            "accused",
+            "investigator",
+            "prosecutor",
+            "defense-attorney"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "investigative-journalism"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "trial-footage",
+            "archival-photos",
+            "courtroom-scene",
+            "extermination-camp"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "abuse-themes",
+            "historical-trauma"
+          ]
+        },
+        "keyword_sentence": "The Devil Next Door is a chilling documentary series that investigates the complexities of historical accountability and the search for truth surrounding a Cleveland man accused of being a notorious Nazi death camp guard during World War II."
+      },
+      "duration_seconds": 68.85874223709106
+    }
+  }
+}

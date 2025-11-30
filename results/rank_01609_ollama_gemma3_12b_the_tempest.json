@@ -1,0 +1,68 @@
+{
+  "input_data": {
+    "title": "The Tempest",
+    "overview": "La tempestad is a Mexican telenovela produced by Salvador Mejía Alejandre for Televisa. It is loosely based on the Colombian telenovela La Tormenta, produced by RTI Colombia for Telemundo and Caracol TV.\n\nWilliam Levy and Ximena Navarrete star as the protagonists, while Iván Sanchez, Laura Carmine, Mariana Seoane, Cesar Evora, and Manuel Ojeda star as the antagonists. Daniela Romo is also confirmed to star. Previously, Jessica Coch and Adriana Louvier were originally confirmed to star as the antagonist.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2013,
+    "vote_count": 130
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Tempest is a Mexican telenovela centered on a tale of betrayal, revenge, and ultimately, forgiveness. The narrative explores themes of family loyalty, social class, and the destructive power of secrets. The series blends elements of melodrama with a focus on complex character relationships and dramatic plot twists, aiming to provide a heightened emotional experience for its audience. It's a story of redemption and second chances, set against a backdrop of wealth and privilege.",
+        "spoiler_rich_plot_summary": "The story revolves around the wealthy and powerful Mendoza family, particularly focusing on the patriarch, Don Ignacio Mendoza, and his children. A devastating betrayal in the past, involving the loss of his beloved wife and the theft of his fortune, fuels Don Ignacio’s desire for revenge. He orchestrates a series of events to punish those responsible, manipulating the lives of his children and others caught in his web. A young woman, Catalina, is brought into the Mendoza family under false pretenses, and her true identity becomes a central mystery. As the truth about the past is gradually revealed, long-held secrets are exposed, leading to confrontations and shifting alliances. The series culminates in a reckoning for the characters involved, with some finding redemption while others face the consequences of their actions. Ultimately, the focus shifts to rebuilding trust and finding a path towards healing and forgiveness.",
+        "categorized_keywords": {
+          "themes": [
+            "revenge",
+            "betrayal",
+            "family-loyalty",
+            "redemption",
+            "social-class",
+            "forgiveness",
+            "secrets"
+          ],
+          "plot_and_concepts": [
+            "heir-disinheritance",
+            "false-identity",
+            "plot-twist",
+            "family-secrets"
+          ],
+          "mood_and_tone": [
+            "melodramatic",
+            "dramatic",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "telenovela",
+            "family-saga",
+            "romantic-drama"
+          ],
+          "setting": [
+            "mexico",
+            "wealthy-families"
+          ],
+          "character_archetypes": [
+            "patriarch",
+            "vengeful-father",
+            "innocent-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "family-mansion",
+            "inheritance-dispute"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "A dramatic telenovela set in Mexico, The Tempest explores themes of revenge and betrayal within a wealthy family, ultimately seeking redemption through forgiveness and the unraveling of long-held secrets."
+      },
+      "duration_seconds": 56.57814073562622
+    }
+  }
+}

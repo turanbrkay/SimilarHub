@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Unforgotten",
+    "overview": "London police detectives Cassie Stuart and Sunny Khan investigate historic cold cases involving missing persons, murder and long-hidden secrets.",
+    "genres": [
+      "Drama",
+      "Crime",
+      "Mystery"
+    ],
+    "release_year": 2015,
+    "vote_count": 125
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Unforgotten is a British crime drama series centered on a cold case investigation unit. Each season focuses on a different unsolved crime from decades past, forcing detectives to confront the lingering trauma of victims and the complex motivations of suspects. The series explores themes of memory, guilt, and the enduring consequences of past actions, often revealing how seemingly ordinary lives are intertwined with dark secrets. The show's strength lies in its character-driven narratives and its ability to create suspense through meticulous police procedure and psychological depth.",
+        "spoiler_rich_plot_summary": "The series begins with the discovery of human remains in a construction site, triggering an investigation led by detectives Cassie Stuart and Sunny Khan. The initial season focuses on a disappearance from 1988, uncovering a web of lies and betrayals among a group of young people. Subsequent seasons tackle different cold cases, each revealing a new set of suspects and victims connected by shared histories and buried secrets. As the detectives delve deeper into the past, they confront personal challenges and ethical dilemmas, often blurring the lines between justice and personal involvement. The investigations frequently expose the fragility of memory and the devastating impact of unresolved trauma on families and communities. The series consistently demonstrates how seemingly insignificant events from the past can have profound and lasting consequences, reshaping the lives of those involved and challenging the detectives' own perspectives on truth and justice. The detectives face increasing personal and professional strain as they navigate the complexities of the cases, often uncovering uncomfortable truths about themselves and those around them.",
+        "categorized_keywords": {
+          "themes": [
+            "memory-and-loss",
+            "guilt-and-redemption",
+            "social-justice",
+            "past-trauma",
+            "family-secrets",
+            "moral-ambiguity"
+          ],
+          "plot_and_concepts": [
+            "cold-case-investigation",
+            "police-procedural",
+            "serial-investigation",
+            "historical-mystery"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "suspenseful",
+            "melancholy",
+            "atmospheric"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "police-procedural",
+            "mystery-thriller"
+          ],
+          "setting": [
+            "london-city",
+            "modern-day",
+            "historical-setting"
+          ],
+          "character_archetypes": [
+            "detective",
+            "reluctant-hero",
+            "morally-gray-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "police-station",
+            "crime-scene",
+            "interview-room",
+            "historical-records"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "emotional-trauma"
+          ]
+        },
+        "keyword_sentence": "Unforgotten is a somber British crime drama that explores themes of memory, guilt, and the enduring consequences of past trauma through meticulous cold-case investigations in modern-day London."
+      },
+      "duration_seconds": 65.03643131256104
+    }
+  }
+}

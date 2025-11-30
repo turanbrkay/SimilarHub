@@ -1,0 +1,89 @@
+{
+  "input_data": {
+    "title": "The White Lotus",
+    "overview": "Follow the exploits of various guests and employees at an exclusive tropical resort over the span of a week as with each passing day, a darker complexity emerges in these picture-perfect travelers, the hotel’s cheerful employees and the idyllic locale itself.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2021,
+    "vote_count": 583
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The White Lotus is a satirical dramedy series that explores the lives of wealthy vacationers and the resort staff who cater to their needs. Set in a luxurious tropical resort, the show uses dark humor and sharp social commentary to expose the privilege, entitlement, and underlying tensions within both the guests and the employees. Each season focuses on a new location and a fresh cast of characters, examining themes of class, race, power, and the illusion of paradise. The series offers a compelling blend of comedic absurdity and dramatic depth, prompting viewers to question the ethics of wealth and the complexities of human relationships.",
+        "spoiler_rich_plot_summary": "The first season of The White Lotus introduces a group of guests arriving at a Hawaiian resort, each grappling with their own personal and relational issues. Among them are a newlywed couple struggling with their marriage, a group of friends confronting their own insecurities, and a tech mogul facing professional setbacks. Simultaneously, the resort staff, led by the manager, navigate the demands of their guests while dealing with their own financial and emotional burdens. As the week progresses, simmering tensions and hidden resentments surface, leading to unexpected conflicts and ultimately, a tragic event that exposes the dark underbelly of the seemingly idyllic setting. The second season shifts the location to Sicily, Italy, and introduces a new set of guests and employees. This group is equally complex, with their own secrets and motivations. The season explores themes of generational wealth, cultural appropriation, and the pursuit of pleasure, culminating in a series of revelations and a shocking conclusion that leaves the audience questioning the true cost of indulgence.",
+        "categorized_keywords": {
+          "themes": [
+            "class-conflict",
+            "wealth-and-privilege",
+            "cultural-appropriation",
+            "generational-wealth",
+            "social-commentary",
+            "power-dynamics",
+            "identity-crisis",
+            "vacation-paradise",
+            "moral-ambiguity"
+          ],
+          "plot_and_concepts": [
+            "satirical-comedy",
+            "mystery-plot",
+            "ensemble-cast",
+            "vacation-setting",
+            "dark-humor",
+            "social-critique"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "satirical",
+            "cynical",
+            "unsettling",
+            "observational"
+          ],
+          "genre_and_tropes": [
+            "satirical-drama",
+            "dark-comedy",
+            "ensemble-cast",
+            "vacation-drama"
+          ],
+          "setting": [
+            "tropical-resort",
+            "hawaii",
+            "sicily",
+            "luxury-travel"
+          ],
+          "character_archetypes": [
+            "entitled-guest",
+            "jaded-employee",
+            "wealthy-elite",
+            "moral-ambiguous-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "anthology-series",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "luxury-suite",
+            "poolside-cabana",
+            "beachfront-view",
+            "resort-staff",
+            "gourmet-dining"
+          ],
+          "maturity_and_content": [
+            "sexual-content",
+            "drug-use",
+            "profanity"
+          ]
+        },
+        "keyword_sentence": "The White Lotus is a darkly comic anthology series that satirically examines the complexities of wealth, privilege, and human relationships within the opulent setting of a luxury tropical resort."
+      },
+      "duration_seconds": 80.83872485160828
+    }
+  }
+}

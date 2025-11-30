@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "The Lodge",
+    "overview": "Fifteen-year-old Skye moves with her father from the big city to rural Northern Ireland, where they take over a local family owned  hotel called North Star, previously managed by Skye's grandfather. Skye tries to build a new life, but this new life is not free from complications as Skye must navigate through the everyday stresses of life as a teenager and tries to integrate into a group of teenagers who live and work in the hotel.",
+    "genres": [
+      "Family",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2016,
+    "vote_count": 30
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Lodge is a family drama series set in rural Northern Ireland, revolving around a teenage girl adjusting to a new life and family business. The show explores themes of belonging, generational conflict, and the challenges of adapting to a close-knit community. It blends elements of drama and mystery, creating a somewhat melancholic atmosphere as Skye navigates personal relationships and uncovers secrets within the North Star Hotel. The series focuses on the complexities of family dynamics and the search for identity amidst a backdrop of scenic landscapes and subtle intrigue.",
+        "spoiler_rich_plot_summary": "The series begins with Skye and her father, Sean, inheriting the North Star Hotel from Sean's father, Skye's grandfather. Skye struggles to adapt to the slower pace of life and the close-knit community surrounding the hotel, finding it difficult to connect with the local teenagers who work and live there. As Skye attempts to integrate, she discovers that the hotel holds a history of secrets and unresolved conflicts, particularly concerning her grandfather's past and the circumstances surrounding his retirement. Relationships develop between Skye and the local teens, including a budding romance, but these connections are complicated by the underlying tensions within the community and the lingering impact of past events. Throughout the series, Skye uncovers clues about her grandfather’s past, revealing a complex web of relationships and betrayals that have shaped the hotel's history and the lives of those connected to it. The series culminates in a resolution of these long-held secrets, bringing closure to the characters and revealing the true nature of the North Star Hotel’s legacy.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "identity-quest",
+            "generational-conflict",
+            "belonging",
+            "secrets",
+            "small-town-life"
+          ],
+          "plot_and_concepts": [
+            "family-business",
+            "coming-of-age",
+            "mystery",
+            "small-town-secrets"
+          ],
+          "mood_and_tone": [
+            "melancholic",
+            "atmospheric",
+            "reflective"
+          ],
+          "genre_and_tropes": [
+            "family-drama",
+            "coming-of-age-story",
+            "small-town-mystery"
+          ],
+          "setting": [
+            "northern-ireland",
+            "rural-setting",
+            "hotel-setting"
+          ],
+          "character_archetypes": [
+            "teenager",
+            "father",
+            "grandfather",
+            "small-town-resident"
+          ],
+          "narrative_style": [
+            "serialized-story"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "hotel-lobby",
+            "northern-ireland-landscape",
+            "family-portrait",
+            "hotel-rooms"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Set against the backdrop of rural Northern Ireland, The Lodge is a family drama series exploring themes of identity, belonging, and generational conflict as a teenager navigates a new life and uncovers long-held secrets within a close-knit community."
+      },
+      "duration_seconds": 77.40677404403687
+    }
+  }
+}

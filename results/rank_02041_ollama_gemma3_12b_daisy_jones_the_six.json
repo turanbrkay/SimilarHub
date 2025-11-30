@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Daisy Jones & the Six",
+    "overview": "In 1977, Daisy Jones & The Six were on top of the world. Fronted by two charismatic lead singers — Daisy Jones and Billy Dunne — the band had risen from obscurity to fame. And then, after a sold-out show at Chicago's Soldier Field, they called it quits. Now, decades later, the band members finally agree to reveal the truth.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2023,
+    "vote_count": 93
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Daisy Jones & The Six is a drama series chronicling the rise and fall of a fictional 1970s rock band. Presented as an oral history, the show explores themes of ambition, love, addiction, and the complexities of creative collaboration. The series blends elements of music biopic and interpersonal drama, offering a nostalgic and emotionally resonant exploration of the era's music scene and the personal sacrifices often required for artistic success. The narrative focuses on the dynamic between the band's two lead singers, Daisy Jones and Billy Dunne, and the tensions that ultimately led to their abrupt disbandment.",
+        "spoiler_rich_plot_summary": "The series begins with the separate trajectories of Daisy Jones, a young woman yearning for recognition as a singer-songwriter, and Billy Dunne, the frontman of The Six, a band struggling to find their footing. Their paths converge when a record producer recognizes the potential of combining their talents. The formation of Daisy Jones & The Six leads to a meteoric rise to fame, fueled by their captivating music and undeniable chemistry. However, the intense pressure of the music industry, coupled with Billy’s struggles with addiction and infidelity, and Daisy’s own battles with substance abuse, create deep rifts within the band. A complex and often volatile romantic tension develops between Daisy and Billy, further complicating the group’s dynamic. As the band reaches the peak of their success, a final, sold-out concert at Soldier Field marks the end of their journey, leaving behind a legacy of unanswered questions and unresolved emotions. Decades later, the band members finally agree to recount their story, revealing the truth behind their dramatic split.",
+        "categorized_keywords": {
+          "themes": [
+            "ambition",
+            "love",
+            "addiction",
+            "creative-collaboration",
+            "redemption",
+            "family-dynamics",
+            "fame",
+            "loss"
+          ],
+          "plot_and_concepts": [
+            "oral-history",
+            "music-biopic",
+            "rise-and-fall",
+            "band-dynamic",
+            "romantic-tension"
+          ],
+          "mood_and_tone": [
+            "nostalgic",
+            "emotional",
+            "melancholy",
+            "reflective"
+          ],
+          "genre_and_tropes": [
+            "music-drama",
+            "coming-of-age",
+            "romantic-drama"
+          ],
+          "setting": [
+            "1970s",
+            "los-angeles",
+            "music-scene"
+          ],
+          "character_archetypes": [
+            "tortured-artist",
+            "troubled-hero",
+            "free-spirit",
+            "redemptive-figure"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "flashback-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "soldier-field",
+            "vinyl-records",
+            "stage-lights",
+            "recording-studio"
+          ],
+          "maturity_and_content": [
+            "substance-abuse",
+            "infidelity"
+          ]
+        },
+        "keyword_sentence": "Daisy Jones & The Six is a nostalgic drama series exploring themes of ambition, love, and addiction within the vibrant 1970s music scene of Los Angeles, chronicling the rise and fall of a band through a fragmented oral history format."
+      },
+      "duration_seconds": 67.92737865447998
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "The Honeymooners",
+    "overview": "A bus driver and his sewer worker friend struggle to strike it rich while their wives look on with weary patience. One of the most influential situation comedy television series in American history.",
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "release_year": 1955,
+    "vote_count": 56
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Honeymooners is a classic American sitcom centered on the working-class lives of Ralph and Alice Kramden and their friends, Ed and Trixie Norton. The series explores themes of aspiration, marital dynamics, and the challenges of everyday life with a blend of physical comedy and relatable situations. Known for its innovative use of live studio audiences and its influence on subsequent sitcoms, The Honeymooners offers a humorous and heartwarming portrayal of mid-20th century American family life.",
+        "spoiler_rich_plot_summary": "The series primarily revolves around Ralph Kramden's schemes to get rich quick, often involving get-rich-quick schemes and dubious business ventures, much to the exasperation of his wife, Alice. Ralph's attempts are frequently thwarted by his own ineptitude and Alice's pragmatic interventions. The show's humor stems from the contrast between Ralph's grandiose ambitions and the mundane reality of his existence, as well as the playful banter and occasional friction between the couples. Recurring plotlines involve Ralph's struggles with his job at the bus depot, his attempts to impress his friends and neighbors, and the ongoing tension between his desire for a better life and the limitations of his circumstances. While the series doesn't feature dramatic plot twists, it consistently portrays the enduring nature of the couples' relationships and their ability to find humor and connection amidst the everyday struggles of working-class life.",
+        "categorized_keywords": {
+          "themes": [
+            "working-class-life",
+            "marital-dynamics",
+            "aspirations",
+            "friendship",
+            "family-comedy"
+          ],
+          "plot_and_concepts": [
+            "get-rich-quick-schemes",
+            "sitcom-format",
+            "ensemble-cast",
+            "physical-comedy"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "nostalgic"
+          ],
+          "genre_and_tropes": [
+            "situation-comedy",
+            "family-sitcom",
+            "working-class-comedy"
+          ],
+          "setting": [
+            "1950s-america",
+            "new-york-city",
+            "working-class-neighborhood"
+          ],
+          "character_archetypes": [
+            "bumbling-husband",
+            "practical-wife",
+            "loyal-friend"
+          ],
+          "narrative_style": [
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "bus-depot",
+            "kramden-apartment",
+            "sewer-work",
+            "radio-repair"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Honeymooners, a beloved family sitcom set in 1950s New York City, humorously portrays the aspirations and everyday struggles of a working-class couple and their friends through lighthearted physical comedy and relatable marital dynamics."
+      },
+      "duration_seconds": 55.580002546310425
+    }
+  }
+}

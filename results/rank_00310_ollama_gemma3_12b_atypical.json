@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Atypical",
+    "overview": "Sam, an 18-year-old on the autism spectrum, takes a funny, yet painful, journey of self-discovery for love and independence and upends his family.",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "release_year": 2017,
+    "vote_count": 965
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Atypical is a dramedy series that explores the life of Sam Gardner, a young man on the autism spectrum, as he embarks on a quest for independence and love. The show offers a nuanced and often humorous portrayal of family dynamics, personal growth, and the challenges of navigating social norms. Through Sam's journey, the series examines the perspectives and struggles of his parents and sister, highlighting the ripple effects of his choices. The show blends heartfelt moments with comedic situations, creating a relatable and insightful exploration of identity and acceptance.",
+        "spoiler_rich_plot_summary": "The series begins with Sam, a teenager living a carefully structured life with his parents and sister, Julia. He yearns for a romantic relationship and, fueled by a desire for independence, he fabricates a girlfriend to avoid being sent away to a residential program. This lie unravels, prompting Sam to leave home and embark on a journey to California to find himself and a real girlfriend. His parents, Doug and Debbie, are forced to confront their own anxieties and coping mechanisms as they struggle to let go and support Sam's independence. Doug grapples with his own emotional repression, while Debbie becomes overly protective and controlling. Julia, meanwhile, navigates her own challenges, including a complicated relationship with her boyfriend and a desire to find her place in the family. Sam's journey leads him to unexpected encounters and self-discoveries, while his family members confront their own personal growth and change. Over the course of the series, the family dynamic evolves as they learn to adapt to Sam's evolving needs and desires, ultimately finding a new sense of balance and understanding.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "identity-quest",
+            "independence",
+            "acceptance",
+            "neurodiversity",
+            "parental-anxiety"
+          ],
+          "plot_and_concepts": [
+            "coming-of-age",
+            "road-trip",
+            "romantic-relationship",
+            "deception",
+            "self-discovery"
+          ],
+          "mood_and_tone": [
+            "heartwarming",
+            "comedic",
+            "dramatic",
+            "sensitive",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "coming-of-age-story",
+            "family-drama",
+            "slice-of-life",
+            "neurodiversity-representation"
+          ],
+          "setting": [
+            "suburban-america",
+            "california",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "overprotective-parent",
+            "struggling-sibling",
+            "well-meaning-but-flawed-parent"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "college-application",
+            "therapy-session",
+            "family-dinner",
+            "support-group"
+          ],
+          "maturity_and_content": [
+            "emotional-themes"
+          ]
+        },
+        "keyword_sentence": "Atypical is a heartwarming and comedic family drama that follows a young man on the autism spectrum as he embarks on a journey of self-discovery and independence, challenging his family to confront their own anxieties and embrace a new understanding of acceptance."
+      },
+      "duration_seconds": 62.18145990371704
+    }
+  }
+}

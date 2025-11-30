@@ -1,0 +1,70 @@
+{
+  "input_data": {
+    "title": "Elvis Presley: The Searcher",
+    "overview": "The story of Elvis Presley the musical artist, a comprehensive creative journey from his childhood through the final 1976 Jungle Room recording sessions.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2018,
+    "vote_count": 31
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Elvis Presley: The Searcher is a documentary that explores the life and career of Elvis Presley, focusing on his creative journey and the influences that shaped his music. Through archival footage, interviews with family and collaborators, and analysis of his recording sessions, the film delves into Presley's artistic evolution and his ongoing quest for identity and meaning. It portrays a complex portrait of a musical icon, revealing both his immense talent and the personal struggles that accompanied his fame. The documentary aims to provide a deeper understanding of Elvis's artistic process and the forces that drove his relentless pursuit of musical innovation.",
+        "spoiler_rich_plot_summary": "The documentary traces Elvis Presley's life from his humble beginnings in Tupelo, Mississippi, to his rise to international stardom. It examines his early influences, including gospel music and blues, and how these shaped his unique sound. The film follows his career through various eras, highlighting key recording sessions and performances that defined his musical evolution. It explores his relationship with his manager, Colonel Tom Parker, and the impact of fame and commercial pressures on his artistic choices. The documentary culminates in the 1976 Jungle Room sessions, revealing a man grappling with personal demons and a sense of creative exhaustion, offering a poignant glimpse into the final chapter of his extraordinary life.",
+        "categorized_keywords": {
+          "themes": [
+            "identity-quest",
+            "fame-and-fortune",
+            "creative-process",
+            "legacy",
+            "musical-innovation"
+          ],
+          "plot_and_concepts": [
+            "biography",
+            "musical-documentary",
+            "recording-sessions",
+            "rise-to-fame"
+          ],
+          "mood_and_tone": [
+            "reflective",
+            "melancholy",
+            "poignant",
+            "nostalgic"
+          ],
+          "genre_and_tropes": [
+            "music-documentary",
+            "biographical-drama"
+          ],
+          "setting": [
+            "mississippi",
+            "memphis-tennessee",
+            "graceland"
+          ],
+          "character_archetypes": [
+            "musical-genius",
+            "troubled-icon"
+          ],
+          "narrative_style": [
+            "chronological-narrative",
+            "archival-footage"
+          ],
+          "target_audience": [
+            "music-fans",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "graceland-mansion",
+            "jungle-room-studio",
+            "archive-recordings",
+            "1956-chevrolet"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Exploring the creative journey of a musical icon, Elvis Presley: The Searcher is a reflective documentary that delves into the themes of identity, fame, and legacy through archival footage and poignant recollections of a troubled genius."
+      },
+      "duration_seconds": 69.99663519859314
+    }
+  }
+}

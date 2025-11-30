@@ -1,0 +1,86 @@
+{
+  "input_data": {
+    "title": "Star Trek: The Next Generation",
+    "overview": "Follow the intergalactic adventures of Capt. Jean-Luc Picard and his loyal crew aboard the all-new USS Enterprise NCC-1701D, as they explore new worlds.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 1987,
+    "vote_count": 1275
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Star Trek: The Next Generation is a science fiction series that follows the crew of the USS Enterprise as they explore the galaxy, encountering new civilizations and facing complex moral dilemmas. The show blends action-adventure with thoughtful exploration of philosophical and ethical questions, often examining the best of humanity's potential. It emphasizes diplomacy and understanding, while also showcasing thrilling space battles and technological marvels. The series is known for its optimistic vision of the future and its focus on character development within a diverse and cooperative crew.",
+        "spoiler_rich_plot_summary": "The series begins with the launch of the USS Enterprise-D, commanded by Captain Jean-Luc Picard, on a mission of exploration. Early seasons focus on establishing the crew and introducing various alien races and conflicts, such as encounters with the Ferengi and the Borg. As the series progresses, the crew faces increasingly complex challenges, including confrontations with the Romulan Star Empire and the discovery of ancient civilizations. Picard's past as a Maquis officer and his experiences with the Borg, particularly his assimilation and subsequent rescue, become central to his character arc. The crew grapples with issues of artificial intelligence, the nature of consciousness, and the potential dangers of unchecked technological advancement. Throughout the later seasons, the crew confronts existential threats to the Federation and explores the ramifications of time travel and alternate realities, ultimately solidifying their roles as protectors of the galaxy and champions of peaceful coexistence.",
+        "categorized_keywords": {
+          "themes": [
+            "exploration",
+            "diplomacy",
+            "ethics",
+            "humanity",
+            "cooperation",
+            "artificial-intelligence",
+            "moral-responsibility"
+          ],
+          "plot_and_concepts": [
+            "space-exploration",
+            "first-contact",
+            "time-travel",
+            "moral-dilemmas",
+            "political-intrigue",
+            "warp-drive"
+          ],
+          "mood_and_tone": [
+            "optimistic",
+            "thoughtful",
+            "adventurous",
+            "hopeful",
+            "cerebral"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "space-opera",
+            "found-family",
+            "technological-utopia"
+          ],
+          "setting": [
+            "space",
+            "future",
+            "starship-enterprise",
+            "galactic-federation"
+          ],
+          "character_archetypes": [
+            "starship-captain",
+            "wise-mentor",
+            "engineer",
+            "diplomat",
+            "android"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-storytelling",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "warp-core",
+            "tricorder",
+            "phaser",
+            "holodeck",
+            "starfleet-uniform"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Star Trek: The Next Generation is a hopeful science fiction series that explores the vastness of space and the potential for humanity through diplomacy, technological innovation, and a diverse crew aboard the starship Enterprise."
+      },
+      "duration_seconds": 62.5448522567749
+    }
+  }
+}

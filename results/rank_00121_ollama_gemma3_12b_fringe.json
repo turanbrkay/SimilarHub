@@ -1,0 +1,87 @@
+{
+  "input_data": {
+    "title": "Fringe",
+    "overview": "FBI Special Agent Olivia Dunham, brilliant but formerly institutionalized scientist Walter Bishop and his scheming, reluctant son Peter uncover a deadly mystery involving a series of unbelievable events and realize they may be a part of a larger, more disturbing pattern that blurs the line between science fiction and technology.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2008,
+    "vote_count": 2154
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Fringe is a science fiction drama series that blends procedural elements with a serialized overarching narrative. The show follows an FBI agent and a brilliant scientist, along with his son, as they investigate bizarre and unexplained phenomena, often involving alternate universes and advanced technology. It explores themes of family, sacrifice, and the ethical implications of scientific advancement, creating a suspenseful and often unsettling viewing experience. The series balances episodic investigations with a larger mystery, gradually revealing a complex and interconnected story.",
+        "spoiler_rich_plot_summary": "The series begins with FBI agent Olivia Dunham investigating a bizarre incident involving a man claiming to be from an alternate reality, 'Overtime.' She's partnered with the eccentric scientist Walter Bishop, recently released from a mental institution, and his estranged son, Peter. As they investigate a series of increasingly strange occurrences – people exhibiting bizarre abilities, unexplained disappearances, and technological anomalies – they uncover a connection to a parallel universe, 'Overtime,' and a looming threat known as the 'Obersvart.'\n\nOver time, the team discovers that Peter is from Overtime and that Walter's past experiments with interdimensional travel have profound consequences. The series delves into the history of the 'Shipment,' a series of objects sent from Overtime to our universe, and the motivations of the people behind them. The team confronts various antagonists, including the shapeshifting 'Doppelgangers' and the mysterious 'March,' who seek to merge the two universes.  Walter's past actions and Peter's true identity become central to the escalating conflict.  The series culminates in a desperate attempt to prevent the complete merging of the universes, requiring significant sacrifices and confronting the characters with their deepest regrets and unresolved issues. The ultimate resolution involves a complex manipulation of timelines and a bittersweet acceptance of the consequences of their actions, leaving the future of both universes uncertain.",
+        "categorized_keywords": {
+          "themes": [
+            "alternate-realities",
+            "family-dynamics",
+            "scientific-ethics",
+            "sacrifice",
+            "identity-crisis",
+            "redemption",
+            "loss-and-grief"
+          ],
+          "plot_and_concepts": [
+            "parallel-universes",
+            "time-travel",
+            "scientific-experimentation",
+            "conspiracy",
+            "government-cover-up",
+            "doppelganger-phenomenon"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "mysterious",
+            "eerie",
+            "melancholy"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "procedural-drama",
+            "serialized-story",
+            "found-family",
+            "mystery"
+          ],
+          "setting": [
+            "modern-day",
+            "boston-massachusetts",
+            "alternate-timeline"
+          ],
+          "character_archetypes": [
+            "brilliant-scientist",
+            "reluctant-hero",
+            "enigmatic-father",
+            "determined-agent"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "mystery-box",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "laboratory-equipment",
+            "alternate-universe-portal",
+            "government-facility",
+            "laboratory-coat",
+            "alternate-self"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "body-horror",
+            "medical-experimentation"
+          ]
+        },
+        "keyword_sentence": "Fringe is a suspenseful science fiction drama exploring themes of family and sacrifice as a determined FBI agent and a brilliant scientist investigate bizarre phenomena across alternate realities, blurring the lines between science and the unknown."
+      },
+      "duration_seconds": 71.56894159317017
+    }
+  }
+}

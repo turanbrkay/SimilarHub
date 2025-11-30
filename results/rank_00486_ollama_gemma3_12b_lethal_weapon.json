@@ -1,0 +1,85 @@
+{
+  "input_data": {
+    "title": "Lethal Weapon",
+    "overview": "A slightly unhinged former Navy SEAL lands a job as a police officer in Los Angeles where he's partnered with a veteran detective trying to keep maintain a low stress level in his life.",
+    "genres": [
+      "Action & Adventure",
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2016,
+    "vote_count": 638
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Lethal Weapon is a high-octane action-crime drama series that follows the unlikely partnership between a reckless, emotionally damaged former Navy SEAL and a seasoned, rule-abiding police detective. The show blends intense action sequences with comedic elements and explores themes of trauma, redemption, and the complexities of human connection. It offers a thrilling ride with a focus on the evolving dynamic between the two leads as they navigate dangerous cases and confront their personal demons. The series leans heavily into the buddy-cop formula, balancing explosive action with character-driven moments.",
+        "spoiler_rich_plot_summary": "The series begins with Detective Martin Riggs, a troubled ex-Navy SEAL haunted by his past, being assigned to Los Angeles and partnered with the more grounded Detective Dante Diaz. Riggs' unpredictable behavior and disregard for protocol initially clash with Diaz's desire for a stable life, creating friction and comedic tension. As they investigate various crimes, they gradually begin to understand and rely on each other, forming a complex bond. Riggs' past trauma is revealed through flashbacks, showcasing the events that led to his emotional instability. Diaz, meanwhile, grapples with his own personal struggles, including family issues and professional setbacks. Throughout the series, they confront dangerous criminals, uncover conspiracies, and face personal challenges that test their partnership and force them to confront their inner demons. The series explores themes of loss, forgiveness, and the search for meaning in a chaotic world, culminating in a final confrontation that forces both men to make difficult choices and confront their deepest fears, ultimately solidifying their bond and leaving them both changed by their experiences.",
+        "categorized_keywords": {
+          "themes": [
+            "trauma",
+            "redemption",
+            "partnership",
+            "loss",
+            "forgiveness",
+            "coping-mechanisms"
+          ],
+          "plot_and_concepts": [
+            "buddy-cop",
+            "police-investigation",
+            "crime-solving",
+            "action-thriller",
+            "revenge",
+            "undercover-operation"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "action-packed",
+            "tense",
+            "gritty",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "crime-drama",
+            "buddy-cop-formula",
+            "fish-out-of-water",
+            "found-family"
+          ],
+          "setting": [
+            "los-angeles",
+            "modern-day",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "damaged-hero",
+            "seasoned-detective",
+            "rebel",
+            "straight-man"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "case-of-the-week",
+            "character-driven"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "police-car-chase",
+            "firearms",
+            "crime-scene",
+            "police-station",
+            "suspect-interrogation"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "Lethal Weapon is a darkly comic action-crime drama series set in Los Angeles, exploring themes of trauma and redemption through the partnership of a damaged hero and a seasoned detective as they navigate dangerous cases and confront their personal demons."
+      },
+      "duration_seconds": 63.04011654853821
+    }
+  }
+}

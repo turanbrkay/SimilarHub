@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Reboot",
+    "overview": "When Hulu reboots an early 2000s family sitcom, its dysfunctional cast is forced back together and now must deal with their unresolved issues in today’s fast-changing world.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2022,
+    "vote_count": 45
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Reboot is a meta-comedy series that satirizes the television industry and the challenges of reviving old franchises. The show follows the cast and creators of a fictional early 2000s sitcom as they navigate the complexities of a reboot, confronting their past mistakes, personal conflicts, and the pressures of modern entertainment. It blends humor with surprisingly poignant reflections on legacy, creativity, and the ever-changing landscape of television. The series explores themes of nostalgia, artistic compromise, and the difficulty of reconciling past successes with present-day realities, offering a wry and insightful commentary on the entertainment business.",
+        "spoiler_rich_plot_summary": "The series centers around the cast and crew of 'Lemon Sunset,' a sitcom that enjoyed moderate success in the early 2000s before abruptly ending. Years later, Hulu greenlights a reboot, forcing the original cast – including the perpetually optimistic but naive Reed Sterling, the cynical and troubled Cody Hill, and the fame-hungry Bree Larson – to reunite. The reboot process is fraught with conflict, as old resentments resurface and the cast struggles to adapt to a new generation of viewers and a drastically different cultural climate. Reed, the show's creator, attempts to recapture the original magic while grappling with his own past failures and the demands of studio executives. Cody, haunted by personal demons, resists the reboot, fearing it will dredge up painful memories. Bree, desperate for a career resurgence, embraces the opportunity but struggles with her own insecurities and the pressures of social media. As the reboot progresses, the cast confronts their past mistakes, navigates complex relationships, and ultimately questions the true meaning of success and legacy. The series culminates in a final episode where the cast must decide whether to continue the reboot or let 'Lemon Sunset' finally rest.",
+        "categorized_keywords": {
+          "themes": [
+            "nostalgia",
+            "legacy",
+            "creative-compromise",
+            "fame",
+            "redemption",
+            "family-dynamics",
+            "identity-crisis"
+          ],
+          "plot_and_concepts": [
+            "reboot",
+            "meta-comedy",
+            "sitcom-revival",
+            "behind-the-scenes",
+            "satire"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "satirical",
+            "wry",
+            "observational"
+          ],
+          "genre_and_tropes": [
+            "comedy",
+            "sitcom",
+            "meta-narrative",
+            "workplace-comedy"
+          ],
+          "setting": [
+            "hollywood",
+            "modern-day",
+            "television-industry"
+          ],
+          "character_archetypes": [
+            "naive-optimist",
+            "cynical-troubled-artist",
+            "fame-hungry-actress",
+            "eccentric-creator"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "television-industry-insiders"
+          ],
+          "detail_plot": [
+            "studio-executives",
+            "casting-couch",
+            "pilot-episode",
+            "social-media-campaign"
+          ],
+          "maturity_and_content": [
+            "sexual-content",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "Reboot is a darkly comic satire of the television industry, exploring themes of legacy and creative compromise through the lens of a sitcom revival and its dysfunctional cast."
+      },
+      "duration_seconds": 67.11872243881226
+    }
+  }
+}

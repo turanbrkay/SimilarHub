@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Space: 1999",
+    "overview": "The crew of Moonbase Alpha must struggle to survive when a massive explosion throws the Moon from orbit into deep space.",
+    "genres": [
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1975,
+    "vote_count": 109
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Space: 1999 is a British science fiction series set in 1999, depicting the desperate struggle for survival of the crew of Moonbase Alpha after the Moon is catastrophically ejected from Earth's orbit. The series blends hard science fiction elements with philosophical themes of humanity's place in the universe and the psychological toll of isolation. Its episodic nature often features encounters with alien lifeforms and exploration of strange phenomena, creating a sense of constant peril and wonder. The show's visual style and ambitious scope were groundbreaking for its time, though its production challenges contributed to a shifting narrative focus throughout its run.",
+        "spoiler_rich_plot_summary": "The series begins with a catastrophic nuclear explosion on the Moon, sending Moonbase Alpha hurtling into deep space. Commander John Koenig and his crew must navigate the dangers of the unknown, facing dwindling resources, mechanical failures, and the constant threat of hostile alien encounters. Early episodes focus on the immediate aftermath of the disaster, as the crew attempts to establish a sustainable existence while desperately seeking a way back to Earth. As Moonbase Alpha drifts further into the galaxy, they encounter various alien civilizations, some benevolent, others hostile, leading to complex moral dilemmas and conflicts. The narrative shifts significantly in the second season, introducing a more overtly fantastical and supernatural element, with the introduction of the mysterious 'High' and a focus on metaphysical themes. The crew's journey becomes less about returning home and more about understanding their place in a larger, more complex cosmic order, culminating in a series of encounters that challenge their understanding of reality and their own identities.",
+        "categorized_keywords": {
+          "themes": [
+            "survival",
+            "isolation",
+            "exploration",
+            "humanity-vs-nature",
+            "existentialism",
+            "loss-of-home"
+          ],
+          "plot_and_concepts": [
+            "space-exploration",
+            "disaster-scenario",
+            "alien-encounter",
+            "time-dilation",
+            "parallel-universes"
+          ],
+          "mood_and_tone": [
+            "grim",
+            "suspenseful",
+            "melancholy",
+            "philosophical"
+          ],
+          "genre_and_tropes": [
+            "hard-sci-fi",
+            "space-opera",
+            "disaster-movie",
+            "found-family"
+          ],
+          "setting": [
+            "space",
+            "moon",
+            "1999",
+            "alternate-timeline"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "stoic-leader",
+            "scientist",
+            "engineer"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "moonbase-alpha",
+            "nuclear-explosion",
+            "escape-pod",
+            "space-shuttle"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Space: 1999 explores themes of survival and isolation as the crew of Moonbase Alpha, propelled into deep space by a catastrophic nuclear explosion, confronts the dangers of the unknown and questions humanity's place in the vastness of the cosmos."
+      },
+      "duration_seconds": 68.06372332572937
+    }
+  }
+}

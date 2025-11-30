@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Big Hero 6 The Series",
+    "overview": "Picking up immediately following the events in the feature film, these are the continuing adventures and friendship of 14-year-old tech genius Hiro and his compassionate, cutting-edge robot Baymax. As the new prodigy at San Fransokyo Institute of Technology, Hiro now faces daunting academic challenges and the social trials of being the little man on campus. Off campus, the stakes are raised for the high-tech heroes as they must protect their city from an array of scientifically enhanced villains.",
+    "genres": [
+      "Action & Adventure",
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "release_year": 2017,
+    "vote_count": 64
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Big Hero 6: The Series is an animated action-comedy series that continues the story of Hiro Hamada and Baymax following the events of the feature film. The show blends superhero action with coming-of-age themes, exploring Hiro's academic and social challenges while he and Baymax protect San Fransokyo from new threats. It maintains a lighthearted tone, emphasizing friendship, family, and the responsible use of technology, appealing to a family audience with its blend of humor and heroic action.",
+        "spoiler_rich_plot_summary": "Following the events of the film, Hiro enrolls at the San Fransokyo Institute of Technology, attempting to balance his studies with his responsibilities as a superhero. He and Baymax, along with GoGo Tomago, Honey Lemon, Wasabi, and Fred, form the Big Hero 6 team, responding to various threats to their city. These threats often involve technologically advanced villains and conspiracies, forcing Hiro to confront his own limitations and the complexities of heroism. Throughout the series, Hiro grapples with the legacy of his brother Tadashi and the weight of his newfound abilities, while the team faces internal conflicts and external pressures that test their bonds and challenge their commitment to protecting San Fransokyo. New characters are introduced, both allies and adversaries, further complicating the team's mission and pushing Hiro to evolve as a leader and a hero.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "family-loyalty",
+            "coming-of-age",
+            "responsibility",
+            "loss",
+            "technology-ethics"
+          ],
+          "plot_and_concepts": [
+            "superhero-team",
+            "technological-villains",
+            "coming-of-age-story",
+            "mystery",
+            "conspiracy"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "humorous",
+            "optimistic",
+            "action-adventure"
+          ],
+          "genre_and_tropes": [
+            "superhero-action",
+            "found-family",
+            "coming-of-age-story",
+            "technological-advancement"
+          ],
+          "setting": [
+            "san-fransokyo",
+            "modern-day",
+            "futuristic-city"
+          ],
+          "character_archetypes": [
+            "genius-protagonist",
+            "loyal-companion",
+            "reluctant-hero",
+            "supportive-team"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "episodic-adventure"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "baymax-robot",
+            "hero-hamada",
+            "san-fransokyo-institute",
+            "superhero-uniform",
+            "technological-gadgets"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Big Hero 6: The Series is a lighthearted and action-packed animated series that follows a young genius and his robot companion as they navigate the challenges of adolescence and protect their futuristic city through teamwork and technological innovation."
+      },
+      "duration_seconds": 65.42992067337036
+    }
+  }
+}

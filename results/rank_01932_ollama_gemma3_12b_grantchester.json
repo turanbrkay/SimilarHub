@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Grantchester",
+    "overview": "In 1953 at the hamlet of Grantchester, Sidney Chambers—a charismatic, charming clergyman—turns investigative vicar when one of his parishioners dies in suspicious circumstances.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2014,
+    "vote_count": 102
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Grantchester is a British crime drama series set in the 1950s, blending a cozy village setting with intriguing mysteries. The show follows Sidney Chambers, a young vicar grappling with personal demons as he assists the local police in solving crimes. It explores themes of faith, morality, and redemption against the backdrop of post-war England, offering a blend of suspenseful investigations and character-driven narratives. The series balances the charm of a period drama with the darker realities of human nature, creating a compelling and atmospheric viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with the unexpected death of a parishioner, prompting Sidney Chambers to become involved in the investigation alongside Detective Inspector Geordie Keating. As Sidney navigates the complexities of the case, he confronts his own struggles with alcoholism and a troubled past. Subsequent seasons introduce new characters and expand the scope of the mysteries, often delving into the secrets and hidden lives of the Grantchester community. Sidney's involvement in the investigations frequently challenges his faith and forces him to question his role as a clergyman. Later seasons see Sidney's departure and the introduction of a new vicar, Will Davenport, who faces similar challenges while attempting to uphold the values of the church and solve crimes. The series explores the evolving social landscape of the 1950s and 1960s, touching upon issues of class, morality, and changing societal norms, while maintaining a focus on the personal journeys of the main characters.",
+        "categorized_keywords": {
+          "themes": [
+            "faith-and-doubt",
+            "redemption",
+            "morality",
+            "class-conflict",
+            "post-war-society",
+            "guilt-and-atonement"
+          ],
+          "plot_and_concepts": [
+            "crime-investigation",
+            "whodunit",
+            "small-town-mystery",
+            "police-procedural",
+            "moral-dilemma"
+          ],
+          "mood_and_tone": [
+            "atmospheric",
+            "melancholy",
+            "suspenseful",
+            "character-driven",
+            "period-drama"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "mystery",
+            "british-tv",
+            "small-town-setting"
+          ],
+          "setting": [
+            "1950s-england",
+            "grantchester-village",
+            "post-war-era"
+          ],
+          "character_archetypes": [
+            "troubled-clergyman",
+            "gruff-detective",
+            "moral-compass",
+            "enigmatic-villager"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-mysteries",
+            "character-arcs"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "church-interior",
+            "detective-hat",
+            "vintage-car",
+            "village-pub",
+            "parish-records"
+          ],
+          "maturity_and_content": [
+            "alcoholism",
+            "crime-violence"
+          ]
+        },
+        "keyword_sentence": "Set in 1950s England, Grantchester is a suspenseful crime drama exploring themes of faith, morality, and redemption as a troubled clergyman investigates mysteries within a close-knit village community."
+      },
+      "duration_seconds": 69.15094470977783
+    }
+  }
+}

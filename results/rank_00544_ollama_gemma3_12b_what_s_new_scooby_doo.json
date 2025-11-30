@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "What's New, Scooby-Doo?",
+    "overview": "Scooby-Doo and the Mystery, Inc. gang are launched into the 21st century, with new mysteries to solve.",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Mystery"
+    ],
+    "release_year": 2002,
+    "vote_count": 568
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "What's New, Scooby-Doo? is a reboot of the classic animated series, updating the familiar formula for a modern audience. The series follows Scooby-Doo, Shaggy, Fred, Daphne, and Velma as they travel the globe, encountering new mysteries and villains. Maintaining the core comedic elements of the original, the show blends action-adventure with lighthearted mystery-solving, appealing to a family audience with its colorful animation and slapstick humor. The series emphasizes teamwork and friendship as the gang confronts supernatural threats and uncovers the truth behind each case.",
+        "spoiler_rich_plot_summary": "The series begins with the Mystery, Inc. gang transported to the 21st century, equipped with a high-tech vehicle called the Mystery Machine 2000. Each episode typically involves the gang receiving a cryptic message or encountering a strange phenomenon, leading them to a new location and a new mystery. They investigate haunted houses, ancient ruins, and futuristic cities, often facing off against masked villains with elaborate schemes. Throughout the series, the gang encounters recurring antagonists and uncovers deeper connections between seemingly unrelated cases. While the mysteries are usually resolved through clever deduction and comedic chases, the series occasionally hints at a larger, overarching narrative involving a shadowy organization attempting to exploit supernatural forces. The gang's adventures continue as they travel the world, consistently thwarting villains and preserving the balance between the natural and supernatural realms.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "teamwork",
+            "mystery-solving",
+            "good-vs-evil",
+            "adventure"
+          ],
+          "plot_and_concepts": [
+            "mystery",
+            "monster-of-the-week",
+            "chase-sequences",
+            "disguise",
+            "unmasking"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "comedic",
+            "wholesome",
+            "family-friendly"
+          ],
+          "genre_and_tropes": [
+            "animated-comedy",
+            "mystery-comedy",
+            "slapstick-humor",
+            "found-family"
+          ],
+          "setting": [
+            "modern-day",
+            "global-locations",
+            "alternate-timeline"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "comedic-relief"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "mystery-machine",
+            "disguises",
+            "monster-costumes",
+            "unmasking-reveal"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "What's New, Scooby-Doo? is a lighthearted animated comedy series that follows a group of friends as they travel the globe, solving mysteries and confronting comical villains in a family-friendly adventure."
+      },
+      "duration_seconds": 57.38179969787598
+    }
+  }
+}

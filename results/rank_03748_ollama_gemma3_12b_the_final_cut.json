@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "The Final Cut",
+    "overview": "Urquhart aims to secure his legacy on the international stage, but faces threats both from abroad and closer to home.",
+    "genres": [
+      "Drama",
+      "Comedy",
+      "War & Politics"
+    ],
+    "release_year": 1995,
+    "vote_count": 31
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Final Cut is a 1995 drama-comedy series exploring the complexities of international politics and personal ambition. Centered around the character of Urquhart, the series blends satirical humor with serious dramatic elements, examining the challenges of maintaining power and reputation in a volatile global landscape. The narrative delves into themes of legacy, betrayal, and the compromises necessary to achieve one's goals, offering a nuanced portrayal of the individuals behind the headlines. The series maintains a darkly comedic tone, juxtaposing moments of levity with the weight of political responsibility, creating a compelling and thought-provoking viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Urquhart, a seasoned diplomat, determined to solidify his position as a key figure on the world stage. He navigates a web of international negotiations, attempting to broker peace and advance his nation's interests. However, his ambitions are constantly challenged by rival politicians, foreign adversaries, and personal demons. As Urquhart rises in prominence, he uncovers a conspiracy that threatens to expose a dark secret from his past, forcing him to confront uncomfortable truths about himself and those he trusts. Betrayals within his inner circle become increasingly frequent, and he must make difficult choices that blur the lines between morality and political expediency. The series culminates in a high-stakes confrontation where Urquhart must decide whether to protect his legacy at any cost or risk everything to expose the truth, ultimately shaping his place in history.",
+        "categorized_keywords": {
+          "themes": [
+            "political-intrigue",
+            "legacy",
+            "ambition",
+            "betrayal",
+            "international-relations",
+            "moral-compromise"
+          ],
+          "plot_and_concepts": [
+            "diplomacy",
+            "conspiracy",
+            "political-thriller",
+            "international-espionage"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "satirical",
+            "suspenseful",
+            "cynical"
+          ],
+          "genre_and_tropes": [
+            "political-drama",
+            "satire",
+            "courtroom-drama"
+          ],
+          "setting": [
+            "international-stage",
+            "modern-day",
+            "government-building"
+          ],
+          "character_archetypes": [
+            "ambitious-politician",
+            "cunning-diplomat",
+            "corrupt-official"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "diplomatic-briefing",
+            "press-conference",
+            "secret-meeting",
+            "international-summit"
+          ],
+          "maturity_and_content": [
+            "political-corruption",
+            "subtle-violence"
+          ]
+        },
+        "keyword_sentence": "The Final Cut is a darkly comic political drama exploring themes of ambition and betrayal as a seasoned diplomat navigates the complexities of international relations and strives to secure his legacy on the world stage."
+      },
+      "duration_seconds": 78.73254251480103
+    }
+  }
+}

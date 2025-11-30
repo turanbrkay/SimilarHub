@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Soap",
+    "overview": "The antics of a wealthy family, the Tates, and a working-class family, the Campbells, in the fictional town of Dunn's River, Connecticut.",
+    "genres": [
+      "Comedy",
+      "Soap",
+      "Drama"
+    ],
+    "release_year": 1977,
+    "vote_count": 47
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Soap is a satirical American sitcom that parodies daytime soap operas. The series blends comedic and dramatic elements, exploring the intertwined lives of two families – the wealthy Tates and the working-class Campbells – in a small Connecticut town. Known for its outrageous storylines, dark humor, and willingness to tackle taboo subjects, 'Soap' offered a subversive commentary on American society and the conventions of the soap opera genre. The show's fast-paced narrative and ensemble cast create a chaotic and entertaining viewing experience, often punctuated by unexpected twists and absurd situations.",
+        "spoiler_rich_plot_summary": "The series initially focuses on the Tate family, a wealthy and influential clan, and their interactions with the Campbells, a working-class family living nearby. The narrative quickly spirals into a whirlwind of infidelity, murder, and bizarre schemes. Jessica Tate, the matriarch of the Tate family, is embroiled in a complex web of affairs and secrets, while her husband, Chester, struggles to maintain control of his family and business. The Campbells, led by Corinne, face their own challenges, often intertwined with the Tates' scandals. Throughout the series, characters grapple with identity, morality, and the consequences of their actions, often leading to shocking revelations and unexpected alliances. The show frequently introduces outlandish plotlines, including amnesia, mistaken identities, and even supernatural occurrences, pushing the boundaries of what was acceptable on television at the time. While the series attempts to resolve some of the more outrageous storylines, new conflicts and secrets continually emerge, ensuring a constant state of chaos and unpredictability.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "social-satire",
+            "wealth-and-poverty",
+            "morality",
+            "identity",
+            "secrets-and-lies"
+          ],
+          "plot_and_concepts": [
+            "satirical-comedy",
+            "soap-opera-parody",
+            "infidelity",
+            "murder-mystery",
+            " mistaken-identity",
+            "family-secrets"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "absurdist",
+            "campy",
+            "satirical"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "soap-opera",
+            "satire",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "small-town-usa",
+            "connecticut"
+          ],
+          "character_archetypes": [
+            "matriarch",
+            "wealthy-patriarch",
+            "working-class-mother",
+            "scheming-villain"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "fast-paced"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "mansions",
+            "country-club",
+            "family-business",
+            "gossip-magazines"
+          ],
+          "maturity_and_content": [
+            "sexual-content",
+            "adult-humor"
+          ]
+        },
+        "keyword_sentence": "Soap is a darkly comic satire of American society, exploring themes of wealth, infidelity, and family secrets within a fast-paced, ensemble-cast narrative set in a small Connecticut town."
+      },
+      "duration_seconds": 62.7361044883728
+    }
+  }
+}

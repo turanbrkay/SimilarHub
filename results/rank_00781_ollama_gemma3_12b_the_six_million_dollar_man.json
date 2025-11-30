@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "The Six Million Dollar Man",
+    "overview": "Follow the adventures of Steve Austin, cybernetically enhanced astronaut turned secret agent, employed by the OSI, under the command of Oscar Goldman and supervised by the scientist who created his cybernetics, Rudy Wells. Steve uses the superior strength and speed provided by his bionic arm and legs, and the enhanced vision provided by his artificial eye, to fight enemy agents, aliens, mad scientists, and a wide variety of other villains.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Drama"
+    ],
+    "release_year": 1974,
+    "vote_count": 358
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Six Million Dollar Man is a 1970s action-adventure series centered on Steve Austin, an astronaut rebuilt with bionic enhancements after a devastating accident. The show blends science fiction with espionage and action, exploring themes of technological advancement, identity, and the responsibilities that come with extraordinary abilities. Austin's missions for the OSI (Office of Special Investigations) often involve confronting threats both terrestrial and extraterrestrial, showcasing a blend of action sequences and dramatic character development. The series offers a nostalgic look at the anxieties and aspirations surrounding technology in the 1970s, wrapped in a package of thrilling action and suspense.",
+        "spoiler_rich_plot_summary": "The series begins with Steve Austin, a test pilot, surviving a near-fatal crash. Dr. Rudy Wells, a brilliant scientist, utilizes experimental technology to rebuild Austin, replacing damaged limbs with cybernetic prosthetics granting him superhuman strength, speed, and vision. Austin is then recruited by the OSI, a covert government agency, and tasked with undertaking dangerous missions alongside his colleagues, including the resourceful Gail Logan and the gruff Michael Sams. Throughout the series, Austin grapples with the implications of his enhanced abilities, facing moral dilemmas and personal challenges as he confronts a variety of adversaries, ranging from rogue agents to alien invaders. Recurring villains and complex storylines emerge, pushing Austin to his limits and testing the bonds of his team. While the specifics of each mission vary, the overarching narrative explores the potential for both good and harm inherent in advanced technology, and the sacrifices required to protect national security. The series concludes with Austin continuing his work for the OSI, demonstrating the enduring value of his unique skillset and the ongoing need for his services.",
+        "categorized_keywords": {
+          "themes": [
+            "technology-and-ethics",
+            "identity-crisis",
+            "national-security",
+            "responsibility",
+            "human-enhancement"
+          ],
+          "plot_and_concepts": [
+            "cybernetics",
+            "espionage",
+            "secret-agent",
+            "government-agency",
+            "superhuman-abilities"
+          ],
+          "mood_and_tone": [
+            "action-adventure",
+            "suspenseful",
+            "optimistic",
+            "retro"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "action-hero",
+            "spy-thriller",
+            "found-family"
+          ],
+          "setting": [
+            "1970s",
+            "united-states",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "action-hero",
+            "brilliant-scientist",
+            "resourceful-agent"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "bionic-arm",
+            "bionic-leg",
+            "artificial-eye",
+            "osi-headquarters"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Six Million Dollar Man blends science fiction and espionage in a 1970s setting, exploring themes of technology, responsibility, and national security through the adventures of a cybernetically enhanced agent."
+      },
+      "duration_seconds": 61.76038861274719
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Paranoid",
+    "overview": "The murder of a female GP in a rural playground in front of numerous witnesses draws a group of detectives into an ever-darkening mystery that takes them across Europe, aided by mysterious notes sent by the \"Ghost Detective\".",
+    "genres": [
+      "Mystery",
+      "Crime"
+    ],
+    "release_year": 2016,
+    "vote_count": 62
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Paranoid is a British crime mystery series that follows a team of detectives investigating a seemingly straightforward murder that rapidly spirals into a complex, international conspiracy. The series blends elements of police procedural with a suspenseful, paranoia-fueled narrative, exploring themes of trust, deception, and the fragility of truth. The tone is dark and unsettling, punctuated by moments of dark humor, as the detectives navigate a web of lies and hidden agendas. The series offers a gripping and unpredictable viewing experience, challenging the audience to question everything they see.",
+        "spoiler_rich_plot_summary": "The series begins with the apparent murder of a female doctor witnessed by a large group of people at a party in the English countryside. Initially, the investigation focuses on identifying a suspect from the numerous witnesses, but the case quickly becomes more complicated when cryptic notes, seemingly from the killer, begin to be sent to the detectives. These notes, signed by the 'Ghost Detective,' taunt the investigators and provide clues that lead them on a chase across Europe. As the detectives delve deeper, they uncover a vast conspiracy involving powerful individuals and a network of deceit. The investigation reveals that the initial murder was merely the tip of the iceberg, and the true scope of the conspiracy is far more dangerous than they initially imagined. The detectives must confront their own biases and assumptions as they realize that anyone could be involved, and the line between victim and perpetrator becomes increasingly blurred. The series culminates in a confrontation with the mastermind behind the conspiracy, exposing a shocking truth about the events and the motivations of those involved, leaving the detectives to grapple with the consequences of their discoveries.",
+        "categorized_keywords": {
+          "themes": [
+            "deception",
+            "conspiracy",
+            "trust-betrayal",
+            "moral-ambiguity",
+            "justice",
+            "paranoia"
+          ],
+          "plot_and_concepts": [
+            "crime-investigation",
+            "mystery-thriller",
+            "international-crime",
+            "cat-and-mouse",
+            "cryptic-clues"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "unsettling",
+            "tense",
+            "noir"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "mystery",
+            "thriller",
+            "whodunit"
+          ],
+          "setting": [
+            "england",
+            "europe",
+            "rural-setting",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "detective",
+            "enigmatic-villain",
+            "corrupt-official"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "cryptic-notes",
+            "crime-scene",
+            "police-station",
+            "european-cityscape"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "suspense"
+          ]
+        },
+        "keyword_sentence": "Paranoid is a suspenseful British crime thriller that explores themes of deception and conspiracy as detectives unravel a complex mystery across Europe, challenging their trust and revealing a dark web of international crime."
+      },
+      "duration_seconds": 63.28131604194641
+    }
+  }
+}

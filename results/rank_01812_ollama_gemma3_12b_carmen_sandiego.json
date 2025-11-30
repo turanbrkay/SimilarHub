@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Carmen Sandiego",
+    "overview": "A master thief who uses her skills for good, Carmen Sandiego travels the world foiling V.I.L.E.'s evil plans -- with help from her savvy sidekicks.",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Crime",
+      "Kids"
+    ],
+    "release_year": 2019,
+    "vote_count": 111
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Carmen Sandiego is a vibrant animated series that blends action-adventure with a focus on global education and ethical dilemmas. Following the exploits of the titular master thief, the show follows her as she travels the world, outsmarting the villainous V.I.L.E. organization while also imparting knowledge about different cultures and historical events. The series balances thrilling heists with a heartwarming message about using one's skills for good and the importance of understanding diverse perspectives. It's a lighthearted and engaging show suitable for a younger audience, but with enough complexity to entertain older viewers as well.",
+        "spoiler_rich_plot_summary": "The series begins with Carmen Sandiego, a skilled thief, being tracked by a young pair of recruits, Zack and Ivy, who are part of the Foreign Agents Guild (F.A.G.). Initially portrayed as a mysterious and elusive figure, Carmen’s motivations are gradually revealed as she actively works against V.I.L.E., a shadowy organization bent on global domination. Throughout the series, Carmen and her sidekicks travel to various locations around the world, each episode centered around a different heist and a lesson about the local culture and history. As the series progresses, it’s revealed that Carmen has a complex past and a personal connection to V.I.L.E., adding layers of emotional depth to her character. While she consistently thwarts V.I.L.E.'s plans, the organization’s leader, Dr. Krill, remains a persistent threat, constantly evolving his schemes. The series culminates in a confrontation where Carmen must confront her past and make a crucial decision that will determine the fate of the world, ultimately solidifying her role as a global hero.",
+        "categorized_keywords": {
+          "themes": [
+            "global-citizenship",
+            "redemption",
+            "ethical-dilemmas",
+            "found-family",
+            "justice",
+            "cultural-appreciation"
+          ],
+          "plot_and_concepts": [
+            "heist",
+            "spy-thriller",
+            "world-travel",
+            "mystery",
+            "villainous-organization"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "adventurous",
+            "optimistic",
+            "humorous"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "action-adventure",
+            "crime",
+            "spy-genre",
+            "treasure-hunt"
+          ],
+          "setting": [
+            "global-locations",
+            "modern-day",
+            "international-travel"
+          ],
+          "character_archetypes": [
+            "master-thief",
+            "reluctant-hero",
+            "sidekick",
+            "villainous-leader"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "kids",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "heist-gadgets",
+            "world-map",
+            "spy-headquarters",
+            "travel-passport"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Carmen Sandiego is a lighthearted and adventurous animated series that follows a master thief and her sidekicks as they travel the globe, thwarting a villainous organization and celebrating cultural appreciation through exciting heists."
+      },
+      "duration_seconds": 67.7175452709198
+    }
+  }
+}

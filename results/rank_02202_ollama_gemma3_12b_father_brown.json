@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Father Brown",
+    "overview": "Father Brown is based on G. K. Chesterton's detective stories about a Catholic priest who doubles as an amateur detective in order to try and solve mysteries.",
+    "genres": [
+      "Drama",
+      "Crime",
+      "Mystery"
+    ],
+    "release_year": 2013,
+    "vote_count": 83
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Father Brown is a British television series based on the short stories by G.K. Chesterton, following a Roman Catholic priest who uses his understanding of human nature and a keen eye for detail to solve crimes in the Cotswolds during the 1950s. The show blends elements of crime procedural and cozy mystery, offering a gentle and often humorous exploration of morality, faith, and the complexities of human behavior. While investigating seemingly straightforward cases, Father Brown often uncovers deeper motivations and hidden truths, challenging assumptions and offering a nuanced perspective on justice and redemption. The series maintains a lighthearted tone despite dealing with serious themes, creating a comforting and engaging viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Father Brown's introduction to the local constabulary, initially met with skepticism but quickly proving his worth as a detective. Each episode typically presents a new crime, ranging from theft and fraud to more serious offenses, often involving members of the close-knit village community. Father Brown's investigations frequently reveal the perpetrators to be individuals struggling with personal demons or driven by misguided intentions, allowing him to offer forgiveness and understanding alongside justice. Throughout the series, recurring characters such as Inspector Sullivan and Mrs. Hudson provide support and occasional friction. While the overarching narrative remains episodic, subtle character arcs develop, exploring the personal lives and relationships of the core cast. The series explores themes of faith and doubt, with Father Brown often grappling with the moral ambiguities of his role as both a priest and a detective. The series concludes with Father Brown continuing his work, having established himself as a respected and trusted figure in the community, dedicated to upholding justice and offering solace to those in need.",
+        "categorized_keywords": {
+          "themes": [
+            "faith-and-doubt",
+            "morality",
+            "redemption",
+            "forgiveness",
+            "justice",
+            "human-nature",
+            "community"
+          ],
+          "plot_and_concepts": [
+            "crime-procedural",
+            "cozy-mystery",
+            "detective-fiction",
+            "moral-ambiguity",
+            "investigation"
+          ],
+          "mood_and_tone": [
+            "gentle",
+            "humorous",
+            "wholesome",
+            "comforting",
+            "lighthearted"
+          ],
+          "genre_and_tropes": [
+            "british-tv",
+            "period-drama",
+            "small-town-mystery",
+            "detective-series"
+          ],
+          "setting": [
+            "cotswolds",
+            "1950s-england",
+            "rural-england",
+            "village-community"
+          ],
+          "character_archetypes": [
+            "amateur-detective",
+            "wise-priest",
+            "small-town-inhabitants",
+            "police-inspector"
+          ],
+          "narrative_style": [
+            "episodic-format",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "village-church",
+            "countryside-setting",
+            "police-station",
+            "local-pub",
+            "vintage-clothing"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Set in the picturesque English countryside of the 1950s, Father Brown is a gentle and humorous crime series exploring themes of faith, morality, and redemption through the eyes of a wise priest who solves mysteries within a close-knit village community."
+      },
+      "duration_seconds": 68.40762495994568
+    }
+  }
+}

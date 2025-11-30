@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Black Summer",
+    "overview": "In the dark, early days of a zombie apocalypse, complete strangers band together to find the strength they need to survive and get back to loved ones.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Action & Adventure"
+    ],
+    "release_year": 2019,
+    "vote_count": 459
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Black Summer is a gritty and visceral zombie apocalypse drama that distinguishes itself through its focus on the immediate, chaotic aftermath of societal collapse. The series emphasizes the psychological toll of survival, portraying a group of strangers forced to cooperate amidst relentless danger and dwindling resources. It blends elements of horror, action, and character-driven drama, offering a bleak and suspenseful exploration of human resilience and the breakdown of order. The show's realistic portrayal of violence and its focus on the mundane struggles of survival create a uniquely unsettling and immersive experience.",
+        "spoiler_rich_plot_summary": "The series begins with a sudden and unexplained zombie outbreak, throwing the world into immediate chaos. A woman named Sarah, desperately searching for her daughter, finds herself thrust into a desperate fight for survival alongside a diverse group of strangers. Initially, the focus is on their immediate struggle to escape the initial wave of infected and find a safe haven. As they journey, the group faces constant threats – not only from the relentless zombie horde but also from other desperate survivors willing to do anything to stay alive. Internal conflicts and shifting alliances become commonplace as the group’s resources dwindle and the psychological strain of their situation intensifies. The search for Sarah’s daughter becomes a driving force, intertwining with the larger quest for safety and a semblance of community. Over time, the group encounters various settlements and factions, each with its own agenda and moral compromises, forcing them to confront difficult choices and question their own humanity. While the overarching goal remains finding safety and reconnecting with loved ones, the characters are irrevocably changed by the horrors they witness and the sacrifices they must make, leaving the future uncertain and the possibility of true resolution elusive.",
+        "categorized_keywords": {
+          "themes": [
+            "survival",
+            "loss",
+            "family-separation",
+            "human-nature",
+            "desperation",
+            "moral-compromise"
+          ],
+          "plot_and_concepts": [
+            "zombie-apocalypse",
+            "found-family",
+            "post-collapse",
+            "resource-scarcity",
+            "survival-horror"
+          ],
+          "mood_and_tone": [
+            "grim",
+            "tense",
+            "bleak",
+            "visceral",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "horror",
+            "action-thriller",
+            "post-apocalyptic",
+            "survival-drama"
+          ],
+          "setting": [
+            "north-america",
+            "modern-day",
+            "urban-decay"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "grieving-mother",
+            "survivalist",
+            "moral-grey-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "zombie-horde",
+            "abandoned-vehicles",
+            "makeshift-barricades",
+            "emergency-rations",
+            "makeshift-weapons"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "gore",
+            "distressing-scenes"
+          ]
+        },
+        "keyword_sentence": "Black Summer is a grim and suspenseful post-apocalyptic drama that explores the visceral realities of survival and the breakdown of humanity amidst a relentless zombie horde."
+      },
+      "duration_seconds": 87.82115030288696
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Little Britain",
+    "overview": "A zany comedy show with Matt Lucas and David Walliams, featuring characters from all over Little Britain.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2003,
+    "vote_count": 182
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Little Britain is a British sketch comedy show known for its satirical portrayal of British culture and society through a series of eccentric and often grotesque characters. The show utilizes exaggerated stereotypes and dark humor to explore themes of class, identity, and social awkwardness. Its fast-paced, absurdist style and reliance on catchphrases contributed to its widespread popularity, though its use of caricature has also drawn criticism. The show's comedic effect stems from the contrast between the characters' outlandish behavior and the mundane settings they inhabit, creating a uniquely uncomfortable and hilarious viewing experience.",
+        "spoiler_rich_plot_summary": "Little Britain doesn't follow a traditional narrative arc but rather presents a series of interconnected vignettes featuring a diverse cast of characters. The show introduces a multitude of personalities, each embodying a specific stereotype or social quirk, such as Andy and Lou, a pair of weight-loss club members, and Mr. O’Malley, a petty criminal. Throughout the series, these characters interact in absurd and often chaotic situations, highlighting the ridiculousness of everyday life and social conventions. While there isn't a central plot, recurring themes of aspiration, disappointment, and the pursuit of happiness are explored through the characters' struggles and interactions. The show's format allows for a constant stream of new characters and scenarios, maintaining a sense of unpredictability and comedic freshness. The show concludes with a final series, revisiting many of the original characters and introducing new ones, solidifying the show's legacy as a satirical commentary on British society.",
+        "categorized_keywords": {
+          "themes": [
+            "satire",
+            "social-commentary",
+            "stereotypes",
+            "identity",
+            "class",
+            "aspirations"
+          ],
+          "plot_and_concepts": [
+            "sketch-comedy",
+            "character-driven",
+            "ensemble-cast",
+            "recurring-characters"
+          ],
+          "mood_and_tone": [
+            "absurdist",
+            "darkly-comic",
+            "grotesque",
+            "uncomfortable"
+          ],
+          "genre_and_tropes": [
+            "british-humor",
+            "sitcom",
+            "caricature"
+          ],
+          "setting": [
+            "modern-britain",
+            "small-town-britain"
+          ],
+          "character_archetypes": [
+            "eccentric",
+            "social-outcast",
+            "stereotypical-characters"
+          ],
+          "narrative_style": [
+            "episodic",
+            "vignette-based"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "weight-loss-club",
+            "petty-crime",
+            "loud-clothing",
+            "catchphrases"
+          ],
+          "maturity_and_content": [
+            "offensive-humor",
+            "stereotypical-representations"
+          ]
+        },
+        "keyword_sentence": "Little Britain is a darkly comic British sketch comedy series that satirizes modern society through a cast of eccentric and stereotypical characters, using absurd situations and catchphrases to explore themes of identity and aspiration."
+      },
+      "duration_seconds": 61.07301592826843
+    }
+  }
+}

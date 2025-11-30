@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "grown-ish",
+    "overview": "Zoey Johnson heads to college and begins her hilarious journey to adulthood but quickly discovers that not everything goes her way once she leaves the nest.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2018,
+    "vote_count": 136
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Grown-ish is a comedic series that follows Zoey Johnson as she navigates the challenges of college life and early adulthood. The show explores themes of identity, relationships, and personal growth, often with a focus on the complexities of navigating social pressures and academic responsibilities. It blends humor with relatable struggles, offering a lighthearted yet insightful look at the transition from adolescence to independence. The series aims to resonate with young adult audiences through its portrayal of relatable experiences and evolving perspectives.",
+        "spoiler_rich_plot_summary": "The series begins with Zoey Johnson, fresh from high school, embarking on her college journey at California University. Initially, she and her friends, Jaden, Aaron, and Nomi, struggle to adapt to the independence and responsibilities of college life, facing issues like financial difficulties, academic pressures, and romantic entanglements. Throughout the seasons, the group experiences various challenges, including navigating relationships, dealing with career aspirations, and confronting personal insecurities. They encounter new friends and face difficult choices that shape their individual paths and test the strength of their friendships. As the series progresses, the characters evolve, confronting mature themes and making decisions that impact their futures, ultimately leading them to a greater understanding of themselves and the world around them. The show follows their individual journeys as they grapple with the realities of adulthood and strive to find their place in society.",
+        "categorized_keywords": {
+          "themes": [
+            "coming-of-age",
+            "identity-discovery",
+            "friendship",
+            "family-dynamics",
+            "relationships",
+            "personal-growth",
+            "social-pressure"
+          ],
+          "plot_and_concepts": [
+            "college-life",
+            "romantic-comedy",
+            "ensemble-cast",
+            "slice-of-life"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "humorous",
+            "optimistic",
+            "relatable"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "teen-comedy",
+            "found-family"
+          ],
+          "setting": [
+            "university-campus",
+            "modern-day",
+            "california"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "best-friend",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "young-adult"
+          ],
+          "detail_plot": [
+            "dorm-room",
+            "university-lecture",
+            "student-union",
+            "party-scene"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Grown-ish is a lighthearted and relatable sitcom that follows a group of young adults as they navigate the challenges and triumphs of college life, exploring themes of friendship, identity, and personal growth within a modern-day university setting."
+      },
+      "duration_seconds": 60.86441683769226
+    }
+  }
+}

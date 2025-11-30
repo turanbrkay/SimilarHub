@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Jesus of Nazareth",
+    "overview": "Dramatizes the Birth, Life, Ministry, Crucifixion, and Resurrection of Jesus Christ, largely according to the Holy Bible's New Testament Gospels.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 1977,
+    "vote_count": 429
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Jesus of Nazareth is a sweeping historical drama that chronicles the life of Jesus Christ, drawing heavily from the New Testament Gospels. The series aims for a reverent and faithful portrayal, emphasizing the historical context and human relationships surrounding Jesus's ministry. It explores themes of faith, sacrifice, and the conflict between religious authority and individual conviction, offering a visually rich and emotionally resonant depiction of a pivotal moment in religious history. The series is characterized by its epic scope, meticulous attention to detail, and a focus on the profound impact of Jesus's teachings on those around him.",
+        "spoiler_rich_plot_summary": "The series begins with the Annunciation to Mary and follows her journey to Bethlehem for the birth of Jesus. The narrative then traces Jesus's childhood, highlighting his growing awareness of his divine purpose. As he enters adulthood, Jesus begins his public ministry, gathering disciples and performing miracles that draw both followers and opposition. The series depicts the escalating tensions between Jesus and the Jewish authorities, culminating in his triumphal entry into Jerusalem and subsequent arrest. Following a mock trial orchestrated by Pontius Pilate, Jesus is condemned to crucifixion. The narrative concludes with the resurrection of Jesus and his ascension into heaven, signifying the triumph of faith and the promise of eternal life.",
+        "categorized_keywords": {
+          "themes": [
+            "faith",
+            "sacrifice",
+            "redemption",
+            "divine-purpose",
+            "religious-authority",
+            "compassion",
+            "forgiveness"
+          ],
+          "plot_and_concepts": [
+            "biblical-narrative",
+            "historical-drama",
+            "miracles",
+            "crucifixion",
+            "resurrection"
+          ],
+          "mood_and_tone": [
+            "reverent",
+            "solemn",
+            "epic",
+            "emotional",
+            "spiritual"
+          ],
+          "genre_and_tropes": [
+            "historical-epic",
+            "biblical-drama",
+            "religious-storytelling"
+          ],
+          "setting": [
+            "ancient-palestine",
+            "jerusalem",
+            "first-century"
+          ],
+          "character_archetypes": [
+            "prophet",
+            "disciple",
+            "pontius-pilate",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "chronological-narrative"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "nativity",
+            "crucifixion-scene",
+            "empty-tomb",
+            "ascension"
+          ],
+          "maturity_and_content": [
+            "religious-themes",
+            "violence"
+          ]
+        },
+        "keyword_sentence": "Jesus of Nazareth is a reverent and epic historical drama that explores themes of faith, sacrifice, and redemption within the setting of ancient Palestine, depicting the life and ministry of Jesus Christ from his birth to his resurrection."
+      },
+      "duration_seconds": 61.538211822509766
+    }
+  }
+}

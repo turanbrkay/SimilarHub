@@ -1,0 +1,85 @@
+{
+  "input_data": {
+    "title": "The Sinner",
+    "overview": "In a small New York town, a haunted detective hunts for answers about perplexing crimes while wrestling with his own demons.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2017,
+    "vote_count": 914
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Sinner is a psychological crime drama that distinguishes itself through its episodic structure and focus on the unraveling of deeply buried trauma. Each season centers on a new crime and a detective, Elliott Sawyer, who investigates the event while simultaneously delving into the psychological roots of the perpetrator. The series explores themes of memory, guilt, and the cyclical nature of violence, often blurring the lines between victim and perpetrator. Its tone is consistently somber and unsettling, relying on atmosphere and character study rather than action-driven suspense. The show offers a complex and often disturbing examination of the human psyche and the forces that shape our actions.",
+        "spoiler_rich_plot_summary": "The first season introduces Detective Elliott Sawyer as he investigates a seemingly random act of violence – a man brutally murders a swimmer with no apparent motive. As Sawyer digs deeper, he uncovers a series of repressed memories in the victim, revealing a childhood trauma that triggered the violent outburst. Subsequent seasons follow a similar pattern, with each case presenting a new crime and a new victim with a hidden past. Sawyer, often haunted by the darkness he encounters, must piece together fragmented memories and confront the underlying causes of the violence. The series explores the long-term effects of childhood abuse and neglect, demonstrating how past trauma can manifest in unexpected and devastating ways. While Sawyer consistently solves the immediate crimes, he is left grappling with the profound psychological impact of his work, questioning the nature of justice and the possibility of true redemption. The series concludes with Sawyer continuing his work, forever marked by the darkness he has witnessed, but also driven by a desire to understand and alleviate human suffering.",
+        "categorized_keywords": {
+          "themes": [
+            "trauma",
+            "memory-loss",
+            "guilt",
+            "redemption",
+            "childhood-abuse",
+            "justice",
+            "identity",
+            "violence"
+          ],
+          "plot_and_concepts": [
+            "crime-investigation",
+            "psychological-thriller",
+            "episodic-format",
+            "flashbacks",
+            "repressed-memories",
+            "serial-crime"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "unsettling",
+            "dark",
+            "atmospheric",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "psychological-thriller",
+            "noir",
+            "slow-burn"
+          ],
+          "setting": [
+            "small-town-usa",
+            "new-york",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "haunted-detective",
+            "morally-gray-protagonist",
+            "victim",
+            "perpetrator"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "crime-scene",
+            "interrogation-room",
+            "flashback-sequence",
+            "small-town-setting"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "sexual-content",
+            "abuse-themes"
+          ]
+        },
+        "keyword_sentence": "The Sinner is a somber crime drama that explores the psychological roots of violence through a series of unsettling investigations in small-town America, revealing the long-term effects of trauma and abuse."
+      },
+      "duration_seconds": 69.89049243927002
+    }
+  }
+}

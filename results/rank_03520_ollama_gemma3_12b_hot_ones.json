@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "Hot Ones",
+    "overview": "The show with hot questions and even hotter wings invites a famous guest over to eat and then interviews them while they're struggling through the heat.",
+    "genres": [
+      "Talk"
+    ],
+    "release_year": 2015,
+    "vote_count": 35
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Hot Ones is a unique talk show format that blends celebrity interviews with a progressively spicy wing challenge. The show's premise revolves around guests attempting to answer questions while consuming increasingly hot chicken wings, creating a blend of humor, discomfort, and surprisingly candid conversation. The escalating heat serves as a catalyst for vulnerability and unexpected insights from the guests, offering a refreshing and often hilarious alternative to traditional interview shows. The show's success lies in its ability to create a relaxed yet tense atmosphere, revealing a different side of well-known personalities.",
+        "spoiler_rich_plot_summary": "Each episode of Hot Ones follows a consistent structure. The guest arrives and is introduced to the first wing, which is relatively mild. As the interview progresses, the heat level of the wings increases dramatically with each subsequent course. The guest's reactions to the escalating spice are a core element of the show's entertainment value, often leading to humorous and relatable moments. The interview itself covers a wide range of topics, tailored to the guest's background and career. The final wing, often reaching extreme levels of heat, frequently results in a memorable and often chaotic conclusion to the interview, leaving a lasting impression on both the guest and the audience. The show consistently builds tension and comedic payoff through this escalating challenge.",
+        "categorized_keywords": {
+          "themes": [
+            "celebrity-culture",
+            "vulnerability",
+            "humor",
+            "challenge",
+            "food-culture"
+          ],
+          "plot_and_concepts": [
+            "escalating-challenge",
+            "interview-format",
+            "food-based-entertainment"
+          ],
+          "mood_and_tone": [
+            "comedic",
+            "lighthearted",
+            "uncomfortable-humor",
+            "playful"
+          ],
+          "genre_and_tropes": [
+            "talk-show",
+            "challenge-show",
+            "celebrity-interview"
+          ],
+          "setting": [
+            "studio-setting",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "celebrity-guest",
+            "host"
+          ],
+          "narrative_style": [
+            "episodic",
+            "structured-format"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "foodies",
+            "pop-culture-fans"
+          ],
+          "detail_plot": [
+            "chicken-wings",
+            "hot-sauce",
+            "interview-table",
+            "water-glass"
+          ],
+          "maturity_and_content": [
+            "mild-profanity"
+          ]
+        },
+        "keyword_sentence": "Hot Ones is a lighthearted talk show that blends celebrity interviews with an escalating challenge of increasingly spicy chicken wings, creating a uniquely comedic and vulnerable viewing experience."
+      },
+      "duration_seconds": 50.72913956642151
+    }
+  }
+}

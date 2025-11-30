@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Pure Genius",
+    "overview": "A young Silicon Valley tech-titan enlists a veteran surgeon with a controversial past in starting a hospital with a cutting-edge, new school approach to medicine.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2016,
+    "vote_count": 67
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Pure Genius is a medical drama that explores the intersection of technology and healthcare. The series follows a brilliant but unconventional tech mogul who partners with a renowned surgeon to create a state-of-the-art hospital focused on innovative medical solutions. The show balances the excitement of technological advancement with the ethical dilemmas and personal struggles that arise in the pursuit of groundbreaking treatments. It examines themes of redemption, collaboration, and the potential for both progress and peril in the field of medicine, offering a blend of procedural medical cases and character-driven narratives.",
+        "spoiler_rich_plot_summary": "The series begins with Tucker Kaufman, a young tech billionaire, seeking to revolutionize healthcare by establishing a new hospital, Pure Genius. He recruits Dr. Walter Bell, a brilliant but disgraced surgeon with a history of controversial practices, to lead the medical team. The hospital's approach involves utilizing cutting-edge technology and experimental procedures to tackle complex and often seemingly impossible medical cases. Early seasons focus on establishing the hospital's unique model and introducing the core medical staff, each with their own personal baggage and motivations. As the hospital gains recognition, it faces challenges from established medical institutions and regulatory bodies skeptical of its unconventional methods. Dr. Bell grapples with his past mistakes and seeks redemption through his work, while Tucker navigates the complexities of philanthropy and the responsibility that comes with immense wealth. Throughout the series, the team confronts ethical dilemmas surrounding experimental treatments and the potential for unintended consequences, ultimately striving to balance innovation with patient safety and well-being. The narrative explores the evolving relationship between Tucker and Dr. Bell, showcasing their mutual respect and the ways in which they challenge each other to grow both professionally and personally.",
+        "categorized_keywords": {
+          "themes": [
+            "innovation",
+            "redemption",
+            "ethics",
+            "collaboration",
+            "medical-ethics",
+            "trust"
+          ],
+          "plot_and_concepts": [
+            "medical-procedural",
+            "experimental-medicine",
+            "cutting-edge-technology",
+            "philanthropy"
+          ],
+          "mood_and_tone": [
+            "hopeful",
+            "optimistic",
+            "suspenseful",
+            "medical-drama"
+          ],
+          "genre_and_tropes": [
+            "medical-drama",
+            "found-family",
+            "mentor-protégé"
+          ],
+          "setting": [
+            "modern-day",
+            "hospital-setting",
+            "silicon-valley"
+          ],
+          "character_archetypes": [
+            "brilliant-surgeon",
+            "eccentric-billionaire",
+            "reluctant-hero",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "operating-room",
+            "medical-scanner",
+            "hospital-lobby",
+            "research-lab"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Pure Genius is a hopeful medical drama set in Silicon Valley, exploring themes of innovation and redemption as a brilliant surgeon and eccentric billionaire collaborate to revolutionize healthcare with cutting-edge technology."
+      },
+      "duration_seconds": 64.0362503528595
+    }
+  }
+}

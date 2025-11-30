@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Felix the Cat",
+    "overview": "Felix the Cat follows the offbeat adventures of that curious feline, Felix. Although he was quickly overshadowed by Walt Disney's Mickey Mouse, America's favorite cat still remains a classic.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Kids",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1958,
+    "vote_count": 253
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Felix the Cat is a classic animated series known for its surreal humor, improvisational style, and experimental animation techniques. The show follows the mischievous Felix as he navigates a whimsical world filled with bizarre characters and unpredictable situations. Its episodic nature and focus on visual gags and absurdist storytelling make it a unique and enduring piece of animation history, appealing to audiences of all ages with its playful and imaginative spirit. While initially popular, it has maintained a cult following due to its innovative approach to storytelling and its timeless appeal.",
+        "spoiler_rich_plot_summary": "The series largely eschews a traditional narrative arc, instead opting for a collection of self-contained episodes. Each episode typically begins with Felix encountering a problem or a strange situation, often triggered by his own curiosity or a chance encounter. He then embarks on a series of increasingly bizarre and unpredictable adventures, utilizing his ability to magically transform objects and his knack for getting into and out of trouble. While there are recurring characters and visual motifs, the show avoids a long-term plot, focusing instead on the immediate comedic possibilities of each scenario. The series concludes without a definitive ending, leaving the door open for endless possibilities and maintaining its playful, open-ended nature.",
+        "categorized_keywords": {
+          "themes": [
+            "mischief",
+            "curiosity",
+            "absurdity",
+            "imagination",
+            "transformation"
+          ],
+          "plot_and_concepts": [
+            "episodic-storytelling",
+            "slapstick-comedy",
+            "surrealism",
+            "transformation-magic"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "lighthearted",
+            "playful",
+            "whimsical"
+          ],
+          "genre_and_tropes": [
+            "animation-comedy",
+            "family-entertainment",
+            "silent-era-influence"
+          ],
+          "setting": [
+            "fantastical-world",
+            "timeless-setting"
+          ],
+          "character_archetypes": [
+            "trickster",
+            "mischievous-protagonist"
+          ],
+          "narrative_style": [
+            "episodic-format",
+            "non-linear-story"
+          ],
+          "target_audience": [
+            "family-audience",
+            "kids"
+          ],
+          "detail_plot": [
+            "magic-bag",
+            "animated-backgrounds",
+            "silent-film-title-cards"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Felix the Cat is a lighthearted and whimsical animated series that embraces absurdity and episodic storytelling, appealing to family audiences with its playful characters and timeless setting."
+      },
+      "duration_seconds": 48.44749736785889
+    }
+  }
+}

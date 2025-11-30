@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Murder in the First",
+    "overview": "Murder in the First follows homicide detectives Terry English and Hildy Mulligan as they investigate a multitude of tragedies in San Francisco.",
+    "genres": [
+      "Mystery",
+      "Drama",
+      "Crime"
+    ],
+    "release_year": 2014,
+    "vote_count": 85
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Murder in the First is a crime drama series that delves into the complexities of homicide investigations and the psychological toll on detectives. The show distinguishes itself by focusing on a single case across an extended timeframe, allowing for a deep exploration of the investigation's nuances and the personal lives of the detectives involved. It blends procedural elements with character-driven narratives, examining themes of justice, morality, and the impact of violence on individuals and communities. The series offers a somber and introspective viewing experience, characterized by its deliberate pacing and focus on psychological realism.",
+        "spoiler_rich_plot_summary": "The series initially centers on the investigation of a brutal murder committed by a young man named Liam McAvoy. Detectives Terry English and Hildy Mulligan are tasked with unraveling the circumstances surrounding the crime and bringing Liam to justice. As the investigation progresses, the detectives uncover a history of abuse and trauma that shaped Liam's life, prompting them to question the nature of responsibility and the possibility of redemption. The narrative unfolds across multiple timelines, revealing the events leading up to the murder and the subsequent legal proceedings. The series explores the challenges of prosecuting a young offender with a troubled past, and the ethical dilemmas faced by the detectives as they grapple with the complexities of the case. While Liam is eventually brought to trial, the series doesn't offer a simple resolution, instead focusing on the lingering questions and the emotional scars left by the tragedy. Subsequent seasons shift focus to new cases and detectives, maintaining the show's core themes and investigative style.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "redemption",
+            "trauma",
+            "abuse",
+            "moral-ambiguity",
+            "loss",
+            "guilt"
+          ],
+          "plot_and_concepts": [
+            "police-investigation",
+            "courtroom-drama",
+            "multiple-timelines",
+            "serial-crime",
+            "juvenile-justice"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "dark",
+            "introspective",
+            "gritty",
+            "realistic"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "police-drama",
+            "legal-thriller"
+          ],
+          "setting": [
+            "san-francisco",
+            "modern-day",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "hardboiled-detective",
+            "troubled-protagonist",
+            "moral-grey-character"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "character-driven",
+            "slow-burn"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "crime-scene",
+            "interrogation-room",
+            "courtroom",
+            "police-station",
+            "evidence-locker"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "abuse-themes",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "Murder in the First is a somber and gritty crime drama set in San Francisco, exploring themes of justice, trauma, and moral ambiguity through the eyes of detectives investigating complex cases and confronting the lasting impact of violence."
+      },
+      "duration_seconds": 67.42343950271606
+    }
+  }
+}

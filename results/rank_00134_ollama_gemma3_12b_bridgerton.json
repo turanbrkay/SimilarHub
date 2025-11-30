@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Bridgerton",
+    "overview": "Wealth, lust, and betrayal set in the backdrop of Regency era England, seen through the eyes of the powerful Bridgerton family.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2020,
+    "vote_count": 2045
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Bridgerton is a Regency-era romance drama that blends historical setting with contemporary sensibilities. The series follows the lives and romantic pursuits of the Bridgerton siblings within London's high society, exploring themes of family, duty, and desire. It offers a visually opulent and emotionally engaging experience, characterized by its witty dialogue, vibrant costumes, and a focus on interpersonal relationships. The show's popularity stems from its accessible storytelling and its reimagining of historical romance tropes for a modern audience.",
+        "spoiler_rich_plot_summary": "The first season introduces the eight Bridgerton children and centers on Daphne Bridgerton's debut into society and her pursuit of a suitable match. She enters a fake courtship with the charming Simon Basset, the Duke of Hastings, to deflect unwanted attention and secure a beneficial alliance. As their pretense deepens, genuine feelings develop, complicated by Simon's past trauma and reluctance to embrace marriage and fatherhood. The season culminates in their eventual union, though not without significant emotional turmoil and revelations about their respective vulnerabilities. Subsequent seasons shift focus to other Bridgerton siblings, each navigating their own romantic challenges and societal pressures. Lady Whistledown's identity remains a central mystery, her anonymous gossip sheets influencing the lives of everyone in the ton and creating constant intrigue. The series explores themes of social mobility, familial obligation, and the complexities of love and reputation within a rigid social hierarchy, with each sibling's story revealing new layers of the Bridgerton family's history and secrets.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "social-status",
+            "courtship",
+            "reputation",
+            "duty",
+            "love-and-relationships",
+            "female-agency"
+          ],
+          "plot_and_concepts": [
+            "gossip-sheets",
+            "secret-identity",
+            "arranged-marriage",
+            "fake-courtship",
+            "ton-society"
+          ],
+          "mood_and_tone": [
+            "romantic",
+            "witty",
+            "opulent",
+            "dramatic",
+            "lighthearted"
+          ],
+          "genre_and_tropes": [
+            "historical-romance",
+            "regency-era",
+            "ensemble-cast",
+            "found-family",
+            "slow-burn-romance"
+          ],
+          "setting": [
+            "regency-era-england",
+            "london-society",
+            "manor-house"
+          ],
+          "character_archetypes": [
+            "dutiful-daughter",
+            "charismatic-duke",
+            "gossip-monger",
+            "protective-sibling"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "romance-lovers"
+          ],
+          "detail_plot": [
+            "carriage-rides",
+            "ballgowns",
+            "gossip-column",
+            "society-balls",
+            "ducal-estate"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Bridgerton offers a romantic and witty glimpse into Regency-era England, exploring themes of family, duty, and love within a vibrant society obsessed with reputation and gossip."
+      },
+      "duration_seconds": 71.81184029579163
+    }
+  }
+}

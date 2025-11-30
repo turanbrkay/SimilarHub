@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "The Great British Bake Off",
+    "overview": "Britain's best amateur bakers compete in the iconic white tent - all united in their aim to prove their baking skills and impress judges Paul Hollywood and Prue Leith",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2017,
+    "vote_count": 29
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Great British Bake Off is a feel-good reality competition series showcasing amateur bakers vying for the title of Britain's best. The show's gentle pace, supportive atmosphere, and focus on traditional baking techniques create a warm and comforting viewing experience. It emphasizes creativity, skill, and the joy of baking, fostering a sense of community among the contestants and viewers alike. The series is known for its wholesome nature and lack of overt drama, offering a respite from more intense reality television.",
+        "spoiler_rich_plot_summary": "Each season of The Great British Bake Off follows a group of amateur bakers as they face a series of baking challenges across three categories: Signature Bakes, Technical Challenges, and Showstoppers. The Signature Bake tests the bakers' ability to execute a familiar recipe with personal flair. The Technical Challenge, often presented with minimal instructions, assesses their precision and understanding of baking fundamentals. The Showstopper Challenge demands creativity and technical mastery, pushing bakers to create elaborate and visually stunning desserts. Throughout the competition, bakers are judged by renowned pastry chef Paul Hollywood and culinary expert Prue Leith, who provide constructive criticism and evaluate the bakers' skills. Each week, one baker is eliminated, culminating in a final where the remaining bakers compete for the coveted title of Britain's Best Baker. The series consistently highlights the bakers' personal stories and struggles, creating an emotional connection with the audience and celebrating the art of baking.",
+        "categorized_keywords": {
+          "themes": [
+            "baking-competition",
+            "skill-development",
+            "creativity",
+            "community",
+            "perseverance",
+            "friendship"
+          ],
+          "plot_and_concepts": [
+            "signature-bake",
+            "technical-challenge",
+            "showstopper-challenge",
+            "elimination-format"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "lighthearted",
+            "supportive",
+            "comforting",
+            "gentle"
+          ],
+          "genre_and_tropes": [
+            "reality-competition",
+            "cooking-show",
+            "found-family"
+          ],
+          "setting": [
+            "british-culture",
+            "white-tent",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "amateur-baker",
+            "expert-judge",
+            "supportive-contestant"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "elimination-based"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "baking-equipment",
+            "signature-bakes",
+            "technical-challenges",
+            "showstoppers",
+            "judges-table"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Great British Bake Off is a lighthearted and comforting reality competition series showcasing amateur bakers in a supportive environment, celebrating creativity and skill within a distinctly British setting."
+      },
+      "duration_seconds": 75.75742888450623
+    }
+  }
+}

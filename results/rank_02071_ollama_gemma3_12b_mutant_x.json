@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Mutant X",
+    "overview": "Mutant X is a science fiction television series that debuted on October 6, 2001. The show was created by Avi Arad, and it centers around Mutant X, a team of \"New Mutants\" who possess extraordinary powers as a result of genetic engineering. The members of Mutant X were used as test subjects in a series of covert government experiments. The mission of Mutant X is to seek out and protect their fellow New Mutants. The series was filmed in Toronto, Ontario, Canada.\n\nEven though the series had high ratings and was meant to be renewed for a fourth season, it was abruptly canceled in 2004 after the dismantling of Fireworks Entertainment, one of the show's production companies, ending the show on a cliffhanger.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Mystery"
+    ],
+    "release_year": 2001,
+    "vote_count": 91
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Mutant X is a science fiction action series centered on a team of genetically engineered individuals with extraordinary abilities. The show explores themes of identity, prejudice, and the ethics of scientific experimentation as the team seeks out and protects other 'New Mutants' while evading those who seek to exploit them. Combining elements of superhero action with a mystery-driven narrative, Mutant X offers a blend of thrilling action sequences and complex character dynamics, ultimately examining the challenges of belonging and the responsibility that comes with extraordinary power.",
+        "spoiler_rich_plot_summary": "The series begins with Adam Kane, a brilliant geneticist, discovering a group of individuals, the 'New Mutants,' who have developed powers as a result of his earlier, ethically questionable genetic experiments. These New Mutants are hunted by various organizations seeking to control or eliminate them. Adam, along with his brother Sam, forms Mutant X, a team dedicated to finding and protecting these individuals. The team faces constant threats from the government, rival genetic research facilities, and other New Mutants who have succumbed to darker impulses. Throughout the series, the team members grapple with their own identities and the origins of their powers, uncovering a larger conspiracy surrounding the initial genetic experiments. Relationships within the team evolve, marked by both loyalty and conflict as they confront increasingly dangerous adversaries and the moral implications of their existence. The series concludes abruptly on a cliffhanger, with a major threat looming and the team's future uncertain, leaving many plot threads unresolved.",
+        "categorized_keywords": {
+          "themes": [
+            "genetic-engineering",
+            "identity-quest",
+            "prejudice",
+            "ethics",
+            "found-family",
+            "responsibility"
+          ],
+          "plot_and_concepts": [
+            "superhero-action",
+            "genetic-mutation",
+            "government-conspiracy",
+            "monster-of-the-week",
+            "secret-organization"
+          ],
+          "mood_and_tone": [
+            "action-packed",
+            "suspenseful",
+            "dark",
+            "mysterious"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "action-adventure",
+            "superhero",
+            "found-family"
+          ],
+          "setting": [
+            "modern-day",
+            "toronto-canada"
+          ],
+          "character_archetypes": [
+            "brilliant-scientist",
+            "reluctant-hero",
+            "anti-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult"
+          ],
+          "detail_plot": [
+            "genetic-experiment",
+            "superpower",
+            "secret-lab",
+            "government-facility"
+          ],
+          "maturity_and_content": [
+            "violence"
+          ]
+        },
+        "keyword_sentence": "Mutant X is a suspenseful science-fiction action series exploring themes of identity and responsibility as a team of genetically engineered individuals confronts prejudice and government conspiracies in modern-day Canada."
+      },
+      "duration_seconds": 62.61388874053955
+    }
+  }
+}

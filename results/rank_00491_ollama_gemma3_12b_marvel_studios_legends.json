@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Marvel Studios Legends",
+    "overview": "Revisit the epic heroes, villains and moments from across the MCU in preparation for the stories still to come. Each dynamic segment feeds directly into the upcoming series — setting the stage for future events. This series weaves together the many threads that constitute the unparalleled Marvel Cinematic Universe.",
+    "genres": [
+      "Documentary",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2021,
+    "vote_count": 631
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Marvel Studios Legends is a documentary series designed to recap and contextualize the events of the Marvel Cinematic Universe, serving as a bridge between past storylines and future installments. The series utilizes archival footage, interviews, and narrative framing to provide viewers with a deeper understanding of established characters and their interconnected histories. It aims to refresh audiences' memories and build anticipation for upcoming projects within the MCU, emphasizing the sprawling nature of the franchise and the significance of seemingly minor events. The tone is celebratory and informative, focusing on the heroic journeys and the complex relationships that define the MCU.",
+        "spoiler_rich_plot_summary": "Marvel Studios Legends functions as a retrospective, revisiting key characters and events from across the MCU timeline. Each episode typically focuses on a specific hero or group of heroes, such as Thor, Captain America, or the Guardians of the Galaxy, and explores their origins, significant battles, and the development of their powers and relationships. The series highlights pivotal moments that shaped the MCU's overarching narrative, including the formation of the Avengers, the rise of Thanos, and the consequences of major conflicts. While not presenting new plot developments, it reinforces the importance of past events and their impact on the current state of the MCU, setting the stage for future storylines and character arcs. The series demonstrates how seemingly isolated events contribute to the larger, interconnected narrative of the MCU, emphasizing the long-term consequences of choices made by heroes and villains alike. It serves as a reminder of the established lore and the complex web of relationships that define the franchise.",
+        "categorized_keywords": {
+          "themes": [
+            "heroism",
+            "legacy",
+            "interconnectedness",
+            "origins",
+            "fate",
+            "power",
+            "sacrifice"
+          ],
+          "plot_and_concepts": [
+            "retrospective",
+            "origins-story",
+            "multiverse-lore",
+            "character-arcs",
+            "timeline-recap"
+          ],
+          "mood_and_tone": [
+            "celebratory",
+            "informative",
+            "nostalgic",
+            "epic",
+            "reflective"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "origins-story",
+            "found-family",
+            "superhero-action"
+          ],
+          "setting": [
+            "marvel-cinematic-universe",
+            "earth",
+            "alternate-realities"
+          ],
+          "character_archetypes": [
+            "superhero",
+            "villain",
+            "mentor",
+            "ally"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "retrospective-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "superhero-fans"
+          ],
+          "detail_plot": [
+            "avengers-tower",
+            "infinity-stones",
+            "shield-agency",
+            "wakanda-nation"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Marvel Studios Legends is a celebratory documentary series that revisits the origins and interconnected storylines of heroes and villains within the expansive Marvel Cinematic Universe, reinforcing the legacy of epic battles and the importance of past events."
+      },
+      "duration_seconds": 56.64097595214844
+    }
+  }
+}

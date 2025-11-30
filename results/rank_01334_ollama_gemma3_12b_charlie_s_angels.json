@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Charlie's Angels",
+    "overview": "Beautiful, intelligent, and ultra-sophisticated, Charlie's Angels are everything a man could dream of... and way more than they could ever handle! Receiving their orders via speaker phone from their never seen boss, Charlie, the Angels employ their incomparable sleuthing and combat skills, as well as their lethal feminine charm, to crack even the most seemingly insurmountable of cases.",
+    "genres": [
+      "Action & Adventure"
+    ],
+    "release_year": 1976,
+    "vote_count": 175
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Charlie's Angels is a stylish action-adventure series centered on a trio of female operatives who work as private investigators for a mysterious client known only as Charlie. The show blends action sequences with comedic elements and a focus on female empowerment, presenting a lighthearted and entertaining take on the spy genre. Its appeal lies in its blend of action, humor, and the charm of its lead characters, offering a fun and escapist viewing experience. The series established a significant cultural impact, challenging gender roles and showcasing strong female leads in a traditionally male-dominated field.",
+        "spoiler_rich_plot_summary": "The series begins with the Angels – Sabrina Duncan, Jill Munroe, and Kelly Garrett – being recruited by the unseen Charlie Townsend to work for his detective agency. Each Angel possesses unique skills and personalities, contributing to the team's effectiveness in solving a wide range of cases, from corporate espionage to recovering stolen artifacts. Throughout the series, the Angels navigate complex situations, often involving dangerous criminals and powerful adversaries. While the cases themselves are episodic, recurring themes of trust, loyalty, and the challenges of working as a team emerge. The Angels frequently encounter romantic interests, adding a layer of personal drama to their professional lives. The series concludes with the Angels continuing their work, demonstrating their resilience and adaptability in the face of ongoing challenges, solidifying their status as capable and independent operatives.",
+        "categorized_keywords": {
+          "themes": [
+            "female-empowerment",
+            "teamwork",
+            "mystery",
+            "justice",
+            "friendship"
+          ],
+          "plot_and_concepts": [
+            "private-investigation",
+            "espionage",
+            "mystery-solving",
+            "cat-and-mouse"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "stylish",
+            "comedic",
+            "action-packed"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "spy-genre",
+            "buddy-cop",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "los-angeles",
+            "1970s",
+            "modern-city"
+          ],
+          "character_archetypes": [
+            "skilled-operative",
+            "independent-woman",
+            "resourceful-detective"
+          ],
+          "narrative_style": [
+            "episodic-format",
+            "case-of-the-week"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "speaker-phone",
+            "angel-uniform",
+            "townsend-agency",
+            "mystery-case"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Charlie's Angels is a lighthearted and stylish action-adventure series set in 1970s Los Angeles, showcasing skilled operatives who solve mysteries and champion female empowerment through teamwork and a case-of-the-week format."
+      },
+      "duration_seconds": 58.91924262046814
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "American Housewife",
+    "overview": "A family comedy narrated by Katie, a strong-willed mother, raising her flawed family in a wealthy town filled with perfect wives and their perfect offspring.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2016,
+    "vote_count": 144
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "American Housewife is a sitcom that satirizes the pressures and absurdities of suburban life, particularly focusing on the experiences of a working-class mother navigating a world of privilege and perfection. The series blends observational humor with heartwarming family moments, exploring themes of identity, belonging, and the challenges of raising children in a competitive environment. The show's comedic tone is driven by the protagonist's witty narration and her relatable struggles against societal expectations, offering a lighthearted yet insightful commentary on modern family dynamics.",
+        "spoiler_rich_plot_summary": "The series follows Katie Jensen, a relatable and often sarcastic mother, as she attempts to raise her family in Westport, Connecticut, a town populated by wealthy and seemingly flawless families. Initially, Katie feels like an outsider, constantly comparing herself to the other mothers and struggling to fit in. Throughout the series, she confronts the pressures of maintaining a perfect image while dealing with the everyday chaos of family life. Katie's husband, Greg, provides a grounding influence, and their children each grapple with their own challenges of growing up in a privileged environment. The show explores the complexities of family relationships, highlighting both the humorous and poignant moments of raising children and navigating the social landscape of a wealthy community. While Katie never fully achieves the 'perfect' image she initially strives for, she ultimately finds acceptance and a sense of belonging through embracing her authentic self and connecting with others who share her values.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "social-class",
+            "identity-quest",
+            "suburban-life",
+            "motherhood",
+            "belonging"
+          ],
+          "plot_and_concepts": [
+            "fish-out-of-water",
+            "satire",
+            "coming-of-age",
+            "family-comedy"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "humorous",
+            "warm",
+            "observational"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "family-comedy",
+            "fish-out-of-water"
+          ],
+          "setting": [
+            "suburban-america",
+            "connecticut",
+            "wealthy-community"
+          ],
+          "character_archetypes": [
+            "reluctant-heroine",
+            "working-class-mother",
+            "supportive-husband",
+            "teenager"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "wealthy-homes",
+            "school-events",
+            "family-dinners",
+            "parent-teacher-conferences"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "American Housewife is a lighthearted family comedy that satirizes the pressures of suburban life and motherhood through the eyes of a relatable woman navigating a world of wealth and perfection."
+      },
+      "duration_seconds": 61.646401166915894
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "input_data": {
+    "title": "Talking Dead",
+    "overview": "Host Chris Hardwick discusses episodes of the AMC television series The Walking Dead with guests, including celebrity fans, cast members, and crew from the series.",
+    "genres": [
+      "Talk"
+    ],
+    "release_year": 2011,
+    "vote_count": 50
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Talking Dead is a talk show centered around AMC's The Walking Dead, hosted by Chris Hardwick. The show provides a behind-the-scenes look at the series, featuring discussions with cast members, crew, and celebrity fans. It aims to enhance the viewing experience by offering insights into the production process and character development, while also fostering a community among fans. The show's format is largely conversational and relies heavily on the popularity and ongoing narrative of its parent series. It serves as a companion piece, extending the engagement with The Walking Dead beyond the episodic content.",
+        "spoiler_rich_plot_summary": "Talking Dead doesn't follow a plot in the traditional sense, but rather reacts to and analyzes the events of The Walking Dead. Each episode focuses on a specific episode of The Walking Dead, dissecting key moments, character arcs, and potential future storylines. Discussions often revolve around the decisions made by the showrunners, the challenges of adapting the comic book source material, and the impact of major character deaths or plot twists on the overall narrative. The show's value lies in its ability to provide context and speculation regarding the ongoing zombie apocalypse and the struggles of the survivors, offering a deeper understanding of the world and its inhabitants. Recurring themes involve the exploration of morality, survival, and the complexities of human relationships in a post-apocalyptic setting.",
+        "categorized_keywords": {
+          "themes": [
+            "zombie-apocalypse",
+            "survival",
+            "community",
+            "fan-engagement",
+            "post-apocalyptic"
+          ],
+          "plot_and_concepts": [
+            "talk-show-format",
+            "behind-the-scenes",
+            "episode-reaction"
+          ],
+          "mood_and_tone": [
+            "enthusiastic",
+            "conversational",
+            "humorous"
+          ],
+          "genre_and_tropes": [
+            "talk-show",
+            "companion-series"
+          ],
+          "setting": [
+            "television-studio",
+            "post-apocalyptic-world"
+          ],
+          "character_archetypes": [
+            "host",
+            "celebrity-guest",
+            "cast-member"
+          ],
+          "narrative_style": [
+            "episodic-reaction"
+          ],
+          "target_audience": [
+            "walking-dead-fans"
+          ],
+          "detail_plot": [
+            "zombie-makeup",
+            "set-design",
+            "comic-book-references"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Talking Dead is an enthusiastic talk show that engages fans with behind-the-scenes insights and episode reactions to the popular zombie-apocalypse series, The Walking Dead."
+      },
+      "duration_seconds": 49.79956603050232
+    }
+  }
+}

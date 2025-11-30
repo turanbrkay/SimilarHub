@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Long Way Round",
+    "overview": "In 2004 Ewan McGregor and Charley Boorman embarked on an epic challenge to bike 20,000-miles across 12 countries and 19 time zones in just 115 days. Watch as two friends ride around the world together and, against all the odds, realize their dream.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2004,
+    "vote_count": 82
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Long Way Round is a documentary series chronicling a motorcycle journey across continents. The series follows Ewan McGregor and Charley Boorman as they navigate challenging terrains and cultural landscapes, showcasing both the beauty of the world and the resilience of human friendship. It blends elements of travelogue, adventure, and personal narrative, offering a visually stunning and emotionally engaging experience for viewers interested in exploration and camaraderie. The series emphasizes the logistical hurdles and unexpected challenges inherent in such a grand undertaking, while also celebrating the joy of shared experience and the power of pursuing a seemingly impossible dream.",
+        "spoiler_rich_plot_summary": "The series begins with Ewan McGregor and Charley Boorman meticulously planning their ambitious motorcycle journey from London to New York. They acquire specially modified BMW motorcycles and prepare for the immense physical and logistical demands of the trip. The initial stages involve traversing Europe, encountering diverse cultures and landscapes. As they move eastward, they face increasingly difficult terrain, including the Ural Mountains and Mongolia, where they experience mechanical breakdowns and unexpected delays. The journey through Siberia presents significant challenges, including harsh weather conditions and limited infrastructure. The crossing of the Bering Strait via a cargo ship marks a pivotal moment, transporting them from Russia to Alaska. The final leg of the journey takes them through Alaska and Canada, culminating in their arrival in New York City, where they are greeted as heroes, having successfully completed their extraordinary adventure.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "adventure",
+            "exploration",
+            "perseverance",
+            "cultural-exchange",
+            "self-discovery"
+          ],
+          "plot_and_concepts": [
+            "motorcycle-journey",
+            "long-distance-travel",
+            "cross-cultural-adventure",
+            "logistical-challenges",
+            "mechanical-repair"
+          ],
+          "mood_and_tone": [
+            "optimistic",
+            "adventurous",
+            "inspiring",
+            "lighthearted",
+            "visually-stunning"
+          ],
+          "genre_and_tropes": [
+            "travelogue",
+            "documentary",
+            "adventure-series"
+          ],
+          "setting": [
+            "europe",
+            "asia",
+            "north-america",
+            "modern-day",
+            "mongolia",
+            "siberia"
+          ],
+          "character_archetypes": [
+            "adventurer",
+            "close-friends"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "travel-documentary"
+          ],
+          "target_audience": [
+            "adventure-seekers",
+            "motorcycle-enthusiasts",
+            "travel-lovers"
+          ],
+          "detail_plot": [
+            "bmw-motorcycle",
+            "cargo-ship",
+            "repair-kit",
+            "passport",
+            "map"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Long Way Round is an inspiring documentary series that follows two close friends on an adventurous motorcycle journey across continents, showcasing the beauty of the world and the challenges of long-distance travel."
+      },
+      "duration_seconds": 60.8560528755188
+    }
+  }
+}

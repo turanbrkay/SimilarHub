@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "The Neighborhood",
+    "overview": "The nicest guy in the Midwest moves his family into a tough neighborhood in Los Angeles where not everyone appreciates his extreme neighborliness. That includes their new next-door neighbor Calvin.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2018,
+    "vote_count": 105
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Neighborhood is a sitcom that explores cultural clashes and the challenges of adapting to a new environment. The series follows a friendly, Midwestern family as they relocate to a predominantly Black neighborhood in Los Angeles, encountering resistance and misunderstandings from their neighbors. It blends observational humor with heartwarming moments, examining themes of community, acceptance, and the importance of understanding different perspectives. The show aims to provide a lighthearted and accessible look at cultural differences and the process of building relationships across divides.",
+        "spoiler_rich_plot_summary": "The series begins with Clay and Emily Burton, a couple from Detroit, moving to Los Angeles with their children, Paige and Sam. They are initially welcomed by their new neighbor, Calvin Butler, who seems friendly but quickly reveals himself to be skeptical of the Burtons' intentions and their impact on the neighborhood. Throughout the series, the Burtons attempt to integrate into the community, often with humorous and awkward results. Clay's well-meaning but often misguided attempts at neighborliness frequently lead to misunderstandings and conflicts, while Emily tries to navigate the cultural differences and build genuine connections. The series follows the gradual development of relationships between the Burtons and their neighbors, as they learn to appreciate each other's differences and build a sense of community. While initial tensions and comedic misunderstandings are prevalent, the overarching narrative arc focuses on the growth of mutual respect and the formation of a unique, blended family dynamic.",
+        "categorized_keywords": {
+          "themes": [
+            "cultural-clash",
+            "community",
+            "acceptance",
+            "family-dynamics",
+            "understanding",
+            "neighborliness"
+          ],
+          "plot_and_concepts": [
+            "fish-out-of-water",
+            "sitcom",
+            "misunderstanding",
+            "fish-out-of-water"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "humorous",
+            "wholesome",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "family-comedy",
+            "fish-out-of-water"
+          ],
+          "setting": [
+            "los-angeles",
+            "modern-day",
+            "suburban-neighborhood"
+          ],
+          "character_archetypes": [
+            "well-meaning-but-clueless",
+            "skeptical-neighbor",
+            "supportive-spouse",
+            "teenager"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "front-lawn",
+            "welcome-wagon",
+            "block-party",
+            "family-dinner"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Neighborhood is a lighthearted family comedy that explores the challenges and rewards of adapting to a new community and embracing cultural differences in modern-day Los Angeles."
+      },
+      "duration_seconds": 61.06466245651245
+    }
+  }
+}

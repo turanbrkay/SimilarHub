@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "Car Masters: Rust to Riches",
+    "overview": "The colorful crew at Gotham Garage overhauls an eclectic collection of cars and trucks, trading up to a showstopper they can sell for big bucks.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2018,
+    "vote_count": 59
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Car Masters: Rust to Riches is a reality television series centered around the operations of Gotham Garage, a car restoration and customization shop. The show follows the team as they acquire dilapidated vehicles, transform them through extensive restoration and modification, and ultimately sell them for a profit. The series blends elements of automotive restoration, business acumen, and interpersonal dynamics, offering a glimpse into the challenges and rewards of a unique entrepreneurial venture. The show's appeal lies in its combination of mechanical skill, creative design, and the excitement of turning junk into valuable assets.",
+        "spoiler_rich_plot_summary": "The series begins with the Gotham Garage team acquiring a vehicle, often in a state of severe disrepair. They then embark on a process of restoration, which involves extensive mechanical work, body repair, and custom paint jobs. Throughout the restoration process, the team faces various challenges, including budget constraints, time pressures, and unexpected mechanical issues. The team members often clash over design choices and restoration techniques, leading to humorous and occasionally tense moments. As the restoration nears completion, the team prepares the vehicle for sale, often showcasing it at car shows or online auctions. The final sale marks the culmination of their efforts, with the team celebrating their success and immediately seeking out their next project.",
+        "categorized_keywords": {
+          "themes": [
+            "entrepreneurship",
+            "mechanical-skill",
+            "teamwork",
+            "creative-design",
+            "resourcefulness"
+          ],
+          "plot_and_concepts": [
+            "car-restoration",
+            "business-venture",
+            "trade-up",
+            "customization"
+          ],
+          "mood_and_tone": [
+            "energetic",
+            "optimistic",
+            "humorous",
+            "fast-paced"
+          ],
+          "genre_and_tropes": [
+            "reality-tv",
+            "automotive",
+            "workshop-series"
+          ],
+          "setting": [
+            "automotive-shop",
+            "gotham-garage"
+          ],
+          "character_archetypes": [
+            "skilled-mechanic",
+            "business-owner",
+            "creative-designer"
+          ],
+          "narrative_style": [
+            "episodic",
+            "workshop-format"
+          ],
+          "target_audience": [
+            "automotive-enthusiasts",
+            "business-minded-viewers"
+          ],
+          "detail_plot": [
+            "welding-torch",
+            "spray-paint",
+            "engine-block",
+            "car-show",
+            "auction-block"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Car Masters: Rust to Riches is an energetic reality television series showcasing the skilled mechanics and creative designers at Gotham Garage as they transform dilapidated vehicles into valuable assets through a fast-paced workshop format."
+      },
+      "duration_seconds": 53.55120849609375
+    }
+  }
+}

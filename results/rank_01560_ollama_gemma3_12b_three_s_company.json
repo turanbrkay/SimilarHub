@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "Three's Company",
+    "overview": "The three single roommates Janet Wood, Chrissy Snow and Jack Tripper all platonically share Apartment 201 in a Santa Monica, California apartment building owned by Mr. and Mrs. Roper.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1977,
+    "vote_count": 135
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Three's Company is a classic sitcom revolving around the comedic misunderstandings and farcical situations arising from three single friends sharing an apartment. The premise hinges on a deception: to avoid upsetting the conservative building owners, Jack Tripper pretends to be gay, leading to a constant stream of awkward encounters and elaborate cover-ups. The show's humor is largely derived from physical comedy, witty banter, and the characters' eccentric personalities. It's a lighthearted and feel-good series that emphasizes friendship and the absurdity of social conventions.",
+        "spoiler_rich_plot_summary": "The series begins with Jack Tripper, a culinary student, needing a roommate. He meets Janet Wood and Chrissy Snow, and they agree to share his apartment. To avoid suspicion from the building's owners, Mr. and Mrs. Roper, who disapprove of unmarried couples, Jack pretends to be gay, a lie that fuels much of the show's humor. Throughout the series, the trio navigates a constant stream of misunderstandings and near-exposures, often involving elaborate schemes and comical mishaps. Romantic interests for each of the main characters come and go, adding further complications to their already precarious living arrangement. While the core deception remains a central plot device, the series ultimately focuses on the enduring bond of friendship between the three roommates and their ability to find humor in everyday life, despite the constant threat of their secret being revealed. The series concludes with the trio facing new challenges and opportunities, but their commitment to their unusual living situation and their friendship remains steadfast.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "deception",
+            "social-comedy",
+            "misunderstandings",
+            "family-found"
+          ],
+          "plot_and_concepts": [
+            "sitcom",
+            "farce",
+            "romantic-comedy",
+            "identity-deception"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "romantic-comedy",
+            "found-family",
+            "physical-comedy"
+          ],
+          "setting": [
+            "california",
+            "1970s",
+            "apartment-living"
+          ],
+          "character_archetypes": [
+            "naive-character",
+            "charming-protagonist",
+            "eccentric-character"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "apartment-building",
+            "cooking-lessons",
+            "misdelivered-mail",
+            "floral-print-clothing"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Three's Company is a lighthearted and optimistic sitcom set in 1970s California, where a trio of friends navigate comedic misunderstandings and maintain a playful deception to appease their conservative neighbors."
+      },
+      "duration_seconds": 63.507192850112915
+    }
+  }
+}

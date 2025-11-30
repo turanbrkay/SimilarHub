@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Persons Unknown",
+    "overview": "A group of strangers must come together to solve the puzzle of their lives.",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2010,
+    "vote_count": 71
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Persons Unknown is a mystery drama series centered on a disparate group of individuals who find themselves mysteriously drawn to the seemingly idyllic town of Sitka, Alaska. The series explores themes of identity, memory, and the search for belonging as the characters grapple with a shared, unsettling past and a present shrouded in secrets. The tone is atmospheric and suspenseful, blending elements of psychological thriller and small-town drama. The narrative unfolds slowly, revealing layers of intrigue and challenging the audience to question the nature of reality and the reliability of memory. The series ultimately examines the fragility of human connection and the power of shared experience.",
+        "spoiler_rich_plot_summary": "The series begins with a diverse group of individuals – a former con man, a grieving mother, a troubled teenager, a disillusioned doctor, and others – each receiving a cryptic invitation to Sitka, Alaska. Upon arrival, they discover they are not alone; a larger group has already gathered, all drawn by an unknown force. As they attempt to understand why they were summoned, they begin to experience fragmented memories and unsettling visions, suggesting a shared, traumatic past. The town itself holds secrets, with its residents exhibiting an unsettling uniformity and a reluctance to discuss the newcomers' arrival. The characters slowly uncover a complex web of interconnected lives, revealing that they were all involved in a tragic event years prior, and that their presence in Sitka is tied to a larger, unresolved mystery. The series explores the psychological toll of repressed memories and the struggle to confront a shared trauma, culminating in a confrontation with the forces that brought them together and a gradual understanding of their intertwined destinies. The series concludes with a sense of uneasy resolution, leaving the audience to ponder the nature of memory, guilt, and the enduring power of the past.",
+        "categorized_keywords": {
+          "themes": [
+            "identity-crisis",
+            "memory-loss",
+            "guilt",
+            "redemption",
+            "shared-trauma",
+            "belonging",
+            "mystery"
+          ],
+          "plot_and_concepts": [
+            "small-town-mystery",
+            "shared-past",
+            "cryptic-invitation",
+            "false-memories",
+            "conspiracy"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "atmospheric",
+            "eerie",
+            "melancholy"
+          ],
+          "genre_and_tropes": [
+            "mystery-drama",
+            "psychological-thriller",
+            "small-town-secrets"
+          ],
+          "setting": [
+            "alaska",
+            "small-town-usa",
+            "remote-location"
+          ],
+          "character_archetypes": [
+            "troubled-protagonist",
+            "enigmatic-stranger",
+            "grieving-mother",
+            "con-man"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "slow-burn",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "cryptic-note",
+            "isolated-town",
+            "unexplained-phenomenon",
+            "town-meeting"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Persons Unknown is a suspenseful mystery drama set in a remote Alaskan town, exploring themes of identity, memory, and shared trauma through the journeys of a diverse group of strangers grappling with a cryptic past."
+      },
+      "duration_seconds": 85.31068444252014
+    }
+  }
+}

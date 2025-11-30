@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Happy Valley",
+    "overview": "Happy Valley is a dark, funny, multi-layered thriller revolving around the personal and professional life of Catherine, a dedicated, experienced, hard-working copper. She is also a bereaved mother who looks after her orphaned grandchild.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2014,
+    "vote_count": 258
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Happy Valley is a gritty British crime drama that explores the complexities of policing, trauma, and family in a rural Yorkshire community. The series follows Catherine Cawood, a police sergeant grappling with personal tragedy while investigating serious crimes, often intertwined with the darker aspects of local life. It blends procedural elements with a character-driven narrative, offering a bleakly realistic portrayal of law enforcement and its impact on individuals and families. The show’s strength lies in its nuanced characters and its unflinching depiction of the psychological toll of violence and loss.",
+        "spoiler_rich_plot_summary": "The series begins with Catherine Cawood, a police sergeant, uncovering the identity of the man who sexually assaulted her daughter and took his own life. Years later, a new case involving the kidnapping of a young boy, Annas, draws Catherine back into the orbit of the man’s family, exposing a web of drug trafficking, violence, and long-held secrets. The investigation reveals a connection between Annas’s kidnapping and a large-scale drug operation run by the sinister DCI Neil Ackroyd. As Catherine delves deeper, she confronts not only the criminals involved but also her own past trauma and the challenges of raising her granddaughter. The series culminates in a tense confrontation where Catherine must navigate a dangerous situation, protecting her family and bringing the perpetrators to justice, while grappling with the lasting consequences of her experiences and the cyclical nature of violence within the community. The resolution sees the dismantling of the drug operation, but leaves Catherine facing an uncertain future, forever marked by the events she has witnessed.",
+        "categorized_keywords": {
+          "themes": [
+            "crime",
+            "trauma",
+            "family",
+            "loss",
+            "redemption",
+            "social-inequality",
+            "justice"
+          ],
+          "plot_and_concepts": [
+            "police-investigation",
+            "kidnapping",
+            "drug-trafficking",
+            "serial-crime",
+            "revenge"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "gritty",
+            "bleak",
+            "suspenseful",
+            "realistic"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "police-procedural",
+            "slow-burn-mystery",
+            "british-tv"
+          ],
+          "setting": [
+            "yorkshire",
+            "rural-england",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "grieving-mother",
+            "dedicated-police-officer",
+            "anti-hero",
+            "corrupt-official"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "police-car",
+            "crime-scene",
+            "yorkshire-moorland",
+            "interrogation-room"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "sexual-content",
+            "drug-abuse"
+          ]
+        },
+        "keyword_sentence": "Happy Valley is a dark and gritty British crime drama that explores themes of trauma, loss, and justice within a close-knit community, following a dedicated police officer grappling with personal tragedy while investigating serious crimes in the Yorkshire countryside."
+      },
+      "duration_seconds": 63.808960914611816
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Sports Night",
+    "overview": "The offbeat cast and crew of a sports news show deal with professional, personal, and ethical challenges while functioning in a pressure-cooker work environment.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 1998,
+    "vote_count": 44
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Sports Night is a sharply written comedy-drama that explores the behind-the-scenes dynamics of a live sports news program. The series blends humor with insightful observations about the pressures of broadcast journalism, the complexities of interpersonal relationships, and the search for meaning in a fast-paced, high-stakes environment. It offers a witty and often poignant look at the people who work tirelessly to bring sports news to audiences, while also examining themes of ambition, friendship, and the pursuit of authenticity. The show's strength lies in its realistic portrayal of workplace camaraderie and the challenges of maintaining integrity in a competitive industry.",
+        "spoiler_rich_plot_summary": "The series begins with Dan Rydell, a veteran sports anchor, unexpectedly paired with Casey Drucker, a young, enthusiastic researcher, as his new co-anchor. This initial pairing creates friction as their contrasting personalities and approaches to broadcasting clash. Throughout the first season, the team navigates various professional hurdles, including ratings dips, network interference, and the constant pressure to deliver compelling content. Personal relationships within the staff also evolve, with romances blossoming and friendships tested. As the series progresses, the network undergoes changes in ownership and management, leading to increased scrutiny and a shift in the show's direction. Dan and Casey grapple with ethical dilemmas and the compromises required to maintain their careers. The show explores the impact of these changes on the team's dynamics and their individual aspirations, culminating in a final season that examines the long-term consequences of their choices and the enduring bonds forged within the newsroom.",
+        "categorized_keywords": {
+          "themes": [
+            "workplace-dynamics",
+            "professional-ethics",
+            "friendship",
+            "ambition",
+            "authenticity",
+            "career-challenges"
+          ],
+          "plot_and_concepts": [
+            "broadcast-journalism",
+            "live-television",
+            "network-politics",
+            "ratings-pressure",
+            "behind-the-scenes"
+          ],
+          "mood_and_tone": [
+            "witty",
+            "poignant",
+            "realistic",
+            "observational",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "workplace-comedy",
+            "dramedy",
+            "ensemble-cast",
+            "slice-of-life"
+          ],
+          "setting": [
+            "television-studio",
+            "newsroom",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "veteran-anchor",
+            "young-researcher",
+            "ensemble-cast"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "news-desk",
+            "camera-crew",
+            "teleprompter",
+            "control-room"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Sports Night is a witty and realistic dramedy that explores the challenges and camaraderie of a television news team navigating the pressures of live broadcasting and the complexities of workplace dynamics."
+      },
+      "duration_seconds": 62.41964817047119
+    }
+  }
+}

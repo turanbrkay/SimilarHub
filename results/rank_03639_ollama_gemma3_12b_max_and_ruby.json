@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Max and Ruby",
+    "overview": "Meet two funny bunny siblings, the energetic and mischievous Max, and the patient, smart and goal-oriented Ruby. The show models empowering messages by showing Max and Ruby playing together and resolving their differences respectfully and supportively.",
+    "genres": [
+      "Kids",
+      "Animation"
+    ],
+    "release_year": 2002,
+    "vote_count": 33
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Max and Ruby is a gentle, animated series aimed at preschool children, focusing on the dynamic between two bunny siblings. The show emphasizes problem-solving, cooperation, and the importance of family relationships through simple, relatable scenarios. Its tone is consistently lighthearted and positive, promoting kindness and understanding. The series utilizes a repetitive structure, reinforcing core values and providing a comforting viewing experience for young audiences. It blends elements of slice-of-life storytelling with educational components, subtly introducing concepts like sharing and patience.",
+        "spoiler_rich_plot_summary": "The series revolves around Ruby, the older sister, who often plans activities and tasks, while her younger brother, Max, frequently disrupts these plans with his playful antics and desire for immediate gratification. Each episode typically begins with Ruby initiating a project, such as baking cookies or preparing for a party. Max's attempts to participate often lead to humorous chaos and require Ruby to find creative solutions to keep him engaged and ensure the task is completed. While conflicts arise from their differing approaches, the episodes consistently resolve with Ruby and Max learning to appreciate each other's perspectives and working together. The overarching theme is the development of their sibling bond and the lessons they learn through shared experiences, culminating in a sense of mutual respect and affection.",
+        "categorized_keywords": {
+          "themes": [
+            "sibling-relationship",
+            "family-values",
+            "problem-solving",
+            "cooperation",
+            "patience",
+            "sharing"
+          ],
+          "plot_and_concepts": [
+            "slice-of-life",
+            "educational-programming",
+            "simple-tasks",
+            "playful-antics"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "positive",
+            "gentle",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "childrens-programming",
+            "animated-comedy",
+            "found-family"
+          ],
+          "setting": [
+            "suburban-home",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "older-sister",
+            "younger-brother",
+            "responsible-child",
+            "mischievous-child"
+          ],
+          "narrative_style": [
+            "episodic",
+            "repetitive-structure"
+          ],
+          "target_audience": [
+            "preschool-audience"
+          ],
+          "detail_plot": [
+            "bunny-characters",
+            "kitchen-scene",
+            "garden-setting",
+            "toy-chest"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Max and Ruby is a lighthearted, animated series for a preschool audience, exploring themes of family values and problem-solving through the gentle dynamic between a responsible older sister and her mischievous younger brother."
+      },
+      "duration_seconds": 72.24086117744446
+    }
+  }
+}

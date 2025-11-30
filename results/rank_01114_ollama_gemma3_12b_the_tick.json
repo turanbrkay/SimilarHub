@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "The Tick",
+    "overview": "In a world where superheroes have been real for decades, an accountant with zero powers comes to realize his city is owned by a super villain. As he struggles to uncover this conspiracy, he falls in league with a strange blue superhero.",
+    "genres": [
+      "Comedy",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "release_year": 2016,
+    "vote_count": 224
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Tick is a comedic superhero series that blends absurdist humor with genuine heart. Following a mild-mannered accountant who discovers a hidden world of superheroes and villains, the show explores themes of responsibility, friendship, and embracing the unexpected. The series balances lighthearted, often chaotic, comedic situations with a surprisingly poignant exploration of what it means to be a hero, particularly when lacking conventional powers. It offers a refreshing and optimistic take on the superhero genre, appealing to audiences seeking a feel-good experience with a touch of quirky charm.",
+        "spoiler_rich_plot_summary": "The series begins with Arthur Putnam, a meticulous accountant, stumbling upon evidence of a vast conspiracy involving superheroes and a shadowy villain known as The Terror. He encounters The Tick, an enthusiastic but incredibly naive superhero, and they form an unlikely partnership to uncover the truth. As they investigate, they discover that The Terror is manipulating events to destabilize the city and seize control. Arthur grapples with his newfound responsibility and the chaos that The Tick brings into his life, while The Tick struggles to understand the complexities of human behavior and the consequences of his actions. Throughout the series, they face numerous challenges, battling various villains and uncovering deeper layers of the conspiracy. The partnership evolves, with Arthur providing a grounding influence on The Tick's impulsive nature, and The Tick inspiring Arthur to embrace a more adventurous and optimistic outlook. The overarching narrative involves confronting The Terror's grand scheme and ultimately protecting the city from his destructive plans, leading to a final confrontation that tests their abilities and their bond.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "responsibility",
+            "optimism",
+            "identity",
+            "heroism",
+            "absurdity"
+          ],
+          "plot_and_concepts": [
+            "superhero-team",
+            "conspiracy-thriller",
+            "found-family",
+            "secret-identity",
+            "villain-mastermind"
+          ],
+          "mood_and_tone": [
+            "comedic",
+            "lighthearted",
+            "quirky",
+            "optimistic",
+            "absurdist"
+          ],
+          "genre_and_tropes": [
+            "superhero-comedy",
+            "satire",
+            "parody",
+            "buddy-comedy"
+          ],
+          "setting": [
+            "modern-city",
+            "alternate-reality"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "naive-hero",
+            "straight-man",
+            "eccentric-genius"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "superhero-costume",
+            "city-skyline",
+            "secret-lair",
+            "tick-suit"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "This comedic superhero series blends absurdist humor and heartwarming themes of friendship and responsibility within a modern city setting, following a naive hero and a reluctant hero as they confront a villainous conspiracy."
+      },
+      "duration_seconds": 62.665607213974
+    }
+  }
+}

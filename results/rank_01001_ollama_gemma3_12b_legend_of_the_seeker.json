@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Legend of the Seeker",
+    "overview": "The adventures of woodsman Richard Cypher, who discovers that he was born to fulfill a prophecy of becoming a guardian hero to oppressed people. With the help of a mysterious woman named Kahlan and a wise old wizard named Zedd, he must stop a ruthless and bloodthirsty tyrant from unleashing an ancient evil and enslaving the world.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Drama"
+    ],
+    "release_year": 2008,
+    "vote_count": 257
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Legend of the Seeker is a fantasy action-adventure series following Richard Cypher's journey from humble woodsman to a prophesied hero destined to confront a tyrannical ruler. The series blends elements of high fantasy with action-packed sequences and a focus on themes of destiny, freedom, and sacrifice. It explores the complexities of power, the burden of responsibility, and the importance of found family as Richard navigates a world steeped in magic and political intrigue. The narrative emphasizes the struggle against oppression and the enduring hope for a better future, offering a blend of thrilling action and character-driven drama.",
+        "spoiler_rich_plot_summary": "The series begins with Richard Cypher, a skilled woodsman living a simple life, unknowingly fulfilling a prophecy. His life is irrevocably altered when he inadvertently attracts the attention of Kahlan Amnell, a Confessor who must protect him from a dark prophecy. Richard learns he is the Seeker, destined to confront the tyrannical Darken Rahl, who seeks to unleash an ancient evil. Guided by the wizard Zedd, Richard embarks on a perilous quest to defeat Rahl and break the cycle of oppression. Along the way, he discovers the truth about his own lineage and the immense power he possesses. As Richard confronts increasingly formidable foes, he must grapple with the moral implications of his actions and the sacrifices required to fulfill his destiny. The series follows Richard’s growth as a leader and warrior, his deepening relationship with Kahlan, and his ongoing battle against the forces of darkness, culminating in a confrontation with a powerful and ancient evil that threatens to consume the world.",
+        "categorized_keywords": {
+          "themes": [
+            "destiny",
+            "freedom",
+            "sacrifice",
+            "oppression",
+            "power",
+            "redemption",
+            "found-family",
+            "good-vs-evil"
+          ],
+          "plot_and_concepts": [
+            "prophecy",
+            "magic",
+            "political-intrigue",
+            "ancient-evil",
+            "chosen-one",
+            "dark-lord"
+          ],
+          "mood_and_tone": [
+            "epic",
+            "adventurous",
+            "dark",
+            "hopeful",
+            "serious"
+          ],
+          "genre_and_tropes": [
+            "high-fantasy",
+            "action-adventure",
+            "chosen-one-narrative",
+            "hero-journey"
+          ],
+          "setting": [
+            "fantasy-world",
+            "medieval-setting"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "confessor",
+            "tyrant"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "quest-narrative"
+          ],
+          "target_audience": [
+            "young-adult",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "magic-system",
+            "confessor-powers",
+            "dark-lord-throne",
+            "ancient-ruins"
+          ],
+          "maturity_and_content": [
+            "violence"
+          ]
+        },
+        "keyword_sentence": "Legend of the Seeker is an epic fantasy action-adventure series following a reluctant hero’s quest to defeat a dark lord and liberate a world steeped in magic and political intrigue."
+      },
+      "duration_seconds": 68.83306884765625
+    }
+  }
+}

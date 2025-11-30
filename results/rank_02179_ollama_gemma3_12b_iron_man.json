@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Iron Man",
+    "overview": "Industrialist Tony Stark leads a private team of superheroes as Iron Man against the forces of evil.",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1994,
+    "vote_count": 85
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Iron Man is a 1994 animated series centered on industrialist Tony Stark, who utilizes advanced technology to become the armored superhero Iron Man. The series blends action-adventure with science fiction and fantasy elements, exploring themes of responsibility, redemption, and the conflict between technological advancement and its potential consequences. The show features a team of superheroes battling various threats, often involving complex schemes and powerful adversaries. It aims to deliver a dynamic and engaging experience for audiences interested in superhero action and imaginative storytelling.",
+        "spoiler_rich_plot_summary": "The series begins with Tony Stark, a brilliant but arrogant industrialist, captured and forced to build weapons for a terrorist organization. After narrowly escaping, he resolves to use his genius and resources to create the Iron Man armor, dedicating himself to protecting the innocent. Throughout the series, Iron Man confronts a recurring cast of villains, each with their own motivations and schemes to disrupt Stark Industries and threaten global security. He assembles a team of heroes, each with unique abilities and backgrounds, to assist him in his battles. As the series progresses, Tony grapples with the moral implications of his actions and the potential for his technology to be misused. The team faces increasingly complex challenges, forcing them to confront their own limitations and make difficult choices that impact the world around them. The overarching narrative explores the ongoing struggle between good and evil, and the importance of using power responsibly.",
+        "categorized_keywords": {
+          "themes": [
+            "responsibility",
+            "redemption",
+            "technology-vs-ethics",
+            "heroism",
+            "good-vs-evil"
+          ],
+          "plot_and_concepts": [
+            "armored-hero",
+            "superhero-team",
+            "industrialist-turned-hero",
+            "advanced-technology",
+            "secret-identity"
+          ],
+          "mood_and_tone": [
+            "action-packed",
+            "adventurous",
+            "optimistic",
+            "heroic"
+          ],
+          "genre_and_tropes": [
+            "superhero-action",
+            "sci-fi-adventure",
+            "found-family",
+            "technological-marvel"
+          ],
+          "setting": [
+            "modern-day",
+            "urban-environment",
+            "stark-industries"
+          ],
+          "character_archetypes": [
+            "genius-inventor",
+            "reluctant-hero",
+            "armored-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "iron-man-armor",
+            "stark-tower",
+            "villain-lair",
+            "high-tech-gadgets"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Iron Man is an action-packed animated series that follows a genius inventor and his superhero team as they use advanced technology to confront villains and protect the world, exploring themes of responsibility and heroism in a modern urban environment."
+      },
+      "duration_seconds": 63.889522075653076
+    }
+  }
+}

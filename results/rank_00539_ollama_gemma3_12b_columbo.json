@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Columbo",
+    "overview": "Columbo is a friendly, verbose, disheveled-looking police detective who is consistently underestimated by his suspects. Despite his unprepossessing appearance and apparent absentmindedness, he shrewdly solves all of his cases and secures all evidence needed for indictment. His formidable eye for detail and meticulously dedicated approach often become clear to the killer only late in the storyline.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 1971,
+    "vote_count": 570
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Columbo is a long-running crime drama series centered on a seemingly unassuming detective who uses his disarming demeanor and keen observational skills to solve complex murder cases. The show's unique inverted detective story format reveals the murderer's identity early on, shifting the focus to Columbo's methodical and often frustratingly persistent investigation. The series blends elements of mystery, drama, and dark comedy, creating a distinctive and engaging viewing experience that relies on character interaction and psychological tension rather than suspenseful chases or action sequences. Columbo's charm and intelligence consistently outwit his sophisticated and often arrogant suspects, providing a satisfying resolution to each case.",
+        "spoiler_rich_plot_summary": "Each episode of Columbo begins by showcasing the meticulous planning and execution of a murder committed by a seemingly successful and often wealthy individual. The audience witnesses the crime unfold, knowing the identity of the perpetrator. The narrative then shifts to Lieutenant Columbo's arrival at the scene, where he initially appears bumbling and easily distracted. However, beneath the surface lies a brilliant mind and an uncanny ability to notice minute details that others overlook. Throughout the episode, Columbo engages in seemingly casual conversations with the suspect, subtly probing for inconsistencies and exploiting their overconfidence. The suspect, believing they have outsmarted the detective, often reveals crucial information through careless remarks or attempts to cover their tracks. As Columbo pieces together the evidence, the suspect's carefully constructed facade begins to crumble, leading to a confession or a final, irrefutable piece of evidence that secures their conviction. The series follows a consistent pattern across multiple seasons, with each episode presenting a new murder and a new suspect, but always adhering to Columbo's signature investigative style.",
+        "categorized_keywords": {
+          "themes": [
+            "crime-and-punishment",
+            "deception",
+            "social-class",
+            "justice",
+            "hubris",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "inverted-detective-story",
+            "police-investigation",
+            "crime-procedural",
+            "whodunit"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "subtle-suspense",
+            "satirical",
+            "thoughtful"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "mystery",
+            "satire",
+            "detective-fiction"
+          ],
+          "setting": [
+            "modern-day",
+            "los-angeles",
+            "upscale-neighborhoods"
+          ],
+          "character_archetypes": [
+            "detective",
+            "anti-hero",
+            "wealthy-villain",
+            "arrogant-suspect"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "peugeot-404",
+            "cigar",
+            "raincoat",
+            "crime-scene",
+            "interrogation-room"
+          ],
+          "maturity_and_content": [
+            "murder",
+            "crime"
+          ]
+        },
+        "keyword_sentence": "Columbo is a darkly comic crime drama series that satirizes the wealthy and arrogant through the persistent investigation of a deceptively unassuming detective, consistently exposing their meticulously planned murders with subtle suspense and thoughtful commentary."
+      },
+      "duration_seconds": 65.50554490089417
+    }
+  }
+}

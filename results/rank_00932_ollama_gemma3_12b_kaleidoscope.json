@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Kaleidoscope",
+    "overview": "A master thief and his crew attempt an epic and elaborate heist worth $7 billion dollars — but betrayal, greed and other threats undermine their plans.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2023,
+    "vote_count": 283
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Kaleidoscope is a crime drama series centered around a team of skilled thieves attempting a massive heist. The show distinguishes itself through its non-linear storytelling, allowing viewers to experience the events leading up to and following the robbery in a randomized order. This unconventional structure explores themes of betrayal, greed, and the complex relationships within a criminal enterprise. The series blends elements of suspense, thriller, and character-driven drama, offering a visually stylish and intellectually engaging viewing experience.",
+        "spoiler_rich_plot_summary": "The series introduces Ray Vernon, a legendary thief recently released from prison after serving a twenty-year sentence. He's recruited by Ava Mercer, who plans an audacious heist targeting the vault of the Olympic Security Firm, containing $7 billion in uninsurable assets. The team, comprised of Leo Pap, Nadia Kontardis, Roger Salas, and Hannah Kim, each possess unique skills crucial to the operation. The planning phase is extensive, involving meticulous reconnaissance, technological manipulation, and psychological profiling of the firm's security personnel. As the heist unfolds, tensions rise within the team, fueled by personal ambitions and past grievances. Betrayal and double-crossing become central to the narrative, as team members reveal hidden agendas and conflicting loyalties. The randomized viewing order allows the audience to piece together the full scope of the conspiracy and the individual motivations driving each character's actions. Following the heist, the team faces unexpected consequences and must contend with both law enforcement and rival criminal factions vying for control of the stolen assets. The aftermath reveals the true cost of their actions and the fragility of their bonds.",
+        "categorized_keywords": {
+          "themes": [
+            "greed",
+            "betrayal",
+            "redemption",
+            "criminal-enterprise",
+            "trust",
+            "revenge"
+          ],
+          "plot_and_concepts": [
+            "heist",
+            "non-linear-timeline",
+            "criminal-mastermind",
+            "double-cross",
+            "insurance-fraud"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "stylish",
+            "tense"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "thriller",
+            "ensemble-cast",
+            "cat-and-mouse"
+          ],
+          "setting": [
+            "modern-day",
+            "urban-setting",
+            "security-firm"
+          ],
+          "character_archetypes": [
+            "criminal-mastermind",
+            "skilled-thief",
+            "double-agent",
+            "reluctant-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "non-linear-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "security-vault",
+            "laser-grid",
+            "facial-recognition",
+            "encrypted-data"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "criminal-activity"
+          ]
+        },
+        "keyword_sentence": "Kaleidoscope is a stylish and suspenseful crime thriller that explores themes of greed and betrayal through a non-linear narrative centered around a skilled team attempting a massive heist in a modern urban setting."
+      },
+      "duration_seconds": 60.9666006565094
+    }
+  }
+}

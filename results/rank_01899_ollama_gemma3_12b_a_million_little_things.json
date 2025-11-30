@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "A Million Little Things",
+    "overview": "A group of friends from Boston who feel stuck in life experience an unexpected wake-up call after one of their friends dies unexpectedly.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2018,
+    "vote_count": 104
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "A Million Little Things is a character-driven drama exploring themes of grief, friendship, and second chances. Following the sudden death of a close friend, a group of seemingly successful individuals in Boston are forced to confront their own lives and the unspoken tensions within their relationships. The series blends elements of interpersonal drama with a mystery surrounding the deceased's life, examining the complexities of long-term friendships and the search for meaning in the face of loss. It offers a poignant and often emotionally raw exploration of human connection and the potential for personal growth.",
+        "spoiler_rich_plot_summary": "The series begins with the shocking death of Jonathan Davies, a seemingly happy and successful man, prompting his close-knit group of friends – Eddie, Katherine, Gary, and Maggie – to re-evaluate their own lives and the dynamics of their friendship. As they grapple with grief and guilt, secrets begin to surface, revealing a web of unspoken resentments and hidden struggles within the group. Eddie, struggling with his own career and marriage, finds himself increasingly drawn to the mystery surrounding Jonathan's death, uncovering clues that suggest his friend’s life was far more complicated than it appeared. Katherine, a driven and ambitious lawyer, battles personal demons and a strained relationship with her teenage daughter. Gary, a charismatic but often irresponsible figure, confronts his own financial woes and a history of impulsive decisions. Maggie, a former friend of the group, returns to Boston and navigates a complex relationship with her ex-husband and the lingering feelings she has for the others. Over the seasons, the friends confront their individual traumas and work to repair the fractured bonds of their friendship, while also uncovering more about Jonathan’s past and the reasons behind his sudden departure. The series explores themes of addiction, infidelity, and the challenges of maintaining long-term relationships, ultimately focusing on the power of forgiveness and the enduring strength of friendship.",
+        "categorized_keywords": {
+          "themes": [
+            "grief",
+            "friendship",
+            "second-chances",
+            "loss",
+            "redemption",
+            "forgiveness",
+            "addiction",
+            "secrets",
+            "mental-health"
+          ],
+          "plot_and_concepts": [
+            "mystery",
+            "sudden-death",
+            "relationship-drama",
+            "flashbacks",
+            "personal-growth"
+          ],
+          "mood_and_tone": [
+            "emotional",
+            "melancholy",
+            "poignant",
+            "reflective",
+            "somber"
+          ],
+          "genre_and_tropes": [
+            "drama",
+            "character-driven",
+            "relationship-drama",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "boston-massachusetts",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "reluctant-hero",
+            "complex-protagonist",
+            "damaged-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "therapy-session",
+            "group-dinner",
+            "boston-skyline",
+            "family-home"
+          ],
+          "maturity_and_content": [
+            "substance-abuse",
+            "emotional-trauma"
+          ]
+        },
+        "keyword_sentence": "A Million Little Things is a poignant drama set in Boston, exploring themes of grief, friendship, and second chances as a group of adults confront loss and navigate complex relationships while uncovering secrets from the past."
+      },
+      "duration_seconds": 72.20424747467041
+    }
+  }
+}

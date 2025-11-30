@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "Plebs",
+    "overview": "Sitcom about three desperate young men from the suburbs who try to get laid, hold down jobs and climb the social ladder in the big city - which just happens to be ancient Rome.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2013,
+    "vote_count": 60
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Plebs is a comedic sitcom that satirizes the struggles of young adulthood through the lens of ancient Rome. Following three working-class friends navigating the challenges of finding employment, romance, and social status, the series blends historical setting with contemporary humor, offering a lighthearted and often absurd portrayal of ambition, friendship, and the pursuit of a better life. The show's appeal lies in its relatable characters and its ability to find humor in the mundane aspects of daily existence, all while playfully subverting expectations about Roman society.",
+        "spoiler_rich_plot_summary": "The series follows Marcus, Stylax, and Germanius, three friends who have moved from the countryside to Rome in search of a better life. Initially struggling to find work and navigate the complexities of Roman society, they often find themselves embroiled in comical situations, frequently involving encounters with the Roman elite and the city's underbelly. Throughout the series, the trio attempts various schemes to improve their social standing and romantic prospects, often with disastrous and hilarious results. Their friendship is tested by their individual ambitions and the pressures of their circumstances, but ultimately, they remain loyal to one another. While they never achieve significant wealth or status, they find a sense of belonging and purpose in their shared experiences, and their comedic misadventures continue as they face new challenges and opportunities in the bustling city of Rome.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "social-mobility",
+            "coming-of-age",
+            "class-conflict",
+            "ambition",
+            "identity"
+          ],
+          "plot_and_concepts": [
+            "fish-out-of-water",
+            "satire",
+            "sitcom",
+            "historical-comedy"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "humorous",
+            "absurdist",
+            "slapstick"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "romantic-comedy",
+            "historical-fiction"
+          ],
+          "setting": [
+            "ancient-rome",
+            "roman-empire",
+            "city-life"
+          ],
+          "character_archetypes": [
+            "everyman",
+            "best-friends",
+            "naive-protagonist"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "young-adult"
+          ],
+          "detail_plot": [
+            "roman-bathhouse",
+            "chariot-race",
+            "gladiator-arena",
+            "toga"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Plebs is a lighthearted sitcom that follows three young friends as they navigate the absurdities of ancient Roman city life, satirizing their ambitions and struggles for social mobility through a comedic lens."
+      },
+      "duration_seconds": 56.95264220237732
+    }
+  }
+}

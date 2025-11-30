@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Guilt",
+    "overview": "Two brothers seem to get away with a crime - but soon discover they can trust no-one, including each other, in a pitch-black, contemporary thriller.",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2019,
+    "vote_count": 30
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Guilt is a darkly comedic crime drama that explores the psychological toll of guilt and paranoia. The series follows two brothers whose lives unravel after a seemingly accidental death, forcing them to confront their own morality and the fragility of their relationships. The narrative is characterized by its sharp wit, suspenseful atmosphere, and examination of how secrets and lies can corrode even the closest bonds. It blends elements of thriller and black comedy to create a tense and unpredictable viewing experience, questioning the nature of justice and the lengths people will go to protect themselves.",
+        "spoiler_rich_plot_summary": "The series begins with the accidental death of a local landowner, Robbie Bulloch, during a hunting trip involving brothers Max and William McCrone. Initially, they attempt to cover up the incident, believing they can escape consequences. However, their efforts to maintain the facade quickly spiral into a web of lies and suspicion. As the police investigation intensifies, the brothers find themselves increasingly isolated, turning against each other and struggling to maintain their carefully constructed narrative. The investigation reveals hidden connections and past grievances within the community, implicating other characters and complicating the brothers' attempts to clear their names. The series explores the ripple effects of their actions, impacting their families, friends, and the wider community. As the truth slowly emerges, the brothers must confront the consequences of their choices and grapple with the possibility that their guilt may be inescapable, leading to a dramatic and morally ambiguous resolution where the true nature of their culpability is revealed.",
+        "categorized_keywords": {
+          "themes": [
+            "guilt",
+            "paranoia",
+            "family-secrets",
+            "moral-ambiguity",
+            "justice",
+            "deception"
+          ],
+          "plot_and_concepts": [
+            "crime-investigation",
+            "cover-up",
+            "false-accusation",
+            "small-town-secrets",
+            "serial-investigation"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "suspenseful",
+            "tense",
+            "unpredictable"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "black-comedy",
+            "thriller",
+            "whodunit"
+          ],
+          "setting": [
+            "scotland",
+            "rural-setting",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "morally-gray-protagonist",
+            "unreliable-narrator"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "mystery"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "hunting-rifle",
+            "police-station",
+            "courtroom",
+            "rural-estate"
+          ],
+          "maturity_and_content": [
+            "tense-situations",
+            "deceptive-behavior"
+          ]
+        },
+        "keyword_sentence": "Guilt is a darkly comedic thriller set in rural Scotland, exploring themes of deception and paranoia as two brothers grapple with the consequences of a crime and the unraveling of their family secrets."
+      },
+      "duration_seconds": 79.30984854698181
+    }
+  }
+}

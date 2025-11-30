@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Sofia the First",
+    "overview": "Set in the storybook world of Enchancia, this is the story of Princess Sofia, an adventurous little girl who is learning how to adjust to royal life after her mom marries the king and she becomes a princess overnight.",
+    "genres": [
+      "Family",
+      "Animation",
+      "Kids"
+    ],
+    "release_year": 2013,
+    "vote_count": 501
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Sofia the First is a Disney animated series geared towards young children, blending fairytale elements with contemporary family dynamics. The show follows a young girl's journey as she navigates the challenges and joys of becoming a princess, learning about responsibility, kindness, and the importance of family. It combines whimsical fantasy with relatable themes of self-discovery and acceptance, offering a gentle and heartwarming viewing experience for its target audience. The series emphasizes positive values and promotes a sense of wonder and imagination.",
+        "spoiler_rich_plot_summary": "The series begins with Sofia, a young girl living a simple life with her mom and stepfather, Miranda. Their lives are dramatically altered when Miranda marries King Roland II of Enchancia, and Sofia becomes a princess. Initially overwhelmed by the change, Sofia struggles to adapt to royal etiquette and the expectations of the court. She discovers she possesses a latent magical ability, a gift from her birth mother, which complicates her journey. Throughout the series, Sofia attends Royal Prep Academy, where she befriends James and Amber, navigating the complexities of friendship and rivalry. She encounters various magical creatures and learns valuable lessons about responsibility, courage, and the importance of embracing her unique identity. The series explores the challenges of balancing royal duties with personal growth, and the importance of family and friendship in overcoming obstacles. While she faces occasional setbacks and misunderstandings, Sofia ultimately learns to embrace her role as a princess and uses her magic and kindness to help others.",
+        "categorized_keywords": {
+          "themes": [
+            "family-values",
+            "self-discovery",
+            "friendship",
+            "magic",
+            "royalty",
+            "acceptance",
+            "kindness",
+            "responsibility"
+          ],
+          "plot_and_concepts": [
+            "coming-of-age",
+            "royal-court",
+            "magic-system",
+            "school-setting",
+            "found-family"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "lighthearted",
+            "optimistic",
+            "gentle",
+            "imaginative"
+          ],
+          "genre_and_tropes": [
+            "fairytale",
+            "childrens-animation",
+            "coming-of-age-story",
+            "princess-story"
+          ],
+          "setting": [
+            "fantasy-kingdom",
+            "castle",
+            "enchantia"
+          ],
+          "character_archetypes": [
+            "young-heroine",
+            "wise-mentor",
+            "royal-family",
+            "school-friends"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "young-children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "royal-crown",
+            "magic-wand",
+            "royal-prep-academy",
+            "talking-animals"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Sofia the First is a lighthearted and imaginative children's animation series set in a fantasy kingdom, exploring themes of family, friendship, and self-discovery as a young heroine learns to embrace her role as a princess."
+      },
+      "duration_seconds": 66.11278367042542
+    }
+  }
+}

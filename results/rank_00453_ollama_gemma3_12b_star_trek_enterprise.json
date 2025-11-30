@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Star Trek: Enterprise",
+    "overview": "During the mid-22nd century, a century before Captain Kirk's five-year mission, Jonathan Archer captains the United Earth ship Enterprise during the early years of Starfleet, leading up to the Earth-Romulan War and the formation of the Federation.",
+    "genres": "Sci-Fi & Fantasy, Action & Adventure, Drama",
+    "release_year": 2001,
+    "vote_count": 675
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Star Trek: Enterprise serves as a prequel to the original Star Trek series, exploring the nascent stages of Earth's space exploration and the formation of the United Federation of Planets. The series chronicles the challenges and triumphs of the first warp-capable starship, the Enterprise NX-01, as it encounters new civilizations and navigates the complexities of interstellar diplomacy. It blends action-adventure with dramatic character development, examining themes of human ambition, cultural understanding, and the cost of progress. The tone is generally optimistic, though tempered by the realities of early space exploration and the looming threat of conflict.",
+        "spoiler_rich_plot_summary": "The series begins with the Enterprise NX-01 embarking on a mission to establish contact with alien species and secure resources for a struggling Earth. Early seasons focus on establishing diplomatic relations and encountering various threats, including the Vulcan High Command's interference and the discovery of the Xindi, a hostile alien race. A major turning point occurs with the revelation of the Temporal Cold War, a conflict between factions manipulating time to alter history. This leads to a deeper understanding of the Romulan Star Empire and the origins of the Temporal Prime Directive. The later seasons delve into the events leading up to the Earth-Romulan War, showcasing the escalating tensions and the sacrifices made to protect Earth. The series concludes with the Enterprise playing a crucial role in averting a devastating Romulan attack, setting the stage for the formation of the United Federation of Planets and the beginning of a new era of interstellar cooperation.",
+        "categorized_keywords": {
+          "themes": [
+            "exploration",
+            "diplomacy",
+            "first-contact",
+            "human-ambition",
+            "cultural-understanding",
+            "temporal-paradox",
+            "war-and-conflict",
+            "sacrifice"
+          ],
+          "plot_and_concepts": [
+            "time-travel",
+            "temporal-cold-war",
+            "first-contact-protocol",
+            "warp-drive",
+            "alien-invasion",
+            "political-intrigue"
+          ],
+          "mood_and_tone": [
+            "optimistic",
+            "adventurous",
+            "tense",
+            "dramatic",
+            "hopeful"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "space-opera",
+            "military-adventure",
+            "prequel"
+          ],
+          "setting": [
+            "space",
+            "22nd-century",
+            "earth",
+            "alternate-timeline"
+          ],
+          "character_archetypes": [
+            "intrepid-captain",
+            "brilliant-scientist",
+            "stoic-officer",
+            "diplomatic-liaison"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "warp-core",
+            "starfleet-uniform",
+            "nx-01-enterprise",
+            "temporal-prime-directive"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Star Trek: Enterprise explores themes of human ambition and cultural understanding as it chronicles the early days of space exploration and the formation of the Federation in a dramatic science-fiction setting."
+      },
+      "duration_seconds": 87.39989113807678
+    }
+  }
+}

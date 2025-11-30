@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Barbie: It Takes Two",
+    "overview": "Barbie \"Malibu\" Roberts and Barbie \"Brooklyn\" Roberts chase their dreams of musical stardom.",
+    "genres": [
+      "Family",
+      "Kids",
+      "Animation"
+    ],
+    "release_year": 2022,
+    "vote_count": 65
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Barbie: It Takes Two is a vibrant, animated musical adventure geared towards a family audience. The series follows two distinct Barbie characters, Malibu and Brooklyn, who discover they are magically connected and must work together to overcome obstacles and achieve their dreams of musical stardom. The show emphasizes themes of friendship, perseverance, and embracing individuality, all wrapped in a cheerful and colorful package. It's a lighthearted and optimistic series designed for younger viewers and their families.",
+        "spoiler_rich_plot_summary": "The story begins with Malibu Barbie, a free-spirited surfer girl, and Brooklyn Barbie, a driven and ambitious aspiring singer, living seemingly separate lives. Through a magical mishap involving a mysterious music box, they discover they have switched bodies. Forced to navigate each other's worlds and challenges, they must learn to understand and appreciate their differences while working together to reverse the spell. Along the way, they encounter various obstacles, including rival performers and misunderstandings within their families and friend groups. The journey tests their friendship and forces them to confront their own insecurities and ambitions. Ultimately, they learn the importance of teamwork, self-acceptance, and the power of believing in oneself, leading to a triumphant resolution where they restore their original forms and achieve their individual dreams.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "self-discovery",
+            "perseverance",
+            "family-values",
+            "musical-ambition",
+            "embracing-differences"
+          ],
+          "plot_and_concepts": [
+            "body-swap",
+            "magical-realism",
+            "musical-numbers",
+            "coming-of-age",
+            "rivalry"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "optimistic",
+            "cheerful",
+            "lighthearted",
+            "vibrant"
+          ],
+          "genre_and_tropes": [
+            "family-film",
+            "animated-musical",
+            "coming-of-age-story",
+            "found-family"
+          ],
+          "setting": [
+            "california",
+            "modern-day",
+            "beach-setting"
+          ],
+          "character_archetypes": [
+            "optimistic-heroine",
+            "driven-protagonist",
+            "supportive-friend"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-children"
+          ],
+          "detail_plot": [
+            "musical-performance",
+            "beach-scene",
+            "magical-music-box"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Barbie: It Takes Two is a vibrant, animated musical adventure for families, exploring themes of friendship and self-discovery through a magical body-swap and a journey towards achieving musical dreams."
+      },
+      "duration_seconds": 57.98225212097168
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "input_data": {
+    "title": "The Stand",
+    "overview": "In a world mostly wiped out by the plague and embroiled in an elemental struggle between good and evil, the fate of mankind rests on the frail shoulders of the 108-year-old Mother Abagail and a handful of survivors. Their worst nightmares are embodied in a man with a lethal smile and unspeakable powers: Randall Flagg, the Dark Man.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "release_year": 2020,
+    "vote_count": 575
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Stand is a sprawling post-apocalyptic drama blending science fiction and fantasy elements to explore themes of good versus evil and the rebuilding of society. The series follows a group of survivors of a devastating plague as they are drawn into a conflict between a benevolent, elderly woman and a charismatic, malevolent figure. It's a character-driven narrative with a focus on moral choices and the fragility of human civilization, offering a blend of suspense, spiritual exploration, and large-scale societal rebuilding. The series examines the nature of faith, leadership, and the enduring struggle between hope and despair in the face of unimaginable loss.",
+        "spoiler_rich_plot_summary": "The story begins with a deadly superflu, known as Captain Trips, wiping out 99.4% of the world's population. As survivors emerge, they are drawn to two opposing forces: Mother Abagail, a prophet in Hemingford Home, Nebraska, and Randall Flagg, a demonic figure operating from Las Vegas. The survivors, including Stu Redman, Frannie Goldsmith, Larry Underwood, and others, grapple with the trauma of loss and the responsibility of rebuilding. Stu and Larry embark on perilous journeys, facing dangers both natural and supernatural, while Frannie becomes pregnant and faces her own challenges. Randall Flagg consolidates power in Las Vegas, establishing a totalitarian regime and attracting followers with promises of strength and security. A confrontation between the forces of good and evil becomes inevitable, culminating in a final showdown that will determine the future of humanity. The survivors must confront their own demons and make difficult choices to defeat Flagg and establish a new world order, though the scars of the past remain deeply embedded.",
+        "categorized_keywords": {
+          "themes": [
+            "good-vs-evil",
+            "post-apocalypse",
+            "faith",
+            "redemption",
+            "hope",
+            "despair",
+            "moral-choice",
+            "societal-rebuilding"
+          ],
+          "plot_and_concepts": [
+            "plague-outbreak",
+            "superflu",
+            "prophecy",
+            "totalitarianism",
+            "dark-man",
+            "spiritual-conflict"
+          ],
+          "mood_and_tone": [
+            "grim",
+            "suspenseful",
+            "spiritual",
+            "hopeful",
+            "dark"
+          ],
+          "genre_and_tropes": [
+            "post-apocalyptic",
+            "science-fiction",
+            "fantasy",
+            "dystopian",
+            "chosen-one"
+          ],
+          "setting": [
+            "united-states",
+            "nebraska",
+            "las-vegas",
+            "post-apocalyptic-world"
+          ],
+          "character_archetypes": [
+            "prophet",
+            "anti-hero",
+            "reluctant-hero",
+            "dark-lord"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "quest-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "plague-symptoms",
+            "mother-abagail",
+            "randall-flagg",
+            "las-vegas-casino",
+            "haunted-house"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "death-and-grief"
+          ]
+        },
+        "keyword_sentence": "The Stand explores themes of good versus evil in a grim and suspenseful post-apocalyptic world, where survivors grapple with faith and moral choices as they rebuild society after a devastating plague."
+      },
+      "duration_seconds": 71.66601467132568
+    }
+  }
+}

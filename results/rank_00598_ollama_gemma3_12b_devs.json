@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Devs",
+    "overview": "Young computer engineer Lily Chan investigates the secretive development division of her employer, a cutting-edge tech company based in San Francisco, which she believes is behind the murder of her boyfriend.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2020,
+    "vote_count": 492
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Devs is a slow-burn, cerebral science fiction drama exploring themes of free will, determinism, and the ethical implications of advanced technology. The series follows a young engineer as she investigates a secretive tech company, uncovering a complex and unsettling reality that challenges her understanding of time and causality. With a deliberate pace and visually striking aesthetic, Devs offers a thought-provoking and unsettling exploration of corporate power, technological advancement, and the nature of reality itself. The series blends elements of mystery, thriller, and philosophical inquiry, creating a unique and captivating viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Lily Chan, a software engineer, grieving the sudden death of her boyfriend, Sergei. Suspecting foul play and believing his death is linked to Amaya, a powerful tech company, she joins the company's secretive development division, known as 'Devs,' led by the enigmatic Forest. As Lily delves deeper, she discovers that Devs has created a sophisticated quantum computer capable of perfectly recreating past events, effectively allowing them to observe and predict the future. Forest believes this technology is essential for preventing catastrophic events, but Lily questions the morality of manipulating time and the implications for free will. The series explores the history of Amaya and its founder, Forest’s father, and reveals a tragic event that shaped his worldview and drove him to create Devs. Lily’s investigation leads her to confront the deterministic nature of the system and the possibility that her own actions are predetermined. The narrative culminates in a confrontation with Forest, where Lily must grapple with the implications of the technology and her own role within the system, ultimately questioning the very nature of choice and consequence.",
+        "categorized_keywords": {
+          "themes": [
+            "free-will",
+            "determinism",
+            "corporate-power",
+            "technology-ethics",
+            "grief",
+            "loss",
+            "revenge"
+          ],
+          "plot_and_concepts": [
+            "quantum-computing",
+            "time-travel",
+            "simulation-theory",
+            "mystery",
+            "corporate-espionage",
+            "revenge-plot"
+          ],
+          "mood_and_tone": [
+            "cerebral",
+            "dark",
+            "unsettling",
+            "slow-burn",
+            "atmospheric"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "drama",
+            "mystery",
+            "thriller",
+            "techno-thriller"
+          ],
+          "setting": [
+            "san-francisco",
+            "modern-day",
+            "high-tech-facility"
+          ],
+          "character_archetypes": [
+            "enigmatic-leader",
+            "grieving-protagonist",
+            "corporate-villain",
+            "reluctant-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "quantum-computer",
+            "amaya-hq",
+            "forest-office",
+            "simulation-room"
+          ],
+          "maturity_and_content": [
+            "philosophical-themes"
+          ]
+        },
+        "keyword_sentence": "Devs is a dark and unsettling science fiction drama set in modern-day San Francisco, exploring themes of free will and corporate power through a slow-burn mystery centered on a quantum computer capable of recreating the past."
+      },
+      "duration_seconds": 88.81663250923157
+    }
+  }
+}

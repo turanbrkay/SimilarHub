@@ -1,0 +1,68 @@
+{
+  "input_data": {
+    "title": "Snorks",
+    "overview": "The Snorks is an animated television series produced by Hanna-Barbera which ran on NBC from September 15, 1984, to May 13, 1989. Although not as popular as the animated series The Smurfs, the program continued to be available in syndication from 1986 to 1989 as part of The Funtastic World of Hanna-Barbera's 3rd season, on USA Network in the late-1980s and early-1990s, on the BBC in the late 1990s, and from 2009–2011 and again from 2012–Present on Boomerang.",
+    "genres": [
+      "Family",
+      "Animation"
+    ],
+    "release_year": 1984,
+    "vote_count": 41
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Snorks is a lighthearted animated series aimed at a family audience, drawing inspiration from the success of The Smurfs. The show centers on a community of small, snorkel-wearing creatures living in an underwater world. It emphasizes friendship, problem-solving, and exploring the wonders of their environment, offering a gentle and optimistic viewing experience. While the series maintains a simple narrative structure, it provides a safe and entertaining space for younger viewers to engage with themes of community and discovery.",
+        "spoiler_rich_plot_summary": "The series follows the Snorks, a race of small, aquatic creatures who live in Snorkland, an underwater civilization. The main characters, including Allstar Snork, Dingle, and Casey, frequently encounter challenges and adventures as they explore their world and interact with other underwater species. Recurring conflicts arise from interactions with surface dwellers and occasional misunderstandings within the Snork community. Throughout the series, the Snorks learn valuable lessons about friendship, responsibility, and the importance of protecting their environment. While the series maintains a generally lighthearted tone, it occasionally explores themes of environmentalism and the consequences of human interference.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "community",
+            "environmentalism",
+            "discovery",
+            "responsibility"
+          ],
+          "plot_and_concepts": [
+            "underwater-civilization",
+            "exploration",
+            "coming-of-age"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "optimistic",
+            "wholesome",
+            "family-friendly"
+          ],
+          "genre_and_tropes": [
+            "animated-series",
+            "fantasy",
+            "childrens-entertainment"
+          ],
+          "setting": [
+            "underwater-world",
+            "snorkland"
+          ],
+          "character_archetypes": [
+            "child-hero",
+            "loyal-friend"
+          ],
+          "narrative_style": [
+            "episodic-format"
+          ],
+          "target_audience": [
+            "children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "snorkels",
+            "underwater-city",
+            "snork-vehicles"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Snorks is a lighthearted animated series for families, following a community of snorkel-wearing creatures as they explore their underwater world and learn about friendship and responsibility."
+      },
+      "duration_seconds": 45.64325928688049
+    }
+  }
+}

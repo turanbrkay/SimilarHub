@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "Peter Kay's Car Share",
+    "overview": "John Redmond and Kayleigh Kitson have been thrown together in a company car share scheme, forcing their paths to cross. Each trip brings fresh insight into John and Kayleigh's lives, with twists and turns in their unlikely relationship.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2015,
+    "vote_count": 32
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Peter Kay's Car Share is a British sitcom centered around an unlikely carpooling arrangement between two employees of a supermarket. The series blends observational humor with a gentle, developing relationship between the two main characters, exploring themes of friendship, workplace dynamics, and personal growth. The show's charm lies in its relatable situations, witty dialogue, and the understated chemistry between the leads, offering a lighthearted and comforting viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with John Redmond, a manager at a supermarket, reluctantly agreeing to a car share scheme with Kayleigh Kitson, an employee transferring from another branch. Initially, their conversations are mundane and filled with awkward silences, but gradually, they begin to connect, sharing personal stories and offering each other support. As their relationship deepens, John faces professional challenges and personal struggles, while Kayleigh navigates her own life changes. The series explores the complexities of their evolving friendship, hinting at a potential romantic connection that remains delicately unresolved. The final episode sees a significant shift in their circumstances, forcing them to confront their feelings and make a difficult decision about their future together, leaving their relationship’s ultimate trajectory open to interpretation.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "workplace-dynamics",
+            "personal-growth",
+            "relationship-development",
+            "everyday-life"
+          ],
+          "plot_and_concepts": [
+            "carpool",
+            "situational-comedy",
+            "workplace-romance",
+            "slow-burn-romance"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comforting",
+            "observational-humor"
+          ],
+          "genre_and_tropes": [
+            "british-comedy",
+            "sitcom",
+            "romantic-comedy"
+          ],
+          "setting": [
+            "modern-day",
+            "northern-england",
+            "supermarket"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "everyman",
+            "quirky-character"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "car-stereo",
+            "supermarket-aisle",
+            "work-uniform",
+            "office-cubicle"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Peter Kay's Car Share is a lighthearted British sitcom that explores themes of friendship and everyday life through the evolving relationship of two supermarket employees navigating a carpool arrangement."
+      },
+      "duration_seconds": 69.75818228721619
+    }
+  }
+}

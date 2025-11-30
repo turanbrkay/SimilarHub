@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "The Streets of San Francisco",
+    "overview": "Two police officers, the older Lt. Stone and the young upstart Inspector Keller, investigate murders and other serious crimes in San Francisco. Stone would become a second father to Keller as he learned the rigors and procedures of detective work.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Action & Adventure"
+    ],
+    "release_year": 1972,
+    "vote_count": 75
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Streets of San Francisco is a police procedural drama that blends action and adventure with a mentorship dynamic at its core. The series follows a seasoned Lieutenant and a younger Inspector as they navigate the criminal underworld of San Francisco, balancing intense investigations with a developing father-son relationship. The show offers a nostalgic look at 1970s law enforcement, emphasizing both the procedural aspects of crime-solving and the personal growth of its protagonists. It's a character-driven series with a focus on the complexities of justice and the importance of guidance. The show's blend of action and drama appeals to a broad audience seeking both thrilling cases and compelling human connections.",
+        "spoiler_rich_plot_summary": "The series begins with Lieutenant Mike Stone, a veteran of the San Francisco Police Department, partnering with Inspector Danny Keller, a young and ambitious officer eager to prove himself. Throughout the initial seasons, they tackle a variety of cases ranging from organized crime and drug trafficking to murder and kidnapping, often encountering morally ambiguous situations that challenge their perspectives. Danny learns the ropes of police work under Stone's tutelage, gaining experience and developing a deeper understanding of the city's underbelly. As the series progresses, the partnership evolves beyond a simple mentor-mentee relationship, becoming a close friendship built on mutual respect and shared experiences. While the cases themselves are often self-contained, recurring antagonists and underlying criminal networks emerge, creating a sense of ongoing threat. The series explores themes of corruption within the police force and the challenges of maintaining justice in a complex urban environment. While individual cases resolve, the overarching narrative focuses on Danny's growth as a detective and his deepening bond with Mike, culminating in a mature and experienced officer ready to face the future.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "mentorship",
+            "police-work",
+            "urban-crime",
+            "friendship",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "crime-procedural",
+            "police-investigation",
+            "partner-dynamic",
+            "mentor-protégé"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "procedural",
+            "nostalgic",
+            "serious"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "buddy-cop",
+            "police-procedural"
+          ],
+          "setting": [
+            "san-francisco",
+            "1970s",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "seasoned-detective",
+            "young-protagonist",
+            "mentor-figure"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "police-car",
+            "crime-scene",
+            "interrogation-room",
+            "city-skyline"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Set in 1970s San Francisco, The Streets of San Francisco is a gritty crime drama that explores themes of justice and mentorship through the partnership of a seasoned detective and a young protagonist navigating the complexities of police work."
+      },
+      "duration_seconds": 65.89652895927429
+    }
+  }
+}

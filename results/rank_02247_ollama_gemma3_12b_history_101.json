@@ -1,0 +1,65 @@
+{
+  "input_data": {
+    "title": "History 101",
+    "overview": "Infographics and archival footage deliver bite-size history lessons on scientific breakthroughs, social movements and world-changing discoveries.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2020,
+    "vote_count": 80
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "History 101 is a documentary series that presents historical events and concepts in a visually engaging and accessible format. Utilizing infographics, archival footage, and concise explanations, the series aims to educate viewers on a wide range of topics, from scientific advancements to social movements. The show's strength lies in its ability to distill complex historical narratives into easily digestible segments, making history approachable for a broad audience. It offers a blend of educational content and dynamic presentation, appealing to those seeking a quick and informative overview of significant historical moments.",
+        "spoiler_rich_plot_summary": "The series doesn't follow a traditional narrative arc, but rather presents a series of standalone episodes, each focusing on a distinct historical topic. Episodes explore pivotal moments in science, such as the development of penicillin and the discovery of DNA, alongside significant social movements like the Civil Rights Movement and the women's suffrage movement. Archival footage and animated infographics illustrate the context and impact of these events, providing a visual and informative journey through history. The series aims to highlight the interconnectedness of historical events and their lasting influence on the modern world, demonstrating how past discoveries and struggles have shaped our present reality. While each episode stands alone, a recurring theme is the exploration of human ingenuity, perseverance, and the ongoing quest for knowledge and progress.",
+        "categorized_keywords": {
+          "themes": [
+            "knowledge-quest",
+            "scientific-discovery",
+            "social-progress",
+            "historical-impact",
+            "human-ingenuity"
+          ],
+          "plot_and_concepts": [
+            "infographics",
+            "archival-footage",
+            "bite-size-lessons",
+            "educational-content"
+          ],
+          "mood_and_tone": [
+            "informative",
+            "engaging",
+            "accessible",
+            "neutral"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "educational-series"
+          ],
+          "setting": [
+            "global-history",
+            "modern-era"
+          ],
+          "character_archetypes": [],
+          "narrative_style": [
+            "episodic",
+            "non-linear"
+          ],
+          "target_audience": [
+            "general-audience",
+            "students"
+          ],
+          "detail_plot": [
+            "infographic-design",
+            "archival-film",
+            "timeline-graphics"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "History 101 delivers accessible and engaging lessons on global history through infographics and archival footage, exploring themes of scientific discovery and social progress for a general audience."
+      },
+      "duration_seconds": 51.97469186782837
+    }
+  }
+}

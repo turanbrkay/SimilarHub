@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Review",
+    "overview": "A review of a movie, or a restaurant, or a car—or whatever else that typically falls under a critic's domain—is all well and good, and can even be helpful at times. But how can one find out about myriad other experiences that are never tackled in reviews? Enter Forrest MacNeil, a critic who goes beyond overviews of life's more-common subjects—way beyond—to satisfy the curiosity of others: The adrenaline rush of stealing; the danger of drug addiction; the delight of sleeping with a celebrity. MacNeil tries anything suggested by viewers of his TV show, then presents a 1-to-5-star review. But his unwavering commitment to experiencing intense adventures means he must deal with the unintended consequences of such a goal.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2014,
+    "vote_count": 39
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Review is a darkly comedic television series centered on a critic who subjects himself to extreme experiences suggested by his audience, then reviews them on television. The show explores themes of voyeurism, the pursuit of experience, and the blurring lines between entertainment and genuine suffering. Its unique premise allows for a wide range of scenarios, blending elements of comedy, drama, and social commentary, offering a provocative and often unsettling viewing experience. The series examines the lengths people will go to for entertainment and the potential consequences of seeking out extreme experiences.",
+        "spoiler_rich_plot_summary": "The series begins with Forrest MacNeil, a television critic, establishing a novel format: he reviews experiences suggested by his viewers. Initially, these suggestions are relatively benign, but as the show progresses, Forrest’s audience requests increasingly dangerous and morally questionable activities, ranging from petty theft to drug use and even sexual encounters with celebrities. Forrest meticulously documents each experience, offering his candid and often brutally honest assessments. As he delves deeper into these extreme scenarios, he grapples with the ethical implications of his actions and the impact they have on himself and those around him. The series follows Forrest’s descent into a world of increasingly risky behavior, blurring the lines between professional obligation and personal exploitation, ultimately questioning the nature of entertainment and the human desire for sensationalism. The consequences of his choices begin to mount, impacting his relationships and forcing him to confront the darker aspects of his own character.",
+        "categorized_keywords": {
+          "themes": [
+            "voyeurism",
+            "experience-seeking",
+            "ethics",
+            "sensationalism",
+            "moral-ambiguity",
+            "consequences",
+            "entertainment-industry"
+          ],
+          "plot_and_concepts": [
+            "criticism",
+            "viewer-suggestions",
+            "social-experiment",
+            "taboo-exploration",
+            "dark-comedy"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "provocative",
+            "unsettling",
+            "satirical",
+            "cynical"
+          ],
+          "genre_and_tropes": [
+            "satirical-comedy",
+            "black-comedy",
+            "social-commentary",
+            "anti-hero"
+          ],
+          "setting": [
+            "modern-day",
+            "television-industry"
+          ],
+          "character_archetypes": [
+            "critic",
+            "anti-hero",
+            "voyeur"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "television-studio",
+            "critic-review",
+            "viewer-suggestion"
+          ],
+          "maturity_and_content": [
+            "drug-abuse",
+            "sexual-content",
+            "graphic-content"
+          ]
+        },
+        "keyword_sentence": "Review is a darkly comedic series that satirically explores the ethics of experience-seeking and the entertainment industry through the lens of a critic who undertakes viewer-suggested challenges, often involving taboo subjects and graphic content."
+      },
+      "duration_seconds": 56.70690202713013
+    }
+  }
+}

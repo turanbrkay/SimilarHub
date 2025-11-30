@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "O.J.: Made in America",
+    "overview": "The rise and fall of American football star, O.J. Simpson, from his days growing up in Los Angeles to his murder trial that polarized the country.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2016,
+    "vote_count": 32
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "O.J.: Made in America is a sprawling, five-part documentary series that examines the life and career of O.J. Simpson, culminating in his infamous 1994 murder trial. The series delves into the complex social and racial dynamics of Los Angeles, exploring how Simpson's rise to fame was intertwined with systemic issues of race, class, and celebrity. It offers a nuanced portrait of a man and the cultural landscape that shaped him, questioning the nature of justice and the American obsession with celebrity. The documentary is less a straightforward biography and more a cultural autopsy, dissecting the forces that contributed to Simpson's downfall and the nation's reaction to it. It's a deeply unsettling and thought-provoking exploration of American history and the enduring legacy of racial inequality.",
+        "spoiler_rich_plot_summary": "The documentary begins by tracing O.J. Simpson's childhood in San Francisco and his subsequent rise to football stardom, highlighting his charisma and popularity. It then explores his early career in Los Angeles, detailing his endorsement deals and his growing status as a cultural icon. The series examines his tumultuous marriages, particularly his relationship with Nicole Brown Simpson, and the escalating incidents of domestic violence that were often shielded from public view. The narrative then shifts to the 1994 murders of Nicole Brown Simpson and Ronald Goldman, and the subsequent police investigation and Simpson's arrest. The trial itself is meticulously reconstructed, showcasing the legal strategies employed by both the prosecution and the defense, and the intense media coverage that surrounded the proceedings. The documentary reveals how Simpson was acquitted of the murders, but later found liable in a civil trial. The final episodes explore Simpson's life after the trials, including his infamous 2007 robbery and kidnapping conviction, and his subsequent imprisonment and release, ultimately portraying a tragic figure whose life was irrevocably shaped by privilege, fame, and the complexities of race in America.",
+        "categorized_keywords": {
+          "themes": [
+            "race-relations",
+            "celebrity-culture",
+            "privilege",
+            "domestic-violence",
+            "justice-system",
+            "fame",
+            "american-dream",
+            "social-inequality"
+          ],
+          "plot_and_concepts": [
+            "true-crime",
+            "legal-drama",
+            "documentary-film",
+            "trial-coverage",
+            "police-investigation"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "unsettling",
+            "reflective",
+            "critical",
+            "analytical"
+          ],
+          "genre_and_tropes": [
+            "true-crime-documentary",
+            "social-commentary",
+            "investigative-journalism"
+          ],
+          "setting": [
+            "los-angeles",
+            "1990s-america",
+            "american-courtroom"
+          ],
+          "character_archetypes": [
+            "fallen-hero",
+            "victim",
+            "legal-defense",
+            "police-detective"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "investigative-report",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "american-football",
+            "courtroom-scene",
+            "police-evidence",
+            "television-coverage"
+          ],
+          "maturity_and_content": [
+            "domestic-violence",
+            "murder",
+            "graphic-violence"
+          ]
+        },
+        "keyword_sentence": "O.J.: Made in America is a somber documentary that critically examines the life of a fallen hero and the complex intersection of race, celebrity, and the American justice system in 1990s Los Angeles."
+      },
+      "duration_seconds": 93.09002709388733
+    }
+  }
+}

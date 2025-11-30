@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "The Last Dance",
+    "overview": "A 10-part documentary chronicling the untold story of Michael Jordan and the Chicago Bulls dynasty with rare, never-before-seen footage and sound from the 1997-98 championship season – plus over 100 interviews with famous figures and basketball’s biggest names.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2020,
+    "vote_count": 1144
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Last Dance is a compelling documentary series offering an unprecedented look into the Chicago Bulls' 1997-98 season and the broader legacy of Michael Jordan. Through extensive archival footage and interviews, the series explores the team's internal dynamics, the pressures of maintaining a dynasty, and the personal stories of key players and coaches. It's a blend of sports drama, behind-the-scenes access, and a reflection on the nature of ambition and success. The series examines the complexities of leadership, the weight of expectations, and the sacrifices required to achieve greatness. Ultimately, it's a portrait of a team at the peak of its power, facing both internal and external challenges.",
+        "spoiler_rich_plot_summary": "The documentary begins by establishing Michael Jordan's early career and his rise to prominence, highlighting his collegiate success and early NBA struggles. It then delves into the Bulls' early dynasty years, showcasing their initial championships and the growing tensions within the team, particularly surrounding Scottie Pippen's contract disputes and Phil Jackson's coaching style. The series chronicles the team's struggles in the mid-90s, including Jordan's brief retirement and return, and the subsequent quest to reclaim their dominance. The 1997-98 season is presented as a culmination of years of hard work and sacrifice, with the documentary revealing the internal conflicts and personal struggles that threatened to derail their championship aspirations. The series culminates in the Bulls' triumphant victory in the 1998 NBA Finals, but also foreshadows the team's eventual disbanding and the end of an era, leaving a poignant reflection on the fleeting nature of greatness.",
+        "categorized_keywords": {
+          "themes": [
+            "sports-dynasty",
+            "leadership",
+            "ambition",
+            "sacrifice",
+            "teamwork",
+            "legacy",
+            "competition",
+            "pressure"
+          ],
+          "plot_and_concepts": [
+            "documentary-film",
+            "behind-the-scenes",
+            "sports-biography",
+            "rivalry",
+            "championship-pursuit"
+          ],
+          "mood_and_tone": [
+            "inspirational",
+            "reflective",
+            "triumphant",
+            "intense",
+            "nostalgic"
+          ],
+          "genre_and_tropes": [
+            "sports-documentary",
+            "biographical-drama",
+            "rags-to-riches",
+            "underdog-story"
+          ],
+          "setting": [
+            "1990s",
+            "chicago-illinois",
+            "nba-arena"
+          ],
+          "character_archetypes": [
+            "athlete",
+            "coach",
+            "team-leader",
+            "rival"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "oral-history",
+            "flashback"
+          ],
+          "target_audience": [
+            "sports-fans",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "nba-championship-ring",
+            "bulls-uniform",
+            "phil-jackson-triangle-offense",
+            "michael-jordan-signature-shoes"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Last Dance is an inspirational sports documentary that explores the rise and fall of the Chicago Bulls dynasty, revealing the ambition, sacrifice, and intense pressure that defined Michael Jordan’s legendary career and the pursuit of a championship."
+      },
+      "duration_seconds": 67.43186545372009
+    }
+  }
+}

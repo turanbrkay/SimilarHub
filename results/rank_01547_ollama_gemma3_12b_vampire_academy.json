@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Vampire Academy",
+    "overview": "In a world of privilege and glamour, two young women’s friendship transcends their strikingly different classes as they prepare to complete their education and enter royal vampire society. Based on the young adult novels by Richelle Mead.",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2022,
+    "vote_count": 136
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Vampire Academy is a young adult drama series blending fantasy, romance, and coming-of-age themes within a stylized vampire society. The narrative centers on the complex relationship between two young women, one a princess and the other her protector, as they navigate a world of privilege, danger, and ancient traditions. The series explores themes of friendship, loyalty, and identity against a backdrop of political intrigue and supernatural threats. It offers a visually rich and emotionally engaging experience, appealing to fans of fantasy and romance with a focus on character development and interpersonal dynamics.",
+        "spoiler_rich_plot_summary": "The series follows Rose Hathaway, a Dhampir (half-vampire) and skilled warrior, as she trains to protect her best friend, Lissa Dragomir, a Moroi (peaceful, magic-wielding vampire) and heir to the throne. Lissa is being hunted by Strigoi (evil, undead vampires) who seek to destroy the Moroi bloodline. Rose and Lissa attend St. Vladimir’s Academy, a school for Moroi and Dhampirs, where they are under the watchful eyes of their instructors and fellow students. As they progress through their education, they uncover a conspiracy within the academy and the wider vampire community, revealing that some individuals are secretly aiding the Strigoi. Rose and Lissa’s friendship is tested as they confront betrayals and dangerous missions, ultimately leading them to a confrontation with the forces threatening their world. The series culminates in a battle for the future of the Moroi, where Rose and Lissa must use their skills and courage to protect their loved ones and preserve their way of life.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "loyalty",
+            "identity-quest",
+            "coming-of-age",
+            "social-hierarchy",
+            "good-vs-evil"
+          ],
+          "plot_and_concepts": [
+            "vampire-politics",
+            "magic-system",
+            "coming-of-age-story",
+            "royal-family",
+            "secret-society"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "romantic",
+            "suspenseful",
+            "stylized"
+          ],
+          "genre_and_tropes": [
+            "young-adult",
+            "fantasy",
+            "romance",
+            "coming-of-age-story",
+            "boarding-school-setting"
+          ],
+          "setting": [
+            "boarding-school",
+            "alternate-timeline",
+            "european-setting"
+          ],
+          "character_archetypes": [
+            "protector",
+            "princess",
+            "reluctant-hero",
+            "mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult"
+          ],
+          "detail_plot": [
+            "dhampir-training",
+            "moroi-magic",
+            "strigoi-attack",
+            "royal-ball",
+            "vampire-academy"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "emotional-trauma"
+          ]
+        },
+        "keyword_sentence": "Vampire Academy is a stylized young adult drama series exploring themes of friendship and loyalty within a world of vampire politics and magic, set in a boarding school where a princess and her protector confront danger and uncover secrets."
+      },
+      "duration_seconds": 71.22556924819946
+    }
+  }
+}

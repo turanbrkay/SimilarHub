@@ -1,0 +1,85 @@
+{
+  "input_data": {
+    "title": "Farscape",
+    "overview": "A freak accident during an experimental space mission catapults Astronaut John Crichton across a thousand galaxies to an alien battlefield.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "release_year": 1999,
+    "vote_count": 449
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Farscape is a science fiction adventure series that blends space opera with a strong emphasis on character development and found-family dynamics. The show follows an astronaut accidentally flung across the universe, forcing him to navigate a complex web of alien cultures and conflicts. It distinguishes itself through its innovative use of practical effects, a diverse cast of alien characters, and a willingness to explore morally ambiguous situations. The series offers a unique blend of action, humor, and pathos, creating a compelling narrative about survival, belonging, and the search for home.",
+        "spoiler_rich_plot_summary": "The series begins with astronaut John Crichton being hurled across the universe during an experimental flight. He finds himself aboard Moya, a living bio-ship, and becomes entangled with a group of escaped prisoners: Ka D'Argo, a Luxan warrior; Aeryn Sun, a Peacekeeper; Chiana, a Nebari; Rygel XVI, a Dominar; and Pilot, an insectoid being linked to Moya. They are relentlessly pursued by the Peacekeepers, led by Commander Zhaan and Captain Bialar, who seek to return Aeryn and eliminate Moya. Crichton's presence disrupts the established order, and he gradually learns to adapt to his new reality, forming complex relationships with his companions. Throughout the series, the crew faces numerous threats, including the Scorpius, a cunning and ruthless former Peacekeeper obsessed with Crichton's unique physiology. The crew's journey takes them across numerous star systems, encountering diverse alien civilizations and uncovering ancient secrets. As the series progresses, Crichton's knowledge of Earth technology becomes increasingly valuable, leading to conflicts over its use. The crew confronts betrayals, losses, and difficult choices as they strive to find a place for themselves in the vastness of space, ultimately facing a final confrontation with forces that threaten the entire galaxy.",
+        "categorized_keywords": {
+          "themes": [
+            "survival",
+            "found-family",
+            "identity-quest",
+            "redemption",
+            "cultural-clash",
+            "loss",
+            "hope"
+          ],
+          "plot_and_concepts": [
+            "space-opera",
+            "biotech",
+            "political-intrigue",
+            "wormhole-travel",
+            "living-ship",
+            "teleportation"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "adventurous",
+            "hopeful",
+            "somber",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "space-western",
+            "fish-out-of-water",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "distant-galaxy",
+            "space-station",
+            "alien-planet",
+            "alternate-timeline"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "rogue",
+            "wise-mentor",
+            "anti-hero",
+            "skilled-warrior"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-adventure"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "moya-bioship",
+            "scorpius-scheme",
+            "peacekeeper-uniform",
+            "nebari-technology",
+            "dominar-throne"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "sexual-content"
+          ]
+        },
+        "keyword_sentence": "Farscape is a darkly comic science fiction adventure series set in a distant galaxy, exploring themes of survival, found family, and cultural clash through the journey of a reluctant hero and his diverse crew as they navigate political intrigue and face formidable adversaries."
+      },
+      "duration_seconds": 84.72644829750061
+    }
+  }
+}

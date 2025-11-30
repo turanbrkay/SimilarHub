@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Combat!",
+    "overview": "Combat! is an American television program that originally aired on ABC from 1962 until 1967. The show covered the grim lives of a squad of American soldiers fighting the Germans in France during World War II. The program starred Rick Jason as platoon leader Second Lieutenant Gil Hanley and Vic Morrow as Sergeant \"Chip\" Saunders.",
+    "genres": [
+      "War & Politics",
+      "Drama"
+    ],
+    "release_year": 1962,
+    "vote_count": 92
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Combat! is a historical drama series depicting the experiences of American soldiers fighting in France during World War II. The show focuses on the daily struggles, camaraderie, and psychological toll of war, eschewing grand battles in favor of a more grounded and intimate portrayal of combat. It explores themes of duty, sacrifice, and the human cost of conflict, offering a somber and realistic look at the war through the eyes of a platoon. The series blends elements of war drama and character study, emphasizing the bonds formed between soldiers facing extraordinary circumstances.",
+        "spoiler_rich_plot_summary": "The series follows the exploits of Lieutenant Gil Hanley and Sergeant 'Chip' Saunders and their platoon as they fight their way across France during World War II. Initially, Hanley is a young, inexperienced officer struggling to command his men, while Saunders is a seasoned veteran providing a pragmatic perspective. Throughout the war, the platoon faces constant danger, encountering German patrols, ambushes, and the challenges of navigating occupied territory. Relationships within the platoon evolve as they endure hardship and loss, forging strong bonds of loyalty and friendship. The series chronicles their journey through various campaigns, showcasing the brutal realities of war and the emotional impact on the soldiers involved. While the overall war effort progresses, individual soldiers grapple with personal demons and the moral complexities of combat, ultimately contributing to a collective narrative of resilience and sacrifice.",
+        "categorized_keywords": {
+          "themes": [
+            "war-and-sacrifice",
+            "duty-and-honor",
+            "camaraderie",
+            "loss-and-grief",
+            "moral-ambiguity",
+            "post-traumatic-stress"
+          ],
+          "plot_and_concepts": [
+            "military-unit",
+            "occupation-era",
+            "guerrilla-warfare",
+            "search-and-destroy",
+            "prisoner-of-war"
+          ],
+          "mood_and_tone": [
+            "grim",
+            "somber",
+            "realistic",
+            "tense",
+            "melancholy"
+          ],
+          "genre_and_tropes": [
+            "war-drama",
+            "historical-fiction",
+            "military-procedural"
+          ],
+          "setting": [
+            "france",
+            "world-war-ii",
+            "european-theater",
+            "rural-landscape"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "seasoned-veteran",
+            "young-officer",
+            "moral-compass"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "episodic-structure"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "military-uniform",
+            "german-helmet",
+            "foxhole",
+            "field-hospital",
+            "jeep"
+          ],
+          "maturity_and_content": [
+            "graphic-violence"
+          ]
+        },
+        "keyword_sentence": "Combat! is a grim and realistic war drama series set in France during World War II, exploring themes of duty, sacrifice, and the enduring bonds of camaraderie among a platoon of American soldiers facing the brutal realities of combat."
+      },
+      "duration_seconds": 66.06187772750854
+    }
+  }
+}

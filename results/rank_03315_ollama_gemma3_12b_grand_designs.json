@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Grand Designs",
+    "overview": "British television series which features unusual and often elaborate architectural homebuilding projects.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 1999,
+    "vote_count": 40
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Grand Designs is a long-running British documentary series that follows individuals as they embark on ambitious and often challenging self-build home projects. The show explores the complexities of architectural design, construction, and project management, highlighting both the triumphs and setbacks encountered along the way. It offers a unique blend of aspirational design, practical problem-solving, and human drama, showcasing the dedication and resilience required to realize unconventional building dreams. The series appeals to viewers interested in architecture, design, and the realities of large-scale personal endeavors.",
+        "spoiler_rich_plot_summary": "Each episode of Grand Designs typically focuses on a different individual or couple who have decided to design and build their own home. The process begins with the initial concept and site selection, often involving unusual locations or challenging terrains. Viewers witness the design development, planning permission hurdles, and the construction phase itself, which frequently encounters unexpected problems such as budget overruns, material shortages, and adverse weather conditions. The projects range in style and scale, from eco-friendly homes to modern masterpieces, and often incorporate innovative technologies and sustainable practices. While the series celebrates the creative vision of the homeowners, it also doesn't shy away from depicting the inevitable struggles and compromises required to bring their dreams to fruition. The series culminates in the completion of the home, showcasing the final result and reflecting on the journey undertaken.",
+        "categorized_keywords": {
+          "themes": [
+            "architecture-design",
+            "self-sufficiency",
+            "personal-ambition",
+            "creative-process",
+            "resilience",
+            "innovation"
+          ],
+          "plot_and_concepts": [
+            "self-build",
+            "construction-project",
+            "architectural-design",
+            "sustainable-building",
+            "budget-management"
+          ],
+          "mood_and_tone": [
+            "aspirational",
+            "observational",
+            "informative",
+            "sometimes-tense"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "reality-tv",
+            "home-improvement"
+          ],
+          "setting": [
+            "united-kingdom",
+            "rural-locations",
+            "modern-architecture"
+          ],
+          "character_archetypes": [
+            "visionary-architect",
+            "determined-homeowner",
+            "skilled-builder"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "design-enthusiasts"
+          ],
+          "detail_plot": [
+            "architectural-plans",
+            "construction-site",
+            "building-materials",
+            "planning-permission",
+            "finished-home"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Grand Designs is a British documentary series that observes ambitious homeowners as they navigate the complexities of self-build projects, showcasing innovative architectural designs and the personal resilience required to realize their dreams in the United Kingdom."
+      },
+      "duration_seconds": 54.67148303985596
+    }
+  }
+}

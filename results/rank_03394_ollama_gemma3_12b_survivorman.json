@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Survivorman",
+    "overview": "In this harrowing reality series, “Survivorman” Les Stroud travels to far-flung locales with little more than the clothes on his back and 50 pounds of camera equipment to battle - and try to survive - insanely harsh conditions.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2005,
+    "vote_count": 38
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Survivorman is a reality television series centered on survival expert Les Stroud's solo expeditions into remote and challenging environments. The show emphasizes resourcefulness, self-reliance, and the psychological toll of isolation. Each episode documents Stroud's efforts to secure food, shelter, and water while navigating extreme weather and terrain. The series blends elements of adventure, documentary, and self-sufficiency, offering a raw and often uncomfortable look at human resilience and the fragility of modern comfort.",
+        "spoiler_rich_plot_summary": "Each season of Survivorman follows Les Stroud as he is dropped into a different, often unforgiving, location – ranging from the Arctic to the Amazon rainforest. The core narrative arc of each episode revolves around his immediate struggle for survival: finding potable water, building a sustainable shelter, and securing a reliable food source. Stroud’s challenges escalate as he encounters unpredictable weather patterns, dangerous wildlife, and the psychological strain of prolonged isolation. While there isn't a traditional plot progression, the series follows a pattern of initial desperation, followed by gradual adaptation and the development of survival techniques. The overarching theme is the demonstration of human adaptability and the ability to overcome seemingly insurmountable obstacles, culminating in a testament to the power of self-reliance and the importance of respecting the natural world. The series doesn's have a final resolution, but rather a cyclical demonstration of survival skills.",
+        "categorized_keywords": {
+          "themes": [
+            "survival",
+            "self-reliance",
+            "isolation",
+            "resilience",
+            "adaptation",
+            "wilderness-exploration"
+          ],
+          "plot_and_concepts": [
+            "survival-techniques",
+            "resourcefulness",
+            "wilderness-challenge",
+            "reality-tv",
+            "solo-expedition"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "tense",
+            "isolated",
+            "challenging",
+            "observational"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "reality-tv",
+            "survival-show"
+          ],
+          "setting": [
+            "remote-wilderness",
+            "arctic",
+            "rainforest",
+            "desert",
+            "tropical-environment"
+          ],
+          "character_archetypes": [
+            "survival-expert",
+            "lone-explorer"
+          ],
+          "narrative_style": [
+            "observational-documentary",
+            "first-person-narrative"
+          ],
+          "target_audience": [
+            "adventure-seekers",
+            "outdoor-enthusiasts"
+          ],
+          "detail_plot": [
+            "fire-starting",
+            "shelter-building",
+            "water-purification",
+            "foraging",
+            "trapping"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Survivorman is a gritty reality television series that documents a survival expert’s isolated expeditions into remote wilderness environments, emphasizing self-reliance and the challenges of adapting to unforgiving conditions."
+      },
+      "duration_seconds": 54.41635274887085
+    }
+  }
+}

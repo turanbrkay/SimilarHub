@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "ALF",
+    "overview": "A furry alien wiseguy comes to live with a terran family after crashing into their garage.",
+    "genres": [
+      "Family",
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 1986,
+    "vote_count": 992
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "ALF is a sitcom centered on the unexpected arrival of a Melmacian alien, ALF, who crash-lands into the Tanner family's garage. The series blends comedic elements with heartwarming family dynamics, exploring themes of acceptance, cultural differences, and the challenges of cohabitation. ALF's sarcastic wit and mischievous antics provide constant entertainment, while the Tanner family grapples with the responsibility of harboring a fugitive from another planet. The show's enduring appeal lies in its ability to balance humor with genuine emotional connections, creating a lighthearted yet poignant portrayal of an unconventional family.",
+        "spoiler_rich_plot_summary": "The series begins with ALF, an alien from the planet Melmac, crash-landing into the Tanner family's garage in suburban California. Willie Tanner, a struggling writer, and his wife Kate, along with their children Lynn and Brian, reluctantly agree to hide ALF from the government, who are eager to study him. ALF quickly becomes a part of the family, offering sarcastic commentary and causing plenty of chaos. Throughout the series, the Tanners struggle to keep ALF's existence a secret, dealing with near-discoveries and the constant threat of exposure. ALF's presence also impacts Willie's writing career, providing both inspiration and complications. While ALF initially appears to be a comedic nuisance, the series explores his longing for his home planet and the tragic circumstances that led to his arrival on Earth. The series concludes with a bittersweet farewell as ALF seemingly returns to Melmac, leaving the Tanner family to grapple with his absence and the memories of their extraordinary experience.",
+        "categorized_keywords": {
+          "themes": [
+            "family-acceptance",
+            "cultural-differences",
+            "alien-encounter",
+            "found-family",
+            "loss-and-grief"
+          ],
+          "plot_and_concepts": [
+            "alien-invasion",
+            "fish-out-of-water",
+            "sitcom-format",
+            "government-coverup"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "nostalgic"
+          ],
+          "genre_and_tropes": [
+            "family-sitcom",
+            "sci-fi-comedy",
+            "alien-buddy-comedy"
+          ],
+          "setting": [
+            "suburban-california",
+            "1980s-setting",
+            "earth"
+          ],
+          "character_archetypes": [
+            "wise-mentor",
+            "mischievous-protagonist",
+            "family-man",
+            "quirky-teenager"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "alien-fur",
+            "tanner-garage",
+            "melmacian-diet",
+            "satellite-dish"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "ALF is a lighthearted family sitcom set in 1980s suburban California, exploring themes of acceptance and cultural differences through the comedic misadventures of an alien who finds himself living with an unconventional family."
+      },
+      "duration_seconds": 59.28625202178955
+    }
+  }
+}

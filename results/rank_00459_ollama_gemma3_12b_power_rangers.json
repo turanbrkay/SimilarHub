@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Power Rangers",
+    "overview": "A team of teenagers with attitude are recruited to save Angel Grove from the evil witch, Rita Repulsa, and later, Lord Zedd, Emperor of all he sees, and their horde of monsters.",
+    "genres": "Action & Adventure, Sci-Fi & Fantasy, Kids",
+    "release_year": 1993,
+    "vote_count": 670
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Power Rangers is a long-running action-adventure series aimed at a younger audience, blending martial arts action with fantastical elements and a strong emphasis on teamwork and friendship. The show follows a group of teenagers chosen to become powerful Rangers, tasked with defending their city from recurring threats led by a formidable villain. Its episodic structure and focus on positive messaging have contributed to its enduring popularity, while its morphing sequences and monster-of-the-week format provide consistent entertainment. The series explores themes of responsibility, courage, and the importance of unity in the face of adversity.",
+        "spoiler_rich_plot_summary": "The series begins with Rita Repulsa, an evil witch, escaping from her interdimensional prison and targeting Angel Grove, California. She seeks to conquer Earth, but is thwarted by the Power Rangers, chosen teenagers granted special abilities and powerful Zords. The Rangers battle Rita's monsters weekly, utilizing their martial arts skills and the combined power of their Zords to form the Megazord. As the series progresses, Rita is eventually replaced by Lord Zedd, a more powerful and ruthless villain who poses an even greater threat. Zedd’s arrival brings new challenges and transformations for the Rangers, including the introduction of new team members and the evolution of their powers. Throughout the various seasons, the Rangers face betrayals, personal struggles, and the constant pressure of protecting their city and the world from escalating threats, ultimately demonstrating the strength of their bond and the importance of their mission. The series often features recurring characters and storylines, creating a sense of continuity and allowing for character development across multiple seasons.",
+        "categorized_keywords": {
+          "themes": [
+            "teamwork",
+            "friendship",
+            "responsibility",
+            "courage",
+            "good-vs-evil",
+            "coming-of-age"
+          ],
+          "plot_and_concepts": [
+            "monster-of-the-week",
+            "transformation-sequence",
+            "giant-robot",
+            "interdimensional-travel",
+            "chosen-one"
+          ],
+          "mood_and_tone": [
+            "action-packed",
+            "lighthearted",
+            "optimistic",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "superhero-action",
+            "sci-fi-fantasy",
+            "teen-adventure",
+            "found-family"
+          ],
+          "setting": [
+            "modern-day",
+            "angel-grove-california",
+            "alternate-dimension"
+          ],
+          "character_archetypes": [
+            "teenager",
+            "mentor",
+            "villain",
+            "hero"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "morphing-grid",
+            "zord",
+            "megazord",
+            "power-coins",
+            "putty-patrol"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Power Rangers is a lighthearted, action-packed series for children and families, centered on a team of teenagers who transform into heroes to battle evil forces and protect their city through teamwork and giant robot battles."
+      },
+      "duration_seconds": 102.85209608078003
+    }
+  }
+}

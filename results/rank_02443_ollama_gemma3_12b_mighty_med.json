@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Mighty Med",
+    "overview": "Mighty Med is a live-action comedy series starring popular Disney Channel stars Bradley Steven Perry and Jake Short, premieres as a special one-hour event, October 7 on Disney XD. The series is created by Jim Bernstein and Andy Schwartz, and is executive produced by Bernstein and Stephen Engel.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2013,
+    "vote_count": 69
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Mighty Med is a comedic series centered around two ordinary high school students who find themselves working at a hospital for superheroes. The show blends elements of workplace comedy with superhero tropes, exploring the mundane realities of caring for individuals with extraordinary abilities. It offers a lighthearted and often absurd take on the superhero genre, focusing on character interactions and humorous situations rather than large-scale action or dramatic conflict. The series aims to entertain a younger audience with its quirky premise and relatable characters navigating an unusual environment.",
+        "spoiler_rich_plot_summary": "The series begins with Oliver and Kaz, two regular high school students, accidentally stumbling upon Mighty Med, a hospital exclusively for superheroes. They are hired as hospital employees, despite having no medical experience or superpowers. Throughout the series, they encounter a wide array of superheroes with various abilities and personalities, often finding themselves in chaotic and hilarious situations as they try to assist them. Recurring storylines involve Oliver and Kaz attempting to maintain the secrecy of Mighty Med while dealing with the challenges of their unusual jobs and the eccentric patients they serve. The show explores the dynamics between the two main characters as they navigate their new roles and the complexities of the superhero world, often facing comical misunderstandings and unexpected consequences. While the series maintains a lighthearted tone, it also touches upon themes of friendship, responsibility, and the importance of embracing differences.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "responsibility",
+            "acceptance",
+            "coming-of-age",
+            "ordinary-vs-extraordinary"
+          ],
+          "plot_and_concepts": [
+            "workplace-comedy",
+            "superhero-parody",
+            "fish-out-of-water",
+            "secret-identity",
+            "found-family"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "absurd"
+          ],
+          "genre_and_tropes": [
+            "teen-comedy",
+            "superhero-comedy",
+            "sitcom",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "high-school",
+            "hospital-setting",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "nerdy-protagonist",
+            "optimistic-friend"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "young-adult",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "hospital-rooms",
+            "superhero-costumes",
+            "medical-equipment",
+            "patient-charts"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Mighty Med is a lighthearted teen comedy series that playfully explores the challenges of caring for superheroes in a whimsical hospital setting, celebrating friendship and embracing the extraordinary within the ordinary."
+      },
+      "duration_seconds": 62.532835245132446
+    }
+  }
+}

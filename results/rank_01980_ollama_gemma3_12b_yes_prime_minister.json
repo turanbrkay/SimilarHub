@@ -1,0 +1,69 @@
+{
+  "input_data": {
+    "title": "Yes, Prime Minister",
+    "overview": "James Hacker MP the Government's bumbling minister  for Administrative Affairs is propelled along the corridors of power to the very pinnacle of politics - No. 10.  Could this have possibly have been managed by his trusted Permanent Private Secretary, the formidably political Sir Humphrey Appleby who must move to the “Top Job” in Downing Street to support him, together with his much put upon PPS Bernard Wolley. \n\nWhat could possibly go wrong?",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1986,
+    "vote_count": 98
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Yes, Minister is a satirical comedy series that humorously explores the dynamics between politicians and civil servants in the British government. The show uses a mockumentary style to expose the bureaucratic obstacles and political maneuvering that often hinder policy implementation. It's a sharp-witted critique of power, ambition, and the compromises inherent in the political process, delivered with a consistently dry and understated tone. The series' enduring appeal lies in its relatable portrayal of institutional inertia and the challenges of navigating the complexities of government.",
+        "spoiler_rich_plot_summary": "The series follows James Hacker's ascent through the ranks of government, initially as a junior minister and later as Prime Minister. His well-intentioned but often naive attempts to enact policy are consistently thwarted by Sir Humphrey Appleby, the Permanent Secretary, and his team of civil servants who expertly manipulate situations to maintain the status quo. Bernard Woolley, Hacker's PPS, often finds himself caught between his loyalty to Hacker and his awareness of the civil service's machinations. Throughout the series, Hacker's attempts to reform government are met with subtle but effective resistance, highlighting the power of bureaucracy and the difficulty of achieving meaningful change. The series culminates in Hacker reaching the highest office, but even as Prime Minister, he remains a pawn in the larger game of political maneuvering, demonstrating that the fundamental power dynamics remain unchanged.",
+        "categorized_keywords": {
+          "themes": [
+            "political-satire",
+            "bureaucracy",
+            "power-dynamics",
+            "institutional-inertia",
+            "ambition",
+            "compromise"
+          ],
+          "plot_and_concepts": [
+            "mockumentary",
+            "political-intrigue",
+            "government-policy",
+            "civil-service"
+          ],
+          "mood_and_tone": [
+            "dry-humor",
+            "satirical",
+            "understated",
+            "witty"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "political-comedy"
+          ],
+          "setting": [
+            "british-government",
+            "downing-street",
+            "westminster"
+          ],
+          "character_archetypes": [
+            "naive-politician",
+            "manipulative-bureaucrat",
+            "long-suffering-aide"
+          ],
+          "narrative_style": [
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "cabinet-meeting",
+            "policy-briefing",
+            "civil-service-memo"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Yes, Minister is a witty and satirical British sitcom that humorously explores the power dynamics and bureaucratic obstacles within the government, revealing the challenges faced by a naive politician navigating the complexities of Westminster."
+      },
+      "duration_seconds": 59.5489821434021
+    }
+  }
+}

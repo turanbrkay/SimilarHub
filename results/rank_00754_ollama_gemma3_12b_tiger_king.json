@@ -1,0 +1,85 @@
+{
+  "input_data": {
+    "title": "Tiger King",
+    "overview": "A zoo owner spirals out of control amid a cast of eccentric characters in this true murder-for-hire story from the underworld of big cat breeding.",
+    "genres": [
+      "Documentary",
+      "Crime"
+    ],
+    "release_year": 2020,
+    "vote_count": 374
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Tiger King is a documentary series that delves into the bizarre world of private big cat ownership in the United States. The series follows Joe Exotic, a flamboyant and controversial zoo operator, and his escalating feud with Carole Baskin, an animal rights activist. Through a cast of eccentric personalities and shocking revelations, the series explores themes of obsession, greed, and the dark side of the exotic animal trade. The tone is darkly comedic and unsettling, blending genuine human drama with the absurdity of the subject matter. It offers a unique and often disturbing look at a subculture rarely seen on screen.",
+        "spoiler_rich_plot_summary": "The series begins by introducing Joe Exotic, a polygamist and self-proclaimed tiger rescuer who runs an animal park in Oklahoma. His life is characterized by outlandish behavior, questionable business practices, and a deep-seated rivalry with Carole Baskin, a wealthy animal rights activist who owns a sanctuary in Florida. As Joe’s financial troubles mount and his behavior becomes increasingly erratic, he attempts to sell his park, leading to further conflict with Carole. The escalating feud culminates in Joe’s alleged involvement in a murder-for-hire plot against Carole, which ultimately leads to his arrest and conviction. The series then explores the aftermath of Joe’s trial, including the fate of his animals and the ongoing legal battles surrounding their ownership. The narrative reveals a complex web of deceit, betrayal, and questionable motives within the exotic animal community, leaving a lasting impression of the dark underbelly of this unusual world.",
+        "categorized_keywords": {
+          "themes": [
+            "obsession",
+            "greed",
+            "animal-rights",
+            "exploitation",
+            "revenge",
+            "social-class",
+            "true-crime"
+          ],
+          "plot_and_concepts": [
+            "murder-for-hire",
+            "feud",
+            "legal-drama",
+            "conspiracy",
+            "animal-smuggling"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "unsettling",
+            "absurd",
+            "sensational",
+            "bizarre"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "true-crime",
+            "reality-tv",
+            "eccentric-characters"
+          ],
+          "setting": [
+            "oklahoma",
+            "florida",
+            "united-states",
+            "private-zoo"
+          ],
+          "character_archetypes": [
+            "eccentric-personality",
+            "antagonist",
+            "victim",
+            "unreliable-narrator"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "true-crime-fans"
+          ],
+          "detail_plot": [
+            "big-cats",
+            "animal-park",
+            "mullets",
+            "tiger-cub",
+            "animal-sanctuary"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "animal-abuse",
+            "drug-use"
+          ]
+        },
+        "keyword_sentence": "Tiger King is a darkly comic documentary series that explores the bizarre world of big cat ownership in the United States, revealing a cast of eccentric personalities and unsettling themes of exploitation and revenge."
+      },
+      "duration_seconds": 62.31305456161499
+    }
+  }
+}

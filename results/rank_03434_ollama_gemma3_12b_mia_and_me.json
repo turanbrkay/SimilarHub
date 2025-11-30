@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Mia and Me",
+    "overview": "Plunged into a fantastic fairy tale turned real, Mia must find the strength within herself to save a race of unicorns - and an entire world.",
+    "genres": [
+      "Animation",
+      "Kids",
+      "Family"
+    ],
+    "release_year": 2012,
+    "vote_count": 37
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Mia and Me is a German-Luxembourgish animated series geared towards a young audience, blending elements of fantasy, adventure, and coming-of-age narratives. The series follows a young girl who discovers a magical world and must learn to navigate its challenges while developing her own courage and resourcefulness. It emphasizes themes of friendship, responsibility, and environmental stewardship, presented in a lighthearted and visually appealing style. The show's episodic structure allows for exploration of various fantastical creatures and landscapes, creating a consistently engaging experience for its target demographic.",
+        "spoiler_rich_plot_summary": "The series begins with Mia, a young girl grieving the loss of her grandmother, discovering a magical world called Centopia through a special mirror. She befriends Evie, a Centaur, and learns that Centopia is threatened by a dark force seeking to disrupt its harmony. Mia, along with her new friends, embarks on a series of quests to protect Centopia from various dangers, often involving mythical creatures and ancient prophecies. Throughout her adventures, Mia learns about her own inner strength and the importance of friendship and courage. She faces challenges that test her abilities and force her to confront her fears, ultimately growing into a more confident and capable young woman. The series explores the delicate balance between the human world and the magical realm, highlighting the need for understanding and respect for both.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "courage",
+            "responsibility",
+            "environmental-stewardship",
+            "coming-of-age",
+            "loss-and-grief"
+          ],
+          "plot_and_concepts": [
+            "magical-portal",
+            "mythical-creatures",
+            "ancient-prophecy",
+            "quest-narrative",
+            "good-versus-evil"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "optimistic",
+            "adventurous"
+          ],
+          "genre_and_tropes": [
+            "fantasy-adventure",
+            "coming-of-age",
+            "found-family",
+            "magical-realism"
+          ],
+          "setting": [
+            "fantasy-world",
+            "modern-day",
+            "magical-forest"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "loyal-friend"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "young-children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "unicorn",
+            "magical-mirror",
+            "centaur",
+            "fantasy-creatures"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Mia and Me is a lighthearted fantasy adventure series for young children, following a girl’s journey through a magical world filled with mythical creatures and emphasizing themes of friendship, courage, and environmental stewardship."
+      },
+      "duration_seconds": 55.32418489456177
+    }
+  }
+}

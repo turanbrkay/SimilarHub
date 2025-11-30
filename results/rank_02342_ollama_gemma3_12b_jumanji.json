@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Jumanji",
+    "overview": "Judy and Peter Shepherd are two kids that found a board game called \"Jumanji\". With each turn, the two of them are given a \"game clue\" and then sucked into a dangerous jungle until they solve their clue. There they meet Alan Parrish, who was trapped in the Jumanji jungle because he had never seen his clue.",
+    "genres": [
+      "Animation"
+    ],
+    "release_year": 1996,
+    "vote_count": 75
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Jumanji is a family-friendly adventure film centered around a magical board game that transports players into a perilous jungle environment. The film blends elements of fantasy, comedy, and action, creating a lighthearted yet thrilling experience. It explores themes of friendship, courage, and responsibility as the protagonists navigate the game's challenges and work together to escape. The film's charm lies in its imaginative world-building and the humor derived from the unexpected encounters within the game.",
+        "spoiler_rich_plot_summary": "The film begins with young Alan Parrish discovering the Jumanji board game and becoming trapped within it during a particularly difficult turn. Decades later, Judy and Peter Shepherd find the game and inadvertently release Alan from his jungle prison. They quickly realize the game's power and the danger it poses, as each turn presents a new and increasingly challenging obstacle. To escape, they must complete the game, facing wild animals, treacherous terrain, and the game's escalating difficulty. They are joined by Carl Van Zandt, a greedy hunter who initially seeks to exploit the game's power but ultimately learns the importance of completing it. The climax involves a final, overwhelming challenge that requires the combined efforts of all the players to overcome, ultimately restoring balance and allowing everyone to return to their own lives.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "courage",
+            "responsibility",
+            "adventure",
+            "escape",
+            "coming-of-age"
+          ],
+          "plot_and_concepts": [
+            "magical-game",
+            "alternate-reality",
+            "time-displacement",
+            "monster-of-the-week",
+            "quest"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "adventurous",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "family-adventure",
+            "fantasy",
+            "coming-of-age",
+            "treasure-hunt"
+          ],
+          "setting": [
+            "jungle",
+            "alternate-timeline",
+            "1990s"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "greedy-villain"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "quest-based"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "board-game",
+            "jungle-animals",
+            "rhyming-clues"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Jumanji is a lighthearted family adventure film where players are transported to a perilous jungle environment to complete a magical board game and confront a series of wild animals and rhyming clues."
+      },
+      "duration_seconds": 59.21046447753906
+    }
+  }
+}

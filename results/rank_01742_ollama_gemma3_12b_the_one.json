@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "The One",
+    "overview": "Love — and lies — spiral when a DNA researcher helps discover a way to find the perfect partner, and creates a bold new matchmaking service.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2021,
+    "vote_count": 118
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The One explores the complex intersection of love, science, and societal control. Set in a near-future world, the series follows a scientist who pioneers a matchmaking service based on DNA compatibility, promising to find individuals their 'perfect' partner. However, the system's implications quickly become apparent, raising questions about free will, the nature of love, and the potential for abuse. The series blends elements of crime drama, science fiction, and romantic intrigue, offering a suspenseful and thought-provoking examination of human connection and the consequences of technological advancement.",
+        "spoiler_rich_plot_summary": "The series begins with Hannah Blackwood, a brilliant geneticist, who discovers a gene that determines romantic compatibility. Driven by a personal tragedy, she develops 'The Connector,' a service that promises to find individuals their perfect match. Initially, the service is a massive success, with couples finding happiness and fulfillment. However, as the program expands, cracks begin to appear. A string of mysterious deaths and disappearances are linked to individuals who were deemed 'incompatible' by The Connector, suggesting a darker side to the system. Hannah, along with a detective, Richard Tanner, begins to investigate, uncovering a conspiracy that reaches the highest levels of the company and government. The investigation reveals that the system is being manipulated to control relationships and eliminate those deemed undesirable, leading to a desperate fight to expose the truth and dismantle the system before it can cause further harm. The series culminates in a confrontation between Hannah and the architects of the conspiracy, forcing her to make difficult choices that will determine the future of love and freedom.",
+        "categorized_keywords": {
+          "themes": [
+            "love-and-relationships",
+            "genetic-engineering",
+            "free-will",
+            "social-control",
+            "scientific-ethics",
+            "conspiracy",
+            "loss-and-grief"
+          ],
+          "plot_and_concepts": [
+            "dna-matching",
+            "crime-investigation",
+            "romantic-suspense",
+            "near-future-setting",
+            "conspiracy-thriller"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "intriguing",
+            "romantic"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "science-fiction",
+            "romantic-thriller",
+            "dystopian-society"
+          ],
+          "setting": [
+            "near-future",
+            "urban-setting"
+          ],
+          "character_archetypes": [
+            "brilliant-scientist",
+            "determined-detective",
+            "corrupt-official"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "mystery"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "dna-analysis",
+            "matchmaking-service",
+            "crime-scene",
+            "laboratory"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "sexual-content"
+          ]
+        },
+        "keyword_sentence": "Exploring the ethical boundaries of science and love, The One blends crime investigation and romantic suspense within a near-future setting to examine the dangers of social control and the pursuit of perfect relationships."
+      },
+      "duration_seconds": 66.42020511627197
+    }
+  }
+}

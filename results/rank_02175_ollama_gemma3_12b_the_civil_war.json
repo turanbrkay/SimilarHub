@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "The Civil War",
+    "overview": "A documentary on the American Civil War narrated by Ken Burns, covering the secession of the Confederacy to the assassination of Abraham Lincoln.",
+    "genres": [
+      "Documentary",
+      "War & Politics"
+    ],
+    "release_year": 1990,
+    "vote_count": 85
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Ken Burns' 'The Civil War' is a landmark documentary series that offers a deeply affecting and comprehensive exploration of the American Civil War. Through a combination of historical photographs, letters, diaries, and expert interviews, the series humanizes the conflict, revealing the profound impact it had on individuals and the nation. It avoids simplistic narratives, presenting a nuanced perspective on the causes, battles, and consequences of the war, while emphasizing the enduring legacy of this pivotal moment in American history. The series is characterized by its emotional depth and its ability to connect viewers to the personal stories of those who lived through the conflict.",
+        "spoiler_rich_plot_summary": "The documentary begins by establishing the growing tensions between the North and South, focusing on the issue of slavery and its economic and social implications. It follows key figures on both sides, including Abraham Lincoln, Jefferson Davis, Ulysses S. Grant, and Robert E. Lee, charting their rise to prominence and their roles in the escalating conflict. The series meticulously recounts major battles, from Fort Sumter to Gettysburg, illustrating the brutal realities of warfare and the immense human cost. It explores the political maneuvering and social upheaval that characterized the era, including the Emancipation Proclamation and the experiences of enslaved people. The documentary culminates in the Confederacy's surrender at Appomattox Courthouse and the subsequent assassination of Abraham Lincoln, leaving a nation grappling with the challenges of Reconstruction and the enduring legacy of slavery.",
+        "categorized_keywords": {
+          "themes": [
+            "american-history",
+            "slavery",
+            "warfare",
+            "political-conflict",
+            "national-identity",
+            "reconstruction",
+            "loss-and-grief"
+          ],
+          "plot_and_concepts": [
+            "historical-documentary",
+            "american-civil-war",
+            "political-narrative",
+            "military-strategy",
+            "social-impact"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "reflective",
+            "historical",
+            "patriotic",
+            "melancholy"
+          ],
+          "genre_and_tropes": [
+            "documentary-film",
+            "historical-drama",
+            "war-history"
+          ],
+          "setting": [
+            "american-south",
+            "american-north",
+            "1860s-america"
+          ],
+          "character_archetypes": [
+            "statesman",
+            "military-leader",
+            "historical-figure"
+          ],
+          "narrative_style": [
+            "chronological-narrative",
+            "interview-based",
+            "archival-footage"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "history-buffs"
+          ],
+          "detail_plot": [
+            "abraham-lincoln",
+            "jefferson-davis",
+            "fort-sumter",
+            "gettysburg",
+            "appomattox-courthouse"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Ken Burns' 'The Civil War' is a somber and reflective documentary that explores the political conflict and immense human cost of the American Civil War, revealing the enduring legacy of slavery and its impact on national identity."
+      },
+      "duration_seconds": 64.2895655632019
+    }
+  }
+}

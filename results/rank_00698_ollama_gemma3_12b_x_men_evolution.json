@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "X-Men: Evolution",
+    "overview": "Teenagers Cyclops, Jean Grey, Rogue, Nightcrawler, Shadowcat, and Spike fight for a world that fears and hates them.",
+    "genres": [
+      "Kids",
+      "Animation",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "release_year": 2000,
+    "vote_count": 410
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "X-Men: Evolution is an animated series that explores the challenges faced by a group of teenage mutants struggling to control their powers and find acceptance in a world that fears them. The show blends superhero action with coming-of-age themes, focusing on the characters' personal growth, relationships, and moral dilemmas. It examines prejudice, responsibility, and the complexities of family, both biological and found, within a framework of superhero battles and mutant politics. The series offers a blend of action, drama, and character development, appealing to a younger audience while retaining depth and thematic resonance.",
+        "spoiler_rich_plot_summary": "The series begins with a group of young mutants – Cyclops, Jean Grey, Rogue, Nightcrawler, and Shadowcat – discovering their abilities and being brought together by Professor Charles Xavier, who establishes a school for mutants to learn to control their powers and coexist peacefully. Early seasons focus on the team's training, their struggles with prejudice, and their battles against various threats, including the Sentinels, advanced robots designed to hunt mutants. As the series progresses, the characters face increasingly complex moral choices and internal conflicts. Jean Grey's connection to the Phoenix Force becomes a central plot point, threatening to consume her and endanger everyone around her. Rogue's struggles with her powers and her longing for connection are explored in depth, leading to significant character development. The team confronts betrayals, losses, and the constant threat of exposure, forcing them to question their beliefs and their place in the world. The series culminates in a confrontation with powerful adversaries, testing the team's strength and resolve as they fight for the future of mutantkind, while also dealing with the personal consequences of their choices.",
+        "categorized_keywords": {
+          "themes": [
+            "prejudice",
+            "acceptance",
+            "coming-of-age",
+            "responsibility",
+            "family-loyalty",
+            "moral-dilemmas",
+            "identity-quest"
+          ],
+          "plot_and_concepts": [
+            "superhero-action",
+            "mutant-politics",
+            "robot-uprising",
+            "phoenix-force",
+            "teleportation",
+            "energy-absorption"
+          ],
+          "mood_and_tone": [
+            "action-adventure",
+            "dramatic",
+            "hopeful",
+            "somber"
+          ],
+          "genre_and_tropes": [
+            "animated-series",
+            "superhero-genre",
+            "found-family",
+            "teen-drama"
+          ],
+          "setting": [
+            "modern-day",
+            "school-setting",
+            "alternate-timeline"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "troubled-teenager",
+            "anti-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "xavier-school",
+            "sentinel-robots",
+            "telepathic-powers",
+            "mutant-registration"
+          ],
+          "maturity_and_content": [
+            "violence"
+          ]
+        },
+        "keyword_sentence": "X-Men: Evolution is a dramatic animated series that explores themes of prejudice and acceptance through the journey of teenage mutants navigating a world of superhero action and found family, all while confronting moral dilemmas and striving for a place in a modern-day setting."
+      },
+      "duration_seconds": 59.17262029647827
+    }
+  }
+}

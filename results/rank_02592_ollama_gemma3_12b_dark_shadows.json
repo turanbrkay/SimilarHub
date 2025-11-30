@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "Dark Shadows",
+    "overview": "Dark Shadows is an American gothic soap opera that originally aired weekdays on the ABC television network, from June 27, 1966, to April 2, 1971. The show was created by Dan Curtis. The story bible, which was written by Art Wallace, does not mention any supernatural elements. It was unprecedented in daytime television when ghosts were introduced about six months after it began.\n\nThe series became hugely popular when vampire Barnabas Collins appeared a year into its run. Dark Shadows also featured werewolves, zombies, man-made monsters, witches, warlocks, time travel, and a parallel universe. A small company of actors each played many roles; indeed, as actors came and went, some characters were played by more than one actor. Major writers besides Art Wallace included Malcolm Marmorstein, Sam Hall, Gordon Russell, and Violet Welles.",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Soap"
+    ],
+    "release_year": 1966,
+    "vote_count": 63
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Dark Shadows is a pioneering American soap opera that unexpectedly blended gothic melodrama with supernatural elements, creating a unique and influential viewing experience. Initially a conventional daytime drama, the series dramatically shifted its focus with the introduction of vampires, werewolves, and other fantastical creatures. This bold departure from the norm established a precedent for genre-bending storytelling in television, captivating audiences with its blend of romance, mystery, and the macabre. The show's innovative use of multiple actors portraying various roles added to its complexity and intrigue, solidifying its place as a landmark in television history.",
+        "spoiler_rich_plot_summary": "Dark Shadows initially presented a standard family drama centered on the wealthy Collins family and their ancestral estate, Collinwood. As the series progressed, supernatural elements began to surface, hinting at a darker history tied to the family's past. The arrival of Barnabas Collins, a vampire, marked a pivotal moment, transforming the show into a gothic horror soap opera. Barnabas's presence unleashed a cascade of supernatural threats, including werewolves, witches, and time-traveling adversaries, all intertwined with the Collins family's secrets and curses. The narrative frequently involved journeys through time, revealing past tragedies and future dangers that threatened to consume Collinwood and its inhabitants. While the Collins family faced numerous challenges and losses, they consistently fought to protect their legacy and unravel the mysteries surrounding their cursed existence, ultimately striving to break free from the supernatural forces that bound them.",
+        "categorized_keywords": {
+          "themes": [
+            "family-legacy",
+            "supernatural-curse",
+            "time-travel",
+            "gothic-romance",
+            "identity-quest",
+            "fate-vs-free-will"
+          ],
+          "plot_and_concepts": [
+            "vampire-politics",
+            "time-travel",
+            "supernatural-horror",
+            "family-secrets",
+            "parallel-universe",
+            "monster-of-the-week"
+          ],
+          "mood_and_tone": [
+            "gothic",
+            "melodramatic",
+            "mysterious",
+            "dark",
+            "romantic"
+          ],
+          "genre_and_tropes": [
+            "soap-opera",
+            "gothic-horror",
+            "supernatural-fiction",
+            "time-travel-story",
+            "found-family"
+          ],
+          "setting": [
+            "collinswood-manor",
+            "18th-century",
+            "modern-day",
+            "alternate-timeline"
+          ],
+          "character_archetypes": [
+            "tragic-hero",
+            "wise-mentor",
+            "femme-fatale",
+            "cursed-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "collinswood-manor",
+            "family-portrait",
+            "vampire-lair",
+            "time-portal"
+          ],
+          "maturity_and_content": [
+            "supernatural-violence"
+          ]
+        },
+        "keyword_sentence": "Dark Shadows captivated audiences with its blend of gothic romance, supernatural horror, and time travel, establishing a unique legacy within the soap opera genre and exploring themes of family legacy and cursed destinies."
+      },
+      "duration_seconds": 68.05693507194519
+    }
+  }
+}

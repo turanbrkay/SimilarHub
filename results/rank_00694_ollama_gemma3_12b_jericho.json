@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Jericho",
+    "overview": "Jericho is an American action/drama series that centers on the residents of the fictional town of Jericho, Kansas, in the aftermath of nuclear attacks on 23 major cities in the contiguous United States.",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2006,
+    "vote_count": 412
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Jericho is a post-apocalyptic drama series exploring the resilience and moral complexities of a small town grappling with the aftermath of a devastating nuclear attack. The series focuses on the residents of Jericho, Kansas, as they attempt to rebuild their lives, navigate scarce resources, and confront both external threats and internal conflicts. It examines themes of community, survival, and the fragility of civilization, blending action and suspense with character-driven narratives. The show's tone is often tense and uncertain, reflecting the precariousness of their situation and the challenges of rebuilding trust in a shattered world.",
+        "spoiler_rich_plot_summary": "The series begins with the unexplained destruction of major US cities, leaving the small town of Jericho, Kansas, seemingly untouched. Initially, the residents attempt to maintain a semblance of normalcy, rationing supplies and establishing a makeshift government. However, the arrival of strangers and the discovery of a mysterious radio signal complicate matters, revealing that not everyone shares their desire for peace. As the weeks turn into months, the town faces threats from outside groups vying for control of resources and struggling with internal divisions over how to handle the crisis. Jake Green, a former Marine, emerges as a key figure, attempting to maintain order and protect his community. The search for answers about the attacks and the fate of loved ones drives many characters, leading them on perilous journeys. The series explores the moral compromises necessary for survival and the enduring power of hope amidst despair, culminating in a tense standoff and a glimmer of potential reconnection with the outside world, though the true scope of the disaster remains unclear.",
+        "categorized_keywords": {
+          "themes": [
+            "survival",
+            "community",
+            "post-apocalypse",
+            "moral-ambiguity",
+            "hope",
+            "loss",
+            "rebuilding",
+            "isolation"
+          ],
+          "plot_and_concepts": [
+            "nuclear-attack",
+            "small-town-drama",
+            "resource-scarcity",
+            "radio-communication",
+            "political-conflict",
+            "mystery"
+          ],
+          "mood_and_tone": [
+            "tense",
+            "suspenseful",
+            "hopeful",
+            "uncertain",
+            "somber"
+          ],
+          "genre_and_tropes": [
+            "post-apocalyptic",
+            "action-drama",
+            "small-town-mystery",
+            "survival-thriller"
+          ],
+          "setting": [
+            "kansas",
+            "small-town-usa",
+            "post-nuclear-america"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "former-military",
+            "community-leader",
+            "outsider"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "radio-tower",
+            "makeshift-government",
+            "rationing-system",
+            "makeshift-barricade"
+          ],
+          "maturity_and_content": [
+            "violence"
+          ]
+        },
+        "keyword_sentence": "Set in a small Kansas town after a devastating nuclear attack, Jericho is a suspenseful action drama exploring themes of survival, community, and the enduring hope for rebuilding amidst violence and uncertainty."
+      },
+      "duration_seconds": 59.31918215751648
+    }
+  }
+}

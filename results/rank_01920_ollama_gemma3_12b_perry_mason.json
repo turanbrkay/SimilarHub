@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Perry Mason",
+    "overview": "The cases of master criminal defense attorney Perry Mason and his staff who handled the most difficult of cases in the aid of the innocent.",
+    "genres": [
+      "Mystery",
+      "Drama",
+      "Crime"
+    ],
+    "release_year": 1957,
+    "vote_count": 103
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Perry Mason is a classic American legal drama series centered on a brilliant defense attorney who consistently fights for the wrongly accused. The show blends courtroom suspense with intricate mysteries, exploring themes of justice, morality, and the complexities of the legal system. Known for its meticulous plotting and charismatic lead character, Perry Mason offers a compelling blend of procedural elements and character-driven narratives, appealing to audiences interested in legal intrigue and moral dilemmas.",
+        "spoiler_rich_plot_summary": "The series follows Perry Mason as he defends clients accused of various crimes, often murder. Each case begins with a seemingly straightforward accusation, but Perry quickly uncovers a web of deceit, blackmail, and hidden motives. He meticulously investigates the evidence, interviews witnesses, and confronts suspects, often facing significant personal risk and threats from those seeking to obstruct justice. Perry's investigations frequently reveal that the true perpetrator is someone unexpected, often someone with power and influence. Through skillful cross-examination and strategic maneuvering in the courtroom, Perry exposes the truth and secures acquittals for his clients, highlighting the flaws and corruption within the legal and social structures. While he consistently wins his cases, the process takes a toll, revealing the dark underbelly of society and the lengths to which people will go to protect their secrets.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "morality",
+            "legal-ethics",
+            "corruption",
+            "redemption",
+            "social-inequality"
+          ],
+          "plot_and_concepts": [
+            "courtroom-drama",
+            "legal-thriller",
+            "crime-investigation",
+            "mystery",
+            "false-accusation"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "serious",
+            "dramatic",
+            "noir"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "legal-drama",
+            "whodunit"
+          ],
+          "setting": [
+            "1950s-america",
+            "los-angeles",
+            "courtroom"
+          ],
+          "character_archetypes": [
+            "defense-attorney",
+            "private-investigator",
+            "corrupt-official",
+            "victim"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "case-of-the-week"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "courtroom-scene",
+            "police-station",
+            "private-office",
+            "interrogation-room"
+          ],
+          "maturity_and_content": [
+            "crime",
+            "legal-themes"
+          ]
+        },
+        "keyword_sentence": "Perry Mason, a classic legal drama set in 1950s Los Angeles, explores themes of justice and corruption through suspenseful courtroom battles and intricate crime investigations."
+      },
+      "duration_seconds": 61.35563635826111
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "The Twilight Zone",
+    "overview": "This 1980s revival of the classic sci-fi series features a similar style to the original anthology series. Each episode tells a tale (sometimes two or three) rooted in horror or suspense, often with a surprising twist at the end. Episodes usually feature elements of drama and comedy.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "release_year": 1985,
+    "vote_count": 170
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Twilight Zone (1985) is a revival of the iconic anthology series, maintaining its signature blend of science fiction, fantasy, drama, and occasional comedy. Each episode presents self-contained stories exploring the strange and unsettling aspects of human existence, often with a focus on moral dilemmas and unexpected twists. The series aims to provoke thought and evoke a sense of wonder and unease, characteristic of the original Twilight Zone's exploration of the uncanny. While retaining the core concept, the 1980s version often adopts a more dramatic and sometimes darker tone than its predecessor.",
+        "spoiler_rich_plot_summary": "The series follows a similar structure to the original, with each episode presenting a standalone narrative. These stories frequently involve ordinary people encountering extraordinary circumstances, ranging from encounters with alien beings and time distortions to explorations of alternate realities and psychological phenomena. Many episodes feature a moral or cautionary element, highlighting the potential consequences of human actions or the fragility of perception. While some stories offer a sense of resolution, others conclude with ambiguous or unsettling endings, leaving the viewer to ponder the deeper meaning of the events. Recurring themes include the dangers of unchecked ambition, the importance of empathy, and the unsettling nature of reality itself. The series often subverts expectations, presenting seemingly straightforward situations that ultimately reveal a darker or more complex truth. The anthology format allows for a wide range of narratives and tones, ensuring that each episode offers a unique and thought-provoking experience.",
+        "categorized_keywords": {
+          "themes": [
+            "moral-ambiguity",
+            "altered-reality",
+            "human-condition",
+            "fear-of-the-unknown",
+            "social-commentary",
+            "existentialism"
+          ],
+          "plot_and_concepts": [
+            "anthology-series",
+            "time-distortion",
+            "parallel-universe",
+            "psychological-horror",
+            "moral-dilemma",
+            "twist-ending"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "eerie",
+            "thought-provoking",
+            "dark",
+            "uncanny"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "fantasy",
+            "horror",
+            "anthology",
+            "moral-tale"
+          ],
+          "setting": [
+            "modern-day",
+            "small-town-america",
+            "alternate-reality"
+          ],
+          "character_archetypes": [
+            "ordinary-person",
+            "reluctant-hero",
+            "enigmatic-figure"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "standalone-episode"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "enigmatic-host",
+            "strange-phenomenon",
+            "unexpected-twist",
+            "isolated-location"
+          ],
+          "maturity_and_content": [
+            "psychological-suspense"
+          ]
+        },
+        "keyword_sentence": "The Twilight Zone is a suspenseful anthology series that explores the unsettling aspects of the human condition through science fiction and fantasy, often presenting moral dilemmas and unexpected twists within a modern-day setting."
+      },
+      "duration_seconds": 62.85277438163757
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "input_data": {
+    "title": "Young Justice",
+    "overview": "Teenage superheroes strive to prove themselves as members of the Justice League.",
+    "genres": [
+      "Animation",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "release_year": 2010,
+    "vote_count": 982
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Young Justice is an animated superhero series that follows a team of teenage heroes as they train and operate alongside the Justice League. The show blends action-adventure with elements of espionage and political intrigue, exploring themes of mentorship, responsibility, and the challenges of growing up in a world of extraordinary power. It offers a dynamic and engaging narrative, balancing thrilling superhero action with complex character development and a focus on the burdens and sacrifices inherent in a life of heroism. The series appeals to fans of superhero comics and animation, offering a fresh perspective on familiar characters and concepts.",
+        "spoiler_rich_plot_summary": "The series begins with a group of young heroes – Robin, Kid Flash, Artemis, Superboy, and Aqualad – secretly recruited by Batman to operate as a covert response team. Initially, they are tasked with relatively minor missions, but their involvement quickly escalates as they uncover a larger conspiracy involving a clandestine organization known as the Light, a group of supervillains manipulating events from the shadows. Over the seasons, the team faces numerous challenges, including internal conflicts, betrayals, and the constant pressure of living up to the legacy of their mentors. Characters evolve significantly, with some questioning their allegiances and others embracing darker paths. The team expands, incorporating new members with unique abilities and backgrounds, each bringing their own set of complications. The overarching narrative involves a complex web of political maneuvering, technological advancements, and the constant threat of global catastrophe, forcing the young heroes to confront difficult choices and ultimately define their own identities as protectors of the world. The series culminates in a confrontation with the Light, revealing the full extent of their machinations and forcing the young heroes to make sacrifices to secure a fragile peace.",
+        "categorized_keywords": {
+          "themes": [
+            "coming-of-age",
+            "teamwork",
+            "responsibility",
+            "mentorship",
+            "identity-quest",
+            "loyalty",
+            "sacrifice"
+          ],
+          "plot_and_concepts": [
+            "secret-team",
+            "espionage",
+            "conspiracy",
+            "supervillain-organization",
+            "alternate-timeline",
+            "political-intrigue"
+          ],
+          "mood_and_tone": [
+            "action-packed",
+            "suspenseful",
+            "dark",
+            "serious",
+            "heroic"
+          ],
+          "genre_and_tropes": [
+            "superhero-action",
+            "teen-drama",
+            "found-family",
+            "coming-of-age-story"
+          ],
+          "setting": [
+            "metropolis",
+            "modern-day",
+            "dc-universe"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "mentor",
+            "anti-hero",
+            "skilled-fighter"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "mystery"
+          ],
+          "target_audience": [
+            "young-adult",
+            "teenagers"
+          ],
+          "detail_plot": [
+            "secret-headquarters",
+            "training-simulations",
+            "advanced-technology",
+            "costumes"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "emotional-trauma"
+          ]
+        },
+        "keyword_sentence": "Young Justice is a suspenseful, action-packed animated series following a team of teenage superheroes as they navigate complex challenges, uncover conspiracies, and ultimately define their identities within the broader DC universe."
+      },
+      "duration_seconds": 58.395323038101196
+    }
+  }
+}

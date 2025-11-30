@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "The Bachelorette",
+    "overview": "A single bachelorette dates multiple men over several weeks, narrowing them down to hopefully find her true love.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2003,
+    "vote_count": 46
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Bachelorette is a long-running reality television series centered on a single woman who dates multiple men over several weeks, culminating in a final decision. The show explores themes of romance, competition, and self-discovery within a highly structured and manufactured environment. It blends elements of dating shows, competition shows, and relationship dramas, offering viewers a voyeuristic glimpse into the pursuit of love and the pressures of public scrutiny. The series' appeal lies in its blend of aspirational romance and the inherent drama of interpersonal relationships under intense conditions.",
+        "spoiler_rich_plot_summary": "Each season of The Bachelorette begins with a pool of eligible men vying for the affections of a single woman. Throughout the weeks, the bachelorette participates in a series of dates, ranging from group activities to intimate one-on-one experiences. Following each round of dates, the bachelorette eliminates several contestants, narrowing the field. The remaining men often engage in strategic maneuvering and interpersonal conflicts, creating tension and drama. As the season progresses, the bachelorette forms deeper connections with a smaller group of men, leading to emotional vulnerability and difficult decisions. The final episodes feature a destination getaway where the bachelorette spends more time with the two remaining men. Ultimately, the bachelorette must choose one man, publicly declaring her choice and signifying the end of the televised journey, though the long-term success of the relationship remains uncertain.",
+        "categorized_keywords": {
+          "themes": [
+            "romance",
+            "competition",
+            "self-discovery",
+            "social-dynamics",
+            "public-scrutiny",
+            "relationship-drama"
+          ],
+          "plot_and_concepts": [
+            "dating-show",
+            "elimination-rounds",
+            "destination-getaway",
+            "manufactured-reality",
+            "relationship-timeline"
+          ],
+          "mood_and_tone": [
+            "romantic",
+            "dramatic",
+            "aspirational",
+            "voyeuristic"
+          ],
+          "genre_and_tropes": [
+            "reality-television",
+            "dating-competition",
+            "found-family",
+            "will-they-won-t-they"
+          ],
+          "setting": [
+            "luxury-locations",
+            "modern-day",
+            "travel-setting"
+          ],
+          "character_archetypes": [
+            "eligible-bachelorette",
+            "romantic-lead",
+            "strategic-contestant",
+            "villain"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "romance-seekers"
+          ],
+          "detail_plot": [
+            "roses",
+            "group-dates",
+            "one-on-one-dates",
+            "elimination-ceremony"
+          ],
+          "maturity_and_content": [
+            "emotional-manipulation",
+            "relationship-conflict"
+          ]
+        },
+        "keyword_sentence": "The Bachelorette is a romantic reality television series where an eligible woman navigates a competition of dates and eliminations, seeking love amidst manufactured drama and public scrutiny."
+      },
+      "duration_seconds": 61.3057804107666
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "The Thin Blue Line",
+    "overview": "The Thin Blue Line is a British sitcom starring Rowan Atkinson set in a police station that ran for two series on the BBC from 1995 to 1996. It was written by Ben Elton.",
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "release_year": 1995,
+    "vote_count": 78
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Thin Blue Line is a British sitcom that satirizes police procedural tropes and bureaucratic inefficiency. Written by Ben Elton, the series employs a mockumentary style to observe the daily lives of a group of police officers, highlighting their eccentricities and often absurd interactions with criminals and superiors. The humor derives from the juxtaposition of serious police work with a lighthearted, observational comedic lens, creating a quirky and irreverent portrayal of law enforcement. The show's strength lies in its ensemble cast and clever writing, which consistently finds humor in the mundane and the chaotic.",
+        "spoiler_rich_plot_summary": "The series follows the officers of a London police station, primarily focusing on Sergeant Jack Rowan and his team. The premise revolves around their attempts to maintain order and solve minor crimes while navigating the absurdities of police protocol and the personalities of their colleagues. Throughout the two series, the officers encounter a variety of unusual cases, often involving petty theft, misunderstandings, and bizarre characters. The show consistently undermines the seriousness of police work through comedic situations and the officers' own flawed judgment. While individual cases provide episodic humor, the overarching narrative explores the challenges of maintaining professionalism and morale within a dysfunctional system. The series concludes without a grand resolution, instead maintaining its observational and satirical tone, suggesting that the absurdities of police life are an ongoing reality.",
+        "categorized_keywords": {
+          "themes": [
+            "satire",
+            "bureaucracy",
+            "police-work",
+            "absurdity",
+            "law-and-order"
+          ],
+          "plot_and_concepts": [
+            "mockumentary",
+            "police-procedural",
+            "ensemble-cast",
+            "crime-comedy"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "quirky",
+            "irreverent",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "crime-comedy",
+            "mockumentary"
+          ],
+          "setting": [
+            "london-city",
+            "modern-day",
+            "police-station"
+          ],
+          "character_archetypes": [
+            "eccentric-characters",
+            "bureaucratic-officials",
+            "quirky-colleagues"
+          ],
+          "narrative_style": [
+            "episodic",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "police-uniform",
+            "police-car",
+            "incident-report",
+            "evidence-locker"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Thin Blue Line is a lighthearted British sitcom that satirizes police work and bureaucratic inefficiency through a quirky mockumentary style, showcasing eccentric characters and absurd situations within a London police station."
+      },
+      "duration_seconds": 55.774699449539185
+    }
+  }
+}

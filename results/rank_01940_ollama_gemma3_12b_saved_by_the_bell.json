@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Saved by the Bell",
+    "overview": "When California governor Zack Morris gets into hot water for closing too many low-income high schools, he proposes they send the affected students to the highest performing schools in the state – including Bayside High. The influx of new students gives the over privileged Bayside kids a much needed and hilarious dose of reality.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2020,
+    "vote_count": 101
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Saved by the Bell (2020) is a continuation of the classic 90s sitcom, reimagined for a modern audience. The series blends nostalgic humor with contemporary social commentary, exploring themes of privilege, socioeconomic disparity, and the challenges of navigating adolescence. It maintains the lighthearted tone of the original while incorporating more nuanced character development and addressing relevant issues. The show offers a familiar, comforting viewing experience with a fresh perspective, appealing to both longtime fans and a new generation of viewers.",
+        "spoiler_rich_plot_summary": "The series picks up with Zack Morris, now a businessman, attempting to rectify a decision he made years prior that led to the closure of several low-income schools. To address this, he proposes transferring students from these schools to Bayside High, a prestigious institution. This influx of new students, primarily from disadvantaged backgrounds, disrupts the established social dynamics and exposes the Bayside students to a different reality. The series follows Zack and his friends – Kelly, Slater, Jessie, and Lisa – as they navigate these new relationships and confront their own privilege. Throughout the seasons, the characters grapple with issues of class, race, and identity, while also dealing with the typical challenges of high school romance and friendship. Zack's attempts to do the right thing are often complicated by his own ambition and past mistakes, leading to humorous and occasionally poignant moments. The series culminates in a resolution where the students from both schools find common ground and work towards a more equitable future, though the underlying issues of socioeconomic inequality remain a persistent challenge.",
+        "categorized_keywords": {
+          "themes": [
+            "privilege",
+            "socioeconomic-disparity",
+            "adolescence",
+            "friendship",
+            "identity",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "fish-out-of-water",
+            "school-setting",
+            "social-commentary",
+            "coming-of-age"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "humorous",
+            "nostalgic",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "teen-comedy",
+            "found-family",
+            "school-drama"
+          ],
+          "setting": [
+            "california",
+            "high-school",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "businessman",
+            "popular-girl",
+            "jock",
+            "nerd",
+            "social-activist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "teen-viewers",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "school-bus",
+            "locker",
+            "cafeteria",
+            "basketball-court"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Saved by the Bell is a lighthearted teen comedy that explores themes of privilege and friendship within a modern-day California high school setting, offering a nostalgic and optimistic view of adolescence."
+      },
+      "duration_seconds": 65.34422588348389
+    }
+  }
+}

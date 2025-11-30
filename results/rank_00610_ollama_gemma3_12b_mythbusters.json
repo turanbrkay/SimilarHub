@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "MythBusters",
+    "overview": "MythBusters is a science entertainment television program created and produced by Australia's Beyond Television Productions for the Discovery Channel. The show's hosts, special effects experts Adam Savage and Jamie Hyneman, use elements of the scientific method to test the validity of rumors, myths, movie scenes, adages, Internet videos, and news stories.",
+    "genres": [
+      "Documentary",
+      "Reality"
+    ],
+    "release_year": 2003,
+    "vote_count": 476
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "MythBusters is a science entertainment program that employs the scientific method to investigate and debunk popular myths and urban legends. The show's hosts, Adam Savage and Jamie Hyneman, conduct experiments, often involving large-scale builds and controlled explosions, to determine whether commonly held beliefs are true or false. The series blends entertainment with education, demonstrating scientific principles in an accessible and engaging format. Its appeal lies in its combination of spectacle, humor, and the satisfaction of uncovering the truth behind widespread misconceptions. The show's format encourages viewers to think critically and question assumptions.",
+        "spoiler_rich_plot_summary": "The series begins with Adam Savage and Jamie Hyneman establishing their workshop and tackling a variety of myths, ranging from simple tests of common sayings to elaborate recreations of movie scenes. Early seasons focus on myths related to explosions, vehicle stunts, and physics-based phenomena. As the show progresses, the complexity of the myths increases, requiring more sophisticated equipment and engineering solutions. The hosts frequently encounter unexpected results, leading to revisions of initial hypotheses and demonstrating the iterative nature of the scientific process. Later seasons introduce guest experts and more ambitious builds, expanding the scope of the investigations. While the show doesn't follow a traditional narrative arc, it showcases the evolution of the hosts' skills and the increasing sophistication of their experimental setups, culminating in increasingly complex and visually impressive tests.",
+        "categorized_keywords": {
+          "themes": [
+            "science-education",
+            "critical-thinking",
+            "experimentation",
+            "discovery",
+            "debunking",
+            "engineering"
+          ],
+          "plot_and_concepts": [
+            "scientific-method",
+            "controlled-experiment",
+            "hypothesis-testing",
+            "urban-legends",
+            "movie-mythology",
+            "engineering-challenges"
+          ],
+          "mood_and_tone": [
+            "humorous",
+            "energetic",
+            "informative",
+            "playful",
+            "exciting"
+          ],
+          "genre_and_tropes": [
+            "science-entertainment",
+            "reality-tv",
+            "documentary",
+            "engineering-builds"
+          ],
+          "setting": [
+            "workshop",
+            "laboratory",
+            "outdoor-testing-site",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "engineer",
+            "special-effects-expert",
+            "host",
+            "scientist"
+          ],
+          "narrative_style": [
+            "episodic",
+            "investigative",
+            "experimental"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "young-adult",
+            "science-enthusiasts"
+          ],
+          "detail_plot": [
+            "controlled-explosion",
+            "engineering-build",
+            "scientific-equipment",
+            "testing-ground",
+            "safety-protocols"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "MythBusters is an energetic science entertainment program that uses the scientific method and engineering builds to debunk popular myths and urban legends, encouraging critical thinking and discovery in a humorous and informative way."
+      },
+      "duration_seconds": 57.31077527999878
+    }
+  }
+}

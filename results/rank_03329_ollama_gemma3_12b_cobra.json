@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "COBRA",
+    "overview": "As widespread power outages cause chaos and threaten lives across the country, the COBRA (Cabinet Office Briefing Room) committee comprised of the UK’s leading experts and politicians, gathers to find a way to turn the lights back on.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2020,
+    "vote_count": 39
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "COBRA is a British political thriller series centered on the emergency response of the UK's COBRA committee during a nationwide crisis. The show explores themes of leadership, responsibility, and the fragility of societal infrastructure when faced with sudden and catastrophic events. With a focus on procedural decision-making and the complex interplay of political maneuvering and expert advice, COBRA offers a tense and realistic portrayal of crisis management, examining the pressures and ethical dilemmas faced by those in power. The series blends elements of political drama and disaster thriller, creating a suspenseful and thought-provoking narrative.",
+        "spoiler_rich_plot_summary": "The series begins with a sudden and widespread power outage plunging the United Kingdom into chaos. The COBRA committee, a group of top government officials and experts, is immediately convened to address the crisis and restore power. Initially, the focus is on identifying the cause of the outage, which is suspected to be a cyberattack. As the situation escalates, the committee struggles to maintain order and prevent widespread panic, facing challenges from both internal political disagreements and external threats. The investigation reveals a complex web of interconnected factors, implicating various individuals and organizations. The committee must navigate conflicting agendas and make difficult choices with potentially devastating consequences. Throughout the unfolding crisis, the series explores the personal lives and motivations of the committee members, revealing their vulnerabilities and the sacrifices they make in the name of national security. The series culminates in a tense confrontation as the true scope of the crisis is revealed, forcing the committee to make a final, decisive action to avert further disaster.",
+        "categorized_keywords": {
+          "themes": [
+            "national-security",
+            "political-responsibility",
+            "crisis-management",
+            "leadership",
+            "governmental-corruption",
+            "societal-collapse"
+          ],
+          "plot_and_concepts": [
+            "cyberattack",
+            "political-thriller",
+            "disaster-response",
+            "governmental-conspiracy",
+            "power-outage"
+          ],
+          "mood_and_tone": [
+            "tense",
+            "suspenseful",
+            "realistic",
+            "urgent",
+            "serious"
+          ],
+          "genre_and_tropes": [
+            "political-drama",
+            "disaster-thriller",
+            "procedural-drama"
+          ],
+          "setting": [
+            "united-kingdom",
+            "modern-day",
+            "government-building"
+          ],
+          "character_archetypes": [
+            "politician",
+            "expert-advisor",
+            "government-official"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "procedural-drama"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "cobra-committee",
+            "emergency-meeting",
+            "power-grid",
+            "situation-room"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "COBRA is a tense and realistic political thriller set in the United Kingdom, exploring themes of national security and governmental responsibility as a crisis management team confronts a devastating power outage and potential societal collapse."
+      },
+      "duration_seconds": 56.25489544868469
+    }
+  }
+}

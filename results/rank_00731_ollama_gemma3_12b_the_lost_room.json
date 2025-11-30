@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "The Lost Room",
+    "overview": "A detective investigates a mysterious motel room, which acts as a portal to an alternate universe.",
+    "genres": [
+      "Mystery",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2006,
+    "vote_count": 386
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Lost Room is a science fiction mystery series centered on a detective's investigation into a seemingly ordinary motel room that possesses extraordinary properties. The show blends procedural elements with a complex, layered narrative exploring themes of identity, memory, and the nature of reality. Its tone is initially grounded and realistic, gradually shifting to a more surreal and fantastical atmosphere as the mysteries deepen. The series offers a unique blend of suspense, intrigue, and philosophical exploration, inviting viewers to question the boundaries of perception and the fabric of existence.",
+        "spoiler_rich_plot_summary": "The series begins with Detective Joe Miller investigating the mysterious disappearance of a man from the Neptune Hotel's Room 10. This room is unlike any other; it's been sealed off, and those who attempt to enter vanish or experience bizarre phenomena. As Joe delves deeper, he discovers that Room 10 is not merely a room, but a gateway to a parallel universe, a 'lost room' containing objects with unique and powerful abilities. These objects, known as 'artifacts,' are scattered throughout our world, and various factions are vying for control of them, believing they hold the key to unimaginable power. Joe becomes entangled in a conflict between these factions, including a shadowy organization known as the Collectors and a group seeking to protect the artifacts. He learns that the room and its artifacts are connected to a larger, more complex reality, and that his own past is inextricably linked to the mysteries he is uncovering. The series follows Joe's journey as he navigates this dangerous world, confronting his own demons and grappling with the implications of the room's existence, ultimately leading to a confrontation with the forces controlling the artifacts and a revelation about the true nature of reality.",
+        "categorized_keywords": {
+          "themes": [
+            "reality-bending",
+            "identity-crisis",
+            "memory-loss",
+            "parallel-universes",
+            "power-corruption",
+            "fate-vs-free-will"
+          ],
+          "plot_and_concepts": [
+            "artifact-hunting",
+            "parallel-dimensions",
+            "mystery-procedural",
+            "conspiracy-theory",
+            "time-distortion"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "enigmatic",
+            "surreal",
+            "darkly-mysterious"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "mystery",
+            "parallel-world",
+            "found-family"
+          ],
+          "setting": [
+            "modern-day",
+            "new-england",
+            "alternate-reality"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "enigmatic-mentor",
+            "shadowy-antagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "mystery-box"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "neptune-hotel",
+            "room-10",
+            "artifact-collection",
+            "hotel-lobby",
+            "security-camera"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Lost Room is a suspenseful science fiction mystery series that explores themes of identity and parallel universes through the investigation of a mysterious hotel room and the powerful artifacts it contains."
+      },
+      "duration_seconds": 61.46789836883545
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "Good Mythical Morning",
+    "overview": "Two \"Internetainers\" (Rhett & Link) go far out and do the weirdest  things, giving you a daily dose of casual comedy every Monday-Friday.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2012,
+    "vote_count": 41
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Good Mythical Morning is a daily comedic web series featuring Rhett & Link, known for their internet presence. The show revolves around them engaging in unusual challenges, taste tests, and games, often with a lighthearted and absurd tone. It's characterized by its casual, improvisational style and its focus on creating a sense of shared experience with the audience. The series blends elements of variety shows, game shows, and comedic vlogs, offering a consistently upbeat and entertaining format.",
+        "spoiler_rich_plot_summary": "The series began with Rhett and Link, already established online personalities, deciding to create a daily show to connect with their audience in a more personal way. Each episode typically features a core segment, such as a taste test of bizarre food combinations, a challenge involving unusual tasks, or a comedic exploration of a specific topic. Over the years, the show has evolved to include recurring segments and guest appearances, maintaining its core premise of lighthearted entertainment and audience interaction. While there isn's a traditional narrative arc, the show has built a strong sense of community and a shared history with its viewers through its consistent format and ongoing comedic explorations.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "comedy",
+            "audience-interaction",
+            "shared-experience",
+            "humor"
+          ],
+          "plot_and_concepts": [
+            "taste-tests",
+            "challenges",
+            "game-show",
+            "vlog",
+            "recurring-segments"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "casual",
+            "upbeat",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "web-series",
+            "variety-show",
+            "daily-show"
+          ],
+          "setting": [
+            "studio-environment",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "comedian",
+            "internet-personality"
+          ],
+          "narrative_style": [
+            "episodic",
+            "daily-format"
+          ],
+          "target_audience": [
+            "young-adults",
+            "general-audience"
+          ],
+          "detail_plot": [
+            "taste-test-ingredients",
+            "challenge-props",
+            "studio-set"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Good Mythical Morning delivers a daily dose of lighthearted comedy through taste tests and challenges, fostering a sense of shared experience and community among its audience."
+      },
+      "duration_seconds": 47.66993451118469
+    }
+  }
+}

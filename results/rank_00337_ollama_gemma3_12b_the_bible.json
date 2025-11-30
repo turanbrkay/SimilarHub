@@ -1,0 +1,92 @@
+{
+  "input_data": {
+    "title": "The Bible",
+    "overview": "The story of God's creation of the Earth and the landmark events leading up to the Crucifixion of Jesus Christ.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2013,
+    "vote_count": 895
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Bible is a sweeping historical and religious drama that recounts the foundational narratives of Judaism and Christianity. The series blends epic storytelling with intense character studies, exploring themes of faith, betrayal, redemption, and the enduring struggle between good and evil. It aims to present a visually stunning and emotionally resonant portrayal of biblical events, often emphasizing the human drama within these monumental stories. The series is characterized by its grand scale, ambitious scope, and attempts to portray the complexities of faith and morality.",
+        "spoiler_rich_plot_summary": "The series begins with the creation of the world and humanity's fall from grace, followed by the story of Noah and the great flood. It then transitions to the patriarchal narratives of Abraham, Isaac, and Jacob, detailing their covenants with God and the establishment of the Israelite nation. The story progresses through the Exodus, depicting Moses's leadership in freeing the Israelites from Egyptian slavery and receiving the Ten Commandments. The narrative continues with the conquest of Canaan, the reign of kings David and Solomon, and the subsequent division of the kingdom into Israel and Judah. The later sections focus on the prophets, their warnings of impending doom, and the eventual Babylonian exile. The New Testament portion begins with the birth of Jesus, his ministry, his miracles, and his crucifixion, culminating in the belief in his resurrection and the early spread of Christianity.",
+        "categorized_keywords": {
+          "themes": [
+            "faith",
+            "redemption",
+            "betrayal",
+            "divine-intervention",
+            "moral-conflict",
+            "sacrifice",
+            "leadership",
+            "covenant",
+            "divine-justice"
+          ],
+          "plot_and_concepts": [
+            "creation-myth",
+            "exodus-story",
+            "prophecy",
+            "divine-revelation",
+            "monotheism",
+            "kingdom-building",
+            "political-intrigue"
+          ],
+          "mood_and_tone": [
+            "epic",
+            "solemn",
+            "spiritual",
+            "tragic",
+            "awe-inspiring"
+          ],
+          "genre_and_tropes": [
+            "historical-drama",
+            "religious-epic",
+            "biblical-narrative",
+            "origin-story"
+          ],
+          "setting": [
+            "ancient-middle-east",
+            "canaan",
+            "egypt",
+            "jerusalem",
+            "desert-landscape"
+          ],
+          "character_archetypes": [
+            "prophet",
+            "king",
+            "hero",
+            "villain",
+            "righteous-man",
+            "faithfull-woman"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "chronological-narrative",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "faith-based-audience"
+          ],
+          "detail_plot": [
+            "ark-of-the-covenant",
+            "ten-commandments",
+            "burning-bush",
+            "parted-red-sea",
+            "david-and-goliath"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "warfare",
+            "religious-themes"
+          ]
+        },
+        "keyword_sentence": "The Bible is an epic historical drama exploring themes of faith, redemption, and divine intervention, set against the backdrop of ancient Middle Eastern landscapes and populated by iconic figures who shape the foundations of a new covenant."
+      },
+      "duration_seconds": 71.31437039375305
+    }
+  }
+}

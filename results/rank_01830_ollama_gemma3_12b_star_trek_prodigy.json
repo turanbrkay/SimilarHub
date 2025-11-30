@@ -1,0 +1,86 @@
+{
+  "input_data": {
+    "title": "Star Trek: Prodigy",
+    "overview": "A motley crew of young rebellious aliens commandeer an old Starfleet ship and must figure out how to work together while navigating a greater galaxy, in search for a better future. These six young outcasts know nothing about the ship they have commandeered, but over the course of their adventures together, they will each be introduced to Starfleet and the ideals it represents.",
+    "genres": [
+      "Animation",
+      "Sci-Fi & Fantasy",
+      "Kids"
+    ],
+    "release_year": 2021,
+    "vote_count": 109
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Star Trek: Prodigy is a visually engaging animated series aimed at a younger audience, serving as a gateway into the Star Trek universe. The show follows a group of teenage aliens who unexpectedly acquire a derelict Starfleet vessel and embark on a journey of self-discovery and galactic exploration. It blends action-adventure with themes of teamwork, responsibility, and the ideals of Starfleet, offering a hopeful and accessible introduction to the franchise's core values while maintaining a sense of peril and excitement.",
+        "spoiler_rich_plot_summary": "The series begins with six young aliens – Dal, Gara, Rok, Zero, Murp, and Blix – each escaping difficult circumstances on their respective home planets. They stumble upon a discarded Starfleet ship, the USS Protostar, and inadvertently activate it, setting them on a course through the galaxy. Initially, the crew struggles to understand the ship's technology and the principles of Starfleet, leading to chaotic and humorous situations. As they journey, they encounter various threats, including the rogue Starfleet officer, Chakotay, who seeks to claim the Protostar for his own purposes. The young aliens gradually learn about Starfleet’s values of exploration, diplomacy, and defense, and begin to embrace these ideals themselves. They face challenges that force them to work together, overcome their personal flaws, and confront the consequences of their actions, ultimately striving to become worthy of the ship they command and the legacy of Starfleet.",
+        "categorized_keywords": {
+          "themes": [
+            "coming-of-age",
+            "teamwork",
+            "responsibility",
+            "hope",
+            "redemption",
+            "exploration",
+            "friendship"
+          ],
+          "plot_and_concepts": [
+            "space-exploration",
+            "ship-command",
+            "rogue-agent",
+            "galactic-conflict",
+            "derelict-vessel"
+          ],
+          "mood_and_tone": [
+            "optimistic",
+            "adventurous",
+            "humorous",
+            "hopeful",
+            "lighthearted"
+          ],
+          "genre_and_tropes": [
+            "sci-fi",
+            "animation",
+            "coming-of-age-story",
+            "found-family",
+            "space-opera"
+          ],
+          "setting": [
+            "outer-space",
+            "galactic-federation",
+            "starfleet",
+            "alternate-timeline"
+          ],
+          "character_archetypes": [
+            "rebellious-teenager",
+            "wise-mentor",
+            "rogue-agent",
+            "outsider",
+            "young-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "episodic-adventure"
+          ],
+          "target_audience": [
+            "kids",
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "starfleet-ship",
+            "alien-species",
+            "warp-drive",
+            "holodeck",
+            "starfleet-uniform"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Star Trek: Prodigy is a hopeful and adventurous animated series for a young audience, following a group of rebellious aliens as they explore the galaxy and learn the values of Starfleet while commanding a derelict ship."
+      },
+      "duration_seconds": 69.37317252159119
+    }
+  }
+}

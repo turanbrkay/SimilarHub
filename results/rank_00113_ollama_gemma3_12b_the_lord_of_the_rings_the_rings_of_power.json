@@ -1,0 +1,91 @@
+{
+  "input_data": {
+    "title": "The Lord of the Rings: The Rings of Power",
+    "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+    "genres": [
+      "Action & Adventure",
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "release_year": 2022,
+    "vote_count": 2210
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Rings of Power is a fantasy series set in the Second Age of Middle-earth, exploring the forging of the Rings of Power and the rise of Sauron. The series blends epic scope with character-driven narratives, focusing on diverse factions and individuals as they navigate a world on the brink of war. It aims to recapture the grandeur and mythology of Tolkien's world while introducing new perspectives and storylines. The tone is a mix of adventure, political intrigue, and underlying dread, creating a sense of impending doom. The series explores themes of power, corruption, and the enduring struggle between good and evil.",
+        "spoiler_rich_plot_summary": "The series begins with the discovery of a mysterious meteorite in Southlands, which Galadriel relentlessly pursues, believing it holds a connection to a growing darkness. Simultaneously, in the elven realm of Lindon, Elrond and Celebrimbor grapple with political tensions and the desire to reclaim lost glory. In the island kingdom of Númenor, Isildur and his family navigate the complexities of their society and the looming shadow of their king's ambition. As the series progresses, the meteorite is revealed to be a fragment of Sauron’s essence, and a new forge is established, leading to the creation of the Rings of Power. Celebrimbor, manipulated by Sauron, crafts the Rings, unaware of their true purpose. The narrative follows multiple storylines, including the struggles of the Harfoots, a precursor to the Hobbits, and the growing threat of orcs in the East. The forging of the One Ring marks a pivotal moment, setting the stage for the events of the Third Age and the War of the Ring. The series concludes with Sauron’s return and the beginning of a new era of conflict, leaving many characters facing uncertain futures and the looming threat of a renewed war.",
+        "categorized_keywords": {
+          "themes": [
+            "power-corrupts",
+            "good-vs-evil",
+            "fate-and-free-will",
+            "loss-and-redemption",
+            "friendship",
+            "sacrifice",
+            "legacy"
+          ],
+          "plot_and_concepts": [
+            "ring-forging",
+            "ancient-evil",
+            "political-intrigue",
+            "war-of-the-rings",
+            "quest-for-power",
+            "lost-civilizations"
+          ],
+          "mood_and_tone": [
+            "epic",
+            "dramatic",
+            "mysterious",
+            "hopeful",
+            "somber",
+            "tense"
+          ],
+          "genre_and_tropes": [
+            "high-fantasy",
+            "heroic-quest",
+            "found-family",
+            "ancient-prophecy",
+            "political-thriller"
+          ],
+          "setting": [
+            "middle-earth",
+            "numenor",
+            "lindon",
+            "southlands",
+            "ancient-forests"
+          ],
+          "character_archetypes": [
+            "wise-mentor",
+            "reluctant-hero",
+            "fallen-hero",
+            "corrupted-leader",
+            "determined-warrior"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "multiple-perspectives"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "fantasy-fans"
+          ],
+          "detail_plot": [
+            "ring-of-power",
+            "mithril",
+            "harfoots",
+            "elven-ships",
+            "numenorean-palace"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "political-betrayal"
+          ]
+        },
+        "keyword_sentence": "Set in the ancient world of Middle-earth, The Rings of Power is an epic fantasy series exploring themes of power, corruption, and the enduring struggle between good and evil through a sweeping narrative of political intrigue and heroic quests."
+      },
+      "duration_seconds": 80.16157484054565
+    }
+  }
+}

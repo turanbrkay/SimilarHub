@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Little Einsteins",
+    "overview": "A group of musically gifted and ethnically diverse children travel around the world in an artificially intelligent rocket named Rocket.",
+    "genres": [
+      "Animation",
+      "Family",
+      "Kids"
+    ],
+    "release_year": 2005,
+    "vote_count": 46
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Little Einsteins is a preschool animated series designed to introduce young children to classical music, art, and diverse cultures. The show follows a group of child explorers who embark on musical adventures around the globe, using their teamwork and problem-solving skills to overcome challenges. It blends educational content with engaging storytelling, fostering creativity and a love for learning in its target audience. The series emphasizes collaboration and celebrates cultural diversity through vibrant visuals and catchy musical scores.",
+        "spoiler_rich_plot_summary": "The series begins with the Little Einsteins – Leo, Annie, Quincy, and June – meeting in their home base, the Nest. Each episode typically involves a musical mission, often triggered by a request from a friend or a need to solve a problem in a specific location. They use their instruments and a magical map to navigate to their destination, encountering various landmarks and cultural elements along the way. Throughout their adventures, the Little Einsteins learn about different musical instruments, composers, and artistic styles. They consistently work together, using their unique skills to overcome obstacles and complete their missions, often culminating in a celebratory musical performance. The series maintains a consistently positive and encouraging tone, reinforcing the importance of friendship, exploration, and artistic expression. While the specific locations and musical pieces change each episode, the core dynamic of teamwork and discovery remains constant.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "exploration",
+            "cultural-diversity",
+            "teamwork",
+            "musical-education",
+            "problem-solving"
+          ],
+          "plot_and_concepts": [
+            "musical-adventure",
+            "treasure-hunt",
+            "world-travel",
+            "problem-solving-quest"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "optimistic",
+            "educational",
+            "playful"
+          ],
+          "genre_and_tropes": [
+            "childrens-animation",
+            "musical-comedy",
+            "educational-tv"
+          ],
+          "setting": [
+            "global-locations",
+            "imaginary-world",
+            "nest-hq"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "child-explorer"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "preschool-children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "rocket-ship",
+            "musical-map",
+            "instruments",
+            "landmarks"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Little Einsteins is a wholesome and educational children's animation series that follows a group of child explorers on musical adventures around the world, fostering friendship, cultural diversity, and a love for learning."
+      },
+      "duration_seconds": 55.48062467575073
+    }
+  }
+}

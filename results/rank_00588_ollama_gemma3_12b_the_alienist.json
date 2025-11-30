@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "The Alienist",
+    "overview": "New York, 1896. Police commissioner Theodore Roosevelt brings together criminal psychologist Dr. Laszlo Kreizler, newspaper illustrator John Moore and secretary Sara Howard to investigate several murders of male prostitutes.",
+    "genres": [
+      "Drama",
+      "Crime",
+      "Mystery"
+    ],
+    "release_year": 2018,
+    "vote_count": 503
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Alienist is a historical crime drama set in 1896 New York City, blending elements of mystery, psychological thriller, and social commentary. The series follows a team assembled by Police Commissioner Theodore Roosevelt to investigate a series of gruesome murders, delving into the nascent field of criminal psychology and exposing the dark underbelly of Victorian-era society. It explores themes of morality, class disparity, and the origins of criminal behavior, offering a suspenseful and atmospheric viewing experience with a focus on character development and intricate plotting.",
+        "spoiler_rich_plot_summary": "The series begins with the discovery of multiple murdered male prostitutes, prompting Police Commissioner Theodore Roosevelt to assemble a team led by criminal psychologist Dr. Laszlo Kreizler. Joining him are newspaper illustrator John Moore and secretary Sara Howard, who is determined to prove her worth in a male-dominated profession. Their investigation leads them to uncover a pattern of abuse and exploitation, revealing a network of powerful individuals involved in trafficking and manipulating vulnerable young men. As they delve deeper, the team confronts resistance from within the police force and the city's elite, who seek to protect their reputations and maintain the status quo. Sara’s own past is revealed, connecting her to the victims and adding a layer of personal stakes to the investigation. The team uncovers a conspiracy involving a prominent businessman and his family, who are revealed to be the orchestrators of the horrific crimes. The investigation culminates in a confrontation with the perpetrators, exposing their depravity and bringing a measure of justice to the victims, though the scars of the case linger for all involved. The series concludes with the team disbanding, but with a renewed commitment to fighting injustice and a deeper understanding of the complexities of human nature.",
+        "categorized_keywords": {
+          "themes": [
+            "social-injustice",
+            "corruption",
+            "abuse-of-power",
+            "redemption",
+            "identity-quest",
+            "moral-ambiguity",
+            "class-disparity"
+          ],
+          "plot_and_concepts": [
+            "serial-killer",
+            "police-investigation",
+            "historical-mystery",
+            "conspiracy",
+            "psychological-thriller",
+            "found-family"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "suspenseful",
+            "atmospheric",
+            "grim",
+            "brooding"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "historical-drama",
+            "mystery",
+            "psychological-thriller"
+          ],
+          "setting": [
+            "new-york-city",
+            "1890s",
+            "victorian-era"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "strong-female-lead",
+            "morally-gray-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "newspaper-illustrations",
+            "police-archives",
+            "victorian-clothing",
+            "gaslight-streetlamps"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "sexual-content",
+            "abuse-themes"
+          ]
+        },
+        "keyword_sentence": "Set in 1896 New York City, The Alienist is a dark and suspenseful crime drama that explores themes of social injustice and corruption through a police investigation into a series of horrific crimes, revealing the dark underbelly of Victorian society."
+      },
+      "duration_seconds": 72.83511686325073
+    }
+  }
+}

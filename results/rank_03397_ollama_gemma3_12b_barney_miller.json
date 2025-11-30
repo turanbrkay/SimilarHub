@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "Barney Miller",
+    "overview": "Barney Miller is an American situation comedy television series set in a New York City police station in Greenwich Village. The series originally was broadcast from January 23, 1975 to May 20, 1982 on ABC. It was created by Danny Arnold and Theodore J. Flicker. Noam Pitlik directed the majority of the episodes.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1975,
+    "vote_count": 38
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Barney Miller is a sitcom that distinguishes itself through its observational humor and grounded portrayal of police work. Set in a New York City precinct, the series focuses on the interactions between officers and the often-eccentric individuals who pass through their doors. Rather than relying on elaborate plots or dramatic action, the show derives its comedy from witty dialogue, character-driven situations, and a gentle exploration of human nature. It offers a warm and optimistic view of community and understanding, making it a comforting and enduring classic.",
+        "spoiler_rich_plot_summary": "The series begins with the arrival of Captain Barney Miller and his Sergeant, Ralph Maltese, to the 12th Precinct in Greenwich Village. Initially struggling to adapt to the precinct's relaxed atmosphere and unconventional methods, Barney and Ralph gradually build rapport with their colleagues, including the quirky and often unpredictable Officers Wojciechowski and Harris. Throughout the series, the officers handle a variety of unusual cases, often more comedic than criminal, while simultaneously navigating the challenges of personal relationships and professional growth. The show explores themes of cultural differences, prejudice, and the importance of empathy, as Barney and Ralph strive to maintain order and understanding within the diverse community they serve. While the series maintains a lighthearted tone, it subtly addresses social issues and celebrates the power of human connection, culminating in a poignant farewell as Barney and Ralph retire, leaving behind a legacy of kindness and compassion.",
+        "categorized_keywords": {
+          "themes": [
+            "community",
+            "understanding",
+            "tolerance",
+            "friendship",
+            "police-work",
+            "cultural-differences"
+          ],
+          "plot_and_concepts": [
+            "sitcom",
+            "police-procedural",
+            "slice-of-life",
+            "character-driven"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "warm",
+            "optimistic",
+            "gentle"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "workplace-comedy"
+          ],
+          "setting": [
+            "new-york-city",
+            "greenwich-village",
+            "police-station"
+          ],
+          "character_archetypes": [
+            "straight-man",
+            "quirky-colleague",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "police-station",
+            "precinct-house",
+            "desk-job",
+            "arrest-report"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Barney Miller is a lighthearted and optimistic sitcom set in a New York City police station, exploring themes of community and understanding through a cast of quirky characters and gentle humor."
+      },
+      "duration_seconds": 52.45045280456543
+    }
+  }
+}

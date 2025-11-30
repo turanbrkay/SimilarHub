@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "El Tigre: The Adventures of Manny Rivera",
+    "overview": "The daily adventures of a 12 year old Mexican superhero dealing with bizarre enemies, as well as his own superhero father and villain grandfather.",
+    "genres": [
+      "Action & Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "release_year": 2007,
+    "vote_count": 36
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "El Tigre: The Adventures of Manny Rivera is a vibrant, comedic action-adventure series blending superhero tropes with Mexican folklore and culture. The show follows a young boy balancing his ordinary life with his destiny as a superhero, constantly navigating conflicts between his well-intentioned father and his villainous grandfather. It offers a lighthearted and energetic viewing experience, appealing to a family audience with its humor and action sequences while subtly exploring themes of family, responsibility, and finding one's place in the world.",
+        "spoiler_rich_plot_summary": "The series centers on Manny Rivera, a 12-year-old boy who inherits the mantle of El Tigre, a superhero tasked with protecting the town of Santo Gato from various threats. Manny's life is complicated by his father, a former superhero trying to live a normal life, and his grandfather, a notorious supervillain. Throughout the series, Manny struggles to reconcile his heroic duties with his desire for a normal childhood, often finding himself caught between his father's attempts to guide him and his grandfather's manipulative schemes. Recurring villains and challenges arise, forcing Manny to develop his powers and learn valuable lessons about responsibility and the importance of family. The series explores the complex relationship between Manny, his father, and his grandfather, showcasing a constant push and pull between good and evil, and ultimately highlighting the importance of choosing one's own path. While Manny faces numerous adversaries, the overarching narrative revolves around his personal growth and his understanding of what it truly means to be a hero.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "heroism",
+            "responsibility",
+            "good-vs-evil",
+            "cultural-identity"
+          ],
+          "plot_and_concepts": [
+            "superhero-origin",
+            "generational-conflict",
+            "coming-of-age",
+            "revenge",
+            "legacy"
+          ],
+          "mood_and_tone": [
+            "humorous",
+            "action-packed",
+            "lighthearted",
+            "energetic"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "superhero-comedy",
+            "coming-of-age-story",
+            "family-comedy"
+          ],
+          "setting": [
+            "mexican-culture",
+            "small-town-usa",
+            "fictional-town"
+          ],
+          "character_archetypes": [
+            "young-hero",
+            "reluctant-hero",
+            "villainous-grandfather",
+            "former-hero"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "superhero-costume",
+            "mexican-folklore",
+            "supervillain-lair",
+            "family-taco-shop"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "El Tigre: The Adventures of Manny Rivera is a lighthearted and energetic action-adventure series blending superhero tropes with Mexican culture as a young hero navigates family conflicts and embraces his destiny."
+      },
+      "duration_seconds": 58.1943416595459
+    }
+  }
+}

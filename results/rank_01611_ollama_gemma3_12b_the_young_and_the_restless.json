@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "The Young and the Restless",
+    "overview": "The rivalries, romances, hopes and fears of the residents of the fictional Midwestern metropolis, Genoa City. The lives and loves of a wide variety of characters mingle through the generations, dominated by the Newman, Abbott, Baldwin and Winters families.",
+    "genres": [
+      "Soap"
+    ],
+    "release_year": 1973,
+    "vote_count": 130
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Young and the Restless is a long-running American soap opera centered on the interconnected lives of several prominent families in Genoa City. The series explores themes of love, betrayal, ambition, and family loyalty, often through dramatic plot twists and complex relationships. Known for its expansive cast and intricate storylines, the show consistently portrays the ups and downs of personal and professional lives, appealing to a dedicated audience seeking ongoing emotional engagement. The show's longevity is a testament to its ability to adapt to changing tastes while maintaining core elements of the soap opera genre.",
+        "spoiler_rich_plot_summary": "The series initially focuses on the lives of Victor Newman, a ruthless businessman, and his family, alongside the Abbott family, rivals in the business world. Early storylines revolve around romantic entanglements, corporate power struggles, and the challenges of raising families. As the years progress, new characters are introduced, expanding the scope of the narrative and deepening the web of relationships. Numerous characters experience dramatic shifts in their personal lives, including marriages, divorces, and unexpected deaths. Corporate takeovers, hidden identities, and long-lost relatives frequently disrupt the status quo, creating ongoing conflict and suspense. Throughout the decades, the series has explored various social issues and incorporated contemporary storylines, ensuring its continued relevance to audiences. The Newman and Abbott families remain central, constantly vying for power and influence, while new generations emerge, carrying on the legacy of their predecessors and creating fresh conflicts.",
+        "categorized_keywords": {
+          "themes": [
+            "family-loyalty",
+            "corporate-power",
+            "romantic-rivalry",
+            "betrayal",
+            "social-status",
+            "generational-conflict"
+          ],
+          "plot_and_concepts": [
+            "soap-opera",
+            "corporate-takeover",
+            "hidden-identity",
+            "long-lost-relative",
+            "romantic-entanglement"
+          ],
+          "mood_and_tone": [
+            "dramatic",
+            "melodramatic",
+            "romantic",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "soap-opera",
+            "generational-saga",
+            "love-triangle",
+            "family-drama"
+          ],
+          "setting": [
+            "fictional-city",
+            "modern-day",
+            "midwestern-us"
+          ],
+          "character_archetypes": [
+            "ruthless-businessman",
+            "socialite",
+            "family-patriarch",
+            "scheming-villain"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "generational-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "family-business",
+            "social-event",
+            "courtroom-scene",
+            "fashion-show"
+          ],
+          "maturity_and_content": [
+            "affair",
+            "emotional-manipulation"
+          ]
+        },
+        "keyword_sentence": "The Young and the Restless is a long-running soap opera exploring themes of family loyalty and corporate power within a fictional midwestern city, showcasing dramatic romantic rivalries and emotional manipulation across generations."
+      },
+      "duration_seconds": 65.99322509765625
+    }
+  }
+}

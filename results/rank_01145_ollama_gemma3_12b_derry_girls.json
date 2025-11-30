@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Derry Girls",
+    "overview": "Amidst the political conflict of Northern Ireland in the 1990s, five secondary school students square off with the universal challenges of being a teenager.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2018,
+    "vote_count": 216
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Derry Girls is a coming-of-age comedy-drama series set against the backdrop of the Troubles in Northern Ireland during the 1990s. The show follows a group of teenage girls navigating the complexities of adolescence while dealing with the political unrest and military presence in their community. It blends humor and heart, offering a unique perspective on a turbulent period in history through the lens of youthful innocence and resilience. The series explores themes of friendship, family, and identity, offering a poignant and often hilarious portrayal of a generation growing up amidst conflict.",
+        "spoiler_rich_plot_summary": "The series begins with Erin, Orla, Clare, Michelle, and James, navigating the usual teenage dramas of school, crushes, and family life in Derry, Northern Ireland. Their lives are constantly interrupted by the ongoing conflict, with British soldiers a regular presence and occasional bomb scares. Throughout the series, the girls experience various challenges, including navigating their families' eccentricities, dealing with romantic entanglements, and confronting the realities of the political situation. They often find themselves inadvertently caught up in events related to the Troubles, leading to humorous and occasionally tense situations. As the series progresses, the girls mature and gain a deeper understanding of the world around them, while maintaining their close-knit friendship and finding moments of joy and connection amidst the turmoil. The final season sees the girls facing a pivotal moment, reflecting on their experiences and preparing to move on to the next chapter of their lives, forever bound by the shared memories of their adolescence in Derry.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "family-dynamics",
+            "coming-of-age",
+            "identity-quest",
+            "political-conflict",
+            "innocence",
+            "resilience"
+          ],
+          "plot_and_concepts": [
+            "teen-comedy",
+            "political-satire",
+            "found-family",
+            "coming-of-age-story"
+          ],
+          "mood_and_tone": [
+            "humorous",
+            "lighthearted",
+            "nostalgic",
+            "poignant"
+          ],
+          "genre_and_tropes": [
+            "teen-comedy",
+            "slice-of-life",
+            "british-humor"
+          ],
+          "setting": [
+            "northern-ireland",
+            "1990s",
+            "derry-city"
+          ],
+          "character_archetypes": [
+            "quirky-teenager",
+            "eccentric-family",
+            "reluctant-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "british-army-patrols",
+            "school-uniform",
+            "local-pub",
+            "catholic-school"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Derry Girls is a lighthearted and nostalgic teen comedy set in 1990s Northern Ireland, exploring themes of friendship and family amidst the backdrop of political conflict."
+      },
+      "duration_seconds": 62.14253568649292
+    }
+  }
+}

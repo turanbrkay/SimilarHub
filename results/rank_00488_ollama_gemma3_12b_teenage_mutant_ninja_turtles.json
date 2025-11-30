@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "Teenage Mutant Ninja Turtles",
+    "overview": "Four turtles fall into the sewers and are befriended by Hamato Yoshi a Japanese man sent to New York who was forced to live in the sewers. One day he sees a strange green glow which transforms the four turtles into human-like creatures. Hamato (now Master Splinter) changes into a giant rat from the green glow and teaches the turtles the skills of the ninja as they team up with news reporter April O'Neil to battle against Yoshi's arch enemy Shredder and Krang, an alien warlord from Dimension X.",
+    "genres": [
+      "Action & Adventure",
+      "Animation",
+      "Comedy",
+      "Kids"
+    ],
+    "release_year": 1987,
+    "vote_count": 635
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Teenage Mutant Ninja Turtles is a vibrant, comedic action-adventure series centered on four turtle brothers trained in ninjutsu who fight crime in New York City. The show blends martial arts action with lighthearted humor and a strong emphasis on family and teamwork. It appeals to a younger audience with its colorful animation and accessible storylines, while also incorporating elements of science fiction and fantasy through encounters with alien adversaries. The series explores themes of brotherhood, responsibility, and overcoming adversity in a fun and engaging way.",
+        "spoiler_rich_plot_summary": "The series begins with four baby turtles, accidentally exposed to a strange mutagen, transforming into humanoid creatures. Hamato Yoshi, a Japanese martial artist, finds the turtles and raises them as his own, becoming Master Splinter. He trains them in the art of ninjutsu, and they adopt the names Leonardo, Donatello, Michelangelo, and Raphael. They operate as masked vigilantes, battling the criminal activities of the Shredder, a skilled ninja and leader of the Foot Clan, and his alliance with Krang, a warlord from Dimension X. Throughout the series, the turtles face numerous challenges, including internal conflicts, betrayals within the Foot Clan, and the constant threat of Krang’s invasion. They consistently work to protect New York City and thwart the Shredder and Krang’s schemes, often with the assistance of April O’Neil, a local news reporter. The series culminates in ongoing battles against increasingly powerful adversaries, with the turtles continually honing their skills and strengthening their bond as a family.",
+        "categorized_keywords": {
+          "themes": [
+            "brotherhood",
+            "family-loyalty",
+            "responsibility",
+            "good-vs-evil",
+            "teamwork",
+            "coming-of-age"
+          ],
+          "plot_and_concepts": [
+            "martial-arts",
+            "mutation",
+            "crime-fighting",
+            "dimensional-travel",
+            "secret-identity",
+            "villain-alliance"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "comedic",
+            "action-packed",
+            "wholesome",
+            "adventurous"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "animation",
+            "superhero-action",
+            "found-family",
+            "monster-of-the-week"
+          ],
+          "setting": [
+            "new-york-city",
+            "sewers",
+            "alternate-dimension"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "comic-relief",
+            "skilled-warrior"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "kids",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "ninja-turtle",
+            "katana",
+            "foot-clan",
+            "krang",
+            "april-oneil",
+            "master-splinter"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Teenage Mutant Ninja Turtles is a lighthearted, action-packed animation series about four brothers who embrace their ninja skills to protect New York City and their community, showcasing themes of family loyalty and responsibility."
+      },
+      "duration_seconds": 60.43379807472229
+    }
+  }
+}

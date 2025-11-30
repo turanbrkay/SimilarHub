@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "The Legend of Tarzan",
+    "overview": "The Legend of Tarzan is an American animated television series created by The Walt Disney Company in 2001, based on the Tarzan character created by Edgar Rice Burroughs. The series aired on ABC from July 13 to September 7, 2002 as part of its \"Disney's One Saturday Morning\" lineup. It was initially meant as first original series though ultimately shunted to UPN's \"Disney's One Too\" lineup. The Legend of Tarzan picks up where the 1999 feature film left off, with the title character adjusting to his new role as leader of the apes following Kerchak's death, and Jane adjusting to life in the jungle. Rounding out the cast are Jane's father, Professor Archimedes Porter; Tantor, the germophobic elephant; and Terk, a wisecracking female gorilla and Tarzan's old wrestling buddy.",
+    "genres": [
+      "Action & Adventure",
+      "Animation",
+      "Kids"
+    ],
+    "release_year": 2001,
+    "vote_count": 71
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Legend of Tarzan is a 2001 animated series continuing the story of the Disney film. It follows Tarzan as he navigates his role as leader of the apes while Jane adapts to jungle life. The series blends action and adventure with comedic elements, targeting a younger audience with a focus on friendship, family, and embracing one's environment. It aims to recapture the charm of the original film while introducing new characters and storylines within the established world.",
+        "spoiler_rich_plot_summary": "Picking up after the events of the film, Tarzan assumes his position as leader of the gorilla tribe, facing challenges in maintaining order and protecting his family. Jane, now fully integrated into the jungle, works alongside Tarzan, often using her intelligence and resourcefulness to solve problems. Professor Porter, Jane's father, provides scientific expertise and occasionally finds himself in comical predicaments. The series introduces new threats and conflicts, ranging from rival tribes to dangerous creatures, testing Tarzan's leadership and Jane's adaptability. Throughout the series, the core themes of belonging, responsibility, and the balance between civilization and nature are explored, with Tarzan and Jane continually learning and growing as individuals and as a couple. The series concludes with Tarzan solidifying his role as protector of the jungle, and Jane embracing her life within it, both having found a unique and fulfilling existence.",
+        "categorized_keywords": {
+          "themes": [
+            "family-loyalty",
+            "leadership",
+            "belonging",
+            "responsibility",
+            "nature-vs-civilization",
+            "friendship"
+          ],
+          "plot_and_concepts": [
+            "jungle-adventure",
+            "coming-of-age",
+            "animal-communication",
+            "tribal-conflict"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "adventurous"
+          ],
+          "genre_and_tropes": [
+            "animated-series",
+            "action-adventure",
+            "found-family",
+            "coming-of-age-story"
+          ],
+          "setting": [
+            "african-jungle",
+            "remote-location",
+            "wildlife-habitat"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "resourceful-heroine",
+            "eccentric-scientist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "kids",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "gorilla-tribe",
+            "jungle-vine",
+            "animal-companions",
+            "remote-research-station"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Legend of Tarzan is a lighthearted animated series following a young hero and his family as they navigate jungle adventures and embrace their roles within a vibrant wildlife habitat."
+      },
+      "duration_seconds": 87.15051007270813
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "input_data": {
+    "title": "Zombieland",
+    "overview": "Four survivors are killin' zombies and searching for a place to call home.",
+    "genres": [
+      "Comedy",
+      "Action & Adventure"
+    ],
+    "release_year": 2013,
+    "vote_count": 57
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Zombieland is a comedic action-adventure series following a group of strangers navigating a zombie apocalypse. The show blends humor with intense survival scenarios, exploring themes of found family and the challenges of rebuilding society in a world overrun by the undead. It offers a lighthearted yet thrilling experience, balancing comedic moments with genuine peril and character development as the protagonists forge bonds and confront both external threats and their own personal demons. The series maintains a fast-paced narrative and a quirky sense of humor, making it an entertaining and engaging watch.",
+        "spoiler_rich_plot_summary": "The series begins with Columbus, Wichita, Tallahassee, and Little Rock, four individuals who have independently learned to survive in a zombie-infested America. Columbus, a meticulous planner, adheres to a strict set of rules to stay alive. Wichita and her younger brother Little Rock are skilled survivors, initially focused on self-preservation. Tallahassee, a hardened loner, seeks revenge for a personal tragedy. They reluctantly join forces, forming an unconventional family as they travel across the country in search of a safe haven. Their journey is fraught with danger, encountering hordes of zombies and other desperate survivors, some friendly, others hostile. As they travel, they encounter new characters who join their group, each bringing their own skills and baggage. The group faces moral dilemmas, navigating the complexities of survival and the loss of innocence. They confront their past traumas and learn to rely on each other, ultimately redefining what it means to be a family in a world devoid of normalcy. The search for a permanent home leads them to various locations, each presenting unique challenges and forcing them to adapt and evolve. The series culminates in a confrontation with a significant threat, testing the bonds of their found family and forcing them to make difficult choices about their future.",
+        "categorized_keywords": {
+          "themes": [
+            "survival",
+            "found-family",
+            "loss-of-innocence",
+            "redemption",
+            "hope",
+            "zombie-apocalypse"
+          ],
+          "plot_and_concepts": [
+            "zombie-survival",
+            "road-trip",
+            "found-family-dynamic",
+            "rule-based-living",
+            "post-apocalyptic-society"
+          ],
+          "mood_and_tone": [
+            "comedic",
+            "action-packed",
+            "darkly-humorous",
+            "suspenseful",
+            "lighthearted"
+          ],
+          "genre_and_tropes": [
+            "zombie-comedy",
+            "action-adventure",
+            "road-movie",
+            "found-family",
+            "post-apocalyptic"
+          ],
+          "setting": [
+            "post-apocalyptic-america",
+            "rural-america",
+            "american-roadways"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "lone-wolf",
+            "protective-sibling",
+            "planner",
+            "anti-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "episodic-adventure"
+          ],
+          "target_audience": [
+            "young-adult",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "zombie-horde",
+            "survival-kit",
+            "road-trip-vehicle",
+            "safe-house",
+            "zombie-kill"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "zombie-gore"
+          ]
+        },
+        "keyword_sentence": "Zombieland is a darkly humorous action-adventure series about a found family navigating a zombie apocalypse across rural America, relying on strict rules and quick thinking to survive."
+      },
+      "duration_seconds": 70.17051434516907
+    }
+  }
+}

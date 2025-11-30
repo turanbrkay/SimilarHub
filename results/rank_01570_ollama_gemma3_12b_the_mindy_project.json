@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "The Mindy Project",
+    "overview": "Obstetrician/gynecologist Mindy Lahiri tries to balance her personal and professional life, surrounded by quirky co-workers in a small medical practice in New York City.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2012,
+    "vote_count": 134
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Mindy Project is a comedic series centered on the life and loves of Mindy Lahiri, a vibrant and stylish obstetrician/gynecologist. The show blends romantic comedy tropes with a workplace setting, exploring themes of ambition, relationships, and self-discovery. Mindy's journey is characterized by her often-misguided attempts at finding love and professional success, all while navigating the complexities of her relationships with her colleagues and friends. The series offers a lighthearted and often irreverent portrayal of modern life, with a focus on female empowerment and embracing individuality.",
+        "spoiler_rich_plot_summary": "The series begins with Mindy, a successful OB/GYN, feeling unfulfilled in her personal life and seeking a romantic partner. She navigates a series of relationships, often driven by her idealized notions of romance, leading to humorous and often disastrous outcomes. Throughout the series, Mindy's professional life evolves as she strives to improve the practice and her own skills. She experiences both successes and setbacks, learning valuable lessons about leadership and teamwork. Relationships with her colleagues, particularly Danny Castellano, evolve from initial animosity to a complex and ultimately romantic connection. As the series progresses, Mindy matures, gaining a clearer understanding of herself and her priorities. She faces challenges in her career and personal life, including the complexities of motherhood and balancing work with family. The show concludes with Mindy finding stability and happiness, having achieved both professional success and a fulfilling personal life, surrounded by her chosen family.",
+        "categorized_keywords": {
+          "themes": [
+            "romantic-comedy",
+            "female-empowerment",
+            "self-discovery",
+            "relationships",
+            "career-ambition",
+            "found-family"
+          ],
+          "plot_and_concepts": [
+            "workplace-comedy",
+            "romantic-pursuit",
+            "career-growth",
+            "relationship-dynamics"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "humorous",
+            "optimistic",
+            "quirky"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "romantic-comedy",
+            "workplace-comedy"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day",
+            "medical-practice"
+          ],
+          "character_archetypes": [
+            "romantic-lead",
+            "quirky-best-friend",
+            "workplace-rival",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "medical-practice",
+            "fashion-style",
+            "romantic-dates",
+            "office-pranks"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Mindy Project is a lighthearted sitcom set in New York City, following a vibrant and stylish obstetrician as she navigates romantic pursuits, career ambition, and the complexities of relationships with her quirky colleagues and friends."
+      },
+      "duration_seconds": 65.58306670188904
+    }
+  }
+}

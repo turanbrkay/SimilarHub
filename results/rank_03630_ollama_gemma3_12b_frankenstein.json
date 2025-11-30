@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Frankenstein",
+    "overview": "Adaption of Mary Shelley's novel about a scientist who brings life to a creature fashioned from corpses and various body parts.",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2004,
+    "vote_count": 33
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Frankenstein (2004) is a dark and atmospheric adaptation of Mary Shelley's classic novel, exploring themes of creation, responsibility, and the consequences of unchecked ambition. The series delves into the psychological torment of Victor Frankenstein and the tragic existence of his creation, examining the blurred lines between science and morality. With a gothic aesthetic and a focus on character development, the show offers a somber and thought-provoking exploration of humanity's potential for both brilliance and destruction. It blends elements of science fiction, horror, and drama to create a compelling narrative about isolation, prejudice, and the search for belonging.",
+        "spoiler_rich_plot_summary": "The series begins with Victor Frankenstein, a brilliant but reckless young scientist, driven by a desire to conquer death and create life. He assembles a creature from various body parts, bringing it to life in a moment of triumph quickly followed by horror. Disgusted by his creation's appearance, Victor abandons it, leaving it to fend for itself. The Creature, intelligent and sensitive, attempts to learn about the world and find acceptance, but is met with fear and violence due to his monstrous appearance. He seeks out Victor, demanding a companion, and when denied, embarks on a path of revenge, targeting those close to Victor. As Victor struggles with guilt and attempts to undo his creation, the Creature's actions escalate, leading to a tragic cycle of loss and destruction. The series explores the Creature's journey from innocence to bitterness, and Victor's descent into despair as he confronts the devastating consequences of his ambition. Ultimately, the narrative culminates in a confrontation between creator and creation, with both facing a bleak and irreversible fate.",
+        "categorized_keywords": {
+          "themes": [
+            "creation",
+            "responsibility",
+            "ambition",
+            "isolation",
+            "revenge",
+            "guilt",
+            "prejudice",
+            "humanity",
+            "mortality"
+          ],
+          "plot_and_concepts": [
+            "scientific-experiment",
+            "creation-myth",
+            "revenge-plot",
+            "monster-origin",
+            "gothic-horror"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "somber",
+            "tragic",
+            "atmospheric",
+            "melancholy"
+          ],
+          "genre_and_tropes": [
+            "gothic-horror",
+            "science-fiction",
+            "monster-story",
+            "revenge-tragedy"
+          ],
+          "setting": [
+            "19th-century",
+            "european-countryside",
+            "gothic-architecture"
+          ],
+          "character_archetypes": [
+            "mad-scientist",
+            "tragic-hero",
+            "misunderstood-monster"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "character-driven"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "laboratory-equipment",
+            "corpse",
+            "lightning-storm",
+            "gothic-castle"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "body-horror"
+          ]
+        },
+        "keyword_sentence": "This dark and tragic series explores themes of creation and responsibility through the lens of gothic horror, depicting a mad scientist’s ambition and the misunderstood monster he brings to life in a somber 19th-century setting."
+      },
+      "duration_seconds": 85.46335101127625
+    }
+  }
+}

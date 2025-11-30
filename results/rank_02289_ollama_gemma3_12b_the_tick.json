@@ -1,0 +1,70 @@
+{
+  "input_data": {
+    "title": "The Tick",
+    "overview": "Based on Ben Edlund's cult comic, a mysterious blue avenger teams up with an odd group of superheroes to fight crime.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2001,
+    "vote_count": 78
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Tick is a comedic superhero series that blends absurdist humor with genuine heart. The show follows a relentlessly optimistic, blue-suited hero and his reluctant partner as they navigate a world of quirky villains and unexpected dangers. It satirizes superhero tropes while simultaneously celebrating the power of friendship and embracing the joy of embracing the absurd. The series offers a lighthearted and often self-aware exploration of heroism and the importance of believing in something, even when everything seems ridiculous.",
+        "spoiler_rich_plot_summary": "The series begins with Arthur Putnam, a man struggling with paranoia and social anxiety, encountering the Tick, a large, blue, and incredibly enthusiastic superhero. Initially believing the Tick to be a figment of his imagination, Arthur reluctantly becomes his sidekick, navigating a city teeming with bizarre threats and eccentric villains. As they investigate various schemes, they encounter a diverse group of individuals, some of whom possess extraordinary abilities and become part of their makeshift team. Throughout the series, Arthur grapples with his own mental health and learns to trust his instincts and embrace his role in protecting the city. The Tick, meanwhile, remains blissfully unaware of the complexities of the world around him, providing a constant source of comedic relief and unexpected heroism. The overarching narrative involves uncovering a larger conspiracy threatening the city, forcing Arthur and the Tick to confront their own limitations and rely on each other to overcome seemingly insurmountable odds. While the Tick's unwavering optimism often clashes with Arthur's anxieties, their bond strengthens as they face increasingly dangerous situations, ultimately demonstrating the power of unlikely partnerships.",
+        "categorized_keywords": {
+          "themes": [
+            "optimism",
+            "friendship",
+            "heroism",
+            "absurdity",
+            "mental-health",
+            "trust"
+          ],
+          "plot_and_concepts": [
+            "superhero-team",
+            "paranoia",
+            "conspiracy",
+            "crime-fighting"
+          ],
+          "mood_and_tone": [
+            "comedic",
+            "lighthearted",
+            "quirky",
+            "satirical"
+          ],
+          "genre_and_tropes": [
+            "superhero-comedy",
+            "found-family",
+            "satirical-comedy"
+          ],
+          "setting": [
+            "urban-setting",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "optimistic-hero",
+            "reluctant-hero",
+            "anxious-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "blue-suit",
+            "cityscape",
+            "superhero-lair"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Tick is a lighthearted superhero comedy series that explores themes of friendship and heroism through the unlikely partnership of an optimistic hero and an anxious protagonist in a quirky urban setting."
+      },
+      "duration_seconds": 57.67301678657532
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Life on Earth",
+    "overview": "The story of life, from the first primitive cells to the plants and animals that now live around us.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 1979,
+    "vote_count": 31
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Life on Earth is a landmark documentary series that chronicles the history of life on our planet, from its earliest beginnings to the diverse ecosystems we see today. Through stunning visuals and David Attenborough's narration, the series explores evolutionary processes, ecological relationships, and the interconnectedness of all living things. It offers a sweeping and accessible overview of biology, emphasizing the resilience and adaptability of life in the face of environmental change. The series aims to educate and inspire a deeper appreciation for the natural world and the delicate balance that sustains it.",
+        "spoiler_rich_plot_summary": "The series begins with the primordial soup, detailing the formation of the first single-celled organisms and their subsequent evolution. It then follows the progression of life through various epochs, showcasing the Cambrian explosion of biodiversity, the rise of reptiles and dinosaurs, and the eventual extinction events that reshaped the planet. The narrative traces the development of mammals, including primates, and culminates in the emergence of humankind. Throughout the series, the focus remains on the interplay between species and their environment, highlighting the constant struggle for survival and the ongoing process of adaptation. The series emphasizes the cyclical nature of life, demonstrating how extinction often paves the way for new forms of life to flourish, and how the Earth's history is a continuous story of change and renewal.",
+        "categorized_keywords": {
+          "themes": [
+            "evolution",
+            "adaptation",
+            "biodiversity",
+            "ecosystems",
+            "survival",
+            "natural-history"
+          ],
+          "plot_and_concepts": [
+            "cambrian-explosion",
+            "extinction-events",
+            "primates",
+            "natural-selection",
+            "fossil-record"
+          ],
+          "mood_and_tone": [
+            "educational",
+            "awe-inspiring",
+            "observational",
+            "scientific",
+            "informative"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "nature-documentary",
+            "scientific-exploration"
+          ],
+          "setting": [
+            "earth",
+            "prehistoric-era",
+            "modern-era",
+            "global-ecosystems"
+          ],
+          "character_archetypes": [],
+          "narrative_style": [
+            "chronological-narrative",
+            "observational-style"
+          ],
+          "target_audience": [
+            "general-audience",
+            "science-enthusiasts",
+            "students"
+          ],
+          "detail_plot": [
+            "fossil-remains",
+            "ancient-seas",
+            "coral-reefs",
+            "volcanic-activity",
+            "ice-age"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Life on Earth is an educational documentary series that explores the history of life, from ancient seas to modern ecosystems, revealing the awe-inspiring process of evolution and adaptation across our planet."
+      },
+      "duration_seconds": 69.86035013198853
+    }
+  }
+}

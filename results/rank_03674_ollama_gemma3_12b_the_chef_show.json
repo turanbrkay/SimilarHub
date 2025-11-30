@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "The Chef Show",
+    "overview": "Writer, director and food enthusiast Jon Favreau and chef Roy Choi explore food in and out of the kitchen with accomplished chefs and celebrity friends.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2019,
+    "vote_count": 32
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Chef Show is a documentary series that blends cooking demonstrations, travelogue, and lighthearted camaraderie. Jon Favreau and Roy Choi, a filmmaker and a chef respectively, embark on culinary adventures, collaborating with renowned chefs and celebrities. The show emphasizes the joy of food, the importance of community, and the creative process behind both cooking and filmmaking. It offers a relaxed and engaging viewing experience, appealing to food lovers and fans of Favreau's work.",
+        "spoiler_rich_plot_summary": "The series begins with Favreau and Choi revisiting a meal they shared years prior, sparking a journey to recreate and expand upon that experience. Each episode typically focuses on a specific food or culinary technique, taking them to various locations around the world. They engage in collaborative cooking sessions, often involving celebrity guests who contribute their own expertise and humor. The show explores diverse cuisines and cooking styles, from Korean BBQ to Italian pasta making. Throughout the series, Favreau and Choi deepen their friendship and share personal anecdotes, creating a sense of warmth and authenticity. The show culminates in a celebration of food and connection, highlighting the power of shared meals to bring people together.",
+        "categorized_keywords": {
+          "themes": [
+            "food-culture",
+            "friendship",
+            "creative-process",
+            "community",
+            "travel"
+          ],
+          "plot_and_concepts": [
+            "cooking-demonstration",
+            "culinary-travelogue",
+            "celebrity-collaboration"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "relaxed",
+            "joyful"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "food-series",
+            "travel-show"
+          ],
+          "setting": [
+            "global-cuisine",
+            "professional-kitchen",
+            "street-food"
+          ],
+          "character_archetypes": [
+            "celebrity-chef",
+            "filmmaker",
+            "food-enthusiast"
+          ],
+          "narrative_style": [
+            "episodic",
+            "collaborative"
+          ],
+          "target_audience": [
+            "food-lovers",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "cooking-utensils",
+            "fresh-ingredients",
+            "recipe-book",
+            "kitchen-table"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Chef Show is a lighthearted documentary series that celebrates food culture and friendship through collaborative cooking demonstrations and culinary travel around the globe."
+      },
+      "duration_seconds": 62.752188205718994
+    }
+  }
+}

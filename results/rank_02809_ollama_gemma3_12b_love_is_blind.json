@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Love Is Blind",
+    "overview": "Nick and Vanessa Lachey host this social experiment where single men and women look for love and get engaged, all before meeting in person.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2020,
+    "vote_count": 54
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Love Is Blind is a reality television series that explores the concept of emotional connection preceding physical attraction. The show presents a unique social experiment where participants engage in conversations and become emotionally invested before ever seeing each other. It examines the challenges and potential rewards of forming relationships based solely on personality and shared values, offering a commentary on modern dating and the pursuit of love. The series blends elements of relationship drama, social commentary, and voyeuristic observation, creating a compelling and often unpredictable viewing experience. Ultimately, it questions whether love can truly be blind.",
+        "spoiler_rich_plot_summary": "The series begins with a group of single men and women seeking love. They participate in 'pods,' isolated spaces where they can talk to each other without seeing each other. Over several days, participants form emotional connections and, in some cases, become engaged. Following the pod phase, the couples meet in person for the first time and navigate the complexities of transitioning from an emotional connection to a physical relationship. This transition often reveals underlying incompatibilities and challenges that were masked by the initial emotional bond. The couples then plan a wedding, facing further tests of their commitment and compatibility. The season culminates in a series of weddings, where some couples choose to say 'I do,' while others call it off, highlighting the fragility of relationships and the difficulties of building a life together.",
+        "categorized_keywords": {
+          "themes": [
+            "love-and-relationships",
+            "emotional-connection",
+            "social-experiment",
+            "commitment",
+            "compatibility",
+            "modern-dating"
+          ],
+          "plot_and_concepts": [
+            "social-experiment",
+            "blind-dating",
+            "relationship-drama",
+            "voyeurism",
+            "arranged-marriage"
+          ],
+          "mood_and_tone": [
+            "romantic",
+            "dramatic",
+            "cringeworthy",
+            "hopeful",
+            "tense"
+          ],
+          "genre_and_tropes": [
+            "reality-television",
+            "dating-show",
+            "social-commentary",
+            "arranged-marriage"
+          ],
+          "setting": [
+            "modern-day",
+            "pods",
+            "wedding-venue"
+          ],
+          "character_archetypes": [
+            "romantic",
+            "skeptic",
+            "idealist",
+            "commitment-phobe"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "romance-seekers"
+          ],
+          "detail_plot": [
+            "pods",
+            "engagement-ring",
+            "wedding-dress",
+            "honeymoon"
+          ],
+          "maturity_and_content": [
+            "relationship-conflict",
+            "emotional-vulnerability"
+          ]
+        },
+        "keyword_sentence": "Love Is Blind is a reality television series that explores the complexities of modern dating through a social experiment where emotional connections are prioritized over physical attraction, often leading to dramatic relationship conflicts and vulnerable moments."
+      },
+      "duration_seconds": 59.39286518096924
+    }
+  }
+}

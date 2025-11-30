@@ -1,0 +1,86 @@
+{
+  "input_data": {
+    "title": "Mr. Mercedes",
+    "overview": "A demented serial killer taunts a retired police detective with a series of lurid letters and emails, forcing the ex-cop to undertake a private, and potentially felonious, crusade to bring the killer to justice before he can strike again. Based on the bestselling novel by Stephen King.",
+    "genres": [
+      "Mystery",
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "release_year": 2017,
+    "vote_count": 242
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Mr. Mercedes is a dark and suspenseful crime drama centered on a retired detective haunted by an unsolved case involving a vehicular homicide. The series blends elements of psychological thriller and police procedural, exploring themes of guilt, obsession, and the enduring consequences of violence. It offers a slow-burn narrative, characterized by a pervasive sense of dread and a complex portrayal of both the perpetrator and the investigator. The show delves into the psychological toll of trauma and the blurred lines between justice and vengeance, creating a compelling and unsettling viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with the aftermath of a devastating car crash orchestrated by a meticulous and seemingly ordinary man, Stephen King, who uses a stolen Mercedes to plow into a crowd during a charity bake sale. Years later, King, now living under an assumed identity, begins taunting his former nemesis, retired detective Bill Hodges, with a series of emails and letters detailing the crime and hinting at further acts of violence. Hodges, struggling with his own demons and feeling responsible for failing to stop King initially, is drawn back into the investigation, despite warnings from his superiors and his own family. As Hodges delves deeper, he uncovers a network of accomplices and a disturbing pattern of behavior in King, revealing a deeply disturbed individual driven by a desire for chaos and control. The investigation leads Hodges and his colleagues, including the young and ambitious Brady Hartsfield, on a perilous chase across state lines, uncovering secrets and confronting their own personal demons along the way. Ultimately, Hodges must confront King in a final showdown, risking everything to bring him to justice and find a measure of closure for the victims and their families. The series explores the psychological manipulation and the long-lasting impact of King's actions, demonstrating the difficulty of truly escaping the past.",
+        "categorized_keywords": {
+          "themes": [
+            "guilt",
+            "obsession",
+            "revenge",
+            "justice",
+            "trauma",
+            "redemption",
+            "psychological-manipulation",
+            "past-haunting"
+          ],
+          "plot_and_concepts": [
+            "vehicular-homicide",
+            "cat-and-mouse",
+            "serial-killer",
+            "police-investigation",
+            "cold-case",
+            "revenge-plot"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "suspenseful",
+            "grim",
+            "unsettling",
+            "tense"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "psychological-thriller",
+            "police-procedural",
+            "cat-and-mouse-game"
+          ],
+          "setting": [
+            "modern-day",
+            "small-town-america",
+            "suburban-setting"
+          ],
+          "character_archetypes": [
+            "retired-detective",
+            "psychopathic-killer",
+            "ambitious-detective",
+            "haunted-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "slow-burn",
+            "investigative-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "stolen-mercedes",
+            "bake-sale",
+            "cold-case-file",
+            "interrogation-room",
+            "police-badge"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "psychological-distress"
+          ]
+        },
+        "keyword_sentence": "Mr. Mercedes is a dark and suspenseful crime drama that explores themes of guilt and revenge through the slow-burn investigation of a retired detective haunted by a vehicular homicide and a psychopathic killer."
+      },
+      "duration_seconds": 68.20052647590637
+    }
+  }
+}

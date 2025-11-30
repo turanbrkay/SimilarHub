@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Africa",
+    "overview": "Africa, the world's wildest continent. David Attenborough takes us on an awe-inspiring journey through one of the most diverse places in the world. We visit deserts, savannas, and jungles and meet up with some of Africa's amazing wildlife.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2013,
+    "vote_count": 89
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Africa is a documentary series that showcases the continent's diverse landscapes and wildlife. Narrated by David Attenborough, the series offers a visually stunning exploration of various ecosystems, from arid deserts to lush jungles. It aims to highlight the beauty and fragility of African wildlife and their habitats, emphasizing the importance of conservation efforts. The series blends breathtaking cinematography with insightful commentary, providing a comprehensive look at the continent's natural wonders. It’s a celebration of biodiversity and a call for environmental responsibility.",
+        "spoiler_rich_plot_summary": "The series unfolds across various regions of Africa, each episode focusing on a specific biome or ecosystem. Viewers witness the struggles for survival faced by animals in challenging environments, from the intense heat of the Sahara Desert to the dense foliage of the Congo rainforest. The narrative follows animal life cycles, showcasing births, migrations, hunts, and the constant interplay between predator and prey. The series highlights the impact of climate change and human activity on these fragile ecosystems, demonstrating the delicate balance of nature and the urgent need for conservation. While not a traditional narrative, the series follows the overarching theme of survival and adaptation across the continent’s diverse habitats, culminating in a broader message about the interconnectedness of life and the importance of protecting Africa's natural heritage.",
+        "categorized_keywords": {
+          "themes": [
+            "wildlife-conservation",
+            "biodiversity",
+            "ecosystems",
+            "natural-history",
+            "environmentalism",
+            "adaptation"
+          ],
+          "plot_and_concepts": [
+            "documentary-film",
+            "wildlife-photography",
+            "animal-behavior",
+            "migration-patterns",
+            "predator-prey-relationship"
+          ],
+          "mood_and_tone": [
+            "awe-inspiring",
+            "educational",
+            "observational",
+            "inspiring",
+            "serene"
+          ],
+          "genre_and_tropes": [
+            "nature-documentary",
+            "wildlife-film",
+            "observational-documentary"
+          ],
+          "setting": [
+            "africa",
+            "sahara-desert",
+            "congo-rainforest",
+            "savanna",
+            "jungles"
+          ],
+          "character_archetypes": [
+            "naturalist",
+            "wildlife-photographer"
+          ],
+          "narrative_style": [
+            "observational-narrative",
+            "episodic-structure"
+          ],
+          "target_audience": [
+            "family-audience",
+            "nature-enthusiasts"
+          ],
+          "detail_plot": [
+            "animal-migration",
+            "predator-hunt",
+            "savanna-landscape",
+            "desert-dunes",
+            "rainforest-canopy"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Africa is an awe-inspiring nature documentary that explores the continent’s diverse ecosystems and wildlife, highlighting the importance of conservation and showcasing the beauty of its landscapes."
+      },
+      "duration_seconds": 61.890329360961914
+    }
+  }
+}

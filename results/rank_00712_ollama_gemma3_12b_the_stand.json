@@ -1,0 +1,86 @@
+{
+  "input_data": {
+    "title": "The Stand",
+    "overview": "After a deadly plague kills most of the world’s population, the remaining survivors split into two groups - one led by a benevolent elder and the other by a maleficent being - to face each other in a final battle between good and evil.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "release_year": 1994,
+    "vote_count": 399
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Stand is a sprawling post-apocalyptic epic that explores the battle between good and evil in a world decimated by a deadly virus. Rooted in classic fantasy and horror tropes, the series examines themes of faith, morality, and the resilience of the human spirit. The narrative follows disparate groups of survivors drawn to either a benevolent leader or a charismatic dark figure, setting the stage for a final confrontation with profound implications for the future of humanity. The series blends elements of disaster fiction with a spiritual quest, offering a bleak yet ultimately hopeful vision of rebuilding society in the face of unimaginable loss.",
+        "spoiler_rich_plot_summary": "The story begins with the accidental release of 'Captain Trips,' a genetically engineered strain of influenza that wipes out the vast majority of the global population. As society collapses, survivors begin experiencing vivid dreams, drawing them towards either Mother Abagail, a wise and elderly woman in Boulder, Colorado, or Randall Flagg, a mysterious and powerful figure in Las Vegas, Nevada. Flagg establishes a brutal regime in Las Vegas, exploiting fear and violence to consolidate his power, while Mother Abagail gathers a community of survivors dedicated to rebuilding and upholding moral principles. A group of 'chosen ones' are tasked with confronting Flagg, undertaking a perilous journey across the ravaged landscape. The confrontation culminates in a final showdown between the forces of good and evil, with the fate of the new world hanging in the balance. While the initial devastation is immense, the series ultimately portrays a glimmer of hope for a renewed society, albeit one forever marked by the tragedy of its origins.",
+        "categorized_keywords": {
+          "themes": [
+            "good-vs-evil",
+            "faith",
+            "morality",
+            "post-apocalypse",
+            "redemption",
+            "hope",
+            "loss",
+            "community",
+            "fate"
+          ],
+          "plot_and_concepts": [
+            "plague",
+            "post-apocalyptic-fiction",
+            "chosen-one",
+            "spiritual-quest",
+            "dark-lord",
+            "prophecy"
+          ],
+          "mood_and_tone": [
+            "grim",
+            "hopeful",
+            "spiritual",
+            "bleak",
+            "epic"
+          ],
+          "genre_and_tropes": [
+            "fantasy",
+            "horror",
+            "disaster-fiction",
+            "apocalyptic-fiction"
+          ],
+          "setting": [
+            "united-states",
+            "post-apocalyptic",
+            "boulder-colorado",
+            "las-vegas-nevada"
+          ],
+          "character_archetypes": [
+            "wise-elder",
+            "dark-lord",
+            "reluctant-hero",
+            "prophet"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "quest-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "captain-trips",
+            "mother-abagail",
+            "randall-flagg",
+            "dream-sequences"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "death-themes"
+          ]
+        },
+        "keyword_sentence": "The Stand is a grim and hopeful post-apocalyptic fantasy epic exploring the timeless battle between good and evil as survivors grapple with loss and rebuild society in the wake of a devastating plague."
+      },
+      "duration_seconds": 62.15707778930664
+    }
+  }
+}

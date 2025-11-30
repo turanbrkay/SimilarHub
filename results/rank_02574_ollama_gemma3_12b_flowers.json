@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Flowers",
+    "overview": "Dark comedy about the eccentric members of the Flowers family. Maurice and Deborah are barely together but yet to divorce. They live with Maurice's batty mother and their maladjusted twin children.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2016,
+    "vote_count": 63
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Flowers is a darkly comedic British television series that explores the dysfunction and hidden anxieties within a seemingly ordinary family. The show blends elements of dark comedy and drama, using absurdist humor to dissect themes of mental health, familial obligation, and the fragility of happiness. It offers a unique and unsettling viewing experience, oscillating between moments of genuine hilarity and profound sadness, and prompting reflection on the masks we wear to navigate everyday life. The series' unconventional tone and quirky characters create a memorable and often uncomfortable portrayal of a family struggling to connect.",
+        "spoiler_rich_plot_summary": "The series centers on Maurice Flowers, a psychiatrist harboring a multitude of dark secrets and a vivid imagination, and his wife Deborah, who struggles with her own anxieties and a desire for a more fulfilling life. They live with Maurice’s eccentric mother, Marian, and their troubled twin children, Julian and Amara. Throughout the series, Maurice’s repressed emotions and fantasies manifest in increasingly bizarre and unsettling ways, blurring the lines between reality and delusion. Deborah attempts to maintain a semblance of normalcy while battling her own insecurities and a growing sense of dissatisfaction. The twins, Julian and Amara, each grapple with their own unique challenges, contributing to the overall sense of familial chaos. As the series progresses, the family's carefully constructed facade begins to crumble, revealing deeper layers of dysfunction and exposing the underlying pain that binds them together. The series culminates in a confrontation with the family's past, forcing each member to confront their individual demons and reassess their relationships.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dysfunction",
+            "mental-health",
+            "repressed-emotions",
+            "existential-anxiety",
+            "identity-crisis",
+            "marital-conflict"
+          ],
+          "plot_and_concepts": [
+            "dark-comedy",
+            "absurdist-humor",
+            "family-secrets",
+            "hallucinations",
+            "marital-separation"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "unsettling",
+            "quirky",
+            "satirical",
+            "melancholy"
+          ],
+          "genre_and_tropes": [
+            "black-comedy",
+            "family-drama",
+            "satirical-comedy"
+          ],
+          "setting": [
+            "modern-day",
+            "uk-setting",
+            "suburban-setting"
+          ],
+          "character_archetypes": [
+            "eccentric-family-member",
+            "troubled-spouse",
+            "maladjusted-children",
+            "repressed-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "family-home",
+            "therapy-session",
+            "twin-children",
+            "eccentric-mother"
+          ],
+          "maturity_and_content": [
+            "anxiety-themes",
+            "depression-themes"
+          ]
+        },
+        "keyword_sentence": "Flowers is a darkly comic British series exploring the anxieties and dysfunction within a quirky family, blending satirical humor with poignant themes of mental health and marital conflict in a modern UK setting."
+      },
+      "duration_seconds": 64.64929389953613
+    }
+  }
+}

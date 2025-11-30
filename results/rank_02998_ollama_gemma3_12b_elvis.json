@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Elvis",
+    "overview": "Biographical miniseries chronicling the rise of American music icon Elvis Presley from his high school years to his international superstardom.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2005,
+    "vote_count": 48
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Elvis is a biographical miniseries that explores the formative years and meteoric rise of Elvis Presley, charting his journey from a humble background to global superstardom. The series delves into the influences that shaped his unique musical style and the personal struggles he faced amidst his burgeoning fame. It aims to portray a nuanced portrait of a cultural icon, examining the pressures of celebrity and the sacrifices made in pursuit of artistic expression. The series blends historical drama with musical performances, offering a glimpse into the cultural landscape of mid-20th century America and the phenomenon that was Elvis Presley.",
+        "spoiler_rich_plot_summary": "The miniseries begins with Elvis Presley's childhood in Tupelo, Mississippi, showcasing his early exposure to gospel music and blues, which would heavily influence his signature sound. It follows his family's move to Memphis, Tennessee, where he begins his career as a truck driver and starts performing at local venues. A pivotal moment arrives when Sam Phillips, the owner of Sun Records, recognizes Elvis's unique talent and signs him. Elvis's early recordings, including 'Blue Moon of Kentucky' and 'That's All Right,' become regional hits, propelling him to national attention. The series chronicles his performances on television, his burgeoning relationship with Priscilla Beaulieu, and the increasing demands on his time and energy. As Elvis's fame explodes, he signs with a larger record label and begins touring extensively, encountering both immense adulation and intense scrutiny. The narrative explores the complex dynamics between Elvis and his manager, Colonel Tom Parker, and the toll that relentless touring and public attention take on his personal life and health. The series culminates with Elvis achieving international superstardom, but also hinting at the challenges and sacrifices that lie ahead.",
+        "categorized_keywords": {
+          "themes": [
+            "fame-and-fortune",
+            "cultural-impact",
+            "family-dynamics",
+            "american-dream",
+            "identity-quest",
+            "loss-of-innocence"
+          ],
+          "plot_and_concepts": [
+            "biographical-drama",
+            "rise-to-fame",
+            "music-industry",
+            "manager-protagonist",
+            "cultural-phenomenon"
+          ],
+          "mood_and_tone": [
+            "nostalgic",
+            "melancholy",
+            "celebratory",
+            "reflective"
+          ],
+          "genre_and_tropes": [
+            "biopic",
+            "musical-drama",
+            "rags-to-riches"
+          ],
+          "setting": [
+            "1950s-america",
+            "memphis-tennessee",
+            "tupelo-mississippi",
+            "american-south"
+          ],
+          "character_archetypes": [
+            "musical-genius",
+            "charismatic-leader",
+            "exploited-protagonist",
+            "controlling-manager"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "chronological-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "music-fans"
+          ],
+          "detail_plot": [
+            "sun-records",
+            "blue-moon-of-kentucky",
+            "that's-all-right",
+            "graceland",
+            "col-tom-parker"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Elvis is a nostalgic biographical drama chronicling the rise of a musical genius and cultural icon, exploring themes of fame, fortune, and the American dream against the backdrop of 1950s America."
+      },
+      "duration_seconds": 67.87919616699219
+    }
+  }
+}

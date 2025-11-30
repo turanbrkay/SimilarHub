@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Star Trek",
+    "overview": "Space. The Final Frontier. The U.S.S. Enterprise embarks on a five year mission to explore the galaxy. The Enterprise is under the command of Captain James T. Kirk with First Officer Mr. Spock, from the planet Vulcan. With a determined crew, the Enterprise encounters Klingons, Romulans, time paradoxes, tribbles and genetic supermen led by Khan Noonian Singh. Their mission is to explore strange new worlds, to seek new life and new civilizations, and to boldly go where no man has gone before.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "release_year": 1966,
+    "vote_count": 1122
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Star Trek is a foundational science fiction series that follows the crew of the U.S.S. Enterprise as they explore the galaxy. The show blends optimistic exploration with dramatic conflict, examining themes of diplomacy, morality, and the potential for both progress and destruction. Its episodic structure allows for a wide range of stories, from first contact scenarios to complex philosophical dilemmas, all while maintaining a core message of hope and understanding. The series established many tropes of the space opera genre and continues to influence science fiction storytelling today.",
+        "spoiler_rich_plot_summary": "The series begins with the launch of the U.S.S. Enterprise on a five-year mission to chart unknown regions of space. Captain Kirk, along with his logical first officer Spock, and the ship's doctor Leonard McCoy, lead a diverse crew in encountering various alien civilizations, some peaceful and others hostile. Early episodes establish recurring adversaries like the Klingons and Romulans, setting the stage for ongoing conflicts. The crew faces numerous challenges, including temporal anomalies, genetic mutations, and the resurfacing of historical figures like Khan Noonien Singh, whose advanced intellect and desire for revenge pose a significant threat. Throughout their voyages, the Enterprise crew grapples with ethical dilemmas, cultural misunderstandings, and the consequences of their actions, ultimately striving to uphold the principles of the United Federation of Planets while pushing the boundaries of human knowledge and understanding. The series explores the potential for both cooperation and conflict between different species, highlighting the importance of diplomacy and tolerance in a vast and often dangerous universe.",
+        "categorized_keywords": {
+          "themes": [
+            "exploration",
+            "diplomacy",
+            "morality",
+            "tolerance",
+            "human-potential",
+            "cultural-exchange",
+            "ethics"
+          ],
+          "plot_and_concepts": [
+            "space-exploration",
+            "first-contact",
+            "time-travel",
+            "genetic-engineering",
+            "interstellar-conflict",
+            "alien-invasion"
+          ],
+          "mood_and_tone": [
+            "optimistic",
+            "adventurous",
+            "thought-provoking",
+            "hopeful"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "space-opera",
+            "found-family",
+            "heroic-journey"
+          ],
+          "setting": [
+            "space",
+            "future",
+            "interstellar",
+            "starship-enterprise"
+          ],
+          "character_archetypes": [
+            "heroic-captain",
+            "logical-alien",
+            "medical-officer",
+            "diverse-crew"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "serialized-elements"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "starship-enterprise",
+            "phaser",
+            "warp-drive",
+            "tricorder",
+            "communicator"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Star Trek is an optimistic science fiction series that follows a diverse crew as they explore the vastness of space, encountering new civilizations and grappling with complex ethical dilemmas while upholding the principles of diplomacy and tolerance."
+      },
+      "duration_seconds": 77.8687858581543
+    }
+  }
+}

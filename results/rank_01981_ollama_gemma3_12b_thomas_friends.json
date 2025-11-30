@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Thomas & Friends",
+    "overview": "Thomas & Friends is a British children's television series, which had its first broadcast on the ITV network on 4 September 1984. It is based on The Railway Series of books by the Reverend Wilbert Awdry and his son, Christopher Awdry. These books deal with the adventures of a group of anthropomorphised locomotives and road vehicles who live on the fictional Island of Sodor. The books were based on stories Wilbert told to entertain his son, Christopher during his recovery from measles. From Series one to four, many of the stories are based on events from Awdry's personal experience.",
+    "genres": [
+      "Animation",
+      "Kids"
+    ],
+    "release_year": 1984,
+    "vote_count": 98
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Thomas & Friends is a long-running British animated children's series centered around anthropomorphic trains and vehicles on the Island of Sodor. The show emphasizes themes of friendship, problem-solving, and learning valuable life lessons through gentle narratives and colorful characters. Primarily aimed at a young audience, the series fosters positive social-emotional development and promotes a sense of community and cooperation. Its enduring popularity stems from its simple yet engaging stories and its focus on relatable experiences for preschoolers.",
+        "spoiler_rich_plot_summary": "The series begins with introductions to Thomas, a small tank engine, and his friends, including Edward, Gordon, and James. Early episodes focus on Thomas learning valuable lessons about responsibility and respecting authority, often through mishaps and misunderstandings. As the series progresses, new characters are introduced, expanding the railway community and presenting fresh challenges. Recurring storylines involve the Fat Controller, the island's railway manager, who oversees the trains and ensures the smooth operation of the railway. While conflicts arise, they are typically resolved through understanding and compromise, reinforcing the importance of teamwork and kindness. The series explores themes of growth and change as characters learn from their experiences and strive to be better engines and friends. The overarching narrative focuses on maintaining the railway and the community it serves, with occasional external threats or challenges that require the engines to work together.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "responsibility",
+            "problem-solving",
+            "kindness",
+            "teamwork",
+            "community",
+            "growth"
+          ],
+          "plot_and_concepts": [
+            "anthropomorphism",
+            "railway-adventure",
+            "moral-lessons",
+            "transportation"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "gentle",
+            "optimistic",
+            "cheerful"
+          ],
+          "genre_and_tropes": [
+            "childrens-animation",
+            "educational-tv",
+            "found-family"
+          ],
+          "setting": [
+            "island-of-sodor",
+            "british-railway",
+            "fictional-location"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "optimistic-character"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "young-children",
+            "preschoolers"
+          ],
+          "detail_plot": [
+            "steam-engine",
+            "fat-controller",
+            "railway-track",
+            "signal-box"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Thomas & Friends is a cheerful British children’s animation series set on the Island of Sodor, where anthropomorphic trains and vehicles learn valuable lessons about friendship, responsibility, and the importance of working together."
+      },
+      "duration_seconds": 60.16872262954712
+    }
+  }
+}

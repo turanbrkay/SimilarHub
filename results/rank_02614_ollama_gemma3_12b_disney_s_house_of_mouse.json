@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Disney's House of Mouse",
+    "overview": "A a very-recognizable audience of Disney animated characters gather into the House of Mouse nightclub to enjoy musical guests, cartoon shorts and Master of Ceremonies Mickey Mouse's comical introductions from the stage.",
+    "genres": [
+      "Animation",
+      "Kids"
+    ],
+    "release_year": 2001,
+    "vote_count": 62
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Disney's House of Mouse is a lighthearted animated series that serves as a celebration of Disney's vast library of characters and cartoons. The show functions as a meta-narrative, with a recurring cast of familiar faces attending a nightclub run by Mickey Mouse, where they enjoy a rotating selection of classic Disney shorts and musical performances. It's designed for a young audience, offering a safe and entertaining environment filled with nostalgia and humor. The series blends elements of variety show and anthology, creating a consistently cheerful and accessible experience.",
+        "spoiler_rich_plot_summary": "The series revolves around Mickey Mouse's ambition to create a prestigious nightclub where all Disney characters can gather and enjoy entertainment. He enlists the help of Donald Duck, Goofy, and Minnie Mouse to manage the club, facing occasional challenges from Pete, who attempts to disrupt the festivities and maintain a sense of order. Throughout the series, various Disney characters make appearances, both as performers and as patrons, contributing to the club's lively atmosphere. The narrative primarily focuses on the comedic interactions between the core cast and the ongoing efforts to keep the club running smoothly, culminating in a grand finale where the club's success is celebrated and the friendships between the characters are reaffirmed. The series concludes with a sense of community and shared joy, solidifying the House of Mouse as a beloved gathering place for all.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "nostalgia",
+            "community",
+            "celebration",
+            "humor"
+          ],
+          "plot_and_concepts": [
+            "anthology",
+            "variety-show",
+            "meta-narrative",
+            "club-setting"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "cheerful",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "kids-entertainment",
+            "found-family"
+          ],
+          "setting": [
+            "nightclub",
+            "animated-world"
+          ],
+          "character_archetypes": [
+            "optimistic-hero",
+            "loyal-sidekick",
+            "comedic-relief"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic"
+          ],
+          "target_audience": [
+            "young-children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "mickey-mouse",
+            "donald-duck",
+            "goofy",
+            "minnie-mouse",
+            "nightclub-stage"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Disney's House of Mouse is a lighthearted and cheerful animated series that celebrates friendship and nostalgia through a comedic variety show format, bringing together beloved characters in a whimsical nightclub setting for family audiences."
+      },
+      "duration_seconds": 56.83633351325989
+    }
+  }
+}

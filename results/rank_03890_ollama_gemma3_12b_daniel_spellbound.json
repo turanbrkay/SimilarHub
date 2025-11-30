@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Daniel Spellbound",
+    "overview": "In New York City, a teenage tracker makes his living selling hard-to-find mystical items to sorcerers — but dealing in magic can be risky business.",
+    "genres": [
+      "Animation",
+      "Action & Adventure"
+    ],
+    "release_year": 2022,
+    "vote_count": 29
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Daniel Spellbound is an animated action-adventure series that blends urban fantasy with a coming-of-age narrative. The show follows a young tracker navigating a hidden magical world existing alongside modern-day New York City. It explores themes of responsibility, friendship, and the challenges of growing up while dealing with powerful forces and dangerous secrets. The series offers a lighthearted yet engaging experience, appealing to audiences who enjoy fantastical settings and relatable character dynamics.",
+        "spoiler_rich_plot_summary": "The series introduces Daniel, a teenage tracker who makes a living selling rare magical items. He operates alongside his best friend, Tat, and is often entangled in situations far beyond his experience level. Early on, Daniel's life is disrupted when he unwittingly becomes involved with a powerful and secretive organization known as the Order. He discovers that his own family history is deeply intertwined with the Order's machinations, revealing a legacy of magical ability and responsibility he never knew existed. As Daniel delves deeper into the magical world, he confronts increasingly dangerous adversaries and uncovers a conspiracy that threatens the balance between the magical and mundane realms. He must learn to harness his own abilities and rely on his friends to overcome the challenges ahead, ultimately facing a confrontation with the Order and its leaders, forcing him to make difficult choices that will shape his destiny and the future of the magical community.",
+        "categorized_keywords": {
+          "themes": [
+            "coming-of-age",
+            "responsibility",
+            "friendship",
+            "family-legacy",
+            "hidden-world",
+            "magic-and-power"
+          ],
+          "plot_and_concepts": [
+            "urban-fantasy",
+            "secret-society",
+            "coming-of-age-quest",
+            "magical-artifacts",
+            "hidden-world"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "adventurous",
+            "wholesome",
+            "mysterious"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "action-adventure",
+            "coming-of-age-story",
+            "hidden-world-trope"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day",
+            "hidden-magical-realm"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "loyal-friend",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "magical-artifacts",
+            "hidden-portal",
+            "secret-order-headquarters"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Daniel Spellbound is a lighthearted animated series set in modern-day New York City, following a young man’s coming-of-age journey as he navigates a hidden magical world and confronts a powerful secret society."
+      },
+      "duration_seconds": 78.77909636497498
+    }
+  }
+}

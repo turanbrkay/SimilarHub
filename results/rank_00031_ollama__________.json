@@ -1,0 +1,95 @@
+{
+  "input_data": {
+    "title": "Chernobyl",
+    "overview": "The true story of one of the worst man-made catastrophes in history: the catastrophic nuclear accident at Chernobyl. A tale of the brave men and women who sacrificed to save Europe from unimaginable disaster.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2019,
+    "vote_count": 5376
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Chernobyl is a meticulously researched dramatization of the 1986 nuclear disaster, weaving the technical details of the reactor failure with the human stories of those who confronted unimaginable radiation. The series juxtaposes the Soviet bureaucratic cover‑up against the bravery of plant workers and emergency responders, underscoring themes of responsibility, truth, and sacrifice. Its stark, realistic tone and slow‑burn pacing immerse viewers in the grim reality of a catastrophe that reshaped a continent. By foregrounding the personal costs and moral dilemmas, the miniseries offers a haunting meditation on human error and the limits of institutional power.",
+        "spoiler_rich_plot_summary": "The miniseries opens with the launch of Reactor 4 and a malfunction in the safety systems that triggers a catastrophic explosion and fire. The first episode follows plant operators and emergency crews as they attempt to contain the blaze and suppress radiation, while the second episode reveals Soviet authorities' efforts to hide the disaster's scale. The third episode focuses on the scientific investigation led by Valery Legasov and journalists who uncover the truth, culminating in the evacuation of Pripyat and the death of the plant's chief engineer. The final episode shows the long‑term fallout: the death of the plant's director, the death of the journalist’s mother, and the eventual deaths of the liquidators, while the world grapples with the tragedy’s legacy.",
+        "categorized_keywords": {
+          "themes": [
+            "human-error",
+            "government-mismanagement",
+            "scientific-ethics",
+            "sacrifice",
+            "media-coverage",
+            "apocalypse",
+            "post-traumatic-stress",
+            "corruption",
+            "environmental-catastrophe"
+          ],
+          "plot_and_concepts": [
+            "nuclear-failure",
+            "radiation-contamination",
+            "fire-suppression",
+            "liquidator",
+            "emergency-response",
+            "cover-up",
+            "reactor-vent",
+            "radiation-suit",
+            "pripyat-evacuation",
+            "reactor-detonation"
+          ],
+          "mood_and_tone": [
+            "grim",
+            "somber",
+            "harrowing",
+            "realistic",
+            "intense",
+            "tragic",
+            "gritty"
+          ],
+          "genre_and_tropes": [
+            "historical-drama",
+            "biographical",
+            "political-drama",
+            "apocalyptic"
+          ],
+          "setting": [
+            "chernobyl",
+            "ukraine",
+            "soviet-union",
+            "1986",
+            "pripyat",
+            "chernobyl-nuclear-power-plant"
+          ],
+          "character_archetypes": [
+            "heroic-physicist",
+            "liquidator",
+            "journalist",
+            "government-official",
+            "firefighter"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "linear",
+            "slow-burn"
+          ],
+          "target_audience": [
+            "mature-audiences",
+            "history-enthusiasts"
+          ],
+          "detail_plot": [
+            "reactor-vent",
+            "radiation-suit",
+            "liquidator-helmet",
+            "pripyat-evacuation",
+            "fire-suppression",
+            "radiation-monitors",
+            "emergency-response",
+            "fire-fighting-vehicle"
+          ]
+        },
+        "keyword_sentence": "Chernobyl's semantic DNA is defined by themes of human-error, government-mismanagement, sacrifice, and environmental-catastrophe; its plot revolves around nuclear-failure, radiation-contamination, and emergency-response; its tone is grim, somber, and harrowing; it blends historical-drama with biographical and apocalyptic tropes set in 1986 chernobyl, ukraine, and priky; its archetypes include heroic-physicist, liquidator, journalist, and government-official; it unfolds as a serialized, linear, slow-burn narrative aimed at mature-audiences and history-enthusiasts, highlighted by detail such as reactor-vent, radiation-suit, and liquidator-helmet."
+      },
+      "duration_seconds": 190.97501063346863
+    }
+  }
+}

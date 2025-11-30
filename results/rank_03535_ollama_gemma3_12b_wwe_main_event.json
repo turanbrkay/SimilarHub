@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "WWE Main Event",
+    "overview": "WWE Main Event is a professional wrestling television program produced by WWE that airs on the Ion Television network and streams on Hulu Plus in the United States. The show features WWE wrestlers and complements WWE's primary programs Raw and SmackDown.",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Reality"
+    ],
+    "release_year": 2012,
+    "vote_count": 35
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "WWE Main Event is a professional wrestling program designed to complement WWE's flagship shows, Raw and SmackDown. It showcases WWE wrestlers in action, offering a blend of action, drama, and reality-style elements. The show serves as a platform to feature talent not always prominently displayed on Raw or SmackDown, and provides additional wrestling content for fans. It aims to deliver a consistent stream of wrestling matches and segments, appealing to a broad audience of wrestling enthusiasts.",
+        "spoiler_rich_plot_summary": "WWE Main Event doesn't follow a traditional narrative arc with overarching storylines. Instead, it presents a rotating roster of WWE wrestlers in matches and segments. Matches are often built around ongoing feuds from Raw and SmackDown, providing context for viewers familiar with those shows. The show frequently features wrestlers vying for opportunities to advance their careers, whether it's earning a championship match or simply gaining recognition. While there are no long-term plotlines, individual matches and segments contribute to the ongoing narratives within the larger WWE universe. The show's focus remains on showcasing wrestling action and providing a platform for talent to demonstrate their skills.",
+        "categorized_keywords": {
+          "themes": [
+            "competition",
+            "athleticism",
+            "professionalism",
+            "sportsmanship"
+          ],
+          "plot_and_concepts": [
+            "wrestling-match",
+            "sports-entertainment",
+            "feud-building",
+            "championship-pursuit"
+          ],
+          "mood_and_tone": [
+            "energetic",
+            "exciting",
+            "competitive"
+          ],
+          "genre_and_tropes": [
+            "sports-drama",
+            "reality-tv",
+            "action-sports"
+          ],
+          "setting": [
+            "wrestling-ring",
+            "sports-arena",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "wrestler",
+            "champion",
+            "heel",
+            "face"
+          ],
+          "narrative_style": [
+            "episodic",
+            "rotating-roster"
+          ],
+          "target_audience": [
+            "sports-fans",
+            "wrestling-fans"
+          ],
+          "detail_plot": [
+            "wrestling-belts",
+            "ring-ropes",
+            "entrance-ramp",
+            "announcer-table"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "WWE Main Event delivers energetic and exciting wrestling action, showcasing a rotating roster of athletes competing for championships and recognition within the broader world of sports entertainment."
+      },
+      "duration_seconds": 47.15560841560364
+    }
+  }
+}

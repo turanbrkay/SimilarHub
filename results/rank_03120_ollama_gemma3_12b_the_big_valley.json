@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "The Big Valley",
+    "overview": "The Big Valley is an American western television series which ran on ABC from September 15, 1965, to May 19, 1969. The show stars Barbara Stanwyck, as the widow of a wealthy nineteenth century California rancher. It was created by A.I. Bezzerides and Louis F. Edelman, and produced by Levy-Gardner-Laven for Four Star Television.",
+    "genres": [
+      "Western"
+    ],
+    "release_year": 1965,
+    "vote_count": 44
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Big Valley is a classic Western series centered on Victoria Grainger, a strong-willed matriarch defending her family and vast ranch from various threats in the California wilderness. The show blends traditional Western elements with elements of a family drama and action-adventure, focusing on the challenges of maintaining order and justice in a lawless frontier setting. Victoria's resourcefulness and determination are key to navigating conflicts with rival landowners, outlaws, and corrupt officials, showcasing themes of family loyalty, resilience, and the struggle for survival. The series offers a blend of action, suspense, and character-driven storytelling, appealing to audiences interested in both the ruggedness of the West and the complexities of family dynamics.",
+        "spoiler_rich_plot_summary": "The series begins with the aftermath of Victoria Grainger's husband's murder, leaving her to manage the sprawling High River Ranch and raise her four sons: Bob, Lane, Heath, and Samuel. Victoria immediately faces challenges from rival ranchers like Christopher Stone, who seeks to seize control of High River's valuable water rights. Throughout the series, Victoria and her sons confront a constant stream of threats, including land disputes, cattle rustling, and attempts on their lives. Lane, the eldest son, often takes a leading role in defending the ranch, while Heath, a more rebellious figure, frequently clashes with his mother's authority. Samuel, the youngest, matures from a boy to a young man, learning the responsibilities of ranch ownership. As the series progresses, Victoria uncovers secrets about her husband's past and the true motives behind the attacks on High River, leading to confrontations with powerful enemies. While the series maintains a generally episodic structure, overarching storylines involving land ownership and family legacies unfold, culminating in a complex web of alliances and betrayals. The series concludes with a resolution to the ongoing conflicts, securing the future of High River Ranch and the Grainger family’s legacy.",
+        "categorized_keywords": {
+          "themes": [
+            "family-loyalty",
+            "frontier-justice",
+            "land-ownership",
+            "revenge",
+            "survival",
+            "legacy"
+          ],
+          "plot_and_concepts": [
+            "western-genre",
+            "land-disputes",
+            "cattle-rustling",
+            "revenge-plot",
+            "family-saga"
+          ],
+          "mood_and_tone": [
+            "action-adventure",
+            "suspenseful",
+            "dramatic",
+            "somber"
+          ],
+          "genre_and_tropes": [
+            "western",
+            "family-drama",
+            "frontier-setting",
+            "strong-female-lead"
+          ],
+          "setting": [
+            "california-frontier",
+            "19th-century",
+            "ranch-setting"
+          ],
+          "character_archetypes": [
+            "strong-female-lead",
+            "patriarch",
+            "rebellious-son",
+            "matriarch"
+          ],
+          "narrative_style": [
+            "episodic-format",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "high-river-ranch",
+            "cattle",
+            "horses",
+            "ranch-house",
+            "water-rights"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Set on the California frontier in the 19th century, The Big Valley is a dramatic western series centered on a strong female lead and her family’s struggle for survival amidst land disputes and the pursuit of frontier justice."
+      },
+      "duration_seconds": 79.67938661575317
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "The Morning Show",
+    "overview": "A behind-the-scenes look at the lives of the people who help America wake up in the morning, exploring the unique challenges faced by the men and women who carry out this daily televised ritual.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2019,
+    "vote_count": 549
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Morning Show is a drama series offering a glimpse into the high-stakes world of morning news broadcasting. It explores the complexities of workplace dynamics, ambition, and the personal lives of those involved in creating a daily news program. The series delves into themes of power, morality, and the impact of media on society, often blending serious dramatic moments with a fast-paced, behind-the-scenes look at the television industry. It examines the challenges of maintaining integrity and navigating ethical dilemmas within a competitive and demanding environment, offering a nuanced portrayal of the people who shape public opinion.",
+        "spoiler_rich_plot_summary": "The series begins with the sudden departure of Mitch Kessler, the beloved co-anchor of The Morning Show, amidst allegations of sexual misconduct. Bradley Jackson, an investigative journalist known for her confrontational style, is brought in to replace him, creating immediate tension and conflict with the established order. The initial seasons focus on the fallout from Mitch's scandal, the power struggles between Bradley and Alex Levy (the other co-anchor), and the network's attempts to manage the crisis and maintain viewership. As the show progresses, new allegations surface, exposing deeper systemic issues within the network and forcing characters to confront their own complicity. The narrative expands to explore the personal lives of the staff, revealing hidden relationships, betrayals, and the toll that the relentless pressure of the news cycle takes on their mental and emotional well-being. Later seasons introduce new characters and storylines, further complicating the power dynamics and challenging the characters' moral compasses as they grapple with the consequences of their actions and the ever-present scrutiny of the public eye. The series ultimately portrays a cyclical pattern of scandal and recovery, highlighting the enduring challenges of accountability and the constant struggle to maintain a semblance of integrity in the media landscape.",
+        "categorized_keywords": {
+          "themes": [
+            "media-ethics",
+            "power-dynamics",
+            "workplace-culture",
+            "accountability",
+            "scandal",
+            "redemption",
+            "female-empowerment",
+            "public-perception"
+          ],
+          "plot_and_concepts": [
+            "sexual-misconduct",
+            "news-broadcast",
+            "corporate-coverup",
+            "investigative-journalism",
+            "media-scandal"
+          ],
+          "mood_and_tone": [
+            "tense",
+            "dramatic",
+            "fast-paced",
+            "suspenseful",
+            "corporate-drama"
+          ],
+          "genre_and_tropes": [
+            "corporate-thriller",
+            "drama",
+            "ensemble-cast",
+            "workplace-drama"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day",
+            "television-studio"
+          ],
+          "character_archetypes": [
+            "ambitious-journalist",
+            "corporate-executive",
+            "fallen-hero",
+            "driven-anchor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "news-desk",
+            "morning-show",
+            "interview-room",
+            "control-room"
+          ],
+          "maturity_and_content": [
+            "sexual-content",
+            "abuse-themes"
+          ]
+        },
+        "keyword_sentence": "The Morning Show is a tense and dramatic corporate thriller set in modern-day New York City, exploring themes of media ethics and power dynamics within the fast-paced world of television news broadcasting."
+      },
+      "duration_seconds": 198.50659894943237
+    }
+  }
+}

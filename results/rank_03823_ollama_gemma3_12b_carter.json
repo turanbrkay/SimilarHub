@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Carter",
+    "overview": "An actor returns home after a public meltdown. Partnering with his police detective friend, he tries to use his acting experience to solve real crimes.",
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Mystery"
+    ],
+    "release_year": 2018,
+    "vote_count": 30
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Carter is a dramedy series that blends elements of mystery and police procedural with a unique premise: an actor, recently disgraced and struggling with mental health, uses his acting skills to assist a detective in solving crimes. The show explores themes of redemption, identity, and the blurred lines between performance and reality, offering a darkly comedic and often poignant look at a man attempting to rebuild his life while confronting his own demons. The series balances the procedural aspects of crime-solving with the character's personal journey, creating a compelling and unconventional narrative.",
+        "spoiler_rich_plot_summary": "The series begins with Max Carter, a celebrated actor, returning to his hometown after a highly publicized mental breakdown that derailed his career. Haunted by his past and seeking a fresh start, he reconnects with his childhood friend, Detective Harley Doyle. Recognizing Max's unique ability to embody different personas and analyze behavior, Harley enlists him as an unofficial consultant on his cases. Each episode typically involves a new crime, with Max using his acting techniques to infiltrate suspect groups, decipher motives, and ultimately help Harley uncover the truth. As the series progresses, Max confronts the underlying causes of his breakdown, revealing a complex history of trauma and a struggle with his own sense of self. While he finds a degree of purpose in assisting Harley, his past continues to resurface, threatening to destabilize his fragile recovery and jeopardize his relationship with the detective. The series culminates in a confrontation with a figure from Max's past, forcing him to fully confront his demons and ultimately decide whether to embrace a new identity or succumb to the shadows of his past.",
+        "categorized_keywords": {
+          "themes": [
+            "redemption",
+            "identity-crisis",
+            "mental-health",
+            "performance-vs-reality",
+            "friendship",
+            "second-chances"
+          ],
+          "plot_and_concepts": [
+            "police-investigation",
+            "crime-solving",
+            "undercover-work",
+            "acting-as-skill",
+            "dual-identity"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "poignant",
+            "suspenseful",
+            "quirky"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "dramedy",
+            "buddy-cop",
+            "fish-out-of-water"
+          ],
+          "setting": [
+            "small-town-usa",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "reluctant-hero",
+            "damaged-protagonist",
+            "loyal-friend"
+          ],
+          "narrative_style": [
+            "episodic-procedural",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "police-station",
+            "crime-scene",
+            "theatrical-stage",
+            "interrogation-room"
+          ],
+          "maturity_and_content": [
+            "mental-health-themes"
+          ]
+        },
+        "keyword_sentence": "Carter is a darkly comic dramedy series set in a small town, where a damaged actor uses his acting skills to assist a loyal friend in solving crimes and confronting his own identity crisis."
+      },
+      "duration_seconds": 81.46957206726074
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Gaslit",
+    "overview": "A modern take on the 1970s political Watergate scandal centering on untold stories and forgotten characters of the time.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2022,
+    "vote_count": 43
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Gaslit is a historical drama series offering a fresh perspective on the Watergate scandal by focusing on the peripheral figures and their personal struggles. The show blends political intrigue with darkly comedic elements, exploring themes of manipulation, paranoia, and the erosion of trust. It portrays the psychological toll of political machinations on individuals caught in the crossfire, offering a character-driven narrative that examines the human cost of power and deception. The series utilizes a modern sensibility to re-examine a well-known historical event, offering a unique blend of suspense and social commentary.",
+        "spoiler_rich_plot_summary": "The series begins with a focus on Martha Mitchell, the wife of Attorney General John Mitchell, who becomes increasingly suspicious of the Nixon administration's activities. Initially dismissed as eccentric and unstable, Martha's persistent questioning and public outbursts draw unwanted attention from the White House. As she investigates, she uncovers a web of corruption and illegal operations, placing her and her family in increasing danger. Meanwhile, the series also follows the story of Frank Wills, a security guard who discovers the break-in at the Democratic National Committee headquarters, setting in motion a chain of events that will unravel the Nixon presidency. The narrative interweaves these storylines, highlighting the roles of various individuals who, often unwittingly, contribute to the unfolding scandal. As the investigation progresses, Martha's credibility is systematically undermined through disinformation campaigns and attempts to discredit her, while Frank struggles to navigate the complexities of the situation and protect himself and his loved ones. The series culminates in a dramatic escalation of events, exposing the extent of the conspiracy and leading to significant consequences for those involved, though the full scope of the fallout remains to be seen.",
+        "categorized_keywords": {
+          "themes": [
+            "political-corruption",
+            "paranoia",
+            "gaslighting",
+            "trust-erosion",
+            "marital-discord",
+            "social-status",
+            "power-abuse"
+          ],
+          "plot_and_concepts": [
+            "political-thriller",
+            "conspiracy-theory",
+            "whistleblower",
+            "disinformation-campaign",
+            "cover-up"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "suspenseful",
+            "satirical",
+            "tense"
+          ],
+          "genre_and_tropes": [
+            "historical-drama",
+            "crime-procedural",
+            "slow-burn-mystery"
+          ],
+          "setting": [
+            "1970s-america",
+            "washington-dc",
+            "political-landscape"
+          ],
+          "character_archetypes": [
+            "unlikely-heroine",
+            "corrupt-politician",
+            "disillusioned-insider",
+            "socialite"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "white-house",
+            "watergate-hotel",
+            "press-conference",
+            "courtroom",
+            "social-gathering"
+          ],
+          "maturity_and_content": [
+            "political-manipulation",
+            "marital-tension"
+          ]
+        },
+        "keyword_sentence": "Gaslit offers a darkly comic and suspenseful historical drama, exploring themes of political corruption and marital tension as unlikely heroes navigate a complex web of deception in 1970s America."
+      },
+      "duration_seconds": 65.06691122055054
+    }
+  }
+}

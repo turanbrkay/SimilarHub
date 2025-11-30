@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Rawhide",
+    "overview": "The tale of trail boss Gil Favor and his trusty foreman Rowdy Yates as they drives cattle across the old west. Along the way they meet up with adventure and drama.",
+    "genres": [
+      "Western"
+    ],
+    "release_year": 1959,
+    "vote_count": 34
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Rawhide is a classic Western television series that follows the journeys of trail boss Gil Favor and his young foreman Rowdy Yates as they drive cattle across the American West. The show emphasizes the challenges and dangers of frontier life, exploring themes of leadership, loyalty, and the evolving American identity. With a focus on character development and episodic adventures, Rawhide offers a nostalgic and often gritty portrayal of the Old West, blending action, drama, and a sense of historical realism.",
+        "spoiler_rich_plot_summary": "The series primarily revolves around Favor and Yates's cattle drives, which are frequently beset by various obstacles. These include hostile Native American tribes, ruthless outlaws seeking to steal the herd, and treacherous terrain that tests the men's endurance. Yates, initially portrayed as an inexperienced and impulsive young man, matures throughout the series, learning valuable lessons about leadership and responsibility under Favor's guidance. Favor, a seasoned and pragmatic leader, grapples with the moral complexities of frontier justice and the weight of his decisions. While the drives themselves are the central narrative thread, each episode introduces new characters and situations, often exploring themes of betrayal, redemption, and the struggle for survival in a lawless land. The series doesn's have a grand overarching plot, but rather a continuous cycle of drives, challenges, and character growth, culminating in a sense of the West slowly being tamed but never fully conquered.",
+        "categorized_keywords": {
+          "themes": [
+            "frontier-life",
+            "leadership",
+            "loyalty",
+            "survival",
+            "american-identity",
+            "moral-ambiguity"
+          ],
+          "plot_and_concepts": [
+            "cattle-drive",
+            "western-adventure",
+            "frontier-justice",
+            "episodic-storytelling"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "nostalgic",
+            "adventurous",
+            "somber"
+          ],
+          "genre_and_tropes": [
+            "western",
+            "adventure-series",
+            "coming-of-age"
+          ],
+          "setting": [
+            "american-west",
+            "old-west",
+            "frontier"
+          ],
+          "character_archetypes": [
+            "trail-boss",
+            "cowboy",
+            "young-gunslinger",
+            "mentor"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "cattle-herd",
+            "horses",
+            "campfire",
+            "wagon-train",
+            "sheriffs-badge"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Rawhide portrays a gritty and nostalgic journey through the American West, where loyal cowboys and seasoned leaders face perilous cattle drives and evolving moral landscapes in a serialized adventure."
+      },
+      "duration_seconds": 53.10433506965637
+    }
+  }
+}

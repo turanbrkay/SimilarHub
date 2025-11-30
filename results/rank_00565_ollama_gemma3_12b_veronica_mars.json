@@ -1,0 +1,88 @@
+{
+  "input_data": {
+    "title": "Veronica Mars",
+    "overview": "In the fictional town of Neptune, California, student Veronica Mars progresses from high school to college while moonlighting as a private investigator under the tutelage of her detective father.",
+    "genres": [
+      "Mystery",
+      "Drama",
+      "Comedy"
+    ],
+    "release_year": 2004,
+    "vote_count": 533
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Veronica Mars is a teen drama and mystery series that blends elements of comedy and noir. The show follows Veronica, a sharp-witted and resourceful young woman who works as a private investigator, often uncovering dark secrets within her seemingly idyllic coastal town. The series explores themes of class, privilege, betrayal, and the complexities of family relationships, all while maintaining a darkly humorous tone and a strong sense of character development. It's a show that appeals to audiences who enjoy clever writing, compelling mysteries, and a protagonist who navigates challenging situations with intelligence and resilience.",
+        "spoiler_rich_plot_summary": "The series begins with Veronica Mars, a high school student, dealing with the trauma of her best friend Lilly Kane's murder and her father Keith's subsequent dismissal from the Neptune Police Department. She begins working as a private investigator, initially taking on petty cases but gradually uncovering larger conspiracies that connect to her past and the town's history. As Veronica investigates, she unearths secrets about her father's career, her mother's disappearance years prior, and the dark underbelly of Neptune's wealthy families. Throughout the series, Veronica grapples with her own personal demons and navigates complex relationships with her father, her ex-boyfriend Duncan, and various other suspects and allies. Later seasons see Veronica attending college and facing new challenges, including a shocking revelation about Lilly's murder and a renewed focus on her family's past. The series concludes with Veronica and her father resolving long-standing conflicts and embracing a future together, while continuing their work as investigators.",
+        "categorized_keywords": {
+          "themes": [
+            "mystery",
+            "betrayal",
+            "family-dynamics",
+            "class-conflict",
+            "revenge",
+            "loss",
+            "identity-quest"
+          ],
+          "plot_and_concepts": [
+            "private-investigation",
+            "small-town-secrets",
+            "noir-mystery",
+            "cold-case",
+            "serial-investigation"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "witty",
+            "suspenseful",
+            "sarcastic",
+            "cynical"
+          ],
+          "genre_and_tropes": [
+            "teen-drama",
+            "mystery-drama",
+            "noir",
+            "found-family",
+            "coming-of-age"
+          ],
+          "setting": [
+            "california",
+            "coastal-town",
+            "modern-day",
+            "neptune-california"
+          ],
+          "character_archetypes": [
+            "private-eye",
+            "anti-hero",
+            "reluctant-hero",
+            "father-daughter-relationship",
+            "detective"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-investigation",
+            "character-driven"
+          ],
+          "target_audience": [
+            "young-adult",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "investigation-room",
+            "school-campus",
+            "beach-setting",
+            "police-station",
+            "sheriffs-hat"
+          ],
+          "maturity_and_content": [
+            "sexual-content",
+            "violence"
+          ]
+        },
+        "keyword_sentence": "Veronica Mars is a darkly comic teen drama set in a coastal California town, where a sharp-witted young woman navigates mysteries, betrayal, and complex family dynamics as a private investigator."
+      },
+      "duration_seconds": 73.31775760650635
+    }
+  }
+}

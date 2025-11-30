@@ -1,0 +1,68 @@
+{
+  "input_data": {
+    "title": "Making History",
+    "overview": "A professor creates a device that allows him and his colleague to change the course of events from the past in order to improve their current life.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2017,
+    "vote_count": 44
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Making History is a comedic series centered on a professor who develops a device capable of altering past events. The show explores the humorous and often chaotic consequences of tampering with history, as the protagonists attempt to improve their present circumstances. It blends elements of science fiction, comedy, and satire, offering a lighthearted and often absurd take on historical revisionism and the complexities of cause and effect. The series examines themes of ambition, responsibility, and the unintended repercussions of even well-intentioned actions, all while maintaining a playful and irreverent tone.",
+        "spoiler_rich_plot_summary": "The series begins with Professor Elliot Lawrence and his colleague, Tess, successfully creating a device that allows them to travel to the past. Initially, their interventions are small and seemingly beneficial, aimed at correcting personal regrets and improving their careers. However, they quickly discover that even minor alterations to the past can have significant and unpredictable consequences in the present. As they continue to manipulate historical events, the timeline becomes increasingly unstable, leading to paradoxical situations and escalating chaos. Their attempts to fix these problems only create new and more complex issues, forcing them to confront the ethical implications of their actions and the fragility of the historical record. The series follows their increasingly desperate attempts to restore the timeline, encountering various historical figures and navigating the absurdities of altered history, ultimately questioning whether some things are best left unchanged.",
+        "categorized_keywords": {
+          "themes": [
+            "time-travel",
+            "historical-revisionism",
+            "cause-and-effect",
+            "ethics",
+            "responsibility",
+            "ambition"
+          ],
+          "plot_and_concepts": [
+            "time-loop",
+            "alternate-timeline",
+            "paradox",
+            "historical-fiction"
+          ],
+          "mood_and_tone": [
+            "comedic",
+            "satirical",
+            "absurd",
+            "lighthearted"
+          ],
+          "genre_and_tropes": [
+            "science-fiction-comedy",
+            "time-travel-trope",
+            "fish-out-of-water"
+          ],
+          "setting": [
+            "historical-setting",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "eccentric-professor",
+            "reluctant-hero"
+          ],
+          "narrative_style": [
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "time-machine",
+            "historical-artifact",
+            "alternate-reality"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Making History is a comedic science-fiction series that explores the absurd consequences of tampering with the past through a time-travel device, highlighting themes of responsibility and the fragility of historical events."
+      },
+      "duration_seconds": 52.70462155342102
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Planet Earth",
+    "overview": "David Attenborough celebrates the amazing variety of the natural world in this epic documentary series, filmed over four years across 64 different countries.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2006,
+    "vote_count": 948
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Planet Earth is a landmark documentary series showcasing the Earth's diverse ecosystems and wildlife. Narrated by David Attenborough, the series employs cutting-edge filming techniques to capture rarely seen animal behaviors and stunning landscapes. It aims to inspire awe and appreciation for the natural world while subtly highlighting the impact of human activity on fragile environments. The series blends scientific observation with breathtaking visuals, creating an immersive and emotionally resonant experience for viewers of all ages. Its scope is truly global, demonstrating the interconnectedness of life on Earth.",
+        "spoiler_rich_plot_summary": "The series is structured around distinct habitats, each episode exploring a different biome – from the frozen poles to lush rainforests and vast oceans. Viewers witness incredible feats of animal survival, including the migration patterns of wildebeest, the hunting strategies of polar bears, and the complex social structures of primate communities. The series reveals the delicate balance of these ecosystems, showcasing how species interact and depend on each other. While celebrating the beauty of nature, the series also subtly underscores the challenges faced by wildlife due to climate change and habitat loss, prompting reflection on the responsibility of humankind to protect these environments. The overarching narrative follows the cyclical nature of life, death, and renewal within these diverse habitats, emphasizing the interconnectedness of all living things.",
+        "categorized_keywords": {
+          "themes": [
+            "nature-conservation",
+            "biodiversity",
+            "environmentalism",
+            "animal-behavior",
+            "ecosystem-balance"
+          ],
+          "plot_and_concepts": [
+            "documentary-film",
+            "wildlife-photography",
+            "habitats",
+            "migration",
+            "predator-prey"
+          ],
+          "mood_and_tone": [
+            "awe-inspiring",
+            "educational",
+            "serene",
+            "observational",
+            "inspiring"
+          ],
+          "genre_and_tropes": [
+            "nature-documentary",
+            "wildlife-film",
+            "environmental-documentary"
+          ],
+          "setting": [
+            "global",
+            "polar-regions",
+            "rainforests",
+            "oceans",
+            "mountains"
+          ],
+          "character_archetypes": [
+            "naturalist",
+            "wildlife-photographer"
+          ],
+          "narrative_style": [
+            "observational-narrative",
+            "serialized-episodes"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "wildebeest-migration",
+            "polar-bear-hunt",
+            "coral-reef",
+            "amazon-rainforest",
+            "aerial-footage"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Planet Earth is an awe-inspiring nature documentary series that explores the Earth's diverse ecosystems and wildlife, highlighting the importance of biodiversity and environmental conservation through stunning aerial footage and observational narratives."
+      },
+      "duration_seconds": 181.234783411026
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "McCloud",
+    "overview": "Deputy Marshal Sam McCloud of the small western town of Taos, New Mexico is assigned to the metropolitan New York City Police Department (NYPD) as a special investigator.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 1970,
+    "vote_count": 47
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "McCloud is a unique blend of Western and police procedural drama, following Deputy Marshal Sam McCloud as he transitions from the quiet landscapes of Taos, New Mexico, to the bustling streets of New York City. The series explores the clash of cultures and law enforcement styles, offering a lighthearted yet engaging look at crime-solving in vastly different environments. It balances the charm of a small-town deputy with the complexities of a major metropolitan police force, creating a generally optimistic and accessible viewing experience. The show's appeal lies in its episodic nature and the contrast between McCloud's rural sensibilities and the urban challenges he faces.",
+        "spoiler_rich_plot_summary": "The series begins with Deputy Marshal Sam McCloud, known for his unconventional methods and strong sense of justice in Taos, New Mexico, being temporarily assigned to the New York City Police Department. Initially, his presence is met with skepticism and resistance from the seasoned NYPD detectives, who find his relaxed approach and reliance on intuition jarring. Each episode typically involves McCloud investigating a crime in New York City, often utilizing his unique perspective and skills honed in the West to solve cases that stump the local police. Over time, he earns the respect of his colleagues and becomes a valued member of the team, though he always maintains his connection to his home in Taos. While the series is largely episodic, a recurring theme involves McCloud balancing his duties in New York with his responsibilities and relationships in New Mexico, occasionally facing conflicts between the two worlds. The series concludes with McCloud continuing his dual role, demonstrating a successful integration of his Western roots and his urban law enforcement career.",
+        "categorized_keywords": {
+          "themes": [
+            "law-and-order",
+            "cultural-clash",
+            "justice",
+            "small-town-values",
+            "urban-life"
+          ],
+          "plot_and_concepts": [
+            "crime-investigation",
+            "fish-out-of-water",
+            "buddy-cop",
+            "episodic-format"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "optimistic",
+            "charming",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "western",
+            "police-procedural",
+            "crime-drama"
+          ],
+          "setting": [
+            "new-mexico",
+            "new-york-city",
+            "1970s"
+          ],
+          "character_archetypes": [
+            "unconventional-hero",
+            "fish-out-of-water",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "serialized-elements"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "sheriffs-hat",
+            "western-landscape",
+            "city-street",
+            "police-car"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "McCloud is a charming and lighthearted crime drama that blends western sensibilities with police procedural elements, exploring the clash between a small-town deputy and the bustling urban landscape of New York City."
+      },
+      "duration_seconds": 60.5451135635376
+    }
+  }
+}

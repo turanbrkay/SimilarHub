@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Men At Work",
+    "overview": "Men at Work is an American comedy series that airs on TBS. The series was created by Breckin Meyer and stars Danny Masterson, Michael Cassidy, Adam Busch, James Lesure and Meredith Hagner. The series premiered on May 24, 2012 at 10 pm. TBS second season premiered on April 4, 2013 with another 10 episode season.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2012,
+    "vote_count": 39
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Men at Work is a workplace comedy series that follows a group of friends attempting to revitalize a historic Boston bar. The show blends humor with a nostalgic aesthetic, exploring themes of friendship, ambition, and the challenges of entrepreneurship. The series utilizes a mockumentary style, similar to The Office, to create a relatable and often absurd portrayal of the struggles and triumphs of small business ownership. The comedic tone is lighthearted and often relies on character-driven humor and situational irony, offering a feel-good viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with a group of friends, led by Mike Kirby, purchasing The Jefferson, a historic Boston bar. They envision transforming it into a modern, successful establishment, but quickly encounter numerous obstacles. Initial attempts to modernize the bar clash with its established clientele and the bar's historical significance, leading to humorous misunderstandings and financial struggles. Throughout the series, the friends navigate personal and professional conflicts, including romantic entanglements, disagreements over business strategy, and the constant pressure to keep the bar afloat. They face competition from rival businesses and deal with eccentric employees, all while trying to maintain their friendship and pursue their individual dreams. While the bar experiences periods of success and setbacks, the core group remains committed to their shared vision, learning valuable lessons about perseverance, compromise, and the true meaning of success.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "entrepreneurship",
+            "small-business",
+            "nostalgia",
+            "ambition",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "mockumentary",
+            "workplace-comedy",
+            "business-struggles",
+            "rivalry",
+            "redesign"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "humorous",
+            "feel-good",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "workplace-comedy",
+            "found-family"
+          ],
+          "setting": [
+            "boston-city",
+            "historic-bar",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "entrepreneur",
+            "best-friends",
+            "reluctant-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "historic-bar",
+            "bar-sign",
+            "cocktail-glasses",
+            "bar-menu"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Men at Work is a lighthearted workplace comedy series set in a historic Boston bar, exploring themes of friendship and entrepreneurship through a mockumentary style."
+      },
+      "duration_seconds": 52.343921184539795
+    }
+  }
+}

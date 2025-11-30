@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "The Crew",
+    "overview": "When the owner of the fictional NASCAR Bobby Spencer Racing team steps down and passes the team off to his daughter Catherine, the crew chief has to protect himself and his crew from her attempts to  modernize.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2021,
+    "vote_count": 96
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Crew is a comedic series centered around the dynamics of a NASCAR racing team and the clash between tradition and modernization. The show explores the relationships between the veteran crew members and the new, ambitious team owner, Catherine, as she attempts to shake up the established order. It blends workplace comedy with the high-stakes world of professional racing, offering a lighthearted look at the challenges of change and the importance of loyalty. The series emphasizes the camaraderie and quirky personalities within the racing team, creating a feel-good atmosphere despite the underlying tensions.",
+        "spoiler_rich_plot_summary": "The series begins with Bobby Spencer, the long-time owner of Bobby Spencer Racing, unexpectedly passing the team down to his daughter, Catherine. Catherine, a business-minded individual with little understanding of racing, immediately begins implementing changes aimed at modernizing the team's operations and improving its performance. This clashes directly with the established crew, led by veteran crew chief Kevin, who are resistant to change and protective of their traditions. Throughout the series, Catherine attempts to introduce new technologies, marketing strategies, and management styles, often leading to humorous misunderstandings and conflicts with the crew. Kevin, in turn, tries to shield his team from Catherine's disruptive changes while also navigating the pressures of maintaining the team's competitive edge. The series follows the evolving relationship between Catherine and Kevin, as they gradually learn to appreciate each other's perspectives and find a way to work together, albeit with plenty of comedic mishaps along the way. While Catherine's initial attempts at modernization are met with resistance, she slowly begins to understand the value of the crew's experience and the importance of preserving the team's unique culture. The season culminates in a championship race where the team must overcome their differences and work together to achieve victory.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "tradition-vs-modernity",
+            "workplace-comedy",
+            "loyalty",
+            "generational-conflict"
+          ],
+          "plot_and_concepts": [
+            "racing-team",
+            "generational-succession",
+            "fish-out-of-water",
+            "underdog-story"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "humorous",
+            "feel-good",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "sports-comedy",
+            "workplace-comedy",
+            "fish-out-of-water"
+          ],
+          "setting": [
+            "nascar-racing",
+            "modern-day",
+            "racing-team-garage"
+          ],
+          "character_archetypes": [
+            "veteran-crew-chief",
+            "ambitious-heiress",
+            "reluctant-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "sports-fans"
+          ],
+          "detail_plot": [
+            "racing-car",
+            "pit-stop",
+            "racing-helmet",
+            "checkered-flag"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Crew is a lighthearted sports comedy series that explores the clash between tradition and modernity within a NASCAR racing team, highlighting the importance of family dynamics and loyalty as a new generation attempts to shake up the established order."
+      },
+      "duration_seconds": 68.63020300865173
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Murdoch Mysteries",
+    "overview": "A Victorian-era Toronto detective uses then-cutting edge forensic techniques to solve crimes, with the assistance of a female coroner who is also struggling for recognition in the face of tradition, based on the books by Maureen Jennings.",
+    "genres": [
+      "Mystery",
+      "Drama"
+    ],
+    "release_year": 2008,
+    "vote_count": 218
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Murdoch Mysteries is a Canadian historical drama series blending mystery, procedural elements, and a touch of steampunk-inspired innovation. Set in late 19th and early 20th century Toronto, the show follows Detective William Murdoch as he utilizes emerging forensic science to solve crimes, often clashing with more traditional police methods. The series explores themes of societal change, technological advancement, and the evolving roles of women in a rapidly changing world, offering a blend of engaging mysteries and character-driven narratives.",
+        "spoiler_rich_plot_summary": "The series begins with Detective William Murdoch, a newly appointed constable, joining the Toronto City Police. He quickly distinguishes himself by employing unconventional, scientifically-based methods of investigation, often met with skepticism from his superiors, particularly Inspector Brackenreid. Alongside Dr. Julia Ogden, a brilliant and ambitious coroner, Murdoch navigates complex cases ranging from petty theft to murder, often uncovering deeper conspiracies and societal issues. As the series progresses, Murdoch and Ogden's professional relationship evolves into a romantic one, though their personal lives are frequently complicated by societal expectations and personal ambitions. The show spans decades, witnessing significant historical events and technological advancements, with Murdoch and Ogden adapting to the changing times while maintaining their commitment to justice. Recurring antagonists and complex storylines involving political intrigue and criminal organizations challenge their resolve, and the introduction of new characters and evolving relationships continually reshape the landscape of the Toronto police force. The series explores the impact of technological innovation on society and the challenges of maintaining moral integrity in a world undergoing rapid transformation.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "social-change",
+            "technological-innovation",
+            "gender-equality",
+            "moral-integrity",
+            "class-conflict"
+          ],
+          "plot_and_concepts": [
+            "police-investigation",
+            "forensic-science",
+            "historical-mystery",
+            "procedural-drama",
+            "time-period-drama"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "optimistic",
+            "thoughtful",
+            "gentle-humor"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "historical-fiction",
+            "slow-burn-romance",
+            "found-family"
+          ],
+          "setting": [
+            "toronto-city",
+            "victorian-era",
+            "early-20th-century",
+            "alternate-timeline"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "strong-female-lead",
+            "eccentric-genius"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "police-hat",
+            "forensic-lab",
+            "horse-drawn-carriage",
+            "victorian-clothing",
+            "gaslight"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Set in Victorian-era Toronto, Murdoch Mysteries is a wholesome and thoughtful crime procedural that blends historical fiction with forensic science and a touch of romance, exploring themes of social change and technological innovation."
+      },
+      "duration_seconds": 64.50641179084778
+    }
+  }
+}

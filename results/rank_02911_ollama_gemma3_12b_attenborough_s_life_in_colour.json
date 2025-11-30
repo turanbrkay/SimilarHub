@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Attenborough's Life in Colour",
+    "overview": "Exploring the vital role colour plays in the daily lives of many species.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2021,
+    "vote_count": 50
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Attenborough's Life in Colour is a nature documentary series that utilizes cutting-edge camera technology to reveal the hidden world of animal coloration. The series explores how animals use color for camouflage, communication, and attraction, highlighting the crucial role it plays in their survival and reproduction. Through stunning visuals and David Attenborough's narration, the series offers a fresh perspective on familiar species, demonstrating the complexity and beauty of the natural world. It's a visually captivating and informative experience suitable for a broad audience, emphasizing the interconnectedness of life and the importance of conservation.",
+        "spoiler_rich_plot_summary": "The series follows David Attenborough as he investigates the science behind animal coloration, beginning with how creatures use color for camouflage, blending seamlessly into their environments. The series then delves into the ways animals use color to communicate, from elaborate mating displays to warning signals. The documentary showcases how color plays a vital role in attracting mates, with vibrant plumage and intricate patterns serving as indicators of health and genetic fitness. Throughout the series, Attenborough reveals how scientists are using advanced imaging techniques to unlock the secrets of animal coloration, demonstrating the ongoing discoveries in the field of natural history. The series concludes by emphasizing the fragility of these vibrant ecosystems and the importance of protecting them for future generations.",
+        "categorized_keywords": {
+          "themes": [
+            "nature-conservation",
+            "animal-behavior",
+            "scientific-discovery",
+            "biodiversity",
+            "ecosystem-interdependence"
+          ],
+          "plot_and_concepts": [
+            "scientific-imaging",
+            "color-theory",
+            "animal-communication",
+            "camouflage",
+            "mating-rituals"
+          ],
+          "mood_and_tone": [
+            "informative",
+            "awe-inspiring",
+            "optimistic",
+            "visually-stunning"
+          ],
+          "genre_and_tropes": [
+            "nature-documentary",
+            "science-education",
+            "wildlife-photography"
+          ],
+          "setting": [
+            "global-ecosystems",
+            "natural-habitats",
+            "wildlife-reserves"
+          ],
+          "character_archetypes": [
+            "naturalist",
+            "scientific-explorer"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "observational-documentary"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "high-speed-camera",
+            "infrared-photography",
+            "animal-plumage",
+            "coral-reefs",
+            "rainforest-canopy"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Attenborough's Life in Colour is a visually stunning nature documentary that explores the vital role color plays in animal behavior and survival across diverse global ecosystems, revealing the beauty and complexity of the natural world through scientific discovery and breathtaking wildlife photography."
+      },
+      "duration_seconds": 68.43582034111023
+    }
+  }
+}

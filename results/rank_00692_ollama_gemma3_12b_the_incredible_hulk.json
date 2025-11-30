@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "The Incredible Hulk",
+    "overview": "During an experiment gone bad, radiation turns a scientist into a raging green behemoth whenever he becomes agitated. Unable to control his transformations, David Banner searches for a cure as he crosses the country, fugitive-style, with a dogged tabloid reporter on his trail.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Drama"
+    ],
+    "release_year": 1977,
+    "vote_count": 412
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Incredible Hulk is a television series centered on Dr. David Banner, a scientist who transforms into a powerful, uncontrollable Hulk when stressed or angered. The show blends elements of science fiction, action, and drama, exploring themes of identity, responsibility, and the struggle to control one's inner demons. Banner's journey is a constant search for a cure while evading authorities and a persistent reporter, creating a fugitive narrative with episodic adventures and a recurring sense of melancholy. The series offers a compelling exploration of the duality of human nature and the consequences of unchecked power.",
+        "spoiler_rich_plot_summary": "The series begins with Dr. David Banner's fateful experiment, which transforms him into the Hulk. Branded a fugitive, he attempts to find a cure while constantly battling his monstrous alter ego and avoiding capture. A relentless tabloid reporter, Betty Ross, pursues Banner, initially driven by a desire for a scoop but gradually developing a complex relationship with him. Each episode typically sees Banner attempting to live a normal life under an assumed identity, only to be forced to transform into the Hulk when confronted with stressful situations. He encounters various adversaries, both human and superhuman, who exploit his power or seek to harm him. Throughout the series, Banner's attempts to control the Hulk prove largely unsuccessful, and he grapples with the moral implications of his actions. While he occasionally finds temporary solace or connection, the underlying threat of transformation and the burden of his condition remain constant, leading to a perpetual cycle of escape and reinvention. The series concludes with Banner still searching for a cure, his fate uncertain and his existence a precarious balance between humanity and monstrous power.",
+        "categorized_keywords": {
+          "themes": [
+            "identity-crisis",
+            "scientific-hubris",
+            "inner-demon",
+            "responsibility",
+            "redemption",
+            "fugitive-status"
+          ],
+          "plot_and_concepts": [
+            "scientific-experiment",
+            "superhero-origin",
+            "monster-of-the-week",
+            "chase-narrative",
+            "dual-identity"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "melancholy",
+            "suspenseful",
+            "action-packed"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "action-adventure",
+            "superhero",
+            "monster-movie"
+          ],
+          "setting": [
+            "american-south",
+            "modern-day",
+            "rural-america"
+          ],
+          "character_archetypes": [
+            "tormented-hero",
+            "reluctant-hero",
+            "persistent-reporter",
+            "scientific-genius"
+          ],
+          "narrative_style": [
+            "episodic-format",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "laboratory-equipment",
+            "gamma-radiation",
+            "newspaper-headlines",
+            "police-car",
+            "small-town-america"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "emotional-trauma"
+          ]
+        },
+        "keyword_sentence": "The Incredible Hulk is a dark and suspenseful science-fiction series following a tormented scientist who transforms into a powerful monster, constantly evading authorities and grappling with his inner demons while on a perpetual journey across rural America."
+      },
+      "duration_seconds": 62.277852296829224
+    }
+  }
+}

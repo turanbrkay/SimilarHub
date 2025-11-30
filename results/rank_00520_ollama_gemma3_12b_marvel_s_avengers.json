@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Marvel's Avengers",
+    "overview": "The further adventures of the Marvel Universe's mightiest general membership superhero team. With an all-star roster consisting of Iron Man, Captain America, Thor, Hulk, Hawkeye, Falcon and, occasionally--when she feels like it and only when she feels like it--Black Widow, the Avengers are a team in the truest sense. The Avengers save the world from the biggest threats imaginable--threats no single super hero could withstand.",
+    "genres": [
+      "Action & Adventure",
+      "Animation",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2013,
+    "vote_count": 595
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Marvel's Avengers is a superhero team-up film that expands upon the interconnected universe established in previous Marvel Cinematic Universe installments. The film focuses on the formation of the Avengers, a group of extraordinary individuals brought together to confront a global threat. It blends action, adventure, and elements of science fiction and fantasy, delivering a spectacle of superheroic teamwork and large-scale battles. The film explores themes of responsibility, sacrifice, and the challenges of uniting disparate personalities towards a common goal, offering a thrilling and visually impressive cinematic experience.",
+        "spoiler_rich_plot_summary": "The film begins with Loki, Thor's brother, stealing the Tesseract, a powerful artifact containing the Space Stone. His actions trigger a series of events orchestrated by the villainous Thanos, who seeks to acquire the Infinity Stones. Nick Fury, director of S.H.I.E.L.D., initiates the Avengers Initiative, assembling Iron Man, Captain America, Thor, Hulk, Hawkeye, and Black Widow to combat the escalating crisis. Initially, the team struggles with internal conflicts and mistrust, hindering their ability to effectively respond to Loki's invasion of Earth. A devastating battle ensues, forcing the Avengers to overcome their differences and work together to repel the Chitauri army. The film culminates in a decisive victory for the Avengers, solidifying their status as Earth's first line of defense against future threats and setting the stage for their continued adventures as a unified team.",
+        "categorized_keywords": {
+          "themes": [
+            "teamwork",
+            "sacrifice",
+            "responsibility",
+            "redemption",
+            "heroism",
+            "fate"
+          ],
+          "plot_and_concepts": [
+            "superhero-team",
+            "artifact-quest",
+            "invasion",
+            "dimensional-travel",
+            "cosmic-threat"
+          ],
+          "mood_and_tone": [
+            "action-packed",
+            "epic",
+            "optimistic",
+            "heroic",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "superhero-action",
+            "found-family",
+            "big-budget-blockbuster",
+            "cosmic-adventure"
+          ],
+          "setting": [
+            "earth",
+            "new-york-city",
+            "space",
+            "alternate-dimension"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "fallen-hero",
+            "powerful-villain"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "tesseract",
+            "avengers-tower",
+            "chitauri-army",
+            "infinity-stones"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Marvel's Avengers delivers an epic, action-packed superhero adventure, uniting a found-family of extraordinary individuals to confront a cosmic threat and protect Earth from an invasion."
+      },
+      "duration_seconds": 58.978349685668945
+    }
+  }
+}

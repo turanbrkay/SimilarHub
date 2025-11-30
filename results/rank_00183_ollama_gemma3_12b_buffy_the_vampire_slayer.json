@@ -1,0 +1,90 @@
+{
+  "input_data": {
+    "title": "Buffy the Vampire Slayer",
+    "overview": "Into every generation a slayer is born: one girl in all the world, a chosen one. She alone will wield the strength and skill to fight the vampires, demons, and the forces of darkness; to stop the spread of their evil and the swell of their number. She is the Slayer.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Comedy",
+      "Drama",
+      "Action & Adventure"
+    ],
+    "release_year": 1997,
+    "vote_count": 1517
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Buffy the Vampire Slayer is a supernatural drama that blends horror, comedy, and teen angst. The series follows Buffy Summers, a young woman burdened with the responsibility of slaying vampires and other creatures of the night. While ostensibly a monster-hunting show, it explores themes of adolescence, friendship, responsibility, and the challenges of growing up. The series is known for its witty dialogue, strong female characters, and its ability to balance lighthearted moments with genuinely dark and suspenseful storylines, creating a unique and enduring appeal.",
+        "spoiler_rich_plot_summary": "The series begins with Buffy Summers reluctantly embracing her destiny as the Slayer, moving to Sunnydale, California, a town situated on a Hellmouth, a nexus of demonic activity. She is guided by Rupert Giles, a Watcher who provides her with knowledge and support. Initially, Buffy struggles to balance her slayer duties with her desire for a normal teenage life, forming friendships with Willow Rosenberg and Xander Harris, who become her Scooby Gang. As the series progresses, the threats escalate, introducing powerful vampires like the Master and Drusilla, and eventually the Big Bad, Angel, a vampire cursed to feel remorse. Buffy confronts numerous challenges, including the rise of the Mayor, a demonic figure masquerading as Sunnydale’s mayor, and the introduction of Spike, another vampire who becomes a complex and conflicted ally. The series explores themes of loss, betrayal, and sacrifice, with characters facing difficult choices and enduring significant personal growth. The final seasons delve into deeper mythology and introduce powerful forces, culminating in a battle against the First Evil, a manifestation of all evil, which threatens to destroy Sunnydale and the world. Buffy ultimately rallies her friends and allies to defeat the First Evil, solidifying her role as a true hero and protector.",
+        "categorized_keywords": {
+          "themes": [
+            "good-vs-evil",
+            "coming-of-age",
+            "friendship",
+            "responsibility",
+            "sacrifice",
+            "loss",
+            "destiny",
+            "identity"
+          ],
+          "plot_and_concepts": [
+            "supernatural-horror",
+            "monster-of-the-week",
+            "chosen-one",
+            "vampire-politics",
+            "demonology",
+            "hellmouth"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "suspenseful",
+            "witty",
+            "melancholy",
+            "heroic"
+          ],
+          "genre_and_tropes": [
+            "supernatural-drama",
+            "teen-drama",
+            "found-family",
+            "monster-hunting",
+            "slow-burn-romance"
+          ],
+          "setting": [
+            "sunnydale-california",
+            "modern-day",
+            "high-school"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "best-friend",
+            "anti-hero",
+            "femme-fatale"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "vampire-fangs",
+            "potions",
+            "hellmouth-portal",
+            "slayer-stake",
+            "ruperts-glasses"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "sexual-content",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "Buffy the Vampire Slayer is a darkly comic and suspenseful supernatural drama that explores themes of good versus evil and coming-of-age through the journey of a reluctant hero battling vampires and demons in the modern-day setting of Sunnydale, California."
+      },
+      "duration_seconds": 71.73584318161011
+    }
+  }
+}

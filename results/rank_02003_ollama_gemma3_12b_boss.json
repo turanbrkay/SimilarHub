@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Boss",
+    "overview": "Boss is an American political drama television serial created by Farhad Safinia. The series stars Kelsey Grammer as Tom Kane, the mayor of Chicago, who has recently been diagnosed with dementia with Lewy bodies, a degenerative neurological disorder.",
+    "genres": [
+      "Drama",
+      "War & Politics"
+    ],
+    "release_year": 2011,
+    "vote_count": 96
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Boss is a dark and cynical political drama centered on the ruthless and powerful Mayor Tom Kane of Chicago. The series explores the corrupting influence of power and the lengths to which individuals will go to maintain it, even as Kane battles a debilitating neurological condition. With a bleak tone and morally ambiguous characters, the show offers a complex and unflinching look at the inner workings of city government and the personal toll of ambition. The narrative unfolds with a deliberate pace, emphasizing Kane's strategic maneuvering and the intricate web of alliances and betrayals that define his world.",
+        "spoiler_rich_plot_summary": "The series begins with Tom Kane, the long-serving and seemingly invincible Mayor of Chicago, receiving a diagnosis of dementia with Lewy bodies. Determined to conceal his condition and maintain his grip on power, Kane initiates a carefully orchestrated plan to secure his legacy and ensure a smooth transition of power. He manipulates events, silences dissent, and ruthlessly eliminates those who threaten his position, all while battling the escalating effects of his illness. As Kane's condition worsens, his schemes become increasingly desperate and his control over the city begins to unravel. Loyalties are tested, alliances shift, and the intricate web of corruption he has built begins to collapse around him. The series culminates in a power struggle that exposes the fragility of his empire and the devastating consequences of his relentless pursuit of control, leaving the future of Chicago uncertain.",
+        "categorized_keywords": {
+          "themes": [
+            "power-corruption",
+            "ambition",
+            "legacy",
+            "deception",
+            "moral-ambiguity",
+            "political-intrigue",
+            "decline"
+          ],
+          "plot_and_concepts": [
+            "political-drama",
+            "power-struggle",
+            "conspiracy",
+            "cover-up",
+            "succession-planning"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "cynical",
+            "bleak",
+            "tense",
+            "gritty"
+          ],
+          "genre_and_tropes": [
+            "political-thriller",
+            "crime-drama",
+            "slow-burn",
+            "anti-hero"
+          ],
+          "setting": [
+            "chicago-city",
+            "modern-day",
+            "city-government"
+          ],
+          "character_archetypes": [
+            "corrupt-politician",
+            "ruthless-leader",
+            "loyal-aide",
+            "moral-compromise"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "city-hall",
+            "political-campaign",
+            "courtroom-scene",
+            "press-conference"
+          ],
+          "maturity_and_content": [
+            "profanity",
+            "political-manipulation"
+          ]
+        },
+        "keyword_sentence": "Boss is a dark and cynical political drama set in modern-day Chicago, exploring themes of power, corruption, and moral compromise through the story of a ruthless mayor battling a debilitating illness and desperately clinging to his legacy."
+      },
+      "duration_seconds": 66.75474524497986
+    }
+  }
+}

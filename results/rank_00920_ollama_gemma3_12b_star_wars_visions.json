@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Star Wars: Visions",
+    "overview": "This anthology of animated shorts from around the world celebrates the myth of Star Wars through unique cultural lenses.",
+    "genres": [
+      "Animation",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "release_year": 2021,
+    "vote_count": 286
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Star Wars: Visions is an animated anthology series that reimagines the Star Wars universe through the perspectives of various international studios. Each short film offers a distinct visual style and narrative approach, drawing inspiration from diverse cultural traditions while remaining rooted in the core themes of the Star Wars saga. The series provides a refreshing and experimental take on the franchise, blending familiar elements with fresh storytelling techniques and artistic interpretations. It’s a celebration of the Star Wars mythos, offering a unique and accessible entry point for new fans while also providing a rewarding experience for long-time enthusiasts. The series explores themes of heroism, destiny, and the enduring power of hope, all filtered through a variety of artistic lenses.",
+        "spoiler_rich_plot_summary": "Star Wars: Visions doesn't follow a single, overarching plot. Instead, it presents a collection of self-contained short films, each with its own beginning, middle, and end. Some shorts focus on Jedi knights facing moral dilemmas, while others explore the lives of ordinary citizens caught in the crossfire of galactic conflicts. Several episodes delve into the origins of the Force, presenting alternative interpretations of its nature and influence. Recurring motifs include the struggle between light and darkness, the importance of family and community, and the enduring legacy of the Jedi Order. While individual stories may conclude with bittersweet resolutions or moments of sacrifice, the overall tone remains optimistic, emphasizing the resilience of the human spirit and the potential for redemption even in the darkest of times. The anthology format allows for a wide range of narrative experiments, from traditional samurai tales to futuristic cyberpunk adventures, all within the familiar Star Wars universe.",
+        "categorized_keywords": {
+          "themes": [
+            "heroism",
+            "destiny",
+            "light-vs-darkness",
+            "family",
+            "redemption",
+            "hope",
+            "cultural-identity"
+          ],
+          "plot_and_concepts": [
+            "anthology-series",
+            "alternate-universe",
+            "samurai-influence",
+            "cyberpunk",
+            "force-powers",
+            "galactic-conflict"
+          ],
+          "mood_and_tone": [
+            "optimistic",
+            "wholesome",
+            "stylized",
+            "experimental",
+            "action-packed"
+          ],
+          "genre_and_tropes": [
+            "sci-fi",
+            "fantasy",
+            "animation",
+            "samurai-genre",
+            "found-family"
+          ],
+          "setting": [
+            "star-wars-universe",
+            "alternate-timeline",
+            "galactic-empire"
+          ],
+          "character_archetypes": [
+            "jedi-knight",
+            "samurai",
+            "reluctant-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "anthology-format",
+            "short-form-narrative"
+          ],
+          "target_audience": [
+            "young-adult",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "lightsaber",
+            "starship",
+            "droid",
+            "force-vision"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Star Wars: Visions is an animated anthology series that reimagines the galaxy far, far away through a variety of cultural lenses, blending action-packed sci-fi and fantasy with optimistic themes of heroism and family."
+      },
+      "duration_seconds": 60.87242650985718
+    }
+  }
+}

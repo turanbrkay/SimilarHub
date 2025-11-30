@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Marvel's The Punisher",
+    "overview": "A former Marine out to punish the criminals responsible for his family's murder finds himself ensnared in a military conspiracy.",
+    "genres": [
+      "Action & Adventure",
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2017,
+    "vote_count": 2207
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Marvel's The Punisher is a gritty, action-packed crime drama exploring the consequences of violence and the blurred lines between justice and revenge. Following Frank Castle's descent into vigilantism after the murder of his family, the series delves into his past as a Marine and exposes a wider military conspiracy. The show balances intense action sequences with moments of character development, examining the psychological toll of trauma and the moral complexities of Castle's actions. It's a dark and often brutal exploration of grief, vengeance, and the corrupting influence of power, firmly rooted in the Marvel universe but with a distinct, grounded tone.",
+        "spoiler_rich_plot_summary": "The series begins with Frank Castle, a former Marine, seeking vengeance for the murder of his wife and children. His relentless pursuit of the killers leads him to discover a larger conspiracy involving corrupt military officials and a covert unit known as 'Psi-Ops.' Castle teams up with Micro, a former NSA analyst who helps him uncover the truth about Psi-Ops and their involvement in various illegal operations. As Castle delves deeper, he confronts his past traumas and the moral implications of his actions, struggling to reconcile his desire for justice with the escalating violence he perpetuates. He forms uneasy alliances with other characters affected by Psi-Ops, including Karen Page and Curtis Payne, each grappling with their own demons and seeking redemption. The series explores the legacy of the war on terror and the sacrifices made by soldiers, revealing a web of deceit and betrayal that reaches the highest levels of government. Castle ultimately confronts the architects of the conspiracy, facing a final reckoning that tests his resolve and forces him to confront the true cost of his quest for vengeance.",
+        "categorized_keywords": {
+          "themes": [
+            "revenge",
+            "grief",
+            "justice",
+            "military-corruption",
+            "moral-ambiguity",
+            "trauma",
+            "vigilantism"
+          ],
+          "plot_and_concepts": [
+            "military-conspiracy",
+            "vigilante-justice",
+            "crime-procedural",
+            "cover-up",
+            "secret-unit"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "gritty",
+            "violent",
+            "suspenseful",
+            "bleak"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "action-thriller",
+            "superhero-noir",
+            "military-thriller"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day",
+            "military-base"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "reluctant-hero",
+            "morally-gray-protagonist",
+            "former-military"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "military-uniform",
+            "handgun",
+            "interrogation-room",
+            "safehouse"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "substance-abuse",
+            "strong-language"
+          ]
+        },
+        "keyword_sentence": "Marvel’s The Punisher is a dark and gritty crime drama exploring themes of revenge and justice, set against a backdrop of military corruption and featuring a morally ambiguous anti-hero seeking vengeance for his family’s murder."
+      },
+      "duration_seconds": 72.6143569946289
+    }
+  }
+}

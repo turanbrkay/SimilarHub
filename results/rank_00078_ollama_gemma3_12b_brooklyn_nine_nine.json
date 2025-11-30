@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Brooklyn Nine-Nine",
+    "overview": "A single-camera ensemble comedy following the lives of an eclectic group of detectives in a New York precinct, including one slacker who is forced to shape up when he gets a new boss.",
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "release_year": 2013,
+    "vote_count": 2875
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Brooklyn Nine-Nine is a comedic police procedural that blends workplace sitcom tropes with crime-solving narratives. The series follows a diverse group of detectives in Brooklyn's 99th precinct, led by the immature but talented Jake Peralta, who must adapt to the arrival of a stern new captain. The show balances absurd humor with genuine character development and explores themes of friendship, family, and personal growth, offering a lighthearted and optimistic portrayal of law enforcement.",
+        "spoiler_rich_plot_summary": "The series begins with Captain Raymond Holt taking over the 99th precinct, immediately clashing with the immature detective Jake Peralta. Throughout the first season, Jake struggles to adjust to Holt's strict leadership while the rest of the squad navigates their own personal and professional challenges. As the series progresses, the detectives tackle increasingly complex cases, often involving recurring antagonists and intricate schemes. Relationships evolve, both romantic and platonic, with characters like Amy Santiago and Rosa Diaz undergoing significant transformations. Over time, the team faces personal crises, including the departure of beloved characters and the resolution of long-standing conflicts. While maintaining its comedic core, the show addresses serious issues such as police accountability and systemic injustice, culminating in a bittersweet but hopeful conclusion where the detectives move on to new chapters, forever bound by their shared experiences and camaraderie.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "family-found",
+            "personal-growth",
+            "workplace-dynamics",
+            "justice-social",
+            "police-accountability"
+          ],
+          "plot_and_concepts": [
+            "crime-investigation",
+            "workplace-comedy",
+            "ensemble-cast",
+            "undercover-operation",
+            "recurring-villain"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "optimistic",
+            "quirky",
+            "wholesome",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "police-procedural",
+            "sitcom",
+            "found-family",
+            "workplace-comedy"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day",
+            "police-precinct"
+          ],
+          "character_archetypes": [
+            "slacker-hero",
+            "stern-mentor",
+            "quirky-sidekick",
+            "by-the-book-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "bullpen",
+            "evidence-room",
+            "interrogation-room",
+            "police-car",
+            "captain-holts-office"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Brooklyn Nine-Nine is a lighthearted and optimistic police procedural sitcom set in New York City, exploring themes of friendship, family, and personal growth through an ensemble cast of quirky detectives."
+      },
+      "duration_seconds": 66.272634267807
+    }
+  }
+}

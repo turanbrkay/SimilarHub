@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Around the World in 80 Days",
+    "overview": "Around the World in 80 Days is a 1989 three-part television Eastmancolor miniseries originally broadcast on NBC. The production garnered three nominations for Emmy awards that year. The teleplay by John Gay is based on the Jules Verne novel of the same title.\n\nStarring Pierce Brosnan as Phileas Fogg, Eric Idle as Passepartout, Julia Nickson as Princess Aouda, and Peter Ustinov as Detective Fix, the miniseries featured multiple cameo appearances, including Patrick Macnee, Simon Ward, and Christopher Lee as members of the Reform Club, and Robert Morley, who had a cameo in the 1956 film adaptation, and Roddy McDowall appear as officials of the Bank of England. Other familiar faces, credited as guest stars and in more substantial roles, include John Hillerman, Jack Klugman, Darren McGavin, Henry Gibson and John Mills.\n\nThe heroes travel a slightly different route than in the book, and the script makes several contemporary celebrities part of the story who were not mentioned in the book, such as Sarah Bernhardt, Louis Pasteur, Jesse James, Cornelius Vanderbilt and Queen Victoria.",
+    "genres": [
+      "Drama",
+      "Action & Adventure"
+    ],
+    "release_year": 1989,
+    "vote_count": 61
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Around the World in 80 Days is a lavish, action-packed miniseries adaptation of Jules Verne's classic novel. The story follows the eccentric Phileas Fogg and his valet, Passepartout, as they embark on a race against time to circumnavigate the globe, pursued by a detective who believes Fogg is an escaped convict. The series blends historical settings with comedic elements and features a large ensemble cast, creating a lighthearted and adventurous viewing experience. It's a spectacle of period detail and globe-trotting excitement, appealing to audiences seeking a blend of action, humor, and a touch of historical charm.",
+        "spoiler_rich_plot_summary": "The story begins in London, where Phileas Fogg, a wealthy and meticulous gentleman, makes a wager with members of his Reform Club that he can circumnavigate the world in eighty days. Accompanied by his newly hired valet, Passepartout, Fogg sets off on his ambitious journey. They quickly find themselves pursued by Detective Fix, who mistakenly believes Fogg is a bank robber and intends to arrest him upon his return to England. Their travels take them through France, Italy, Egypt, India, Hong Kong, Japan, and the United States, encountering various challenges and adventures along the way. Passepartout's impulsive nature often leads to comical mishaps, while Fogg's rigid adherence to schedules is constantly tested. They rescue the beautiful Princess Aouda from a forced marriage in India, and she joins them on their journey. Throughout their travels, they face obstacles such as treacherous terrain, hostile environments, and Fix's relentless pursuit. As they near the end of their journey, they realize that a slight delay could cost them the wager and their freedom. In a final, desperate push, they arrive back in London just in time, but the question of whether they truly completed the journey within the allotted time remains uncertain, leading to a dramatic resolution.",
+        "categorized_keywords": {
+          "themes": [
+            "adventure",
+            "determination",
+            "cultural-exchange",
+            "class-difference",
+            "friendship",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "race-against-time",
+            "globe-trotting",
+            "mistaken-identity",
+            "wager",
+            "pursuit"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "comedic",
+            "optimistic",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "adventure-drama",
+            "period-piece",
+            "historical-fiction",
+            "fish-out-of-water"
+          ],
+          "setting": [
+            "19th-century",
+            "london-england",
+            "france",
+            "italy",
+            "egypt",
+            "india",
+            "hong-kong",
+            "japan",
+            "united-states"
+          ],
+          "character_archetypes": [
+            "eccentric-gentleman",
+            "loyal-valet",
+            "determined-protagonist",
+            "reluctant-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "reform-club",
+            "steamship",
+            "train-journey",
+            "princess-aouda",
+            "detective-fix"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Around the World in 80 Days is a lighthearted and optimistic adventure drama set in the 19th century, following a determined gentleman and his loyal valet as they race against time and cultural differences across the globe."
+      },
+      "duration_seconds": 74.61369848251343
+    }
+  }
+}

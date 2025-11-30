@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Justice League Action",
+    "overview": "Batman, Superman and Wonder Woman lead the DC Super Heroes against their most infamous foes.",
+    "genres": [
+      "Action & Adventure",
+      "Animation",
+      "Family",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2016,
+    "vote_count": 69
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Justice League Action is an animated superhero series geared towards a family audience, featuring a rotating cast of DC Comics heroes battling a variety of villains. The show emphasizes action and adventure, with episodic stories that explore themes of teamwork, responsibility, and heroism. While maintaining a lighthearted tone, it introduces younger viewers to the broader DC Universe and its iconic characters. The series provides a consistently accessible and entertaining experience, focusing on dynamic action sequences and positive moral lessons.",
+        "spoiler_rich_plot_summary": "The series primarily revolves around the Justice League, a team of superheroes led by Batman, Superman, and Wonder Woman, responding to threats across the globe and beyond. Each episode typically presents a new crisis, ranging from alien invasions to supervillain schemes. The team frequently encounters familiar adversaries like Lex Luthor, the Joker, Darkseid, and Reverse-Flash, each posing unique challenges that require the League to combine their powers and strategies. While the series doesn't follow a long-term overarching narrative, recurring villains and occasional character interactions build a sense of continuity. The heroes consistently demonstrate the importance of cooperation and sacrifice in protecting the world, facing down powerful foes and ultimately prevailing through their combined efforts. The series concludes with the Justice League continuing their mission, ever vigilant against new and emerging threats.",
+        "categorized_keywords": {
+          "themes": [
+            "teamwork",
+            "heroism",
+            "responsibility",
+            "justice",
+            "sacrifice",
+            "good-vs-evil"
+          ],
+          "plot_and_concepts": [
+            "superhero-team",
+            "alien-invasion",
+            "villain-schemes",
+            "crime-fighting",
+            "crisis-response"
+          ],
+          "mood_and_tone": [
+            "action-packed",
+            "lighthearted",
+            "optimistic",
+            "family-friendly"
+          ],
+          "genre_and_tropes": [
+            "superhero-action",
+            "animated-series",
+            "found-family",
+            "monster-of-the-week"
+          ],
+          "setting": [
+            "dc-universe",
+            "earth",
+            "metropolis",
+            "gotham-city"
+          ],
+          "character_archetypes": [
+            "superhero",
+            "mentor",
+            "villain",
+            "sidekick"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "serialized-elements"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-viewers"
+          ],
+          "detail_plot": [
+            "bat-signal",
+            "superman-s-cape",
+            "wonder-woman-s-tiara",
+            "justice-league-hq"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Justice League Action is a lighthearted, animated superhero series for a family audience, showcasing a team of heroes battling villains and upholding justice across the DC Universe through episodic adventures."
+      },
+      "duration_seconds": 58.8238205909729
+    }
+  }
+}

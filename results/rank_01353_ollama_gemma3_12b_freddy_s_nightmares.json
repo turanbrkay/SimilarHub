@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Freddy's Nightmares",
+    "overview": "The evil, sinister killer of the \"Nightmare On Elm Street\" movies, Freddy Krueger, hosts this show, where each week, he shows us a tale of evil and death about the lives of people who live in Springwood.",
+    "genres": [
+      "Mystery",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1988,
+    "vote_count": 171
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Freddy's Nightmares is an anthology horror series hosted by Freddy Krueger, drawing directly from the established lore of the 'Nightmare on Elm Street' franchise. Each episode presents a self-contained story exploring themes of guilt, retribution, and the blurring lines between dreams and reality. The series blends elements of horror, fantasy, and mystery, offering a darkly comic and unsettling viewing experience. Freddy serves as a mischievous and malevolent guide, commenting on the unfolding narratives and taunting the audience with his signature brand of dark humor. The show aims to capitalize on the popularity of the film series while offering a more episodic and varied exploration of the nightmare realm.",
+        "spoiler_rich_plot_summary": "Freddy's Nightmares operates as an anthology series, meaning there is no overarching narrative connecting the episodes. Each week, Freddy Krueger introduces a new story centered around individuals whose past actions or present fears draw them into his nightmarish domain. These stories often involve characters grappling with guilt, facing consequences for their deeds, or confronting personal demons manifested as terrifying visions. While the specific plots vary widely, a common thread is the exploration of how past trauma and present anxieties can manifest as tangible horrors. Freddy frequently appears within these stories, manipulating events and tormenting the characters, often revealing the underlying causes of their suffering. The series concludes with each character facing a reckoning, often with fatal consequences, reinforcing the cyclical nature of guilt and retribution within Freddy's twisted world. The show never resolves a larger plotline, instead focusing on the individual tragedies presented each week.",
+        "categorized_keywords": {
+          "themes": [
+            "guilt",
+            "retribution",
+            "dreams-and-nightmares",
+            "past-trauma",
+            "moral-ambiguity",
+            "fear",
+            "revenge"
+          ],
+          "plot_and_concepts": [
+            "anthology-series",
+            "horror-storytelling",
+            "supernatural-horror",
+            "dream-logic",
+            "moral-consequences"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "supernatural",
+            "creepy",
+            "unsettling",
+            "macabre"
+          ],
+          "genre_and_tropes": [
+            "horror",
+            "anthology",
+            "supernatural",
+            "dream-sequence"
+          ],
+          "setting": [
+            "springwood",
+            "dream-realm",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "malevolent-host",
+            "tormented-victim",
+            "anti-hero"
+          ],
+          "narrative_style": [
+            "episodic",
+            "self-contained-stories"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "freddy-krueger",
+            "nightmare-sequence",
+            "dream-catcher",
+            "shadowy-figure"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "nightmare-imagery"
+          ]
+        },
+        "keyword_sentence": "Freddy's Nightmares is a darkly comic anthology horror series set in Springwood and the dream realm, exploring themes of guilt and retribution through self-contained stories of tormented victims facing supernatural nightmares."
+      },
+      "duration_seconds": 64.55456829071045
+    }
+  }
+}

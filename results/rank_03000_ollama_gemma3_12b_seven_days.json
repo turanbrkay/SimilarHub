@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Seven Days",
+    "overview": "\"Ever wish you could live your last week all over again? Well, my name's Frank B. Parker, and I do it all the time. I work for a secret government project experimenting in time travel. When things really get screwed up, I'm the guinea pig they send back to take care of it. The catch is, I can only go back 7 days.\"",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "release_year": 1998,
+    "vote_count": 48
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Seven Days is a science fiction drama series centered around a man who repeatedly relives the same week, tasked with correcting anomalies and preventing disasters. The show blends elements of procedural drama with time travel mechanics, exploring themes of responsibility, sacrifice, and the potential for redemption. It offers a unique premise with a focus on character development and the emotional toll of constantly revisiting traumatic events, creating a compelling and often poignant viewing experience.",
+        "spoiler_rich_plot_summary": "The series follows Frank Parker, a civilian employee of a top-secret government project that allows him to travel back in time seven days. Initially, Frank is used to resolve minor crises and prevent accidents. As the series progresses, the stakes escalate, and Frank faces increasingly complex and dangerous situations, often involving personal sacrifices and difficult moral choices. He develops close relationships with his colleagues, who are aware of his time-traveling abilities, and their lives become intertwined with his mission. Recurring threats and conspiracies emerge, revealing a larger organization manipulating events and exploiting the time-travel technology. Frank grapples with the psychological impact of reliving the same week repeatedly, questioning the effectiveness of his actions and the potential for unintended consequences. The series explores the ramifications of altering the timeline and the emotional burden of constantly facing potential disasters, culminating in a confrontation with those responsible for the project’s darker secrets.",
+        "categorized_keywords": {
+          "themes": [
+            "time-travel",
+            "responsibility",
+            "sacrifice",
+            "redemption",
+            "moral-dilemmas",
+            "conspiracy"
+          ],
+          "plot_and_concepts": [
+            "time-loop",
+            "government-conspiracy",
+            "procedural-drama",
+            "alternate-timeline"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dramatic",
+            "poignant",
+            "tense"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "government-agency",
+            "found-family",
+            "procedural"
+          ],
+          "setting": [
+            "modern-day",
+            "washington-dc",
+            "secret-facility"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "government-agent",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "time-travel-device",
+            "government-briefing-room",
+            "secret-lab"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Seven Days is a suspenseful science fiction drama series that explores themes of responsibility and sacrifice as a man repeatedly relives a week to prevent disasters and confront a shadowy government conspiracy."
+      },
+      "duration_seconds": 56.46080565452576
+    }
+  }
+}

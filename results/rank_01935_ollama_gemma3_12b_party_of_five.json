@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Party of Five",
+    "overview": "Five brothers and sisters are determined to stay together following the tragic loss of their parents.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 1994,
+    "vote_count": 102
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Party of Five is a family drama series that explores the challenges faced by five orphaned siblings navigating adolescence and young adulthood. The show focuses on their struggles with responsibility, grief, relationships, and the complexities of growing up without parental guidance. It blends elements of coming-of-age narratives with realistic portrayals of family dynamics and societal pressures, offering a poignant and often heartwarming look at resilience and the importance of sibling bonds. The series is known for its grounded approach to storytelling and its exploration of mature themes.",
+        "spoiler_rich_plot_summary": "Following the sudden deaths of their parents in a car accident, fifteen-year-old Charlie Babcock is thrust into the role of caretaker for his younger siblings: Julia, Claudia, Owen, and Seth. Initially, the siblings struggle to adjust to their new reality, grappling with grief, financial instability, and the immense responsibility of raising each other. Charlie, as the eldest, attempts to maintain a semblance of normalcy while balancing school, a part-time job, and the emotional needs of his siblings. Julia, the second oldest, rebels against the imposed structure and seeks independence. Claudia, the artistic and sensitive sister, struggles with self-esteem and romantic relationships. Owen, the mischievous middle child, often acts out to mask his own pain. Seth, the youngest, grapples with the loss of his parents and the disruption to his childhood. As the series progresses, the siblings face various challenges, including financial difficulties, romantic entanglements, legal troubles, and personal crises. They rely on each other for support and guidance, forming a strong and enduring bond. While they experience moments of joy and laughter, they also confront difficult truths about themselves and the world around them. The series follows their individual journeys as they mature and strive to create a stable and fulfilling life together, ultimately demonstrating the power of family and the importance of perseverance.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "grief",
+            "loss",
+            "sibling-bond",
+            "responsibility",
+            "coming-of-age",
+            "adolescence",
+            "financial-struggle"
+          ],
+          "plot_and_concepts": [
+            "orphanhood",
+            "caretaker-role",
+            "coming-of-age-story",
+            "sibling-rivalry",
+            "teen-romance"
+          ],
+          "mood_and_tone": [
+            "melancholy",
+            "heartwarming",
+            "realistic",
+            "poignant"
+          ],
+          "genre_and_tropes": [
+            "family-drama",
+            "coming-of-age",
+            "teen-drama"
+          ],
+          "setting": [
+            "suburban-america",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "responsible-sibling",
+            "rebellious-teen",
+            "sensitive-artist",
+            "mischievous-child"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "family-home",
+            "school-setting",
+            "part-time-job",
+            "family-car"
+          ],
+          "maturity_and_content": [
+            "teen-relationships",
+            "financial-stress"
+          ]
+        },
+        "keyword_sentence": "Party of Five is a poignant family drama series set in modern-day suburban America, exploring themes of grief, responsibility, and the enduring bond between siblings as they navigate adolescence and overcome financial struggles."
+      },
+      "duration_seconds": 71.77614092826843
+    }
+  }
+}

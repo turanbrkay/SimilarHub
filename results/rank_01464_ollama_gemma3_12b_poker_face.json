@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Poker Face",
+    "overview": "This mystery-of-the-week series follows Charlie Cale, who has an extraordinary ability to determine when someone is lying. She hits the road with her Plymouth Barracuda and with every stop encounters a new cast of characters and strange crimes she can’t help but solve.",
+    "genres": [
+      "Mystery",
+      "Crime",
+      "Drama",
+      "Comedy"
+    ],
+    "release_year": 2023,
+    "vote_count": 150
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Poker Face is a modern take on the classic 'howcatchem' genre, blending mystery-of-the-week storytelling with a road-trip format. The series follows Charlie Cale, a woman with the uncanny ability to detect lies, as she travels across America, stumbling upon and solving a variety of crimes. The show's episodic structure allows for a diverse range of characters and settings, while maintaining a consistent tone of quirky humor and suspense. It offers a nostalgic feel reminiscent of shows like Columbo, but with a contemporary sensibility and a focus on character-driven narratives.",
+        "spoiler_rich_plot_summary": "The series begins with Charlie Cale escaping a life of isolation after her ability to detect lies makes her a danger to those around her. She steals a car and begins a cross-country journey, constantly on the move to avoid detection. Each episode presents a new crime, often involving a group of individuals concealing a dark secret. Charlie's ability allows her to unravel their lies and expose the truth, leading to confrontations and often, justice served. While the overarching narrative focuses on Charlie's flight and her attempts to find a place for herself, the episodic nature means that each case concludes with its own resolution, though Charlie's past and the reasons for her unique ability remain a recurring mystery. The series explores themes of redemption and belonging as Charlie uses her gift to help others, even as she struggles to find peace for herself.",
+        "categorized_keywords": {
+          "themes": [
+            "truth-seeking",
+            "redemption",
+            "deception",
+            "justice",
+            "belonging",
+            "identity-quest"
+          ],
+          "plot_and_concepts": [
+            "mystery-of-the-week",
+            "crime-solving",
+            "lie-detection",
+            "road-trip",
+            "whodunit"
+          ],
+          "mood_and_tone": [
+            "quirky",
+            "suspenseful",
+            "humorous",
+            "noir",
+            "lighthearted"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "mystery",
+            "ensemble-cast",
+            "found-family"
+          ],
+          "setting": [
+            "american-road",
+            "1980s",
+            "small-town-america"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "reluctant-hero",
+            "outsider"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "plymouth-barracuda",
+            "vintage-clothing",
+            "diner",
+            "roadside-motel"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Poker Face is a suspenseful and humorous mystery series that follows a woman with the ability to detect lies as she travels across America, solving crimes and searching for a place to belong."
+      },
+      "duration_seconds": 58.75741267204285
+    }
+  }
+}

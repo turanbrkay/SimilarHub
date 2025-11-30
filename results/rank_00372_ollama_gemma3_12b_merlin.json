@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Merlin",
+    "overview": "The unlikely friendship between Merlin, a young man gifted with extraordinary magical powers, and Prince Arthur, heir to the crown of Camelot.",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2008,
+    "vote_count": 814
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Merlin is a fantasy adventure series that reimagines the classic Arthurian legends, focusing on the early years of Merlin and Arthur's relationship. The show blends action, humor, and coming-of-age themes as Merlin struggles to conceal his magical abilities while guiding Arthur towards his destiny as king. It explores themes of friendship, loyalty, and the burden of responsibility, offering a lighter, more accessible take on the traditional Arthurian mythos. The series balances fantastical elements with relatable character dynamics, creating a compelling narrative for a broad audience.",
+        "spoiler_rich_plot_summary": "The series begins with Merlin, a young sorcerer, being sent to Camelot to serve Prince Arthur. He quickly forms a bond with Arthur, concealing his magical abilities to protect both himself and Arthur from the machinations of those who fear magic. As Arthur ascends to the throne, Merlin acts as his advisor, subtly influencing events to ensure Arthur's success and the safety of the kingdom. Throughout the series, Merlin faces numerous challenges, including battling dark forces, thwarting assassination attempts, and confronting his own destiny as the legendary sorcerer. He grapples with the moral implications of his powers and the need to keep them secret, often making difficult choices that impact Arthur and the realm. The series culminates in a confrontation with Mordred, Arthur’s betrayer, and a prophecy that foretells the downfall of Camelot, setting the stage for the events of the Arthurian legend.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "destiny",
+            "loyalty",
+            "responsibility",
+            "good-vs-evil",
+            "coming-of-age",
+            "magic-and-myth"
+          ],
+          "plot_and_concepts": [
+            "prophecy",
+            "secret-identity",
+            "mentor-student-relationship",
+            "kingdom-building",
+            "political-intrigue"
+          ],
+          "mood_and_tone": [
+            "adventurous",
+            "hopeful",
+            "lighthearted",
+            "epic",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "fantasy-adventure",
+            "coming-of-age",
+            "magic-system",
+            "chosen-one",
+            "medieval-setting"
+          ],
+          "setting": [
+            "camelot",
+            "medieval-britain",
+            "fantasy-kingdom"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "noble-protagonist",
+            "villainous-schemer"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-adventure"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "excalibur",
+            "dragon",
+            "magic-amulet",
+            "round-table",
+            "castle-walls"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Merlin is a lighthearted fantasy adventure series set in medieval Britain, exploring themes of friendship, destiny, and loyalty as a young sorcerer guides a noble protagonist towards his role as king."
+      },
+      "duration_seconds": 59.45331263542175
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Atlanta",
+    "overview": "Two cousins work through the Atlanta music scene in order to better their lives and the lives of their families.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2016,
+    "vote_count": 593
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Atlanta is a surreal comedy-drama series that follows Earn, a young man trying to manage his cousin's burgeoning rap career in Atlanta's vibrant and often chaotic music scene. The show blends grounded realism with absurdist humor and poignant social commentary, exploring themes of race, class, ambition, and the complexities of the American South. It's a character-driven narrative that prioritizes atmosphere and emotional resonance over traditional plot structures, offering a unique and often unsettling viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Earn, a Princeton dropout, attempting to reconnect with his cousin, Paper Boi (Alfred), a rising rapper gaining local recognition. Earn sees an opportunity to provide management and stability for Alfred, navigating the often-turbulent world of Atlanta's music industry. Throughout the first season, they encounter a colorful cast of characters, from eccentric promoters to rival rappers, and grapple with the challenges of fame and financial insecurity. The second season expands the scope, delving deeper into the characters' personal lives and exploring increasingly surreal and metaphorical episodes that challenge the boundaries of reality. Later seasons continue to explore the characters' journeys, with Alfred struggling with his identity and the pressures of fame, and Earn confronting his own shortcomings and ambitions. The series culminates in a poignant and ambiguous finale, leaving the characters' futures uncertain and the audience to contemplate the complexities of their experiences.",
+        "categorized_keywords": {
+          "themes": [
+            "race-relations",
+            "class-struggle",
+            "identity-crisis",
+            "ambition",
+            "family-dynamics",
+            "fame",
+            "generational-trauma",
+            "black-culture"
+          ],
+          "plot_and_concepts": [
+            "music-industry",
+            "coming-of-age",
+            "surrealism",
+            "absurdism",
+            "serialized-story"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "satirical",
+            "unsettling",
+            "poignant",
+            "atmospheric"
+          ],
+          "genre_and_tropes": [
+            "comedy-drama",
+            "slice-of-life",
+            "satirical-comedy"
+          ],
+          "setting": [
+            "atlanta-city",
+            "modern-day",
+            "american-south"
+          ],
+          "character_archetypes": [
+            "struggling-artist",
+            "reluctant-hero",
+            "anti-hero",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "episodic-storytelling",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "rap-concert",
+            "drug-deal",
+            "local-nightclub",
+            "car-wash",
+            "music-video-shoot"
+          ],
+          "maturity_and_content": [
+            "drug-use",
+            "profanity",
+            "mature-themes"
+          ]
+        },
+        "keyword_sentence": "Atlanta is a darkly comic and poignant comedy-drama series that explores themes of race, class, and identity within the vibrant and often surreal landscape of modern-day Atlanta."
+      },
+      "duration_seconds": 63.8318727016449
+    }
+  }
+}

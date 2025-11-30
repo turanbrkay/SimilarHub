@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "The Celebrity Apprentice",
+    "overview": "The ultimate sixteen-week job interview where eighteen Americans compete in a series of rigorous business tasks, many of which include prominent Fortune 500 companies and require street smarts and intelligence to conquer, in order to show the boss that they are the best candidate for his companies. In each episode, the losing team is sent to the boardroom where they are judged on their performance in the task. One person is fired and sent home.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2004,
+    "vote_count": 62
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Celebrity Apprentice is a reality competition series where celebrities compete in business-related tasks to earn a charitable donation for their chosen cause and ultimately be named 'Apprentice.' The show blends elements of business simulation, team dynamics, and public persona management, creating a spectacle of ambition and potential failure. It offers a glimpse into the pressures of leadership and the consequences of poor performance, all while providing entertainment through the personalities and rivalries of the contestants. The series' format emphasizes strategic thinking, negotiation skills, and the ability to perform under pressure, making it a unique blend of competition and business acumen.",
+        "spoiler_rich_plot_summary": "Each season of The Celebrity Apprentice begins with a group of celebrities vying for the title and a substantial charitable donation. They are divided into teams and assigned tasks ranging from marketing campaigns to event planning, often involving collaboration with real-world businesses. Throughout the competition, contestants face challenges that test their leadership abilities, creativity, and ability to work under pressure. The losing team is brought before Donald Trump (or a successor), where team members are scrutinized for their performance. One contestant is then 'fired' – eliminated from the competition – based on their perceived shortcomings. This process continues until only two finalists remain, who compete in a final, high-stakes task to determine the winner and the recipient of the charitable donation. The series culminates in the announcement of the 'Apprentice,' who is celebrated for their business acumen and leadership skills.",
+        "categorized_keywords": {
+          "themes": [
+            "business-competition",
+            "leadership",
+            "charity",
+            "public-image",
+            "teamwork",
+            "ambition"
+          ],
+          "plot_and_concepts": [
+            "reality-competition",
+            "business-simulation",
+            "elimination-format",
+            "task-based-challenge"
+          ],
+          "mood_and_tone": [
+            "competitive",
+            "high-pressure",
+            "entertaining",
+            "strategic"
+          ],
+          "genre_and_tropes": [
+            "reality-tv",
+            "business-show",
+            "elimination-challenge"
+          ],
+          "setting": [
+            "corporate-environment",
+            "new-york-city"
+          ],
+          "character_archetypes": [
+            "entrepreneur",
+            "leader",
+            "strategist",
+            "celebrity"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "elimination-based"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "business-minded"
+          ],
+          "detail_plot": [
+            "boardroom-scene",
+            "task-briefing",
+            "elimination-ceremony"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Celebrity Apprentice is a competitive reality show where celebrities navigate high-pressure business tasks to earn charitable donations and demonstrate leadership skills in a strategic elimination-based format."
+      },
+      "duration_seconds": 58.36239409446716
+    }
+  }
+}

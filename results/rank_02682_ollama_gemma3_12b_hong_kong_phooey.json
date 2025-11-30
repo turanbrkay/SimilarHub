@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Hong Kong Phooey",
+    "overview": "Hong Kong Phooey is an American animated television series produced by Hanna-Barbera Productions and originally broadcast on ABC. The original episodes aired from September 7 to December 21, 1974, and then in repeats until 1976.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Kids"
+    ],
+    "release_year": 1974,
+    "vote_count": 59
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Hong Kong Phooey is a comedic animated series aimed at a young audience, blending slapstick humor with a quirky, unconventional protagonist. The show follows a Hong Kong street performer who transforms into a superhero to solve problems and help those in need. It's characterized by its lighthearted tone, simple narratives, and focus on visual gags and silly situations, offering a nostalgic and family-friendly viewing experience.",
+        "spoiler_rich_plot_summary": "The series centers around a Hong Kong street performer who possesses a secret identity as a superhero. Each episode typically involves a new problem or challenge that arises within his community, ranging from petty theft to more elaborate schemes. Utilizing a variety of gadgets and his acrobatic skills, Hong Kong Phooey confronts these issues, often with humorous and unexpected results. While the specific antagonists and scenarios change from episode to episode, the underlying theme revolves around helping others and upholding a sense of justice within his neighborhood. The series concludes with Hong Kong Phooey returning to his civilian identity, leaving audiences with a sense of resolution and a reminder of the importance of kindness and community spirit.",
+        "categorized_keywords": {
+          "themes": [
+            "community-spirit",
+            "helping-others",
+            "justice",
+            "friendship",
+            "good-versus-evil"
+          ],
+          "plot_and_concepts": [
+            "secret-identity",
+            "transformation",
+            "superhero-action",
+            "problem-solving",
+            "slapstick-comedy"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "family-friendly"
+          ],
+          "genre_and_tropes": [
+            "animated-comedy",
+            "superhero-genre",
+            "kids-entertainment"
+          ],
+          "setting": [
+            "hong-kong",
+            "urban-setting",
+            "1970s"
+          ],
+          "character_archetypes": [
+            "unconventional-hero",
+            "street-performer",
+            "community-helper"
+          ],
+          "narrative_style": [
+            "episodic-format",
+            "self-contained-episodes"
+          ],
+          "target_audience": [
+            "kids",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "transformation-sequence",
+            "gadgets",
+            "acrobatic-skills",
+            "street-performance"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Hong Kong Phooey is a lighthearted animated comedy series for kids and families, following a street performer who transforms into a superhero to solve problems and uphold a sense of justice in his community."
+      },
+      "duration_seconds": 52.65418839454651
+    }
+  }
+}

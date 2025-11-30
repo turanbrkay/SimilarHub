@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "ONE PIECE",
+    "overview": "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure in this live-action adaptation of the popular manga.",
+    "genres": "Action & Adventure, Sci-Fi & Fantasy",
+    "release_year": 2023,
+    "vote_count": 655
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "ONE PIECE is an action-packed adventure series following the exploits of Monkey D. Luffy and his crew as they navigate a vast and dangerous world in search of the ultimate treasure. The series blends elements of fantasy, action, and comedy, creating a vibrant and engaging narrative centered on themes of friendship, ambition, and overcoming adversity. The story explores complex moral landscapes and features a diverse cast of characters with unique motivations and backstories, creating a compelling and emotionally resonant journey.",
+        "spoiler_rich_plot_summary": "The story begins with young Monkey D. Luffy, who dreams of becoming the Pirate King and finding the legendary treasure, One Piece. Having eaten a Devil Fruit, he gains the ability to stretch like rubber but loses the ability to swim. He sets sail and quickly recruits his first mate, Roronoa Zoro, a skilled swordsman seeking recognition. Their journey leads them to the town of East Blue, where they encounter Nami, a skilled thief with a tragic past, and Usopp, a talented marksman with a penchant for tall tales. As they travel across the Grand Line, they face formidable opponents, including powerful pirates and the World Government's Marine forces. The crew encounters various factions vying for power, uncovering secrets about the world's history and the true nature of the One Piece. Luffy's ambition and the crew's unwavering loyalty are constantly tested as they confront increasingly dangerous challenges and uncover conspiracies that threaten the balance of power in the world. The crew's pursuit of their dreams leads them to confront their own personal demons and forge unbreakable bonds of friendship, ultimately shaping their destinies and the fate of the world.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "adventure",
+            "ambition",
+            "loyalty",
+            "justice",
+            "freedom",
+            "sacrifice",
+            "found-family"
+          ],
+          "plot_and_concepts": [
+            "pirate-adventure",
+            "treasure-hunt",
+            "devil-fruit-powers",
+            "political-intrigue",
+            "world-building",
+            "serialized-story"
+          ],
+          "mood_and_tone": [
+            "action-packed",
+            "comedic",
+            "optimistic",
+            "epic",
+            "lighthearted"
+          ],
+          "genre_and_tropes": [
+            "pirate-story",
+            "shonen",
+            "adventure-story",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "open-ocean",
+            "fantasy-world",
+            "alternate-timeline"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "loyal-companion",
+            "skilled-fighter",
+            "tragic-past"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "straw-hat",
+            "grand-line",
+            "devil-fruit",
+            "pirate-ship",
+            "marine-base"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "ONE PIECE is an action-packed pirate adventure series following a young hero and his loyal companions as they navigate a vast fantasy world in search of treasure and freedom."
+      },
+      "duration_seconds": 117.42357420921326
+    }
+  }
+}

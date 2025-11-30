@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Free Rein",
+    "overview": "A 15-year-old from LA spends the summer at her mom's childhood home on an island off the coast of England, where she bonds with a mysterious horse.",
+    "genres": [
+      "Family",
+      "Kids",
+      "Drama"
+    ],
+    "release_year": 2017,
+    "vote_count": 175
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Free Rein is a family-friendly drama series centered on a teenage girl's summer of self-discovery and connection with nature. The series blends coming-of-age themes with a focus on horsemanship and the beauty of the English countryside. It explores themes of family, belonging, and finding strength through unexpected relationships, offering a heartwarming and visually appealing experience for younger audiences. The narrative unfolds with a gentle pace, emphasizing character development and the power of personal growth amidst a picturesque setting.",
+        "spoiler_rich_plot_summary": "The series begins with Raines, a 15-year-old from Los Angeles, being sent to spend the summer with her mother on the island of Grimhaven, a place she barely knows. Initially feeling out of place and disconnected, Raines finds solace and a sense of belonging when she encounters a wild, untamable horse named Spirit. As she works to gain Spirit's trust and build a bond with him, Raines also begins to uncover secrets about her mother's past and the history of the island. She discovers a local tradition of riding wild horses, and becomes entangled in a conflict between those who want to preserve the tradition and those who seek to modernize it. Throughout the summer, Raines confronts her own insecurities and learns to embrace her individuality, ultimately finding a sense of purpose and a new family on Grimhaven. The series culminates in a dramatic riding competition where Raines must choose between her personal ambitions and her loyalty to the island community.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "coming-of-age",
+            "self-discovery",
+            "belonging",
+            "friendship",
+            "nature-connection"
+          ],
+          "plot_and_concepts": [
+            "horse-riding",
+            "island-life",
+            "local-tradition",
+            "coming-of-age-story",
+            "secret-history"
+          ],
+          "mood_and_tone": [
+            "heartwarming",
+            "gentle",
+            "optimistic",
+            "wholesome",
+            "peaceful"
+          ],
+          "genre_and_tropes": [
+            "family-drama",
+            "kids-adventure",
+            "coming-of-age-story",
+            "small-town-life"
+          ],
+          "setting": [
+            "english-countryside",
+            "island-community",
+            "coastal-setting",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "reluctant-heroine",
+            "wise-mentor",
+            "outsider",
+            "local-villager"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "character-driven",
+            "episodic"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "wild-horse",
+            "riding-competition",
+            "coastal-village",
+            "family-farm"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Free Rein is a heartwarming family drama set on a picturesque English island, where a teenage girl discovers self-discovery and belonging through a connection with a wild horse and the local community."
+      },
+      "duration_seconds": 63.91470241546631
+    }
+  }
+}

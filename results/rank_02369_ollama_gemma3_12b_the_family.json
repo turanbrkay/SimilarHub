@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "The Family",
+    "overview": "An enigmatic conservative Christian group known as the Family wields enormous influence in Washington, D.C., in pursuit of its global ambitions.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2019,
+    "vote_count": 73
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Family is a documentary series exploring a secretive and powerful organization operating within Washington D.C. political circles. The series delves into the group's history, its members, and its influence on global events, raising questions about faith, power, and the intersection of religion and politics. Through interviews and archival footage, the documentary aims to uncover the inner workings of this elusive group and its impact on the world stage, offering a complex and often unsettling portrait of influence and ambition. The series maintains a tone of investigative inquiry, prompting viewers to consider the ethical implications of unchecked power and the potential for manipulation within seemingly benevolent organizations. Ultimately, it examines the delicate balance between faith, ideology, and political maneuvering.",
+        "spoiler_rich_plot_summary": "The documentary traces the origins of The Family back to the mid-20th century, revealing its founder's vision of a global network of influential men bound by shared Christian values. Initially presented as a fellowship promoting spiritual growth and leadership development, the series gradually exposes the organization's increasing involvement in political campaigns and policy decisions. Through interviews with former members and investigative reporting, the documentary reveals how The Family has cultivated relationships with prominent politicians and business leaders, leveraging its network to advance its agenda. The series highlights instances where the group's influence has shaped legislation and international relations, raising concerns about transparency and accountability. As the documentary progresses, it explores the internal dynamics of The Family, revealing power struggles and ideological divisions within the organization. The series culminates in an examination of the group's ongoing activities and its potential impact on future events, leaving viewers to grapple with the implications of its hidden power and influence.",
+        "categorized_keywords": {
+          "themes": [
+            "faith-and-power",
+            "political-influence",
+            "secret-societies",
+            "global-ambition",
+            "ethics-and-morality",
+            "religious-ideology"
+          ],
+          "plot_and_concepts": [
+            "investigative-journalism",
+            "political-intrigue",
+            "hidden-networks",
+            "influence-peddling"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "unsettling",
+            "analytical",
+            "serious"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "political-thriller",
+            "true-crime"
+          ],
+          "setting": [
+            "washington-dc",
+            "modern-day",
+            "global-politics"
+          ],
+          "character_archetypes": [
+            "influential-leader",
+            "secret-operative",
+            "disillusioned-member"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "investigative-report"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "political-science-students"
+          ],
+          "detail_plot": [
+            "secret-meetings",
+            "political-donations",
+            "religious-symbols",
+            "archival-footage"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Family is a suspenseful documentary series that investigates a secretive organization wielding political influence and global ambition within the world of modern-day Washington D.C., raising serious questions about faith, power, and the ethics of hidden networks."
+      },
+      "duration_seconds": 70.53686904907227
+    }
+  }
+}

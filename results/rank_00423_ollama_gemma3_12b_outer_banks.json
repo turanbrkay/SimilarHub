@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Outer Banks",
+    "overview": "A tight-knit group of teens unearths a long-buried secret, setting off a chain of illicit events that takes them on an adventure they'll never forget.",
+    "genres": "Action & Adventure, Drama, Mystery",
+    "release_year": 2020,
+    "vote_count": 715
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Outer Banks is a teen drama and adventure series centered around a group of working-class locals, known as the Pogues, who embark on a treasure hunt after discovering a mysterious map. The series blends elements of mystery, action, and coming-of-age narratives, exploring themes of class disparity, friendship, and the pursuit of freedom. The show's tone is generally lighthearted and adventurous, though it also deals with darker themes of loss and betrayal. The dynamic between the Pogues and the wealthy Cameron family drives much of the conflict and provides a commentary on social inequality.",
+        "spoiler_rich_plot_summary": "The series begins with the Pogues, led by John B, searching for a legendary treasure linked to his missing father. Their quest leads them to uncover a complex web of secrets involving the wealthy Cameron family, particularly Sarah Cameron, with whom John B develops a romantic relationship. The Pogues steal a ship, the Royal Merchant, and navigate treacherous waters, facing dangers from both the authorities and the Camerons, who are also seeking the treasure. They discover that John B's father was deeply involved in the treasure hunt and that his disappearance was not accidental. The Pogues repeatedly outwit the Camerons, but their actions have consequences, leading to legal troubles and strained relationships. The search for the treasure reveals a deeper conspiracy involving historical artifacts and a ruthless adversary. The season culminates in a dramatic escape and a new set of challenges as the Pogues are forced to flee the country, leaving behind unresolved conflicts and a promise to return.",
+        "categorized_keywords": {
+          "themes": [
+            "treasure-hunt",
+            "class-disparity",
+            "friendship",
+            "coming-of-age",
+            "mystery",
+            "betrayal",
+            "social-inequality",
+            "family-secrets"
+          ],
+          "plot_and_concepts": [
+            "treasure-map",
+            "ship-theft",
+            "conspiracy",
+            "historical-artifacts",
+            "treasure-hunting"
+          ],
+          "mood_and_tone": [
+            "adventurous",
+            "suspenseful",
+            "lighthearted",
+            "mysterious"
+          ],
+          "genre_and_tropes": [
+            "teen-drama",
+            "adventure-series",
+            "mystery-thriller",
+            "found-family"
+          ],
+          "setting": [
+            "outer-banks",
+            "north-carolina",
+            "coastal-town"
+          ],
+          "character_archetypes": [
+            "rebellious-teen",
+            "privileged-elite",
+            "outsider",
+            "resourceful-leader"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult"
+          ],
+          "detail_plot": [
+            "treasure-map",
+            "royal-merchant",
+            "cameron-family-estate",
+            "sheriffs-hat"
+          ],
+          "maturity_and_content": [
+            "substance-abuse",
+            "mild-violence"
+          ]
+        },
+        "keyword_sentence": "Outer Banks is a suspenseful teen drama and adventure series set in a coastal town, where a group of resourceful outsiders embarks on a treasure hunt, confronting class disparity and uncovering family secrets along the way."
+      },
+      "duration_seconds": 92.0029981136322
+    }
+  }
+}

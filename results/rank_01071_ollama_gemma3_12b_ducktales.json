@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "DuckTales",
+    "overview": "The adventures of billionaire Scrooge McDuck and his nephews Huey, Dewey and Louie, their famous uncle Donald Duck, pilot extraordinaire Launchpad, Mrs. Beakly, Webby and Roboduck. Adventures and hidden treasures are everywhere, in their hometown Duckburg and all around the world.",
+    "genres": [
+      "Family",
+      "Comedy",
+      "Animation"
+    ],
+    "release_year": 2017,
+    "vote_count": 236
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "DuckTales (2017) is a reboot of the classic animated series, blending action-adventure with comedic elements and a strong emphasis on family dynamics. The series follows the wealthy Scrooge McDuck and his nephews as they embark on treasure hunts and solve mysteries across the globe. It balances lighthearted humor with surprisingly complex character development and explores themes of legacy, responsibility, and the importance of connection. The show appeals to both children and adults with its clever writing, vibrant animation, and nostalgic charm.",
+        "spoiler_rich_plot_summary": "The series begins with Scrooge McDuck, a notoriously miserly duck, reluctantly allowing his nephews Huey, Dewey, and Louie to stay with him after their mother's absence. Initially focused on finding treasure, the trio soon uncovers a deeper mystery surrounding Scrooge's past and the disappearance of his long-lost brother, Gilbert. Throughout their adventures, the nephews begin to develop their own distinct personalities and skills, challenging Scrooge's rigid worldview. The search for Gilbert leads them to uncover a vast conspiracy involving ancient civilizations and powerful artifacts. As the series progresses, the family confronts personal demons and learns to appreciate the value of loyalty and forgiveness. The ultimate reveal centers on the true nature of Gilbert's disappearance and his connection to a hidden world, forcing Scrooge to confront his past and embrace a more open-hearted approach to family and legacy.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "legacy",
+            "responsibility",
+            "treasure-hunting",
+            "adventure",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "treasure-map",
+            "ancient-civilizations",
+            "lost-brother",
+            "conspiracy",
+            "time-travel"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "comedic",
+            "adventurous",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "animated-comedy",
+            "adventure-series",
+            "found-family",
+            "coming-of-age"
+          ],
+          "setting": [
+            "duckburg",
+            "modern-day",
+            "global-travel"
+          ],
+          "character_archetypes": [
+            "miser",
+            "reluctant-hero",
+            "mischievous-child",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "treasure-chest",
+            "flying-duck",
+            "map-scroll",
+            "roboduck"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "DuckTales is a lighthearted animated adventure series that follows a family of ducks as they travel the globe, uncovering ancient mysteries and learning the importance of legacy and connection."
+      },
+      "duration_seconds": 58.506133794784546
+    }
+  }
+}

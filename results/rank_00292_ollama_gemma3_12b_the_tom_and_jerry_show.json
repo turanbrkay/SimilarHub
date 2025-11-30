@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "The Tom and Jerry Show",
+    "overview": "The New Tom & Jerry Show is an animated television series produced for Saturday mornings by Hanna-Barbera Productions in association with Metro-Goldwyn-Mayer Television in 1975 for ABC based on the theatrical shorts and characters Tom and Jerry.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Kids",
+      "Family"
+    ],
+    "release_year": 1975,
+    "vote_count": 1018
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Tom and Jerry Show is a classic animated series centered on the slapstick rivalry between a cat and a mouse. The show's humor relies heavily on visual gags, exaggerated violence, and chaotic situations, appealing to a broad audience, particularly children and families. While seemingly simple, the series explores themes of persistence, ingenuity, and the cyclical nature of conflict, all within a lighthearted and comedic framework. The show's enduring popularity stems from its timeless appeal and ability to generate laughter through its absurd and unpredictable scenarios.",
+        "spoiler_rich_plot_summary": "The series primarily follows the ongoing conflict between Tom, a house cat, and Jerry, a resourceful mouse who has taken up residence in the same house. Each episode typically begins with Jerry outwitting Tom, often with the help of various gadgets and props. Tom, driven by a desire to catch Jerry, employs increasingly elaborate and often disastrous schemes, which invariably backfire, leading to comedic chaos and property damage. While the dynamic remains largely consistent, occasional human characters, such as Tom's owner, appear, often inadvertently contributing to the mayhem. The series doesn't feature a definitive resolution to the cat-and-mouse chase; instead, it revels in the perpetual cycle of pursuit and escape, ensuring that the conflict remains a constant source of amusement. The humor is largely self-contained, with minimal overarching narrative or character development.",
+        "categorized_keywords": {
+          "themes": [
+            "cat-and-mouse",
+            "rivalry",
+            "persistence",
+            "ingenuity",
+            "chaos"
+          ],
+          "plot_and_concepts": [
+            "slapstick-comedy",
+            "cartoon-violence",
+            "property-damage",
+            "chase-sequence"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "absurd"
+          ],
+          "genre_and_tropes": [
+            "animated-comedy",
+            "classic-cartoon",
+            "family-entertainment"
+          ],
+          "setting": [
+            "domestic-setting",
+            "animated-world"
+          ],
+          "character_archetypes": [
+            "trickster",
+            "pursuer"
+          ],
+          "narrative_style": [
+            "episodic",
+            "self-contained"
+          ],
+          "target_audience": [
+            "children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "mouse-trap",
+            "cartoon-physics",
+            "pie-in-face",
+            "anvil"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Tom and Jerry Show is a lighthearted animated comedy series that revolves around the timeless rivalry between a cat and a mouse, delivering consistent laughs through slapstick gags and cartoon physics within a family-friendly setting."
+      },
+      "duration_seconds": 59.463205337524414
+    }
+  }
+}

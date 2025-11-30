@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Prehistoric Planet",
+    "overview": "Experience the wonders of our world like never before in this epic docuseries from Jon Favreau and the producers of Planet Earth. Travel back 66 million years to when majestic dinosaurs and extraordinary creatures roamed the lands, seas, and skies.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2022,
+    "vote_count": 336
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Prehistoric Planet is a visually stunning documentary series that utilizes cutting-edge technology to recreate the world of dinosaurs and other prehistoric creatures. The series aims to provide a scientifically accurate and immersive experience, blending paleontological research with cinematic storytelling. It explores the ecosystems and behaviors of these ancient animals, offering a unique perspective on Earth's history and the evolution of life. The tone is largely reverent and awe-inspiring, emphasizing the beauty and complexity of the prehistoric world while maintaining a commitment to scientific accuracy. It aims to educate and entertain a broad audience with its spectacular visuals and engaging narrative.",
+        "spoiler_rich_plot_summary": "The series unfolds chronologically, beginning with the late Cretaceous period, just before the extinction event. Each episode focuses on different environments – forests, oceans, polar regions – and the creatures that inhabited them. We witness the daily lives of various dinosaur species, from the massive titanosaurs to the agile raptors, and observe their interactions with each other and their environment. The series highlights the complex social structures and hunting strategies of these animals, revealing surprising insights into their behavior. As the series progresses, subtle hints of the impending extinction event become more apparent, culminating in a depiction of the catastrophic asteroid impact and its immediate aftermath, showing the devastation and the beginning of a new era for life on Earth. The final episodes touch upon the immediate aftermath of the extinction event and the rise of mammals.",
+        "categorized_keywords": {
+          "themes": [
+            "paleontology",
+            "extinction-event",
+            "ecosystems",
+            "evolution",
+            "scientific-accuracy",
+            "natural-history"
+          ],
+          "plot_and_concepts": [
+            "documentary-series",
+            "recreation-of-past",
+            "scientific-visualization",
+            "environmental-study"
+          ],
+          "mood_and_tone": [
+            "awe-inspiring",
+            "reverent",
+            "educational",
+            "immersive",
+            "epic"
+          ],
+          "genre_and_tropes": [
+            "nature-documentary",
+            "historical-recreation",
+            "scientific-exploration"
+          ],
+          "setting": [
+            "cretaceous-period",
+            "prehistoric-earth",
+            "ancient-forests",
+            "polar-regions",
+            "oceans"
+          ],
+          "character_archetypes": [
+            "titanosaurs",
+            "raptors",
+            "herbivores",
+            "carnivores"
+          ],
+          "narrative_style": [
+            "chronological-order",
+            "environmental-focus",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers",
+            "science-enthusiasts"
+          ],
+          "detail_plot": [
+            "asteroid-impact",
+            "dinosaur-fossils",
+            "cretaceous-landscape",
+            "prehistoric-flora",
+            "dinosaur-tracks"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Prehistoric Planet is an awe-inspiring nature documentary series that uses scientific visualization to recreate the ecosystems and creatures of the Cretaceous period, offering a reverent and educational glimpse into Earth’s ancient past."
+      },
+      "duration_seconds": 65.96592736244202
+    }
+  }
+}

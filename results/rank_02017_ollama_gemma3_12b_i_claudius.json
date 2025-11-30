@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "I, Claudius",
+    "overview": "Acclaimed blackly comic historical drama series. Set amidst a web of power, corruption and lies, it chronicles the reigns of the Roman emperors - Augustus, Tiberius, Caligula and finally Claudius.",
+    "genres": [
+      "Drama",
+      "War & Politics"
+    ],
+    "release_year": 1976,
+    "vote_count": 95
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "I, Claudius is a darkly comedic historical drama series that chronicles the tumultuous reigns of Roman emperors, focusing on the life of Claudius, often underestimated and overlooked. The series is characterized by its sharp wit, cynical portrayal of power, and intricate web of political intrigue and familial betrayals. It offers a compelling exploration of ambition, corruption, and the fragility of power within the Roman Empire, blending historical accuracy with dramatic license to create a captivating and often unsettling viewing experience. The series is notable for its exceptional acting and meticulous production design, creating a richly detailed and immersive world.",
+        "spoiler_rich_plot_summary": "The series begins with a framing device, decades after Claudius’s reign, where an elderly Claudius recounts his life story. The narrative then plunges into the aftermath of Julius Caesar’s assassination, focusing on Augustus’s rise to power and the subsequent reigns of Tiberius and Caligula. Augustus establishes the Pax Romana, but his rule is marked by political maneuvering and the elimination of potential rivals. Tiberius’s reign is characterized by paranoia and cruelty, leading to widespread fear and resentment. Caligula’s brief but infamous rule is defined by madness and tyranny, culminating in his assassination. Throughout these reigns, Claudius, initially dismissed as a weak and foolish figure, navigates the treacherous court, surviving through cunning and a degree of luck. He eventually ascends to the throne, unexpectedly becoming emperor. His reign, though initially fraught with challenges, brings a period of relative stability, but the constant threat of betrayal and assassination looms large. The series concludes with Claudius reflecting on his life and legacy, acknowledging the complexities and tragedies that defined his time.",
+        "categorized_keywords": {
+          "themes": [
+            "power-corrupts",
+            "political-intrigue",
+            "family-betrayal",
+            "ambition",
+            "legacy",
+            "survival",
+            "fate"
+          ],
+          "plot_and_concepts": [
+            "roman-empire",
+            "dynastic-succession",
+            "court-politics",
+            "assassination",
+            "historical-drama"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "cynical",
+            "satirical",
+            "melancholy"
+          ],
+          "genre_and_tropes": [
+            "historical-fiction",
+            "political-thriller",
+            "courtroom-drama",
+            "tragic-hero"
+          ],
+          "setting": [
+            "ancient-rome",
+            "roman-senate",
+            "imperial-palace"
+          ],
+          "character_archetypes": [
+            "tragic-hero",
+            "scheming-politician",
+            "ruthless-emperor",
+            "underestimated-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "framing-device",
+            "first-person-narration"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "roman-toga",
+            "imperial-throne",
+            "senate-chamber",
+            "poisoned-wine",
+            "chariot-race"
+          ],
+          "maturity_and_content": [
+            "political-violence",
+            "court-intrigue"
+          ]
+        },
+        "keyword_sentence": "I, Claudius is a darkly comic historical drama series set in ancient Rome, exploring themes of power, betrayal, and survival amidst the ruthless machinations of emperors and the constant threat of political violence."
+      },
+      "duration_seconds": 71.373788356781
+    }
+  }
+}

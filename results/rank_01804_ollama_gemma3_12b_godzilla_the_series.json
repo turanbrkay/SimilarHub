@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Godzilla: The Series",
+    "overview": "Picking up where the blockbuster motion picture left off, Godzilla: The Series is a fast-paced animated adventure series that pits humanity against a new generation of giant monsters.",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Crime"
+    ],
+    "release_year": 1998,
+    "vote_count": 112
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Godzilla: The Series is an animated action-adventure show that expands upon the established cinematic universe. The series follows a special government organization tasked with monitoring and combating Godzilla and other emerging giant monsters. It blends action, crime procedural elements, and kaiju battles, offering a fast-paced and visually dynamic experience. The show explores themes of responsibility, environmentalism, and the constant threat of overwhelming forces, while maintaining a generally optimistic tone despite the frequent danger.",
+        "spoiler_rich_plot_summary": "The series begins shortly after the events of the 1998 Godzilla film, with the discovery of numerous other giant monsters, or 'kaiju,' emerging across the globe. A specialized team, known as the Godzilla Response Team (GRT), is formed to track, study, and neutralize these threats. The GRT operates from a secret underground base, utilizing advanced technology to monitor kaiju activity and deploy countermeasures. Throughout the series, the team confronts a diverse range of monsters, each with unique abilities and motivations. Recurring antagonists include a shadowy organization seeking to exploit the kaiju for their own purposes, leading to escalating conflicts and strategic battles. The series explores the complex relationship between humanity and these colossal creatures, often highlighting the unintended consequences of intervention and the delicate balance of the natural world. While Godzilla himself serves as a protector, his actions often cause significant collateral damage, forcing the GRT to constantly adapt their strategies and confront the moral implications of their mission. The series culminates in a final confrontation with a particularly powerful and cunning kaiju, testing the GRT's abilities and forcing them to make difficult choices to safeguard the planet.",
+        "categorized_keywords": {
+          "themes": [
+            "giant-monster-threat",
+            "environmental-responsibility",
+            "human-intervention",
+            "scientific-discovery",
+            "global-security"
+          ],
+          "plot_and_concepts": [
+            "kaiju-battles",
+            "monster-of-the-week",
+            "secret-organization",
+            "government-conspiracy",
+            "scientific-investigation"
+          ],
+          "mood_and_tone": [
+            "action-packed",
+            "suspenseful",
+            "optimistic",
+            "darkly-comic"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "action-adventure",
+            "crime-procedural",
+            "monster-movie",
+            "giant-robots"
+          ],
+          "setting": [
+            "modern-day",
+            "global-locations",
+            "underground-base",
+            "urban-environments"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "brilliant-scientist",
+            "military-leader",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "underground-base",
+            "giant-monster",
+            "military-vehicles",
+            "scientific-equipment",
+            "monster-roar"
+          ],
+          "maturity_and_content": [
+            "action-violence"
+          ]
+        },
+        "keyword_sentence": "Godzilla: The Series is an animated action-adventure show featuring a global team battling giant monsters and uncovering government conspiracies, blending suspenseful action with a generally optimistic tone."
+      },
+      "duration_seconds": 68.8500428199768
+    }
+  }
+}

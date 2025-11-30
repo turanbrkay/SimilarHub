@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Starsky & Hutch",
+    "overview": "Streetwise Detective David Starsky partners up with a more intellectual partner, Kenneth 'Hutch' Hutchinson, to protect citizens and patrol the streets of Bay City.",
+    "genres": [
+      "Action & Adventure",
+      "Drama"
+    ],
+    "release_year": 1975,
+    "vote_count": 139
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Starsky & Hutch is a 1970s police procedural drama that blends action and humor as it follows the partnership of two detectives navigating the criminal underworld of Bay City. The series emphasizes the dynamic between the street-smart Starsky and the more cerebral Hutch, exploring themes of justice, loyalty, and the challenges of law enforcement. The show's appeal lies in its charismatic leads, fast-paced action sequences, and a generally optimistic portrayal of crime-fighting, offering a nostalgic and entertaining view of 1970s television.",
+        "spoiler_rich_plot_summary": "The series begins with the introduction of David Starsky, a skilled but impulsive detective, and Kenneth 'Hutch' Hutchinson, a more refined and intellectual officer, being paired together despite their contrasting personalities and approaches to police work. Initially, their partnership is rocky, marked by clashes in methodology and personal style. As they investigate various crimes, from drug trafficking to organized crime, they gradually develop a deep respect and reliance on each other. Throughout the series, they face numerous challenges, including corrupt officials within the police department and dangerous criminals who threaten the safety of Bay City. While they experience personal losses and confront moral dilemmas, their commitment to justice and their bond as partners remains unwavering. The series concludes with Starsky and Hutch continuing their work, demonstrating the enduring strength of their partnership and their dedication to protecting their city.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "partnership",
+            "loyalty",
+            "law-enforcement",
+            "redemption",
+            "friendship"
+          ],
+          "plot_and_concepts": [
+            "police-procedural",
+            "buddy-cop",
+            "crime-investigation",
+            "undercover-operation",
+            "corruption"
+          ],
+          "mood_and_tone": [
+            "action-adventure",
+            "optimistic",
+            "nostalgic",
+            "lighthearted"
+          ],
+          "genre_and_tropes": [
+            "1970s-tv",
+            "buddy-cop-formula",
+            "crime-drama"
+          ],
+          "setting": [
+            "1970s",
+            "bay-city",
+            "urban-setting"
+          ],
+          "character_archetypes": [
+            "streetwise-detective",
+            "intellectual-partner",
+            "charismatic-lead"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "general-audience"
+          ],
+          "detail_plot": [
+            "ford-gran-torino",
+            "police-uniform",
+            "interrogation-room",
+            "police-car"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Starsky & Hutch is a nostalgic 1970s crime drama that follows the partnership of two contrasting detectives as they navigate the challenges of law enforcement and fight for justice in their urban setting."
+      },
+      "duration_seconds": 62.404541969299316
+    }
+  }
+}

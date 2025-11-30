@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "The Bill",
+    "overview": "The daily lives of the men and women at Sun Hill Police Station as they fight crime on the streets of London. From bomb threats to armed robbery and drug raids to the routine demands of policing this ground-breaking series focuses as much on crime as it does on the personal lives of its characters.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 1984,
+    "vote_count": 33
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Bill is a long-running British police procedural drama that offers a realistic and grounded portrayal of everyday policing in London. The series distinguishes itself by focusing on the personal and professional lives of its officers, exploring the challenges and moral complexities they face while combating crime. With a focus on procedural accuracy and character development, The Bill provides a compelling look at the dedication and sacrifices required of those who serve on the front lines of law enforcement. The series' longevity is a testament to its ability to resonate with audiences seeking authentic and relatable stories about the realities of police work.",
+        "spoiler_rich_plot_summary": "The Bill initially focuses on the daily routines and minor cases handled by officers at Sun Hill Police Station. Over its long run, the series explores a wide range of criminal activities, from petty theft to organized crime, often highlighting the impact on both victims and the officers involved. Recurring storylines involve internal investigations into police corruption and misconduct, testing the integrity of the force and the officers' loyalty. Relationships between officers evolve over time, with romances, rivalries, and friendships shaping the dynamics within the station. While individual cases are resolved within episodes, overarching narratives often involve complex criminal networks and long-term investigations that span multiple seasons. The series depicts the toll that constant exposure to crime takes on the officers' mental and emotional well-being, leading to personal struggles and professional burnout. While specific criminals are brought to justice, the underlying issues of crime and social inequality remain persistent challenges.",
+        "categorized_keywords": {
+          "themes": [
+            "law-enforcement",
+            "crime",
+            "justice",
+            "corruption",
+            "duty",
+            "sacrifice",
+            "social-inequality"
+          ],
+          "plot_and_concepts": [
+            "police-procedural",
+            "crime-investigation",
+            "internal-affairs",
+            "undercover-operation",
+            "serialized-story"
+          ],
+          "mood_and_tone": [
+            "realistic",
+            "gritty",
+            "serious",
+            "procedural"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "police-procedural",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "london-city",
+            "modern-day",
+            "police-station"
+          ],
+          "character_archetypes": [
+            "police-officer",
+            "detective",
+            "corrupt-official"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "police-car",
+            "crime-scene",
+            "interview-room",
+            "police-uniform",
+            "evidence-bag"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "language"
+          ]
+        },
+        "keyword_sentence": "The Bill is a realistic and gritty crime drama that portrays the daily lives and challenges faced by London police officers as they navigate a world of crime, corruption, and sacrifice."
+      },
+      "duration_seconds": 75.06449675559998
+    }
+  }
+}

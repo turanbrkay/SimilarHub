@@ -1,0 +1,67 @@
+{
+  "input_data": {
+    "title": "Go, Diego, Go!",
+    "overview": "Go, Diego, Go! is a children's television series created by Chris Gifferd and Valerie Walsh, and is a spin-off of Dora the Explorer. The show premiered on September 6, 2005 and ended on September 16, 2011 on Nickelodeon. It also aired as part of the Nick Jr. on CBS block from September 17, 2005 to September 9, 2006. On December 20, 2006, Nick Jr. announced that it had ordered twenty new episodes that were in production. Since April 2008, the show has been dubbed into Spanish and airs in the United States on Univision as part of their Planeta U block.",
+    "genres": [
+      "Animation"
+    ],
+    "release_year": 2010,
+    "vote_count": 40
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Go, Diego, Go! is a children's animated series designed to engage young viewers in problem-solving and exploration. Building upon the success of Dora the Explorer, the show follows Diego and his sister as they embark on adventures, encountering animals and overcoming obstacles through interactive gameplay. The series emphasizes environmental awareness and encourages children to learn about different habitats and species. With its focus on education and adventure, Go, Diego, Go! provides a fun and engaging experience for preschoolers.",
+        "spoiler_rich_plot_summary": "The series typically begins with Diego receiving a call for help, often from an animal in need. Diego, along with his sister and animal friends, then sets off on a quest to rescue or assist the animal. Along the way, they encounter various challenges that require them to use their problem-solving skills and knowledge of the environment. Diego frequently interacts directly with the audience, asking for their help in identifying animals, solving puzzles, and navigating the terrain. The adventures often culminate in a successful rescue or a learning experience about the animal's habitat and behavior. While each episode presents a self-contained narrative, recurring characters and themes of conservation and friendship contribute to a consistent overarching story arc.",
+        "categorized_keywords": {
+          "themes": [
+            "conservation",
+            "friendship",
+            "problem-solving",
+            "animal-rescue",
+            "exploration"
+          ],
+          "plot_and_concepts": [
+            "interactive-tv",
+            "quest-narrative",
+            "animal-identification"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "educational",
+            "playful"
+          ],
+          "genre_and_tropes": [
+            "childrens-tv",
+            "adventure-tv",
+            "educational-tv"
+          ],
+          "setting": [
+            "wildlife-habitats",
+            "rainforest",
+            "savanna"
+          ],
+          "character_archetypes": [
+            "helpful-protagonist",
+            "young-explorer"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "direct-address"
+          ],
+          "target_audience": [
+            "preschoolers"
+          ],
+          "detail_plot": [
+            "animal-calls",
+            "map-navigation",
+            "rescue-mission"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Go, Diego, Go! is a playful and educational children’s television series that encourages preschoolers to explore wildlife habitats and solve problems through interactive adventures."
+      },
+      "duration_seconds": 47.1840546131134
+    }
+  }
+}

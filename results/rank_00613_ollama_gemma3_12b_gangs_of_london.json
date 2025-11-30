@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Gangs of London",
+    "overview": "When the head of a criminal organisation, Finn Wallace is assassinated, the sudden power vacuum his death creates threatens the fragile peace between the intricate web of gangs operating on the streets of the city. Now it’s up to the grieving, volatile and impulsive Sean Wallace to restore control and find those responsible for killing his father.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2020,
+    "vote_count": 473
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Gangs of London is a gritty crime drama that explores the brutal power struggles within London's criminal underworld. The series blends intense action sequences with complex character development, examining themes of family, loyalty, and the devastating consequences of violence. Its realistic portrayal of gang warfare and its focus on the personal toll it takes on individuals sets it apart, offering a visceral and often shocking viewing experience. The show’s intricate plot and morally ambiguous characters create a tense and unpredictable narrative, keeping viewers engaged in the escalating conflict.",
+        "spoiler_rich_plot_summary": "The series opens with the assassination of Finn Wallace, the head of London's most powerful criminal organization. His death throws the city's intricate network of gangs into chaos, as various factions vie for control. Sean Wallace, Finn’s volatile and inexperienced son, is thrust into a leadership role, struggling to maintain order and avenge his father’s death. The investigation into Finn’s murder reveals a conspiracy reaching far beyond the established criminal landscape, implicating powerful figures and exposing deep-seated betrayals. As Sean navigates the treacherous world of organized crime, he forms uneasy alliances and confronts ruthless enemies, leading to devastating consequences for himself and those around him. The power vacuum created by Finn’s death triggers a bloody war between rival gangs, each seeking to seize control of London’s criminal empire, culminating in significant shifts in the balance of power and the reshaping of the city's underworld.",
+        "categorized_keywords": {
+          "themes": [
+            "family-loyalty",
+            "revenge",
+            "power-struggle",
+            "corruption",
+            "violence",
+            "betrayal"
+          ],
+          "plot_and_concepts": [
+            "crime-drama",
+            "gang-warfare",
+            "organized-crime",
+            "assassination",
+            "conspiracy"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "violent",
+            "tense",
+            "dark",
+            "bleak"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "action-thriller",
+            "gangster-film"
+          ],
+          "setting": [
+            "london-city",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "ruthless-villain",
+            "grieving-son",
+            "corrupt-official"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "gang-sign",
+            "london-streets",
+            "police-raid",
+            "underground-club"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "Gangs of London is a gritty crime drama set in modern-day London, exploring themes of family loyalty and revenge amidst a violent power struggle between ruthless gangs."
+      },
+      "duration_seconds": 54.03668713569641
+    }
+  }
+}

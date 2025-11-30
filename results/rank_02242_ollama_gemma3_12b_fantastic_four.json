@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Fantastic Four",
+    "overview": "The first animated series based on Marvel's comic book series Fantastic Four.",
+    "genres": [
+      "Animation",
+      "Action & Adventure"
+    ],
+    "release_year": 1967,
+    "vote_count": 81
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Fantastic Four animated series, debuting in 1967, serves as a foundational entry point into the Marvel superhero universe. The series follows the adventures of Reed Richards, Sue Storm, Johnny Storm, and Ben Grimm, who gain extraordinary abilities after an experiment gone awry. The show blends action-adventure with elements of science fiction, exploring themes of teamwork, responsibility, and the consequences of scientific ambition. It established many of the visual and narrative conventions that would define subsequent Marvel adaptations, offering a lighthearted and optimistic portrayal of superheroics.",
+        "spoiler_rich_plot_summary": "The series begins with Reed Richards, a brilliant scientist, leading an unsanctioned space expedition with his fiancée Sue Storm, her brother Johnny Storm, and Ben Grimm, a test pilot. Exposure to cosmic rays grants them incredible powers: Reed gains elasticity, Sue develops invisibility and force fields, Johnny becomes the Human Torch with fiery abilities, and Ben transforms into the rocky Thing. Throughout the series, the Fantastic Four confronts a variety of threats, including Doctor Doom, the Mole Man, and the Skrulls. Doctor Doom, a brilliant inventor and former colleague of Reed, consistently seeks to conquer the world and often targets the Fantastic Four as a means to achieve his goals. The team's dynamic evolves as they learn to control their powers and work together, facing personal challenges and external dangers while striving to protect Earth from various cosmic and terrestrial adversaries. The series concludes with the team continuing their heroic endeavors, ever vigilant against new threats and committed to upholding their roles as Earth's first family of superheroes.",
+        "categorized_keywords": {
+          "themes": [
+            "teamwork",
+            "scientific-responsibility",
+            "heroism",
+            "family-dynamics",
+            "exploration"
+          ],
+          "plot_and_concepts": [
+            "superhero-origin",
+            "scientific-experiment",
+            "cosmic-threats",
+            "villain-rivalry",
+            "monster-of-the-week"
+          ],
+          "mood_and_tone": [
+            "optimistic",
+            "lighthearted",
+            "adventurous",
+            "humorous"
+          ],
+          "genre_and_tropes": [
+            "superhero-action",
+            "science-fiction",
+            "comic-book-adaptation",
+            "found-family"
+          ],
+          "setting": [
+            "marvel-universe",
+            "earth",
+            "outer-space"
+          ],
+          "character_archetypes": [
+            "brilliant-scientist",
+            "reluctant-hero",
+            "fiery-hero",
+            "rocky-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "reed-richards",
+            "sue-storm",
+            "johnny-storm",
+            "ben-grimm",
+            "human-torch",
+            "thing"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Fantastic Four animated series is a lighthearted and adventurous superhero action show, following a family of heroes who gain extraordinary abilities through a scientific experiment and face cosmic threats while exploring the marvel universe."
+      },
+      "duration_seconds": 64.88151669502258
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "The Incredible Hulk",
+    "overview": "The Incredible Hulk is an American animated television series starring the Marvel Comics character the Hulk. It ran two seasons, for 21 episodes, on the television network UPN from 1996 to 1997. Lou Ferrigno, who portrayed Universal's version of the Hulk on the 1970s live-action TV series, provided the Hulk's voice for the true version from Marvel.\n\nThe show often featured cameo appearances by characters from other Marvel cartoons of the period. In the second season, the show's format, after UPN decided that Season 1 was too dark, was changed, and to give \"female viewers a chance\", the network ordered that She-Hulk be made a regular co-star. As a result, the series was officially renamed The Incredible Hulk and She-Hulk. The second season also featured the Grey Hulk.",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Drama"
+    ],
+    "release_year": 1996,
+    "vote_count": 60
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Incredible Hulk animated series blends action-adventure with dramatic elements, centered on Bruce Banner's struggles with his dual identity as the Hulk. The show explores themes of control, responsibility, and the burden of extraordinary power. Initially presented with a darker tone, the series evolved to incorporate more lighthearted elements and introduce new characters, particularly She-Hulk, to broaden its appeal. The series features frequent appearances from other Marvel characters, creating a shared universe feel and appealing to a broad audience of comic book fans.",
+        "spoiler_rich_plot_summary": "The series begins with Bruce Banner, a brilliant scientist, exposed to gamma radiation, transforming him into the Hulk. He struggles to control his transformations and the destructive power of his alter ego, often pursued by the military and those seeking to exploit his abilities. The initial season focuses on Banner's attempts to find a cure and manage his condition, encountering various adversaries and facing the consequences of his actions. In response to network feedback, the second season introduces She-Hulk as a regular character, shifting the dynamic and adding a new layer of complexity to the narrative. The introduction of the Grey Hulk further complicates Banner's journey, presenting a different manifestation of his power and adding another layer of conflict. Throughout the series, Banner grapples with the moral implications of his abilities and the impact his transformations have on those around him, ultimately seeking a way to reconcile his two identities.",
+        "categorized_keywords": {
+          "themes": [
+            "dual-identity",
+            "scientific-responsibility",
+            "control",
+            "gamma-radiation",
+            "redemption",
+            "moral-conflict"
+          ],
+          "plot_and_concepts": [
+            "superhero-action",
+            "gamma-mutation",
+            "military-pursuit",
+            "shared-universe",
+            "transformation"
+          ],
+          "mood_and_tone": [
+            "action-adventure",
+            "dark",
+            "humorous",
+            "superheroic"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "superhero-genre",
+            "found-family",
+            "monster-of-the-week"
+          ],
+          "setting": [
+            "modern-day",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "brilliant-scientist",
+            "strong-female-lead"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "gamma-mutation",
+            "laboratory-setting",
+            "military-base",
+            "she-hulk"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Incredible Hulk animated series blends action-adventure and dramatic elements, exploring themes of dual identity and responsibility as Bruce Banner struggles to control his gamma-powered transformations in a modern urban environment."
+      },
+      "duration_seconds": 60.05584144592285
+    }
+  }
+}

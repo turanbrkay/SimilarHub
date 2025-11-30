@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "White Gold",
+    "overview": "The story of a double-glazing showroom in Essex in the 80s, led by charismatic Vincent Swan, and his unscrupulous sales team, Brian Fitzpatrick and Martin Lavender.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2017,
+    "vote_count": 66
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "White Gold is a British comedy series set in the 1980s, focusing on the cutthroat world of double-glazing sales in Essex. The show satirizes aggressive sales tactics, corporate greed, and the pursuit of wealth through humor and awkward situations. It explores the dynamics within a team of salesmen, highlighting their ambition, insecurities, and questionable ethics. The series blends workplace comedy with a nostalgic backdrop of 1980s culture, offering a darkly comedic and often uncomfortable portrayal of ambition and the compromises people make to achieve it.",
+        "spoiler_rich_plot_summary": "The series centers on Vincent Swan, a driven and manipulative manager at a double-glazing company. He leads a team of salesmen, including the eager Brian Fitzpatrick and the perpetually scheming Martin Lavender. Throughout the series, Vincent pushes his team to achieve increasingly unrealistic sales targets, employing questionable and often illegal tactics. Brian, initially naive, gradually becomes more cynical and complicit in Vincent's schemes, while Martin consistently attempts to undermine Vincent and profit from his own schemes. The series follows their attempts to outmaneuver each other and their competitors, often leading to chaotic and hilarious consequences. As the series progresses, the consequences of their actions become more severe, impacting their personal lives and threatening the company's reputation. The final season sees the team facing a reckoning for their past actions, with potential legal and professional repercussions looming.",
+        "categorized_keywords": {
+          "themes": [
+            "ambition",
+            "greed",
+            "workplace-culture",
+            "deception",
+            "moral-compromise",
+            "1980s-nostalgia"
+          ],
+          "plot_and_concepts": [
+            "sales-pressure",
+            "corporate-scandal",
+            "rivalry",
+            "blackmail",
+            "double-glazing-industry"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "satirical",
+            "awkward",
+            "cynical"
+          ],
+          "genre_and_tropes": [
+            "workplace-comedy",
+            "satire",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "essex-england",
+            "1980s"
+          ],
+          "character_archetypes": [
+            "manipulative-leader",
+            "naive-protagonist",
+            "scheming-rival"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "double-glazing-showroom",
+            "sales-targets",
+            "1980s-fashion",
+            "sales-contracts"
+          ],
+          "maturity_and_content": [
+            "profanity",
+            "sexual-content"
+          ]
+        },
+        "keyword_sentence": "Set in 1980s Essex, White Gold is a darkly comic satire about ambition and moral compromise within a cutthroat double-glazing sales team."
+      },
+      "duration_seconds": 60.49793004989624
+    }
+  }
+}

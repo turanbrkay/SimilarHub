@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Pitch",
+    "overview": "The dramatic and inspirational story of a young pitcher who becomes the first woman to play Major League Baseball.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2016,
+    "vote_count": 55
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Pitch is a sports drama series centered on the groundbreaking journey of Ginny Ryssdik, the first woman to play Major League Baseball. The show explores themes of perseverance, prejudice, and the pressures of professional sports, while examining the impact on her team, her family, and the broader baseball community. It blends the excitement of competitive baseball with a character-driven narrative, offering a look at the challenges and triumphs of breaking barriers in a traditionally male-dominated field. The series aims to inspire and entertain, showcasing both the personal struggles and the collective impact of pursuing a seemingly impossible dream.",
+        "spoiler_rich_plot_summary": "The series begins with Ginny Ryssdik, a talented pitcher, being scouted and drafted by the San Diego Spirits. Initially met with skepticism and resistance from teammates, coaches, and fans, Ginny works tirelessly to prove her worth and earn her place on the team. She faces constant scrutiny and must navigate the complexities of being a female athlete in a male-dominated world, dealing with both overt and subtle forms of discrimination. As the season progresses, Ginny develops relationships with her teammates, including Mike Lawson, the team's star player, and Julian Gardner, a veteran pitcher. The team experiences both successes and setbacks, and Ginny's presence sparks a cultural shift within the organization. Throughout the series, Ginny confronts personal challenges and professional pressures, ultimately striving to prove that talent and dedication transcend gender. The series culminates in a pivotal moment where Ginny's skills and resilience are tested, leaving a lasting impact on the team and the future of baseball.",
+        "categorized_keywords": {
+          "themes": [
+            "gender-equality",
+            "sportsmanship",
+            "perseverance",
+            "family-dynamics",
+            "prejudice",
+            "identity-quest"
+          ],
+          "plot_and_concepts": [
+            "sports-drama",
+            "underdog-story",
+            "breaking-barriers",
+            "team-dynamics",
+            "coming-of-age"
+          ],
+          "mood_and_tone": [
+            "inspirational",
+            "emotional",
+            "hopeful",
+            "tense"
+          ],
+          "genre_and_tropes": [
+            "sports-drama",
+            "found-family",
+            "fish-out-of-water"
+          ],
+          "setting": [
+            "modern-day",
+            "baseball-stadium",
+            "professional-sports"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "mentor",
+            "team-leader"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "baseball-uniform",
+            "pitching-mound",
+            "locker-room",
+            "team-bus"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Pitch is an inspirational sports drama series that explores themes of perseverance and gender equality as a young woman strives to break barriers and prove her talent in the traditionally male-dominated world of Major League Baseball."
+      },
+      "duration_seconds": 56.210915088653564
+    }
+  }
+}

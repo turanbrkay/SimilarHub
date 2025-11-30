@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "The Man Who Fell to Earth",
+    "overview": "An extraterrestrial alien arrives on Earth at a turning point in human evolution and must confront his own past to determine our future.",
+    "genres": [
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2022,
+    "vote_count": 145
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Man Who Fell to Earth is a science fiction series exploring themes of isolation, adaptation, and the potential for both salvation and destruction. The narrative follows an alien visitor struggling to understand and navigate human society while grappling with a mysterious mission and a troubled past. The series blends elements of science fiction, drama, and mystery, creating a somber and introspective tone. It examines the complexities of human nature and the consequences of encountering the unknown, offering a poignant commentary on our own world.",
+        "spoiler_rich_plot_summary": "The series begins with an alien, known only as Faraday, arriving on Earth decades prior, having traveled from his dying planet to secure water for his people. He quickly learns to mimic human behavior, adopting an identity and attempting to blend in. However, his mission is complicated by the interference of a shadowy organization that seeks to exploit his abilities. As Faraday investigates the organization, he uncovers a conspiracy that threatens not only his own mission but also the future of humanity. He reconnects with a brilliant scientist, Julia, who becomes instrumental in his efforts to understand the forces at play. The narrative unfolds through flashbacks, revealing Faraday's past and the events that led him to Earth. He confronts his own failures and the sacrifices he has made, ultimately questioning the true nature of his mission and the potential for redemption. The series culminates in a confrontation with the organization, forcing Faraday to make a difficult choice that will determine the fate of both his people and humanity.",
+        "categorized_keywords": {
+          "themes": [
+            "alien-encounter",
+            "isolation",
+            "redemption",
+            "environmental-crisis",
+            "humanity-vs-alien",
+            "adaptation",
+            "loss-and-grief"
+          ],
+          "plot_and_concepts": [
+            "time-travel",
+            "conspiracy-thriller",
+            "secret-mission",
+            "government-coverup",
+            "water-scarcity"
+          ],
+          "mood_and_tone": [
+            "melancholy",
+            "introspective",
+            "mysterious",
+            "somber",
+            "atmospheric"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "dramatic-mystery",
+            "slow-burn",
+            "fish-out-of-water"
+          ],
+          "setting": [
+            "modern-day",
+            "earth",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "alien-visitor",
+            "brilliant-scientist",
+            "shadowy-antagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "flashback-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "alien-technology",
+            "government-facility",
+            "scientific-lab",
+            "water-sample"
+          ],
+          "maturity_and_content": [
+            "existential-themes"
+          ]
+        },
+        "keyword_sentence": "A melancholy alien visitor struggles to adapt to Earth while uncovering a dangerous conspiracy and confronting existential themes in a dramatic science fiction series."
+      },
+      "duration_seconds": 65.60716271400452
+    }
+  }
+}

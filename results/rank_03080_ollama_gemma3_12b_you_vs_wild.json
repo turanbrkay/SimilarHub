@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "You vs. Wild",
+    "overview": "In this interactive series, you'll make key decisions to help Bear Grylls survive, thrive and complete missions in the harshest environments on Earth.",
+    "genres": [
+      "Reality",
+      "Action & Adventure"
+    ],
+    "release_year": 2019,
+    "vote_count": 45
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "You vs. Wild is an interactive reality series where the viewer takes on the role of a survival assistant to Bear Grylls. The show blends elements of traditional survival programming with a unique interactive format, allowing audiences to directly influence Grylls' decisions and impact his journey through challenging environments. The series offers a blend of adventure, suspense, and audience engagement, creating a dynamic and immersive viewing experience. It's a show designed to be watched repeatedly, as different choices lead to vastly different outcomes.",
+        "spoiler_rich_plot_summary": "Each episode of You vs. Wild presents Bear Grylls with a specific survival challenge in a remote and dangerous location, such as a jungle, desert, or mountain range. The premise revolves around the viewer being presented with critical decisions that directly affect Grylls' progress and safety. These choices range from selecting the best route to take, to determining what resources to prioritize, and even influencing how he interacts with the local environment. The viewer's choices lead to a variety of outcomes, some successful, others leading to setbacks or even failure. The series emphasizes the consequences of decision-making in high-stakes survival situations, and the viewer's ability to guide Grylls through these challenges is central to the show's appeal. The viewer's choices ultimately determine whether Grylls completes his mission or faces unexpected difficulties.",
+        "categorized_keywords": {
+          "themes": [
+            "survival",
+            "decision-making",
+            "adventure",
+            "risk-taking",
+            "environmental-awareness"
+          ],
+          "plot_and_concepts": [
+            "interactive-narrative",
+            "viewer-choice",
+            "survival-challenge",
+            "mission-based"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "adventurous",
+            "tense",
+            "immersive"
+          ],
+          "genre_and_tropes": [
+            "reality-tv",
+            "adventure-series",
+            "interactive-entertainment"
+          ],
+          "setting": [
+            "remote-locations",
+            "wilderness",
+            "jungles",
+            "deserts",
+            "mountains"
+          ],
+          "character_archetypes": [
+            "survival-expert",
+            "viewer-participant"
+          ],
+          "narrative_style": [
+            "interactive-storytelling",
+            "mission-driven"
+          ],
+          "target_audience": [
+            "young-adults",
+            "adventure-seekers"
+          ],
+          "detail_plot": [
+            "map-interface",
+            "compass",
+            "survival-kit",
+            "resource-management"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "You vs. Wild is an adventurous reality series where viewers actively participate in guiding Bear Grylls through challenging survival missions in remote wilderness locations, emphasizing decision-making and risk-taking in a suspenseful and immersive experience."
+      },
+      "duration_seconds": 57.50292158126831
+    }
+  }
+}

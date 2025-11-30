@@ -1,0 +1,88 @@
+{
+  "input_data": {
+    "title": "Narcos",
+    "overview": "A gritty chronicle of the war against Colombia's infamously violent and powerful drug cartels.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2015,
+    "vote_count": 2493
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Narcos is a crime drama series that chronicles the rise and fall of Pablo Escobar and the Medellín Cartel. The show offers a gritty and realistic portrayal of the drug trade, focusing on the complex interplay between law enforcement, cartel leaders, and the devastating impact on Colombian society. It blends elements of police procedural, political thriller, and biographical drama, creating a tense and morally ambiguous narrative that explores themes of power, corruption, and the human cost of the war on drugs. The series is known for its authentic feel, driven by its documentary-style cinematography and its exploration of the socio-political context surrounding the drug trade.",
+        "spoiler_rich_plot_summary": "The series begins in the early 1980s, following DEA agents Steve Murphy and Kiki Camarena as they investigate the burgeoning cocaine trade in Colombia. Their investigation leads them to Pablo Escobar, the ruthless leader of the Medellín Cartel, who has amassed immense wealth and power through the production and distribution of cocaine. As the DEA attempts to dismantle the cartel, Escobar responds with escalating violence, targeting law enforcement officials, politicians, and journalists. The first season culminates in the death of Camarena, a pivotal event that intensifies the conflict and exposes the deep corruption within Colombian institutions. Subsequent seasons follow the relentless pursuit of Escobar, showcasing his increasingly desperate attempts to evade capture and maintain his empire. The narrative expands to include other key players in the drug trade, exploring the complex web of alliances and betrayals that define the criminal underworld. Ultimately, Escobar's reign of terror ends with his death, but the series highlights the enduring legacy of the drug trade and the emergence of new cartels.",
+        "categorized_keywords": {
+          "themes": [
+            "crime",
+            "power",
+            "corruption",
+            "violence",
+            "justice",
+            "greed",
+            "drug-trade",
+            "political-instability"
+          ],
+          "plot_and_concepts": [
+            "crime-procedural",
+            "drug-smuggling",
+            "police-investigation",
+            "cartel-politics",
+            "international-crime"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "tense",
+            "dark",
+            "realistic",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "political-thriller",
+            "biographical-drama",
+            "police-procedural"
+          ],
+          "setting": [
+            "colombia",
+            "medellin",
+            "1980s",
+            "south-america"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "ruthless-leader",
+            "corrupt-official",
+            "reluctant-hero",
+            "dea-agent"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "documentary-style"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "cocaine-production",
+            "dea-raid",
+            "cartel-compound",
+            "police-interrogation",
+            "drug-money"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "drug-abuse",
+            "sexual-content",
+            "language"
+          ]
+        },
+        "keyword_sentence": "Narcos is a gritty and suspenseful crime drama series set in Colombia, exploring themes of power, corruption, and violence within the complex world of drug cartels and international crime."
+      },
+      "duration_seconds": 77.15493750572205
+    }
+  }
+}

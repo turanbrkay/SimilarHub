@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Dungeons & Dragons",
+    "overview": "Six friends are transported into the Dungeons & Dragons realm and must try to find a way home with the help of their guide 'Dungeon Master'.",
+    "genres": [
+      "Animation",
+      "Sci-Fi & Fantasy",
+      "Comedy",
+      "Action & Adventure",
+      "Kids"
+    ],
+    "release_year": 1983,
+    "vote_count": 216
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Dungeons & Dragons is a family-friendly animated series blending science fiction, fantasy, and comedy. The show follows a group of teenagers who are magically transported into a Dungeons & Dragons game world, where they must navigate perilous adventures and overcome challenges with the guidance of a Dungeon Master. It offers a lighthearted and imaginative exploration of fantasy tropes, emphasizing teamwork, problem-solving, and the power of friendship. The series appeals to a broad audience, particularly those familiar with the tabletop role-playing game.",
+        "spoiler_rich_plot_summary": "The series begins with a group of friends – Eric, Kevin, Shirley, Karen, and Willie – accidentally transported into a Dungeons & Dragons game world by Dungeon Master, a mysterious figure who acts as their guide. Initially disoriented and overwhelmed, they quickly realize they must work together to survive the dangers of this fantastical realm. Each episode typically presents a new quest or challenge, often involving mythical creatures, treacherous landscapes, and cunning adversaries. Throughout their adventures, the friends encounter various allies and enemies, learning valuable lessons about courage, loyalty, and the importance of embracing their individual strengths. While they strive to find a way back home, they also grapple with the consequences of their actions within the game world, facing moral dilemmas and learning to appreciate the power of imagination and storytelling. The series culminates in a final confrontation where the friends must use all their skills and knowledge to overcome a formidable foe and ultimately find a path back to their own reality, forever changed by their experiences.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "teamwork",
+            "imagination",
+            "adventure",
+            "coming-of-age",
+            "good-vs-evil"
+          ],
+          "plot_and_concepts": [
+            "portal-fantasy",
+            "game-world",
+            "quest-based",
+            "monster-of-the-week",
+            "dungeons-and-dragons"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "adventurous"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "fantasy",
+            "sci-fi",
+            "comedy",
+            "adventure",
+            "found-family"
+          ],
+          "setting": [
+            "fantasy-realm",
+            "game-world",
+            "alternate-dimension"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "loyal-friend"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "kids",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "dungeon-master",
+            "magic-sword",
+            "mythical-creatures",
+            "treasure-chest"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Dungeons & Dragons is a lighthearted animated series that blends fantasy, science fiction, and comedy, following a group of friends as they navigate a magical game world and learn the importance of teamwork and imagination."
+      },
+      "duration_seconds": 64.0061662197113
+    }
+  }
+}

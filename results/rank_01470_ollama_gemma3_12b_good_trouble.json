@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Good Trouble",
+    "overview": "After moving to The Coterie in Downtown Los Angeles, Callie and Mariana Foster realize that living on their own is not all that it’s cracked up to be.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2019,
+    "vote_count": 149
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Good Trouble is a drama series that follows two sisters, Callie and Mariana, as they navigate adulthood and the complexities of life in downtown Los Angeles. The show explores themes of social justice, career ambition, and personal relationships against the backdrop of a vibrant urban environment. It blends elements of a coming-of-age story with a focus on activism and the challenges of finding one's place in the world. The series offers a realistic portrayal of young adults grappling with ethical dilemmas and striving to make a difference, often confronting systemic inequalities and personal compromises.",
+        "spoiler_rich_plot_summary": "The series begins with Callie and Mariana Foster moving into The Coterie, an apartment building housing young professionals and creatives. Callie, a former foster child, pursues a career in law, initially working as a clerk and later seeking opportunities to advocate for social justice. Mariana, a brilliant coder, starts at Speckulate, a tech company, where she faces gender and racial biases while striving for advancement. Throughout the series, the sisters encounter a diverse group of friends and colleagues, each with their own struggles and ambitions. They become involved in various social justice movements, participating in protests and advocating for change. Romantic relationships develop and evolve, often complicated by career aspirations and personal values. The sisters face professional setbacks and ethical dilemmas, forcing them to question their choices and confront the realities of the systems they are trying to change. As the series progresses, they become increasingly aware of the interconnectedness of their lives and the importance of collective action, ultimately forging a strong sense of community and purpose.",
+        "categorized_keywords": {
+          "themes": [
+            "social-justice",
+            "sisterhood",
+            "coming-of-age",
+            "career-ambition",
+            "identity-discovery",
+            "activism",
+            "personal-growth"
+          ],
+          "plot_and_concepts": [
+            "legal-drama",
+            "workplace-politics",
+            "romantic-relationships",
+            "social-movements",
+            "found-family"
+          ],
+          "mood_and_tone": [
+            "realistic",
+            "hopeful",
+            "thought-provoking",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "drama",
+            "coming-of-age-story",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "los-angeles",
+            "urban-environment",
+            "apartment-building"
+          ],
+          "character_archetypes": [
+            "ambitious-woman",
+            "idealistic-lawyer",
+            "tech-innovator"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult"
+          ],
+          "detail_plot": [
+            "apartment-building",
+            "protests",
+            "courtroom",
+            "tech-startup"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Good Trouble is a realistic drama series that follows two sisters as they navigate career ambitions, romantic relationships, and social justice activism in the vibrant urban landscape of Los Angeles."
+      },
+      "duration_seconds": 61.437376737594604
+    }
+  }
+}

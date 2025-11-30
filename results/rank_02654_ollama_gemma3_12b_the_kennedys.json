@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "The Kennedys",
+    "overview": "The Kennedys is an Emmy-winning Canadian-American television miniseries chronicling the lives of the Kennedy family, including key triumphs and tragedies it has experienced. It stars Greg Kinnear, Katie Holmes, Barry Pepper and Tom Wilkinson among others, and is directed by Jon Cassar. The series premiered in the United States in April 2011 on ReelzChannel and on History Television in Canada.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2011,
+    "vote_count": 60
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Kennedys is a historical drama miniseries that explores the lives and legacies of the Kennedy family, focusing on their political ascendance and the personal tragedies that marked their journey. The series blends elements of political intrigue, family dynamics, and biographical storytelling, aiming to portray the complexities of a prominent American family. It examines the triumphs and failures of the Kennedys, highlighting their impact on American history while also delving into the personal struggles and scandals that plagued them. The series aims for a dramatic and emotionally resonant portrayal of a family whose name became synonymous with both power and heartbreak.",
+        "spoiler_rich_plot_summary": "The miniseries begins by tracing the Kennedy family's early rise to prominence, focusing on Joseph P. Kennedy Sr.'s ambition and business acumen. It follows the family through World War II, showcasing the service and sacrifice of John F. Kennedy and his brothers. The narrative then transitions to John F. Kennedy's political career, detailing his ascent to the presidency and the challenges he faced during the Cuban Missile Crisis. The series explores the personal life of JFK, including his marriage to Jackie and the complexities of his extramarital affairs. The narrative then shifts to the tragic assassination of JFK and the subsequent impact on his family and the nation. The series concludes by examining the lives of Robert F. Kennedy and Ted Kennedy, highlighting their own political aspirations and the enduring legacy of the Kennedy name, while acknowledging the shadow of tragedy that consistently loomed over the family.",
+        "categorized_keywords": {
+          "themes": [
+            "family-legacy",
+            "political-ambition",
+            "tragedy",
+            "american-history",
+            "power-corruption",
+            "public-image"
+          ],
+          "plot_and_concepts": [
+            "political-drama",
+            "biographical-drama",
+            "assassination",
+            "cold-war-era",
+            "family-dynasty"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "dramatic",
+            "melancholy",
+            "historical"
+          ],
+          "genre_and_tropes": [
+            "historical-drama",
+            "political-thriller",
+            "family-saga"
+          ],
+          "setting": [
+            "1960s-america",
+            "washington-dc",
+            "boston-massachusetts"
+          ],
+          "character_archetypes": [
+            "charismatic-leader",
+            "tragic-hero",
+            "ambitious-patriarch",
+            "first-lady"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "biographical-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "kennedy-family",
+            "white-house",
+            "cuban-missile-crisis",
+            "jfks-funeral"
+          ],
+          "maturity_and_content": [
+            "political-scandal",
+            "marital-infidelity"
+          ]
+        },
+        "keyword_sentence": "The Kennedys is a somber historical drama exploring the rise and fall of a powerful American family, marked by political ambition, personal tragedy, and the enduring legacy of a dynasty shaped by the complexities of the Cold War era."
+      },
+      "duration_seconds": 64.78166770935059
+    }
+  }
+}

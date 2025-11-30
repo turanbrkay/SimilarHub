@@ -1,0 +1,90 @@
+{
+  "input_data": {
+    "title": "The Legend of Korra",
+    "overview": "Avatar Korra, a headstrong, rebellious, feisty young woman who continually challenges and breaks with tradition, is on her quest to become a fully realized Avatar. In this story, the Avatar struggles to find balance within herself.",
+    "genres": [
+      "Action & Adventure",
+      "Animation",
+      "Drama",
+      "Family",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2012,
+    "vote_count": 1841
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Legend of Korra serves as a sequel series to Avatar: The Last Airbender, following a new Avatar as she navigates a rapidly changing world grappling with technological advancements and social unrest. The series explores themes of political corruption, spiritual identity, and the burden of responsibility, blending action-adventure with mature dramatic elements. Korra's journey is marked by personal struggles and a constant questioning of established norms, offering a more complex and nuanced portrayal of the Avatar role than its predecessor. The show maintains a vibrant animation style while tackling serious issues, appealing to a broad audience seeking both thrilling action and thought-provoking storytelling.",
+        "spoiler_rich_plot_summary": "The series begins with Korra, discovered as the Avatar in the Southern Water Tribe, immediately demonstrating a mastery of all four elements, but struggling with the spiritual aspects of the role. She travels to Republic City, a sprawling metropolis built on innovation and diversity, where she confronts crime and corruption under the guidance of the previous Avatar, Aang’s son, Tenzin. Early conflicts involve the Equalists, a group seeking to eliminate bending from society, led by the charismatic but vengeful Amon. Korra’s victory over Amon is followed by a period of self-doubt and a devastating loss of her connection to the spirit world, orchestrated by the manipulative Unalaq, her uncle. This event plunges the world into chaos as Unalaq merges with Vaatu, a dark spirit, threatening to destroy the balance between the physical and spirit realms. Korra, with the help of Team Avatar and guidance from past Avatars, ultimately defeats Vaatu and restores balance, but at a significant personal cost. Later seasons see Korra grappling with the rise of extremist groups and the consequences of her actions, leading to a period of isolation and a profound spiritual awakening. The series concludes with Korra embracing her role as a bridge between the physical and spirit worlds, paving the way for a new era of understanding and cooperation.",
+        "categorized_keywords": {
+          "themes": [
+            "spiritual-identity",
+            "political-corruption",
+            "social-unrest",
+            "balance",
+            "responsibility",
+            "redemption",
+            "legacy",
+            "coming-of-age"
+          ],
+          "plot_and_concepts": [
+            "bending",
+            "spirit-world",
+            "time-travel",
+            "alternate-timeline",
+            "political-intrigue",
+            "criminal-underworld",
+            "avatar-cycle"
+          ],
+          "mood_and_tone": [
+            "action-adventure",
+            "dramatic",
+            "hopeful",
+            "somber",
+            "philosophical"
+          ],
+          "genre_and_tropes": [
+            "martial-arts",
+            "found-family",
+            "coming-of-age-story",
+            "superhero-action",
+            "political-thriller"
+          ],
+          "setting": [
+            "republic-city",
+            "modern-world",
+            "spirit-realms",
+            "alternate-timeline"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "anti-hero",
+            "morally-gray-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "bending-techniques",
+            "spirit-portals",
+            "airships",
+            "pro-bending-arena"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "political-tension"
+          ]
+        },
+        "keyword_sentence": "The Legend of Korra blends action-adventure with mature themes of spiritual identity and political corruption, following a young Avatar’s journey through a rapidly changing world as she confronts challenges and embraces her role as a bridge between the physical and spirit realms."
+      },
+      "duration_seconds": 82.32271432876587
+    }
+  }
+}

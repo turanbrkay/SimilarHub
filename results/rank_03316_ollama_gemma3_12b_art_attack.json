@@ -1,0 +1,70 @@
+{
+  "input_data": {
+    "title": "Art Attack",
+    "overview": "Art Attack is a British children's television series revolving around art. The original series was one of CITV's longest running programmes, running from 1990 to 2007, and was presented throughout by Neil Buchanan.\n\nThe new series launched on Disney Junior on 6 June 2011 and was presented by Jassa Ahluwalia. Each show involved Ahluwalia voicing-over footage of an artist producing three works of art, taking the viewer through the various stages of production step by step.\n\nThe show's latest series is hosted by Lloyd Warbey. The new series launched on SAB TV on 10 June 2013 at 7 am IST.",
+    "genres": [
+      "Kids"
+    ],
+    "release_year": 1990,
+    "vote_count": 40
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Art Attack is a long-running British children's television series focused on the creative process of art making. The show, presented by various hosts over the years, demonstrates the step-by-step creation of artwork, encouraging children to engage in their own artistic endeavors. Its appeal lies in its accessible and engaging presentation of art techniques, fostering creativity and providing a positive role model for young viewers. The series' longevity speaks to its simple yet effective formula and its ability to inspire a love of art in children.",
+        "spoiler_rich_plot_summary": "The series begins with an introduction to the materials and tools needed for a particular art project. The host then guides the viewer through the creation process, showing each step in detail. The initial series, hosted by Neil Buchanan, established the show's format, which was later adopted by Jassa Ahluwalia and Lloyd Warbey. Each episode features the creation of three distinct artworks, ranging from painting and sculpture to collage and mixed media. The show emphasizes experimentation and encourages viewers to adapt the techniques to their own creative visions. While there isn't a traditional narrative arc, the evolution of the show reflects changing artistic trends and technological advancements, with later series incorporating digital tools and more complex techniques. The series concludes each episode with a showcase of the finished artworks, inspiring viewers to try their own versions.",
+        "categorized_keywords": {
+          "themes": [
+            "creativity",
+            "artistic-expression",
+            "inspiration",
+            "learning",
+            "childhood"
+          ],
+          "plot_and_concepts": [
+            "step-by-step-instruction",
+            "art-tutorial",
+            "craft-demonstration"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "educational",
+            "playful",
+            "encouraging"
+          ],
+          "genre_and_tropes": [
+            "childrens-tv",
+            "educational-tv",
+            "craft-show"
+          ],
+          "setting": [
+            "television-studio",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "art-instructor",
+            "mentor"
+          ],
+          "narrative_style": [
+            "demonstration",
+            "non-linear"
+          ],
+          "target_audience": [
+            "children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "paintbrushes",
+            "clay",
+            "paper",
+            "scissors",
+            "glitter"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Art Attack is a wholesome and educational children's television series that inspires creativity and learning through playful demonstrations of various art techniques."
+      },
+      "duration_seconds": 49.151440382003784
+    }
+  }
+}

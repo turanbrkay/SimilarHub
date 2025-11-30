@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "The Crocodile Hunter",
+    "overview": "The Crocodile Hunter is a wildlife documentary television series that was hosted by Steve Irwin and his wife Terri. The show became a popular franchise due to its unconventional approach and Irwin's approach to wildlife. It spawned a number of separate projects, including the feature film The Crocodile Hunter: Collision Course and two television spinoffs: The Crocodile Hunter Diaries and Croc Files. The series has been presented on Animal Planet and has been in international syndication on networks worldwide.",
+    "genres": [
+      "Documentary",
+      "Action & Adventure",
+      "Family"
+    ],
+    "release_year": 1997,
+    "vote_count": 30
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Crocodile Hunter is a documentary series centered around Steve Irwin's passionate and often daring interactions with wildlife, particularly crocodiles. The show's appeal lies in Irwin's energetic personality, his commitment to conservation, and the inherent drama of observing dangerous animals in their natural habitats. It blends elements of adventure, education, and family entertainment, creating a unique and globally popular format. The series emphasizes respect for nature and promotes wildlife conservation through engaging storytelling and Irwin's infectious enthusiasm.",
+        "spoiler_rich_plot_summary": "The Crocodile Hunter series initially follows Steve and Terri Irwin as they relocate to Australia and establish Australia Zoo. Each episode typically showcases Steve's encounters with various animals, often involving rescues, relocations, and educational demonstrations. The series highlights the challenges of running a wildlife park and the importance of conservation efforts. Steve's approach to handling dangerous animals, while often perceived as risky, is presented as a necessary part of protecting both the animals and the public. The series evolves to include international expeditions, showcasing diverse ecosystems and wildlife conservation projects around the globe. While the series doesn's have a traditional narrative arc, it consistently reinforces the Irwins' dedication to wildlife and their commitment to sharing their passion with audiences worldwide.",
+        "categorized_keywords": {
+          "themes": [
+            "wildlife-conservation",
+            "adventure",
+            "family",
+            "environmentalism",
+            "respect-for-nature"
+          ],
+          "plot_and_concepts": [
+            "wildlife-rescue",
+            "animal-handling",
+            "documentary-format",
+            "conservation-efforts"
+          ],
+          "mood_and_tone": [
+            "energetic",
+            "adventurous",
+            "educational",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "adventure-series",
+            "family-entertainment"
+          ],
+          "setting": [
+            "australia",
+            "wildlife-park",
+            "natural-habitats",
+            "global-ecosystems"
+          ],
+          "character_archetypes": [
+            "conservationist",
+            "animal-expert",
+            "family-man"
+          ],
+          "narrative_style": [
+            "episodic",
+            "documentary-style"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adults"
+          ],
+          "detail_plot": [
+            "crocodile-encounter",
+            "animal-rescue",
+            "wildlife-habitat",
+            "zoo-environment"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Crocodile Hunter is an energetic and adventurous documentary series that celebrates wildlife conservation and family entertainment through Steve Irwin’s passionate interactions with animals in their natural habitats."
+      },
+      "duration_seconds": 67.38125944137573
+    }
+  }
+}

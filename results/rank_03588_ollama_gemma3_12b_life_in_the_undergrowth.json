@@ -1,0 +1,67 @@
+{
+  "input_data": {
+    "title": "Life in the Undergrowth",
+    "overview": "David Attenborough reveals the amazing stories behind the tiny lives of invertebrates, exploring their incredible miniature world with ground-breaking camerawork and technology.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2005,
+    "vote_count": 34
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Life in the Undergrowth is a nature documentary series that offers an unprecedented look into the lives of invertebrates. Through innovative camera techniques and technology, the series reveals the complex behaviors, intricate social structures, and surprising adaptations of creatures often overlooked. It aims to foster appreciation for the biodiversity of our planet and highlight the vital role these often-unseen animals play in ecosystems. The series blends scientific rigor with visually stunning cinematography, creating an engaging and educational experience for viewers of all ages. It's a celebration of the miniature world and the remarkable resilience of life.",
+        "spoiler_rich_plot_summary": "The series unfolds as a journey into the hidden world of invertebrates, beginning with an exploration of insects and arachnids. Each episode focuses on different groups, such as ants, bees, spiders, and beetles, showcasing their unique survival strategies. Viewers witness complex social hierarchies within ant colonies, the intricate dance of honeybees, and the predatory techniques of spiders. The series highlights the challenges these creatures face, including predation, environmental changes, and competition for resources. Throughout the episodes, the narrative emphasizes the interconnectedness of these tiny lives and their crucial role in maintaining ecological balance. The series culminates in a broader understanding of the invertebrate world and its significance to the planet's health, demonstrating the importance of conservation efforts to protect these often-fragile ecosystems.",
+        "categorized_keywords": {
+          "themes": [
+            "nature-conservation",
+            "biodiversity",
+            "ecosystem-balance",
+            "scientific-discovery",
+            "animal-behavior"
+          ],
+          "plot_and_concepts": [
+            "macro-photography",
+            "time-lapse",
+            "animal-adaptation",
+            "scientific-exploration"
+          ],
+          "mood_and_tone": [
+            "educational",
+            "awe-inspiring",
+            "observational",
+            "peaceful"
+          ],
+          "genre_and_tropes": [
+            "nature-documentary",
+            "wildlife-photography"
+          ],
+          "setting": [
+            "natural-habitats",
+            "undergrowth",
+            "microscopic-world"
+          ],
+          "character_archetypes": [],
+          "narrative_style": [
+            "observational-documentary",
+            "serialized-exploration"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "ant-colony",
+            "spider-web",
+            "honeybee-hive",
+            "beetle-larva"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Life in the Undergrowth is an educational nature documentary that reveals the awe-inspiring behaviors and adaptations of invertebrates within their natural habitats, showcasing the importance of biodiversity and ecosystem balance through stunning observational photography."
+      },
+      "duration_seconds": 50.718727111816406
+    }
+  }
+}

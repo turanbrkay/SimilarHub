@@ -1,0 +1,86 @@
+{
+  "input_data": {
+    "title": "Mortal Kombat: Legacy",
+    "overview": "The first season of Mortal Kombat Legacy is a prequel to the original game, explaining the background stories of several characters from the series and demonstrating their reasons for participating in the upcoming tenth Mortal Kombat tournament on which the first game was based.",
+    "genres": [
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2011,
+    "vote_count": 90
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Mortal Kombat: Legacy is a live-action web series serving as a prequel to the iconic video game franchise. The series explores the origins of key characters, delving into their motivations and backstories leading up to the Mortal Kombat tournament. It blends martial arts action with fantasy elements, creating a gritty and often brutal tone. The series aims to provide a deeper understanding of the characters and the world of Mortal Kombat, establishing the stakes and conflicts that drive the tournament's narrative. While action-packed, the series also explores themes of revenge, honor, and the consequences of violence.",
+        "spoiler_rich_plot_summary": "The first season of Mortal Kombat: Legacy focuses on establishing the core characters and their individual journeys toward the Mortal Kombat tournament. We see the origins of Liu Kang, a Shaolin monk seeking vengeance for his family's murder, and his training under Master Bo. Sub-Zero, a Lin Kuei assassin, is introduced as a ruthless enforcer, driven by a desire to prove his worth and advance within his clan. Raiden, the thunder god, observes the unfolding events, attempting to maintain balance and prevent a catastrophic war between Earthrealm and Outworld. The series details the tragic backstory of Sonya Blade, a Special Forces agent investigating mysterious disappearances linked to the Lin Kuei clan. As the characters' paths converge, they become entangled in a web of conspiracies and betrayals, ultimately leading them to the Mortal Kombat tournament where their fates will be decided. The season culminates in a tense buildup to the tournament, hinting at the larger conflict between realms and the potential for devastating consequences.",
+        "categorized_keywords": {
+          "themes": [
+            "revenge",
+            "honor",
+            "fate",
+            "justice",
+            "balance",
+            "mortality"
+          ],
+          "plot_and_concepts": [
+            "martial-arts-tournament",
+            "realm-vs-realm",
+            "assassin-clan",
+            "special-forces",
+            "ancient-prophecy"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "dark",
+            "violent",
+            "serious",
+            "intense"
+          ],
+          "genre_and_tropes": [
+            "martial-arts",
+            "fantasy",
+            "action-adventure",
+            "origin-story",
+            "realm-vs-realm"
+          ],
+          "setting": [
+            "earthrealm",
+            "outworld",
+            "modern-day",
+            "shaolin-monastery"
+          ],
+          "character_archetypes": [
+            "monk",
+            "assassin",
+            "thunder-god",
+            "special-forces-agent",
+            "mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "origin-story",
+            "character-driven"
+          ],
+          "target_audience": [
+            "young-adult",
+            "action-fans"
+          ],
+          "detail_plot": [
+            "shaolin-temple",
+            "lin-kuei-clan",
+            "thunder-gods",
+            "special-forces-uniform",
+            "mortal-kombat-tournament"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "martial-arts-combat"
+          ]
+        },
+        "keyword_sentence": "Mortal Kombat: Legacy is a gritty, action-packed series exploring the origins of iconic characters as they navigate themes of revenge and honor in a violent struggle between realms."
+      },
+      "duration_seconds": 71.00131273269653
+    }
+  }
+}

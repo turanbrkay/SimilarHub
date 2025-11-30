@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "The Sentinel",
+    "overview": "The Sentinel is a Canadian-produced television series.  In the jungles of peru, the fight for survival heightened his senses. Now, Detective Jim Ellison is a sentinel in the fight for justice. Anthropologist Blair Sandburg works side by side with Jim, helping him develop these senses.",
+    "genres": [
+      "Drama",
+      "Crime",
+      "Action & Adventure"
+    ],
+    "release_year": 1996,
+    "vote_count": 60
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Sentinel is a crime drama series centered on Detective Jim Ellison, who possesses heightened senses due to an encounter in the Peruvian jungle. Partnered with anthropologist Blair Sandburg, Ellison uses his abilities to solve crimes and combat injustice. The series blends elements of police procedural with action and adventure, exploring themes of personal responsibility, the burden of extraordinary abilities, and the complexities of human connection. It offers a suspenseful and action-oriented viewing experience, often delving into the psychological impact of Ellison's unique condition.",
+        "spoiler_rich_plot_summary": "The series begins with Detective Jim Ellison, a former anthropologist, returning to his detective work after a transformative experience in the Peruvian jungle granted him extraordinary sensory perception. He is partnered with Blair Sandburg, who helps him understand and control his abilities while assisting in investigations. Early episodes focus on Ellison using his heightened senses to solve seemingly impossible crimes, often involving complex conspiracies and dangerous adversaries. As the series progresses, Ellison confronts a recurring threat – a shadowy organization seeking to exploit his abilities for their own nefarious purposes. He grapples with the moral implications of his powers, struggling to balance his desire for justice with the potential for abuse. Throughout the series, Ellison and Sandburg develop a close bond, navigating personal challenges and professional risks as they confront increasingly formidable enemies, ultimately striving to protect the innocent and uphold the law.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "responsibility",
+            "human-potential",
+            "moral-ambiguity",
+            "trust",
+            "loss"
+          ],
+          "plot_and_concepts": [
+            "police-investigation",
+            "conspiracy",
+            "enhanced-abilities",
+            "mystery",
+            "crime-solving"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "serious",
+            "dark",
+            "action-oriented"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "action-adventure",
+            "superhero-origins",
+            "buddy-cop"
+          ],
+          "setting": [
+            "modern-day",
+            "urban-environment",
+            "north-america"
+          ],
+          "character_archetypes": [
+            "enhanced-individual",
+            "investigator",
+            "supportive-partner",
+            "moral-compass"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "crime-scene",
+            "police-badge",
+            "laboratory-analysis",
+            "jungle-setting"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Sentinel is a suspenseful crime drama series exploring themes of justice and responsibility as a detective with enhanced abilities investigates complex conspiracies in a modern urban environment."
+      },
+      "duration_seconds": 57.424211502075195
+    }
+  }
+}

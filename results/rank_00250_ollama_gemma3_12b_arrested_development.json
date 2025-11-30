@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Arrested Development",
+    "overview": "The story of a wealthy family that lost everything, and the one son who had no choice but to keep them all together.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2003,
+    "vote_count": 1173
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Arrested Development is a satirical comedy series centered on the Bluth family, a formerly wealthy clan brought down by scandal and mismanagement. The show employs a mockumentary style, utilizing frequent cutaways and unreliable narration to highlight the family's dysfunction and absurd behavior. It blends elements of family sitcom, workplace comedy, and dark humor, offering a cynical yet entertaining look at privilege, greed, and the consequences of poor decisions. The series' intricate plotting and recurring gags reward attentive viewers, creating a unique and engaging comedic experience.",
+        "spoiler_rich_plot_summary": "The series begins with George Bluth Sr., the patriarch of the Bluth family, being arrested for shady business dealings, forcing his children to step up and manage the family empire. Michael Bluth, the seemingly responsible son, attempts to keep the family afloat while navigating the eccentricities of his siblings: Gob, the inept magician; Lindsay, the activist; Tobias, the perpetually failing actor; and Maeby, the manipulative teenager. As Michael tries to maintain order, he uncovers a web of family secrets, financial improprieties, and bizarre schemes orchestrated by his father and siblings. Throughout the series, the Bluths repeatedly sabotage their own efforts, leading to increasingly chaotic and hilarious situations. The initial seasons focus on the family's attempts to rebuild their business and reputation, while later seasons delve deeper into George Sr.'s past and the origins of the family's dysfunction. The series culminates in a complex and convoluted resolution involving legal battles, hidden identities, and unexpected alliances, ultimately leaving the Bluths in a state of perpetual disarray.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dysfunction",
+            "greed",
+            "corruption",
+            "privilege",
+            "redemption",
+            "deception"
+          ],
+          "plot_and_concepts": [
+            "mockumentary",
+            "business-fraud",
+            "hidden-identity",
+            "ensemble-cast",
+            "running-gag"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "satirical",
+            "absurdist",
+            "cynical"
+          ],
+          "genre_and_tropes": [
+            "family-sitcom",
+            "workplace-comedy",
+            "mockumentary-comedy"
+          ],
+          "setting": [
+            "california",
+            "modern-day",
+            "suburban-setting"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "eccentric-family",
+            "unreliable-narrator"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "model-home",
+            "blue-paint",
+            "loose-ribbon",
+            "family-portrait"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Arrested Development is a darkly comic satire about a dysfunctional family grappling with greed and corruption in a modern suburban setting, presented through a mockumentary style with eccentric characters and running gags."
+      },
+      "duration_seconds": 142.0555064678192
+    }
+  }
+}

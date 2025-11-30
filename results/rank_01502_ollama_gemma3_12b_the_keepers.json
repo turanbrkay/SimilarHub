@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "The Keepers",
+    "overview": "This docuseries examines the decades-old murder of Sister Catherine Cesnik and its suspected link to a priest accused of abuse.",
+    "genres": [
+      "Documentary",
+      "Mystery",
+      "Crime"
+    ],
+    "release_year": 2017,
+    "vote_count": 144
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Keepers is a documentary series that investigates the unsolved 1987 murder of a Catholic school nun and explores allegations of sexual abuse within the institution. Through interviews with former students and a meticulous examination of archival records, the series attempts to uncover the truth behind the crime and the systemic failures that allowed it to remain unsolved for decades. The series blends true crime investigation with social commentary, raising questions about institutional accountability and the long-term impact of trauma. It offers a somber and unsettling exploration of faith, betrayal, and the pursuit of justice.",
+        "spoiler_rich_plot_summary": "The series centers on the murder of Sister Catherine Cesnik, a beloved teacher at Our Lady of the Lakeside school in Wilmette, Illinois. Decades after her death, a former student, Gillian Flynn, initiates an online search for answers, which sparks renewed interest in the case. The investigation reveals a pattern of alleged sexual abuse perpetrated by Father Daniel Callahan, a priest at the school. Former students recount disturbing experiences and suggest Callahan may have been involved in Cesnik’s murder, possibly as a means of silencing her if she discovered his actions. The series explores the complex web of relationships within the school and the Catholic Church, highlighting the pressures and loyalties that may have contributed to the cover-up. While the identity of Cesnik’s killer remains officially unsolved, the series presents compelling evidence and raises serious questions about the role of the Church in protecting abusers and obstructing justice. The investigation ultimately exposes a culture of silence and complicity that allowed a dangerous predator to operate unchecked for years.",
+        "categorized_keywords": {
+          "themes": [
+            "abuse-of-power",
+            "institutional-corruption",
+            "faith-and-doubt",
+            "justice-and-accountability",
+            "silence-and-complicity",
+            "trauma-and-recovery"
+          ],
+          "plot_and_concepts": [
+            "true-crime",
+            "unsolved-murder",
+            "investigative-journalism",
+            "institutional-cover-up",
+            "sexual-abuse"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "unsettling",
+            "suspenseful",
+            "reflective"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "mystery",
+            "crime"
+          ],
+          "setting": [
+            "illinois",
+            "catholic-church",
+            "suburban-setting"
+          ],
+          "character_archetypes": [
+            "investigative-reporter",
+            "victim",
+            "abuser",
+            "whistleblower"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "investigative-report"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "school-records",
+            "police-files",
+            "interview-footage",
+            "catholic-school"
+          ],
+          "maturity_and_content": [
+            "sexual-abuse",
+            "graphic-violence",
+            "disturbing-themes"
+          ]
+        },
+        "keyword_sentence": "The Keepers is a somber documentary series that investigates an unsolved murder and exposes a culture of institutional corruption and abuse within a Catholic school, prompting a reflective examination of faith, justice, and the long-lasting impact of trauma."
+      },
+      "duration_seconds": 68.5301582813263
+    }
+  }
+}

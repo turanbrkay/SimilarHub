@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "So You Think You Can Dance",
+    "overview": "Dancers selected in open auditions across America take part in a rigorous competition designed to best display their talents, training and personalities to a panel of judges and viewers as they strive to win votes and avoid elimination.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2005,
+    "vote_count": 59
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "So You Think You Can Dance is a reality competition series showcasing a diverse range of dancers vying for the title of America's best. The show emphasizes technical skill, artistry, and stage presence, with contestants performing various dance styles, from contemporary to hip-hop. Judges provide feedback and critique, while audience voting determines who remains in the competition. The series blends elements of performance, competition, and personal narrative, creating a dynamic and engaging viewing experience centered around the pursuit of excellence in dance.",
+        "spoiler_rich_plot_summary": "Each season begins with open auditions across the United States, where aspiring dancers showcase their talents to a panel of judges. Those selected move on to the 'official' competition rounds, where they perform choreographed routines and solos, often incorporating feedback from the judges and guest choreographers. Throughout the competition, dancers are eliminated based on a combination of judge scores and audience votes. The series culminates in a final performance where the remaining top contenders battle for the title, with the winner receiving a cash prize and recognition as America's best dancer. Recurring themes involve dancers overcoming personal challenges, developing their artistry, and forming bonds with their fellow competitors, even as they face the pressure of elimination.",
+        "categorized_keywords": {
+          "themes": [
+            "competition",
+            "artistry",
+            "self-improvement",
+            "dedication",
+            "performance",
+            "talent"
+          ],
+          "plot_and_concepts": [
+            "elimination-rounds",
+            "choreography",
+            "judge-panel",
+            "audience-voting",
+            "dance-styles"
+          ],
+          "mood_and_tone": [
+            "energetic",
+            "inspiring",
+            "competitive",
+            "uplifting"
+          ],
+          "genre_and_tropes": [
+            "reality-competition",
+            "talent-show",
+            "performance-based"
+          ],
+          "setting": [
+            "dance-studio",
+            "stage",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "aspiring-dancer",
+            "choreographer",
+            "judge"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "elimination-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "dance-enthusiasts"
+          ],
+          "detail_plot": [
+            "choreographed-routines",
+            "solo-performances",
+            "judge-critiques"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "So You Think You Can Dance is an energetic reality competition showcasing aspiring dancers striving for artistry and recognition through choreographed routines and judge critiques in a serialized elimination format."
+      },
+      "duration_seconds": 53.39496183395386
+    }
+  }
+}

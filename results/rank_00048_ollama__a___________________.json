@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Malcolm in the Middle",
+    "overview": "A gifted young teen tries to survive life with his dimwitted, dysfunctional family.",
+    "genres": [
+      "Family",
+      "Comedy"
+    ],
+    "release_year": 2000,
+    "vote_count": 3896
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Malcolm in the Middle follows the misadventures of a gifted teenager navigating the chaotic dynamics of a dysfunctional family in a suburban American setting. The series blends sharp, satirical humor with heartfelt moments, exploring themes of adolescent identity, sibling rivalry, and the absurdities of everyday life. Its episodic structure allows each episode to spotlight Malcolm’s clever schemes and the family’s eccentricities, while maintaining an overarching narrative of growth and resilience.",
+        "spoiler_rich_plot_summary": "The show opens with Malcolm discovering his prodigious intelligence and the family's chaotic routine, leading to a series of comedic escapades that highlight his strained relationship with his overbearing mother, strict father, and younger siblings. Over the seasons, Malcolm’s academic challenges, school projects, and rebellious antics collide with family crises such as the parents’ divorce, the siblings’ misadventures, and the eventual loss of their home. The series culminates in Malcolm’s graduation from high school, his decision to leave home to pursue a college education, and a bittersweet farewell that underscores the enduring bond and chaotic love within the family.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dysfunction",
+            "adolescent-identity",
+            "sibling-rivalry",
+            "genius-teen",
+            "humorous-absurdity"
+          ],
+          "plot_and_concepts": [
+            "family-comedy",
+            "misadventures",
+            "home-escape",
+            "school-assignments",
+            "parental-absorption",
+            "sibling-competition"
+          ],
+          "mood_and_tone": [
+            "satirical",
+            "ironic",
+            "humorous",
+            "heartwarming",
+            "cynical"
+          ],
+          "genre_and_tropes": [
+            "family-comedy",
+            "slapstick",
+            "character-driven",
+            "episodic",
+            "repeated-plot-structure"
+          ],
+          "setting": [
+            "suburban-america",
+            "modern-1990s"
+          ],
+          "character_archetypes": [
+            "genius-teen",
+            "overbearing-parent",
+            "sibling-ally",
+            "comic-relief"
+          ],
+          "narrative_style": [
+            "episodic",
+            "fast-paced",
+            "character-driven"
+          ],
+          "target_audience": [
+            "family-friendly"
+          ],
+          "detail_plot": [
+            "microwave",
+            "homework",
+            "school-assignments",
+            "family-photos"
+          ]
+        },
+        "keyword_sentence": "Malcolm in the Middle is a satirical, family-comedy that blends adolescent-identity and sibling-rivalry themes with a fast-paced, episodic narrative set in suburban-america, featuring a genius-teen and overbearing-parent archetypes while highlighting humor, heartwarming moments, and recurring motifs like microwave, homework, and school-assignments."
+      },
+      "duration_seconds": 169.539892911911
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "input_data": {
+    "title": "Sugar Rush",
+    "overview": "Sugar Rush is an Emmy Award–winning British television comedy drama series developed by Shine Limited and broadcast by Channel 4, based on the Julie Burchill novel of the same name. It follows the trials and tribulations of teenager Kim Daniels, who is dealing with all the usual adolescent issues, plus one - she thinks she might be gay.  Her family has recently moved to Brighton from London, and she finds herself with a huge crush on her new best friend, Maria `Sugar' Sweet. Sugar has a bit of a wild side, and frequently gets Kim into trouble, though Kim can find trouble on her own as well. Despite attractions to other girls, and a few attempts at being interested in guys, Kim continues to long for Sugar.",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "release_year": 2005,
+    "vote_count": 30
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Sugar Rush is a British comedy-drama series exploring the complexities of adolescence, identity, and first love. The series follows Kim Daniels as she navigates her burgeoning sexuality and the challenges of a new town and new friendships. With a blend of humor and heartfelt drama, the show examines themes of self-discovery, family dynamics, and the often-turbulent journey of growing up. It offers a relatable and often humorous portrayal of teenage experiences, particularly those related to sexual identity and social belonging.",
+        "spoiler_rich_plot_summary": "The series begins with Kim Daniels and her family relocating from London to Brighton. Feeling adrift and unsure of herself, Kim quickly befriends Maria 'Sugar' Sweet, a free-spirited and somewhat rebellious girl who captivates Kim's attention. Kim grapples with her feelings for Sugar, realizing she may be attracted to girls, a revelation that complicates her relationships with her family and potential romantic interests. Throughout the series, Kim experiences a range of emotions as she explores her identity, facing social pressures and internal conflicts. She navigates the challenges of first love, friendship, and self-acceptance, encountering both supportive and confrontational figures along the way. The series follows Kim's journey as she attempts to understand her place in the world and come to terms with her sexuality, ultimately leading to a greater sense of self-awareness and acceptance, though not without significant emotional trials and tribulations.",
+        "categorized_keywords": {
+          "themes": [
+            "identity-discovery",
+            "first-love",
+            "family-dynamics",
+            "sexual-identity",
+            "adolescence",
+            "self-acceptance"
+          ],
+          "plot_and_concepts": [
+            "coming-of-age",
+            "teen-romance",
+            "friendship-challenges"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "emotional",
+            "coming-of-age-drama"
+          ],
+          "genre_and_tropes": [
+            "teen-drama",
+            "romantic-comedy",
+            "coming-of-age-story"
+          ],
+          "setting": [
+            "brighton-uk",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "rebellious-teen",
+            "conflicted-protagonist",
+            "free-spirited-friend"
+          ],
+          "narrative_style": [
+            "serialized-story"
+          ],
+          "target_audience": [
+            "young-adult"
+          ],
+          "detail_plot": [
+            "new-town",
+            "teenage-crush",
+            "family-relocation"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Sugar Rush is a lighthearted and emotional teen drama set in modern-day Brighton, exploring themes of identity discovery and first love as a conflicted protagonist navigates the challenges of adolescence and self-acceptance."
+      },
+      "duration_seconds": 71.16107749938965
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "input_data": {
+    "title": "Criminal Minds",
+    "overview": "An elite team of FBI profilers analyze the country's most twisted criminal minds, anticipating their next moves before they strike again. The Behavioral Analysis Unit's most experienced agent is David Rossi, a founding member of the BAU who returns to help the team solve new cases.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2005,
+    "vote_count": 3413
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Criminal Minds follows the FBI’s Behavioral Analysis Unit (BAU) as they profile serial killers and other violent offenders, blending procedural investigation with deep psychological insight. The series maintains a consistently dark, intense tone while exploring themes of trauma, teamwork, and moral ambiguity. Set in modern‑USA urban environments, it balances episodic case‑of‑the‑week storytelling with long‑running character arcs and a focus on forensic detail.",
+        "spoiler_rich_plot_summary": "The series opens with the BAU’s formation in Washington, D.C., led by Agent Aaron Hotchner and featuring analysts Penelope Garcia, Dr. Tara Lewis, and new field profilers Derek Morgan and Emily Prentiss. Over the first few seasons, the team tackles a variety of serial killers, including the infamous “Red” and the “Blackout” case, while developing strong interpersonal bonds and confronting personal traumas. Season 3 introduces veteran profiler David Rossi, whose expertise and past cases add depth to the unit’s dynamic. Season 6 sees the return of the “Red” killer, culminating in a tense showdown that ends with the killer’s death but leaves lingering psychological scars. In Season 8, the BAU faces a nationwide “Serial Killer Network” that forces the team to collaborate across jurisdictions, while individual members grapple with personal loss—most notably, Hotchner’s marriage to a fellow agent ends in divorce. Season 10’s “The Ripper” arc brings Derek Morgan into a high‑stakes confrontation that ultimately results in his death, marking the first major loss for the team and a turning point in the series’ emotional stakes. Subsequent seasons explore new serial killers, such as the “Covenant” and “The Darkling,” and delve into the psychological toll on the BAU’s members, including Garcia’s struggle with PTSD and Prentiss’s battle with a terminal illness. By Season 13, the BAU is forced to adapt to budget cuts and a changing law‑enforcement landscape, leading to a temporary re‑structuring of the unit. Season 15 concludes with the formal disbandment of the BAU following a federal budget decision; Hotchner, Rossi, and Garcia depart the unit, while other members transition to new roles or retire. The final episode, “The End,” offers a bittersweet farewell: a montage of the team’s past cases, a memorial for Morgan, and a glimpse of each character’s future, underscoring the series’ themes of resilience and the enduring impact of their work.",
+        "categorized_keywords": {
+          "themes": [
+            "psychology",
+            "teamwork",
+            "trauma",
+            "justice",
+            "moral-ambiguity",
+            "human-behavior",
+            "serial-violence",
+            "identity-crisis"
+          ],
+          "plot_and_concepts": [
+            "behavioral-analysis-unit",
+            "profile",
+            "serial-killer",
+            "case-of-the-week",
+            "victimology",
+            "crime-scene-reconstruction",
+            "psychopath",
+            "fbi",
+            "team-structure",
+            "interrogation",
+            "motive-research",
+            "criminal-psychology"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "intense",
+            "gritty",
+            "realistic",
+            "somber",
+            "tension-filled"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "procedural",
+            "serial-psychology",
+            "team-based",
+            "case-of-the-week",
+            "character-driven",
+            "mystery"
+          ],
+          "setting": [
+            "modern-usa",
+            "federal-bureau-of-investigation",
+            "urban",
+            "national",
+            "fbi-BAU"
+          ],
+          "character_archetypes": [
+            "fbi-agent",
+            "psychologist",
+            "tech-support",
+            "field-profilers",
+            "mentor",
+            "team-leader",
+            "analyst"
+          ],
+          "narrative_style": [
+            "procedural",
+            "episodic",
+            "character-driven",
+            "slow-burn-arc"
+          ],
+          "target_audience": [
+            "mature-audiences",
+            "crime-fans",
+            "psychology-interested"
+          ]
+        },
+        "detail_plot": [
+          "fbi-briefing-room",
+          "profile-boards",
+          "crime-scene",
+          "victim-photos",
+          "profile-templates",
+          "handcuffs",
+          "murder-masks",
+          "psychological-report",
+          "fbi-vehicle",
+          "case-files"
+        ],
+        "keyword_sentence": "Criminal Minds centers on a fbi behavioral analysis unit that profiles serial killers, blending dark, intense, procedural storytelling with themes of psychology, teamwork, and trauma, set in modern‑usa urban environments and featuring iconic detail such as fbi-briefing-room and profile-boards."
+      },
+      "duration_seconds": 273.05741477012634
+    }
+  }
+}

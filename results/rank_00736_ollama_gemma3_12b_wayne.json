@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Wayne",
+    "overview": "In this gritty and sometimes bloody tale, sixteen year-old Wayne sets out on a dirt bike with his new crush Del to take back the 1978 Pontiac Trans Am that was stolen from his father before he died. It is Wayne and Del against the world.",
+    "genres": [
+      "Drama",
+      "Action & Adventure",
+      "Comedy"
+    ],
+    "release_year": 2019,
+    "vote_count": 383
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Wayne is a darkly comedic and action-packed series that blends elements of coming-of-age drama with a gritty, neo-noir aesthetic. The show follows a teenage boy's quest for revenge and self-discovery, exploring themes of grief, loyalty, and the complexities of morality. It subverts typical coming-of-age tropes with its unconventional protagonist and a cynical, often absurd, worldview. The series balances moments of intense action with quirky humor, creating a unique and unpredictable viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Wayne, a young man consumed by the death of his father and fueled by a desire for vengeance. He embarks on a journey with his girlfriend, Del, to retrieve his father's stolen car, a 1978 Pontiac Trans Am, which represents a tangible link to his past. As they pursue the thieves, Wayne and Del encounter a colorful cast of characters, some helpful, others dangerous, each contributing to Wayne's evolving understanding of his father and himself. The pursuit reveals a web of criminal activity and exposes Wayne to the harsh realities of the world beyond his small town. Throughout the journey, Wayne grapples with his own violent tendencies and the moral implications of his actions, ultimately questioning whether revenge will truly bring him closure. The series culminates in a confrontation that forces Wayne to confront his demons and make a difficult choice about his future, leaving his path uncertain but undeniably changed.",
+        "categorized_keywords": {
+          "themes": [
+            "revenge",
+            "grief",
+            "coming-of-age",
+            "loyalty",
+            "morality",
+            "redemption",
+            "small-town-life"
+          ],
+          "plot_and_concepts": [
+            "car-chase",
+            "crime",
+            "heist",
+            "revenge-plot",
+            "road-trip"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "gritty",
+            "cynical",
+            "absurdist",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "coming-of-age",
+            "crime-drama",
+            "neo-noir",
+            "road-movie"
+          ],
+          "setting": [
+            "small-town-usa",
+            "1970s",
+            "american-south"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "rebellious-teenager",
+            "femme-fatale"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "pontiac-trans-am",
+            "dirt-bike",
+            "small-town-gas-station",
+            "worn-leather-jacket"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "drug-use"
+          ]
+        },
+        "keyword_sentence": "Wayne is a darkly comic crime drama set in a small town, following a rebellious teenager’s quest for revenge and self-discovery amidst violence and drug use."
+      },
+      "duration_seconds": 60.03790831565857
+    }
+  }
+}

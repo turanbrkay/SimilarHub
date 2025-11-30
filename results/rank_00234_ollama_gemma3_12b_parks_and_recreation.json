@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Parks and Recreation",
+    "overview": "Hilarious ensemble comedy that follows Leslie Knope, a mid-level bureaucrat in the Parks and Recreation Department of Pawnee, Indiana, and her tireless efforts to make her quintessentially American town just a little bit more fun.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2009,
+    "vote_count": 1250
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Parks and Recreation is a mockumentary-style comedy series that follows the optimistic and relentlessly energetic Leslie Knope as she navigates the challenges of local government in Pawnee, Indiana. The show's humor derives from the clash between Leslie's idealism and the often-absurd realities of small-town bureaucracy and the eccentric personalities she encounters. It's a character-driven comedy that celebrates community, friendship, and the power of unwavering dedication, even in the face of cynicism and apathy. The series balances its comedic elements with heartwarming moments of genuine connection and personal growth, creating a feel-good experience that resonates with audiences.",
+        "spoiler_rich_plot_summary": "The series begins with Leslie Knope's ambitious plan to transform a neglected lot into a beautiful park, a project that quickly exposes her to the quirks and frustrations of Pawnee's local government. Throughout the early seasons, Leslie's unwavering optimism is tested by bureaucratic red tape, cynical colleagues, and the general apathy of the townspeople. She builds a close-knit team, including Ron Swanson, a libertarian director of the parks department, April Ludgate, a deadpan intern, and Andy Dwyer, a lovable slacker. As the series progresses, Leslie's career advances, leading her to higher-level positions within the state government, while her personal life evolves with her relationship with Ben Wyatt. The show explores the challenges of balancing ambition with personal values and the importance of maintaining a sense of humor in the face of adversity. The final seasons see the team facing new challenges and celebrating their successes, culminating in a bittersweet farewell that emphasizes the enduring power of friendship and community.",
+        "categorized_keywords": {
+          "themes": [
+            "optimism",
+            "friendship",
+            "community",
+            "government-service",
+            "small-town-life",
+            "ambition",
+            "workplace-comedy"
+          ],
+          "plot_and_concepts": [
+            "mockumentary",
+            "ensemble-cast",
+            "workplace-comedy",
+            "local-government",
+            "slow-burn-romance"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "optimistic",
+            "quirky",
+            "feel-good"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "mockumentary",
+            "ensemble-cast",
+            "workplace-comedy"
+          ],
+          "setting": [
+            "indiana",
+            "small-town-usa",
+            "parks-department"
+          ],
+          "character_archetypes": [
+            "optimistic-heroine",
+            "libertarian",
+            "deadpan-humor",
+            "lovable-slacker",
+            "straight-man"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "workplace-comedy"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "parks-department",
+            "town-hall",
+            "pawnee-indiana",
+            "harvest-festival",
+            "treatles"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Parks and Recreation is a lighthearted and optimistic sitcom that celebrates the power of community and friendship through the quirky characters working in a small-town Indiana parks department."
+      },
+      "duration_seconds": 64.06859421730042
+    }
+  }
+}

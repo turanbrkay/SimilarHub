@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "American Chopper",
+    "overview": "Paul Teutul, Sr. and his son Paul Teutul, Jr. manufacture custom chopper-style motorcycles.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2003,
+    "vote_count": 49
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "American Chopper is a reality television series centered on the operations of Paul Teutul Sr.'s motorcycle shop, Orange County Choppers. The show documents the design, fabrication, and testing of custom motorcycles, often highlighting the interpersonal dynamics and occasional conflicts between Paul Sr., Paul Jr., and other members of the shop. It blends elements of manufacturing process documentation with a focus on family business and the challenges of creative collaboration. The series offers a glimpse into the world of custom motorcycle building and the pressures of running a successful business.",
+        "spoiler_rich_plot_summary": "The series initially follows the establishment and growth of Orange County Choppers, showcasing the creation of unique, high-end motorcycles commissioned by various clients. Early seasons focus on the design process, fabrication challenges, and the personalities within the shop. As the business expands, tensions arise between Paul Teutul Sr. and Paul Teutul Jr., leading to disagreements over design philosophies and business decisions. These conflicts often impact the production timeline and the final product. Later seasons explore the expansion of the business, including the opening of a second shop and the involvement of additional family members. The series documents the evolution of the motorcycle designs, reflecting changing trends and client demands, while consistently portraying the complexities of a family-run enterprise.",
+        "categorized_keywords": {
+          "themes": [
+            "family-business",
+            "creative-process",
+            "entrepreneurship",
+            "generational-conflict",
+            "design-innovation"
+          ],
+          "plot_and_concepts": [
+            "custom-motorcycles",
+            "manufacturing-process",
+            "client-commission",
+            "business-expansion"
+          ],
+          "mood_and_tone": [
+            "competitive",
+            "passionate",
+            "tense",
+            "prideful"
+          ],
+          "genre_and_tropes": [
+            "reality-tv",
+            "workshop-series",
+            "family-drama"
+          ],
+          "setting": [
+            "new-york-state",
+            "motorcycle-shop",
+            "workshop"
+          ],
+          "character_archetypes": [
+            "visionary-leader",
+            "creative-son",
+            "skilled-craftsman"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "workshop-documentation"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "motorcycle-enthusiasts"
+          ],
+          "detail_plot": [
+            "custom-motorcycle",
+            "welding-torch",
+            "design-blueprint",
+            "orange-county-choppers"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "American Chopper documents the passionate and often tense creative process of building custom motorcycles within a family-run business, showcasing the challenges of design innovation and the complexities of generational conflict."
+      },
+      "duration_seconds": 50.93121314048767
+    }
+  }
+}

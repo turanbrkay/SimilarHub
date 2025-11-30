@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Star Wars: The Bad Batch",
+    "overview": "The 'Bad Batch' of elite and experimental clones make their way through an ever-changing galaxy in the immediate aftermath of the Clone Wars.",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2021,
+    "vote_count": 808
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Star Wars: The Bad Batch follows a squad of elite clone troopers with genetic mutations who are deployed after the Clone Wars. The series explores their struggles to find their place in a rapidly changing galaxy, grappling with themes of identity, loyalty, and purpose as the Empire rises. It blends action-adventure with science-fantasy elements, offering a unique perspective on the Star Wars universe through the eyes of these soldiers, showcasing both the excitement of galactic conflict and the moral complexities of a changing order. The series maintains a tone of gritty realism tempered by moments of hope and camaraderie.",
+        "spoiler_rich_plot_summary": "The series begins immediately following Order 66, with Clone Force 217, nicknamed the 'Bad Batch' due to their mutations, being deployed on various missions. Hunter, Echo, Wrecker, Tech, and Crosshair, each possessing unique abilities, initially serve the newly formed Galactic Empire. However, as they witness the Empire's increasingly oppressive tactics and the betrayal of their former allies, their loyalty is tested. Crosshair, deemed a liability due to his independent thinking, is separated from the squad and becomes a dedicated Imperial enforcer. The remaining Bad Batch, led by Hunter, goes rogue, seeking to carve out a life for themselves and protect those caught in the Empire's crosshairs. They encounter various individuals and groups, including a youngling named Omega, who becomes an integral part of their found family. Throughout their journey, they face constant pursuit by the Empire, navigate complex political landscapes, and confront the consequences of their past actions, ultimately questioning their role in a galaxy consumed by conflict. The series explores the long-term impact of the Clone Wars and the rise of the Empire on individuals and the galaxy at large, with the Bad Batch struggling to find a place in a world that no longer needs them.",
+        "categorized_keywords": {
+          "themes": [
+            "identity-quest",
+            "loyalty",
+            "found-family",
+            "betrayal",
+            "moral-ambiguity",
+            "purpose",
+            "war-trauma"
+          ],
+          "plot_and_concepts": [
+            "clone-wars",
+            "galactic-empire",
+            "found-family",
+            "rogue-unit",
+            "political-intrigue",
+            "military-operation"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "action-packed",
+            "somber",
+            "hopeful",
+            "tense"
+          ],
+          "genre_and_tropes": [
+            "science-fantasy",
+            "military-thriller",
+            "action-adventure",
+            "space-opera"
+          ],
+          "setting": [
+            "galaxy",
+            "post-war",
+            "imperial-era"
+          ],
+          "character_archetypes": [
+            "rogue-hero",
+            "skilled-soldier",
+            "moral-grey-protagonist",
+            "loyal-companion"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "clone-trooper-armor",
+            "imperial-starship",
+            "omega-character",
+            "hunter-character"
+          ],
+          "maturity_and_content": [
+            "violence"
+          ]
+        },
+        "keyword_sentence": "Star Wars: The Bad Batch explores themes of identity and loyalty within a gritty, action-packed science-fantasy setting, following a squad of elite clone troopers as they navigate the rise of the Galactic Empire and forge a found family amidst galactic conflict."
+      },
+      "duration_seconds": 68.08394622802734
+    }
+  }
+}

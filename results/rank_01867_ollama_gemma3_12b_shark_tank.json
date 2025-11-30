@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Shark Tank",
+    "overview": "Aspiring entrepreneurs pitch various business ideas to \"The Sharks\" -- tough, self-made, multi-millionaire and billionaire tycoons -- in hopes of landing an investment.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2009,
+    "vote_count": 107
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Shark Tank is a reality television series centered around entrepreneurial pitches and investment opportunities. Aspiring business owners present their ideas to a panel of wealthy investors, known as \"Sharks,\" who evaluate the viability and potential for return on investment. The show blends elements of business competition, negotiation, and personal storytelling, offering a glimpse into the world of startups and venture capital. Its appeal lies in its blend of high-stakes drama, educational insights, and the potential for inspiring viewers to pursue their own business dreams. The series fosters a dynamic environment where innovation and risk-taking are constantly on display.",
+        "spoiler_rich_plot_summary": "Each episode of Shark Tank features several entrepreneurs presenting their business concepts to the Sharks. The Sharks, a rotating panel of investors including Mark Cuban, Kevin O'Leary, Lori Greiner, Daymond John, and others, rigorously question the entrepreneurs, scrutinizing their business plans, financial projections, and market strategies. Negotiations often involve intense bargaining, with the Sharks vying for equity in exchange for investment capital. Deals are not guaranteed; many pitches are rejected due to concerns about valuation, scalability, or market demand. Successful entrepreneurs secure funding and mentorship from the Sharks, propelling their businesses forward, while others leave without an offer, forced to seek alternative funding sources. Over the seasons, the Sharks have invested in a diverse range of businesses, from consumer products to technology startups, demonstrating the breadth of entrepreneurial ambition and the potential for significant financial returns.",
+        "categorized_keywords": {
+          "themes": [
+            "entrepreneurship",
+            "business-investment",
+            "financial-risk",
+            "negotiation",
+            "innovation",
+            "success-failure"
+          ],
+          "plot_and_concepts": [
+            "business-pitch",
+            "venture-capital",
+            "investment-deal",
+            "market-analysis",
+            "financial-projections"
+          ],
+          "mood_and_tone": [
+            "competitive",
+            "tense",
+            "optimistic",
+            "educational",
+            "high-stakes"
+          ],
+          "genre_and_tropes": [
+            "reality-television",
+            "business-competition",
+            "underdog-story",
+            "rags-to-riches"
+          ],
+          "setting": [
+            "business-world",
+            "modern-day",
+            "boardroom"
+          ],
+          "character_archetypes": [
+            "entrepreneur",
+            "investor",
+            "business-mentor",
+            "shark"
+          ],
+          "narrative_style": [
+            "episodic",
+            "competition-format"
+          ],
+          "target_audience": [
+            "business-students",
+            "adult-viewers",
+            "entrepreneurs"
+          ],
+          "detail_plot": [
+            "business-plan",
+            "financial-statement",
+            "product-demo",
+            "shark-tank-deal"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Shark Tank is a competitive reality television series that showcases aspiring entrepreneurs pitching their business ideas to a panel of wealthy investors in hopes of securing a life-changing investment."
+      },
+      "duration_seconds": 62.55579924583435
+    }
+  }
+}

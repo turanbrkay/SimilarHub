@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "The Phantom of the Opera",
+    "overview": "The Phantom of the Opera is a 1990 NBC two-part drama television miniseries. It is adapted from Arthur Kopit's book for his then-unproduced stage musical Phantom, which is based loosely on Gaston Leroux's novel.",
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "release_year": 1990,
+    "vote_count": 35
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Phantom of the Opera miniseries is a dramatic adaptation of Gaston Leroux's novel, exploring themes of obsession, isolation, and the transformative power of music. The story centers on a disfigured musical genius who haunts the Paris Opera House and becomes infatuated with a young soprano. The miniseries blends elements of gothic romance, musical drama, and psychological thriller, creating a visually and emotionally rich experience. It delves into the complexities of human connection and the blurred lines between genius and madness, offering a poignant portrayal of a man yearning for acceptance and love.",
+        "spoiler_rich_plot_summary": "The story begins at the Paris Opera House, where a masked figure known only as the Phantom terrorizes the staff and demands that Christine Daaé, a young chorus girl, be given the lead role. The Phantom, a brilliant composer and musician who lives beneath the opera house, believes Christine is the reincarnation of his lost love. As Christine’s career flourishes under the Phantom’s tutelage, she becomes increasingly conflicted, drawn to his musical genius but also frightened by his obsessive nature. Her childhood friend, Raoul, is deeply concerned for her safety and attempts to protect her. The Phantom manipulates events to isolate Christine and solidify his control, leading to a dramatic confrontation where Christine must choose between her loyalty to the Phantom and her love for Raoul. The story culminates in a tense rescue attempt, revealing the Phantom’s tragic backstory and ultimately leading to a bittersweet resolution where Christine shows compassion for the tormented genius, leaving his fate ambiguous.",
+        "categorized_keywords": {
+          "themes": [
+            "obsession",
+            "isolation",
+            "redemption",
+            "music-as-therapy",
+            "beauty-vs-appearance",
+            "lost-love"
+          ],
+          "plot_and_concepts": [
+            "masked-vigilante",
+            "gothic-romance",
+            "musical-drama",
+            "revenge",
+            "haunted-location"
+          ],
+          "mood_and_tone": [
+            "melancholy",
+            "romantic",
+            "suspenseful",
+            "tragic"
+          ],
+          "genre_and_tropes": [
+            "gothic-fiction",
+            "musical-adaptation",
+            "romantic-suspense",
+            "tragic-hero"
+          ],
+          "setting": [
+            "paris-france",
+            "opera-house",
+            "19th-century"
+          ],
+          "character_archetypes": [
+            "tormented-genius",
+            "innocent-protagonist",
+            "romantic-hero",
+            "tragic-villain"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "adaptation"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "opera-mask",
+            "chandelier",
+            "music-score",
+            "phantom-lair"
+          ],
+          "maturity_and_content": [
+            "emotional-distress"
+          ]
+        },
+        "keyword_sentence": "Set within the opulent Paris Opera House, The Phantom of the Opera is a tragic and romantic musical drama exploring themes of obsession, isolation, and the transformative power of music."
+      },
+      "duration_seconds": 57.781161308288574
+    }
+  }
+}

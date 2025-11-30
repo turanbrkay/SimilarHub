@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Northern Exposure",
+    "overview": "After receiving a scholarship from the state, a recent Columbia University medical school graduate is required to set up his practice in an eccentric Alaskan town.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1990,
+    "vote_count": 131
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Northern Exposure is a quirky, character-driven drama-comedy that explores themes of cultural clash and personal growth. The series follows a young doctor transplanted from New York City to the remote Alaskan town of Cicely, where he encounters a unique cast of characters and grapples with a vastly different way of life. The show's tone is whimsical and philosophical, blending humor with moments of profound introspection. It's a gentle, observational series that celebrates individuality and the beauty of the natural world, offering a comforting and often humorous exploration of finding belonging in unexpected places.",
+        "spoiler_rich_plot_summary": "The series begins with Dr. Joel Fleischman, a recent medical school graduate, being assigned to Cicely, Alaska, as part of a state-sponsored program. Initially resentful of his situation, Joel slowly begins to appreciate the town's eccentric residents and the slower pace of life. Over the series, Joel navigates personal and professional challenges, including romantic relationships with several of the town's women, and confronts his own prejudices and assumptions about rural life. The town itself faces external threats, such as development proposals that could disrupt its unique character. Recurring storylines involve the exploration of the town's history, the spiritual beliefs of its inhabitants, and the ongoing struggle to preserve its identity in a rapidly changing world. While Joel initially seeks to return to New York, he ultimately finds a sense of purpose and belonging in Cicely, embracing the unconventional community and its inhabitants. The series concludes with Joel making a significant life decision that solidifies his commitment to Cicely and its people, suggesting a lasting sense of peace and acceptance.",
+        "categorized_keywords": {
+          "themes": [
+            "cultural-clash",
+            "personal-growth",
+            "community",
+            "belonging",
+            "identity",
+            "acceptance",
+            "small-town-life"
+          ],
+          "plot_and_concepts": [
+            "fish-out-of-water",
+            "eccentric-characters",
+            "spiritual-exploration",
+            "rural-setting",
+            "found-family"
+          ],
+          "mood_and_tone": [
+            "whimsical",
+            "philosophical",
+            "gentle",
+            "humorous",
+            "reflective"
+          ],
+          "genre_and_tropes": [
+            "drama-comedy",
+            "slice-of-life",
+            "small-town-drama",
+            "quirky-comedy"
+          ],
+          "setting": [
+            "alaska",
+            "remote-town",
+            "small-town-usa",
+            "pacific-northwest"
+          ],
+          "character_archetypes": [
+            "fish-out-of-water",
+            "eccentric-villagers",
+            "wise-elder",
+            "reluctant-hero"
+          ],
+          "narrative_style": [
+            "episodic",
+            "character-driven",
+            "slice-of-life"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "alaskan-wilderness",
+            "general-store",
+            "local-radio-station",
+            "totem-pole",
+            "northern-lights"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Northern Exposure is a gentle and humorous drama-comedy that explores themes of cultural clash and personal growth within a quirky, character-driven narrative set in the remote Alaskan wilderness."
+      },
+      "duration_seconds": 69.78407716751099
+    }
+  }
+}

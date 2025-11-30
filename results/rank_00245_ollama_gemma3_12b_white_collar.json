@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "White Collar",
+    "overview": "In exchange for his freedom, charming con artist Neal Caffrey provides his expertise to help straight-man FBI agent Peter Burke catch elusive white-collar criminals.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2009,
+    "vote_count": 1205
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "White Collar is a crime drama series that blends procedural elements with a unique partnership dynamic. The show follows a reformed con artist, Neal Caffrey, who assists an FBI agent, Peter Burke, in solving white-collar crimes, leveraging his skills in deception and manipulation. The series explores themes of redemption, trust, and the blurred lines between right and wrong, offering a lighter, more character-driven approach to the crime genre. The show's charm lies in the evolving relationship between the unlikely duo and the intricate cases they tackle, often with a touch of humor and stylish visuals.",
+        "spoiler_rich_plot_summary": "The series begins with Neal Caffrey, a notorious art thief, captured by FBI agent Peter Burke. In exchange for his freedom, Neal agrees to use his skills to help Peter solve crimes involving other white-collar criminals. Initially, their relationship is fraught with tension and mistrust, as Neal's past actions constantly threaten to undermine Peter's authority. As they work together, a complex bond develops, with Peter increasingly relying on Neal's expertise and Neal finding a sense of purpose in helping others. Throughout the series, Neal's past catches up to him, with former associates and dangerous figures from his criminal life resurfacing, jeopardizing his newfound stability and Peter's career. The cases they handle often involve elaborate schemes, forged documents, and intricate networks of deception, requiring both men to push their skills to the limit. As the series progresses, Neal's motivations become more nuanced, and his desire for redemption clashes with his ingrained instincts. The final season sees a significant shift in their dynamic, culminating in a dramatic event that alters their paths and leaves a lasting impact on their lives, though both ultimately find a measure of peace and resolution.",
+        "categorized_keywords": {
+          "themes": [
+            "redemption",
+            "trust",
+            "deception",
+            "justice",
+            "forgiveness",
+            "second-chances"
+          ],
+          "plot_and_concepts": [
+            "crime-procedural",
+            "cat-and-mouse",
+            "art-theft",
+            "forgery",
+            "white-collar-crime",
+            "unlikely-partnership"
+          ],
+          "mood_and_tone": [
+            "stylish",
+            "charming",
+            "witty",
+            "suspenseful",
+            "lighthearted"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "procedural-drama",
+            "buddy-cop",
+            "reformed-criminal"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day",
+            "art-world"
+          ],
+          "character_archetypes": [
+            "reformed-criminal",
+            "straight-man",
+            "charming-con-artist",
+            "unconventional-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "case-of-the-week",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "art-gallery",
+            "forged-documents",
+            "security-surveillance",
+            "museum-heist",
+            "fbi-field-office"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "White Collar is a stylish crime drama set in New York City, exploring themes of redemption and trust as a charming con artist and a straight-man FBI agent navigate a world of art theft and forged documents."
+      },
+      "duration_seconds": 67.84557390213013
+    }
+  }
+}

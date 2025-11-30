@@ -1,0 +1,89 @@
+{
+  "input_data": {
+    "title": "Watchmen",
+    "overview": "Set in an alternate history where “superheroes” are treated as outlaws, “Watchmen” embraces the nostalgia of the original groundbreaking graphic novel while attempting to break new ground of its own.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2019,
+    "vote_count": 1192
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Watchmen is a complex and morally ambiguous series set in an alternate America where masked vigilantes were outlawed after a devastating event. The show blends superhero action with a sharp political thriller, exploring themes of racial injustice, historical trauma, and the cyclical nature of violence. It deconstructs the superhero genre, questioning the consequences of vigilantism and the burden of legacy. The series offers a dark, suspenseful, and intellectually stimulating experience, challenging viewers to confront uncomfortable truths about power, responsibility, and the fragility of peace.",
+        "spoiler_rich_plot_summary": "The series begins in Tulsa, Oklahoma, nearly 300 years after the events of the original graphic novel, where masked individuals are known as 'squids' and are largely despised. Angela Abar, a police officer living a double life as the vigilante Sister Night, investigates a series of murders targeting former Minutemen. The investigation leads her to uncover a conspiracy involving a white supremacist group called the Seventh Kalvary, who are attempting to resurrect the ideology of Joseph Silkman, a former Minuteman who committed horrific acts. As Angela delves deeper, she discovers that she is directly connected to the events of the past, and her own identity is far more complicated than she initially believed. The narrative weaves together multiple timelines and perspectives, revealing the deep-seated racial tensions and historical injustices that continue to shape the present. The series culminates in a confrontation between Angela and the Seventh Kalvary, forcing her to confront her own past and make difficult choices that will determine the future of the nation. Ultimately, the series explores the enduring legacy of trauma and the ongoing struggle for justice.",
+        "categorized_keywords": {
+          "themes": [
+            "racial-injustice",
+            "historical-trauma",
+            "vigilantism",
+            "legacy",
+            "power",
+            "responsibility",
+            "identity",
+            "conspiracy",
+            "generational-curse"
+          ],
+          "plot_and_concepts": [
+            "alternate-history",
+            "masked-vigilantes",
+            "time-travel",
+            "generational-conflict",
+            "police-procedural",
+            "conspiracy-thriller"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "suspenseful",
+            "noir",
+            "gritty",
+            "philosophical"
+          ],
+          "genre_and_tropes": [
+            "superhero-deconstruction",
+            "political-thriller",
+            "crime-procedural",
+            "alternate-timeline"
+          ],
+          "setting": [
+            "tulsa-oklahoma",
+            "alternate-america",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "vigilante",
+            "anti-hero",
+            "reluctant-hero",
+            "corrupt-authority"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "non-linear-timeline",
+            "multiple-perspectives"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "masks",
+            "police-badge",
+            "silkman-ranch",
+            "squid-costumes",
+            "minutemen-archives"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "racial-themes",
+            "police-brutality"
+          ]
+        },
+        "keyword_sentence": "Watchmen is a dark and suspenseful series exploring themes of racial injustice and the burden of legacy within an alternate America, deconstructing the superhero genre through a complex conspiracy thriller."
+      },
+      "duration_seconds": 68.65794324874878
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "input_data": {
+    "title": "Billy the Kid",
+    "overview": "An epic romantic adventure series based on the life of famous American outlaw Billy the Kid — from his humble Irish roots, to his early days as a cowboy and gunslinger in the American frontier, to his pivotal role in the Lincoln County War and beyond.",
+    "genres": [
+      "Western",
+      "Drama"
+    ],
+    "release_year": 2022,
+    "vote_count": 73
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Billy the Kid is a sprawling Western drama series chronicling the life and legend of the iconic outlaw. The show blends historical events with romantic elements, exploring Billy's journey from a young immigrant to a notorious figure in the American West. It delves into themes of loyalty, betrayal, and the complexities of morality in a lawless frontier, offering a sweeping narrative of ambition, violence, and the forging of a legend. The series aims to portray a nuanced portrait of a man often reduced to myth, examining the circumstances that shaped his destiny and the impact he had on the era.",
+        "spoiler_rich_plot_summary": "The series begins with William Bonney, a young Irish immigrant, arriving in America and experiencing hardship and loss that sets him on a path of survival. He adopts the alias 'Billy the Kid' and becomes entangled in the escalating tensions of the Lincoln County War, a brutal conflict between rival factions vying for control of land and resources. Billy's skills as a gunslinger quickly establish him as a key player, and he finds himself allied with figures like Pat Garrett, whose own motivations become increasingly ambiguous. As the war intensifies, Billy's reputation grows, and he becomes a symbol of defiance against the established order. The narrative follows Billy’s involvement in various conflicts and his evolving relationships with those around him, showcasing the complexities of loyalty and the devastating consequences of violence. The series explores the circumstances that lead to Billy’s eventual demise, portraying a tragic figure caught in the crossfire of ambition and revenge, and leaving a lasting legacy as a symbol of the Wild West.",
+        "categorized_keywords": {
+          "themes": [
+            "revenge",
+            "loyalty",
+            "betrayal",
+            "justice",
+            "survival",
+            "frontier-life",
+            "american-west",
+            "identity-quest"
+          ],
+          "plot_and_concepts": [
+            "western-genre",
+            "gunslinger",
+            "frontier-war",
+            "historical-drama",
+            "outlaw-legend"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "romantic",
+            "epic",
+            "melancholy",
+            "violent"
+          ],
+          "genre_and_tropes": [
+            "western",
+            "historical-fiction",
+            "romantic-adventure",
+            "revenge-story"
+          ],
+          "setting": [
+            "american-west",
+            "19th-century",
+            "new-mexico",
+            "frontier-towns"
+          ],
+          "character_archetypes": [
+            "gunslinger",
+            "outlaw",
+            "reluctant-hero",
+            "lawman",
+            "tragic-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "historical-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "horses",
+            "saloon",
+            "guns",
+            "sheriffs-badge",
+            "cattle-drive"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "adult-themes"
+          ]
+        },
+        "keyword_sentence": "Billy the Kid is a gritty and romantic historical drama series set in the American West, exploring themes of loyalty, betrayal, and survival as it follows the life of a young man who becomes a legendary gunslinger and tragic hero."
+      },
+      "duration_seconds": 70.73131799697876
+    }
+  }
+}

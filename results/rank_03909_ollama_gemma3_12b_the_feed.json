@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "The Feed",
+    "overview": "In the near future, people’s minds are connected to The Feed, giving them instant connectivity. When something or someone invades it, everyone is at risk.",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2019,
+    "vote_count": 29
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Feed is a dystopian science fiction drama exploring the consequences of ubiquitous technological integration. The series centers on a world where a neural network connects people's minds, promising instant communication and shared experiences. However, this seemingly utopian system harbors a dark underbelly, as a sinister force threatens to exploit the network for malicious purposes. The show delves into themes of privacy, control, and the fragility of human connection in an increasingly digital age, offering a suspenseful and unsettling narrative with a focus on psychological tension and character-driven drama.",
+        "spoiler_rich_plot_summary": "The series begins with the introduction of The Feed, a revolutionary technology allowing individuals to connect their minds and share experiences. Tom and Gigi, two lead developers of The Feed, are deeply involved in its creation and initial rollout. As the technology becomes widespread, cracks begin to appear, with users experiencing unsettling glitches and fragmented memories. A mysterious entity begins to infiltrate The Feed, causing widespread panic and chaos. Tom and Gigi discover that the entity is manipulating users and exploiting the network for its own agenda, leading them on a desperate race against time to uncover the truth and stop the threat. The investigation reveals a complex conspiracy involving powerful figures who seek to control The Feed and exploit its capabilities. As Tom and Gigi delve deeper, they face personal betrayals and moral dilemmas, questioning the very nature of their creation and its impact on humanity. The series culminates in a confrontation with the entity, forcing Tom and Gigi to make difficult choices that will determine the fate of The Feed and the future of human connection.",
+        "categorized_keywords": {
+          "themes": [
+            "technology-dependence",
+            "privacy-erosion",
+            "social-control",
+            "human-connection",
+            "dystopian-future",
+            "moral-ambiguity"
+          ],
+          "plot_and_concepts": [
+            "neural-network",
+            "cyber-threat",
+            "conspiracy-thriller",
+            "technological-singularity",
+            "mind-hacking"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "unsettling",
+            "psychological-thriller"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "dystopian",
+            "thriller",
+            "cyberpunk"
+          ],
+          "setting": [
+            "near-future",
+            "urban-environment",
+            "technologically-advanced-society"
+          ],
+          "character_archetypes": [
+            "lead-developer",
+            "reluctant-hero",
+            "moral-grey-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "mystery"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "neural-interface",
+            "shared-memory",
+            "glitch-effect",
+            "security-breach"
+          ],
+          "maturity_and_content": [
+            "psychological-distress",
+            "cyber-violence"
+          ]
+        },
+        "keyword_sentence": "The Feed is a suspenseful science fiction thriller set in a near-future where a neural network connects minds, exploring themes of privacy erosion and social control within a technologically advanced society."
+      },
+      "duration_seconds": 84.03687977790833
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Crime Scene: The Vanishing at the Cecil Hotel",
+    "overview": "The notorious Cecil Hotel grows in infamy when guest Elisa Lam vanishes. A dive into crime's darkest places.",
+    "genres": [
+      "Documentary",
+      "Crime",
+      "Mystery"
+    ],
+    "release_year": 2021,
+    "vote_count": 300
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Crime Scene: The Vanishing at the Cecil Hotel is a documentary series that investigates the disappearance of Elisa Lam, a young Canadian tourist, while she was staying at the infamous Cecil Hotel in Los Angeles. The series blends true crime investigation with a deep dive into the hotel's history of tragedy and its impact on the surrounding community. It explores themes of mental health, urban decay, and the complexities of online perception, offering a chilling portrait of a place steeped in darkness and a cautionary tale about the dangers of sensationalism. The series aims to uncover the truth behind Lam's disappearance while examining the broader context of the Cecil Hotel's unsettling legacy.",
+        "spoiler_rich_plot_summary": "The series begins by establishing the Cecil Hotel's long and troubled history, detailing numerous incidents of violence, death, and despair that have occurred within its walls over the decades. The disappearance of Elisa Lam in 2013 becomes the central mystery, with the series meticulously reconstructing the events leading up to her vanishing. Investigators and witnesses recount their experiences, and the series examines the unsettling security camera footage of Lam in the hotel elevator, which sparked widespread speculation and online theories. The investigation reveals a complex web of potential suspects and motives, including the hotel's troubled management, the presence of other vulnerable guests, and the possibility of foul play. As the series progresses, it explores the online frenzy surrounding Lam's disappearance, highlighting the role of social media in shaping public perception and fueling conspiracy theories. Ultimately, the series reveals the tragic circumstances surrounding Lam's death, acknowledging the limitations of the investigation and the enduring questions that remain unanswered, while emphasizing the hotel's role as a magnet for those seeking refuge and anonymity.",
+        "categorized_keywords": {
+          "themes": [
+            "true-crime",
+            "mystery",
+            "urban-decay",
+            "mental-health",
+            "online-perception",
+            "social-media",
+            "loss",
+            "isolation"
+          ],
+          "plot_and_concepts": [
+            "missing-person",
+            "hotel-mystery",
+            "security-footage",
+            "investigation",
+            "conspiracy-theories"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "chilling",
+            "suspenseful",
+            "unsettling",
+            "somber"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "true-crime",
+            "mystery",
+            "urban-exploration"
+          ],
+          "setting": [
+            "los-angeles",
+            "hotel",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "victim",
+            "investigator",
+            "witness"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "investigative-journalism"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "security-camera",
+            "hotel-lobby",
+            "elevator-footage",
+            "water-tank"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "disturbing-imagery"
+          ]
+        },
+        "keyword_sentence": "Crime Scene: The Vanishing at the Cecil Hotel is a dark and unsettling documentary series that investigates a chilling mystery within a Los Angeles hotel, exploring themes of loss, urban decay, and the complexities of online perception."
+      },
+      "duration_seconds": 62.44037389755249
+    }
+  }
+}

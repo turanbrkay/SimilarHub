@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "The Rookie: Feds",
+    "overview": "Special Agent Simone Clark, the oldest rookie in the FBI, is a force of nature, the living embodiment of a dream deferred – and she works together with her new colleagues at the Los Angeles office of the Bureau to bring down the country’s toughest criminals.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2022,
+    "vote_count": 61
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Rookie: Feds is a procedural crime drama centered on Simone Clark, an older recruit joining the FBI in Los Angeles. The series blends familiar police procedural elements with a focus on character development and the challenges of navigating a new career later in life. It explores themes of mentorship, second chances, and the complexities of law enforcement, offering a generally optimistic and action-oriented viewing experience. The show aims to provide a balance of intense criminal investigations and personal stories within a team dynamic.",
+        "spoiler_rich_plot_summary": "The series begins with Simone Clark, a former probation officer, joining the FBI academy as the oldest rookie. She quickly faces skepticism and challenges from her younger colleagues and superiors. Throughout the first season, Simone and her team investigate a series of high-profile cases, ranging from organized crime to domestic terrorism, while also dealing with personal struggles and professional setbacks. Simone's past experiences as a probation officer often provide unique insights into the criminals they pursue. As the series progresses, Simone confronts difficult moral dilemmas and uncovers corruption within the FBI, forcing her to question her loyalties and fight for justice. The team faces betrayals and losses, but ultimately strengthens their bond and commitment to protecting the city.",
+        "categorized_keywords": {
+          "themes": [
+            "second-chances",
+            "law-enforcement",
+            "teamwork",
+            "justice",
+            "corruption",
+            "mentorship"
+          ],
+          "plot_and_concepts": [
+            "police-procedural",
+            "crime-investigation",
+            "undercover-operation",
+            "federal-agency"
+          ],
+          "mood_and_tone": [
+            "action-oriented",
+            "optimistic",
+            "suspenseful",
+            "serious"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "found-family",
+            "procedural-drama"
+          ],
+          "setting": [
+            "los-angeles",
+            "modern-day",
+            "federal-bureau"
+          ],
+          "character_archetypes": [
+            "older-rookie",
+            "federal-agent",
+            "mentor-figure"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "fbi-headquarters",
+            "crime-scene",
+            "interrogation-room"
+          ],
+          "maturity_and_content": [
+            "graphic-violence"
+          ]
+        },
+        "keyword_sentence": "The Rookie: Feds is a suspenseful crime drama set in modern-day Los Angeles, following an older rookie FBI agent and her team as they navigate complex investigations and confront corruption while striving for justice."
+      },
+      "duration_seconds": 57.184521436691284
+    }
+  }
+}

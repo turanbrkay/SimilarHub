@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Sonic Prime",
+    "overview": "When an explosive battle with Dr. Eggman shatters the universe, Sonic races through parallel dimensions to reconnect with his friends and save the world.",
+    "genres": [
+      "Animation",
+      "Family"
+    ],
+    "release_year": 2022,
+    "vote_count": 261
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Sonic Prime is an animated adventure series geared towards a family audience, following Sonic's journey through fractured dimensions. The series blends action, humor, and heartfelt moments as Sonic attempts to reunite with his friends and restore balance to the multiverse. It explores themes of friendship, perseverance, and the importance of embracing differences while navigating a chaotic and visually dynamic world. The show's tone is generally lighthearted and optimistic, despite the high stakes of its premise, offering a blend of familiar Sonic elements with a fresh narrative structure.",
+        "spoiler_rich_plot_summary": "The series begins with Sonic confronting Dr. Eggman, an event that triggers a catastrophic dimensional rift, scattering Sonic and his friends across various parallel universes. Each dimension presents unique versions of familiar characters and environments, forcing Sonic to adapt and overcome new challenges. He encounters alternate versions of Tails, Knuckles, Amy, and others, some allies and some adversaries. Sonic must collect shards of a powerful artifact to repair the dimensional fractures and return everyone to their proper places. Along the way, he grapples with the consequences of his actions and the responsibility of restoring order. The narrative explores the complexities of choice and consequence as Sonic confronts alternate versions of himself and the potential for darker paths. Ultimately, Sonic must learn to trust his instincts and rely on the help of his friends to overcome the threat and mend the shattered multiverse, facing a final confrontation with Eggman and a deeper understanding of the interconnectedness of all realities.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "perseverance",
+            "alternate-realities",
+            "responsibility",
+            "interconnectedness",
+            "self-discovery"
+          ],
+          "plot_and_concepts": [
+            "multiverse-travel",
+            "dimensional-rift",
+            "alternate-versions",
+            "artifact-quest",
+            "villain-redemption"
+          ],
+          "mood_and_tone": [
+            "optimistic",
+            "humorous",
+            "action-adventure",
+            "lighthearted"
+          ],
+          "genre_and_tropes": [
+            "animated-series",
+            "family-adventure",
+            "parallel-universe",
+            "hero-journey"
+          ],
+          "setting": [
+            "alternate-dimensions",
+            "parallel-worlds",
+            "vibrant-environments"
+          ],
+          "character_archetypes": [
+            "hero",
+            "villain",
+            "loyal-friend",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "alternate-tails",
+            "alternate-knuckles",
+            "dimensional-fragments",
+            "eggman-lair"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Sonic Prime is a lighthearted animated series for families, following a heroic journey through vibrant alternate dimensions as Sonic confronts a villain and strives to restore balance to a shattered multiverse."
+      },
+      "duration_seconds": 61.299657106399536
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "input_data": {
+    "title": "Somebody Feed Phil",
+    "overview": "\"Everybody Loves Raymond\" creator Phil Rosenthal travels the globe to take in the local cuisine and culture of Bangkok, Lisbon, Mexico City and more.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2018,
+    "vote_count": 32
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Somebody Feed Phil is a travel and food documentary series where comedian and writer Phil Rosenthal explores different cultures through their cuisine. The show emphasizes genuine human connection and humor, showcasing local traditions and the warmth of the people Rosenthal encounters. It's a lighthearted and optimistic exploration of global cultures, focusing on the joy of shared meals and the universal language of food. The series offers a refreshing contrast to more cynical travel shows, prioritizing positivity and cultural exchange.",
+        "spoiler_rich_plot_summary": "The series follows Phil Rosenthal as he journeys to various cities around the world, each episode dedicated to a different location. In Bangkok, he immerses himself in the vibrant street food scene, learning traditional cooking techniques and participating in local festivals. Lisbon showcases the city's rich history and seafood specialties, while Mexico City highlights the country's diverse culinary landscape and family traditions. Throughout his travels, Phil engages with local chefs, restaurateurs, and everyday people, sharing meals and experiencing the culture firsthand. The series culminates in a celebration of global interconnectedness and the power of food to bring people together, leaving the viewer with a sense of wanderlust and appreciation for different cultures.",
+        "categorized_keywords": {
+          "themes": [
+            "cultural-exchange",
+            "food-as-connection",
+            "travel-discovery",
+            "humor",
+            "optimism"
+          ],
+          "plot_and_concepts": [
+            "travel-documentary",
+            "food-exploration",
+            "cultural-immersion"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "joyful",
+            "positive"
+          ],
+          "genre_and_tropes": [
+            "travel-show",
+            "food-tourism"
+          ],
+          "setting": [
+            "bangkok-thailand",
+            "lisbon-portugal",
+            "mexico-city-mexico"
+          ],
+          "character_archetypes": [
+            "traveler",
+            "humorist",
+            "cultural-observer"
+          ],
+          "narrative_style": [
+            "episodic-travelogue"
+          ],
+          "target_audience": [
+            "family-audience",
+            "food-lovers"
+          ],
+          "detail_plot": [
+            "street-food-stall",
+            "local-market",
+            "traditional-recipe",
+            "family-meal"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Somebody Feed Phil is a lighthearted and joyful travel documentary series that explores diverse cultures through food, emphasizing the power of shared meals and the warmth of human connection across the globe."
+      },
+      "duration_seconds": 61.95543718338013
+    }
+  }
+}

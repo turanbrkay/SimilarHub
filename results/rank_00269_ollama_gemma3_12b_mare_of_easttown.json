@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Mare of Easttown",
+    "overview": "A detective in a small Pennsylvania town investigates a local murder while trying to keep her life from falling apart.",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Crime"
+    ],
+    "release_year": 2021,
+    "vote_count": 1100
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Mare of Easttown is a gripping crime drama that explores the complexities of grief, trauma, and community in a small Pennsylvania town. The series follows a weary detective grappling with personal demons while investigating a shocking murder, revealing the dark underbelly of a seemingly close-knit community. It blends elements of police procedural with a character-driven narrative, offering a somber and emotionally resonant viewing experience. The show's strength lies in its realistic portrayal of flawed characters and the pervasive sense of unease that permeates the investigation.",
+        "spoiler_rich_plot_summary": "The series centers on Mare Sheehan, a former high school basketball star who remains a detective in the small town of Easttown, Pennsylvania. She is haunted by the unsolved disappearance of her daughter, Erin, years prior, and struggles with the weight of her responsibilities and personal failures. When a young woman is found murdered, Mare is tasked with leading the investigation, which quickly exposes long-held secrets and tensions within the community. As she delves deeper into the case, Mare confronts her own past and the impact it has had on her family and relationships. The investigation reveals a web of interconnected lives and hidden motives, leading Mare to question the people she thought she knew. The series culminates in a shocking revelation about the killer's identity and their connection to the Sheehan family, forcing Mare to confront her past and find a measure of closure. While the case is resolved, the emotional scars remain, highlighting the enduring impact of trauma and loss.",
+        "categorized_keywords": {
+          "themes": [
+            "grief",
+            "trauma",
+            "family-secrets",
+            "community-dynamics",
+            "redemption",
+            "small-town-life",
+            "loss"
+          ],
+          "plot_and_concepts": [
+            "police-investigation",
+            "murder-mystery",
+            "cold-case",
+            "serial-killer",
+            "missing-person"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "gritty",
+            "suspenseful",
+            "dark",
+            "realistic"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "small-town-mystery",
+            "slow-burn",
+            "noir"
+          ],
+          "setting": [
+            "pennsylvania",
+            "small-town-usa",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "flawed-heroine",
+            "grieving-mother",
+            "small-town-detective",
+            "morally-gray-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "basketball-court",
+            "interrogation-room",
+            "small-town-bar",
+            "missing-person-poster"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "substance-abuse",
+            "emotional-distress"
+          ]
+        },
+        "keyword_sentence": "Mare of Easttown is a somber and gritty crime drama set in a small Pennsylvania town, exploring themes of grief, trauma, and family secrets through the eyes of a flawed detective grappling with personal loss and a shocking murder investigation."
+      },
+      "duration_seconds": 60.57391715049744
+    }
+  }
+}

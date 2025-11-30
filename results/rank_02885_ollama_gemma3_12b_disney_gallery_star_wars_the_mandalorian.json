@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "Disney Gallery / Star Wars: The Mandalorian",
+    "overview": "Executive producer Jon Favreau invites the cast and crew of The Mandalorian to share an unprecedented look at the making of the series. Each chapter explores a different facet of the first live-action Star Wars television show through interviews, never-before-seen footage, and roundtable conversations hosted by Favreau himself.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2020,
+    "vote_count": 51
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Disney Gallery / The Mandalorian is a documentary series offering an in-depth look at the production of the Star Wars television series, The Mandalorian. Hosted by Jon Favreau, it provides behind-the-scenes insights through interviews, unused footage, and roundtable discussions. The series appeals to both casual viewers and dedicated Star Wars fans, offering a unique perspective on the creative process and technical challenges of bringing a new Star Wars story to life. It blends documentary filmmaking with the established Star Wars aesthetic, creating a compelling and informative experience. The series emphasizes the collaborative nature of filmmaking and the passion behind the project.",
+        "spoiler_rich_plot_summary": "The documentary series chronicles the creation of The Mandalorian, beginning with the initial concept and development of the show's premise. Jon Favreau and the team discuss the challenges of establishing a new Star Wars era and creating a believable world. Early discussions revolve around the character of Din Djarin, the Mandalorian bounty hunter, and his journey. The series showcases the evolution of the visual effects, costume design, and set construction, highlighting the meticulous attention to detail required to maintain the Star Wars aesthetic. As the production progresses, the documentary explores the casting process, the development of supporting characters like Grogu, and the complexities of balancing fan expectations with creative vision. The series culminates in a celebration of the collaborative effort that brought The Mandalorian to life, showcasing the dedication and artistry of the entire production team.",
+        "categorized_keywords": {
+          "themes": [
+            "filmmaking-process",
+            "creative-collaboration",
+            "fan-expectation",
+            "world-building",
+            "character-development"
+          ],
+          "plot_and_concepts": [
+            "behind-the-scenes",
+            "documentary-film",
+            "star-wars-universe",
+            "production-design"
+          ],
+          "mood_and_tone": [
+            "informative",
+            "celebratory",
+            "enthusiastic",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "making-of-documentary",
+            "behind-the-camera",
+            "star-wars-franchise"
+          ],
+          "setting": [
+            "film-studio",
+            "modern-day",
+            "star-wars-galaxy"
+          ],
+          "character_archetypes": [
+            "creative-visionary",
+            "filmmaker",
+            "actor"
+          ],
+          "narrative_style": [
+            "chronological-narrative",
+            "interview-format"
+          ],
+          "target_audience": [
+            "star-wars-fans",
+            "filmmaking-enthusiasts"
+          ],
+          "detail_plot": [
+            "costume-design",
+            "visual-effects",
+            "set-construction",
+            "interview-footage"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Disney Gallery / The Mandalorian is an informative and celebratory documentary series that explores the creative collaboration and meticulous production design behind the making of a new chapter in the beloved Star Wars franchise."
+      },
+      "duration_seconds": 55.58787560462952
+    }
+  }
+}

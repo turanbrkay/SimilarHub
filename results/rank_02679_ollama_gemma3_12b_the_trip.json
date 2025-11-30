@@ -1,0 +1,69 @@
+{
+  "input_data": {
+    "title": "The Trip",
+    "overview": "Steve agrees to review six restaurants and takes Rob with him.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2010,
+    "vote_count": 59
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Trip is a comedic road movie series following travel writer Steve Coogan as he reluctantly agrees to write a review of six restaurants for a magazine, bringing along his long-time friend and comedic foil, Rob Brydon. The series blends observational humor, improvisational banter, and mock celebrity impressions, creating a uniquely awkward and hilarious dynamic between the two leads. It's a character-driven comedy that explores themes of friendship, ego, and the pressures of creativity, all while showcasing the beautiful landscapes of the British countryside. The series thrives on the chemistry between Coogan and Brydon, who constantly challenge and undermine each other, resulting in a consistently funny and insightful experience.",
+        "spoiler_rich_plot_summary": "The initial premise sees Steve Coogan, a celebrated food critic, tasked with writing a series of restaurant reviews for a magazine. To avoid loneliness on the journey, he invites his friend Rob Brydon along. Throughout their travels, the two engage in playful competition, impersonating celebrities and dissecting each other's personalities. Their journey is punctuated by encounters with locals and humorous situations arising from their attempts to maintain a professional facade while simultaneously indulging in their comedic rivalry. As the trip progresses, the lines between their public personas and their genuine feelings blur, revealing vulnerabilities and insecurities. The series culminates in a final meal where the two confront their complicated friendship, acknowledging the underlying affection and respect that binds them despite their constant bickering. The ending suggests a continuation of their dynamic, hinting at future adventures and the enduring nature of their unique bond.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "ego",
+            "celebrity-culture",
+            "travel",
+            "self-discovery",
+            "rivalry"
+          ],
+          "plot_and_concepts": [
+            "road-trip",
+            "mock-celebrity-impressions",
+            "improvised-dialogue",
+            "food-criticism"
+          ],
+          "mood_and_tone": [
+            "comedic",
+            "awkward",
+            "observational",
+            "lighthearted"
+          ],
+          "genre_and_tropes": [
+            "comedy",
+            "mockumentary",
+            "buddy-comedy"
+          ],
+          "setting": [
+            "british-countryside",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "comedic-duo",
+            "cynical-intellectual",
+            "charming-personality"
+          ],
+          "narrative_style": [
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "restaurant-reviews",
+            "british-landscapes",
+            "celebrity-impersonations"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Trip is a comedic road movie series that explores themes of friendship and ego through improvised dialogue and celebrity impersonations set against the backdrop of the British countryside."
+      },
+      "duration_seconds": 57.27558898925781
+    }
+  }
+}

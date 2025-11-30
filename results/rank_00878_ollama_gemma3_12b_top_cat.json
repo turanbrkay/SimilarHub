@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Top Cat",
+    "overview": "Top Cat is a Hanna-Barbera prime time animated television series which ran from November 26, 1961 to April 18, 1962 for a run of 30 episodes on the ABC network. Reruns are played on Cartoon Network's classic animation network Boomerang.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Kids"
+    ],
+    "release_year": 1961,
+    "vote_count": 304
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Top Cat is a comedic animated series centered around a charismatic alley cat and his band of feline companions. The show employs a fast-paced, improvisational style of humor, drawing inspiration from classic sitcoms and heist films. It's a lighthearted and energetic show aimed at a younger audience, emphasizing slapstick and playful mischief. The series' enduring appeal lies in its relatable characters and timeless comedic formula, offering a consistently entertaining experience.",
+        "spoiler_rich_plot_summary": "The series follows Top Cat, a street-smart and ambitious feline who constantly devises elaborate schemes to get rich or gain recognition, often with the reluctant assistance of his friends: Benny the Bull, Choo-Choo, Muffin, and Spook. Each episode typically involves a new plan that goes hilariously wrong, leading to chaotic situations and close calls with the perpetually frustrated Officer Dibble. While the characters face numerous setbacks and misunderstandings, the underlying theme revolves around friendship and loyalty, as the cats consistently band together despite their individual quirks and ambitions. The series maintains a consistent episodic structure, avoiding overarching narratives or significant character development, ensuring a familiar and comforting viewing experience throughout its run.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "ambition",
+            "mischief",
+            "loyalty",
+            "urban-life"
+          ],
+          "plot_and_concepts": [
+            "heist-comedy",
+            "slapstick-humor",
+            "episodic-format",
+            "cat-and-mouse"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "energetic",
+            "comedic",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "sitcom",
+            "kids-comedy"
+          ],
+          "setting": [
+            "urban-environment",
+            "alleyways",
+            "city-life"
+          ],
+          "character_archetypes": [
+            "trickster",
+            "leader",
+            "sidekick",
+            "comic-relief"
+          ],
+          "narrative_style": [
+            "episodic-storytelling"
+          ],
+          "target_audience": [
+            "kids",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "police-hat",
+            "alley-cat",
+            "cartoon-background",
+            "comic-book-style"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Top Cat is a lighthearted and energetic animated series that follows a group of feline friends as they engage in mischievous schemes and comedic adventures within a vibrant urban environment."
+      },
+      "duration_seconds": 54.67723035812378
+    }
+  }
+}

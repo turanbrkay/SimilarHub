@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Oliver Twist",
+    "overview": "Oliver is born into poverty and misfortune - the son of an unmarried mother, who dies shortly after his birth. He is soon delivered to the workhouse, where the cruel Mr. Bumble oversees children tormented by starvation and suffering. When Oliver dares to ask for more gruel, he finds himself cast out and forced to make his own way in the world...",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2007,
+    "vote_count": 79
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Oliver Twist is a period drama adaptation of Charles Dickens' classic novel, exploring themes of poverty, social injustice, and the search for identity. The series follows a young orphan's journey through the criminal underworld of Victorian London, highlighting the stark contrast between the wealthy elite and the desperate poor. It's a story of resilience and hope amidst hardship, examining the corrupting influence of greed and the enduring power of human connection. The series blends elements of social commentary with a compelling narrative of survival and self-discovery, offering a poignant reflection on the complexities of Victorian society.",
+        "spoiler_rich_plot_summary": "The story begins with Oliver's birth and subsequent abandonment, leading to a harsh upbringing in a workhouse under the oppressive rule of Mr. Bumble. After daring to ask for more food, Oliver is sent to London, falling into the clutches of Fagin, a criminal who runs a gang of young pickpockets. Oliver is unwittingly drawn into a life of crime, and his innocence is constantly threatened by the dangers surrounding him. He is rescued by Mr. Brownlow, who believes him to be a lost child, but Oliver is soon recaptured by Fagin and his associates, including the menacing Bill Sikes and his volatile girlfriend, Nancy. As Oliver's true parentage is gradually revealed, a complex web of secrets and betrayals unfolds, involving a wealthy family and a long-lost inheritance. Nancy, torn between her loyalty to Fagin and her growing sympathy for Oliver, makes a pivotal decision that ultimately leads to a confrontation with the criminal underworld and a resolution that brings a measure of justice and a chance for a new life for the young protagonist.",
+        "categorized_keywords": {
+          "themes": [
+            "poverty",
+            "social-injustice",
+            "identity-quest",
+            "redemption",
+            "innocence",
+            "corruption",
+            "family-loyalty",
+            "class-conflict"
+          ],
+          "plot_and_concepts": [
+            "orphan-story",
+            "crime-underworld",
+            "found-family",
+            "inheritance-plot",
+            "mystery",
+            "betrayal"
+          ],
+          "mood_and_tone": [
+            "grim",
+            "somber",
+            "melancholy",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "period-drama",
+            "social-realism",
+            "coming-of-age",
+            "crime-procedural"
+          ],
+          "setting": [
+            "victorian-london",
+            "workhouse",
+            "london-streets"
+          ],
+          "character_archetypes": [
+            "orphan",
+            "villain",
+            "anti-hero",
+            "wise-mentor",
+            "femme-fatale"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "workhouse",
+            "pickpocket-gang",
+            "london-alleyways",
+            "gentleman-estate"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "abuse-themes"
+          ]
+        },
+        "keyword_sentence": "Set against the backdrop of Victorian London, Oliver Twist is a grim and suspenseful period drama exploring themes of poverty, social injustice, and the search for identity through the harrowing journey of an orphaned boy caught in a web of crime and corruption."
+      },
+      "duration_seconds": 69.37715148925781
+    }
+  }
+}

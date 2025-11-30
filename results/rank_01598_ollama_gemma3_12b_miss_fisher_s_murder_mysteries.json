@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Miss Fisher's Murder Mysteries",
+    "overview": "Our lady sleuth sashays through the back lanes and jazz clubs of late 1920’s Melbourne, fighting injustice with her pearl handled pistol and her dagger sharp wit. Leaving a trail of admirers in her wake, our thoroughly modern heroine makes sure she enjoys every moment of her lucky life. Based on author Kerry Greenwood's Phryne Fisher Murder Mystery novels.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2012,
+    "vote_count": 131
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Miss Fisher's Murder Mysteries is a stylish and charming crime drama set in 1920s Melbourne, Australia. The series blends elements of classic whodunit mysteries with a strong dose of period glamour and a progressive female protagonist. It offers a lighthearted yet intelligent exploration of social issues and gender roles through the lens of a captivating murder investigation. The show's appeal lies in its blend of suspense, wit, and a celebration of a woman defying conventions in a rapidly changing world.",
+        "spoiler_rich_plot_summary": "The series follows Phryne Fisher, a wealthy and independent woman who becomes a private detective. The initial episodes establish her unconventional lifestyle and her determination to solve crimes often overlooked by the police. Early cases involve a variety of suspects and motives, ranging from petty theft to more complex conspiracies. As the series progresses, Phryne becomes entangled in larger, more dangerous plots, often involving political intrigue and connections to Melbourne's elite. She builds a team of loyal assistants, including Inspector Lestrade and the young Bert Tilman, forming a found family that supports her investigations. Throughout the series, Phryne confronts personal challenges, including the mysteries surrounding her own family history and the complexities of romantic relationships. While she consistently brings criminals to justice, the series explores the darker side of Melbourne society and the enduring consequences of past events, ultimately leaving a lasting impact on the city and its inhabitants.",
+        "categorized_keywords": {
+          "themes": [
+            "female-empowerment",
+            "social-justice",
+            "class-conflict",
+            "mystery",
+            "found-family",
+            "justice"
+          ],
+          "plot_and_concepts": [
+            "whodunit",
+            "private-investigation",
+            "historical-mystery",
+            "crime-solving"
+          ],
+          "mood_and_tone": [
+            "stylish",
+            "charming",
+            "lighthearted",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "historical-drama",
+            "strong-female-lead",
+            "period-drama"
+          ],
+          "setting": [
+            "1920s-melbourne",
+            "australia",
+            "historical-setting"
+          ],
+          "character_archetypes": [
+            "independent-woman",
+            "detective",
+            "loyal-friend",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-mysteries"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "crime-fans"
+          ],
+          "detail_plot": [
+            "pearl-handled-pistol",
+            "jazz-clubs",
+            "vintage-fashion",
+            "inspector-lestrade"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Miss Fisher's Murder Mysteries is a stylish and charming crime drama set in 1920s Melbourne, where a strong female lead investigates mysteries with wit and determination, blending historical drama with a lighthearted and suspenseful tone."
+      },
+      "duration_seconds": 63.89635443687439
+    }
+  }
+}

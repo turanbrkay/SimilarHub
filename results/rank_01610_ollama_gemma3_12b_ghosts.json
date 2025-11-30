@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Ghosts",
+    "overview": "A cash-strapped young couple inherits a grand country house, only to find it is both falling apart and teeming with the ghosts of former inhabitants.",
+    "genres": [
+      "Comedy",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2019,
+    "vote_count": 130
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Ghosts is a British sitcom that blends comedic elements with supernatural themes. The series follows a young couple who inherit a dilapidated country estate and discover it's populated by a diverse group of ghosts from different historical periods. The humor derives from the clash of modern sensibilities with the eccentricities of the spectral residents, exploring themes of family, belonging, and adapting to unexpected circumstances. The show maintains a lighthearted tone while subtly examining societal changes and the enduring human need for connection.",
+        "spoiler_rich_plot_summary": "The series begins with Alison Cooper and Mike Cooper, a struggling couple, inheriting Button House, a historic estate they plan to renovate into a luxury hotel. They quickly discover the house is already occupied – by a multitude of ghosts, each representing a different era in British history. Initially, the ghosts are invisible and unheard by the living, creating chaotic and comedic situations as Alison and Mike attempt to renovate the house while navigating the spectral inhabitants’ antics. As the couple learns to communicate with the ghosts, they become increasingly involved in their unfinished business and the historical events that shaped their lives. Throughout the series, the ghosts grapple with their past regrets and the challenges of existing in a world that has moved on, while Alison and Mike strive to balance their renovation plans with the needs of their unusual housemates. The series explores the complexities of intergenerational relationships and the importance of understanding different perspectives, even when separated by centuries.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "historical-context",
+            "acceptance",
+            "mortality",
+            "belonging",
+            "generational-divide"
+          ],
+          "plot_and_concepts": [
+            "ghosts",
+            "time-period-drama",
+            "renovation-project",
+            "fish-out-of-water",
+            "sitcom-format"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "quirky",
+            "comedic",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "supernatural-comedy",
+            "found-family",
+            "historical-fiction"
+          ],
+          "setting": [
+            "british-countryside",
+            "historic-house",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "eccentric-characters",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "historic-house",
+            "renovation-plans",
+            "spectral-residents"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Ghosts blends lighthearted comedy with historical context, following a family’s journey of acceptance and belonging as they navigate the quirks of a spectral housemates in the British countryside."
+      },
+      "duration_seconds": 60.32948279380798
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "The Ripper",
+    "overview": "For five years, from 1975 to 1980, the Yorkshire Ripper murders cast a dark shadow over the lives of women in the North of England. 13 women were dead and the police seemed incapable of catching the killer. No one felt safe – and every man was a suspect.",
+    "genres": [
+      "Documentary",
+      "Crime"
+    ],
+    "release_year": 2020,
+    "vote_count": 54
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Ripper is a documentary series examining the infamous Yorkshire Ripper murders that terrorized Northern England in the late 1970s. Through interviews, archival footage, and forensic analysis, the series delves into the police investigation, the impact on victims' families, and the societal anxieties surrounding the case. It aims to provide a comprehensive look at a period of intense fear and the ongoing search for answers. The series blends true crime elements with a focus on the human cost of violent crime and the challenges of law enforcement. It offers a chilling exploration of a dark chapter in British history.",
+        "spoiler_rich_plot_summary": "The series chronicles the five-year reign of terror inflicted by the Yorkshire Ripper, beginning in 1975. Initially, the murders were attributed to a copycat killer, but as the body count rose, it became clear that a single perpetrator was responsible. The police investigation faced numerous setbacks, including false leads and misdirection, fueled by the killer’s ability to evade capture. The series highlights the public’s growing panic and the intense scrutiny placed on men across the region. The investigation involved numerous suspects, and the series explores the impact of these accusations on innocent individuals and families. As the case progressed, the police employed various strategies, including undercover operations and public appeals, but the Ripper remained elusive. The series culminates in a recounting of the eventual arrest and trial of the perpetrator, revealing the complexities of the case and the long-lasting impact on the communities affected.",
+        "categorized_keywords": {
+          "themes": [
+            "true-crime",
+            "fear",
+            "justice",
+            "police-investigation",
+            "social-anxiety",
+            "victimhood",
+            "miscarriage-of-justice"
+          ],
+          "plot_and_concepts": [
+            "serial-killer",
+            "police-procedural",
+            "false-leads",
+            "undercover-operation",
+            "public-appeal"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "suspenseful",
+            "grim",
+            "disturbing"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "true-crime",
+            "crime-procedural"
+          ],
+          "setting": [
+            "northern-england",
+            "1970s",
+            "yorkshire"
+          ],
+          "character_archetypes": [
+            "detective",
+            "victim",
+            "suspect"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "investigative-journalism"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "crime-scene",
+            "police-badge",
+            "newspaper-headlines",
+            "interview-room"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "sexual-content",
+            "disturbing-imagery"
+          ]
+        },
+        "keyword_sentence": "The Ripper is a dark and suspenseful documentary series exploring the true crime events and widespread fear that gripped Northern England during the 1970s, as a serial killer evaded police investigation and left a legacy of disturbing imagery."
+      },
+      "duration_seconds": 67.75494742393494
+    }
+  }
+}

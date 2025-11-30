@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Pistol",
+    "overview": "The story of a band of spotty, noisy, working-class kids with “no future,” who shook the boring, corrupt Establishment to its core, threatened to bring down the government and changed music and culture forever.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2022,
+    "vote_count": 71
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Pistol is a biographical drama series chronicling the formation and rise of the iconic British punk band, the Sex Pistols. The series explores the socio-cultural landscape of 1970s Britain, highlighting the frustration and rebellion felt by a generation facing economic hardship and social stagnation. Through a raw and visceral portrayal, the show examines the band's impact on music, fashion, and politics, and the complex relationships between its members. It's a gritty and energetic exploration of a pivotal moment in British history, driven by a desire to challenge the status quo and create something new.",
+        "spoiler_rich_plot_summary": "The series begins with Malcolm McLaren, a flamboyant and manipulative figure, seeking to ignite a revolution through music. He recruits a group of disaffected youth, including Steve Jones, Paul Cook, and Glen Matlock, and together they form the Sex Pistols. The band's early performances are chaotic and confrontational, quickly attracting attention and controversy. As the band gains notoriety, internal tensions begin to surface, fueled by ego clashes, drug abuse, and differing artistic visions. Sid Vicious joins the band, further exacerbating the instability. The Sex Pistols' provocative lyrics and rebellious attitude challenge societal norms, leading to clashes with authorities and widespread condemnation. Despite achieving commercial success, the band's internal conflicts and Sid Vicious's descent into chaos ultimately lead to their abrupt and tumultuous end, leaving a lasting legacy on the music world.",
+        "categorized_keywords": {
+          "themes": [
+            "rebellion",
+            "social-commentary",
+            "identity-quest",
+            "class-conflict",
+            "music-scene",
+            "counter-culture"
+          ],
+          "plot_and_concepts": [
+            "band-formation",
+            "rise-to-fame",
+            "punk-rock",
+            "music-industry",
+            "cultural-revolution"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "energetic",
+            "provocative",
+            "chaotic",
+            "rebellious"
+          ],
+          "genre_and_tropes": [
+            "biographical-drama",
+            "music-biography",
+            "punk-rock-genre",
+            "counter-culture-movement"
+          ],
+          "setting": [
+            "1970s-britain",
+            "london-city",
+            "punk-rock-scene"
+          ],
+          "character_archetypes": [
+            "rebellious-protagonist",
+            "manipulative-mentor",
+            "troubled-musician",
+            "anti-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "sex-pistols-band",
+            "malcolm-mclaren",
+            "sid-vicious",
+            "punk-fashion",
+            "riot-scene"
+          ],
+          "maturity_and_content": [
+            "drug-abuse",
+            "profanity",
+            "violence"
+          ]
+        },
+        "keyword_sentence": "Pistol is a gritty biographical drama set in 1970s Britain, exploring themes of rebellion and social commentary through the rise of a band challenging the status quo with punk rock and provocative performances."
+      },
+      "duration_seconds": 66.53998923301697
+    }
+  }
+}

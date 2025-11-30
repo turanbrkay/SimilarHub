@@ -1,0 +1,69 @@
+{
+  "input_data": {
+    "title": "Jeopardy!",
+    "overview": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and must phrase their responses in question form.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 1984,
+    "vote_count": 115
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Jeopardy! is a long-running American game show that presents general knowledge questions in an inverted format, challenging contestants to formulate answers as questions. The show's unique structure and emphasis on quick recall and intellectual agility have made it a cultural institution, appealing to a broad audience with its blend of education and entertainment. Its enduring popularity stems from its ability to reward knowledge and wit while maintaining a consistently engaging and accessible format. The show's format encourages active participation and rewards a wide range of academic and cultural knowledge.",
+        "spoiler_rich_plot_summary": "The show's premise remains consistent throughout its run: three contestants compete to answer trivia questions posed as statements. Each round increases in point value, and the contestant with the highest score at the end of the Jeopardy! round advances to the Daily Double round, where they can wager points on a single question. The show culminates in the Final Jeopardy! round, where all contestants wager on a single question. The winner is the contestant with the highest score after Final Jeopardy!, and they return to compete in subsequent episodes. The show's longevity is due to its simple, yet compelling, structure and the constant influx of new contestants and categories, ensuring a fresh and challenging experience for both players and viewers.",
+        "categorized_keywords": {
+          "themes": [
+            "knowledge-competition",
+            "intellectual-pursuit",
+            "game-theory",
+            "quick-recall"
+          ],
+          "plot_and_concepts": [
+            "quiz-show",
+            "inverted-format",
+            "daily-double",
+            "final-jeopardy"
+          ],
+          "mood_and_tone": [
+            "intellectual",
+            "fast-paced",
+            "competitive",
+            "engaging"
+          ],
+          "genre_and_tropes": [
+            "game-show",
+            "trivia",
+            "educational-entertainment"
+          ],
+          "setting": [
+            "television-studio",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "quiz-contestant",
+            "game-show-host"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-competition"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "buzzer",
+            "game-board",
+            "host-desk",
+            "category-titles"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Jeopardy! is a long-running, fast-paced game show that tests adult and family audiences' knowledge through a unique, inverted format and competitive gameplay."
+      },
+      "duration_seconds": 55.59371495246887
+    }
+  }
+}

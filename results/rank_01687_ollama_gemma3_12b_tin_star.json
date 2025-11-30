@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Tin Star",
+    "overview": "The story of Jim Worth, an expat British police officer starting a new life with his family as police chief in Little Big Bear, an idyllic town near the Rocky Mountains. When his small town is overrun by migrant workers from a massive new oil refinery – the wave of drugs, prostitution and organised crime that follows them threatens to sweep away everything in its wake.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2017,
+    "vote_count": 123
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Tin Star is a crime drama series centered on Jim Worth, a former British police officer seeking a fresh start in a remote Canadian town. The series explores themes of justice, family, and the corrosive effects of corruption and violence in a seemingly idyllic setting. As Jim attempts to maintain order, he confronts a complex web of criminal activity linked to a burgeoning oil refinery, forcing him to confront his own past and make difficult choices that blur the lines between law and vengeance. The show blends procedural elements with a character-driven narrative, creating a tense and morally ambiguous atmosphere.",
+        "spoiler_rich_plot_summary": "The series begins with Jim Worth relocating to Little Big Bear, Alberta, to escape a troubled past in London. He assumes the role of police chief, initially finding the town peaceful. However, the arrival of migrant workers for a nearby oil refinery disrupts the tranquility, bringing with it a surge in crime, including drug trafficking and prostitution. Jim struggles to contain the escalating violence while battling his own demons and protecting his family. As the series progresses, it is revealed that Jim's past is far more complicated than he initially let on, and his attempts to uphold the law are intertwined with a larger conspiracy involving powerful figures in the oil industry. The first season culminates in a devastating event that forces Jim to confront his past and embrace a darker path. Subsequent seasons expand the scope of the conflict, introducing new characters and exploring the wider implications of the corruption and violence that plague the region, with Jim's actions having far-reaching consequences for himself and those around him.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "family",
+            "corruption",
+            "revenge",
+            "redemption",
+            "moral-ambiguity",
+            "isolation"
+          ],
+          "plot_and_concepts": [
+            "crime-procedural",
+            "police-investigation",
+            "oil-industry",
+            "small-town-crime",
+            "conspiracy"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "tense",
+            "gritty",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "neo-western",
+            "revenge-story"
+          ],
+          "setting": [
+            "canadian-rockies",
+            "small-town",
+            "remote-location"
+          ],
+          "character_archetypes": [
+            "expatriate",
+            "anti-hero",
+            "corrupt-official",
+            "reluctant-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "character-driven"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "oil-refinery",
+            "police-station",
+            "small-town-bar",
+            "migrant-workers"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "drug-use",
+            "sexual-content"
+          ]
+        },
+        "keyword_sentence": "Set against the backdrop of the Canadian Rockies, Tin Star is a dark and suspenseful crime drama exploring themes of justice, corruption, and revenge as a former British police officer confronts a wave of violence linked to the oil industry."
+      },
+      "duration_seconds": 67.83420848846436
+    }
+  }
+}

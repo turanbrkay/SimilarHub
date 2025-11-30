@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "The Benny Hill Show",
+    "overview": "The Benny Hill Show is a British comedy television show that starred Benny Hill and aired in various incarnations between 15 January 1955 and 30 May 1991 in over 140 countries. The show focused on sketches that were full of slapstick, mime, parody, and double-entendre. Thames Television cancelled production of the show in 1989 due to declining ratings and large production costs at £450,000 per show.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1969,
+    "vote_count": 132
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Benny Hill Show is a long-running British sitcom known for its fast-paced, slapstick comedy and suggestive humor. The show's format revolves around a series of short, often absurd sketches featuring Benny Hill and a recurring cast of characters. Its appeal lies in its broad, accessible humor and its ability to satirize social norms and celebrity culture. While immensely popular for decades, the show faced criticism for its portrayal of women and its reliance on dated comedic tropes, ultimately leading to its cancellation due to declining ratings and rising production costs.",
+        "spoiler_rich_plot_summary": "The Benny Hill Show didn't follow a traditional narrative arc. Instead, each episode consisted of a series of unconnected sketches, often involving Benny Hill's character pursuing attractive women in humorous and often chaotic situations. Recurring themes included mistaken identities, workplace shenanigans, and parodies of popular trends and celebrities. The show's humor was largely physical and relied on visual gags, double entendres, and a fast-paced delivery. While there were some recurring characters and running jokes, there was no overarching plot or character development. The show's longevity stemmed from its ability to consistently deliver familiar comedic formulas, but its reliance on these formulas eventually contributed to its decline in popularity and eventual cancellation.",
+        "categorized_keywords": {
+          "themes": [
+            "satire",
+            "physical-comedy",
+            "social-commentary",
+            "double-entendre",
+            "celebrity-parody"
+          ],
+          "plot_and_concepts": [
+            "sketch-comedy",
+            "running-gags",
+            "mistaken-identity",
+            "slapstick"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "fast-paced",
+            "absurd",
+            "cheeky"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "sketch-comedy",
+            "physical-comedy"
+          ],
+          "setting": [
+            "british-humor",
+            "1960s-setting",
+            "1970s-setting",
+            "1980s-setting"
+          ],
+          "character_archetypes": [
+            "comedian",
+            "pursuer",
+            "recurring-cast"
+          ],
+          "narrative_style": [
+            "episodic",
+            "sketch-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "pursuit-scene",
+            "costume-change",
+            "stage-set",
+            "recurring-props"
+          ],
+          "maturity_and_content": [
+            "sexual-content",
+            "suggestive-humor"
+          ]
+        },
+        "keyword_sentence": "The Benny Hill Show, a long-running British sitcom, delivered lighthearted and fast-paced sketch comedy through suggestive humor and recurring gags, often satirizing social norms and celebrity culture."
+      },
+      "duration_seconds": 61.00690531730652
+    }
+  }
+}

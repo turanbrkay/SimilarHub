@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "LEGO Jurassic World: Legend of Isla Nublar",
+    "overview": "Set in 2012, three years before the Jurassic World movie, Owen Grady and Claire Dearing team up on Isla Nublar to deal with everything the Jurassic World park throws their way, including a mysterious saboteur who wants to destroy the park forever!",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Family",
+      "Kids",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2019,
+    "vote_count": 79
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "LEGO Jurassic World: Legend of Isla Nublar is a lighthearted animated action-adventure series set within the Jurassic World universe. Targeted towards a younger audience and families, the show blends familiar Jurassic Park/World lore with the signature humor and construction-based gameplay of LEGO. The narrative focuses on Owen Grady and Claire Dearing as they navigate the challenges of running Isla Nublar, facing both dinosaur-related incidents and a mysterious saboteur threatening the park's existence. The series emphasizes teamwork, problem-solving, and the joy of imaginative play, offering a safe and entertaining experience for children and fans of the franchise.",
+        "spoiler_rich_plot_summary": "The series begins in 2012, three years before Jurassic World opens, with Owen Grady and Claire Dearing newly employed at Isla Nublar. They quickly discover that running a dinosaur theme park is far from simple, dealing with escaped dinosaurs, malfunctioning systems, and the constant need for quick thinking. A mysterious saboteur begins targeting the park, causing chaos and attempting to shut down operations. Owen and Claire, along with a rotating cast of supporting characters, must uncover the saboteur's identity and motives while simultaneously managing the day-to-day challenges of the park. Throughout the series, they encounter various dinosaurs, some familiar from the films and others entirely new creations, each presenting unique obstacles. The saboteur's plans escalate, revealing a deeper conspiracy that threatens not only Isla Nublar but potentially the future of dinosaur-based entertainment. The series culminates in a confrontation where Owen and Claire must use their combined skills and ingenuity to thwart the saboteur's ultimate goal and secure the park's survival, setting the stage for the events of Jurassic World.",
+        "categorized_keywords": {
+          "themes": [
+            "teamwork",
+            "problem-solving",
+            "adventure",
+            "friendship",
+            "mystery",
+            "conspiracy"
+          ],
+          "plot_and_concepts": [
+            "sabotage",
+            "dinosaur-park",
+            "mystery-solving",
+            "dinosaur-escape",
+            "conspiracy-thriller"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "humorous",
+            "family-friendly",
+            "action-adventure"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "action-adventure",
+            "family-audience",
+            "lego-humor",
+            "mystery-thriller"
+          ],
+          "setting": [
+            "isla-nublar",
+            "modern-day",
+            "dinosaur-park"
+          ],
+          "character_archetypes": [
+            "resourceful-protagonist",
+            "skilled-operator",
+            "enigmatic-antagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "lego-construction",
+            "dinosaur-enclosure",
+            "control-room",
+            "park-entrance"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "LEGO Jurassic World: Legend of Isla Nublar is a lighthearted, animated action-adventure series for families, set on a dinosaur park where resourceful protagonists must solve mysteries and thwart a saboteur while embracing the playful spirit of LEGO construction."
+      },
+      "duration_seconds": 66.80699706077576
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "input_data": {
+    "title": "The Act",
+    "overview": "A seasonal anthology series that tells startling, stranger-than-fiction true crime stories with the first season following Gypsy Blanchard, a girl trying to escape the toxic relationship she has with her overprotective mother.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "release_year": 2019,
+    "vote_count": 4899
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Act presents a chilling, documentary‑style dramatization of the real‑life case of Gypsy Blanchard, whose years of abuse by her mother Dee‑Dee culminate in a shocking murder and a subsequent confession. The series explores themes of toxic family dynamics, identity crisis, and the media’s role in sensationalizing tragedy, while maintaining a stark, gritty tone that underscores the psychological torment endured by the protagonist. Through interwoven interviews, re‑enactments, and court footage, it offers a nuanced look at victimhood, legal accountability, and the blurred line between victim and perpetrator. The narrative’s non‑linear, serialized structure invites viewers to piece together the layers of manipulation and denial that defined Gypsy’s life.",
+        "spoiler_rich_plot_summary": "The story opens with Gypsy Blanchard living under her mother Dee‑Dee’s overprotective and abusive regime, which includes isolation, financial control, and constant surveillance. Over the course of the series, Gypsy’s psychological deterioration is shown through flashbacks and interviews, culminating in a moment where she decides to break free. In a dramatic turn, Gypsy kills Dee‑Dee with a kitchen knife, hides the body, and later confesses to the murder in a police interview, claiming self‑defense and a long‑standing abuse narrative. A trial ensues, with courtroom scenes revealing evidence of abuse, media coverage, and conflicting testimonies. Gypsy is ultimately convicted of second‑degree murder, sentenced to prison, and the series concludes with her reflecting on the cycle of abuse and the public’s fascination with her story.",
+        "categorized_keywords": {
+          "themes": [
+            "family-abuse",
+            "mental-health",
+            "victimhood",
+            "identity-crisis",
+            "media-sensationalism"
+          ],
+          "plot_and_concepts": [
+            "true-crime",
+            "murder",
+            "confession",
+            "court-trial",
+            "psychological-abuse",
+            "family-violence",
+            "media-coverage",
+            "police-investigation",
+            "victim-blaming"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "gritty",
+            "realistic",
+            "haunted",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "drama",
+            "crime",
+            "anthology",
+            "biographical",
+            "real-life"
+          ],
+          "setting": [
+            "modern-usa",
+            "texas",
+            "suburban",
+            "family-home"
+          ],
+          "character_archetypes": [
+            "victim",
+            "abuser",
+            "confessor",
+            "lawyer",
+            "journalist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "documentary-style",
+            "interviews",
+            "re-enactments",
+            "non-linear"
+          ],
+          "target_audience": [
+            "mature-audiences",
+            "true-crime-fans",
+            "drama-enthusiasts"
+          ],
+          "detail_plot": [
+            "handcuffs",
+            "courtroom",
+            "confession-recording",
+            "family-photo",
+            "home-locked-door",
+            "psychiatric-evidence",
+            "murdered-mother",
+            "journalist-interviews"
+          ]
+        },
+        "keyword_sentence": "The Act is a gritty, documentary‑style true‑crime drama that explores family abuse, identity crisis, and media sensationalism through a serialized narrative of Gypsy Blanchard’s murder of her mother, featuring courtroom drama, psychological abuse, and non‑linear interviews."
+      },
+      "duration_seconds": 140.60779213905334
+    }
+  }
+}

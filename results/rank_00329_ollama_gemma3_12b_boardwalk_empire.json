@@ -1,0 +1,86 @@
+{
+  "input_data": {
+    "title": "Boardwalk Empire",
+    "overview": "Atlantic City at the dawn of Prohibition is a place where the rules don't apply. And the man who runs things -- legally and otherwise -- is the town's treasurer, Enoch \"Nucky\" Thompson, who is equal parts politician and gangster.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2010,
+    "vote_count": 908
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Boardwalk Empire is a historical crime drama set in Atlantic City during the Prohibition era. The series explores the intersection of politics, organized crime, and the burgeoning entertainment industry, following Nucky Thompson's rise to power and the complex web of alliances and betrayals that surround him. The show is characterized by its meticulous period detail, morally ambiguous characters, and a slow-burn narrative that examines the corrupting influence of power and wealth. It offers a nuanced portrayal of a pivotal moment in American history, blending crime thriller elements with a sophisticated exploration of social and economic forces.",
+        "spoiler_rich_plot_summary": "The series begins with Nucky Thompson, a political figure with ties to organized crime, consolidating his power in Atlantic City as Prohibition takes hold. He navigates a treacherous landscape of rival gangs, corrupt politicians, and federal agents, building a lucrative empire based on bootlegging and gambling. As Nucky expands his operations, he forms alliances with figures like Al Capone and Meyer Lansky, while simultaneously battling adversaries like Arnold Rothstein and Nelson Van Alden. The narrative follows multiple interwoven storylines, including those of Nelson's descent into paranoia and addiction, and Margaret Schroeder's evolving role in Nucky's world. Over the seasons, Nucky's past is gradually revealed, exposing the origins of his power and the sacrifices he made to achieve it. The series culminates in a confrontation with his past, forcing him to confront the consequences of his actions and ultimately leading to a complex and ambiguous resolution that leaves his fate uncertain.",
+        "categorized_keywords": {
+          "themes": [
+            "power-corruption",
+            "organized-crime",
+            "american-dream",
+            "moral-ambiguity",
+            "historical-context",
+            "family-legacy"
+          ],
+          "plot_and_concepts": [
+            "prohibition-era",
+            "bootlegging",
+            "gangster-politics",
+            "federal-investigation",
+            "rise-to-power",
+            "revenge-plot"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "gritty",
+            "atmospheric",
+            "suspenseful",
+            "period-drama"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "historical-fiction",
+            "gangster-film",
+            "slow-burn-narrative"
+          ],
+          "setting": [
+            "atlantic-city",
+            "1920s",
+            "new-jersey",
+            "prohibition-era"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "corrupt-politician",
+            "gangster",
+            "federal-agent",
+            "femme-fatale"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "speakeasy",
+            "gambling-den",
+            "fedora",
+            "prohibition-sign",
+            "vintage-car"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "sexual-content",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "Boardwalk Empire is a dark and atmospheric crime drama set in Atlantic City during the Prohibition era, exploring themes of power, corruption, and the American dream through the morally ambiguous rise of a gangster politician."
+      },
+      "duration_seconds": 74.4982213973999
+    }
+  }
+}

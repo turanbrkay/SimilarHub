@@ -1,0 +1,69 @@
+{
+  "input_data": {
+    "title": "Top Gear",
+    "overview": "Motoring programme featuring reviews of and reports about cars of all types.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 1978,
+    "vote_count": 86
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Top Gear is a long-running British motoring television series that blends car reviews, road trips, and celebrity interviews. The show's appeal lies in its irreverent humor, its presenters' dynamic chemistry, and its ability to engage viewers with a wide range of vehicles, from everyday cars to exotic supercars. While primarily focused on automobiles, Top Gear often explores broader themes of travel, adventure, and cultural exploration, offering a unique blend of entertainment and automotive expertise. The show's format has evolved over the years, but its core focus on cars and its distinctive personality have remained consistent.",
+        "spoiler_rich_plot_summary": "Top Gear's format typically involves a 'car of the year' comparison, where presenters rigorously test and evaluate various vehicles based on performance, practicality, and value. Each episode also features a 'road trip' segment, where the presenters travel to a different location, often undertaking a specific challenge or exploring a particular theme related to the destination. Celebrity interviews are frequently incorporated, adding a layer of entertainment and broadening the show's appeal. Over the series' run, the presenters have explored countless countries and driven a vast array of vehicles, often pushing the limits of both. While there isn't a traditional narrative arc, the show's evolution has been marked by changes in presenters and shifts in the focus of its segments, reflecting changing trends in the automotive industry and broader cultural interests. The show's legacy lies in its ability to consistently deliver engaging automotive content and its influence on popular culture.",
+        "categorized_keywords": {
+          "themes": [
+            "automotive-culture",
+            "travel",
+            "adventure",
+            "technology",
+            "consumerism"
+          ],
+          "plot_and_concepts": [
+            "car-review",
+            "road-trip",
+            "celebrity-interview",
+            "automotive-engineering"
+          ],
+          "mood_and_tone": [
+            "humorous",
+            "irreverent",
+            "enthusiastic",
+            "lighthearted"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "automotive-show",
+            "travel-show"
+          ],
+          "setting": [
+            "global",
+            "automotive-industry"
+          ],
+          "character_archetypes": [
+            "car-enthusiast",
+            "expert-commentator"
+          ],
+          "narrative_style": [
+            "episodic",
+            "segment-based"
+          ],
+          "target_audience": [
+            "car-lovers",
+            "general-audience"
+          ],
+          "detail_plot": [
+            "car-test-track",
+            "automotive-workshop",
+            "road-trip-vehicle"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Top Gear is a humorous and lighthearted documentary series that explores automotive culture through car reviews, road trips, and celebrity interviews, appealing to a broad audience with its enthusiastic and irreverent approach to travel and technology."
+      },
+      "duration_seconds": 60.5545015335083
+    }
+  }
+}

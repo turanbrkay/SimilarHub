@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Agent X",
+    "overview": "Hidden from the view of the public - and even from the President - there is a top secret agent who is trained and ready to serve, deployed only at the careful discretion of the Vice President.",
+    "genres": [
+      "Action & Adventure",
+      "Drama"
+    ],
+    "release_year": 2015,
+    "vote_count": 48
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Agent X is a high-octane action-drama series centered on a covert operative who exists outside the usual chain of command. The show blends elements of espionage, political intrigue, and intense action sequences, exploring themes of loyalty, duty, and the moral compromises inherent in operating in the shadows. The narrative focuses on the agent's missions and the complex relationship with the Vice President who controls their deployment, creating a tense dynamic of power and responsibility. The series offers a thrilling and suspenseful viewing experience, appealing to audiences who enjoy action-packed stories with a layer of political complexity.",
+        "spoiler_rich_plot_summary": "The series begins with the introduction of Agent X, a highly trained operative kept secret even from the President of the United States. Agent X is deployed only at the discretion of the Vice President, who serves as their handler and the only person who knows of their existence. Early missions involve preventing terrorist attacks and uncovering conspiracies within the government, often requiring Agent X to operate outside the law and make difficult choices with far-reaching consequences. As the series progresses, the Vice President's motives come under scrutiny, and Agent X begins to question their orders and the true nature of the organization they serve. A significant turning point occurs when Agent X uncovers a deep-seated conspiracy that reaches the highest levels of power, forcing them to confront powerful enemies and question everything they thought they knew. The series culminates in a confrontation that tests Agent X's loyalty and forces them to choose between duty and justice, ultimately reshaping their role and the future of the clandestine organization.",
+        "categorized_keywords": {
+          "themes": [
+            "loyalty",
+            "duty",
+            "secrecy",
+            "political-intrigue",
+            "moral-compromise",
+            "justice"
+          ],
+          "plot_and_concepts": [
+            "covert-operations",
+            "espionage",
+            "political-thriller",
+            "conspiracy",
+            "secret-identity"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "tense",
+            "action-packed",
+            "dark"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "spy-thriller",
+            "government-conspiracy"
+          ],
+          "setting": [
+            "washington-dc",
+            "modern-day",
+            "secret-locations"
+          ],
+          "character_archetypes": [
+            "secret-agent",
+            "powerful-handler",
+            "anti-hero",
+            "morally-gray-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-adventure"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "secret-briefing",
+            "high-tech-gadgets",
+            "government-facility",
+            "encrypted-communication"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "political-deception"
+          ]
+        },
+        "keyword_sentence": "Agent X is a suspenseful action-adventure series set in modern-day Washington D.C., exploring themes of loyalty and moral compromise as a secret agent navigates a world of political intrigue and covert operations."
+      },
+      "duration_seconds": 63.140750885009766
+    }
+  }
+}

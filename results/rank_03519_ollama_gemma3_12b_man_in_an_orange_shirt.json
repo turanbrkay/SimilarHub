@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Man in an Orange Shirt",
+    "overview": "A love story in two films charts the very different challenges to happiness for Michael and Thomas in the aftermath of World War 2, and to Adam and Steve in the present day.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2017,
+    "vote_count": 35
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Man in an Orange Shirt is a British drama series exploring themes of love, loss, and societal prejudice across two distinct time periods – post-World War II and the present day. The series interweaves the stories of two couples, examining the enduring impact of historical trauma and the ongoing struggle for acceptance and understanding. Through its dual narrative structure, the series contrasts the challenges faced by individuals in different eras, highlighting the complexities of human relationships and the persistent nature of societal biases. The tone is melancholic and reflective, offering a poignant exploration of love and its consequences.",
+        "spoiler_rich_plot_summary": "The series begins in 1945, introducing Thomas and Michael, two men deeply in love but facing immense societal pressure and legal restrictions due to their relationship. Their burgeoning romance is shadowed by the aftermath of the war and the pervasive homophobia of the time, leading to difficult choices and heartbreaking compromises. The narrative then shifts to the present day, following Adam and Steve, a modern couple whose relationship is also tested by external forces and internal struggles. As the series progresses, parallels emerge between the two couples' experiences, revealing the cyclical nature of prejudice and the enduring quest for acceptance. The past and present narratives intertwine, offering glimpses into the lives of those who came before and the ongoing fight for equality. The series culminates in a poignant reflection on the sacrifices made by previous generations and the ongoing need for compassion and understanding.",
+        "categorized_keywords": {
+          "themes": [
+            "love",
+            "loss",
+            "prejudice",
+            "acceptance",
+            "historical-trauma",
+            "social-justice",
+            "identity",
+            "sacrifice"
+          ],
+          "plot_and_concepts": [
+            "dual-narrative",
+            "time-period-comparison",
+            "forbidden-love",
+            "generational-impact"
+          ],
+          "mood_and_tone": [
+            "melancholic",
+            "reflective",
+            "poignant",
+            "romantic"
+          ],
+          "genre_and_tropes": [
+            "historical-drama",
+            "romance",
+            "social-drama"
+          ],
+          "setting": [
+            "post-world-war-ii",
+            "modern-day",
+            "england"
+          ],
+          "character_archetypes": [
+            "forbidden-lovers",
+            "social-outcasts",
+            "generational-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "dual-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "orange-shirt",
+            "post-war-england",
+            "modern-relationship"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Man in an Orange Shirt is a poignant historical drama exploring themes of love and loss across generations, set against the backdrop of post-war England and the modern day, highlighting the enduring struggle for acceptance and the cyclical nature of prejudice."
+      },
+      "duration_seconds": 54.153390645980835
+    }
+  }
+}

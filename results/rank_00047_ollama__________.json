@@ -1,0 +1,67 @@
+{
+  "input_data": {
+    "title": "Supergirl",
+    "overview": "Twenty-four-year-old Kara Zor-El, who was taken in by the Danvers family when she was 13 after being sent away from Krypton, must learn to embrace her powers after previously hiding them. The Danvers teach her to be careful with her powers, until she has to reveal them during an unexpected disaster, setting her on her journey of heroism.",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "release_year": 2015,
+    "vote_count": 3974
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "Analytic Summary": "Supergirl follows Kara Zor‑El, a Kryptonian who moves to National City with her family, discovers her powers, and balances her alien heritage.",
+        "Keyword String": "identity, responsibility, family, hope, justice, love, friendship, optimism, powers, Kryptonian, National City, secret‑identity, villain, team‑up, science‑fiction, action, drama, superhero, alien heritage",
+        "spoiler_rich_plot_summary": "Season 1 introduces Kara Zor‑El, who moves to National City with her adopted family, discovers her powers, and learns to balance her alien heritage with her new life. Throughout the series, Kara faces threats from both Earth and Krypton, including the villainous J’onn J’onzz’s brother, General Zod, and the Dark Luthor. She also deals with complex relationships with her sister Supergirl, her love interest Megan Reyes, and her friend Alex Danvers. In the final season, Kara confronts her father and a powerful Kryptonian threat, ultimately sacrificing herself to save Earth. However, her sacrifice is undone when her family and friends revive her, leaving her alive to continue protecting the city and the world.",
+        "categorized_keywords": {
+          "Themes": [
+            "identity",
+            "responsibility",
+            "family",
+            "hope",
+            "justice",
+            "love",
+            "friendship",
+            "optimism"
+          ],
+          "Characters": [
+            "Kara Zor‑El",
+            "Alex Danvers",
+            "Megan Reyes",
+            "Monica Ruiz",
+            "Lena Luthor",
+            "Superman",
+            "General Zod",
+            "Brainiac"
+          ],
+          "Plot Elements": [
+            "origin‑story",
+            "secret‑identity",
+            "villain‑of‑the‑week",
+            "team‑up",
+            "Kryptonian",
+            "Kara's sacrifice",
+            "Kara's death",
+            "Kara's resurrection"
+          ],
+          "Genre": [
+            "superhero",
+            "action",
+            "drama",
+            "science‑fiction"
+          ],
+          "Tone": [
+            "hopeful",
+            "dramatic",
+            "optimistic",
+            "heroic"
+          ]
+        }
+      },
+      "duration_seconds": 775.8823125362396
+    }
+  }
+}

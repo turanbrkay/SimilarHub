@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Murder, She Wrote",
+    "overview": "An unassuming mystery writer turned sleuth uses her professional insight to help solve real-life homicide cases.",
+    "genres": [
+      "Mystery",
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 1984,
+    "vote_count": 319
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Murder, She Wrote is a long-running crime drama series centered on Jessica Fletcher, a successful mystery novelist who frequently finds herself embroiled in real-life murder investigations. The show blends elements of the cozy mystery genre with procedural crime drama, offering a blend of suspense, character-driven storytelling, and picturesque New England settings. Jessica's sharp intellect and observant nature, combined with her outsider status in the communities she visits, allow her to uncover secrets and solve crimes that often baffle local law enforcement. The series is known for its episodic nature, with each episode presenting a self-contained mystery, while also maintaining a consistent tone and character development across its many seasons.",
+        "spoiler_rich_plot_summary": "The series begins with Jessica Fletcher, a widowed mystery writer living in the small town of Cabot Cove, Maine. Her life takes an unexpected turn when she becomes involved in a murder investigation, utilizing her writing skills to analyze clues and identify suspects. This initial experience sparks a pattern: Jessica's travels for book signings and speaking engagements consistently lead her to new locations and new crimes. Throughout the series, Jessica works alongside various local detectives and law enforcement officials, often providing crucial insights and ultimately helping to bring perpetrators to justice. While Jessica's involvement often puts her in danger, she consistently demonstrates remarkable resilience and a knack for uncovering the truth. Recurring characters include her nephew Grady Fletcher, who occasionally assists in her investigations, and Amos Tupper, a local fisherman who frequently finds himself as a suspect or red herring. The series explores themes of community, justice, and the complexities of human nature, with Jessica serving as a moral compass and a champion for the vulnerable. While the series maintains a largely episodic structure, certain overarching storylines and character arcs develop over time, adding depth and complexity to the narrative.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "community",
+            "mystery",
+            "small-town-life",
+            "redemption",
+            "outsider-perspective"
+          ],
+          "plot_and_concepts": [
+            "crime-procedural",
+            "cozy-mystery",
+            "amateur-sleuth",
+            "red-herring",
+            "investigation"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "suspenseful",
+            "lighthearted",
+            "gentle-humor"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "mystery",
+            "small-town-mystery",
+            "amateur-detective"
+          ],
+          "setting": [
+            "new-england",
+            "cabot-cove",
+            "small-town-usa"
+          ],
+          "character_archetypes": [
+            "amateur-sleuth",
+            "wise-older-woman",
+            "local-detective",
+            "eccentric-villager"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "self-contained-mystery"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "book-signing",
+            "local-sheriff",
+            "fishing-boat",
+            "antique-shop",
+            "small-town-church"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Murder, She Wrote is a lighthearted crime drama series set in a picturesque New England town, where an amateur sleuth uses her keen observation skills to solve mysteries and champion justice within a close-knit community."
+      },
+      "duration_seconds": 69.68255591392517
+    }
+  }
+}

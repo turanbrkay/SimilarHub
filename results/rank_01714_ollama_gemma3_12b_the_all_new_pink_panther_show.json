@@ -1,0 +1,70 @@
+{
+  "input_data": {
+    "title": "The All New Pink Panther Show",
+    "overview": "Crazylegs Crane inserts himself between 2 Pink Panther adventures.",
+    "genres": [
+      "Animation",
+      "Kids",
+      "Family"
+    ],
+    "release_year": 1978,
+    "vote_count": 120
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The All New Pink Panther Show is a lighthearted animated series aimed at a family audience, acting as a bridge between the adventures of the Pink Panther character. The show blends slapstick comedy with gentle humor, featuring the recurring antics of Crazylegs Crane and the largely silent Pink Panther. It's a series designed for entertainment and amusement, prioritizing visual gags and silly situations over complex narratives. The show's appeal lies in its accessible humor and its ability to entertain both children and adults.",
+        "spoiler_rich_plot_summary": "The series primarily consists of two distinct segments. The first segment typically features a self-contained Pink Panther adventure, often involving him thwarting the schemes of the bumbling Inspector Clouseau and his associates. These stories follow a classic cartoon formula, with the Pink Panther using his agility and cunning to outsmart his adversaries. Interspersed between these Pink Panther segments is the comedic presence of Crazylegs Crane, a character who inserts himself into various situations, often creating more chaos than he resolves. Crane's segments are largely episodic, with him encountering a series of bizarre and humorous scenarios. While there isn't a central overarching plot, the series maintains a consistent tone and style throughout, with each episode offering a fresh dose of silly antics and visual gags. The series concludes with the Pink Panther continuing his silent adventures, leaving audiences with a sense of lighthearted amusement.",
+        "categorized_keywords": {
+          "themes": [
+            "slapstick-comedy",
+            "friendship",
+            "mischief",
+            "humor"
+          ],
+          "plot_and_concepts": [
+            "cartoon-formula",
+            "episodic-storytelling",
+            "chase-sequences"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "silly",
+            "playful"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "kids-comedy",
+            "family-entertainment"
+          ],
+          "setting": [
+            "cartoon-world",
+            "urban-setting"
+          ],
+          "character_archetypes": [
+            "trickster",
+            "bumbling-villain",
+            "silent-protagonist"
+          ],
+          "narrative_style": [
+            "episodic-storytelling",
+            "anthology-series"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "cartoon-gags",
+            "pink-panther-character",
+            "crazylegs-crane"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The All New Pink Panther Show is a lighthearted animated series for families, blending cartoon gags and silly antics with the mischievous antics of Crazylegs Crane in a playful and humorous cartoon world."
+      },
+      "duration_seconds": 60.09910249710083
+    }
+  }
+}

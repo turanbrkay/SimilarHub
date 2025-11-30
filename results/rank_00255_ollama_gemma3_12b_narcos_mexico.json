@@ -1,0 +1,89 @@
+{
+  "input_data": {
+    "title": "Narcos: Mexico",
+    "overview": "See the rise of the Guadalajara Cartel as an American DEA agent learns the danger of targeting narcos in 1980s Mexico.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "release_year": 2018,
+    "vote_count": 1160
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Narcos: Mexico is a crime drama series that chronicles the rise of the Guadalajara Cartel and the early days of the war on drugs in Mexico. The series blends historical events with fictionalized narratives, offering a gritty and realistic portrayal of cartel operations, political corruption, and the complex relationship between law enforcement and organized crime. It explores themes of power, ambition, and the devastating consequences of the drug trade, offering a tense and morally ambiguous viewing experience. The series distinguishes itself through its focus on Mexican perspectives and the cultural context of the drug war.",
+        "spoiler_rich_plot_summary": "The series begins in 1980, following Kiki Camarena, a DEA agent investigating the Guadalajara Cartel. Initially, the cartel, led by Miguel Ángel Félix Gallardo, appears to be a relatively organized and even cooperative force, facilitating drug trafficking with the tacit approval of corrupt government officials. Gallardo’s ambition leads him to consolidate power among various trafficking groups, creating a unified cartel. As Camarena’s investigation intensifies, the cartel’s operations are threatened, leading to escalating violence and a desperate attempt to silence him. Camarena’s abduction and subsequent murder trigger a massive DEA response and further destabilize the region. The series follows the fracturing of the cartel as rival factions emerge, vying for control and exposing the deep-seated corruption within the Mexican government. Gallardo’s empire crumbles under the weight of internal conflicts and external pressures, ultimately leading to his downfall and imprisonment, though the seeds of future cartels are firmly planted.",
+        "categorized_keywords": {
+          "themes": [
+            "drug-trafficking",
+            "corruption",
+            "power",
+            "violence",
+            "justice",
+            "loyalty",
+            "betrayal",
+            "political-instability"
+          ],
+          "plot_and_concepts": [
+            "crime-drama",
+            "police-investigation",
+            "cartel-politics",
+            "undercover-operation",
+            "war-on-drugs",
+            "international-crime"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "tense",
+            "dark",
+            "realistic",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "political-thriller",
+            "gangster-film",
+            "true-crime"
+          ],
+          "setting": [
+            "mexico",
+            "1980s",
+            "guadalajara",
+            "latin-america"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "corrupt-official",
+            "reluctant-hero",
+            "ruthless-villain",
+            "federal-agent"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "true-story-adaptation"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "dea-investigation",
+            "cartel-compound",
+            "police-raid",
+            "drug-money",
+            "government-corruption"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "drug-use",
+            "sexual-content",
+            "language"
+          ]
+        },
+        "keyword_sentence": "Narcos: Mexico is a gritty and suspenseful crime drama series set in 1980s Mexico, exploring themes of corruption, violence, and the devastating consequences of the drug trade through a realistic portrayal of cartel politics and a DEA investigation."
+      },
+      "duration_seconds": 68.83714866638184
+    }
+  }
+}

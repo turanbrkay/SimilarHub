@@ -1,0 +1,87 @@
+{
+  "input_data": {
+    "title": "DC's Legends of Tomorrow",
+    "overview": "When heroes alone are not enough ... the world needs legends. Having seen the future, one he will desperately try to prevent from happening, time-traveling rogue Rip Hunter is tasked with assembling a disparate group of both heroes and villains to confront an unstoppable threat — one in which not only is the planet at stake, but all of time itself. Can this ragtag team defeat an immortal threat unlike anything they have ever known?",
+    "genres": [
+      "Action & Adventure",
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "release_year": 2016,
+    "vote_count": 2130
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "DC's Legends of Tomorrow is a superhero action-adventure series that blends time-travel mechanics with a comedic and often irreverent tone. The show follows a team of heroes and reformed villains tasked with protecting the timeline from catastrophic alterations. It distinguishes itself through its ensemble cast, its willingness to embrace absurdity, and its exploration of character redemption across different historical periods. The series offers a lighthearted, action-packed experience with a focus on found-family dynamics and the consequences of altering the past.",
+        "spoiler_rich_plot_summary": "The series begins with Rip Hunter, a time-traveling rogue, recruiting a team of heroes and reformed villains – including Sara Lance, Jay Jackson, Martin Stein, Jefferson Jackson, and Kendra Saunders – to combat the immortal Vandal Savage, who poses a threat to the entire timeline. Their initial missions involve preventing Savage from manipulating key historical events and acquiring powerful artifacts. As the team travels through time, they encounter various historical figures and face challenges that test their loyalties and abilities. Over the seasons, the team confronts increasingly complex threats, including alternate versions of themselves and powerful temporal anomalies. The team experiences significant losses and gains new members, constantly evolving and adapting to the ever-shifting landscape of the timeline. The overarching narrative explores the consequences of tampering with time and the importance of preserving the integrity of history, while also delving into the personal journeys of the individual team members as they grapple with their pasts and strive to become better versions of themselves. The team ultimately confronts existential threats to the timeline, often requiring them to make difficult choices with far-reaching consequences.",
+        "categorized_keywords": {
+          "themes": [
+            "time-travel",
+            "redemption",
+            "found-family",
+            "alternate-history",
+            "moral-ambiguity",
+            "sacrifice",
+            "teamwork"
+          ],
+          "plot_and_concepts": [
+            "time-paradox",
+            "alternate-timeline",
+            "historical-fiction",
+            "villain-redemption",
+            "temporal-anomaly",
+            "multiverse"
+          ],
+          "mood_and_tone": [
+            "comedic",
+            "action-adventure",
+            "lighthearted",
+            "irreverent",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "superhero-action",
+            "time-travel-adventure",
+            "ensemble-cast",
+            "found-family-trope",
+            "historical-adventure"
+          ],
+          "setting": [
+            "alternate-timeline",
+            "historical-periods",
+            "future-timeline",
+            "various-locations"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "reformed-villain",
+            "wise-mentor",
+            "anti-hero",
+            "team-leader"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "episodic-adventure"
+          ],
+          "target_audience": [
+            "young-adult",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "time-ship",
+            "historical-costumes",
+            "alternate-versions",
+            "temporal-rift"
+          ],
+          "maturity_and_content": [
+            "action-violence"
+          ]
+        },
+        "keyword_sentence": "DC's Legends of Tomorrow is a lighthearted, action-packed superhero series that blends time-travel adventures with a comedic tone, exploring themes of redemption and found-family as a team of heroes and reformed villains navigate alternate timelines and confront historical threats."
+      },
+      "duration_seconds": 69.66198325157166
+    }
+  }
+}

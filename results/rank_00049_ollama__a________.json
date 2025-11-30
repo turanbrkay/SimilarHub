@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Family Guy",
+    "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "release_year": 1999,
+    "vote_count": 3884
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Family Guy is a long-running adult animated sitcom that lampoons everyday life through the lens of the chaotic Griffin family. The show thrives on absurd, often politically incorrect humor, blending cutaway gags, pop culture references, and satirical commentary on social issues. Its narrative is episodic, with each episode presenting a self-contained adventure that frequently devolves into surreal, meta‑style interludes. The series balances dark comedy with a parody of traditional family dynamics, making it a staple of irreverent animation.",
+        "spoiler_rich_plot_summary": "From its 1999 premiere, Family Guy follows the misadventures of Peter Griffin, a bumbling, often clueless patriarch, and his wife Lois, a more grounded yet overworked mother, as they navigate suburban life in Quahog. Peter's impulsive antics, such as attempting to become a rock star or inventing a time machine, frequently lead to chaotic situations involving the entire family. Stewie, the infant genius with a diabolical plan to kill his mother and conquer the world, consistently engages in elaborate schemes and time‑travel experiments, often thwarted by Brian, the family's sarcastic, wine‑drinking talking dog who serves as a moral counterpoint. Meg, the unpopular eldest child, is a recurring target of ridicule, while Chris, the movie‑obsessed middle child, provides a naive perspective on the family's absurdity. The series is known for its cutaway-ads that parody celebrities, historical events, and other media, often breaking the fourth wall. Over the years, the show has tackled a variety of controversial topics, including politics, religion, and sexuality, frequently pushing the boundaries of mainstream television. Family Guy remains an ongoing series, continuing to produce new episodes that expand on the characters' eccentricities and the show's signature irreverent tone.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dysfunction",
+            "political-satire",
+            "absurdity",
+            "dark-humor",
+            "meta-humor"
+          ],
+          "plot_and_concepts": [
+            "cutaway-ads",
+            "stewie-world-conquest",
+            "brian-drinking-martini",
+            "peter-absurd-ideas",
+            "meg-awkwardness",
+            "family-adventures"
+          ],
+          "mood_and_tone": [
+            "irreverent",
+            "crude",
+            "satirical",
+            "dark-comedy"
+          ],
+          "genre_and_tropes": [
+            "animated-comedy",
+            "family-sitcom",
+            "parody",
+            "non-violent",
+            "episodic"
+          ],
+          "setting": [
+            "modern-american-suburb",
+            "quahog",
+            "usa"
+          ],
+          "character_archetypes": [
+            "dumb-hero",
+            "evil-child",
+            "talking-dog",
+            "overbearing-parent",
+            "unpopular-girl"
+          ],
+          "narrative_style": [
+            "episodic",
+            "cutaway-structured",
+            "non-linear"
+          ],
+          "target_audience": [
+            "mature-audiences",
+            "adult-comedy"
+          ],
+          "detail_plot": [
+            "stewie-robot",
+            "brian-martini",
+            "cutaway-ads",
+            "quahog-bridge",
+            "family-picnic",
+            "stewie-voice-over",
+            "peter-absurd-ideas"
+          ]
+        },
+        "keyword_sentence": "Family Guy blends absurdity, political satire, and dark humor into an animated sitcom featuring a dysfunctional Griffin family, with recurring cutaway-ads, stewie-robot, and brian-martini motifs."
+      },
+      "duration_seconds": 171.3680601119995
+    }
+  }
+}

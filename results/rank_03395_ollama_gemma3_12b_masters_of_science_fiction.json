@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Masters of Science Fiction",
+    "overview": "Masters of Science Fiction is an American television anthology series with each hour long episode taking the form of a separate short film adaptation of a story by a respected member of the science fiction community.\n\nThe show is hosted by physicist Stephen Hawking.",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2007,
+    "vote_count": 38
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Masters of Science Fiction is an anthology series presenting short films adapted from established science fiction stories. Hosted by Stephen Hawking, the show explores diverse themes within the genre, ranging from philosophical inquiries about humanity's place in the universe to cautionary tales about technological advancement. Each episode offers a self-contained narrative, allowing for a wide range of tones and styles, and providing a platform for both established and emerging filmmakers. The series aims to engage audiences with thought-provoking stories and visually compelling cinematic experiences, often prompting reflection on the future of science and society.",
+        "spoiler_rich_plot_summary": "The series operates as an anthology, meaning there is no overarching plot or continuous narrative. Each episode presents a distinct short film based on a science fiction story. These stories vary greatly in subject matter, exploring themes such as artificial intelligence, space exploration, dystopian societies, and the consequences of scientific hubris. Some episodes focus on character-driven narratives, delving into the psychological impact of extraordinary circumstances, while others prioritize spectacle and visual effects to illustrate complex scientific concepts. The anthology format allows for a broad spectrum of storytelling approaches, from introspective dramas to action-oriented thrillers, all united by their exploration of science fiction's core ideas. The series concludes with a collection of diverse and often challenging narratives, leaving audiences to contemplate the potential futures shaped by scientific innovation.",
+        "categorized_keywords": {
+          "themes": [
+            "artificial-intelligence",
+            "space-exploration",
+            "dystopian-societies",
+            "scientific-hubris",
+            "future-of-humanity",
+            "moral-responsibility",
+            "technological-advancement"
+          ],
+          "plot_and_concepts": [
+            "anthology-series",
+            "short-film",
+            "science-fiction-adaptation",
+            "time-travel",
+            "parallel-universes",
+            "virtual-reality"
+          ],
+          "mood_and_tone": [
+            "thought-provoking",
+            "cerebral",
+            "philosophical",
+            "dark",
+            "optimistic",
+            "cautionary"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "anthology",
+            "short-story",
+            "speculative-fiction"
+          ],
+          "setting": [
+            "future",
+            "space",
+            "alternate-reality",
+            "virtual-world"
+          ],
+          "character_archetypes": [
+            "scientist",
+            "explorer",
+            "inventor",
+            "futurist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "self-contained-narrative",
+            "episodic"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "science-enthusiasts"
+          ],
+          "detail_plot": [
+            "virtual-reality-simulation",
+            "robotic-assistant",
+            "space-station",
+            "futuristic-cityscape"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Masters of Science Fiction presents a collection of thought-provoking short films exploring the future of humanity and the potential consequences of technological advancement through a cerebral and episodic narrative style."
+      },
+      "duration_seconds": 57.482866287231445
+    }
+  }
+}

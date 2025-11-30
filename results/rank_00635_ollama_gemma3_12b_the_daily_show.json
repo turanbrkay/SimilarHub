@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "The Daily Show",
+    "overview": "Trevor Noah and The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+    "genres": [
+      "News",
+      "Comedy"
+    ],
+    "release_year": 1996,
+    "vote_count": 452
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Daily Show is a long-running American news satire program that utilizes humor and commentary to critique current events and political figures. Hosted by Trevor Noah (and previously Jon Stewart), the show blends comedic sketches, interviews, and field pieces to offer a unique perspective on the news cycle. It serves as both entertainment and a platform for social and political commentary, often challenging conventional narratives and engaging audiences in critical thinking. The show's influence extends beyond traditional media, shaping public discourse and inspiring a generation of comedic journalists.",
+        "spoiler_rich_plot_summary": "The Daily Show's narrative arc isn't a traditional plot but rather a continuous commentary on unfolding events. Beginning with Craig Kilborn as host, the show established a satirical news format, which Jon Stewart significantly evolved, emphasizing political satire and investigative journalism through comedic lenses. Trevor Noah's tenure continued this tradition, adapting the show's tone to reflect changing political landscapes and global events. Each episode builds upon the previous, creating a cumulative effect of satirical observation and critique. The show's 'plot' is the ongoing evolution of the news cycle itself, with the team responding to and dissecting major headlines and political developments. The show's legacy lies in its ability to consistently adapt and remain relevant, offering a comedic yet insightful perspective on the world’s most pressing issues.",
+        "categorized_keywords": {
+          "themes": [
+            "political-satire",
+            "news-commentary",
+            "social-criticism",
+            "media-bias",
+            "cultural-observation"
+          ],
+          "plot_and_concepts": [
+            "mock-interview",
+            "news-parody",
+            "man-on-the-street",
+            "satirical-report"
+          ],
+          "mood_and_tone": [
+            "witty",
+            "satirical",
+            "cynical",
+            "humorous",
+            "observational"
+          ],
+          "genre_and_tropes": [
+            "news-satire",
+            "comedy-show",
+            "talk-show",
+            "panel-discussion"
+          ],
+          "setting": [
+            "new-york-city",
+            "television-studio",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "satirical-host",
+            "comedic-correspondent",
+            "political-analyst"
+          ],
+          "narrative_style": [
+            "episodic",
+            "reactive",
+            "current-events"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "politically-engaged"
+          ],
+          "detail_plot": [
+            "studio-audience",
+            "desk-set",
+            "graphic-overlays",
+            "field-piece"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Daily Show offers a witty and satirical commentary on current events, blending news parody and comedic reporting to engage politically-aware adult viewers."
+      },
+      "duration_seconds": 68.0047504901886
+    }
+  }
+}

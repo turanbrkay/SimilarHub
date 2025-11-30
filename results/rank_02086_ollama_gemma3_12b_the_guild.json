@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "The Guild",
+    "overview": "Fantasy and reality collide when a surprisingly diverse group of online video-game addicts struggle to balance the game with personal relationships.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2007,
+    "vote_count": 90
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Guild is a comedic web series that satirizes online gaming culture and the social dynamics of online communities. Blending elements of sitcom and mockumentary, the show follows a group of friends navigating the challenges of their virtual lives and their often-awkward real-world relationships. It explores themes of friendship, belonging, and identity through a humorous lens, often poking fun at gaming tropes and internet subcultures. The series' unique format and relatable characters have garnered a dedicated following.",
+        "spoiler_rich_plot_summary": "The series initially centers on the 'Knights Who Say Fellowship,' a guild of online gamers struggling with internal conflicts and a desire for recognition. The guild's leader, Codex, grapples with her own insecurities and the pressures of maintaining the group's reputation. As the series progresses, the characters face challenges both within the game and in their personal lives, including romantic entanglements, professional setbacks, and the complexities of maintaining friendships. The group's dynamic shifts as new members join and old rivalries resurface, leading to moments of both hilarious chaos and genuine emotional growth. Over time, the characters confront their own flaws and learn to appreciate the importance of connection and support, ultimately finding a sense of belonging both online and off. The series concludes with the characters having matured and found a balance between their virtual and real-world identities, celebrating the enduring power of friendship and community.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "belonging",
+            "identity",
+            "online-community",
+            "social-awkwardness",
+            "self-discovery"
+          ],
+          "plot_and_concepts": [
+            "guild-system",
+            "online-gaming",
+            "mockumentary",
+            "satire",
+            "role-playing-game"
+          ],
+          "mood_and_tone": [
+            "comedic",
+            "lighthearted",
+            "quirky",
+            "satirical"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "web-series",
+            "found-family",
+            "coming-of-age"
+          ],
+          "setting": [
+            "internet-culture",
+            "modern-day",
+            "virtual-world"
+          ],
+          "character_archetypes": [
+            "nerd",
+            "social-outcast",
+            "anti-hero",
+            "reluctant-leader"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult",
+            "gamer"
+          ],
+          "detail_plot": [
+            "guild-hall",
+            "avatar",
+            "loot",
+            "level-up"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Guild is a lighthearted web series that satirizes online gaming culture and explores themes of friendship and belonging through a quirky ensemble cast navigating the challenges of virtual worlds and real-life relationships."
+      },
+      "duration_seconds": 63.101069927215576
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Silver Surfer",
+    "overview": "The adventures of the cosmic wanderer as he seeks his lost home after rebelling from his master.",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1998,
+    "vote_count": 60
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Silver Surfer is an animated series that follows the titular character's journey of self-discovery and rebellion against his cosmic master, Thanos. The show blends action and adventure with science fiction and fantasy elements, exploring themes of freedom, responsibility, and the search for belonging. The series offers a visually dynamic experience, characterized by cosmic battles and philosophical introspection as the Silver Surfer navigates a vast and often dangerous universe.",
+        "spoiler_rich_plot_summary": "The series begins with the Silver Surfer, Norrin Radd, serving as Thanos' herald, tasked with finding planets for the Titan's destructive purposes. Disillusioned by Thanos' cruelty and the devastation he causes, Norrin rebels, severing his connection to the Power Cosmic and becoming a fugitive across the cosmos. He embarks on a quest to find his lost home, Zenn-La, which he abandoned to become the Silver Surfer. Along the way, he encounters various cosmic entities, both benevolent and malevolent, who test his resolve and challenge his understanding of the universe. He faces constant pursuit by Thanos and his forces, while also grappling with the consequences of his past actions and the burden of his powers. The series culminates in a confrontation with Thanos, where the Silver Surfer must confront his former master and ultimately decide the fate of the universe.",
+        "categorized_keywords": {
+          "themes": [
+            "rebellion",
+            "freedom",
+            "responsibility",
+            "self-discovery",
+            "loss",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "cosmic-adventure",
+            "power-corrupts",
+            "hero-journey",
+            "space-opera"
+          ],
+          "mood_and_tone": [
+            "epic",
+            "melancholy",
+            "hopeful",
+            "philosophical"
+          ],
+          "genre_and_tropes": [
+            "animated-series",
+            "sci-fi",
+            "fantasy",
+            "superhero-action"
+          ],
+          "setting": [
+            "outer-space",
+            "cosmic-realm",
+            "alternate-universe"
+          ],
+          "character_archetypes": [
+            "rebellious-hero",
+            "tragic-figure",
+            "cosmic-wanderer"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-adventure"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "silver-surfboard",
+            "thanos-ship",
+            "zenn-la-planet",
+            "cosmic-constructs"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The animated series Silver Surfer follows a rebellious hero on an epic cosmic journey, blending sci-fi and fantasy elements to explore themes of freedom, responsibility, and the search for belonging across a vast and often melancholic universe."
+      },
+      "duration_seconds": 60.750927209854126
+    }
+  }
+}

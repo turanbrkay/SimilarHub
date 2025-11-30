@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Rise of the Teenage Mutant Ninja Turtles",
+    "overview": "Rise up! The Teenage Mutant Ninja Turtles get an all-new look, new weapons, and awesome new powers! Join the legendary heroes, Raph, Leo, Donnie and Mikey as these brothers discover a Hidden City beneath New York, learn amazing mystic ninja skills, battle absurd mutants… and always find time for a slice of their favorite pizza! Cowabunga!",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Comedy",
+      "Sci-Fi & Fantasy",
+      "Family"
+    ],
+    "release_year": 2018,
+    "vote_count": 30
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Rise of the Teenage Mutant Ninja Turtles is a vibrant and comedic animated series that reimagines the classic franchise with a focus on mystical elements and a more lighthearted tone. The series follows Leonardo, Raphael, Donatello, and Michelangelo as they navigate their roles as ninja turtles, uncover a hidden city beneath New York, and confront bizarre enemies. It blends action-adventure with humor and fantasy, appealing to a younger audience while retaining core elements of the franchise's appeal. The series emphasizes family dynamics and the turtles' journey to embrace their destiny as protectors.",
+        "spoiler_rich_plot_summary": "The series begins with the four Turtle brothers living ordinary lives, unaware of their true heritage and the mystical powers they possess. They discover a hidden city beneath New York and learn they are descendants of the ancient Hamato clan, destined to wield powerful mystic weapons. Each brother grapples with their individual strengths and weaknesses as they train to become ninja warriors. They face off against a variety of enemies, including the Foot Clan and Shredder, uncovering a larger conspiracy that threatens the city. Throughout their adventures, the turtles learn to rely on each other and embrace their roles as protectors, ultimately confronting a powerful antagonist who seeks to control the mystical forces of the Hidden City. The brothers' journey involves mastering their ninja skills, uncovering family secrets, and accepting their responsibility to safeguard the city and its inhabitants.",
+        "categorized_keywords": {
+          "themes": [
+            "family-bond",
+            "coming-of-age",
+            "destiny",
+            "responsibility",
+            "brotherhood",
+            "mysticism"
+          ],
+          "plot_and_concepts": [
+            "hidden-city",
+            "ninja-training",
+            "mystical-weapons",
+            "ancient-prophecy",
+            "secret-identity",
+            "monster-of-the-week"
+          ],
+          "mood_and_tone": [
+            "comedic",
+            "lighthearted",
+            "action-packed",
+            "wholesome",
+            "adventurous"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "action-adventure",
+            "superhero",
+            "found-family",
+            "coming-of-age-story"
+          ],
+          "setting": [
+            "new-york-city",
+            "underground-city",
+            "alternate-reality"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "young-protagonist",
+            "comedic-relief"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "ninja-weapon",
+            "mystic-amulet",
+            "underground-lair",
+            "pizza-slice"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Rise of the Teenage Mutant Ninja Turtles is a lighthearted and action-packed animated series about four brothers who discover a hidden city beneath New York and embrace their destiny as ninja protectors, blending family bonds with mystical adventures."
+      },
+      "duration_seconds": 80.05581593513489
+    }
+  }
+}

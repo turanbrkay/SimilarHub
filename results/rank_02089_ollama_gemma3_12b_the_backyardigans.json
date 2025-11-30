@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "The Backyardigans",
+    "overview": "Meet five lively animal friends who love to sing, dance and use their imaginations to embark on outrageous adventures to magical places.",
+    "genres": [
+      "Kids",
+      "Animation"
+    ],
+    "release_year": 2004,
+    "vote_count": 90
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Backyardigans is a vibrant, animated musical series aimed at preschool children. Each episode follows a group of animal friends as they transform their backyard into a fantastical setting for a musical adventure. The show emphasizes creativity, problem-solving, and teamwork through catchy songs and engaging narratives. Its gentle humor and positive messages make it a consistently appealing and educational experience for young viewers. The series fosters imagination and encourages active participation through its interactive elements.",
+        "spoiler_rich_plot_summary": "Each episode of The Backyardigans begins with the characters deciding on a theme for their backyard adventure, which could be anything from a jungle safari to a pirate voyage. They then assume roles and costumes to match the chosen theme, and the story unfolds through a series of original songs and dances. While there isn't a continuous overarching plot, each adventure presents a small challenge or problem that the characters must solve collaboratively. The show consistently reinforces the importance of friendship and imaginative play, with each episode culminating in a celebratory song and dance that brings the adventure to a joyful conclusion. The characters often learn valuable lessons about cooperation and embracing new experiences, fostering a positive and encouraging environment for young viewers.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "imagination",
+            "teamwork",
+            "adventure",
+            "problem-solving",
+            "creativity"
+          ],
+          "plot_and_concepts": [
+            "musical-adventure",
+            "role-playing",
+            "transformative-setting"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "playful",
+            "upbeat",
+            "gentle"
+          ],
+          "genre_and_tropes": [
+            "kids-show",
+            "animated-musical",
+            "found-family"
+          ],
+          "setting": [
+            "backyard",
+            "fantasy-setting",
+            "imaginary-world"
+          ],
+          "character_archetypes": [
+            "playful-protagonist",
+            "supportive-friend"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "serialized-songs"
+          ],
+          "target_audience": [
+            "preschool-audience",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "animal-costumes",
+            "backyard-setting",
+            "musical-numbers",
+            "role-playing-characters"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Backyardigans is a playful and wholesome animated series that encourages imagination and friendship through musical adventures set in a fantastical backyard."
+      },
+      "duration_seconds": 54.628700256347656
+    }
+  }
+}

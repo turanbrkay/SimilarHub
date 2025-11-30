@@ -1,0 +1,86 @@
+{
+  "input_data": {
+    "title": "Darkwing Duck",
+    "overview": "The adventures of superhero Darkwing Duck, aided by his sidekick Launchpad McQuack. In his secret identity of Drake Mallard, he lives in a suburban house with his adopted daughter Gosalyn, next door to the bafflingly dim-witted Muddlefoot family. A spin-off of DuckTales.",
+    "genres": [
+      "Action & Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
+      "Kids"
+    ],
+    "release_year": 1991,
+    "vote_count": 254
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Darkwing Duck is a comedic action-adventure series centered around a flamboyant superhero navigating a world of petty crime and eccentric villains. The show blends superhero tropes with slapstick humor and a lighthearted tone, appealing to a family audience. Drake Mallard, the hero's secret identity, struggles to balance his heroic duties with the challenges of suburban life and raising his adopted daughter, Gosalyn. The series emphasizes themes of responsibility, heroism, and the importance of family, all wrapped in a visually dynamic and entertaining package.",
+        "spoiler_rich_plot_summary": "The series follows Drake Mallard, a former adventurer who adopts the persona of Darkwing Duck to fight crime in St. Canard. Initially, Drake is portrayed as a somewhat inept hero, often relying on luck and Launchpad McQuack's unpredictable piloting skills to succeed. Throughout the series, Drake grapples with his past, particularly his connection to the nefarious Steelbeak, a former partner who becomes a recurring antagonist. Gosalyn, his adopted daughter, frequently assists in his crime-fighting endeavors, often providing a grounding influence on Drake's impulsive nature. As the series progresses, Drake confronts increasingly complex threats, revealing deeper layers to St. Canard's criminal underworld and forcing him to confront his own shortcomings and vulnerabilities. While he maintains a generally lighthearted demeanor, Drake's journey involves moments of genuine peril and emotional growth, ultimately solidifying his role as a protector of the city and a father figure to Gosalyn.",
+        "categorized_keywords": {
+          "themes": [
+            "heroism",
+            "responsibility",
+            "family-dynamics",
+            "identity-quest",
+            "good-vs-evil"
+          ],
+          "plot_and_concepts": [
+            "superhero-action",
+            "secret-identity",
+            "sidekick-relationship",
+            "crime-fighting",
+            "revenge-plot"
+          ],
+          "mood_and_tone": [
+            "comedic",
+            "lighthearted",
+            "action-packed",
+            "wholesome",
+            "slapstick-humor"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "animated-comedy",
+            "superhero-genre",
+            "found-family",
+            "fish-out-of-water"
+          ],
+          "setting": [
+            "st-canard",
+            "suburban-setting",
+            "modern-day",
+            "animated-city"
+          ],
+          "character_archetypes": [
+            "superhero",
+            "sidekick",
+            "adopted-daughter",
+            "eccentric-villain",
+            "reluctant-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "kids",
+            "young-adults"
+          ],
+          "detail_plot": [
+            "darkwing-duck-costume",
+            "launchpad-mcquack-airplane",
+            "gosalyn-mallard-gadgets",
+            "steelbeak-lair",
+            "darkwing-duck-catchphrase"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Darkwing Duck is a lighthearted action-adventure series that follows a comedic superhero and his sidekick as they navigate a world of crime and eccentric villains, emphasizing themes of heroism, family, and responsibility within a vibrant animated setting."
+      },
+      "duration_seconds": 63.09744191169739
+    }
+  }
+}

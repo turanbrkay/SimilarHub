@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Dear Edward",
+    "overview": "A 12-year-old boy survives a plane crash that kills every other passenger on the flight, including his family. As he and others affected by the tragedy try to make sense of what happened, unexpected friendships, romances, and communities are formed.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2023,
+    "vote_count": 30
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Dear Edward is a drama series exploring the aftermath of a devastating plane crash and its profound impact on a young boy and those connected to the tragedy. The series focuses on themes of grief, resilience, and the unexpected bonds that form in the face of immense loss. It examines how individuals navigate trauma and find solace in community, offering a poignant and emotionally resonant narrative about healing and human connection. The series blends elements of family drama and psychological exploration, creating a character-driven story about finding hope amidst despair.",
+        "spoiler_rich_plot_summary": "The series begins with Edward, a young boy, experiencing unimaginable loss when the plane he's traveling on crashes, killing his parents and younger sister. He is the sole survivor, thrust into the care of his aunt and uncle, who struggle to understand his grief and trauma. Simultaneously, the series follows the stories of other individuals affected by the crash: a woman whose son was supposed to be on the flight, a flight attendant grappling with survivor's guilt, and a man who lost his wife. As Edward adjusts to his new life, he begins to connect with these individuals, forming unexpected friendships and finding a sense of belonging within a shared experience of loss. The narrative explores the complexities of grief, the challenges of rebuilding lives, and the power of human connection to provide comfort and healing. Edward's journey involves confronting his past, understanding the circumstances of the crash, and ultimately finding a path towards hope and a renewed sense of purpose, while the other characters also grapple with their own losses and find ways to move forward.",
+        "categorized_keywords": {
+          "themes": [
+            "grief",
+            "loss",
+            "resilience",
+            "family-bond",
+            "healing",
+            "community",
+            "trauma",
+            "hope"
+          ],
+          "plot_and_concepts": [
+            "plane-crash",
+            "survivor-guilt",
+            "found-family",
+            "grief-counseling"
+          ],
+          "mood_and_tone": [
+            "melancholy",
+            "poignant",
+            "emotional",
+            "hopeful"
+          ],
+          "genre_and_tropes": [
+            "family-drama",
+            "disaster-drama",
+            "character-driven",
+            "emotional-journey"
+          ],
+          "setting": [
+            "suburban-america",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "grieving-child",
+            "supportive-aunt",
+            "well-meaning-uncle",
+            "compassionate-therapist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "plane-wreckage",
+            "grief-support-group",
+            "childhood-memories",
+            "memorial-service"
+          ],
+          "maturity_and_content": [
+            "emotional-distress",
+            "bereavement"
+          ]
+        },
+        "keyword_sentence": "Dear Edward is a poignant drama series exploring themes of grief, resilience, and the unexpected bonds formed within a community facing the aftermath of a devastating plane crash."
+      },
+      "duration_seconds": 80.47943830490112
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Mythic Quest",
+    "overview": "Meet the team behind the biggest multiplayer video game of all time. But in a workplace focused on building worlds, molding heroes, and creating legends, the most hard-fought battles don’t occur in the game—they happen in the office.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2020,
+    "vote_count": 267
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Mythic Quest is a workplace comedy series that satirizes the video game development industry. The show explores the creative chaos, interpersonal conflicts, and ego clashes within a team striving to create and maintain a massively popular online game. It blends humor with surprisingly poignant observations about ambition, collaboration, and the challenges of artistic creation. The series offers a lighthearted yet insightful look at the pressures and absurdities of the tech world, while also examining the human relationships that underpin even the most high-stakes endeavors.",
+        "spoiler_rich_plot_summary": "The series begins with the team at 'Mythic Quest' scrambling to prepare for a major update to their flagship game. Tensions are high as creative differences and personal ambitions threaten to derail the project. Ian Grimm, the game's visionary creator, struggles to maintain control while Poppy, his ambitious creative director, vies for influence. The first season focuses on the immediate crisis and introduces a colorful cast of characters, each with their own quirks and motivations. Subsequent seasons delve deeper into the characters' backstories, exploring their past traumas and the complex dynamics that shape their present-day interactions. The show navigates through various challenges, including corporate restructuring, creative burnout, and the ethical implications of game development. While the team experiences moments of triumph and connection, they also confront difficult truths about themselves and the industry they work in, ultimately striving to find a balance between artistic integrity and commercial success. The series concludes with the team facing new challenges and opportunities, suggesting a continued evolution of both the game and the relationships between its creators.",
+        "categorized_keywords": {
+          "themes": [
+            "creative-process",
+            "workplace-dynamics",
+            "ambition",
+            "collaboration",
+            "ego",
+            "found-family",
+            "corporate-culture"
+          ],
+          "plot_and_concepts": [
+            "video-game-development",
+            "satire",
+            "ensemble-cast",
+            "workplace-comedy"
+          ],
+          "mood_and_tone": [
+            "humorous",
+            "quirky",
+            "lighthearted",
+            "satirical"
+          ],
+          "genre_and_tropes": [
+            "comedy",
+            "workplace-comedy",
+            "satire"
+          ],
+          "setting": [
+            "modern-day",
+            "tech-industry",
+            "game-development-studio"
+          ],
+          "character_archetypes": [
+            "visionary-creator",
+            "ambitious-director",
+            "eccentric-genius",
+            "reluctant-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "game-development-studio",
+            "video-game-interface",
+            "coding-screen",
+            "creative-brainstorming-session"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Mythic Quest is a humorous and quirky workplace comedy series that satirizes the video game development industry, exploring themes of ambition, collaboration, and creative process within a modern-day tech environment."
+      },
+      "duration_seconds": 59.63367819786072
+    }
+  }
+}

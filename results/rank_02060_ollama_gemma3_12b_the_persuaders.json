@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "The Persuaders!",
+    "overview": "An English aristocrat and an American millionaire come together to tackle crime.",
+    "genres": [
+      "Comedy",
+      "Action & Adventure",
+      "Crime"
+    ],
+    "release_year": 1971,
+    "vote_count": 92
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Persuaders! is a lighthearted, action-adventure series that blends crime-solving with comedic elements. The show follows the unlikely partnership of a wealthy American and a charming English aristocrat as they investigate various criminal activities. The dynamic between the two leads, their contrasting personalities, and the exotic locales they visit contribute to the show's breezy and entertaining tone. It's a product of its time, offering a mix of action, humor, and stylish visuals, designed for broad appeal.",
+        "spoiler_rich_plot_summary": "The series begins with Danny Wilde, a charismatic American gambler, finding himself indebted to a powerful crime boss. To settle his debt, he's paired with Simon Brett, a sophisticated and wealthy English nobleman, by a mysterious benefactor. Each week, Danny and Simon are presented with a new case, ranging from art theft and fraud to international espionage. Their investigations often lead them across Europe, encountering a colorful cast of characters and navigating complex situations. While the cases are self-contained, a larger, overarching mystery surrounding their benefactor and the true nature of their partnership slowly unfolds, hinting at a deeper conspiracy. The duo's contrasting approaches to problem-solving – Danny's improvisational charm versus Simon's meticulous planning – consistently create humorous friction and ultimately lead to the resolution of each case, while also deepening their bond.",
+        "categorized_keywords": {
+          "themes": [
+            "wealth-and-status",
+            "friendship",
+            "crime-solving",
+            "justice",
+            "cultural-differences"
+          ],
+          "plot_and_concepts": [
+            "crime-investigation",
+            "mystery",
+            "buddy-cop",
+            "international-intrigue"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "comedic",
+            "stylish",
+            "adventurous"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "buddy-cop",
+            "action-adventure",
+            "international-espionage"
+          ],
+          "setting": [
+            "europe",
+            "1970s",
+            "luxury-lifestyle"
+          ],
+          "character_archetypes": [
+            "charming-rogue",
+            "sophisticated-aristocrat",
+            "wealthy-benefactor"
+          ],
+          "narrative_style": [
+            "episodic",
+            "self-contained-episodes"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "sports-car",
+            "luxury-hotel",
+            "international-bank",
+            "gambling-den"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Persuaders! is a lighthearted, action-adventure series set in the 1970s, following a charming rogue and a sophisticated aristocrat as they solve crimes and navigate international intrigue with a stylish and comedic flair."
+      },
+      "duration_seconds": 62.49031043052673
+    }
+  }
+}

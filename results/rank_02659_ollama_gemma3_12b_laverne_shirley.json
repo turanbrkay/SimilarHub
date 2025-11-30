@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Laverne & Shirley",
+    "overview": "Laverne & Shirley is an American television sitcom that ran on ABC from January 27, 1976 to May 10, 1983. It starred Penny Marshall as Laverne De Fazio and Cindy Williams as Shirley Feeney, single roommates who worked as bottlecappers in a fictitious Milwaukee brewery called \"Shotz Brewery.\"\n\nThe show was a spin-off from Happy Days, as the two lead characters were originally introduced on that series as acquaintances of Fonzie. Set in roughly the same time period, the timeline started in approximately 1958, when the series began, through 1967, when the series ended. As with Happy Days, it was made by Paramount Television, created by Garry Marshall, and executive produced by Garry Marshall, Edward K. Milkis, and Thomas L. Miller.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1976,
+    "vote_count": 60
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Laverne & Shirley is a classic American sitcom centered on the comedic misadventures of two young women navigating friendship, work, and romance in 1950s and 1960s Milwaukee. The series, spun off from Happy Days, offers a lighthearted and nostalgic portrayal of working-class life, emphasizing the importance of female friendship and resilience in the face of everyday challenges. With its blend of physical comedy and relatable situations, the show provides a feel-good viewing experience rooted in a specific time and place. The series’ enduring appeal lies in its ability to evoke a sense of warmth and familiarity while celebrating the joys of simple pleasures.",
+        "spoiler_rich_plot_summary": "The series begins with Laverne DeFazio and Shirley Feeney, best friends and roommates, working as bottle cappers at Shotz Brewery in Milwaukee. Initially portrayed as somewhat clumsy and naive, they quickly become the focus of the show's comedic situations, often finding themselves in humorous predicaments due to their eagerness and occasional lack of common sense. Throughout the series, Laverne and Shirley pursue various romantic interests, encountering a series of suitors who provide ample opportunities for comedic misunderstandings and awkward encounters. As the show progresses, the characters mature and face more complex challenges, including career aspirations and evolving relationships. While maintaining their core comedic dynamic, the series explores themes of independence, ambition, and the evolving roles of women in the 1950s and 1960s. The series concludes with Laverne and Shirley having established themselves professionally and personally, having navigated the ups and downs of life with humor and unwavering friendship.",
+        "categorized_keywords": {
+          "themes": [
+            "female-friendship",
+            "working-class-life",
+            "nostalgia",
+            "coming-of-age",
+            "romance",
+            "family"
+          ],
+          "plot_and_concepts": [
+            "sitcom",
+            "spin-off",
+            "workplace-comedy",
+            "romantic-comedy"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "optimistic",
+            "feel-good"
+          ],
+          "genre_and_tropes": [
+            "classic-sitcom",
+            "1950s-setting",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "milwaukee-wisconsin",
+            "1950s",
+            "1960s",
+            "american-suburbs"
+          ],
+          "character_archetypes": [
+            "best-friends",
+            "working-women",
+            "optimistic-protagonist"
+          ],
+          "narrative_style": [
+            "episodic-format",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "bottle-capping",
+            "shotz-brewery",
+            "vintage-cars",
+            "1950s-fashion"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Laverne & Shirley is a lighthearted and nostalgic sitcom that celebrates the enduring power of female friendship and the joys of working-class life in 1950s and 1960s Milwaukee."
+      },
+      "duration_seconds": 64.89603066444397
+    }
+  }
+}

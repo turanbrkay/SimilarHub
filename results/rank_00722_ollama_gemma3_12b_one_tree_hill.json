@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "One Tree Hill",
+    "overview": "In Tree Hill, North Carolina two half brothers share a last name and nothing else. Brooding, blue-collar Lucas is a talented street-side basketball player, but his skills are appreciated only by his friends at the river court. Popular, affluent Nathan basks in the hero-worship of the town, as the star of his high school team. And both boys are the son of former college ball player Dan Scott whose long ago choice to abandon Lucas and his mother Karen, will haunt him long into his life with wife Deb and their son Nathan.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2003,
+    "vote_count": 390
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "One Tree Hill is a coming-of-age drama centered on two half-brothers, Lucas and Nathan Scott, navigating adolescence, family dynamics, and romantic relationships in the small town of Tree Hill, North Carolina. The series explores themes of brotherhood, forgiveness, and self-discovery against a backdrop of high school basketball and evolving social circles. While initially focused on the rivalry between the brothers, the show expands to encompass a wider ensemble cast, delving into their personal struggles and interconnected lives. The tone is generally earnest and sentimental, blending dramatic intensity with moments of humor and heartfelt connection, offering a nostalgic and emotionally resonant viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Lucas, a troubled youth from the wrong side of the tracks, discovering he has a wealthy half-brother, Nathan, the star basketball player of Tree Hill High. Their initial rivalry on the court and in social circles gradually evolves into a complex brotherhood, complicated by their shared father, Dan Scott, a manipulative and often morally ambiguous figure. Throughout the early seasons, Lucas and Nathan grapple with their father's past actions and their own identities, navigating romantic relationships with girls like Brooke Davis and Haley James. As the series progresses, the brothers face numerous challenges, including personal tragedies, professional setbacks, and the consequences of their family’s secrets. Relationships shift and evolve, with characters experiencing heartbreak, betrayal, and ultimately, growth. While the brothers initially clash, they eventually forge a deep bond, supporting each other through difficult times and striving to become better men. The series culminates in a sense of closure, with the main characters having achieved a degree of personal fulfillment and having learned valuable lessons about family, friendship, and the importance of second chances.",
+        "categorized_keywords": {
+          "themes": [
+            "brotherhood",
+            "family-dynamics",
+            "forgiveness",
+            "self-discovery",
+            "redemption",
+            "second-chances",
+            "identity-quest"
+          ],
+          "plot_and_concepts": [
+            "coming-of-age",
+            "high-school-drama",
+            "sports-rivalry",
+            "small-town-life",
+            "family-secrets"
+          ],
+          "mood_and_tone": [
+            "sentimental",
+            "earnest",
+            "nostalgic",
+            "emotional"
+          ],
+          "genre_and_tropes": [
+            "teen-drama",
+            "sports-drama",
+            "romantic-relationships",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "north-carolina",
+            "small-town-usa",
+            "high-school"
+          ],
+          "character_archetypes": [
+            "troubled-youth",
+            "popular-athlete",
+            "manipulative-father",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult",
+            "teenagers"
+          ],
+          "detail_plot": [
+            "basketball-court",
+            "high-school-game",
+            "family-home",
+            "small-town-cafe"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "One Tree Hill is a sentimental teen drama exploring themes of brotherhood and self-discovery within a close-knit small-town setting, following the evolving relationships of young adults navigating high school and family dynamics."
+      },
+      "duration_seconds": 62.082683086395264
+    }
+  }
+}

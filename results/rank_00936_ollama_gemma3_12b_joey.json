@@ -1,0 +1,67 @@
+{
+  "input_data": {
+    "title": "Joey",
+    "overview": "The charming and still-single Joey, who has struck out on his own and moved to Hollywood, hoping to truly make it as an actor. After reuniting with his high-strung sister Gina, Joey moves in with Michael, his 20-year-old genius nephew, who unbelievably is literally a rocket scientist. However, what Joey lacks in book smarts he makes up for with people smarts – making him the best new friend his nephew could ask for.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2004,
+    "vote_count": 283
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Joey is a sitcom that follows the titular character as he navigates life and pursues his acting career in Hollywood. The series blends comedic elements with a focus on family dynamics and the challenges of personal ambition. It aims for a lighthearted and optimistic tone, exploring themes of friendship, perseverance, and finding your place in the world. The show's humor derives from Joey's naivete and his interactions with his sister and nephew, creating a generally feel-good viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Joey Tribbiani, having left New York, relocating to Los Angeles to pursue a more serious acting career. He quickly finds himself living with his sister, Gina, and his exceptionally intelligent nephew, Michael. Michael's brilliance often clashes with Joey's more simplistic approach to life, creating humorous situations. Throughout the series, Joey struggles to land significant acting roles, experiencing both successes and setbacks. He forms close bonds with Gina and Michael, relying on their support as he attempts to establish himself in the competitive Hollywood landscape. The show follows his attempts to find love and build a stable life while maintaining his trademark charm and optimism, ultimately showcasing the importance of family and friendship in achieving personal goals.",
+        "categorized_keywords": {
+          "themes": [
+            "family-support",
+            "personal-ambition",
+            "friendship",
+            "optimism",
+            "pursuit-of-dreams"
+          ],
+          "plot_and_concepts": [
+            "fish-out-of-water",
+            "sitcom-format",
+            "career-struggles",
+            "found-family"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "feel-good",
+            "humorous",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "family-comedy"
+          ],
+          "setting": [
+            "los-angeles",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "lovable-loser",
+            "genius-child",
+            "overprotective-sister"
+          ],
+          "narrative_style": [
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "acting-auditions",
+            "nephew-genius",
+            "sister-relationship"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Joey is a lighthearted family comedy set in Los Angeles, following a charming and optimistic man as he pursues his acting dreams with the support of his sister and genius nephew."
+      },
+      "duration_seconds": 50.37643504142761
+    }
+  }
+}

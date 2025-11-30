@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Bob's Burgers",
+    "overview": "Bob's Burgers follows a third-generation restaurateur, Bob, as he runs Bob's Burgers with the help of his wife and their three kids. Bob and his quirky family have big ideas about burgers, but fall short on service and sophistication. Despite the greasy counters, lousy location and a dearth of customers, Bob and his family are determined to make Bob's Burgers \"grand re-re-re-opening\" a success.",
+    "genres": [
+      "Comedy",
+      "Animation"
+    ],
+    "release_year": 2011,
+    "vote_count": 807
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Bob's Burgers is a comedic animated sitcom centered on the Belcher family and their struggling burger restaurant. The show's humor derives from the family's eccentric personalities, their chaotic attempts to run a business, and the quirky residents of their seaside town. It's a lighthearted and heartwarming series that explores themes of family, perseverance, and finding joy in the everyday, blending observational humor with absurdist situations. The show's appeal lies in its relatable characters and its optimistic portrayal of a family navigating the challenges of life with humor and resilience.",
+        "spoiler_rich_plot_summary": "The series begins with Bob and Linda Belcher attempting to open Bob's Burgers in a less-than-ideal location, facing constant financial struggles and a lack of customers. Their three children, Tina, Gene, and Louise, each contribute to the chaos with their unique personalities and schemes. Throughout the seasons, the Belchers encounter a revolving door of eccentric customers and neighbors, each presenting new challenges and comedic opportunities. The family consistently tries new burger creations and promotional events to attract business, often with disastrous but hilarious results. While the restaurant's success remains elusive, the Belchers' bond strengthens as they support each other through thick and thin, learning valuable lessons about family, responsibility, and the importance of pursuing their dreams, even when faced with adversity. The show doesn't resolve the restaurant's financial woes definitively, maintaining a sense of ongoing struggle and comedic potential.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "perseverance",
+            "small-business",
+            "community",
+            "optimism",
+            "quirkiness"
+          ],
+          "plot_and_concepts": [
+            "restaurant-business",
+            "coming-of-age",
+            "ensemble-cast",
+            "slice-of-life"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "absurdist",
+            "warm",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "animated-comedy",
+            "sitcom",
+            "found-family",
+            "slice-of-life"
+          ],
+          "setting": [
+            "coastal-town",
+            "small-business-district",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "eccentric-family",
+            "struggling-entrepreneur",
+            "quirky-teenagers"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "burger-menu",
+            "restaurant-sign",
+            "family-car",
+            "school-bus"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Bob's Burgers is a lighthearted animated sitcom that follows an eccentric family's humorous struggles to run a small burger restaurant in a quirky coastal town, celebrating the bonds of family and the importance of perseverance."
+      },
+      "duration_seconds": 58.60462760925293
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Walking with Beasts",
+    "overview": "The story of life on Earth from the death of the dinosaurs to the dawn of the age of man.",
+    "genres": [
+      "Documentary",
+      "Animation"
+    ],
+    "release_year": 2001,
+    "vote_count": 52
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Walking with Beasts is a documentary series that utilizes CGI animation to recreate prehistoric life, spanning from the extinction of the dinosaurs to the emergence of early humans. The series aims to educate viewers about the evolution of animals and their environments, blending scientific accuracy with dramatic storytelling. It offers a visually stunning and immersive experience, exploring the challenges and adaptations faced by creatures across millions of years. The series is designed to appeal to a broad audience interested in natural history and paleontology, offering a unique perspective on Earth's past.",
+        "spoiler_rich_plot_summary": "The series begins with the immediate aftermath of the Cretaceous–Paleogene extinction event, showcasing the survival of early mammals and the subsequent rise of new species. Viewers witness the evolution of various creatures, from the massive Indricotherium, the largest land mammal ever, to the emergence of early hominids. The narrative follows the changing landscapes and climates, highlighting the impact of environmental shifts on animal populations. The series chronicles the gradual development of human ancestors, their adaptation to new environments, and their eventual dominance over other species. The final episodes depict the early humans migrating across continents, demonstrating their ingenuity and resilience in the face of adversity, ultimately setting the stage for the rise of modern humanity.",
+        "categorized_keywords": {
+          "themes": [
+            "evolution",
+            "survival",
+            "adaptation",
+            "extinction",
+            "prehistoric-life",
+            "natural-history"
+          ],
+          "plot_and_concepts": [
+            "paleontology",
+            "documentary-format",
+            "cgi-animation",
+            "environmental-change",
+            "migration"
+          ],
+          "mood_and_tone": [
+            "educational",
+            "awe-inspiring",
+            "immersive",
+            "scientific",
+            "epic"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "animation",
+            "natural-history-documentary"
+          ],
+          "setting": [
+            "prehistoric-earth",
+            "paleogene-period",
+            "cretaceous-period",
+            "ancient-landscapes"
+          ],
+          "character_archetypes": [
+            "extinct-species",
+            "early-mammals",
+            "hominids",
+            "ancient-fauna"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "chronological-order"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers",
+            "science-enthusiasts"
+          ],
+          "detail_plot": [
+            "indricotherium",
+            "ancient-forests",
+            "mammoth",
+            "early-hominids",
+            "prehistoric-landscape"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Walking with Beasts is an educational documentary series that uses stunning CGI animation to explore the evolution of prehistoric life and the changing landscapes of Earth, from the extinction of the dinosaurs to the emergence of early humans."
+      },
+      "duration_seconds": 61.16604232788086
+    }
+  }
+}

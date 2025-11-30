@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "The Romanoffs",
+    "overview": "An anthology series centered around people who believe themselves to be the modern-day descendants of the Romanov family.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2018,
+    "vote_count": 47
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Romanoffs is an anthology drama series exploring the lives of individuals across different eras and locations who believe they are descendants of the ill-fated Russian royal family. Each season focuses on a new set of characters and a distinct narrative, examining themes of identity, legacy, and the enduring power of historical trauma. The series blends historical fiction with psychological drama, creating a sense of mystery and intrigue as it delves into the complexities of family secrets and the search for belonging. The show’s episodic nature allows for diverse storytelling approaches and a broad exploration of human experience through the lens of a shared, albeit often imagined, lineage.",
+        "spoiler_rich_plot_summary": "The series begins with 'Archimedes,' set in post-revolution Russia, following a young woman who believes she is a Romanov and seeks to reclaim lost family heirlooms. Subsequent seasons transport viewers to various locations and time periods, including Berlin during the Cold War, Paris in the Belle Époque, and modern-day Los Angeles. Each story introduces new characters grappling with the weight of their perceived Romanov heritage, often leading them down paths of obsession, delusion, and danger. The narratives frequently intertwine personal struggles with broader historical events, exploring themes of political intrigue, social upheaval, and the enduring impact of the Romanov dynasty's downfall. While the characters' claims of Romanov descent are often questioned, the series examines the psychological and emotional consequences of believing in a grand, tragic history, and the lengths people will go to in search of identity and purpose. The series concludes with a sense of ambiguity, leaving the audience to question the veracity of the characters' beliefs and the true meaning of legacy.",
+        "categorized_keywords": {
+          "themes": [
+            "identity-quest",
+            "legacy",
+            "family-secrets",
+            "historical-trauma",
+            "belonging",
+            "delusion",
+            "obsession"
+          ],
+          "plot_and_concepts": [
+            "anthology-series",
+            "historical-fiction",
+            "psychological-drama",
+            "royal-family",
+            "political-intrigue"
+          ],
+          "mood_and_tone": [
+            "mysterious",
+            "intriguing",
+            "melancholy",
+            "somber"
+          ],
+          "genre_and_tropes": [
+            "drama",
+            "historical-drama",
+            "anthology"
+          ],
+          "setting": [
+            "russia",
+            "europe",
+            "modern-day",
+            "post-revolution"
+          ],
+          "character_archetypes": [
+            "seeker",
+            "obsessed-protagonist",
+            "historical-figure"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "royal-heirloom",
+            "historical-archive",
+            "aristocratic-mansion"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Romanoffs is a mysterious and somber anthology drama series exploring themes of identity and legacy through the lives of individuals who believe they are descendants of the Russian royal family, set against a backdrop of historical trauma and political intrigue."
+      },
+      "duration_seconds": 58.029839277267456
+    }
+  }
+}

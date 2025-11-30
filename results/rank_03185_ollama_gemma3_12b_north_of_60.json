@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "North of 60",
+    "overview": "North of 60 is a mid-1990s Canadian television series depicting life in the sub-Arctic northern boreal forest. It first aired on CBC Television in 1992 and was syndicated around the world. It is set in the fictional community of Lynx River, a primarily Native-run town depicted as being in the Dehcho Region, Northwest Territories. Most of the characters were Dene. Some non-native characters had important roles: the restaurant/motel owner, the band manager, the nurse and the town's main RCMP officer. The show explored themes of Native poverty, alcoholism, cultural preservation and conflict over land settlements and natural resource exploitation. Originally somewhat light-hearted, it quickly became a more dramatic and ponderous series.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 1992,
+    "vote_count": 43
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "North of 60 is a Canadian drama series set in a remote, predominantly Indigenous community in the Northwest Territories. The show explores the challenges and complexities of life in a sub-Arctic setting, focusing on themes of poverty, cultural preservation, and the impact of external forces like resource exploitation. Initially presented with a lighter tone, the series evolves into a more dramatic and introspective examination of identity, resilience, and the struggle to maintain traditions in a rapidly changing world. It offers a nuanced portrayal of a community grappling with both internal conflicts and external pressures, highlighting the importance of family and cultural heritage.",
+        "spoiler_rich_plot_summary": "The series initially introduces Lynx River, a community striving to maintain its identity amidst economic hardship and cultural shifts. Early episodes depict the daily lives of the residents, showcasing their struggles with poverty, alcoholism, and the challenges of preserving their traditions. As the series progresses, tensions arise from land settlement negotiations and the potential for resource extraction, pitting community members against each other and against outside interests. Relationships are tested as characters confront personal demons and navigate complex family dynamics. The narrative explores the impact of historical injustices and the ongoing struggle for self-determination. While the series maintains a focus on the community's resilience, it doesn't shy away from depicting the harsh realities of life in the North, including the consequences of difficult choices and the loss of loved ones. The overarching narrative arc revolves around the community's fight to protect its culture and land, while also confronting the internal divisions that threaten to tear it apart.",
+        "categorized_keywords": {
+          "themes": [
+            "indigenous-culture",
+            "land-rights",
+            "poverty",
+            "alcoholism",
+            "cultural-preservation",
+            "community-resilience",
+            "family-dynamics",
+            "resource-exploitation",
+            "identity-quest"
+          ],
+          "plot_and_concepts": [
+            "small-town-life",
+            "land-settlements",
+            "resource-extraction",
+            "generational-conflict",
+            "serialized-story"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "reflective",
+            "realistic",
+            "melancholy"
+          ],
+          "genre_and_tropes": [
+            "drama",
+            "small-town-drama",
+            "social-realism"
+          ],
+          "setting": [
+            "northwest-territories",
+            "subarctic",
+            "remote-community",
+            "lynx-river"
+          ],
+          "character_archetypes": [
+            "community-leader",
+            "wise-elder",
+            "struggling-youth",
+            "rcmp-officer"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "rcmp-station",
+            "motel",
+            "restaurant",
+            "traditional-longhouse"
+          ],
+          "maturity_and_content": [
+            "alcohol-abuse",
+            "poverty-themes"
+          ]
+        },
+        "keyword_sentence": "Set in a remote subarctic community, North of 60 is a somber drama exploring themes of indigenous culture, poverty, and the struggle for land rights through a serialized story of resilience and generational conflict."
+      },
+      "duration_seconds": 61.28288650512695
+    }
+  }
+}

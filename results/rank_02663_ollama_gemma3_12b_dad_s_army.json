@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Dad's Army",
+    "overview": "Introducing the Walmington-On-Sea home guard. During WW2, in a fictional British seaside town, a ragtag group of Home Guard local defense volunteers prepare for an imminent German invasion.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1968,
+    "vote_count": 60
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Dad's Army is a beloved British sitcom centered on a group of hapless volunteers in the Home Guard during World War II. The series blends situational comedy with a gentle exploration of community spirit and resilience in the face of adversity. Its humor derives from the characters' eccentricities, their ineptitude, and their attempts to maintain a semblance of order amidst the anxieties of wartime. The show's enduring appeal lies in its portrayal of ordinary people finding camaraderie and purpose in extraordinary circumstances, offering a lighthearted and heartwarming perspective on a historical period.",
+        "spoiler_rich_plot_summary": "The series follows the misadventures of Captain Mainwaring, a pompous and overzealous bank manager, and his platoon of the Walmington-on-Sea Home Guard. Initially, the platoon is comprised of a collection of local characters, each with their own quirks and motivations, including the pacifist Vicar, the bumbling ARP Warden, the scheming spiv, and the perpetually hungry Private Pike. Throughout the series, the group attempts to prepare for a potential German invasion, often through misguided schemes and comical misunderstandings. They engage in elaborate (and largely ineffective) drills, attempt to acquire weaponry, and frequently clash with local authorities and the Women's Institute. While the threat of war looms, the primary focus remains on the interpersonal dynamics within the platoon and their interactions with the wider community, culminating in a series of increasingly absurd and hilarious situations. The series concludes with a poignant, bittersweet farewell, acknowledging the end of the war and the disbandment of the Home Guard, leaving the characters to return to their ordinary lives, forever bound by their shared experiences.",
+        "categorized_keywords": {
+          "themes": [
+            "wartime-spirit",
+            "community-resilience",
+            "british-humor",
+            "social-satire",
+            "male-bonding",
+            "class-dynamics"
+          ],
+          "plot_and_concepts": [
+            "home-guard",
+            "wartime-comedy",
+            "misunderstanding",
+            "deception",
+            "small-town-life"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "optimistic",
+            "nostalgic",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "british-comedy",
+            "ensemble-cast",
+            "fish-out-of-water"
+          ],
+          "setting": [
+            "england",
+            "1940s",
+            "seaside-town",
+            "wartime-england"
+          ],
+          "character_archetypes": [
+            "pompous-leader",
+            "bumbling-sidekick",
+            "scheming-opportunist",
+            "naive-youth",
+            "eccentric-villager"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "home-guard-uniform",
+            "wartime-ration-book",
+            "sandbags",
+            "air-raid-siren",
+            "village-hall"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Dad's Army is a lighthearted British sitcom set in a seaside town during World War II, showcasing a group of eccentric villagers finding camaraderie and humor amidst the anxieties of wartime."
+      },
+      "duration_seconds": 68.22650241851807
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "Spycraft",
+    "overview": "The spy game is a serious business, and throughout history, the tools and technologies developed for it have mattered as much as the spies themselves.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2021,
+    "vote_count": 86
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Spycraft is a documentary series exploring the history and evolution of espionage tools and techniques. Rather than focusing on individual spies, the show examines the ingenuity and innovation behind the gadgets, strategies, and technologies used in the world of intelligence gathering. It offers a unique perspective on the spy game, highlighting the constant arms race between those seeking information and those trying to protect it. The series blends historical accounts with expert analysis, providing a fascinating look at the technical and strategic aspects of espionage. It appeals to viewers interested in history, technology, and the shadowy world of intelligence.",
+        "spoiler_rich_plot_summary": "The series chronicles the development of spycraft from ancient times through to the modern era. Early episodes delve into the use of coded messages, disguises, and covert communication methods employed by historical figures and organizations. As technology advances, the series showcases the evolution of surveillance equipment, including miniature cameras, listening devices, and sophisticated tracking systems. The narrative follows the constant push and pull between innovation and counter-innovation, with each breakthrough in spy technology inevitably leading to the development of countermeasures. Later episodes examine the role of cyber warfare and digital espionage in the 21st century, highlighting the challenges of protecting information in an increasingly interconnected world. The series concludes by suggesting that the fundamental principles of espionage – deception, secrecy, and the pursuit of knowledge – remain constant, regardless of the tools used.",
+        "categorized_keywords": {
+          "themes": [
+            "innovation",
+            "deception",
+            "secrecy",
+            "technology-vs-humanity",
+            "historical-analysis"
+          ],
+          "plot_and_concepts": [
+            "coded-messages",
+            "surveillance-technology",
+            "cyber-warfare",
+            "historical-timeline",
+            "arms-race"
+          ],
+          "mood_and_tone": [
+            "informative",
+            "analytical",
+            "technical",
+            "serious"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "history",
+            "technology",
+            "spy-genre"
+          ],
+          "setting": [
+            "global",
+            "historical",
+            "modern-era"
+          ],
+          "character_archetypes": [],
+          "narrative_style": [
+            "chronological-narrative",
+            "expert-analysis"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "history-buffs",
+            "technology-enthusiasts"
+          ],
+          "detail_plot": [
+            "coded-messages",
+            "miniature-cameras",
+            "listening-devices",
+            "surveillance-equipment"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Spycraft is an informative documentary series that explores the historical evolution of espionage tools and techniques, revealing how innovation and deception have shaped the world of intelligence gathering across time."
+      },
+      "duration_seconds": 59.607895612716675
+    }
+  }
+}

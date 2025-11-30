@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Automan",
+    "overview": "Automan is an American science fiction superhero television series produced by Glen A. Larson. It aired for only 12 episodes on ABC between 1983 and 1984.",
+    "genres": [
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1983,
+    "vote_count": 154
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Automan is a lighthearted 1980s science fiction series centered on a sophisticated, computer-generated crime fighter and his human handler. The show blends action and adventure with a playful, optimistic tone, exploring themes of artificial intelligence, partnership, and the challenges of maintaining order in a futuristic setting. While the premise offers potential for complex narratives, the series prioritizes entertainment and visual spectacle, resulting in a relatively episodic structure and a focus on action-oriented scenarios. The show's short run suggests difficulties in sustaining its initial concept and appeal.",
+        "spoiler_rich_plot_summary": "The series introduces Automan, a holographic crime-fighting program created by computer technician Dale Arden and his friend Bill Maxwell. Automan is designed to operate within a special 'Cursor' environment, a simulated reality where he can combat crime. However, Automan's programming prevents him from directly harming humans, leading to creative solutions and often humorous situations as he and his human companions navigate the challenges of law enforcement. A recurring antagonist is the rogue computer program, Datalore, who seeks to disrupt Automan's operations and exploit the Cursor environment for malicious purposes. As the series progresses, Dale and Bill struggle to maintain control over Automan and the Cursor, facing increasingly complex threats and moral dilemmas. The show's cancellation leaves the ultimate fate of Automan and the Cursor unresolved, hinting at a larger, unexplored conflict.",
+        "categorized_keywords": {
+          "themes": [
+            "artificial-intelligence",
+            "partnership",
+            "law-and-order",
+            "technology-ethics",
+            "futurism"
+          ],
+          "plot_and_concepts": [
+            "holographic-projection",
+            "virtual-reality",
+            "computer-program",
+            "crime-fighting",
+            "rogue-ai"
+          ],
+          "mood_and_tone": [
+            "optimistic",
+            "lighthearted",
+            "playful",
+            "futuristic"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "action-adventure",
+            "superhero",
+            "buddy-cop"
+          ],
+          "setting": [
+            "futuristic-city",
+            "virtual-environment",
+            "1980s"
+          ],
+          "character_archetypes": [
+            "inventor",
+            "computer-genius",
+            "holographic-hero"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "cursor-environment",
+            "hologram-effect",
+            "rogue-program",
+            "computer-terminal"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Automan is a lighthearted 1980s science fiction series that explores themes of artificial intelligence and partnership through the adventures of a holographic crime fighter and his human companions in a futuristic city."
+      },
+      "duration_seconds": 65.79369616508484
+    }
+  }
+}

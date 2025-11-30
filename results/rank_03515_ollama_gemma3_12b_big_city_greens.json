@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Big City Greens",
+    "overview": "The offbeat adventures of 10-year-old Cricket Green, a mischievous and optimistic country boy who moves to the big city with his wildly out of place family – older sister Tilly, father Bill and Gramma Alice.",
+    "genres": [
+      "Family",
+      "Animation",
+      "Comedy"
+    ],
+    "release_year": 2018,
+    "vote_count": 35
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Big City Greens is a comedic animated series centered on a rural family's fish-out-of-water experience adjusting to city life. The show blends observational humor with heartwarming family dynamics, exploring themes of cultural differences, generational gaps, and the challenges of adapting to new environments. Its optimistic tone and quirky characters create a lighthearted and relatable viewing experience, appealing to a broad audience with its blend of silly antics and genuine emotional moments. The series emphasizes the importance of family and finding common ground despite differing perspectives.",
+        "spoiler_rich_plot_summary": "The series begins with the Green family, led by the optimistic Bill and his wife Alice, relocating from their rural farm in Bayfield, Missouri, to the bustling metropolis of Washington, D.C. Their youngest son, Cricket, a relentlessly enthusiastic ten-year-old, is particularly excited by the city's endless possibilities. The family struggles to adapt to the fast-paced urban lifestyle, often clashing with their sophisticated and often bewildered neighbors, the Tanners. Throughout the series, Cricket's boundless energy and unconventional approach to life lead to numerous comical misunderstandings and chaotic situations. The show explores the family's attempts to build a life in the city, navigate new social dynamics, and maintain their rural values amidst the urban landscape. While challenges arise, the Greens consistently demonstrate resilience and a commitment to family, forging unexpected friendships and finding humor in their cultural differences. The series highlights the importance of embracing change and finding joy in the unexpected, even when faced with unfamiliar surroundings.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "cultural-differences",
+            "adaptation",
+            "optimism",
+            "rural-vs-urban",
+            "generational-gaps"
+          ],
+          "plot_and_concepts": [
+            "fish-out-of-water",
+            "coming-of-age",
+            "slice-of-life",
+            "family-comedy"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "humorous",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "animated-comedy",
+            "family-sitcom",
+            "coming-of-age-story"
+          ],
+          "setting": [
+            "washington-dc",
+            "urban-environment",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "optimistic-protagonist",
+            "eccentric-family",
+            "wise-grandmother"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-comedy"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "green-farm",
+            "tanner-house",
+            "city-park",
+            "school-bus"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Big City Greens is a lighthearted animated comedy series that follows an optimistic family as they navigate the challenges and joys of adapting to urban life while celebrating the importance of family and embracing cultural differences."
+      },
+      "duration_seconds": 56.50890588760376
+    }
+  }
+}

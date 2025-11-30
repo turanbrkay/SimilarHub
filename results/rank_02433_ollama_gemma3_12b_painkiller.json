@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Painkiller",
+    "overview": "The causes and consequences of America's opioid epidemic unfold in this drama following its perpetrators, victims and an investigator seeking the truth.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "release_year": 2023,
+    "vote_count": 69
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Painkiller is a drama series that explores the complex and devastating opioid crisis in America. The series examines the origins of the epidemic, the individuals who profited from it, and the lives tragically impacted by it. Through a blend of investigative journalism and character-driven narratives, the show aims to uncover the systemic failures and ethical compromises that fueled the crisis. The tone is somber and investigative, offering a critical look at corporate greed, regulatory shortcomings, and the human cost of addiction. It's a cautionary tale about the dangers of unchecked ambition and the importance of accountability.",
+        "spoiler_rich_plot_summary": "The series initially focuses on Edward Jenner, a brilliant and relentless investigator at the DEA, who becomes obsessed with uncovering the source of a sudden spike in overdoses linked to Purdue Pharma's OxyContin. His investigation leads him to expose the deceptive marketing practices employed by Purdue, which downplayed the drug's addictive potential and aggressively promoted it to doctors. Simultaneously, the narrative follows Richard Sackler, a member of the Sackler family and a key figure at Purdue, as he pushes for the drug's widespread adoption, prioritizing profits over patient safety. The story also delves into the experiences of victims and their families, illustrating the devastating impact of addiction and the long road to recovery. As Jenner’s investigation intensifies, he faces resistance from powerful forces within Purdue and the broader pharmaceutical industry, highlighting the challenges of holding corporations accountable. The series culminates in a legal reckoning for Purdue Pharma, but not without a profound and lasting impact on the lives of countless individuals and families.",
+        "categorized_keywords": {
+          "themes": [
+            "corporate-greed",
+            "addiction",
+            "justice",
+            "accountability",
+            "loss",
+            "ethics",
+            "public-health"
+          ],
+          "plot_and_concepts": [
+            "legal-drama",
+            "investigative-journalism",
+            "pharmaceutical-industry",
+            "opioid-crisis",
+            "whistleblower"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "suspenseful",
+            "critical",
+            "unsettling"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "legal-thriller",
+            "true-crime"
+          ],
+          "setting": [
+            "modern-day",
+            "united-states",
+            "courtroom"
+          ],
+          "character_archetypes": [
+            "investigator",
+            "corporate-executive",
+            "victim",
+            "whistleblower"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "multiple-perspectives"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "oxycontin-prescription",
+            "dea-raid",
+            "court-proceedings",
+            "pharmaceutical-marketing"
+          ],
+          "maturity_and_content": [
+            "substance-abuse",
+            "graphic-violence"
+          ]
+        },
+        "keyword_sentence": "Painkiller is a somber and suspenseful legal drama that critically examines the corporate greed and devastating consequences of the opioid crisis in modern-day America."
+      },
+      "duration_seconds": 62.870118618011475
+    }
+  }
+}

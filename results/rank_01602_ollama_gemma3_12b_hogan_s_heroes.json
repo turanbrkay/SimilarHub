@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Hogan's Heroes",
+    "overview": "Hogan's Heroes is an American television sitcom that ran for 168 episodes from September 17, 1965, to July 4, 1971, on the CBS network. The show was set in a German prisoner of war camp during World War II. Bob Crane starred as Colonel Robert E. Hogan, coordinating an international crew of Allied prisoners running a Special Operations group from the camp. Werner Klemperer played Colonel Wilhelm Klink, the commandant of the camp, and John Banner was the inept sergeant-of-the-guard, Hans Schultz.\n\nThe series was popular during its six-season run. In 2013, creators Bernard Fein through his estate and Albert S. Ruddy acquired the sequel and other separate rights to Hogan's Heroes from Mark Cuban through arbitration and a movie based on the show has been planned.",
+    "genres": [
+      "War & Politics",
+      "Comedy"
+    ],
+    "release_year": 1965,
+    "vote_count": 131
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Hogan's Heroes is a comedic sitcom set in a German prisoner-of-war camp during World War II. The series follows Colonel Robert Hogan and his team of Allied prisoners who secretly run a resistance operation from within the camp, constantly outwitting the inept German officers. The show's humor derives from the absurdity of the situation and the contrast between the prisoners' clandestine activities and the Germans' oblivious attempts to maintain order. Hogan's Heroes offers a lighthearted and satirical take on wartime, emphasizing cleverness and resilience over serious conflict. Despite its comedic tone, the show subtly explores themes of ingenuity, teamwork, and the human spirit's ability to find humor even in challenging circumstances.",
+        "spoiler_rich_plot_summary": "The series begins with Colonel Robert Hogan and a diverse group of Allied prisoners arriving at Stalag 13, a seemingly ordinary German POW camp. Hogan, a skilled intelligence officer, quickly realizes the camp's strategic location and the potential to use it as a base for Allied operations. He establishes a network of tunnels and hidden compartments beneath the camp, utilizing the prisoners' skills to sabotage German efforts and aid resistance movements. Colonel Wilhelm Klink, the camp's ambitious but incompetent commandant, and Sergeant Hans Schultz, a morally flexible guard, become recurring foils for Hogan and his team, constantly attempting to thwart their plans while often inadvertently aiding them. Throughout the series, Hogan and his team undertake various missions, including rescuing downed pilots, disrupting German supply lines, and gathering intelligence. While the prisoners face numerous setbacks and close calls, they consistently manage to outwit their captors, maintaining a facade of normalcy while secretly undermining the German war effort. The series concludes with the liberation of Stalag 13 by Allied forces, marking the end of the prisoners' clandestine operations and the culmination of their enduring struggle against adversity.",
+        "categorized_keywords": {
+          "themes": [
+            "ingenuity",
+            "resistance",
+            "deception",
+            "friendship",
+            "wartime-humor",
+            "cultural-clash"
+          ],
+          "plot_and_concepts": [
+            "prisoner-of-war-camp",
+            "espionage",
+            "sabotage",
+            "underground-tunnels",
+            "comical-misunderstanding"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "satirical",
+            "absurdist",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "war-comedy",
+            "fish-out-of-water",
+            "slapstick-humor"
+          ],
+          "setting": [
+            "world-war-ii",
+            "german-pow-camp",
+            "europe"
+          ],
+          "character_archetypes": [
+            "resourceful-leader",
+            "incompetent-authority",
+            "moral-ambiguity",
+            "loyal-sidekick"
+          ],
+          "narrative_style": [
+            "episodic-format",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "stalag-13",
+            "klink's-office",
+            "schultz's-desk",
+            "escape-tunnel"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Hogan's Heroes is a lighthearted sitcom set in a German prisoner-of-war camp during World War II, where a resourceful leader and his team use ingenuity and deception to outwit incompetent authority figures in a comical display of wartime resistance."
+      },
+      "duration_seconds": 73.50189638137817
+    }
+  }
+}

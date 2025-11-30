@@ -1,0 +1,69 @@
+{
+  "input_data": {
+    "title": "The Price Is Right",
+    "overview": "\"Come on down!\" The Price Is Right features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. ",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 1972,
+    "vote_count": 73
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Price Is Right is a long-running American game show centered around contestants guessing the retail price of merchandise. The show's enduring appeal lies in its simple premise, enthusiastic atmosphere, and the excitement of potentially winning valuable prizes. It's a lighthearted and family-friendly program that celebrates consumerism and the thrill of a good deal. The show's format has evolved over the years, but the core concept of guessing prices remains unchanged, contributing to its consistent popularity across generations.",
+        "spoiler_rich_plot_summary": "The show begins with potential contestants vying for a spot on stage. Four contestants are selected to participate in the initial pricing game, attempting to guess the price of an item within a certain range. Those who guess correctly advance to the Showcase Showdown, where they spin a giant wheel to determine their points. The contestant with the highest score then selects three prizes from a showcase, and their total value is compared to the guesses of the other contestants. The contestant who comes closest to the actual value without going over wins the entire showcase. Over the decades, the show has featured a wide variety of prizes, from cars and vacations to appliances and electronics, and has become a cultural phenomenon, known for its iconic theme song and enthusiastic host.",
+        "categorized_keywords": {
+          "themes": [
+            "consumerism",
+            "competition",
+            "chance",
+            "winning",
+            "game-show"
+          ],
+          "plot_and_concepts": [
+            "pricing-game",
+            "showcase-showdown",
+            "wheel-spin",
+            "retail-value"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "energetic",
+            "optimistic",
+            "family-friendly"
+          ],
+          "genre_and_tropes": [
+            "game-show",
+            "reality-television"
+          ],
+          "setting": [
+            "television-studio",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "enthusiastic-host",
+            "competitive-contestant"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "giant-wheel",
+            "showcase-prizes",
+            "pricing-contest",
+            "studio-audience"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Price Is Right is a lighthearted and energetic game show where contestants compete to guess the retail price of merchandise for a chance to win exciting showcase prizes."
+      },
+      "duration_seconds": 53.81371259689331
+    }
+  }
+}

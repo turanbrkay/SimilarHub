@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "Pee-wee's Playhouse",
+    "overview": "Pee-wee's Playhouse is an American children's television program starring Paul Reubens as the childlike Pee-wee Herman.",
+    "genres": [
+      "Kids",
+      "Comedy"
+    ],
+    "release_year": 1986,
+    "vote_count": 42
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Pee-wee's Playhouse is a surreal and whimsical children's program centered around the eccentric Pee-wee Herman and his vibrant, toy-filled Playhouse. The show blends live-action with puppetry and animation, creating a dreamlike atmosphere that encourages imagination and play. Its humor is often absurd and nonsensical, appealing to both children and adults with its clever wordplay and visual gags. The series fosters a sense of wonder and celebrates the power of creativity, offering a unique and joyful viewing experience.",
+        "spoiler_rich_plot_summary": "The series doesn't follow a traditional narrative arc but rather presents a series of episodic adventures within Pee-wee's Playhouse. Each episode introduces new games, characters, and lessons, all guided by Pee-wee's childlike perspective and the playful interactions with his friends, including Cowboy, Magic Screen, and Miss Yvonne. Throughout the series, Pee-wee frequently embarks on quests to find missing objects or solve simple problems, often leading to chaotic and hilarious situations. The show culminates in a grand farewell party, where Pee-wee and his friends bid adieu to the Playhouse, leaving viewers with a bittersweet sense of closure and a celebration of the joy of play.",
+        "categorized_keywords": {
+          "themes": [
+            "childhood-innocence",
+            "imagination",
+            "playfulness",
+            "friendship",
+            "creativity"
+          ],
+          "plot_and_concepts": [
+            "surrealism",
+            "nonsense-humor",
+            "toy-centric",
+            "episodic-format"
+          ],
+          "mood_and_tone": [
+            "whimsical",
+            "joyful",
+            "playful",
+            "absurd"
+          ],
+          "genre_and_tropes": [
+            "childrens-comedy",
+            "live-action-animation",
+            "surreal-comedy"
+          ],
+          "setting": [
+            "playhouse-setting",
+            "fantasy-world"
+          ],
+          "character_archetypes": [
+            "childlike-protagonist",
+            "eccentric-character",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "episodic-storytelling"
+          ],
+          "target_audience": [
+            "children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "magic-screen",
+            "captain-cassette",
+            "secret-word",
+            "chairy-ot",
+            "playhouse-mailbox"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Pee-wee's Playhouse is a whimsical and joyful children's comedy series that celebrates imagination and playfulness through a surreal world filled with eccentric characters and playful antics."
+      },
+      "duration_seconds": 50.26125526428223
+    }
+  }
+}

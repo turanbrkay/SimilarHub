@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "The Bernie Mac Show",
+    "overview": "The Bernie Mac Show is an American sitcom that aired on Fox for five seasons from November 14, 2001 to April 14, 2006. The series featured comic actor Bernie Mac and his wife Wanda raising his sister's three kids: Jordan, Bryana, and Vanessa.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2001,
+    "vote_count": 51
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Bernie Mac Show is a sitcom centered on a Chicago-based comedian and his wife navigating the challenges of raising their own family while unexpectedly becoming the primary caregivers for Bernie's younger sister's three children. The series blends observational humor with heartwarming family dynamics, exploring themes of responsibility, generational differences, and the complexities of modern parenting. It offers a comedic and relatable portrayal of family life, grounded in the everyday struggles and triumphs of a close-knit group. The show's strength lies in its authentic portrayal of family relationships and its ability to find humor in the ordinary.",
+        "spoiler_rich_plot_summary": "The series begins with Bernie and Wanda unexpectedly taking in Bernie's sister's three children – Jordan, Bryana, and Vanessa – due to their mother's struggles. The initial seasons focus on the adjustment period for everyone involved, as Bernie and Wanda grapple with the responsibilities of parenthood while maintaining their own careers and relationship. Throughout the series, the children grow and mature, facing typical adolescent challenges and testing the boundaries of their unconventional family structure. The show explores the evolving dynamics between Bernie and Wanda, as they learn to balance their individual needs with the demands of raising four children. Recurring storylines involve the children's school experiences, their relationships with friends, and the occasional interference from extended family members. While the show maintains a comedic tone, it also touches on more serious issues such as financial strain, parental expectations, and the importance of family support. The series concludes with the children reaching adulthood, signifying a new chapter for Bernie and Wanda as they transition into a more supportive role.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "parenting-challenges",
+            "generational-gaps",
+            "responsibility",
+            "unexpected-caregiving",
+            "cultural-identity"
+          ],
+          "plot_and_concepts": [
+            "sitcom-format",
+            "found-family",
+            "fish-out-of-water",
+            "unexpected-responsibility"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "humorous",
+            "warm",
+            "relatable"
+          ],
+          "genre_and_tropes": [
+            "family-sitcom",
+            "urban-comedy"
+          ],
+          "setting": [
+            "chicago-city",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "comedian-protagonist",
+            "strong-female-lead",
+            "teenager-rebellion",
+            "wise-older-sibling"
+          ],
+          "narrative_style": [
+            "episodic-storytelling",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "family-dinner",
+            "school-bus",
+            "basketball-game",
+            "urban-neighborhood"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Bernie Mac Show is a lighthearted family sitcom set in modern-day Chicago, exploring the humorous and relatable challenges of unexpected caregiving and generational gaps within a close-knit urban family."
+      },
+      "duration_seconds": 59.438085079193115
+    }
+  }
+}

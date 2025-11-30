@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Crime Story",
+    "overview": "The hard-boiled saga of hair-trigger cop Lieutenant Mike Torello and his obsessive pursuit of ruthless gangster Ray Luca.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Action & Adventure",
+      "Mystery"
+    ],
+    "release_year": 1986,
+    "vote_count": 54
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Crime Story is a gritty, action-packed crime drama that explores the complex relationship between a dedicated police lieutenant and a charismatic criminal. Set against the backdrop of 1980s Miami and Detroit, the series delves into themes of loyalty, ambition, and the blurred lines between law enforcement and organized crime. The show's intense narrative and morally ambiguous characters create a suspenseful and often violent viewing experience, showcasing the personal toll exacted by a relentless pursuit of justice. It's a character-driven exploration of the criminal underworld and the individuals caught within its orbit.",
+        "spoiler_rich_plot_summary": "The series begins with Lieutenant Mike Torello investigating a brutal murder in Miami, which leads him to the trail of Ray Luca, a rising star in the Detroit mob. Torello's obsessive pursuit of Luca quickly escalates into a personal vendetta, as he uncovers Luca's intricate network of criminal enterprises and the corruption that enables them. The first season culminates in a dramatic confrontation in Detroit, where Torello attempts to bring Luca to justice, but the situation is complicated by Luca's connections and the moral compromises Torello must make. The second season shifts the focus to Luca's rise to power in Las Vegas, where he attempts to establish a new criminal empire. Torello, now working in Las Vegas, continues his relentless pursuit, leading to a final, explosive showdown that tests the limits of both men and their respective codes of honor. The series concludes with a sense of tragic inevitability, highlighting the cyclical nature of violence and the enduring consequences of a life consumed by crime.",
+        "categorized_keywords": {
+          "themes": [
+            "crime-and-punishment",
+            "loyalty",
+            "corruption",
+            "redemption",
+            "vengeance",
+            "moral-ambiguity"
+          ],
+          "plot_and_concepts": [
+            "police-investigation",
+            "mob-crime",
+            "criminal-empire",
+            "cat-and-mouse",
+            "revenge-plot"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "dark",
+            "suspenseful",
+            "violent",
+            "noir"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "police-procedural",
+            "neo-noir",
+            "anti-hero"
+          ],
+          "setting": [
+            "miami",
+            "detroit",
+            "las-vegas",
+            "1980s"
+          ],
+          "character_archetypes": [
+            "hardboiled-detective",
+            "criminal-mastermind",
+            "corrupt-official"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "police-badge",
+            "mob-boss",
+            "casino-floor",
+            "interrogation-room"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "Crime Story is a gritty, suspenseful crime drama set in the 1980s, exploring themes of loyalty and corruption through the relentless pursuit of a hardboiled detective and a criminal mastermind."
+      },
+      "duration_seconds": 71.11244559288025
+    }
+  }
+}

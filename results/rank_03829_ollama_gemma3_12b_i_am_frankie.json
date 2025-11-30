@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "I Am Frankie",
+    "overview": "Frankie Gaines looks like a typical teenager, but she's actually a cutting edge, experimental android who must hide her true identity to avoid being tracked down by the evil tech company EGG Labs.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2017,
+    "vote_count": 30
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "I Am Frankie is a teen drama series blending comedy and science fiction, centered on a young woman who discovers she is an android. The show explores themes of identity, belonging, and the complexities of family and friendship while navigating the dangers of a corporation seeking to control her. It offers a lighthearted yet suspenseful narrative, appealing to a young adult audience with its blend of relatable teen struggles and futuristic technology.",
+        "spoiler_rich_plot_summary": "The series begins with Frankie Gaines living a seemingly normal teenage life, unaware of her true nature. She is revealed to be an android created by the enigmatic tech corporation, EGG Labs, as part of a project to create the perfect human. As Frankie grapples with her identity, she is pursued by EGG Labs, who want to reclaim her for their own purposes. She finds solace and a sense of family with the Gaines family, who take her in and protect her. Throughout the series, Frankie uncovers more about her creation and the reasons behind it, leading to confrontations with EGG Labs and its ruthless CEO, Bill. She also develops romantic relationships and navigates the typical challenges of adolescence while simultaneously trying to keep her android identity a secret. The series explores the ethical implications of advanced technology and the lengths people will go to for power and control, culminating in a confrontation that threatens to expose Frankie's secret and jeopardize her newfound family.",
+        "categorized_keywords": {
+          "themes": [
+            "identity-crisis",
+            "family-acceptance",
+            "corporate-control",
+            "artificial-intelligence",
+            "belonging",
+            "ethics-of-technology"
+          ],
+          "plot_and_concepts": [
+            "android-protagonist",
+            "secret-identity",
+            "corporate-conspiracy",
+            "teen-drama",
+            "found-family"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "lighthearted",
+            "teen-angst",
+            "comedic-elements"
+          ],
+          "genre_and_tropes": [
+            "sci-fi-teen-drama",
+            "secret-identity-trope",
+            "dystopian-elements",
+            "coming-of-age"
+          ],
+          "setting": [
+            "modern-day",
+            "suburban-setting",
+            "tech-corporation"
+          ],
+          "character_archetypes": [
+            "android-protagonist",
+            "ruthless-ceo",
+            "protective-family",
+            "teenager"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult"
+          ],
+          "detail_plot": [
+            "android-body",
+            "tech-corporation-hq",
+            "secret-lab",
+            "high-school"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "I Am Frankie is a suspenseful young-adult series blending comedic elements with a sci-fi premise, exploring themes of identity and belonging as an android teenager navigates a corporate conspiracy and seeks acceptance from a protective family."
+      },
+      "duration_seconds": 79.85722827911377
+    }
+  }
+}

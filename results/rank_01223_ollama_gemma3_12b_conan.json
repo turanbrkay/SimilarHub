@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Conan",
+    "overview": "A late night television talk show hosted by  Conan O'Brien.",
+    "genres": [
+      "Talk",
+      "Comedy",
+      "News"
+    ],
+    "release_year": 2010,
+    "vote_count": 198
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Conan is a late-night talk show hosted by Conan O'Brien, known for its absurdist humor, celebrity interviews, and unconventional comedic bits. The show blends traditional talk show elements with sketch comedy and musical performances, often pushing boundaries and embracing a playful, irreverent tone. It serves as a platform for O'Brien's unique brand of comedy and provides a space for showcasing emerging talent and engaging in topical discussions. The show's success lies in its ability to consistently deliver unexpected and entertaining content, appealing to a broad audience seeking a refreshing alternative to conventional late-night programming.",
+        "spoiler_rich_plot_summary": "Conan began as a continuation of O'Brien's previous late-night show, initially maintaining a familiar format. However, as the series progressed, it increasingly embraced more experimental and absurdist segments, often featuring elaborate sketches, musical numbers, and recurring characters. The show frequently incorporated self-referential humor, poking fun at the conventions of late-night television and O'Brien's own career. Celebrity interviews remained a core element, but were often punctuated by unexpected comedic interventions and playful interactions. The show's evolution reflected O'Brien's desire to push creative boundaries and maintain a distinctive voice in a competitive landscape, culminating in a format that prioritized unconventional humor and audience engagement over strict adherence to traditional talk show structures. The show's longevity is a testament to its ability to adapt and reinvent itself while retaining its core comedic identity.",
+        "categorized_keywords": {
+          "themes": [
+            "comedy",
+            "celebrity",
+            "satire",
+            "talk-show",
+            "interview",
+            "humor"
+          ],
+          "plot_and_concepts": [
+            "late-night-television",
+            "sketch-comedy",
+            "musical-performance",
+            "interview-segment"
+          ],
+          "mood_and_tone": [
+            "absurdist",
+            "playful",
+            "irreverent",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "talk-show",
+            "comedy",
+            "interview-format"
+          ],
+          "setting": [
+            "late-night-studio",
+            "television-studio"
+          ],
+          "character_archetypes": [
+            "host",
+            "comedian",
+            "interviewee"
+          ],
+          "narrative_style": [
+            "serialized-segments",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "comedy-fans"
+          ],
+          "detail_plot": [
+            "studio-audience",
+            "band-performance",
+            "interview-chair",
+            "stage-lighting"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Conan is a late-night talk show known for its absurdist comedy, celebrity interviews, and playful, irreverent tone, often pushing boundaries within the television studio setting."
+      },
+      "duration_seconds": 58.017250537872314
+    }
+  }
+}

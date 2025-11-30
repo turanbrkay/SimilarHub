@@ -1,0 +1,89 @@
+{
+  "input_data": {
+    "title": "Star Wars: Andor",
+    "overview": "The tale of the burgeoning rebellion against the Empire and how people and planets became involved. In an era filled with danger, deception and intrigue, Cassian Andor embarks on the path that is destined to turn him into a rebel hero.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Drama"
+    ],
+    "release_year": 2022,
+    "vote_count": 843
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Star Wars: Andor is a gritty, character-driven series exploring the early days of the Rebel Alliance. Departing from traditional Star Wars narratives, it focuses on the political and economic factors that drive individuals to join the rebellion, portraying a morally complex universe where heroism is born from desperation and sacrifice. The series emphasizes realism and grounded storytelling, examining the systemic oppression and exploitation that fuel the fight against the Empire. It offers a mature and nuanced perspective on the Star Wars universe, focusing on espionage, intrigue, and the slow burn of revolution.",
+        "spoiler_rich_plot_summary": "The series begins by introducing Cassian Andor, a morally ambiguous thief operating on the outer rim planet of Ferrix. His actions inadvertently draw the attention of the Empire, leading to a series of events that reveal a larger conspiracy involving the exploitation of Ferrix’s resources and the suppression of its people. Cassian’s journey takes him across the galaxy, encountering a diverse cast of characters – rebels, spies, and Imperial officials – each with their own motivations and allegiances. He becomes entangled in a network of resistance cells, gradually understanding the scope of the Empire’s reach and the sacrifices required to fight back. The narrative follows multiple storylines, exploring the origins of key rebel figures and the development of the Rebellion’s infrastructure. As Cassian becomes more deeply involved, he confronts his own past and grapples with the ethical compromises necessary for the fight. The series culminates in a coordinated effort to disrupt Imperial operations, setting the stage for future conflicts and highlighting the growing strength of the Rebellion, though at a significant cost to many involved.",
+        "categorized_keywords": {
+          "themes": [
+            "political-oppression",
+            "economic-exploitation",
+            "moral-ambiguity",
+            "sacrifice",
+            "rebellion",
+            "identity-quest",
+            "found-family"
+          ],
+          "plot_and_concepts": [
+            "espionage",
+            "political-thriller",
+            "undercover-operation",
+            "resistance-movement",
+            "corporate-greed",
+            "smuggling"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "dark",
+            "tense",
+            "realistic",
+            "somber"
+          ],
+          "genre_and_tropes": [
+            "space-opera",
+            "crime-thriller",
+            "political-drama",
+            "found-family",
+            "slow-burn"
+          ],
+          "setting": [
+            "space-setting",
+            "outer-rim",
+            "galactic-empire",
+            "industrial-planet"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "spy",
+            "corrupt-official",
+            "rebel-leader",
+            "smuggler"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "rebel-base",
+            "imperial-ship",
+            "smuggling-ship",
+            "prison-planet",
+            "rebel-uniform"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "political-corruption",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "Star Wars: Andor portrays a gritty and morally complex space opera, exploring themes of political oppression and rebellion through the journeys of reluctant heroes caught in the slow burn of a galactic uprising."
+      },
+      "duration_seconds": 76.00495171546936
+    }
+  }
+}

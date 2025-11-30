@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Wuthering Heights",
+    "overview": "Foundling Heathcliff is raised by the wealthy Earnshaws in Yorkshire but in later life launches a vendetta against the family.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2009,
+    "vote_count": 77
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Wuthering Heights is a dark and brooding drama exploring themes of love, revenge, and social class in 19th-century Yorkshire. The series centers on the complex and destructive relationship between Heathcliff and Catherine Earnshaw, whose passionate but ultimately thwarted love fuels a cycle of bitterness and violence across generations. The narrative is characterized by its atmospheric setting, intense emotional turmoil, and examination of the enduring power of the past. It offers a bleak and ultimately tragic portrayal of human nature and the consequences of unchecked desire.",
+        "spoiler_rich_plot_summary": "The story begins with Mr. Earnshaw bringing an orphaned boy, Heathcliff, to live at Wuthering Heights. Heathcliff and Catherine Earnshaw develop a deep and passionate bond, but their social differences and Catherine's marriage to the wealthy Edgar Linton create a rift that defines their lives. Heathcliff, consumed by jealousy and a desire for revenge, leaves Wuthering Heights and returns years later a wealthy and hardened man. He systematically manipulates the lives of the next generation, seeking to punish the Earnshaws and Lintons for the pain he has suffered. The cycle of vengeance continues through their children, with Isabella Linton’s disastrous marriage to Heathcliff and the tragic fates of young Catherine and Linton Heathcliff further entangling the families in a web of misery. Ultimately, the destructive passions that began with Heathcliff and Catherine’s thwarted love are only resolved through the deaths of the key players, leaving a new generation to inherit the legacy of bitterness and despair.",
+        "categorized_keywords": {
+          "themes": [
+            "revenge",
+            "social-class",
+            "forbidden-love",
+            "grief",
+            "redemption",
+            "family-loyalty",
+            "fate",
+            "loss"
+          ],
+          "plot_and_concepts": [
+            "gothic-romance",
+            "generational-curse",
+            "social-injustice",
+            "vindication",
+            "arranged-marriage"
+          ],
+          "mood_and_tone": [
+            "brooding",
+            "melancholy",
+            "tragic",
+            "atmospheric",
+            "bleak"
+          ],
+          "genre_and_tropes": [
+            "period-drama",
+            "gothic-fiction",
+            "romantic-tragedy",
+            "revenge-tragedy"
+          ],
+          "setting": [
+            "19th-century-england",
+            "yorkshire-moorland",
+            "rural-england"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "tormented-lover",
+            "social-outcast",
+            "tragic-heroine"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "generational-saga"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "wuthering-heights-manor",
+            "thrushcross-grange",
+            "yorkshire-moor"
+          ],
+          "maturity_and_content": [
+            "emotional-abuse",
+            "death",
+            "social-inequality"
+          ]
+        },
+        "keyword_sentence": "Set against the bleak Yorkshire moors, Wuthering Heights is a tragic period drama exploring themes of forbidden love, revenge, and social injustice through the lives of tormented characters bound by a generational curse."
+      },
+      "duration_seconds": 68.66637182235718
+    }
+  }
+}

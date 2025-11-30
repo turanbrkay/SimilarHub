@@ -1,0 +1,70 @@
+{
+  "input_data": {
+    "title": "Bob the Builder",
+    "overview": "Bob the Builder and his machine team are ready to tackle any project. Bob and the Can-Do Crew demonstrate the power of positive thinking, problem-solving, teamwork, and follow-through. The team always shows that “The Fun Is In Getting It Done!”",
+    "genres": [
+      "Animation"
+    ],
+    "release_year": 1999,
+    "vote_count": 97
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Bob the Builder is a British animated children's television series centered around a construction crew and their problem-solving abilities. The show emphasizes teamwork, positive attitudes, and the satisfaction of completing tasks. It's designed to be educational and entertaining for young viewers, promoting practical skills and encouraging a 'can-do' spirit. The series blends elements of construction, friendship, and gentle life lessons, creating a wholesome and reassuring viewing experience.",
+        "spoiler_rich_plot_summary": "The series follows Bob, a builder, and his team of talking construction vehicles, including Scoop, Muck, Dizzy, Roley, and Lofty. Each episode typically presents a new construction project, ranging from building a treehouse to repairing a bridge. The team faces challenges and setbacks, but through collaboration and perseverance, they overcome obstacles and successfully complete the task. Recurring characters like Wendy, Bob's business partner, and various townspeople provide support and contribute to the community. While the series doesn't feature complex overarching plots, each project presents a mini-narrative arc with its own set of problems and resolutions, reinforcing the importance of hard work and friendship. The show consistently demonstrates that even seemingly insurmountable tasks can be achieved with a positive attitude and a willingness to work together.",
+        "categorized_keywords": {
+          "themes": [
+            "teamwork",
+            "problem-solving",
+            "friendship",
+            "positive-attitude",
+            "construction",
+            "community"
+          ],
+          "plot_and_concepts": [
+            "construction-project",
+            "problem-solution",
+            "building-repair"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "optimistic",
+            "gentle",
+            "educational"
+          ],
+          "genre_and_tropes": [
+            "childrens-tv",
+            "educational-tv",
+            "talking-animals"
+          ],
+          "setting": [
+            "small-town",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "helpful-mentor",
+            "reliable-team-member"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "problem-solution-structure"
+          ],
+          "target_audience": [
+            "young-children",
+            "preschoolers"
+          ],
+          "detail_plot": [
+            "construction-vehicle",
+            "building-site",
+            "toolbox",
+            "blueprint"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Bob the Builder is a wholesome and optimistic children's television series that emphasizes teamwork and problem-solving through construction projects in a small-town setting."
+      },
+      "duration_seconds": 55.82366228103638
+    }
+  }
+}

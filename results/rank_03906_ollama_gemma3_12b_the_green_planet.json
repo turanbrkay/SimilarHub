@@ -1,0 +1,69 @@
+{
+  "input_data": {
+    "title": "The Green Planet",
+    "overview": "This documentary series about plants is the first immersive portrayal of an unseen, inter-connected world, full of remarkable new behaviour, emotional stories and surprising heroes in the plant world. Planet Earth from the perspective of plants.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2022,
+    "vote_count": 29
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Green Planet is a documentary series offering a unique perspective on the natural world, focusing entirely on the lives and behaviors of plants. Utilizing cutting-edge filming techniques, the series aims to reveal the complex and often surprising ways plants interact with their environment and each other. It presents a visually stunning and emotionally engaging exploration of a realm typically overlooked, highlighting the resilience, adaptation, and interconnectedness of plant life. The series aims to foster a deeper appreciation for the vital role plants play in our planet's ecosystem. It's a celebration of botanical life, presented with a narrative style akin to a wildlife documentary but centered on the plant kingdom.",
+        "spoiler_rich_plot_summary": "The series journeys across diverse biomes, from rainforests to deserts, showcasing the remarkable adaptations plants have developed to thrive in challenging conditions. Each episode focuses on a specific habitat, revealing the intricate relationships between plants and their surroundings, including interactions with animals and other organisms. Viewers witness plants exhibiting behaviors previously unknown, such as complex communication strategies and cooperative survival tactics. The series emphasizes the interconnectedness of ecosystems, demonstrating how the health of one plant community directly impacts others. While not a narrative in the traditional sense, the series follows a thematic arc of revealing the hidden complexity and beauty of the plant world, culminating in a broader understanding of the importance of plant conservation and the fragility of these ecosystems.",
+        "categorized_keywords": {
+          "themes": [
+            "nature-conservation",
+            "botanical-life",
+            "ecosystem-interdependence",
+            "adaptation",
+            "resilience"
+          ],
+          "plot_and_concepts": [
+            "documentary-series",
+            "immersive-experience",
+            "biomes-exploration",
+            "plant-behavior"
+          ],
+          "mood_and_tone": [
+            "awe-inspiring",
+            "educational",
+            "visually-stunning",
+            "peaceful"
+          ],
+          "genre_and_tropes": [
+            "nature-documentary",
+            "environmental-film"
+          ],
+          "setting": [
+            "rainforests",
+            "deserts",
+            "tropical-biomes",
+            "global-ecosystems"
+          ],
+          "character_archetypes": [],
+          "narrative_style": [
+            "observational-documentary",
+            "environmental-storytelling"
+          ],
+          "target_audience": [
+            "nature-lovers",
+            "science-enthusiasts",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "plant-adaptations",
+            "biomes-diversity",
+            "ecosystem-interactions",
+            "rare-flora"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Green Planet offers an awe-inspiring and educational journey through diverse biomes, revealing the resilience and interconnectedness of botanical life and fostering a deeper appreciation for nature conservation."
+      },
+      "duration_seconds": 73.77441310882568
+    }
+  }
+}

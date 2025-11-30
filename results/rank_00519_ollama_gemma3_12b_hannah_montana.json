@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Hannah Montana",
+    "overview": "At home and school, she's Miley Stewart, a typical teenager, but when the lights go down and the curtain goes up, she emerges as the glamorous and talented Hannah Montana. Having the \"Best of Both Worlds\" is a complicated proposition, and keeping her identity under wraps leads Miley and her friends into some hilarious capers as she tries to balance her normal life with her rock star persona.",
+    "genres": [
+      "Comedy",
+      "Kids"
+    ],
+    "release_year": 2006,
+    "vote_count": 596
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Hannah Montana is a family-friendly sitcom centered on a teenage girl leading a double life as a famous pop star. The series explores themes of identity, friendship, and the challenges of maintaining a secret while navigating the pressures of fame and adolescence. It blends comedic situations with musical performances, offering a lighthearted and optimistic portrayal of a young woman striving to balance her personal life with her public persona. The show's appeal lies in its relatable characters and its celebration of individuality and self-expression.",
+        "spoiler_rich_plot_summary": "The series begins with Miley Stewart, a young girl who moves from Tennessee to Malibu with her father, Robby Ray, who is also her manager. Miley discovers that she can pursue a career as a pop star while maintaining a normal life as a teenager, under the alias Hannah Montana. Throughout the series, Miley struggles to keep her two identities separate, leading to humorous misunderstandings and close calls. She navigates the complexities of friendships, romantic interests, and the pressures of maintaining a public image, often with the help of her best friends, Lilly and Oliver. As Miley grows older, she faces increasingly difficult choices about her future, including the possibility of revealing her secret to the world and pursuing a more permanent career in music. The series culminates in Miley making a significant decision about her future, balancing her desire for personal fulfillment with her commitment to her family and friends.",
+        "categorized_keywords": {
+          "themes": [
+            "identity-quest",
+            "family-loyalty",
+            "friendship",
+            "fame",
+            "dual-life",
+            "growing-up"
+          ],
+          "plot_and_concepts": [
+            "secret-identity",
+            "coming-of-age",
+            "musical-performances",
+            "sitcom-format"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "optimistic",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "teen-sitcom",
+            "musical-comedy",
+            "double-life-story"
+          ],
+          "setting": [
+            "malibu-california",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "teenager",
+            "pop-star",
+            "best-friend",
+            "father-figure"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "concert-stage",
+            "secret-room",
+            "wig",
+            "microphone"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Hannah Montana is a lighthearted teen sitcom about a young girl balancing a secret identity as a pop star while navigating the challenges of friendship, family, and growing up in sunny Malibu."
+      },
+      "duration_seconds": 56.92962098121643
+    }
+  }
+}

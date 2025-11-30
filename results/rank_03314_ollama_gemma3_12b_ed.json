@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Ed",
+    "overview": "After his wife leaves him and he's fired from his job at a high-profile New York city law firm, Ed Stevens moves back to his small hometown of Stuckeyville where he buys the local bowling alley and attempts to win the heart of his high school crush.",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "release_year": 2000,
+    "vote_count": 40
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Ed is a dramedy series that explores themes of second chances, small-town life, and the complexities of love and loss. Following a successful but ultimately unfulfilling career in New York City, the protagonist returns to his hometown, grappling with personal setbacks while attempting to rebuild his life and pursue a long-held romantic interest. The series blends humor and pathos, offering a poignant look at reinvention and the search for belonging. It's a character-driven narrative that emphasizes the importance of community and the unexpected joys found in simpler pursuits.",
+        "spoiler_rich_plot_summary": "The series begins with Ed Stevens, a high-powered lawyer in New York City, experiencing a cascade of personal and professional failures: his wife leaves him, and he's fired from his prestigious law firm. Seeking solace and a fresh start, Ed returns to his hometown of Stuckeyville, purchasing the local bowling alley. He intends to rebuild his life, but his attempts at a new beginning are complicated by his persistent feelings for Lorraine, his high school crush, who is now married with children. Throughout the series, Ed navigates the challenges of running a small business, reconnecting with old friends, and confronting his past regrets. He forms unexpected bonds with the quirky residents of Stuckeyville, finding a sense of community he never experienced in the city. While Lorraine remains out of reach, Ed develops meaningful relationships with other women, ultimately learning to appreciate the value of connection and self-acceptance. The series culminates in Ed finding a sense of purpose and contentment, embracing his new life and the unexpected joys it holds, though his romantic aspirations remain bittersweet.",
+        "categorized_keywords": {
+          "themes": [
+            "second-chances",
+            "small-town-life",
+            "love-and-loss",
+            "reinvention",
+            "belonging",
+            "community",
+            "regret",
+            "self-acceptance"
+          ],
+          "plot_and_concepts": [
+            "small-business-ownership",
+            "romantic-pursuit",
+            "fish-out-of-water",
+            "reconnecting-with-past",
+            "unexpected-friendships"
+          ],
+          "mood_and_tone": [
+            "poignant",
+            "humorous",
+            "heartwarming",
+            "bittersweet",
+            "nostalgic"
+          ],
+          "genre_and_tropes": [
+            "dramedy",
+            "romantic-comedy",
+            "small-town-drama",
+            "character-driven"
+          ],
+          "setting": [
+            "small-town-usa",
+            "new-york-city",
+            "bowling-alley"
+          ],
+          "character_archetypes": [
+            "disillusioned-protagonist",
+            "quirky-supporting-characters",
+            "unattainable-love-interest"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "character-driven"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "bowling-pins",
+            "law-firm",
+            "high-school-crush",
+            "small-town-festival"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Ed is a heartwarming dramedy set in a small town, exploring themes of second chances and belonging as a disillusioned protagonist navigates love, loss, and the unexpected joys of reinvention."
+      },
+      "duration_seconds": 61.383448362350464
+    }
+  }
+}

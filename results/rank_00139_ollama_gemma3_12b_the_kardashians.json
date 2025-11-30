@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "The Kardashians",
+    "overview": "The family you know and love is here with a brand new series, giving an all-access pass into their lives. Kris, Kourtney, Kim, Khloé, Kendall, and Kylie bring the cameras back to reveal the truth behind the headlines. From the intense pressures of running billion-dollar businesses to the hilarious joys of playtime and school drop-offs, this series brings viewers into the fold with a rivetingly honest story of love & life in the spotlight.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2022,
+    "vote_count": 1968
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Kardashians is a reality television series offering an intimate look into the lives of the Kardashian-Jenner family. The show chronicles their personal and professional endeavors, showcasing the complexities of maintaining a high-profile lifestyle while navigating relationships, business ventures, and public scrutiny. It aims to provide a behind-the-scenes perspective on their daily routines and the challenges they face, blending moments of glamour with relatable family dynamics. The series emphasizes the family's entrepreneurial spirit and their ability to adapt to ever-changing circumstances, offering viewers a glimpse into their world of luxury and influence. Ultimately, it's a study of fame, family, and the constant negotiation of public image.",
+        "spoiler_rich_plot_summary": "The series begins with the family adjusting to their new reality show format after ending their previous show, 'Keeping Up with the Kardashians.' Each sister tackles different challenges: Kourtney navigates co-parenting and a new relationship, Kim focuses on her businesses and legal battles, Khloé deals with personal struggles and family dynamics, Kendall pursues her modeling career, and Kylie expands her cosmetics empire. Throughout the seasons, the show explores the complexities of their relationships, both within the family and with the outside world. Business ventures face setbacks and triumphs, and personal lives are marked by both joy and heartbreak. The series highlights the constant pressure to maintain a perfect image while dealing with the realities of family life and the ever-present glare of the media. While the specifics of each sister's journey evolve, the overarching narrative remains focused on their resilience and ability to adapt to the ever-changing landscape of fame and fortune.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "fame-and-fortune",
+            "entrepreneurship",
+            "public-image",
+            "sibling-relationships",
+            "personal-growth"
+          ],
+          "plot_and_concepts": [
+            "reality-television",
+            "business-ventures",
+            "celebrity-culture",
+            "social-media-influence",
+            "family-business"
+          ],
+          "mood_and_tone": [
+            "glamorous",
+            "intimate",
+            "aspirational",
+            "sometimes-melodramatic"
+          ],
+          "genre_and_tropes": [
+            "reality-tv",
+            "celebrity-lifestyle",
+            "found-family"
+          ],
+          "setting": [
+            "california",
+            "modern-day",
+            "luxury-homes"
+          ],
+          "character_archetypes": [
+            "matriarch",
+            "socialite",
+            "entrepreneur",
+            "influencer"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "luxury-cars",
+            "designer-clothing",
+            "social-media-posts",
+            "red-carpet-events"
+          ],
+          "maturity_and_content": [
+            "relationship-drama"
+          ]
+        },
+        "keyword_sentence": "The Kardashians offers an intimate and glamorous look into the lives of a famous family as they navigate business ventures, relationship drama, and the pressures of maintaining a public image in modern-day California."
+      },
+      "duration_seconds": 68.61414623260498
+    }
+  }
+}

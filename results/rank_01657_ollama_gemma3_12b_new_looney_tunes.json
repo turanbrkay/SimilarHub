@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "New Looney Tunes",
+    "overview": "Wabbit is an animated series starring Bugs Bunny. The series features many other Looney Tunes characters including Wile E. Coyote, Yosemite Sam, and the Tasmanian Devil.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "release_year": 2015,
+    "vote_count": 126
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "New Looney Tunes is a revival of the classic animated series, designed for a family audience. The show maintains the slapstick humor and cartoon violence characteristic of the original Looney Tunes, featuring Bugs Bunny and a rotating cast of supporting characters. It aims to recapture the timeless appeal of the franchise with contemporary animation techniques and updated gags, providing a lighthearted and consistently silly viewing experience.",
+        "spoiler_rich_plot_summary": "The series primarily consists of standalone episodes, each featuring Bugs Bunny encountering various adversaries and engaging in elaborate schemes. Wile E. Coyote relentlessly pursues Bugs Bunny, often employing increasingly complex and disastrous inventions. Yosemite Sam frequently clashes with Bugs, attempting to assert his authority but consistently outsmarted. The Tasmanian Devil appears sporadically, wreaking havoc with his insatiable appetite. While there's no overarching narrative, recurring jokes and character dynamics establish a familiar and comedic world. The show's episodic nature allows for a constant stream of new gags and scenarios, ensuring a consistently entertaining experience for viewers of all ages.",
+        "categorized_keywords": {
+          "themes": [
+            "humor",
+            "friendship",
+            "trickery",
+            "chaos"
+          ],
+          "plot_and_concepts": [
+            "slapstick-comedy",
+            "cartoon-violence",
+            "chase-sequence",
+            "gags"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "silly",
+            "wholesome",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "family-comedy",
+            "classic-cartoon"
+          ],
+          "setting": [
+            "animated-world",
+            "desert-landscape",
+            "rural-setting"
+          ],
+          "character_archetypes": [
+            "trickster",
+            "pursuer",
+            "villain",
+            "comedic-hero"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "standalone-episodes"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "acme-products",
+            "rabbit-hole",
+            "yosemite-sam's-hat",
+            "wile-e-coyote's-rocket"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "New Looney Tunes delivers a lighthearted and silly animated comedy for the whole family, featuring classic cartoon gags and characters in a series of standalone episodes."
+      },
+      "duration_seconds": 54.64896249771118
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "Fresh Meat",
+    "overview": "A group of six students about to embark on the most exciting period of their lives so far: university!",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "release_year": 2011,
+    "vote_count": 87
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Fresh Meat is a British comedy-drama series that follows a group of six young adults as they navigate the challenges and absurdities of university life. The show blends comedic situations with explorations of identity, relationships, and the transition to adulthood. It offers a lighthearted yet insightful look at the social dynamics and personal growth experienced by a diverse group of students, often highlighting the awkwardness and unexpected connections that define this formative period. The series balances observational humor with moments of genuine emotional depth, creating a relatable and entertaining portrayal of early adulthood.",
+        "spoiler_rich_plot_summary": "The series begins with six new university students – Melissa, Josie, Tor, Sam, Theodore, and Howard – being assigned to the same ill-fated student house. Each character arrives with their own unique background, aspirations, and insecurities. As they settle into university life, they encounter a series of comical and often chaotic situations, from disastrous parties to awkward romantic encounters. Throughout the series, the students grapple with issues of self-discovery, social acceptance, and the pressures of academic performance. Relationships evolve and shift, with alliances forming and dissolving as the students navigate the complexities of their new environment. The series explores the challenges of finding one's place in a new social landscape, and the bittersweet realization that the carefree days of youth are coming to an end. While each character experiences personal growth, the overarching narrative focuses on the enduring bonds of friendship forged within the confines of the student house, even as their individual paths diverge.",
+        "categorized_keywords": {
+          "themes": [
+            "coming-of-age",
+            "friendship",
+            "identity-quest",
+            "social-dynamics",
+            "self-discovery",
+            "university-life"
+          ],
+          "plot_and_concepts": [
+            "student-housing",
+            "romantic-relationships",
+            "social-awkwardness",
+            "ensemble-cast"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "comedic",
+            "observational",
+            "quirky"
+          ],
+          "genre_and_tropes": [
+            "comedy-drama",
+            "slice-of-life",
+            "ensemble-comedy"
+          ],
+          "setting": [
+            "university-campus",
+            "modern-day",
+            "uk"
+          ],
+          "character_archetypes": [
+            "awkward-protagonist",
+            "social-outcast",
+            "reluctant-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult"
+          ],
+          "detail_plot": [
+            "student-house",
+            "university-lecture",
+            "student-party"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Fresh Meat is a lighthearted comedy-drama series that explores the challenges and absurdities of university life through the experiences of a quirky ensemble cast navigating friendship, identity, and the transition to adulthood in a student house."
+      },
+      "duration_seconds": 62.11854124069214
+    }
+  }
+}

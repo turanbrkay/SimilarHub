@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Rust Valley Restorers",
+    "overview": "A crew of car lovers at a garage in the Rocky Mountains transforms abandoned heaps of rust into collectible classics.",
+    "genres": [
+      "Documentary",
+      "Reality"
+    ],
+    "release_year": 2018,
+    "vote_count": 34
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Rust Valley Restorers is a documentary reality series following a team of automotive enthusiasts in the Rocky Mountains as they breathe new life into neglected and abandoned vehicles. The show focuses on the technical challenges of restoration, the camaraderie among the team members, and the emotional connection they form with the cars they revive. It offers a blend of mechanical expertise, heartwarming stories, and the beauty of transforming something broken into something valuable. The series appeals to car lovers and those who appreciate the satisfaction of hands-on craftsmanship and the preservation of automotive history.",
+        "spoiler_rich_plot_summary": "The series begins with the team at Rust Valley Restorers taking on a variety of projects, ranging from classic muscle cars to vintage trucks. Each episode typically focuses on a specific vehicle, detailing the process of disassembly, repair, and reassembly. The team faces numerous obstacles, including limited resources, mechanical failures, and the challenges of sourcing rare parts. As the series progresses, the team takes on increasingly ambitious restoration projects, often involving vehicles with complex histories and significant damage. The relationships between the team members evolve, with moments of collaboration, conflict, and shared accomplishment. The series highlights the dedication and passion required to preserve automotive heritage, showcasing the emotional investment the team has in their work and the satisfaction of seeing a restored vehicle return to the road.",
+        "categorized_keywords": {
+          "themes": [
+            "restoration",
+            "preservation",
+            "teamwork",
+            "craftsmanship",
+            "passion",
+            "automotive-heritage"
+          ],
+          "plot_and_concepts": [
+            "car-restoration",
+            "mechanical-challenges",
+            "vintage-cars",
+            "automotive-history",
+            "project-based"
+          ],
+          "mood_and_tone": [
+            "heartwarming",
+            "optimistic",
+            "nostalgic",
+            "inspiring",
+            "technical"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "reality-tv",
+            "automotive",
+            "hands-on-craft"
+          ],
+          "setting": [
+            "rocky-mountains",
+            "garage",
+            "automotive-workshop",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "skilled-mechanic",
+            "team-leader",
+            "enthusiast",
+            "mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "project-focused",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "car-lovers",
+            "gearheads",
+            "craftsmen",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "rust-bucket",
+            "vintage-engine",
+            "classic-bodywork",
+            "welding-torch",
+            "restoration-parts"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Rust Valley Restorers is a heartwarming documentary series showcasing the passion and skill of a team restoring vintage cars in the Rocky Mountains, celebrating automotive heritage and the satisfaction of hands-on craftsmanship."
+      },
+      "duration_seconds": 56.870537996292114
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "The Killing",
+    "overview": "The Killing is an American crime drama television series based upon the Danish television series Forbrydelsen. Set in Seattle, Washington, the series follows the various murder investigations by homicide detectives Sarah Linden and Stephen Holder.",
+    "genres": [
+      "Drama",
+      "Crime",
+      "Mystery"
+    ],
+    "release_year": 2011,
+    "vote_count": 648
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Killing is a bleak and atmospheric crime drama that delves into the psychological toll of murder investigations. Set in Seattle, the series follows detectives Sarah Linden and Stephen Holder as they navigate a complex case, exploring the impact on the victim's family, the community, and the investigators themselves. The show's deliberate pacing and somber tone create a sense of pervasive dread and uncertainty, emphasizing the emotional weight of the pursuit of justice. It’s a procedural drama that prioritizes character development and atmosphere over fast-paced action, offering a nuanced portrayal of grief, suspicion, and the fragility of human relationships.",
+        "spoiler_rich_plot_summary": "The first season centers on the investigation into the murder of Nels Peterson, a high school student in Seattle. Detectives Sarah Linden and Stephen Holder are assigned to the case, and their investigation quickly becomes all-consuming, impacting their personal lives and straining their professional relationship. As they pursue leads, they encounter a web of suspects, including the victim's family, friends, and acquaintances. The investigation reveals dark secrets and hidden motives, leading to a tense and unpredictable climax where the killer is finally revealed. Subsequent seasons explore new cases, often revisiting themes of loss, guilt, and the cyclical nature of violence. Linden and Holder grapple with the consequences of their work, facing personal challenges and professional setbacks as they strive to bring closure to grieving families. The series examines the broader impact of crime on a community, highlighting the complexities of justice and the enduring pain of loss.",
+        "categorized_keywords": {
+          "themes": [
+            "grief",
+            "loss",
+            "justice",
+            "corruption",
+            "family-secrets",
+            "community-impact",
+            "moral-ambiguity"
+          ],
+          "plot_and_concepts": [
+            "police-investigation",
+            "murder-mystery",
+            "serial-investigation",
+            "whodunit",
+            "false-leads"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "somber",
+            "bleak",
+            "suspenseful",
+            "atmospheric"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "police-procedural",
+            "slow-burn",
+            "noir"
+          ],
+          "setting": [
+            "seattle-washington",
+            "modern-day",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "detective",
+            "grieving-family",
+            "suspect",
+            "anti-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "crime-scene",
+            "police-station",
+            "interrogation-room",
+            "victim's-house"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "The Killing is a dark and atmospheric crime drama set in Seattle, exploring themes of grief, loss, and the complexities of justice through the lens of a grueling police investigation."
+      },
+      "duration_seconds": 58.5188422203064
+    }
+  }
+}

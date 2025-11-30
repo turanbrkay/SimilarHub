@@ -1,0 +1,85 @@
+{
+  "input_data": {
+    "title": "Mad Men",
+    "overview": "Set in 1960-1970 New York, this sexy, stylized and provocative drama follows the lives of the ruthlessly competitive men and women of Madison Avenue advertising.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2007,
+    "vote_count": 1023
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Mad Men is a period drama exploring the advertising industry and societal shifts in 1960s America. The series delves into the personal and professional lives of its characters, examining themes of ambition, identity, and the changing roles of men and women. With its meticulous attention to detail and stylish aesthetic, the show offers a nuanced portrayal of a bygone era, while also resonating with contemporary issues of morality, authenticity, and the pursuit of happiness. The series is known for its complex characters, ambiguous morality, and its ability to evoke a sense of nostalgia and melancholy.",
+        "spoiler_rich_plot_summary": "The series begins in 1960, introducing Don Draper, a brilliant but enigmatic advertising executive at Sterling Cooper. Don's fabricated past and carefully constructed persona are central to the show's mysteries, gradually unraveling throughout the seasons. The initial seasons focus on the cutthroat world of advertising, the changing social landscape, and the personal struggles of the characters as they navigate infidelity, alcoholism, and professional ambition. As the 1960s progress, Sterling Cooper undergoes significant changes, including a merger with Cutler Gleason and a subsequent acquisition by McCann Erickson. Don's personal demons continue to haunt him, leading to periods of self-destruction and attempts at redemption. The later seasons explore themes of identity, loss, and the search for meaning in a rapidly changing world. Don's past catches up to him, forcing him to confront the truth about his origins and the lies he has built his life upon. The series concludes with Don embarking on a cross-country journey, ultimately finding a moment of clarity and a renewed sense of purpose, leaving his ultimate fate ambiguous.",
+        "categorized_keywords": {
+          "themes": [
+            "identity-crisis",
+            "ambition",
+            "social-change",
+            "authenticity",
+            "masculinity",
+            "consumerism",
+            "loss",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "advertising-industry",
+            "period-drama",
+            "moral-ambiguity",
+            "fabricated-identity",
+            "corporate-culture"
+          ],
+          "mood_and_tone": [
+            "melancholy",
+            "nostalgic",
+            "stylish",
+            "provocative",
+            "subtle",
+            "atmospheric"
+          ],
+          "genre_and_tropes": [
+            "period-piece",
+            "character-study",
+            "slow-burn",
+            "anti-hero"
+          ],
+          "setting": [
+            "1960s-america",
+            "new-york-city",
+            "madison-avenue"
+          ],
+          "character_archetypes": [
+            "enigmatic-protagonist",
+            "damaged-hero",
+            "femme-fatale",
+            "corporate-executive"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "character-driven",
+            "episodic"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "scotch-and-soda",
+            "sterling-cooper",
+            "cigars",
+            "vintage-cars",
+            "1960s-fashion"
+          ],
+          "maturity_and_content": [
+            "alcoholism",
+            "sexual-content",
+            "infidelity"
+          ]
+        },
+        "keyword_sentence": "Mad Men is a stylish and melancholic period drama exploring themes of identity, ambition, and social change within the advertising industry of 1960s America."
+      },
+      "duration_seconds": 63.64435005187988
+    }
+  }
+}

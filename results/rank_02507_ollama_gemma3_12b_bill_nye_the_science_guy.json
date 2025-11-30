@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Bill Nye the Science Guy",
+    "overview": "Bill Nye the Science Guy is an educational television program that originally aired from September 10, 1993 to June 20, 1998, hosted by William \"Bill\" Nye and produced by Buena Vista Television. The show aired on PBS Kids and was also syndicated to local stations. Each of the 100 episodes aims to teach a specific topic in science to a preteen audience. The show is frequently used in schools as an education medium, and it still airs on some PBS stations for this reason.\n\nCreated by comedian Ross Shafer and based on sketches on KING-TV's sketch program Almost Live!, Bill Nye the Science Guy was produced by Disney Educational Productions and KCTS-TV of Seattle.\n\nBill Nye the Science Guy won nineteen Emmy Awards during its run.",
+    "genres": [
+      "Comedy",
+      "Documentary",
+      "Kids"
+    ],
+    "release_year": 1993,
+    "vote_count": 66
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Bill Nye the Science Guy is an educational children's program that combines comedy and science to make learning accessible and engaging for a young audience. Hosted by Bill Nye, the show tackles a wide range of scientific topics through demonstrations, experiments, and humorous explanations. Its blend of entertainment and education has made it a lasting favorite and a valuable resource for schools. The show's accessible and enthusiastic approach demystifies science, fostering curiosity and a love of learning in viewers. Its enduring popularity speaks to the power of combining entertainment with educational content.",
+        "spoiler_rich_plot_summary": "Each episode of Bill Nye the Science Guy focuses on a specific scientific concept, from volcanoes and the solar system to electricity and the human body. Bill Nye, with the assistance of his recurring cast of characters, explains the topic through a series of demonstrations and experiments, often incorporating humor and catchy songs. While there isn't a continuous overarching narrative, each episode builds upon the previous one, expanding the viewer's understanding of the world around them. The show consistently reinforces the importance of scientific inquiry and critical thinking, encouraging viewers to ask questions and explore their surroundings. The format remains consistent throughout the series, providing a familiar and comforting structure for young viewers while introducing them to new and exciting scientific ideas. The show concludes its run having covered a vast array of scientific principles, leaving a legacy of accessible science education.",
+        "categorized_keywords": {
+          "themes": [
+            "science-education",
+            "discovery",
+            "curiosity",
+            "critical-thinking",
+            "environmental-awareness"
+          ],
+          "plot_and_concepts": [
+            "educational-television",
+            "demonstrations",
+            "experiments",
+            "scientific-explanation",
+            "catchy-songs"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "energetic",
+            "optimistic",
+            "playful"
+          ],
+          "genre_and_tropes": [
+            "childrens-tv",
+            "educational-comedy",
+            "science-show"
+          ],
+          "setting": [
+            "laboratory",
+            "studio",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "enthusiastic-host",
+            "quirky-scientist"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-segments"
+          ],
+          "target_audience": [
+            "children",
+            "preteen-audience"
+          ],
+          "detail_plot": [
+            "laboratory-equipment",
+            "science-experiments",
+            "bill-nyes-bow-tie",
+            "periodic-table",
+            "microscope"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Bill Nye the Science Guy is a lighthearted and energetic children's television show that uses science experiments and catchy songs to foster curiosity and critical thinking in a playful and accessible way."
+      },
+      "duration_seconds": 56.14891815185547
+    }
+  }
+}

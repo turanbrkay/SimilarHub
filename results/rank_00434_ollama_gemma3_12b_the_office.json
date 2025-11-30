@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "The Office",
+    "overview": "Nightmare boss. Tedious colleagues. Pointless tasks. Welcome to Wernham Hogg. Fancy a tea break with David Brent? Classic comedy from the archive.",
+    "genres": "Comedy",
+    "release_year": 2001,
+    "vote_count": 699
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Office is a mockumentary sitcom that satirizes the mundane realities of office life. Through a cringe comedy lens, the series explores themes of ambition, social awkwardness, and the search for connection within a dysfunctional workplace. The show's improvisational style and single-camera format create a sense of realism, while its ensemble cast delivers consistently humorous performances. It's a character-driven comedy that finds humor in the everyday struggles and absurdities of corporate culture.",
+        "spoiler_rich_plot_summary": "The series follows the employees of Dunder Mifflin, a paper supply company in Scranton, Pennsylvania, primarily through the eyes of regional manager Michael Scott. Initially, the show focuses on Michael's misguided attempts at humor and leadership, often creating uncomfortable and embarrassing situations for his staff. Over the seasons, relationships evolve, with characters like Jim and Pam navigating a slow-burn romance amidst the office chaos, while Dwight’s unwavering loyalty to Michael and his eccentric personality provide a constant source of amusement. The company faces numerous challenges, including downsizing, mergers, and financial instability, which impact the employees' lives and careers. As the series progresses, characters mature and confront personal issues, leading to significant changes in their relationships and professional trajectories. The final seasons see the company sold and the characters facing uncertain futures, ultimately culminating in a bittersweet farewell to the familiar setting and the quirky individuals who populate it.",
+        "categorized_keywords": {
+          "themes": [
+            "workplace-dynamics",
+            "social-awkwardness",
+            "found-family",
+            "ambition",
+            "corporate-culture",
+            "relationships"
+          ],
+          "plot_and_concepts": [
+            "mockumentary",
+            "cringe-comedy",
+            "ensemble-cast",
+            "slow-burn-romance",
+            "office-politics"
+          ],
+          "mood_and_tone": [
+            "humorous",
+            "lighthearted",
+            "cringeworthy",
+            "satirical"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "workplace-comedy",
+            "mockumentary-style"
+          ],
+          "setting": [
+            "office-environment",
+            "pennsylvania"
+          ],
+          "character_archetypes": [
+            "incompetent-boss",
+            "quirky-colleague",
+            "romantic-interest",
+            "loyal-employee"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "paper-supply-company",
+            "conference-room",
+            "water-cooler",
+            "cubicle"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Office is a lighthearted and satirical sitcom that explores the awkward and often hilarious dynamics of a paper supply company in Pennsylvania, showcasing a found-family of quirky colleagues navigating workplace relationships and corporate culture."
+      },
+      "duration_seconds": 117.04689526557922
+    }
+  }
+}

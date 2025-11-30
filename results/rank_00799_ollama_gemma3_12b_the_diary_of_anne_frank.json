@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "The Diary of Anne Frank",
+    "overview": "Five-part adaptation of Anne Frank's famous wartime diaries in which a young teenager and her family go into hiding from the Nazis in wartime Amsterdam.",
+    "genres": [
+      "Drama",
+      "War & Politics"
+    ],
+    "release_year": 2009,
+    "vote_count": 346
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Diary of Anne Frank is a poignant and historically significant television adaptation of Anne Frank's iconic diary. The series offers a deeply personal and intimate portrayal of a young Jewish girl and her family's struggle for survival while hiding from Nazi persecution in Amsterdam. Through Anne's perspective, the series explores themes of hope, resilience, and the enduring human spirit amidst unimaginable adversity. It serves as a powerful reminder of the horrors of the Holocaust and the importance of tolerance and understanding.",
+        "spoiler_rich_plot_summary": "The series begins with the Frank family, along with the van Pels family and Mr. Dussel, seeking refuge in a concealed annex behind Otto Frank's business premises in Amsterdam. The initial weeks are marked by the challenges of confinement, rationing, and the constant fear of discovery. Anne's diary entries provide a window into her evolving thoughts, dreams, and frustrations as she navigates adolescence under extraordinary circumstances. Tensions arise between the families, exacerbated by the cramped quarters and the psychological strain of their situation. As the war intensifies, the threat of exposure grows, and the families grapple with the moral and emotional toll of their secret existence. The series culminates in the devastating moment when the annex is raided by the Gestapo, shattering the fragile hope of survival and marking a tragic end to their ordeal. Otto Frank, the sole survivor, emerges from hiding to confront the unimaginable loss and to safeguard Anne’s diary, ensuring her voice and story would endure.",
+        "categorized_keywords": {
+          "themes": [
+            "holocaust-remembrance",
+            "family-bond",
+            "hope-and-resilience",
+            "loss-and-grief",
+            "identity-formation",
+            "persecution",
+            "faith-and-belief"
+          ],
+          "plot_and_concepts": [
+            "historical-drama",
+            "wartime-survival",
+            "hidden-existence",
+            "diary-narrative",
+            "gestapo-raid"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "melancholy",
+            "reflective",
+            "emotional",
+            "heartbreaking"
+          ],
+          "genre_and_tropes": [
+            "historical-fiction",
+            "coming-of-age",
+            "biographical-drama"
+          ],
+          "setting": [
+            "amsterdam",
+            "world-war-ii",
+            "occupied-europe",
+            "wartime-amsterdam"
+          ],
+          "character_archetypes": [
+            "innocent-victim",
+            "wise-father",
+            "adolescent-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "first-person-perspective"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "hidden-annex",
+            "dairy-entries",
+            "wartime-rations",
+            "gestapo-uniform",
+            "family-portrait"
+          ],
+          "maturity_and_content": [
+            "historical-trauma",
+            "persecution-themes"
+          ]
+        },
+        "keyword_sentence": "The Diary of Anne Frank is a somber and emotionally resonant historical drama set in wartime Amsterdam, exploring themes of family, hope, and persecution through the poignant first-person perspective of a young girl facing unimaginable adversity."
+      },
+      "duration_seconds": 62.81352949142456
+    }
+  }
+}

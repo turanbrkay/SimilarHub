@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Teenage Mutant Ninja Turtles",
+    "overview": "Teenage Mutant Ninja Turtles is an American animated television series, mainly set in New York City. It first aired on February 8, 2003 and ended on February 28, 2009. The series marked the revival of the franchise as a Saturday morning cartoon on Fox's Fox Box programming block The TMNT 2003 TV series was produced by 4Kids Entertainment, and Mirage Studios, which each owned half of the rights to the show, and animated by Dong Woo Animation. Reruns ran on Cartoon Network's Miguzi block in 2004. The series migrated to The CW4Kids in its final season after 4Kids's contract with Fox ended. Nickelodeon now owns the rights to this and any future Turtles series.",
+    "genres": [
+      "Action & Adventure",
+      "Animation",
+      "Kids"
+    ],
+    "release_year": 2003,
+    "vote_count": 138
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Teenage Mutant Ninja Turtles is a vibrant animated series that revives the classic franchise for a new generation. Set primarily in New York City, the show blends action-packed martial arts sequences with comedic elements and a focus on the strong bond between the titular brothers. The series explores themes of family, responsibility, and fighting for what's right, appealing to a younger audience while retaining the core elements that made the original franchise so popular. It's a lighthearted adventure series with a focus on teamwork and overcoming adversity.",
+        "spoiler_rich_plot_summary": "The series begins with the four turtle brothers – Leonardo, Donatello, Michelangelo, and Raphael – living in the sewers of New York City, trained in ninjutsu by their rat sensei, Splinter. They battle the villainous Shredder and his Foot Clan, who are attempting to take over the city. Throughout the series, the turtles face numerous challenges, including confronting their own personal flaws and learning to work together effectively. They encounter various allies and enemies, uncovering conspiracies and battling increasingly powerful threats. The turtles consistently strive to protect the innocent and uphold justice, facing betrayals and losses along the way. The overarching narrative involves the turtles’ ongoing struggle against Shredder’s schemes and their efforts to maintain a semblance of normalcy while fulfilling their heroic duties. The series culminates in a final confrontation where the turtles must use all their skills and teamwork to defeat Shredder and his forces, securing the safety of New York City.",
+        "categorized_keywords": {
+          "themes": [
+            "family-bond",
+            "responsibility",
+            "justice",
+            "teamwork",
+            "brotherhood",
+            "good-vs-evil"
+          ],
+          "plot_and_concepts": [
+            "martial-arts",
+            "ninja-training",
+            "secret-identity",
+            "underground-lair",
+            "crime-fighting"
+          ],
+          "mood_and_tone": [
+            "action-adventure",
+            "comedic",
+            "lighthearted",
+            "heroic"
+          ],
+          "genre_and_tropes": [
+            "superhero-action",
+            "coming-of-age",
+            "found-family",
+            "monster-of-the-week"
+          ],
+          "setting": [
+            "new-york-city",
+            "sewer-system",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "strong-leader",
+            "comedic-relief"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "kids",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "ninja-stars",
+            "katana-swords",
+            "pizza-boxes",
+            "sewer-rats",
+            "foot-clan-uniforms"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Teenage Mutant Ninja Turtles is a lighthearted action-adventure series about four brothers who fight crime and uphold justice in the sewers of New York City, emphasizing family bonds and heroic teamwork."
+      },
+      "duration_seconds": 64.96200227737427
+    }
+  }
+}

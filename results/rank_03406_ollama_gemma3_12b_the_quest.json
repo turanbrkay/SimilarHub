@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "The Quest",
+    "overview": "A ground-breaking immersive competition series that drops 8 young people into the fantastic, fictional world of Everealm, where they must save a Kingdom by fulfilling an ancient prophecy.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "release_year": 2022,
+    "vote_count": 37
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Quest is a unique competition series blending reality television with immersive fantasy elements. Eight contestants are transported to a meticulously crafted fictional world, Everealm, and tasked with completing a prophecy to save the kingdom. The series combines the suspense of a survival competition with the spectacle of a fantasy adventure, offering a visually stunning and emotionally engaging experience for viewers. The show explores themes of courage, teamwork, and self-discovery within a high-stakes, fantastical setting, creating a compelling narrative that appeals to fans of both reality and fantasy genres.",
+        "spoiler_rich_plot_summary": "The series begins with the selection of eight contestants, each possessing unique skills and backgrounds. They are abruptly transported to Everealm, a vibrant kingdom facing imminent peril. Guided by a mysterious seer, they learn of an ancient prophecy foretelling the kingdom's salvation through their actions. The contestants must navigate treacherous landscapes, solve intricate puzzles, and confront formidable challenges, all while competing against each other for recognition and ultimately, the chance to fulfill the prophecy. As they progress, alliances form and fracture, revealing hidden agendas and personal conflicts. The contestants face trials that test their physical and mental endurance, forcing them to confront their own limitations and the true meaning of heroism. The prophecy unfolds in stages, revealing deeper layers of the kingdom's history and the true nature of the threat it faces. Ultimately, the contestants must unite to overcome the final obstacle, culminating in a climactic confrontation that determines the fate of Everealm and reveals the ultimate meaning of the prophecy.",
+        "categorized_keywords": {
+          "themes": [
+            "prophecy",
+            "courage",
+            "teamwork",
+            "self-discovery",
+            "good-vs-evil",
+            "fate"
+          ],
+          "plot_and_concepts": [
+            "immersive-competition",
+            "fantasy-quest",
+            "ancient-prophecy",
+            "survival-challenge",
+            "hidden-agendas"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "adventurous",
+            "epic",
+            "high-stakes"
+          ],
+          "genre_and_tropes": [
+            "reality-television",
+            "fantasy-adventure",
+            "hero-journey",
+            "found-family"
+          ],
+          "setting": [
+            "fantasy-kingdom",
+            "alternate-reality",
+            "immersive-world"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "rivals",
+            "team-leader"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "competition-format"
+          ],
+          "target_audience": [
+            "young-adult",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "ancient-ruins",
+            "magical-artifacts",
+            "kingdom-crest",
+            "seer-vision"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Quest is a suspenseful and adventurous immersive competition series that transports young heroes to a fantastical kingdom where they must fulfill an ancient prophecy and confront their own limitations in a high-stakes battle between good and evil."
+      },
+      "duration_seconds": 57.43502998352051
+    }
+  }
+}

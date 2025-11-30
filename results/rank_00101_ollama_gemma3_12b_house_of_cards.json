@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "House of Cards",
+    "overview": "Set in present day Washington, D.C., House of Cards is the story of Frank Underwood, a ruthless and cunning politician, and his wife Claire who will stop at nothing to conquer everything. This wicked political drama penetrates the shadowy world of greed, sex and corruption in modern D.C.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2013,
+    "vote_count": 2403
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "House of Cards is a darkly satirical political drama that explores the corrupting influence of power and ambition. The series follows Frank Underwood, a congressman who manipulates and schemes his way to the highest offices, often with the complicity of his equally calculating wife, Claire. The show's cynical tone and morally ambiguous characters offer a bleak commentary on American politics, examining the compromises and betrayals necessary to achieve ultimate power. It blends elements of thriller, drama, and dark comedy, creating a compelling and unsettling viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Frank Underwood, denied the Vice Presidency, orchestrating a complex revenge plot against those who wronged him. He leverages his political connections and manipulates events to climb the ranks, ultimately becoming Speaker of the House and then Vice President. Throughout his ascent, he engages in numerous illegal and unethical activities, often involving blackmail, bribery, and the exploitation of others. Claire, his wife, is a crucial partner in his schemes, demonstrating her own ruthless ambition and willingness to compromise her morals. As Frank's power grows, he faces increasing scrutiny and challenges from both within and outside his administration. The couple's relationship is complex and often strained by their shared secrets and conflicting desires. Later seasons see Frank and Claire attempting to consolidate their power and navigate increasingly dangerous political landscapes, facing threats from rivals and investigations into their past actions. The series culminates in a dramatic unraveling of their carefully constructed empire, exposing their crimes and leaving their futures uncertain.",
+        "categorized_keywords": {
+          "themes": [
+            "power-corrupts",
+            "political-intrigue",
+            "ambition",
+            "betrayal",
+            "moral-compromise",
+            "marital-dysfunction",
+            "social-commentary"
+          ],
+          "plot_and_concepts": [
+            "political-thriller",
+            "manipulation",
+            "revenge-plot",
+            "conspiracy",
+            "blackmail",
+            "bribery"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "cynical",
+            "satirical",
+            "tense",
+            "unsettling"
+          ],
+          "genre_and_tropes": [
+            "political-drama",
+            "anti-hero",
+            "slow-burn-romance",
+            "power-struggle"
+          ],
+          "setting": [
+            "washington-dc",
+            "modern-day",
+            "american-politics"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "femme-fatale",
+            "ruthless-politician",
+            "power-broker"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "congressional-hearings",
+            "white-house-oval-office",
+            "campaign-trail",
+            "press-conferences"
+          ],
+          "maturity_and_content": [
+            "sexual-content",
+            "graphic-violence",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "House of Cards is a darkly comic and cynical political drama set in Washington, D.C., exploring themes of power, ambition, and moral compromise through the story of a ruthless anti-hero and his equally calculating wife."
+      },
+      "duration_seconds": 70.43607783317566
+    }
+  }
+}

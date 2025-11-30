@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "The Fall Guy",
+    "overview": "Hollywood stuntman Colt Seavers picks up some extra pocket money by using his rough-and-tumble skills to track and capture bail jumpers.",
+    "genres": [
+      "Action & Adventure"
+    ],
+    "release_year": 1981,
+    "vote_count": 120
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Fall Guy is a lighthearted action-adventure series centered on a Hollywood stuntman who moonlights as a bounty hunter. The show blends thrilling action sequences with a touch of humor and a generally optimistic tone. It explores themes of redemption, family, and the pursuit of justice, all within the backdrop of the entertainment industry. The series offers a fun, escapist experience with a focus on action and character interaction.",
+        "spoiler_rich_plot_summary": "The series follows Colt Seavers, a skilled stuntman in Hollywood, who takes on extra work tracking down bail jumpers alongside his friend Billy Broadhurst. Each week, Colt is given a description of a fugitive and must use his stuntman skills – driving, fighting, and generally being resourceful – to locate and apprehend them. While the primary focus is on the weekly bounty hunts, a recurring subplot involves Colt's complicated relationship with his former girlfriend, Lorna. Throughout the series, Colt grapples with his past and strives to maintain a sense of morality while operating outside the traditional legal system. The show maintains a generally upbeat tone, even when dealing with the challenges of his profession and personal life, culminating in a sense of resolution and a hopeful outlook for the future.",
+        "categorized_keywords": {
+          "themes": [
+            "redemption",
+            "justice",
+            "family",
+            "friendship",
+            "morality"
+          ],
+          "plot_and_concepts": [
+            "bounty-hunting",
+            "action-adventure",
+            "chase-sequences",
+            "undercover-work",
+            "fugitive-tracking"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "optimistic",
+            "action-packed",
+            "humorous"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "buddy-cop",
+            "fish-out-of-water",
+            "found-family"
+          ],
+          "setting": [
+            "hollywood",
+            "california",
+            "1980s"
+          ],
+          "character_archetypes": [
+            "stuntman",
+            "bounty-hunter",
+            "skilled-driver",
+            "resourceful-protagonist"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "stunt-sequences",
+            "car-chases",
+            "hollywood-sets",
+            "bounty-contracts"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Fall Guy is a lighthearted action-adventure series set in 1980s Hollywood, following a skilled stuntman who uses his abilities to track down fugitives and navigate the challenges of his profession with a sense of humor and optimism."
+      },
+      "duration_seconds": 60.53420305252075
+    }
+  }
+}

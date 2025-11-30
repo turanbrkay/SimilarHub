@@ -1,0 +1,66 @@
+{
+  "input_data": {
+    "title": "The Pink Panther",
+    "overview": "The Pink Panther is a 1993 animated television series. It was credited as a co-production of Metro-Goldwyn-Mayer Animation, Mirisch-Geoffrey DePatie-Freleng and United Artists and distributed by Claster Television. This is the only The Pink Panther in the TV series not to distributed by MGM Television, though MGM still owns The Pink Panther.",
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "release_year": 1993,
+    "vote_count": 47
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Pink Panther is a comedic animated series that follows the bumbling antics of the Pink Panther and his foil, the persistent Inspector Clouseau. The show leans heavily on slapstick humor and visual gags, targeting a family audience with its lighthearted and largely non-verbal storytelling. While maintaining the core essence of the Pink Panther character, the series distinguishes itself with a more episodic structure and a focus on broader comedic appeal rather than the more sophisticated spy-parody elements of the original films. The series provides a consistently cheerful and silly viewing experience, suitable for younger viewers and fans of classic cartoon humor.",
+        "spoiler_rich_plot_summary": "The series primarily revolves around the Pink Panther's attempts to evade the ever-frustrated Inspector Clouseau, who is convinced the Panther is a master criminal. Each episode typically features a new scheme or misunderstanding that leads to chaotic and humorous situations. The Pink Panther, despite his mischievous nature, rarely commits actual crimes, often inadvertently causing trouble through his actions. Inspector Clouseau's investigations are consistently thwarted by the Panther's clever escapes and the Inspector's own incompetence. While the series maintains a lighthearted tone, recurring characters and running gags create a sense of continuity throughout the episodes, establishing a familiar and enjoyable world for viewers. The series concludes with the ongoing dynamic between the Pink Panther and Inspector Clouseau remaining unresolved, promising further comedic encounters.",
+        "categorized_keywords": {
+          "themes": [
+            "slapstick-comedy",
+            "cat-and-mouse",
+            "chase",
+            "misunderstanding"
+          ],
+          "plot_and_concepts": [
+            "cartoon-caper",
+            "detective-spoof",
+            "episodic-story"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "silly"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "comedy",
+            "cartoon"
+          ],
+          "setting": [
+            "unspecified-location",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "bumbling-detective",
+            "mischievous-protagonist"
+          ],
+          "narrative_style": [
+            "episodic-story"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "pink-panther",
+            "inspector-clouseau",
+            "cartoon-gags"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "This animated comedy series follows a mischievous pink panther as he playfully evades the persistent and bumbling Inspector Clouseau in a world of silly cartoon gags and lighthearted family entertainment."
+      },
+      "duration_seconds": 52.960241079330444
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "input_data": {
+    "title": "The Good Wife",
+    "overview": "Alicia Florrick boldly assumes full responsibility for her family and re-enters the workforce after her husband's very public sex and political corruption scandal lands him in jail.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2009,
+    "vote_count": 485
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Good Wife is a legal and political drama centered on Alicia Florrick, a woman rebuilding her life and career after her husband's public disgrace. The series explores themes of ambition, morality, and the complexities of family dynamics within the high-stakes world of Chicago law. It balances procedural legal cases with a compelling character study of Alicia's personal and professional evolution, offering a nuanced portrayal of a woman navigating a challenging and morally ambiguous landscape. The show's strength lies in its sharp writing, strong performances, and its ability to blend legal intrigue with intimate character development.",
+        "spoiler_rich_plot_summary": "The series begins with Alicia Florrick, a stay-at-home wife, facing the fallout of her husband, Peter’s, public scandal involving sexual misconduct and political corruption. Forced to provide for her family, she reluctantly returns to her legal career, joining the prestigious Chicago law firm of Lockhart & Gardner. Initially working as a junior associate, Alicia quickly proves her legal acumen and begins to climb the ranks, facing ethical dilemmas and professional rivalries along the way. Peter, while incarcerated, remains a constant presence, manipulating events from behind bars and complicating Alicia's efforts to establish her independence. As Alicia’s career progresses, she becomes entangled in increasingly complex cases and political machinations, often blurring the lines between personal and professional life. The firm itself undergoes significant changes, including a merger with a larger firm, further complicating Alicia’s trajectory. Throughout the series, Alicia grapples with her feelings for her colleague, Will Gardner, and navigates the challenges of motherhood while attempting to forge her own identity separate from her husband’s shadow. Peter’s political ambitions resurface, creating further conflict and forcing Alicia to confront uncomfortable truths about her family and her own values. The series culminates in a complex resolution where Alicia must make difficult choices that impact her career, her family, and her future, ultimately asserting her agency and defining her own path.",
+        "categorized_keywords": {
+          "themes": [
+            "redemption",
+            "family-loyalty",
+            "female-empowerment",
+            "political-corruption",
+            "moral-ambiguity",
+            "professional-ambition",
+            "second-chances"
+          ],
+          "plot_and_concepts": [
+            "courtroom-drama",
+            "legal-thriller",
+            "political-intrigue",
+            "serial-drama",
+            "firm-politics"
+          ],
+          "mood_and_tone": [
+            "serious",
+            "intense",
+            "sophisticated",
+            "tense",
+            "realistic"
+          ],
+          "genre_and_tropes": [
+            "legal-drama",
+            "political-thriller",
+            "slow-burn-romance",
+            "strong-female-lead"
+          ],
+          "setting": [
+            "chicago-city",
+            "modern-day",
+            "courtroom",
+            "law-firm"
+          ],
+          "character_archetypes": [
+            "strong-female-lead",
+            "anti-hero",
+            "corrupt-politician",
+            "ambitious-lawyer",
+            "moral-compass"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "procedural-drama"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "courtroom-scene",
+            "law-briefs",
+            "political-rally",
+            "prison-cell",
+            "law-firm-office"
+          ],
+          "maturity_and_content": [
+            "sexual-content",
+            "political-corruption",
+            "legal-ethics"
+          ]
+        },
+        "keyword_sentence": "The Good Wife is a sophisticated legal and political drama exploring themes of redemption and female empowerment within the morally ambiguous world of Chicago law, where a strong female lead navigates complex cases and personal betrayals."
+      },
+      "duration_seconds": 94.33136034011841
+    }
+  }
+}

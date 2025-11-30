@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "The Tourist",
+    "overview": "When a man wakes up in the Australian outback with no memory, he must use the few clues he has to discover his identity before his past catches up with him.",
+    "genres": [
+      "Mystery",
+      "Drama"
+    ],
+    "release_year": 2022,
+    "vote_count": 99
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Tourist is an Australian mystery drama that follows a man suffering from amnesia as he attempts to piece together his identity while being pursued by unknown assailants. The series blends elements of thriller, action, and dark comedy, creating a suspenseful and often absurd narrative. It explores themes of identity, memory, and the consequences of a hidden past, all set against the backdrop of the vast and often unforgiving Australian landscape. The show's tone is characterized by a mix of tension and humor, as the protagonist navigates a dangerous situation with limited knowledge and a quirky sense of resilience.",
+        "spoiler_rich_plot_summary": "The series begins with a man, known only as 'Lenny,' waking up in the Australian outback with complete amnesia. He is quickly embroiled in a dangerous situation when he is pursued by ruthless killers, suggesting he has a past he doesn't remember. As he attempts to uncover his identity, he encounters various characters, including Helen Chambers, a probationary police officer who becomes his reluctant protector. Through a series of encounters and flashbacks, fragments of his past begin to surface, revealing a life far removed from his current predicament. It becomes apparent that he was involved in a significant criminal enterprise, and his past life is catching up to him. The investigation reveals connections to international crime syndicates and a complex web of deceit. As his memory returns in fits and starts, he discovers he was involved in a heist and is being hunted by those he betrayed. The series culminates in a confrontation with his past, forcing him to confront the truth about who he was and the actions he took, ultimately leading to a resolution that redefines his understanding of himself and his place in the world.",
+        "categorized_keywords": {
+          "themes": [
+            "amnesia",
+            "identity-quest",
+            "memory-loss",
+            "redemption",
+            "past-trauma",
+            "crime",
+            "deception"
+          ],
+          "plot_and_concepts": [
+            "crime-thriller",
+            "man-on-the-run",
+            "mystery",
+            "heist",
+            "international-crime"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "darkly-comic",
+            "quirky",
+            "tense"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "thriller",
+            "mystery-drama"
+          ],
+          "setting": [
+            "australia",
+            "outback",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "amnesiac-protagonist",
+            "reluctant-hero",
+            "probationary-police-officer"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "flashbacks"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "police-car",
+            "desert-landscape",
+            "roadside-motel",
+            "crime-scene"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "suspense"
+          ]
+        },
+        "keyword_sentence": "The Tourist is a suspenseful mystery drama set in the Australian outback, following an amnesiac protagonist as he unravels a dangerous past filled with crime and deception."
+      },
+      "duration_seconds": 67.6408178806305
+    }
+  }
+}

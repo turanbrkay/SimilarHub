@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Cracker",
+    "overview": "The wise-cracking Fitz is a brilliant but flawed criminal psychologist with a remarkable insight into the criminal mind.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 1993,
+    "vote_count": 87
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Cracker is a British crime drama series that follows the investigations of Timothy “Fitz” Crackers, a brilliant but troubled criminal psychologist. The show distinguishes itself through its focus on the psychological complexities of both the criminals and the investigators, often delving into Fitz’s own personal struggles and eccentricities. It blends elements of police procedural with psychological character studies, creating a darkly humorous and often unsettling viewing experience. The series explores themes of morality, mental health, and the blurred lines between sanity and madness, offering a nuanced portrayal of the criminal justice system.",
+        "spoiler_rich_plot_summary": "The series initially centers on Detective Superintendent Elizabeth Moloch and her team as they investigate a series of disturbing crimes. Fitz Crackers, a consulting psychologist, is brought in to provide his unique insights into the perpetrators' motivations and behaviors. Early cases often involve seemingly inexplicable acts of violence, with Fitz’s unconventional methods and often abrasive personality clashing with the more traditional police procedures. As the series progresses, Fitz’s own personal demons and past traumas are gradually revealed, impacting his ability to effectively assist in the investigations. Later seasons introduce new detectives and expand the scope of the crimes, exploring themes of social inequality and political corruption. While the series maintains its focus on psychological profiling, the cases become increasingly complex and emotionally challenging, pushing both Fitz and the audience to confront uncomfortable truths about human nature. The series concludes with Fitz facing a personal crisis that forces him to re-evaluate his career and his place in the world, leaving his future uncertain.",
+        "categorized_keywords": {
+          "themes": [
+            "crime-and-punishment",
+            "mental-health",
+            "social-inequality",
+            "morality",
+            "redemption",
+            "psychological-trauma"
+          ],
+          "plot_and_concepts": [
+            "police-investigation",
+            "criminal-profiling",
+            "psychological-thriller",
+            "serial-crime"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "gritty",
+            "unsettling",
+            "noir"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "police-drama",
+            "anti-hero",
+            "british-tv"
+          ],
+          "setting": [
+            "modern-day",
+            "uk",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "brilliant-but-flawed",
+            "eccentric-detective",
+            "troubled-consultant"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "case-of-the-week"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "crime-scene",
+            "police-station",
+            "interrogation-room",
+            "psychological-assessment"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "psychological-distress"
+          ]
+        },
+        "keyword_sentence": "Cracker is a gritty British crime drama that explores the psychological complexities of criminal investigations through the lens of a brilliant but troubled consultant, blending dark humor with unsettling portrayals of violence and mental distress."
+      },
+      "duration_seconds": 66.39191269874573
+    }
+  }
+}

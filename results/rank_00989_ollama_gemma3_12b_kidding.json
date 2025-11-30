@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Kidding",
+    "overview": "Jeff, aka Mr. Pickles, is an icon of children's TV. But when his family begins to implode, Jeff finds no fairy tale or fable or puppet will guide him through this crisis, which advances faster than his means to cope. The result: a kind man in a cruel world faces a slow leak of sanity as hilarious as it is heartbreaking.",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "release_year": 2018,
+    "vote_count": 261
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Kidding is a darkly comedic drama that explores the unraveling of a beloved children's television personality, Jeff, also known as Mr. Pickles. The series blends absurdist humor with poignant explorations of grief, family dysfunction, and the pressures of maintaining a public persona. As Jeff's carefully constructed world begins to crumble, he grapples with personal tragedies and the hypocrisy inherent in his profession, leading to a slow descent into psychological distress. The show offers a complex and often unsettling portrait of a man struggling to reconcile his public image with his private pain, examining themes of identity, responsibility, and the fragility of happiness.",
+        "spoiler_rich_plot_summary": "The series opens with Jeff, a seemingly cheerful children's television star, seemingly living a charmed life. However, beneath the surface lies a deep well of unresolved trauma stemming from the loss of his son years prior. His carefully crafted persona as Mr. Pickles is a coping mechanism, a way to shield himself and his family from the harsh realities of their past. As the series progresses, the cracks in Jeff's facade begin to widen. His strained relationship with his wife, Lesly, and his complicated dynamic with his father, a powerful media mogul, are brought into sharp focus. The revelation of a secret adoption and the subsequent reappearance of his presumed-dead son further destabilize his world. Jeff's attempts to maintain control and project an image of unwavering positivity become increasingly desperate and unsustainable, leading to a gradual erosion of his sanity and a confrontation with the painful truths he has long suppressed. The series culminates in a poignant and ambiguous resolution, leaving Jeff's future uncertain but suggesting a potential path towards acceptance and healing.",
+        "categorized_keywords": {
+          "themes": [
+            "grief",
+            "family-dysfunction",
+            "identity-crisis",
+            "public-persona",
+            "hypocrisy",
+            "acceptance",
+            "healing",
+            "father-son-relationship"
+          ],
+          "plot_and_concepts": [
+            "adoption",
+            "media-influence",
+            "child-tv",
+            "secret-past",
+            "loss-of-innocence"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "somber",
+            "absurdist",
+            "unsettling",
+            "poignant"
+          ],
+          "genre_and_tropes": [
+            "dark-comedy",
+            "family-drama",
+            "character-study",
+            "satire"
+          ],
+          "setting": [
+            "modern-day",
+            "california",
+            "media-industry"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "tragic-figure",
+            "media-personality",
+            "powerful-patriarch"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "character-driven",
+            "slow-burn"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "puppet-show",
+            "childrens-tv-studio",
+            "family-estate",
+            "media-empire"
+          ],
+          "maturity_and_content": [
+            "emotional-distress",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "Kidding is a darkly comic and poignant drama exploring themes of grief, identity, and the pressures of maintaining a public persona within the modern media landscape."
+      },
+      "duration_seconds": 65.82341861724854
+    }
+  }
+}

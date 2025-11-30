@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Star Trek: Short Treks",
+    "overview": "Each episode tells a stand-alone story that serves as an opportunity for deeper storytelling and exploration of key characters and themes that fit into Star Trek: Discovery and the expanding Star Trek universe.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "release_year": 2018,
+    "vote_count": 69
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Star Trek: Short Treks is a collection of standalone episodes designed to expand the narrative universe of Star Trek: Discovery. These short-form stories explore character backstories, introduce new concepts, and bridge gaps in the larger timeline. The series maintains the franchise's signature blend of optimistic futurism, exploration, and philosophical inquiry, offering a more focused and intimate look at the Star Trek universe than the main Discovery series. While accessible on their own, the episodes are enriched by familiarity with the broader Star Trek canon, offering a deeper appreciation for the intricate world-building and character development.",
+        "spoiler_rich_plot_summary": "The Short Treks episodes vary significantly in scope and focus, but generally serve to illuminate aspects of the Star Trek universe leading up to and following events in Star Trek: Discovery. Several episodes delve into the backstory of characters like Tilly, exploring her early academic struggles and her relationship with her family. Others introduce new characters and concepts, such as the Kelpien species and their unique connection to the mycelial network, which becomes a crucial element in later Discovery storylines. Some episodes focus on specific events, like the discovery of the Red Signal, a mysterious anomaly that sets the stage for larger conflicts. While the episodes are self-contained, they collectively contribute to a richer understanding of the Star Trek universe, revealing the complexities of interstellar politics, the challenges of exploration, and the enduring spirit of humanity.",
+        "categorized_keywords": {
+          "themes": [
+            "exploration",
+            "humanity",
+            "discovery",
+            "interstellar-politics",
+            "moral-dilemmas",
+            "hope",
+            "legacy"
+          ],
+          "plot_and_concepts": [
+            "time-travel",
+            "alternate-timeline",
+            "mysterious-signal",
+            "artificial-intelligence",
+            "parallel-universe",
+            "wormhole-travel"
+          ],
+          "mood_and_tone": [
+            "optimistic",
+            "thoughtful",
+            "adventurous",
+            "hopeful",
+            "cerebral"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "space-opera",
+            "found-family",
+            "technological-utopia"
+          ],
+          "setting": [
+            "space",
+            "future",
+            "starship",
+            "alternate-timeline"
+          ],
+          "character_archetypes": [
+            "scientist",
+            "explorer",
+            "captain",
+            "engineer"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "anthology-series",
+            "standalone-episodes"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "science-fiction-fans"
+          ],
+          "detail_plot": [
+            "starship-enterprise",
+            "phaser",
+            "tricorder",
+            "warp-drive",
+            "holodeck"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Star Trek: Short Treks explores the vastness of space and the enduring spirit of humanity through standalone episodes that expand upon the established universe with a hopeful and adventurous tone."
+      },
+      "duration_seconds": 61.76663279533386
+    }
+  }
+}

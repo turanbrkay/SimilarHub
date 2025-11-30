@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Dear White People",
+    "overview": "At a predominantly white Ivy League college, a diverse group of students navigate various forms of racial and other types of discrimination.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2017,
+    "vote_count": 146
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Dear White People is a satirical dramedy series that explores themes of race, identity, and privilege within the context of a predominantly white Ivy League university. Through a diverse cast of characters, the show examines the complexities of navigating social and political landscapes, often employing sharp wit and pointed commentary to challenge perspectives and spark dialogue. The series blends humor and drama to offer a nuanced portrayal of contemporary issues, fostering introspection and prompting viewers to confront uncomfortable truths about race and belonging. It's a character-driven narrative that prioritizes emotional depth and intellectual engagement over conventional plot structures.",
+        "spoiler_rich_plot_summary": "The series initially follows Samantha White, a student activist who delivers a provocative campus-wide broadcast that ignites controversy and places her at the center of a racial reckoning. As the series progresses, the narrative expands to encompass a wider range of students, each grappling with their own experiences of marginalization and privilege. Characters navigate complex relationships, confront personal biases, and challenge the status quo within the university and beyond. The series explores themes of cultural appropriation, microaggressions, and the performative nature of allyship. Over time, characters evolve, forming unexpected alliances and confronting difficult truths about themselves and their communities. While the initial focus is on Samantha's perspective, the narrative gradually shifts to provide a more holistic view of the student body, highlighting the diverse ways in which race and identity shape their lives and aspirations. The series culminates in characters confronting the systemic issues that perpetuate inequality, while also acknowledging the ongoing need for dialogue and understanding.",
+        "categorized_keywords": {
+          "themes": [
+            "race-relations",
+            "identity-quest",
+            "privilege",
+            "social-justice",
+            "belonging",
+            "cultural-appropriation",
+            "microaggressions"
+          ],
+          "plot_and_concepts": [
+            "campus-drama",
+            "satire",
+            "social-commentary",
+            "coming-of-age"
+          ],
+          "mood_and_tone": [
+            "satirical",
+            "thought-provoking",
+            "witty",
+            "cynical",
+            "observational"
+          ],
+          "genre_and_tropes": [
+            "dramedy",
+            "social-thriller",
+            "found-family"
+          ],
+          "setting": [
+            "ivy-league-university",
+            "modern-day",
+            "american-culture"
+          ],
+          "character_archetypes": [
+            "activist",
+            "intellectual",
+            "privileged-elite",
+            "marginalized-student"
+          ],
+          "narrative_style": [
+            "ensemble-cast",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "campus-broadcast",
+            "student-protests",
+            "dorm-room",
+            "lecture-hall"
+          ],
+          "maturity_and_content": [
+            "racial-tension",
+            "offensive-language"
+          ]
+        },
+        "keyword_sentence": "Dear White People is a satirical dramedy that explores themes of race, privilege, and belonging within the context of a modern-day American university, using a diverse ensemble cast to spark dialogue and challenge perspectives."
+      },
+      "duration_seconds": 65.1026713848114
+    }
+  }
+}

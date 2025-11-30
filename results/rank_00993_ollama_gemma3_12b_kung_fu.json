@@ -1,0 +1,87 @@
+{
+  "input_data": {
+    "title": "Kung Fu",
+    "overview": "A quarter-life crisis causes a young Chinese-American woman to drop out of college and go on a life-changing journey to an isolated monastery in China. But when she returns to find her hometown overrun with crime and corruption, she uses her martial arts skills and Shaolin values to protect her community and bring criminals to justice…all while searching for the assassin who killed her Shaolin mentor and is now targeting her.",
+    "genres": [
+      "Action & Adventure",
+      "Drama"
+    ],
+    "release_year": 2021,
+    "vote_count": 260
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Kung Fu is a contemporary action-drama series that blends martial arts action with a compelling narrative of personal growth and community responsibility. The show follows a young woman who abandons her conventional life to train in a Chinese monastery, only to return home and find her hometown plagued by crime and corruption. Rooted in classic wuxia traditions but set in a modern American context, the series explores themes of identity, family, and the struggle to uphold justice in a flawed system. It offers a visually dynamic and emotionally resonant experience, appealing to audiences seeking both thrilling action sequences and a character-driven story.",
+        "spoiler_rich_plot_summary": "The series begins with Nicky Shen dropping out of college and traveling to China to train at a Shaolin monastery under the guidance of Pei-Ling. After years of rigorous training, Nicky returns to her hometown of San Francisco, only to discover that Pei-Ling has been murdered and her community is under siege by a powerful triad organization led by the formidable Madame Gao. Driven by a desire for vengeance and a sense of duty, Nicky adopts the identity of a vigilante, using her martial arts skills to protect the innocent and disrupt the triad’s operations. Along the way, she reconnects with her estranged father, Evan, a police detective, and her childhood friends, who are now grappling with their own personal struggles and moral dilemmas. As Nicky delves deeper into the criminal underworld, she uncovers a complex web of corruption that reaches into the highest levels of San Francisco’s elite. She confronts betrayals, navigates shifting alliances, and grapples with the consequences of her actions, all while searching for the assassin who killed Pei-Ling and continues to pose a threat to her and her loved ones. The series explores the legacy of her mentor and the responsibility she now carries to protect her community, facing increasingly dangerous adversaries and uncovering secrets that challenge her understanding of her own family and the world around her.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "family-loyalty",
+            "identity-quest",
+            "redemption",
+            "corruption",
+            "vengeance",
+            "community-responsibility"
+          ],
+          "plot_and_concepts": [
+            "martial-arts",
+            "vigilante-justice",
+            "triad-organization",
+            "assassin",
+            "police-investigation",
+            "generational-conflict"
+          ],
+          "mood_and_tone": [
+            "action-packed",
+            "suspenseful",
+            "dramatic",
+            "hopeful",
+            "somber"
+          ],
+          "genre_and_tropes": [
+            "action-drama",
+            "wuxia",
+            "found-family",
+            "coming-of-age",
+            "superhero-action"
+          ],
+          "setting": [
+            "san-francisco",
+            "modern-day",
+            "chinese-culture",
+            "shaolin-monastery"
+          ],
+          "character_archetypes": [
+            "vigilante",
+            "reluctant-hero",
+            "mentor",
+            "corrupt-official",
+            "police-detective"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "shaolin-temple",
+            "martial-arts-training",
+            "police-badge",
+            "triad-symbol",
+            "ancient-scroll"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "Blending action-packed martial arts with a dramatic exploration of justice and family loyalty, Kung Fu follows a young woman’s journey to protect her community and confront corruption in modern-day San Francisco."
+      },
+      "duration_seconds": 72.18622708320618
+    }
+  }
+}

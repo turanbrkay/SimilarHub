@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Sonic the Hedgehog",
+    "overview": "As the fearless leader of a group of freedom fighters, Sonic attempts to free the citizens of Mobius from the tyranny of the evil Dr. Robotnik.",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1993,
+    "vote_count": 144
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Sonic the Hedgehog is a vibrant animated series centered on the iconic video game character's fight against the villainous Dr. Robotnik. The show blends action-adventure with elements of science fiction and fantasy, creating a lighthearted and energetic experience geared towards a younger audience. It explores themes of freedom, friendship, and courage as Sonic and his allies consistently thwart Robotnik's schemes to conquer Mobius. The series maintains a consistently optimistic tone, emphasizing teamwork and perseverance in the face of adversity.",
+        "spoiler_rich_plot_summary": "The series begins with Dr. Robotnik, a brilliant but power-hungry scientist, seizing control of Mobius and enslaving its citizens to power his machines. Sonic the Hedgehog, a speedy and courageous hero, emerges as the leader of the resistance, rallying a group of friends including Tails, Knuckles, and others to fight back against Robotnik's oppressive rule. Throughout the series, Robotnik continually develops increasingly elaborate and dangerous contraptions to capture Sonic and conquer Mobius, leading to numerous thrilling chases and battles. Knuckles, initially manipulated by Robotnik, eventually joins Sonic's side, recognizing the true nature of the doctor's evil plans. The conflict escalates as Robotnik attempts to harness the power of the Chaos Emeralds, leading to a final confrontation where Sonic and his friends must work together to defeat him and restore freedom to Mobius. While Robotnik is repeatedly defeated, he always returns with new schemes, ensuring the ongoing struggle for Mobius’s liberation.",
+        "categorized_keywords": {
+          "themes": [
+            "freedom",
+            "friendship",
+            "courage",
+            "good-vs-evil",
+            "perseverance"
+          ],
+          "plot_and_concepts": [
+            "hero-journey",
+            "villain-scheme",
+            "chase-sequences",
+            "mechanical-villain",
+            "resistance-movement"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "energetic",
+            "optimistic",
+            "action-packed"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "sci-fi-fantasy",
+            "superhero-action",
+            "found-family"
+          ],
+          "setting": [
+            "mobius",
+            "alternate-world",
+            "futuristic-city"
+          ],
+          "character_archetypes": [
+            "hero",
+            "villain",
+            "sidekick",
+            "reformed-villain"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "robotnik-machines",
+            "chaos-emeralds",
+            "sonic-speed",
+            "tails-gadgets",
+            "knuckles-claws"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Sonic the Hedgehog is a lighthearted and energetic action-adventure series set on the alternate world of Mobius, where a courageous hero and his friends consistently battle a mechanical villain and his schemes to restore freedom and uphold the values of friendship and perseverance."
+      },
+      "duration_seconds": 66.82290554046631
+    }
+  }
+}

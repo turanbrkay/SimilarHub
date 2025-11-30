@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Abbott Elementary",
+    "overview": "In this workplace comedy, a group of dedicated, passionate teachers — and a slightly tone-deaf principal — are brought together in a Philadelphia public school where, despite the odds stacked against them, they are determined to help their students succeed in life. Though these incredible public servants may be outnumbered and underfunded, they love what they do — even if they don’t love the school district’s less-than-stellar attitude toward educating children.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2021,
+    "vote_count": 102
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Abbott Elementary is a warmly comedic series that offers a realistic and optimistic portrayal of public education. The show follows a group of teachers navigating the challenges of a chronically underfunded school while maintaining their dedication to their students. It blends observational humor with heartfelt moments, exploring themes of community, perseverance, and the importance of believing in the potential of every child. The series’ tone is largely lighthearted, but it doesn't shy away from acknowledging the systemic issues facing public schools, offering a nuanced and ultimately hopeful perspective.",
+        "spoiler_rich_plot_summary": "The series begins with Janine Teagues, an eternally optimistic second-grade teacher, determined to make a difference at Abbott Elementary, a struggling school in Philadelphia. She clashes with the school's principal, Ava Coleman, who is more interested in social media fame than educational leadership. Alongside her are veteran teachers Barbara Howard and Melissa Schemmenti, who offer contrasting perspectives on how to navigate the school's challenges. Throughout the first season, Janine attempts various initiatives to improve the school, often with humorous and sometimes frustrating results. The teachers work to secure funding and resources for their students, while also dealing with the everyday struggles of a public school environment. As the series progresses, the characters develop deeper relationships, confronting personal and professional obstacles while striving to create a supportive and enriching learning environment for their students. The show highlights the resilience of the teachers and the importance of their commitment to their students, even in the face of adversity.",
+        "categorized_keywords": {
+          "themes": [
+            "education-reform",
+            "community",
+            "optimism",
+            "workplace-dynamics",
+            "social-commentary",
+            "perseverance"
+          ],
+          "plot_and_concepts": [
+            "workplace-comedy",
+            "mockumentary",
+            "underdog-story",
+            "funding-challenges"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "warm",
+            "optimistic",
+            "humorous"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "workplace-comedy",
+            "found-family"
+          ],
+          "setting": [
+            "philadelphia-city",
+            "public-school",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "idealistic-teacher",
+            "experienced-mentor",
+            "unconventional-leader",
+            "pragmatic-colleague"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "classroom",
+            "staff-room",
+            "principal's-office",
+            "school-bus"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Abbott Elementary is a lighthearted and optimistic workplace comedy set in a Philadelphia public school, showcasing the dedication of teachers and the power of community in the face of educational challenges."
+      },
+      "duration_seconds": 62.83650541305542
+    }
+  }
+}

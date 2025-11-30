@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "My Little Pony: Make Your Mark",
+    "overview": "Welcome back to Equestria, where pony magic is everywhere. With friends Zipp, Sunny, Izzy, Pipp and Hitch leading the way, adventure is sure to follow!",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Kids"
+    ],
+    "release_year": 2022,
+    "vote_count": 52
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "My Little Pony: Make Your Mark is a vibrant animated series aimed at a young audience, continuing the franchise's legacy of friendship, magic, and adventure. The show blends comedic elements with heartwarming themes of self-discovery and teamwork, following a new generation of ponies as they navigate challenges and learn about their place in Equestria. It emphasizes positive values and encourages viewers to embrace their individuality while fostering strong bonds with others. The series maintains a lighthearted tone, offering a comforting and entertaining experience for children and families.",
+        "spoiler_rich_plot_summary": "The series begins with Sunny Starscout, a pony from Maretime Bay, setting out to find her missing mentor, along with her friends Izzy, Pipp, and Zipp. They quickly discover that the world isn't as harmonious as they believed, as some ponies are rejecting magic and distrusting others. Their journey takes them to different regions of Equestria, where they encounter various challenges and learn about the history of magic and its importance to the land. They face opposition from those who fear magic and seek to suppress it, leading to conflicts and tests of their friendship. Throughout their adventures, the ponies uncover secrets about their own abilities and the true nature of Equestria, ultimately working to bridge divides and restore balance to the land. The series culminates in a confrontation with those seeking to control magic, where the ponies must use their combined strengths and the power of friendship to prevail and ensure a brighter future for all.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "magic",
+            "adventure",
+            "self-discovery",
+            "teamwork",
+            "acceptance",
+            "community"
+          ],
+          "plot_and_concepts": [
+            "coming-of-age",
+            "quest",
+            "mystery",
+            "conflict-resolution",
+            "found-family"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "optimistic",
+            "cheerful"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "comedy",
+            "kids",
+            "slice-of-life"
+          ],
+          "setting": [
+            "equestria",
+            "modern-fantasy",
+            "small-town-life"
+          ],
+          "character_archetypes": [
+            "optimistic-hero",
+            "loyal-friend",
+            "curious-explorer",
+            "supportive-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "kids",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "pony-magic",
+            "friendship-symbol",
+            "small-town-market",
+            "flying-pony"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "My Little Pony: Make Your Mark is a lighthearted animated series for kids and families, celebrating friendship, magic, and adventure in the vibrant fantasy world of Equestria."
+      },
+      "duration_seconds": 56.51974391937256
+    }
+  }
+}

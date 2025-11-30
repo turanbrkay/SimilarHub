@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "The Muppets",
+    "overview": "The Muppets return to primetime with a contemporary, documentary-style show. For the first time ever, a series will explore the Muppets’ personal lives and relationships, both at home and at work, as well as romances, breakups, achievements, disappointments, wants and desires. This is a more adult Muppet show, for “kids” of all ages.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2015,
+    "vote_count": 86
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Muppets is a comedic revival series that blends classic Muppet humor with a modern, documentary-style format. The show offers a behind-the-scenes look at the Muppets' personal and professional lives, exploring their relationships and individual struggles in a way that appeals to both longtime fans and a new generation of viewers. It aims for a more mature comedic tone while retaining the whimsical charm associated with the franchise. The series examines themes of friendship, ambition, and the challenges of maintaining a creative collective.",
+        "spoiler_rich_plot_summary": "The series begins with the Muppets attempting to revive their television show after a period of dormancy. The initial episodes focus on the logistical and creative hurdles of putting on a live show, highlighting the personalities and quirks of each Muppet. Romantic relationships and professional rivalries emerge, creating both comedic and dramatic tension within the group. As the season progresses, individual Muppets grapple with personal issues, such as career anxieties and relationship difficulties. The show explores the complexities of maintaining a found-family dynamic while navigating the pressures of the entertainment industry. Recurring segments feature celebrity guest stars interacting with the Muppets, adding to the show's chaotic and unpredictable nature. The series culminates in a season finale that addresses the future of the show and the evolving relationships between the core characters, leaving the door open for continued exploration of their lives.",
+        "categorized_keywords": {
+          "themes": [
+            "found-family",
+            "friendship",
+            "ambition",
+            "creative-process",
+            "nostalgia",
+            "relationships"
+          ],
+          "plot_and_concepts": [
+            "mockumentary",
+            "improvised-comedy",
+            "celebrity-guest-stars",
+            "behind-the-scenes"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "lighthearted",
+            "comedic",
+            "nostalgic"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "mockumentary-comedy",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "television-studio",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "eccentric-personality",
+            "lovable-loser",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "puppet-theater",
+            "stage-props",
+            "costume-changes",
+            "studio-audience"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Muppets’ comedic revival blends nostalgic charm with a modern mockumentary style, exploring themes of friendship and ambition within a quirky ensemble cast navigating the challenges of a found-family dynamic."
+      },
+      "duration_seconds": 60.02313256263733
+    }
+  }
+}

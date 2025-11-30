@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "American Crime Story",
+    "overview": "An anthology series centered around some of history's most famous criminal investigations.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2016,
+    "vote_count": 875
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "American Crime Story is an anthology series that meticulously recreates infamous criminal cases, offering a deep dive into the legal, social, and personal complexities surrounding them. Each season focuses on a different case, employing a documentary-like style blended with dramatic storytelling to explore the events leading up to, during, and after the crime. The series excels at portraying the human cost of crime, examining the perspectives of victims, perpetrators, and those involved in the justice system. It’s a compelling blend of true crime and legal drama, designed to provoke thought and spark discussion about the flaws and biases within the American justice system.",
+        "spoiler_rich_plot_summary": "The first season, 'The People v. O.J. Simpson,' chronicles the sensational 1994 murder trial of O.J. Simpson, accused of the deaths of his ex-wife, Nicole Brown Simpson, and her friend, Ronald Goldman. The season explores the evidence, the legal strategies employed by both the prosecution and defense teams, and the media frenzy that surrounded the case. It examines the racial tensions and societal biases that influenced public perception and ultimately contributed to Simpson's acquittal. Subsequent seasons have tackled cases like the murder of Gianni Versace by Andrew Cunanan ('The Assassination of Gianni Versace'), delving into Cunanan’s troubled past and the investigation that led to his capture. Each season maintains a focus on the intricacies of the legal process and the personal stories of those affected by the crimes, often highlighting systemic issues and the complexities of justice.",
+        "categorized_keywords": {
+          "themes": [
+            "true-crime",
+            "justice-system",
+            "legal-ethics",
+            "celebrity-culture",
+            "racial-tension",
+            "guilt-innocence",
+            "media-influence",
+            "social-commentary"
+          ],
+          "plot_and_concepts": [
+            "true-crime-investigation",
+            "courtroom-drama",
+            "legal-proceedings",
+            "anthology-series",
+            "serial-killer"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "suspenseful",
+            "serious",
+            "investigative",
+            "somber"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "legal-thriller",
+            "true-story-adaptation"
+          ],
+          "setting": [
+            "los-angeles",
+            "modern-day",
+            "1990s"
+          ],
+          "character_archetypes": [
+            "lawyer",
+            "detective",
+            "victim",
+            "perpetrator",
+            "judge"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "investigative-journalism"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "courtroom",
+            "police-evidence",
+            "news-coverage",
+            "trial-exhibit"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "sexual-content",
+            "abuse-themes"
+          ]
+        },
+        "keyword_sentence": "American Crime Story is a dark and suspenseful anthology series that investigates infamous true crime cases, exploring the complexities of the justice system and the profound impact of celebrity culture on legal proceedings."
+      },
+      "duration_seconds": 70.97786259651184
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "input_data": {
+    "title": "Jimmy Kimmel Live!",
+    "overview": "Jimmy Kimmel Live! is an American late-night talk show, created and hosted by Jimmy Kimmel and broadcast on ABC.",
+    "genres": [
+      "Talk",
+      "Comedy"
+    ],
+    "release_year": 2003,
+    "vote_count": 128
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Jimmy Kimmel Live! is an American late-night talk show hosted by Jimmy Kimmel, featuring celebrity interviews, comedic monologues, musical performances, and recurring segments. The show maintains a lighthearted and conversational tone, blending topical humor with entertainment. It serves as a platform for promoting new music, films, and television shows while providing a space for comedic interaction between the host and guests. The show's longevity reflects its ability to adapt to changing comedic tastes and maintain a consistent appeal to a broad audience.",
+        "spoiler_rich_plot_summary": "Jimmy Kimmel Live! doesn't follow a traditional narrative arc. Each episode presents a self-contained segment of interviews, comedy, and musical performances. Recurring segments, such as 'Mean Tweets' and 'Lie Detector,' have become hallmarks of the show's comedic style, often generating viral moments and contributing to its cultural impact. The show's format allows for flexibility, responding to current events and trends with timely jokes and guest appearances. Over the years, the show has evolved to incorporate more interactive elements and digital engagement, solidifying its place in the late-night landscape. The show's success lies in its ability to consistently deliver accessible and relatable entertainment, fostering a sense of connection between the host, guests, and the viewing audience.",
+        "categorized_keywords": {
+          "themes": [
+            "celebrity-culture",
+            "comedy",
+            "entertainment",
+            "talk-show",
+            "humor"
+          ],
+          "plot_and_concepts": [
+            "interview-format",
+            "monologue",
+            "musical-performance",
+            "recurring-segments"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "conversational",
+            "comedic",
+            "accessible"
+          ],
+          "genre_and_tropes": [
+            "talk-show",
+            "late-night-comedy"
+          ],
+          "setting": [
+            "television-studio",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "host",
+            "celebrity-guest"
+          ],
+          "narrative_style": [
+            "episodic",
+            "self-contained"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "general-audience"
+          ],
+          "detail_plot": [
+            "interview-set",
+            "stage-lighting",
+            "band-performance",
+            "guest-chair"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Jimmy Kimmel Live! offers a lighthearted and accessible late-night talk show experience, blending celebrity interviews, comedic monologues, and musical performances in a modern television studio setting."
+      },
+      "duration_seconds": 55.651654958724976
+    }
+  }
+}

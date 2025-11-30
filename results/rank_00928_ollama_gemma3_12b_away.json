@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Away",
+    "overview": "American astronaut Emma Green must leave her husband and teenage daughter behind to command an international space crew embarking upon a treacherous mission. A series about hope, humanity and how we need one another if we are to achieve impossible things.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "release_year": 2020,
+    "vote_count": 284
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Away is a science fiction drama series centered on a multinational crew undertaking a perilous mission to explore a planet orbiting Alpha Centauri. The series explores themes of family, sacrifice, and the psychological toll of prolonged isolation and the pursuit of ambitious goals. It blends the grandeur of space exploration with intimate character studies, examining the personal costs of pushing the boundaries of human achievement. The show's tone is largely somber and reflective, emphasizing the emotional weight of the astronauts' commitment and the challenges of maintaining connection across vast distances. It offers a contemplative and visually stunning portrayal of human resilience and the enduring power of hope.",
+        "spoiler_rich_plot_summary": "The series begins with Emma Green, a decorated astronaut, being selected to lead an international crew on a decades-long mission to Proxima Centauri b. This decision forces her to confront a painful past and separate from her husband, Cole, and their teenage daughter, Lexi. The crew, comprised of astronauts from various nations, faces numerous technical and interpersonal challenges during the journey, including equipment malfunctions, communication delays, and conflicting personalities. As the mission progresses, the astronauts grapple with the psychological effects of prolonged isolation and the knowledge that they will likely never return to Earth. Flashbacks reveal Emma's past trauma and the circumstances that led to her selection for the mission, adding layers of complexity to her character. The crew encounters unexpected obstacles and makes difficult choices that impact their mission and their relationships. While the journey is fraught with peril, the astronauts find solace in their shared purpose and the bonds they forge with one another, demonstrating the importance of human connection in the face of adversity. The series culminates in the crew reaching Proxima Centauri b, where they make a significant discovery, though the full implications of this discovery remain open-ended, suggesting a continuation of the exploration and the challenges it presents.",
+        "categorized_keywords": {
+          "themes": [
+            "sacrifice",
+            "family-separation",
+            "isolation",
+            "hope",
+            "human-connection",
+            "exploration",
+            "redemption",
+            "grief"
+          ],
+          "plot_and_concepts": [
+            "space-exploration",
+            "long-duration-spaceflight",
+            "international-collaboration",
+            "flashbacks",
+            "communication-delay"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "reflective",
+            "contemplative",
+            "tense",
+            "hopeful"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "drama",
+            "character-driven",
+            "found-family"
+          ],
+          "setting": [
+            "space",
+            "proxima-centauri-b",
+            "modern-day",
+            "international-space-station"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "grieving-parent",
+            "dedicated-scientist",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "character-focused"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "space-shuttle",
+            "communication-satellite",
+            "oxygen-tank",
+            "mission-control",
+            "astronaut-suit"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Away is a somber and reflective science fiction drama series that explores themes of sacrifice and human connection as an international crew undertakes a decades-long journey of space exploration, facing isolation and the challenges of family separation."
+      },
+      "duration_seconds": 66.64408898353577
+    }
+  }
+}

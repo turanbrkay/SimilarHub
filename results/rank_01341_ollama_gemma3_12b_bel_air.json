@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Bel-Air",
+    "overview": "The journey of a book smart teen whose life is forever transformed when he moves from the streets of west Philadelphia to live with his relatives in one of LA’s wealthiest suburbs.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2022,
+    "vote_count": 173
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Bel-Air reimagines the classic sitcom 'The Fresh Prince of Bel-Air' as a dramatic series, exploring themes of class, race, family, and identity. The show follows a young man's relocation from West Philadelphia to the affluent Bel-Air neighborhood of Los Angeles, forcing him to navigate a new environment, confront complex social dynamics, and grapple with the responsibilities that come with privilege. It offers a contemporary examination of the American Dream and the challenges of belonging, blending humor with serious social commentary and exploring the complexities of family relationships.",
+        "spoiler_rich_plot_summary": "The series begins with Will Smith, a promising young man from West Philadelphia, involved in an altercation that draws the attention of local authorities. To protect him, his mother sends him to live with his wealthy aunt and uncle, Vivian and Philip Banks, in Bel-Air. Initially, Will struggles to adapt to the stark contrast between his old life and his new surroundings, experiencing culture shock and facing prejudice from his relatives' social circle. He forms unexpected friendships and romantic relationships, while also confronting the realities of systemic inequality and the burdens of his family's past. As Will matures, he becomes increasingly involved in his community, using his voice to advocate for social justice and challenge the status quo. The Banks family also undergoes significant changes, confronting their own biases and striving to create a more inclusive environment. The series explores the complexities of intergenerational trauma, the pursuit of belonging, and the responsibility that comes with wealth and influence, culminating in Will finding his place within the Banks family and embracing his role as a force for positive change.",
+        "categorized_keywords": {
+          "themes": [
+            "class-conflict",
+            "race-identity",
+            "family-dynamics",
+            "social-justice",
+            "wealth-and-privilege",
+            "belonging",
+            "intergenerational-trauma"
+          ],
+          "plot_and_concepts": [
+            "fish-out-of-water",
+            "coming-of-age",
+            "social-commentary",
+            "relocation-story"
+          ],
+          "mood_and_tone": [
+            "dramatic",
+            "thought-provoking",
+            "emotional",
+            "contemporary"
+          ],
+          "genre_and_tropes": [
+            "drama",
+            "teen-drama",
+            "family-drama",
+            "social-realism"
+          ],
+          "setting": [
+            "bel-air-california",
+            "west-philadelphia",
+            "modern-day",
+            "affluent-neighborhood"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wealthy-patron",
+            "wise-mentor",
+            "privileged-youth"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "mansions",
+            "luxury-cars",
+            "private-school",
+            "social-media",
+            "basketball-court"
+          ],
+          "maturity_and_content": [
+            "social-inequality",
+            "bullying",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "Bel-Air explores themes of class conflict and race identity through the dramatic journey of a young man relocating from West Philadelphia to a wealthy Los Angeles neighborhood, examining the complexities of family dynamics and the pursuit of belonging in a contemporary setting."
+      },
+      "duration_seconds": 67.80269956588745
+    }
+  }
+}

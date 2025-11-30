@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "White House Plumbers",
+    "overview": "The true story of how Nixon’s own political saboteurs and Watergate masterminds accidentally toppled the Presidency they were zealously trying to protect.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2023,
+    "vote_count": 52
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "White House Plumbers is a darkly comedic drama series chronicling the true story of E. Howard Hunt and G. Gordon Liddy, two figures instrumental in the Watergate scandal. The series explores their involvement in clandestine operations for the Nixon administration, highlighting the absurdity and recklessness that ultimately led to the President's downfall. It blends political thriller elements with a satirical tone, examining the corrosive effects of power and the dangers of unchecked ambition. The show offers a unique perspective on a pivotal moment in American history, focusing on the individuals who inadvertently triggered a constitutional crisis.",
+        "spoiler_rich_plot_summary": "The series begins by introducing E. Howard Hunt and G. Gordon Liddy, showcasing their backgrounds and their fervent loyalty to Richard Nixon. They are tasked with carrying out increasingly elaborate and illegal operations, including burglaries and smear campaigns against political opponents. These missions, initially presented as patriotic endeavors, quickly spiral out of control, revealing the moral compromises and escalating risks involved. The series follows the chain of events that lead to the infamous break-in at the Democratic National Committee headquarters in the Watergate Hotel, an event that sets in motion a series of investigations and exposes a web of corruption within the Nixon administration. As the truth begins to surface, Hunt and Liddy find themselves caught in a desperate attempt to protect themselves and their former employer, ultimately contributing to the unraveling of Nixon’s presidency and their own downfall. The narrative culminates in the exposure of their involvement and the subsequent legal consequences they face, illustrating the devastating impact of their actions on American democracy.",
+        "categorized_keywords": {
+          "themes": [
+            "political-corruption",
+            "abuse-of-power",
+            "loyalty",
+            "conspiracy",
+            "american-history",
+            "fall-from-grace"
+          ],
+          "plot_and_concepts": [
+            "political-thriller",
+            "burglary",
+            "smear-campaign",
+            "watergate-scandal",
+            "cover-up"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "satirical",
+            "suspenseful",
+            "cynical"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "political-drama",
+            "true-crime"
+          ],
+          "setting": [
+            "1970s-america",
+            "washington-d-c",
+            "white-house"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "loyalist",
+            "corrupt-official"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "true-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "watergate-hotel",
+            "dnc-headquarters",
+            "nixon-administration"
+          ],
+          "maturity_and_content": [
+            "political-intrigue",
+            "illegal-activities"
+          ]
+        },
+        "keyword_sentence": "White House Plumbers is a darkly comic political drama series exploring the true story of loyalty, corruption, and the unraveling of the Nixon administration through a series of increasingly reckless and illegal operations in 1970s America."
+      },
+      "duration_seconds": 61.23648500442505
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Cosmos: A Personal Voyage",
+    "overview": "Carl Sagan covers a wide range of scientific subjects, including the origin of life and a perspective of our place in the universe.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 1980,
+    "vote_count": 306
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Cosmos: A Personal Voyage is a landmark documentary series that explores the vastness of the universe and humanity's place within it. Hosted by Carl Sagan, the series combines scientific explanation with philosophical reflection, presented in a highly accessible and engaging style. It aims to inspire a sense of wonder and encourage scientific literacy, blending complex concepts with compelling visuals and a deeply human perspective. The series emphasizes the interconnectedness of all things and the importance of critical thinking and exploration.",
+        "spoiler_rich_plot_summary": "The series begins with an exploration of the Pale Blue Dot, a poignant reminder of Earth's fragility and significance. Sagan then guides viewers through the history of science, from ancient civilizations to the modern era, highlighting key discoveries and the individuals who made them. He delves into the origins of the solar system, the evolution of life on Earth, and the search for extraterrestrial intelligence. Throughout the journey, Sagan emphasizes the scientific method and the importance of questioning assumptions. The series culminates in a reflection on humanity's future and the responsibility to protect our planet and continue exploring the cosmos, leaving the viewer with a profound sense of perspective and a renewed appreciation for the universe’s mysteries.",
+        "categorized_keywords": {
+          "themes": [
+            "scientific-discovery",
+            "human-existence",
+            "exploration",
+            "cosmic-perspective",
+            "environmental-responsibility",
+            "knowledge-seeking"
+          ],
+          "plot_and_concepts": [
+            "scientific-method",
+            "evolution",
+            "astronomy",
+            "paleontology",
+            "big-bang-theory"
+          ],
+          "mood_and_tone": [
+            "inspirational",
+            "thoughtful",
+            "optimistic",
+            "educational",
+            "awe-inspiring"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "science-communication",
+            "educational-television"
+          ],
+          "setting": [
+            "universe",
+            "earth",
+            "ancient-civilizations",
+            "modern-era"
+          ],
+          "character_archetypes": [
+            "scientist",
+            "educator",
+            "explorer"
+          ],
+          "narrative_style": [
+            "chronological-narrative",
+            "linear-storytelling"
+          ],
+          "target_audience": [
+            "general-audience",
+            "science-enthusiasts"
+          ],
+          "detail_plot": [
+            "pale-blue-dot",
+            "spaceship-voyager",
+            "telescope-imagery",
+            "ancient-astronomy"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Cosmos: A Personal Voyage is an inspirational documentary series that explores the universe and humanity’s place within it, fostering a sense of wonder and emphasizing the importance of scientific discovery and environmental responsibility."
+      },
+      "duration_seconds": 53.96780014038086
+    }
+  }
+}

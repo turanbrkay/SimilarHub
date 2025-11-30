@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Reverie",
+    "overview": "A former detective specializing in human behavior is brought in when the launch of an advanced virtual reality program has dangerous and unintended consequences.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "release_year": 2018,
+    "vote_count": 58
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Reverie is a science fiction drama exploring the ethical and psychological implications of advanced virtual reality technology. The series follows a specialist in human behavior who is recruited to investigate a new VR program that is causing unforeseen and potentially harmful consequences for its users. Reverie blends elements of procedural crime drama with philosophical questions about consciousness, memory, and the nature of reality, offering a suspenseful and thought-provoking narrative. The show examines the blurred lines between the virtual and the real, and the potential for technology to both heal and harm.",
+        "spoiler_rich_plot_summary": "The series centers on Parker Wright, a former detective haunted by a past tragedy, who is brought in to consult on Reverie, a revolutionary virtual reality program designed to help people confront and resolve their unresolved emotional trauma. Reverie allows users to enter a shared virtual space where their subconscious memories and desires manifest. Initially, the program appears to be a therapeutic breakthrough, but Parker soon discovers that users are experiencing severe psychological distress and even physical harm after their sessions. As Parker investigates, he uncovers a conspiracy involving the program's creators, who are exploiting the technology for their own purposes. He must navigate the complex and dangerous virtual world, confronting not only the program's flaws but also his own personal demons. The investigation reveals that the virtual world is not as contained as initially believed, and the lines between reality and simulation begin to blur, threatening to destabilize both the program and the lives of those involved. Parker's past trauma is intrinsically linked to the unfolding events, forcing him to confront his own unresolved issues while trying to unravel the truth behind Reverie’s dangerous side effects.",
+        "categorized_keywords": {
+          "themes": [
+            "virtual-reality",
+            "consciousness",
+            "memory",
+            "trauma",
+            "ethics",
+            "redemption",
+            "reality-vs-illusion"
+          ],
+          "plot_and_concepts": [
+            "virtual-world",
+            "crime-investigation",
+            "conspiracy",
+            "psychological-thriller",
+            "shared-dream"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "thought-provoking",
+            "mysterious"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "drama",
+            "procedural",
+            "mystery"
+          ],
+          "setting": [
+            "modern-day",
+            "virtual-environment",
+            "new-york-city"
+          ],
+          "character_archetypes": [
+            "haunted-protagonist",
+            "expert-consultant",
+            "enigmatic-creator"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "procedural-elements"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "virtual-avatar",
+            "shared-dreamscape",
+            "memory-fragment",
+            "virtual-interface"
+          ],
+          "maturity_and_content": [
+            "psychological-distress",
+            "virtual-reality-induced-trauma"
+          ]
+        },
+        "keyword_sentence": "Reverie is a suspenseful science fiction drama that explores the ethical implications of virtual reality technology and its potential to unlock buried trauma while blurring the lines between reality and illusion."
+      },
+      "duration_seconds": 66.14253544807434
+    }
+  }
+}

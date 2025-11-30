@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Jett",
+    "overview": "Fresh out of prison, world-class thief Daisy ”Jett” Kowalski  is forced back into doing what she does best by dangerous and eccentric criminals determined to exploit her skills for their own ends.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "release_year": 2019,
+    "vote_count": 78
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Jett is a heist drama centered on a skilled thief recently released from prison who is relentlessly pulled back into a life of crime. The series blends action, suspense, and character-driven narratives, exploring themes of loyalty, betrayal, and the struggle to escape a criminal past. The tone is gritty and stylish, with a focus on intricate planning and high-stakes execution. Jett offers a thrilling ride for viewers who enjoy complex characters and fast-paced action sequences.",
+        "spoiler_rich_plot_summary": "The series begins with Daisy 'Jett' Kowalski's release from prison after serving time for a heist gone wrong. She desperately wants to leave her criminal past behind and build a new life, but she is quickly targeted by a group of dangerous criminals led by Milos, who orchestrated her initial downfall. Milos forces Jett to work for him, using her expertise in elaborate heists to steal valuable assets across Europe. As Jett navigates these dangerous missions, she uncovers a larger conspiracy involving Milos and his associates, revealing that her past is far more complicated than she initially believed. She forms uneasy alliances with other criminals, some of whom she can trust and others who are manipulating her for their own purposes. Throughout the series, Jett grapples with the moral implications of her actions and the constant threat of betrayal, ultimately striving to reclaim her freedom and expose the truth behind her imprisonment.",
+        "categorized_keywords": {
+          "themes": [
+            "redemption",
+            "loyalty",
+            "betrayal",
+            "criminal-underworld",
+            "second-chances",
+            "escape"
+          ],
+          "plot_and_concepts": [
+            "heist",
+            "conspiracy",
+            "criminal-mastermind",
+            "revenge",
+            "double-cross"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "suspenseful",
+            "stylish",
+            "fast-paced"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "action-thriller",
+            "international-crime",
+            "anti-hero"
+          ],
+          "setting": [
+            "europe",
+            "modern-day",
+            "criminal-networks"
+          ],
+          "character_archetypes": [
+            "skilled-thief",
+            "criminal-mastermind",
+            "reluctant-hero",
+            "femme-fatale"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "safe-house",
+            "security-system",
+            "escape-route",
+            "luxury-yacht",
+            "art-heist"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "criminal-activity"
+          ]
+        },
+        "keyword_sentence": "Jett is a gritty, suspenseful action-thriller series set across Europe, following a skilled thief’s struggle for redemption within a dangerous criminal underworld."
+      },
+      "duration_seconds": 63.729958295822144
+    }
+  }
+}

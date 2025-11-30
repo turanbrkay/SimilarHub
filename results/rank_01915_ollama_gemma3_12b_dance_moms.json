@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Dance Moms",
+    "overview": "Dance Moms is an American dance reality series that debuted on Lifetime on July 13, 2011. Created by Collins Avenue Productions, it is set in Pittsburgh, Pennsylvania, at the Abby Lee Dance Company, and follows children's early careers in dance show business, and their mothers. A spinoff series, Dance Moms: Miami, set in Miami at Victor Smalley and Angel Armas' dance studio, Stars Dance Studio, premiered on April 3, 2012, and was cancelled in September 2012 after eight episodes.\n\nOn October 10, 2012, Lifetime announced that they had picked up Dance Moms for a third season, consisting of 26 episodes, which debuted on January 1, 2013.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2011,
+    "vote_count": 103
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Dance Moms is a reality television series that provides a behind-the-scenes look at the competitive world of professional dance. The show centers on a group of young dancers and their mothers, all under the direction of a demanding instructor. It explores the pressures of rigorous training, the complexities of mother-daughter relationships, and the intense rivalries that arise within a high-stakes environment. The series blends elements of competition, drama, and personal relationships, offering a glimpse into the dedication and sacrifices required to pursue a career in dance. While ostensibly a reality show, it often employs narrative techniques to heighten conflict and create compelling storylines.",
+        "spoiler_rich_plot_summary": "The series initially follows a core group of young dancers at the Abby Lee Dance Company, each striving for recognition and a solo performance. The mothers, often as driven as their daughters, constantly vie for their children's spotlight and engage in heated arguments with each other and with Abby. Throughout the seasons, dancers come and go, often due to disagreements with Abby or the competitive atmosphere. Solo performances are highly coveted, and the pressure to succeed leads to frequent emotional breakdowns and confrontations. The show documents the dancers' progress in various competitions, showcasing their technical skills and artistic interpretations. As the series progresses, the relationships between the dancers and Abby evolve, with moments of mentorship interspersed with periods of intense conflict. The show culminates in the dancers pursuing individual paths, some continuing their dance careers while others explore different opportunities, leaving a legacy of intense competition and complex relationships.",
+        "categorized_keywords": {
+          "themes": [
+            "competition",
+            "mother-daughter-relationships",
+            "ambition",
+            "pressure",
+            "rivalry",
+            "dedication"
+          ],
+          "plot_and_concepts": [
+            "reality-competition",
+            "dance-performance",
+            "behind-the-scenes",
+            "competitive-dance"
+          ],
+          "mood_and_tone": [
+            "dramatic",
+            "intense",
+            "emotional",
+            "competitive"
+          ],
+          "genre_and_tropes": [
+            "reality-tv",
+            "dance-show",
+            "competitive-show"
+          ],
+          "setting": [
+            "pittsburgh-pennsylvania",
+            "dance-studio"
+          ],
+          "character_archetypes": [
+            "demanding-mentor",
+            "ambitious-mother",
+            "aspiring-dancer"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "dance-recitals",
+            "competition-trophies",
+            "costumes",
+            "dance-battles"
+          ],
+          "maturity_and_content": [
+            "verbal-aggression",
+            "emotional-manipulation"
+          ]
+        },
+        "keyword_sentence": "Dance Moms offers a dramatic and intense look at the competitive world of professional dance, exploring the complex relationships between young dancers and their ambitious mothers under the pressure of demanding performances and relentless rivalry."
+      },
+      "duration_seconds": 64.61106705665588
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Tom and Jerry in New York",
+    "overview": "Follow the iconic cat and mouse duo as they settle in to their new digs at the Royal Gate Hotel and unleash mayhem across the big city, inciting hilarious chaos uptown, downtown and everywhere their manic escapades take them.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Kids"
+    ],
+    "release_year": 2021,
+    "vote_count": 182
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Tom and Jerry in New York is a revival of the classic animated series, reimagined for a modern audience. The show follows the timeless rivalry between Tom, the cat, and Jerry, the mouse, as they navigate the bustling environment of New York City. The series blends slapstick humor with visual gags and situational comedy, targeting a family audience with its lighthearted and chaotic adventures. While maintaining the core dynamic of the original, the new series incorporates contemporary settings and visual styles, offering a familiar yet fresh comedic experience.",
+        "spoiler_rich_plot_summary": "The series begins with Tom and Jerry relocating to the Royal Gate Hotel in New York City, quickly establishing a pattern of escalating chaos and property damage. Jerry, ever the resourceful mouse, consistently outwits Tom, exploiting the hotel's vastness and the staff's obliviousness to their antics. Throughout the series, they encounter a variety of supporting characters, including hotel employees and eccentric guests, who often become unwitting victims of their rivalry. While their conflict remains central, the series explores themes of friendship and understanding, occasionally hinting at a deeper connection between the two characters. The show culminates in a large-scale comedic set piece involving the entire hotel, where Tom and Jerry must work together to resolve a crisis, ultimately reaffirming their enduring, albeit antagonistic, relationship.",
+        "categorized_keywords": {
+          "themes": [
+            "rivalry",
+            "friendship",
+            "chaos",
+            "humor",
+            "property-damage"
+          ],
+          "plot_and_concepts": [
+            "slapstick-comedy",
+            "cat-and-mouse",
+            "property-destruction",
+            "hotel-setting"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "chaotic"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "comedy",
+            "kids-comedy",
+            "classic-cartoon"
+          ],
+          "setting": [
+            "new-york-city",
+            "hotel-setting",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "trickster",
+            "pursuer",
+            "comedic-villain"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "kids"
+          ],
+          "detail_plot": [
+            "mouse-trap",
+            "hotel-lobby",
+            "cartoon-physics",
+            "pie-in-face"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Tom and Jerry in New York delivers a lighthearted and chaotic comedic experience for families, following the classic cat-and-mouse rivalry as they wreak havoc in a bustling hotel setting."
+      },
+      "duration_seconds": 56.26363921165466
+    }
+  }
+}

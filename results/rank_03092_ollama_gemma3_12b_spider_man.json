@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "Spider-Man",
+    "overview": "Spider-Man is an American animated TV series based on the popular Marvel Comics character of the same name.",
+    "genres": [
+      "Animation",
+      "Kids"
+    ],
+    "release_year": 1981,
+    "vote_count": 45
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Spider-Man is a classic animated series that introduces audiences to the iconic Marvel superhero. The show follows Peter Parker's journey as he grapples with newfound abilities, personal responsibility, and the challenges of balancing a normal teenage life with his heroic duties as Spider-Man. It's a lighthearted and action-packed adventure series aimed at a younger audience, emphasizing themes of courage, friendship, and doing what's right. The series blends superhero action with coming-of-age elements, creating a fun and accessible introduction to the Spider-Man mythos.",
+        "spoiler_rich_plot_summary": "The series begins with Peter Parker, a high school student, being bitten by a radioactive spider, granting him incredible powers. He initially uses these abilities for personal gain, entering a wrestling competition to win money. However, tragedy strikes when his Uncle Ben is killed during a robbery, prompting Peter to realize that with great power comes great responsibility. Throughout the series, Spider-Man battles a colorful rogues' gallery of villains, including the Green Goblin, Doctor Octopus, and the Rhino, each presenting unique challenges and forcing Peter to learn more about his abilities and the importance of protecting the innocent. Peter navigates the complexities of high school, friendships, and romantic interests, all while striving to be a dependable hero for New York City. The series explores the ongoing struggle between Peter's personal life and his heroic obligations, showcasing his growth as both a person and a superhero.",
+        "categorized_keywords": {
+          "themes": [
+            "responsibility",
+            "courage",
+            "friendship",
+            "coming-of-age",
+            "good-vs-evil"
+          ],
+          "plot_and_concepts": [
+            "superhero-origin",
+            "radioactive-mutation",
+            "rogues-gallery",
+            "secret-identity"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "action-packed",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "superhero-action",
+            "animated-series",
+            "coming-of-age-story"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "teenager",
+            "mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "kids",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "spider-bite",
+            "web-shooters",
+            "green-goblin",
+            "uncle-ben"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "This animated series follows a teenager's journey as he learns to balance his newfound superhero abilities and personal life, battling classic villains in a lighthearted and action-packed adventure set in New York City."
+      },
+      "duration_seconds": 56.35144090652466
+    }
+  }
+}

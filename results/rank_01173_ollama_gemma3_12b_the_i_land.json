@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "The I-Land",
+    "overview": "Wiped clean of memories and thrown together, a group of strangers fight to survive harsh realities -- and the island that traps them.",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2019,
+    "vote_count": 209
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The I-Land is a suspenseful drama series blending science fiction and psychological thriller elements. A group of individuals, stripped of their memories, find themselves stranded on a mysterious island, forced to confront both the external dangers of their environment and the internal conflicts arising from their lost identities. The series explores themes of survival, identity, and the fragility of memory, creating a claustrophobic and unsettling atmosphere as the characters struggle to uncover the truth behind their predicament and the island's purpose. The narrative unfolds with a slow-burn pace, emphasizing character development and the unraveling of a complex mystery.",
+        "spoiler_rich_plot_summary": "The series begins with a group of strangers awakening on a remote, tropical island, each with no recollection of who they are or how they arrived. As they attempt to navigate the island's harsh environment and the unsettling presence of a mysterious doctor, they begin to uncover fragmented memories and clues suggesting a deeper, more sinister purpose behind their confinement. The characters slowly piece together their past lives, revealing that they were all selected for a psychological experiment designed to test their resilience and morality under extreme pressure. The island itself is revealed to be a meticulously crafted environment, with hidden dangers and manipulated scenarios intended to push the participants to their breaking points. Betrayals and shifting alliances emerge as the characters grapple with their past actions and the realization that their memories were deliberately erased. The series culminates in a confrontation with the architect of the experiment, exposing the motivations behind the psychological manipulation and the true nature of the island's purpose, leaving the remaining characters to confront the consequences of their experiences and the uncertain future that awaits them.",
+        "categorized_keywords": {
+          "themes": [
+            "survival",
+            "identity-loss",
+            "memory-manipulation",
+            "moral-dilemmas",
+            "psychological-experiment",
+            "isolation"
+          ],
+          "plot_and_concepts": [
+            "amnesia",
+            "psychological-thriller",
+            "mystery",
+            "island-setting",
+            "experimentation"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "claustrophobic",
+            "unsettling"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "psychological-thriller",
+            "mystery-drama"
+          ],
+          "setting": [
+            "tropical-island",
+            "remote-location",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "amnesiac-protagonist",
+            "enigmatic-doctor",
+            "reluctant-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "slow-burn"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "island-environment",
+            "medical-facility",
+            "memory-fragments"
+          ],
+          "maturity_and_content": [
+            "psychological-distress"
+          ]
+        },
+        "keyword_sentence": "Stranded on a remote island and stripped of their memories, a group of adults must confront psychological manipulation and moral dilemmas in this suspenseful science-fiction thriller."
+      },
+      "duration_seconds": 62.712491512298584
+    }
+  }
+}

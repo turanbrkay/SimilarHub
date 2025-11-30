@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "ReBoot",
+    "overview": "ReBoot is a Canadian CGI-animated action-adventure cartoon series that originally aired from 1994 to 2001. It was produced by Vancouver-based production company Mainframe Entertainment, Alliance Communications, BLT Productions and created by Gavin Blair, Ian Pearson, Phil Mitchell and John Grace, with the visuals designed by Brendan McCarthy after an initial attempt by Ian Gibson.\n\nIt was the first half-hour, completely computer-animated TV series.",
+    "genres": [
+      "Animation",
+      "Action & Adventure"
+    ],
+    "release_year": 1994,
+    "vote_count": 48
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "ReBoot is a pioneering CGI-animated series that blends action-adventure with a unique, self-aware digital world. The show follows a group of programs within a computer system as they battle viruses and maintain order. Its innovative animation style and meta-narrative elements, where the characters are aware they exist within a computer program, set it apart from contemporary animation. The series explores themes of order versus chaos, artificial intelligence, and the nature of reality within a visually dynamic and often humorous setting. ReBoot's legacy lies in its groundbreaking use of CGI and its influence on subsequent animated series.",
+        "spoiler_rich_plot_summary": "The series initially centers on Mike the Virus and his attempts to disrupt the system, opposed by the heroic Bob the Yellow and his team of Guardians. The Guardians, including Enzo, Tango, and later, others, work to protect the system's users and data. As the series progresses, the nature of the system itself becomes more complex, revealing layers of programming and hidden agendas. Mike's motivations evolve beyond simple chaos, and his relationship with the Guardians becomes more nuanced. The series explores the idea that the system is not as stable as it appears, and that the Guardians themselves are subject to the same rules and limitations as the viruses they fight. Later seasons introduce new threats and challenges, pushing the Guardians to their limits and forcing them to confront difficult choices about the future of the system. The overarching narrative deals with the constant struggle to maintain balance and order within a digital world, and the consequences of failure.",
+        "categorized_keywords": {
+          "themes": [
+            "artificial-intelligence",
+            "order-versus-chaos",
+            "digital-world",
+            "virtual-reality",
+            "balance",
+            "system-stability"
+          ],
+          "plot_and_concepts": [
+            "cgi-animation",
+            "virus-attack",
+            "system-maintenance",
+            "virtual-environment",
+            "self-aware-characters"
+          ],
+          "mood_and_tone": [
+            "action-adventure",
+            "humorous",
+            "dynamic",
+            "innovative"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "action",
+            "adventure",
+            "cyberpunk",
+            "virtual-world"
+          ],
+          "setting": [
+            "computer-system",
+            "digital-realm",
+            "virtual-environment"
+          ],
+          "character_archetypes": [
+            "heroic-guardian",
+            "antagonist-virus",
+            "virtual-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "virus-attack",
+            "guardian-team",
+            "system-interface",
+            "digital-avatar"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "ReBoot is a pioneering animated action-adventure series set within a dynamic digital world, where heroic guardians battle viruses to maintain order and balance within a constantly evolving computer system."
+      },
+      "duration_seconds": 60.74488878250122
+    }
+  }
+}

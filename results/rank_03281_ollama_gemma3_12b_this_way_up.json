@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "This Way Up",
+    "overview": "A young woman puts her life back together after suffering from a nervous breakdown.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2019,
+    "vote_count": 40
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "This Way Up is a British comedy series that explores the complexities of mental health and recovery through the eyes of a young woman, Mae, navigating life after a nervous breakdown. The show balances humor with poignant observations about family dynamics, friendship, and the challenges of rebuilding a sense of normalcy. It offers a relatable and often heartwarming portrayal of vulnerability and resilience, using comedic situations to illuminate deeper emotional truths. The series is characterized by its naturalistic dialogue, quirky characters, and a gentle, observational tone.",
+        "spoiler_rich_plot_summary": "The series begins with Mae, recently discharged from a psychiatric hospital, attempting to reintegrate into her life and support her older brother, Tobias, who is struggling to cope with her past breakdown and his own anxieties. Tobias acts as Mae’s appointed guardian, a role that proves both necessary and fraught with tension as they navigate their shared history and individual struggles. Throughout the series, Mae attends therapy sessions, attempts to rekindle old relationships, and explores new avenues for personal growth, often with humorous and awkward results. As Mae’s condition improves, she begins to take on more responsibility, but the underlying fragility of her mental health remains a constant presence. The series follows their evolving relationship, highlighting the importance of familial support and the ongoing process of healing. While Mae experiences moments of relapse and setbacks, she ultimately demonstrates a growing sense of self-awareness and a commitment to her recovery, leaving the audience with a hopeful outlook on her future and her brother’s.",
+        "categorized_keywords": {
+          "themes": [
+            "mental-health",
+            "family-dynamics",
+            "recovery",
+            "vulnerability",
+            "resilience",
+            "sibling-relationship"
+          ],
+          "plot_and_concepts": [
+            "therapy",
+            "nervous-breakdown",
+            "personal-growth",
+            "support-system"
+          ],
+          "mood_and_tone": [
+            "comedic",
+            "heartwarming",
+            "observational",
+            "naturalistic",
+            "poignant"
+          ],
+          "genre_and_tropes": [
+            "dark-comedy",
+            "slice-of-life",
+            "british-humor"
+          ],
+          "setting": [
+            "modern-day",
+            "london-uk"
+          ],
+          "character_archetypes": [
+            "anxious-protagonist",
+            "supportive-sibling",
+            "vulnerable-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "therapy-session",
+            "support-group",
+            "family-home"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "This Way Up is a comedic and heartwarming British series that explores themes of mental health and family dynamics through the lens of a young woman’s journey of recovery and resilience."
+      },
+      "duration_seconds": 53.32017970085144
+    }
+  }
+}

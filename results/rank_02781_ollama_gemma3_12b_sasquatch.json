@@ -1,0 +1,86 @@
+{
+  "input_data": {
+    "title": "Sasquatch",
+    "overview": "Investigative journalist David Holthouse attempts to solve a bizarre twenty-five year old triple homicide that was said to be the work of a mythical creature.",
+    "genres": [
+      "Documentary",
+      "Mystery",
+      "Crime"
+    ],
+    "release_year": 2021,
+    "vote_count": 55
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Sasquatch is a documentary series that blends true crime investigation with the exploration of a persistent, fringe legend. The series follows an investigative journalist as he attempts to unravel a cold case involving a triple homicide, while simultaneously delving into the possibility of a connection to the Sasquatch myth. It offers a unique blend of procedural investigation, folklore, and the allure of the unknown, creating a suspenseful and thought-provoking experience for the viewer. The series explores themes of belief, truth, and the human desire to find meaning in unexplained phenomena. It's a slow-burn mystery that keeps the audience questioning the nature of reality and the reliability of eyewitness accounts.",
+        "spoiler_rich_plot_summary": "The series begins with David Holthouse's recollection of a story he heard as a teenager about a triple homicide in the forests of Northern California in 1993. Intrigued, he decides to investigate, initially focusing on the crime itself and the lack of resolution. His investigation leads him down a rabbit hole of interviews with individuals who claim to have knowledge of the case, including a man who alleges to have witnessed the murders and believes a large, hairy creature was responsible. As Holthouse digs deeper, he uncovers inconsistencies in the official narrative and encounters a community deeply entrenched in Sasquatch lore. The investigation expands beyond the initial crime, exploring other alleged Sasquatch sightings and encounters in the region. Holthouse's pursuit of the truth becomes increasingly complex, blurring the lines between a legitimate criminal investigation and a descent into a world of folklore and conspiracy. The series culminates in a confrontation with a key figure who holds potentially crucial information, leaving the ultimate truth about the murders and the creature's involvement shrouded in ambiguity, suggesting a deeper, more unsettling reality than initially perceived.",
+        "categorized_keywords": {
+          "themes": [
+            "true-crime",
+            "folklore",
+            "mystery",
+            "conspiracy",
+            "belief",
+            "truth-seeking",
+            "unexplained-phenomena"
+          ],
+          "plot_and_concepts": [
+            "cold-case",
+            "investigative-journalism",
+            "sasquatch-legend",
+            "witness-testimony",
+            "missing-persons",
+            "rural-crime"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "eerie",
+            "unsettling",
+            "atmospheric",
+            "mysterious"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "true-crime-documentary",
+            "cryptozoology",
+            "rural-noir"
+          ],
+          "setting": [
+            "northern-california",
+            "rural-america",
+            "forests",
+            "remote-locations"
+          ],
+          "character_archetypes": [
+            "investigative-journalist",
+            "witness",
+            "local-expert",
+            "skeptic"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "first-person-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "true-crime-fans"
+          ],
+          "detail_plot": [
+            "crime-scene",
+            "forest-trail",
+            "sasquatch-footprint",
+            "police-file",
+            "interview-room"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "disturbing-imagery"
+          ]
+        },
+        "keyword_sentence": "Sasquatch is a suspenseful documentary series that explores a chilling true-crime mystery in the remote forests of Northern California, blending investigative journalism with the enduring legend of a mysterious creature and unsettling folklore."
+      },
+      "duration_seconds": 63.86355018615723
+    }
+  }
+}

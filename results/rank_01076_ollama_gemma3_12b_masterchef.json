@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "MasterChef",
+    "overview": "This hit cooking competition series sees award-winning chef Gordon Ramsay and other celebrity chefs put a group of contestants through a series of challenges and elimination rounds, in order to turn one home cook into a culinary master.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2010,
+    "vote_count": 235
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "MasterChef is a reality television competition series centered around amateur cooks vying for the title of culinary master. Guided by renowned chef Gordon Ramsay and a panel of judges, contestants face rigorous challenges designed to test their skills, creativity, and ability to perform under pressure. The show blends elements of cooking competition, mentorship, and personal drama, offering viewers a glimpse into the world of professional kitchens and the intense pursuit of culinary excellence. It's a high-stakes environment where passion, precision, and presentation are paramount, and only one contestant can ultimately claim victory.",
+        "spoiler_rich_plot_summary": "Each season of MasterChef begins with thousands of hopeful amateur cooks auditioning for a chance to compete. A select group of contestants is chosen to participate in a series of challenges, ranging from replicating professional dishes to creating original recipes. Throughout the competition, contestants are eliminated based on their performance in these challenges, with the judges providing critiques and guidance. The challenges often escalate in difficulty, pushing the contestants to their limits and revealing their strengths and weaknesses. Alliances and rivalries form among the contestants, adding a layer of interpersonal drama to the culinary competition. As the season progresses, the remaining contestants face off in increasingly complex challenges, culminating in a final cook-off where the ultimate MasterChef is crowned, receiving a cash prize and the prestige of being recognized as a culinary champion.",
+        "categorized_keywords": {
+          "themes": [
+            "competition",
+            "skill-development",
+            "pressure",
+            "ambition",
+            "culinary-excellence"
+          ],
+          "plot_and_concepts": [
+            "cooking-competition",
+            "elimination-rounds",
+            "signature-dish",
+            "mystery-box-challenge",
+            "team-challenges"
+          ],
+          "mood_and_tone": [
+            "high-stakes",
+            "intense",
+            "competitive",
+            "inspiring"
+          ],
+          "genre_and_tropes": [
+            "reality-television",
+            "cooking-show",
+            "talent-search"
+          ],
+          "setting": [
+            "professional-kitchen",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "mentor",
+            "aspiring-chef",
+            "competitive-personality"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "elimination-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "food-enthusiasts"
+          ],
+          "detail_plot": [
+            "signature-dish",
+            "mystery-box",
+            "judges-panel",
+            "elimination-ceremony"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "MasterChef is a high-stakes reality television competition where aspiring chefs face intense challenges and elimination rounds under the guidance of renowned mentors, all striving for culinary excellence in a professional kitchen."
+      },
+      "duration_seconds": 56.93999528884888
+    }
+  }
+}

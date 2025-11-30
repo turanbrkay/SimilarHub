@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "Fear City: New York vs The Mafia",
+    "overview": "New York City in the 1970s was ruled with a bloody fist by five mafia families, until a group of federal agents tried the unthinkable: taking them down.",
+    "genres": [
+      "Documentary",
+      "Crime"
+    ],
+    "release_year": 2020,
+    "vote_count": 94
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Fear City: New York vs The Mafia is a documentary series chronicling the FBI's unprecedented effort to dismantle the five major Mafia families that controlled New York City in the 1970s. The series blends archival footage, interviews with former law enforcement officials and mob associates, and a palpable sense of the era's atmosphere to depict a period of intense criminal activity and the daring operation that sought to end it. It explores themes of corruption, power, and the complex relationship between law enforcement and organized crime, offering a glimpse into a pivotal moment in the city's history. The series maintains a somber tone, emphasizing the risks and challenges faced by those involved in the takedown.",
+        "spoiler_rich_plot_summary": "The series begins by establishing the pervasive influence of the five Mafia families – Genovese, Gambino, Lucchese, Colombo, and Bonanno – who exerted control over various aspects of New York City life through illegal activities like gambling, extortion, and drug trafficking. The FBI, under the leadership of then-Attorney General Elliot Richardson, initiated a massive, covert operation known as 'Operation Keystone,' aiming to indict hundreds of mobsters simultaneously. The series details the meticulous planning and execution of the operation, including the use of informants and wiretaps to gather evidence. As the investigation progresses, the series reveals the challenges faced by the FBI, including the constant threat of exposure and the difficulty of penetrating the Mafia's tight-knit structure. The operation culminates in a series of high-profile arrests and convictions, significantly weakening the Mafia's power and influence. While the takedown was a major victory for law enforcement, the series acknowledges the lasting impact of organized crime and the ongoing fight against corruption.",
+        "categorized_keywords": {
+          "themes": [
+            "organized-crime",
+            "corruption",
+            "law-enforcement",
+            "power",
+            "betrayal",
+            "justice",
+            "urban-decay"
+          ],
+          "plot_and_concepts": [
+            "undercover-operation",
+            "wiretap",
+            "informant",
+            "mass-arrest",
+            "criminal-enterprise"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "gritty",
+            "suspenseful",
+            "historical",
+            "serious"
+          ],
+          "genre_and_tropes": [
+            "true-crime",
+            "documentary",
+            "crime-procedural",
+            "historical-drama"
+          ],
+          "setting": [
+            "new-york-city",
+            "1970s",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "federal-agent",
+            "mob-boss",
+            "informant",
+            "corrupt-official"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "investigative-journalism"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "true-crime-fans"
+          ],
+          "detail_plot": [
+            "wiretap-recordings",
+            "mob-meeting",
+            "courtroom-scene",
+            "federal-building",
+            "newspaper-headlines"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "illegal-activities",
+            "drug-use"
+          ]
+        },
+        "keyword_sentence": "Fear City: New York vs The Mafia is a dark and gritty documentary series that explores the true crime story of a massive FBI operation aimed at dismantling the pervasive organized crime that plagued New York City in the 1970s."
+      },
+      "duration_seconds": 72.46144986152649
+    }
+  }
+}

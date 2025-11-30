@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "A Love To Remember",
+    "overview": "A rich and handsome architect is flying from Acapulco to Mexico City when his plane crashes. A beautiful, young girl finds him in the forest and decides to bring him home to look after him.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2014,
+    "vote_count": 63
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "A Love to Remember is a melodrama centered on a man suffering from amnesia and a young woman who nurses him back to health. The series explores themes of memory, identity, and the power of human connection, set against a backdrop of familial conflict and societal expectations. The tone is generally sentimental and romantic, emphasizing emotional depth and interpersonal relationships. It's a story about finding love and rebuilding a life after profound loss, appealing to audiences who enjoy heartwarming and emotionally resonant narratives.",
+        "spoiler_rich_plot_summary": "The series begins with a plane crash leaving a man, initially known only as 'He,' with complete amnesia. He is discovered by a young woman, 'She,' who brings him to her family's estate. As 'He' begins to recover, he slowly pieces together fragments of his past, revealing a life of privilege and a complicated family dynamic. His return stirs up old resentments and uncovers secrets within the family, particularly concerning his relationship with his estranged mother and a former fiancée. Throughout the series, 'She' and 'He' develop a deep connection, but his past threatens to tear them apart as his memories return and he grapples with the choices he made before the accident. The series culminates in a confrontation with his past, forcing him to choose between the life he once knew and the newfound love he has found with 'She,' ultimately leading to a resolution that redefines his identity and future.",
+        "categorized_keywords": {
+          "themes": [
+            "memory-loss",
+            "identity-quest",
+            "family-conflict",
+            "redemption",
+            "second-chance",
+            "social-class"
+          ],
+          "plot_and_concepts": [
+            "amnesia",
+            "romantic-rescue",
+            "family-secrets",
+            "love-triangle"
+          ],
+          "mood_and_tone": [
+            "sentimental",
+            "romantic",
+            "melodramatic",
+            "heartwarming"
+          ],
+          "genre_and_tropes": [
+            "melodrama",
+            "romantic-drama",
+            "fish-out-of-water",
+            "found-family"
+          ],
+          "setting": [
+            "mexico",
+            "rural-setting",
+            "estate-home"
+          ],
+          "character_archetypes": [
+            "amnesiac-hero",
+            "compassionate-heroine",
+            "matriarch",
+            "estranged-family"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "character-driven"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "plane-crash",
+            "estate-home",
+            "family-portrait",
+            "medical-examination"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "A Love to Remember is a sentimental melodrama set in Mexico, exploring themes of memory loss and second chances as a man with amnesia finds love and confronts his past within a complex family dynamic."
+      },
+      "duration_seconds": 60.19544053077698
+    }
+  }
+}

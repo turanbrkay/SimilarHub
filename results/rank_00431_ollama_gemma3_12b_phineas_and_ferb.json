@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Phineas and Ferb",
+    "overview": "Each day, two kindhearted suburban stepbrothers on summer vacation embark on some grand new project, which annoys their controlling sister, Candace, who tries to bust them. Meanwhile, their pet platypus plots against evil Dr. Doofenshmirtz.",
+    "genres": "Animation, Comedy, Family, Sci-Fi & Fantasy",
+    "release_year": 2007,
+    "vote_count": 701
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Phineas and Ferb is a vibrant, comedic animated series centered on the boundless creativity and ingenuity of two stepbrothers during their summer vacation. The show blends elements of science fiction, fantasy, and family sitcoms, creating a whimsical and optimistic tone. Each episode follows Phineas and Ferb as they construct elaborate inventions and adventures, while their sister, Candace, relentlessly attempts to expose their activities to their mother. The series emphasizes themes of sibling relationships, imagination, and the joy of exploration, appealing to a broad audience with its clever humor and heartwarming spirit.",
+        "spoiler_rich_plot_summary": "The series begins with Phineas and Ferb, two imaginative stepbrothers, determined to make the most of their summer vacation. Each day, they embark on ambitious projects, ranging from building rollercoasters to creating time machines, much to the frustration of their older sister, Candace, who desperately tries to get them 'busted' to their mother. Simultaneously, their pet platypus, Perry, leads a double life as a secret agent, battling the nefarious Dr. Doofenshmirtz and his elaborate schemes to conquer the Tri-State Area. Throughout the series, the brothers' inventions often lead to unexpected consequences and encounters with fantastical creatures and alternate realities. While Candace's attempts to expose them are consistently thwarted, the brothers' bond remains strong, and their summer adventures continue to evolve, culminating in increasingly complex and imaginative creations. The overarching narrative focuses on the enduring power of imagination and the importance of family, even amidst constant chaos and sibling rivalry.",
+        "categorized_keywords": {
+          "themes": [
+            "sibling-rivalry",
+            "imagination",
+            "family-bond",
+            "invention",
+            "summer-vacation",
+            "optimism"
+          ],
+          "plot_and_concepts": [
+            "secret-agent",
+            "invention-plot",
+            "sibling-exposures",
+            "alternate-reality",
+            "villain-scheme"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "lighthearted",
+            "comedic",
+            "optimistic",
+            "playful"
+          ],
+          "genre_and_tropes": [
+            "animated-comedy",
+            "family-sitcom",
+            "sci-fi-fantasy",
+            "found-family",
+            "slapstick-comedy"
+          ],
+          "setting": [
+            "suburban-setting",
+            "tri-state-area",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "inventive-protagonist",
+            "annoying-sister",
+            "secret-agent",
+            "eccentric-villain"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children",
+            "young-adults"
+          ],
+          "detail_plot": [
+            "rollercoaster",
+            "time-machine",
+            "platypus",
+            "secret-lair",
+            "busting-attempts"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Phineas and Ferb is a lighthearted animated comedy series about two imaginative stepbrothers who spend their summer vacation inventing extraordinary devices while evading their sister’s attempts to expose them, all under the watchful eye of a secret-agent platypus."
+      },
+      "duration_seconds": 128.09677171707153
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Dirk Gently",
+    "overview": "Detective Dirk Gently operates based on the fundamental interconnectedness of all things.",
+    "genres": [
+      "Action & Adventure",
+      "Comedy",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2012,
+    "vote_count": 62
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Dirk Gently's Holistic Detective Agency is a quirky, comedic series that blends science fiction, fantasy, and procedural elements. The show follows a 'holistic detective' who solves cases by embracing the interconnectedness of everything, often leading him and his reluctant assistant into bizarre and unpredictable situations. It's a show that revels in absurdity, exploring themes of fate, free will, and the search for meaning in a chaotic world. The tone is lighthearted and humorous, despite the often-complex and fantastical plots, offering a unique and entertaining viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Dirk Gently, a detective who believes in the fundamental interconnectedness of all things, reluctantly partnering with Todd Brotzman, a directionally challenged college student. Their initial case involves a seemingly random series of events linked to a dead millionaire and a possessed dog. As they investigate, they uncover a larger conspiracy involving a secret government project, time travel, and multiple realities. Todd's past is revealed to be more significant than he initially believed, and he discovers he's a key figure in a complex web of interconnected events spanning decades. The narrative jumps between timelines and perspectives, gradually revealing the roles of various characters and their connections to the central mystery. Ultimately, the series explores the nature of fate and free will, suggesting that even seemingly random events are part of a larger, interconnected whole, and that individuals are often caught in the currents of forces beyond their control. The final arc resolves the immediate threat, but leaves open the possibility of further interconnected mysteries and the ongoing influence of the forces at play.",
+        "categorized_keywords": {
+          "themes": [
+            "fate-vs-free-will",
+            "interconnectedness",
+            "identity-discovery",
+            "chaos-theory",
+            "existentialism"
+          ],
+          "plot_and_concepts": [
+            "time-travel",
+            "parallel-universes",
+            "government-conspiracy",
+            "holistic-investigation",
+            "body-possession"
+          ],
+          "mood_and_tone": [
+            "absurdist-humor",
+            "quirky",
+            "lighthearted",
+            "mysterious",
+            "surreal"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "comedy",
+            "mystery",
+            "found-family",
+            "time-loop"
+          ],
+          "setting": [
+            "modern-day",
+            "alternate-timeline",
+            "small-town-usa"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "eccentric-detective",
+            "naive-protagonist",
+            "enigmatic-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "non-linear-timeline",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "possessed-dog",
+            "government-facility",
+            "time-portal",
+            "secret-project",
+            "alternate-reality"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Dirk Gently's Holistic Detective Agency is a quirky, comedic series that explores themes of fate and interconnectedness through a non-linear narrative blending science fiction, mystery, and a lighthearted tone."
+      },
+      "duration_seconds": 64.60069036483765
+    }
+  }
+}

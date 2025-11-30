@@ -1,0 +1,97 @@
+{
+  "input_data": {
+    "title": "Avatar: The Last Airbender",
+    "overview": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2005,
+    "vote_count": 3497
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Avatar: The Last Airbender follows a young boy who awakens as the world’s last living Avatar, tasked with mastering all four elemental bending arts to restore balance after a devastating war. The series blends high-stakes adventure with deep moral lessons, exploring themes of destiny, growth, and the interconnectedness of spirit and human realms. Its tone balances humor and heartfelt drama, while its richly detailed world invites viewers into a vibrant, culturally inspired universe of kingdoms, spirits, and ancient traditions.",
+        "spoiler_rich_plot_summary": "Aang, a carefree airbender, discovers he is the long‑lost Avatar and must learn to control water, earth, and fire to end the Fire Nation’s conquest. With friends Katara, Sokka, Toph, and later Zuko, he travels across the four kingdoms, confronting personal doubts, mastering bending techniques, and forging alliances with the spirit world. The series culminates in the epic Battle of Ba Sing Se, where Aang defeats Fire Lord Ozai, restores balance, and establishes a new era of peace, while the team learns the value of sacrifice, friendship, and responsibility.",
+        "categorized_keywords": {
+          "themes": [
+            "balance",
+            "destiny",
+            "spirituality",
+            "war",
+            "friendship",
+            "growth"
+          ],
+          "plot_and_concepts": [
+            "avatar-cycle",
+            "four-elements",
+            "bending",
+            "fire-nation",
+            "water-tribe",
+            "earth-kingdom",
+            "air-pilgrimage",
+            "spirit-world",
+            "bison-ride",
+            "bamboo-bridge"
+          ],
+          "mood_and_tone": [
+            "adventure",
+            "heroic",
+            "moral",
+            "hopeful",
+            "dramatic"
+          ],
+          "genre_and_tropes": [
+            "animated-fantasy",
+            "action-adventure",
+            "coming-of-age",
+            "mentor-journey",
+            "team-quest"
+          ],
+          "setting": [
+            "four-kingdoms",
+            "elemental-world",
+            "bamboo-forest",
+            "fire-nation-stronghold",
+            "water-tribes",
+            "earth-kingdom",
+            "air-pilgrimage"
+          ],
+          "character_archetypes": [
+            "avatar",
+            "mentor",
+            "sidekick",
+            "villain",
+            "love-interest",
+            "rebel"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-arc",
+            "character-driven",
+            "linear"
+          ],
+          "target_audience": [
+            "family-friendly",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "bison-ride",
+            "bamboo-bridge",
+            "spirit-bond",
+            "fire-breath",
+            "water-bottle",
+            "earth-pillar",
+            "air-sky",
+            "spirit-portal",
+            "avatar-arts"
+          ]
+        },
+        "keyword_sentence": "Avatar: The Last Airbender is a family-friendly animated adventure that explores balance and destiny through a young avatar’s quest to master the four elements, unite the spirit world, and defeat the fire-nation tyrant alongside loyal friends and wise mentors."
+      },
+      "duration_seconds": 128.65583682060242
+    }
+  }
+}

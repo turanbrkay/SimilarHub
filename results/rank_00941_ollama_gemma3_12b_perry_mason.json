@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Perry Mason",
+    "overview": "Set in 1932 Los Angeles, the series focuses on the origin story of famed defense lawyer Perry Mason. Living check-to-check as a low-rent private investigator, Mason is haunted by his wartime experiences in France and suffering the effects of a broken marriage. L.A. is booming while the rest of the country recovers from the Great Depression — but a kidnapping gone very wrong leads to Mason exposing a fractured city as he uncovers the truth of the crime.",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Crime"
+    ],
+    "release_year": 2020,
+    "vote_count": 280
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Perry Mason is a period crime drama that explores the origins of the iconic defense lawyer. Set in 1930s Los Angeles, the series blends elements of mystery, legal procedural, and character study, examining the societal and personal struggles of a man grappling with trauma and moral ambiguity. The show offers a gritty and atmospheric portrayal of a city on the cusp of prosperity, while simultaneously exposing its underbelly of corruption and despair. It's a slow-burn narrative focused on unraveling a complex case and the psychological toll it takes on those involved, offering a nuanced perspective on justice and redemption.",
+        "spoiler_rich_plot_summary": "The series begins with Perry Mason as a struggling private investigator, far removed from the celebrated lawyer he will become. He's hired to find a kidnapped child, a case that quickly spirals into a web of deceit and conspiracy involving powerful figures in Los Angeles. As Mason investigates, he uncovers a network of corruption reaching into the city's elite, including politicians, businessmen, and even members of the police force. He is aided by a diverse group of allies, including a former nun, a cynical police detective, and a resourceful teenager, each with their own motivations and secrets. The investigation reveals a dark history of exploitation and injustice, forcing Mason to confront his own demons and question his moral compass. Throughout the series, Mason pieces together the truth behind the kidnapping, exposing a complex scheme rooted in financial desperation and a desire for power. The case ultimately leads to a dramatic confrontation, revealing the true perpetrators and forcing Mason to make difficult choices that will shape his future as a lawyer and a man. The series concludes with Mason embracing his destiny as a defender of the wrongly accused, poised to become the iconic figure he is known to be.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "redemption",
+            "corruption",
+            "moral-ambiguity",
+            "trauma",
+            "social-inequality"
+          ],
+          "plot_and_concepts": [
+            "kidnapping",
+            "conspiracy",
+            "legal-procedural",
+            "crime-investigation",
+            "false-accusation"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "atmospheric",
+            "dark",
+            "suspenseful",
+            "noir"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "period-drama",
+            "legal-thriller",
+            "mystery"
+          ],
+          "setting": [
+            "1930s-los-angeles",
+            "great-depression",
+            "alternate-timeline"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "reluctant-hero",
+            "moral-gray-protagonist",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "slow-burn"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "courtroom-scene",
+            "interrogation-room",
+            "vintage-cars",
+            "1930s-fashion"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "Set against the backdrop of 1930s Los Angeles, Perry Mason is a gritty crime drama exploring themes of justice and redemption as a morally ambiguous protagonist navigates a web of corruption and false accusations."
+      },
+      "duration_seconds": 65.3065116405487
+    }
+  }
+}

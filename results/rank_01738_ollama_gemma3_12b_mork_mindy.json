@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "Mork & Mindy",
+    "overview": "An American science fiction sitcom broadcast from 1978 until 1982 on ABC, starring Robin Williams as Mork, an alien who comes to Earth from the planet Ork in a small, one-man egg-shaped spaceship and Pam Dawber as Mindy McConnell, his human friend and roommate. In 1997, the episode 'Mork's Mixed Emotions' was ranked #94 on TV Guide's 100 Greatest Episodes of All Time list.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1978,
+    "vote_count": 119
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Mork & Mindy is a comedic science fiction sitcom centered on an alien's fish-out-of-water experience on Earth. The series blends absurdist humor with gentle social commentary, exploring themes of cultural differences and understanding through the lens of an alien's perspective. Robin Williams' improvisational style as Mork contributes significantly to the show's chaotic and unpredictable nature, while the relationship with Mindy provides a grounding element and a vehicle for exploring human values. The show's enduring appeal lies in its ability to find humor in the unfamiliar and to celebrate the quirks of both alien and human behavior.",
+        "spoiler_rich_plot_summary": "The series begins with Mork's arrival on Earth, dispatched by his superiors to observe and report on human behavior. He is assigned to live with Mindy McConnell in Boulder, Colorado. Initially, Mork's alien customs and lack of understanding of social norms lead to numerous comedic misunderstandings and chaotic situations. Throughout the series, Mork gradually learns about human culture, emotions, and relationships, often through trial and error. While his mission is ostensibly to report back to Ork, his connection with Mindy deepens, and he begins to question his role and his feelings. The series explores the challenges of cross-cultural understanding and the potential for connection even between vastly different beings. While Mork's ultimate fate and the details of his return to Ork are not explicitly detailed, the series concludes with a sense of bittersweet farewell and the lasting impact of his time on Earth.",
+        "categorized_keywords": {
+          "themes": [
+            "cultural-differences",
+            "alien-encounter",
+            "friendship",
+            "understanding",
+            "identity",
+            "social-commentary"
+          ],
+          "plot_and_concepts": [
+            "fish-out-of-water",
+            "alien-observation",
+            "sitcom-format",
+            "improvised-comedy"
+          ],
+          "mood_and_tone": [
+            "absurdist",
+            "lighthearted",
+            "wholesome",
+            "chaotic"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "sitcom",
+            "alien-comedy"
+          ],
+          "setting": [
+            "boulder-colorado",
+            "1970s",
+            "earth"
+          ],
+          "character_archetypes": [
+            "alien-observer",
+            "naive-protagonist",
+            "human-friend"
+          ],
+          "narrative_style": [
+            "episodic",
+            "character-driven"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "egg-shaped-spaceship",
+            "ork-planet",
+            "boulder-house"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Mork & Mindy is a lighthearted science fiction sitcom that explores themes of cultural differences and friendship through the chaotic adventures of an alien observer and his human companion in 1970s Colorado."
+      },
+      "duration_seconds": 61.673436403274536
+    }
+  }
+}

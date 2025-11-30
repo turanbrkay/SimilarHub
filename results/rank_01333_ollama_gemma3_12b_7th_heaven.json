@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "7th Heaven",
+    "overview": "Reverend Eric Camden and his wife Annie have always had their hands full caring for seven children, not to mention the friends, sweethearts and spouses that continually come and go in the Camden household.",
+    "genres": [
+      "Family",
+      "Drama"
+    ],
+    "release_year": 1996,
+    "vote_count": 175
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "7th Heaven is a family drama series centered on the Camden family, a minister and his wife raising seven children in California. The show explores the everyday challenges and triumphs of family life, faith, and community, often tackling relatable issues through a wholesome and optimistic lens. It blends elements of traditional family sitcoms with more serious dramatic storylines, aiming to provide both entertainment and moral guidance for viewers. The series emphasizes the importance of communication, forgiveness, and the enduring strength of familial bonds, offering a comforting and aspirational portrayal of modern family dynamics.",
+        "spoiler_rich_plot_summary": "The series begins with Reverend Eric Camden and his wife Annie raising their seven children, navigating the typical struggles of adolescence, school, and relationships. As the children grow, each faces unique challenges – dealing with teen pregnancy, substance abuse, academic pressure, and romantic entanglements. The series follows their individual journeys as they grapple with identity, purpose, and their place in the world. Throughout the run, the Camden family welcomes numerous friends, extended family members, and significant others into their home, creating a sprawling and interconnected web of relationships. While the series maintains a generally positive outlook, it doesn't shy away from addressing difficult topics like divorce, financial hardship, and loss. The children eventually move on to pursue their own careers and families, but the core values instilled by their parents remain a constant source of strength and guidance. The series concludes with the Camden family reflecting on their shared experiences and reaffirming their commitment to one another, demonstrating the enduring power of family and faith.",
+        "categorized_keywords": {
+          "themes": [
+            "family-values",
+            "faith",
+            "community",
+            "redemption",
+            "forgiveness",
+            "parenting",
+            "growing-up"
+          ],
+          "plot_and_concepts": [
+            "family-drama",
+            "coming-of-age",
+            "moral-lessons",
+            "intergenerational-relationships"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "optimistic",
+            "heartwarming",
+            "comforting"
+          ],
+          "genre_and_tropes": [
+            "family-sitcom",
+            "dramedy",
+            "moral-of-the-week"
+          ],
+          "setting": [
+            "california",
+            "suburban-life",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "wise-parent",
+            "rebellious-teen",
+            "supportive-spouse",
+            "moral-compass"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "church-setting",
+            "family-dinner",
+            "school-events",
+            "therapy-session"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "7th Heaven is a heartwarming family drama series set in modern-day California, exploring themes of faith, community, and growing up through the experiences of a large and supportive family."
+      },
+      "duration_seconds": 61.65980005264282
+    }
+  }
+}

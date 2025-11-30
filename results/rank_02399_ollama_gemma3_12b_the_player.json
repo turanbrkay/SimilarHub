@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "The Player",
+    "overview": "An action-packed Las Vegas thriller about a former military operative turned security expert who is drawn into a high-stakes game where an organization of wealthy individuals gamble on his ability to stop some of the biggest crimes imaginable from playing out. Can he take them down from the inside and get revenge for the death of his wife, or is it true what they say: the House always wins.",
+    "genres": [
+      "Action & Adventure",
+      "Crime"
+    ],
+    "release_year": 2015,
+    "vote_count": 71
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Player is a fast-paced action thriller set in the vibrant and dangerous world of Las Vegas. The series follows a former military operative who now works as a security expert, drawn into a clandestine organization where he must predict and prevent crimes for wealthy gamblers. The show blends elements of action, crime, and suspense, offering a stylish and morally ambiguous exploration of power, revenge, and the illusion of control. It presents a cat-and-mouse game where the protagonist's past trauma fuels his quest for justice, while constantly questioning whether he is truly in charge or merely a pawn in a larger scheme. The series maintains a heightened sense of tension and intrigue, keeping the audience guessing about the true nature of the game and the identities of those involved.",
+        "spoiler_rich_plot_summary": "The series begins with Jonathan Weaver, a highly skilled security expert, living a seemingly normal life in Las Vegas. However, his past as a military operative and the tragic death of his wife, who was killed during a mission he was involved in, haunt him. He is unexpectedly recruited by a shadowy organization known as 'The House,' a group of wealthy individuals who bet on his ability to prevent crimes. Jonathan is forced to use his skills to anticipate and stop various criminal activities, all while navigating the complex rules and dangerous players within The House. As he delves deeper into the organization, he uncovers a web of corruption and betrayal, realizing that his own past is inextricably linked to The House's operations. He begins to suspect that his wife's death was not a random event but a calculated move orchestrated by the organization. Jonathan's quest for revenge leads him to confront powerful adversaries and question the very nature of justice, ultimately blurring the lines between hunter and hunted. The series culminates in a confrontation where Jonathan must decide whether to dismantle The House and expose its secrets, or become a permanent part of its deadly game.",
+        "categorized_keywords": {
+          "themes": [
+            "revenge",
+            "justice",
+            "power",
+            "betrayal",
+            "corruption",
+            "illusion-of-control",
+            "moral-ambiguity"
+          ],
+          "plot_and_concepts": [
+            "crime-thriller",
+            "high-stakes-gambling",
+            "cat-and-mouse-game",
+            "secret-organization",
+            "conspiracy",
+            "undercover-operation"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "tense",
+            "stylish",
+            "intricate"
+          ],
+          "genre_and_tropes": [
+            "action-thriller",
+            "crime-procedural",
+            "undercover-story",
+            "secret-society"
+          ],
+          "setting": [
+            "las-vegas",
+            "modern-day",
+            "underground-world"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "skilled-operative",
+            "enigmatic-mentor",
+            "ruthless-antagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "casino-floor",
+            "security-cameras",
+            "high-roller-suite",
+            "underground-club",
+            "surveillance-equipment"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "Set against the glittering backdrop of Las Vegas, The Player is a suspenseful action thriller exploring themes of revenge and corruption as a skilled operative navigates a dangerous world of high-stakes gambling and secret organizations."
+      },
+      "duration_seconds": 96.1612377166748
+    }
+  }
+}

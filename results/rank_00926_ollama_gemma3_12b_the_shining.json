@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "The Shining",
+    "overview": "The Shining is a three-part television miniseries based on Stephen King's novel of the same name. Directed by Mick Garris from King's teleplay, the series was first aired in 1997.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "release_year": 1997,
+    "vote_count": 285
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Shining is a supernatural horror miniseries that explores the psychological disintegration of a family isolated in a remote hotel. The series blends elements of psychological thriller and supernatural horror, examining themes of family trauma, isolation, and the power of the past. As the father descends into madness, the series creates a palpable sense of dread and suspense, blurring the lines between reality and hallucination. The series is notable for its atmospheric direction and exploration of the fragility of the human psyche under extreme pressure, offering a chilling portrait of a family haunted by its own demons.",
+        "spoiler_rich_plot_summary": "The story centers on Jack Torrance, a recovering alcoholic and aspiring writer, who accepts a winter caretaker position at the Overlook Hotel in the Colorado Rockies. He brings his wife, Wendy, and their young son, Danny, hoping for a fresh start and a chance to focus on his writing. However, the hotel possesses a dark history and a malevolent presence that begins to affect each member of the family. Danny, who possesses psychic abilities known as 'the shining,' is particularly vulnerable to the hotel's influence, experiencing terrifying visions and communicating with ghostly entities. As the winter progresses, Jack's sanity deteriorates, fueled by the hotel's supernatural forces and his own personal demons. He becomes increasingly hostile and violent towards his family, while Wendy struggles to protect Danny and escape the hotel's grasp. The hotel manipulates Jack, exploiting his past traumas and insecurities to turn him against his loved ones. Ultimately, the Overlook Hotel's power culminates in a terrifying confrontation, revealing the depth of the hotel's influence and the tragic consequences of unchecked darkness.",
+        "categorized_keywords": {
+          "themes": [
+            "family-trauma",
+            "isolation",
+            "supernatural-influence",
+            "psychological-deterioration",
+            "redemption",
+            "past-haunting"
+          ],
+          "plot_and_concepts": [
+            "psychic-abilities",
+            "haunted-location",
+            "telepathy",
+            "supernatural-horror",
+            "family-drama"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "creepy",
+            "dark",
+            "ominous",
+            "claustrophobic"
+          ],
+          "genre_and_tropes": [
+            "supernatural-horror",
+            "psychological-thriller",
+            "haunted-house",
+            "family-saga"
+          ],
+          "setting": [
+            "colorado-rockies",
+            "remote-location",
+            "winter-season",
+            "hotel"
+          ],
+          "character_archetypes": [
+            "struggling-father",
+            "protective-mother",
+            "psychic-child",
+            "tormented-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "psychological-exploration"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "overlook-hotel",
+            "snowstorm",
+            "hallucinations",
+            "psychic-visions",
+            "family-portrait"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "psychological-distress",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "The Shining is a suspenseful supernatural horror miniseries set in a remote Colorado hotel, exploring themes of family trauma and psychological deterioration as a struggling father confronts a malevolent force and a psychic child battles terrifying visions."
+      },
+      "duration_seconds": 64.84884023666382
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "RuPaul's Drag Race UK",
+    "overview": "RuPaul has made the trip across the pond in search of a queen with the most charisma, uniqueness, nerve and talent in all the land.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2019,
+    "vote_count": 40
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "RuPaul's Drag Race UK is a reality competition series that transplants the beloved American format to the United Kingdom. Contestants, known as drag queens, compete in weekly challenges that test their performance, design, and comedic skills. The show blends elements of fashion, theatre, and pop culture, creating a vibrant and often hilarious spectacle. It celebrates individuality and self-expression while fostering a supportive community among the queens. The series offers a blend of fierce competition and heartwarming camaraderie, appealing to a broad audience interested in drag, fashion, and entertainment.",
+        "spoiler_rich_plot_summary": "The series follows a group of drag queens vying for the title of 'UK's Next Drag Race Superstar.' Each episode presents challenges, ranging from design and sewing to acting and lip-syncing performances. The queens are judged on their creativity, skill, and stage presence, with one or more eliminated each week. Throughout the seasons, alliances and rivalries form, leading to dramatic moments and unexpected twists. The competition intensifies as the queens progress, culminating in a lip-sync battle between the finalists to determine the winner and claim the crown. While the format remains consistent, each season introduces new personalities and unexpected turns, ensuring a fresh and engaging experience for viewers.",
+        "categorized_keywords": {
+          "themes": [
+            "self-expression",
+            "identity-exploration",
+            "community",
+            "competition",
+            "acceptance",
+            "performance-art"
+          ],
+          "plot_and_concepts": [
+            "reality-competition",
+            "design-challenges",
+            "lip-sync-battles",
+            "elimination-format",
+            "judging-panel"
+          ],
+          "mood_and_tone": [
+            "camp",
+            "humorous",
+            "glamorous",
+            "supportive",
+            "celebratory"
+          ],
+          "genre_and_tropes": [
+            "reality-tv",
+            "fashion-competition",
+            "drag-culture",
+            "makeover-transformation"
+          ],
+          "setting": [
+            "london-uk",
+            "drag-workspace",
+            "performance-stage"
+          ],
+          "character_archetypes": [
+            "eccentric-personality",
+            "creative-artist",
+            "charismatic-performer"
+          ],
+          "narrative_style": [
+            "episodic-format",
+            "elimination-based"
+          ],
+          "target_audience": [
+            "lgbtq-community",
+            "fashion-enthusiasts",
+            "reality-tv-viewers"
+          ],
+          "detail_plot": [
+            "wig-making",
+            "costume-design",
+            "runway-walk",
+            "judges-table",
+            "elimination-ceremony"
+          ],
+          "maturity_and_content": [
+            "sexual-content",
+            "mature-humor"
+          ]
+        },
+        "keyword_sentence": "RuPaul's Drag Race UK is a glamorous and humorous reality competition series celebrating self-expression and drag culture through design challenges and lip-sync battles in London."
+      },
+      "duration_seconds": 55.72179174423218
+    }
+  }
+}

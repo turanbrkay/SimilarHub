@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Ahsoka",
+    "overview": "Former Jedi Knight Ahsoka Tano investigates an emerging threat to a vulnerable galaxy.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "release_year": 2023,
+    "vote_count": 301
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Ahsoka is a Star Wars series that serves as a sequel to the animated series *The Clone Wars* and *Rebels*, following the journey of Ahsoka Tano as she investigates a new threat to the galaxy. The series blends action-adventure with elements of space opera and Jedi lore, exploring themes of legacy, redemption, and the burden of responsibility. It offers a character-driven narrative with a focus on relationships and moral choices, appealing to fans of the animated series and broader Star Wars enthusiasts.",
+        "spoiler_rich_plot_summary": "The series begins with Ahsoka Tano operating independently, monitoring the galaxy for signs of trouble following the fall of the Empire. She discovers a conspiracy involving Grand Admiral Thrawn's potential return and a new threat to the New Republic. Alongside Sabine Wren, her former Padawan who has been searching for Thrawn, Ahsoka investigates a series of events linked to a dark side presence. Their search leads them to Peridea, a distant planet where they encounter Baylan Skoll and Shin Hati, former Jedi who have embraced the dark side. The narrative follows their attempts to locate Thrawn while confronting the growing power of the dark side and the challenges to the fragile peace in the galaxy. The search for Thrawn and the unraveling of his plans form the central conflict, with Ahsoka and her allies facing difficult choices and confronting their own pasts.",
+        "categorized_keywords": {
+          "themes": [
+            "legacy",
+            "redemption",
+            "responsibility",
+            "friendship",
+            "duty",
+            "dark-side",
+            "jedi-order"
+          ],
+          "plot_and_concepts": [
+            "space-opera",
+            "jedi-lore",
+            "dark-side-cult",
+            "search-mission",
+            "political-intrigue",
+            "ancient-prophecy"
+          ],
+          "mood_and_tone": [
+            "epic",
+            "mysterious",
+            "hopeful",
+            "somber",
+            "action-packed"
+          ],
+          "genre_and_tropes": [
+            "sci-fi",
+            "fantasy",
+            "action-adventure",
+            "found-family",
+            "mentor-student"
+          ],
+          "setting": [
+            "galaxy",
+            "new-republic",
+            "peridea"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "fallen-jedi",
+            "dark-lord"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "lightsaber",
+            "starship",
+            "jedi-temple",
+            "droid-companion"
+          ],
+          "maturity_and_content": [
+            "action-violence"
+          ]
+        },
+        "keyword_sentence": "Ahsoka explores themes of legacy and responsibility within a sprawling galaxy, blending action-adventure with elements of Jedi lore and a somber tone as a former Jedi investigates a growing dark-side threat."
+      },
+      "duration_seconds": 58.83536219596863
+    }
+  }
+}

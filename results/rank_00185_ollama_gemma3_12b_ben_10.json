@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Ben 10",
+    "overview": "When 10-year-old Ben Tennyson discovers a mysterious device, he gains the power to change into ten different alien heroes, each with uniquely awesome powers. With such abilities at his disposal, Ben realizes a greater responsibility to help others and stop evildoers, but that doesn't mean he's above a little superpowered mischief now and then.",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Comedy",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2005,
+    "vote_count": 1487
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Ben 10 is a vibrant animated series blending action, comedy, and science fiction elements, centered around a young boy who gains the ability to transform into various alien forms. The show explores themes of responsibility, growing up, and the challenges of wielding extraordinary power. It offers a lighthearted and adventurous experience, appealing to a younger audience while maintaining a sense of excitement and humor. The series balances superhero action with relatable character dynamics and a playful tone, creating a consistently entertaining and engaging narrative.",
+        "spoiler_rich_plot_summary": "The series begins with Ben Tennyson, his cousin Gwen, and his grandfather Max embarking on a summer road trip. During their travels, Ben discovers the Omnitrix, a powerful alien device that allows him to transform into ten different alien heroes. Initially, Ben struggles to control the Omnitrix and its powers, often using them for personal gain or childish antics. As the series progresses, Ben and his companions face numerous threats, including Vilgax, an alien conqueror seeking the Omnitrix's power, and various other villains with their own agendas. Gwen's magical abilities and Max's experience become crucial in helping Ben navigate these challenges. Throughout the series, Ben matures, learning to use his powers responsibly and understanding the weight of his newfound abilities. He develops strong bonds with Gwen and Max, forming a makeshift family unit that supports him in his heroic endeavors. The Omnitrix undergoes several upgrades and transformations, leading to new alien forms and increased power levels. Ultimately, Ben embraces his role as a protector, defending Earth and its inhabitants from a wide range of extraterrestrial threats, while also grappling with the personal sacrifices that come with being a superhero.",
+        "categorized_keywords": {
+          "themes": [
+            "responsibility",
+            "growing-up",
+            "family-bond",
+            "heroism",
+            "power-and-corruption"
+          ],
+          "plot_and_concepts": [
+            "alien-transformation",
+            "superhero-action",
+            "villain-conquest",
+            "technological-device",
+            "intergalactic-threat"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "humorous",
+            "adventurous",
+            "exciting",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "action-adventure",
+            "comedy",
+            "sci-fi",
+            "superhero"
+          ],
+          "setting": [
+            "earth",
+            "intergalactic",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "young-hero",
+            "wise-mentor",
+            "magical-girl",
+            "reluctant-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-adventure"
+          ],
+          "target_audience": [
+            "children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "omniverse",
+            "alien-costumes",
+            "summer-road-trip",
+            "grandpa-max",
+            "villain-lair"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Ben 10 is a lighthearted and adventurous animated series where a young boy gains the power to transform into various alien heroes, exploring themes of responsibility and heroism within a vibrant sci-fi setting."
+      },
+      "duration_seconds": 63.77041268348694
+    }
+  }
+}

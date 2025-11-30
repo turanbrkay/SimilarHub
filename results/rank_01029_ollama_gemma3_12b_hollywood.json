@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Hollywood",
+    "overview": "In post-World War II Hollywood, an ambitious group of aspiring actors and filmmakers will do almost anything to make their showbiz dreams come true.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2020,
+    "vote_count": 247
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Hollywood is a revisionist historical drama that reimagines the Golden Age of Hollywood, exploring the struggles and compromises faced by aspiring artists. The series blends elements of drama, comedy, and musical, offering a vibrant and often satirical look at the era's racial and sexual inequalities. It follows a diverse group of characters as they navigate a complex system, striving for recognition and success while confronting the prejudices and limitations of the time. The show is characterized by its lavish production design, energetic performances, and a bittersweet tone that balances ambition with disillusionment.",
+        "spoiler_rich_plot_summary": "The series begins in 1946, following a group of young actors and writers who have recently returned from military service. Among them are Archie Coleman, a Black man with undeniable talent, and Paul Green, a white man struggling to find his place. They, along with others like Vivian Bell, a determined actress, and Jack Castello, a former soldier seeking a career in the industry, converge in Hollywood, hoping to break into the film business. They quickly discover the pervasive racism and sexism that permeate the studio system, hindering their progress. A major turning point arrives when they are given the opportunity to work on a film, 'Peg,' a historical drama that initially whitewashes a significant historical figure. The group, led by the ambitious Jack, challenges the studio's decision, leading to a confrontation with powerful figures and a re-imagining of the film's narrative. The series follows their individual journeys, marked by both triumphs and heartbreaking compromises, as they attempt to reshape Hollywood from within. The narrative culminates in a bittersweet resolution, acknowledging the enduring legacy of the past while celebrating the resilience and determination of those who fought for change, though not without significant personal costs and altered realities.",
+        "categorized_keywords": {
+          "themes": [
+            "ambition",
+            "racial-inequality",
+            "sexism",
+            "compromise",
+            "identity",
+            "legacy",
+            "revisionism",
+            "american-dream"
+          ],
+          "plot_and_concepts": [
+            "studio-system",
+            "historical-drama",
+            "alternate-history",
+            "whitewashing",
+            "film-production",
+            "post-war-era"
+          ],
+          "mood_and_tone": [
+            "satirical",
+            "bittersweet",
+            "glamorous",
+            "melancholy",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "historical-drama",
+            "glamour",
+            "ensemble-cast",
+            "coming-of-age"
+          ],
+          "setting": [
+            "1940s",
+            "hollywood-california",
+            "post-war-america"
+          ],
+          "character_archetypes": [
+            "aspiring-artist",
+            "ambitious-protagonist",
+            "marginalized-character",
+            "power-broker"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "film-set",
+            "studio-lot",
+            "premiere-night",
+            "costume-design"
+          ],
+          "maturity_and_content": [
+            "sexual-content",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "Hollywood explores the struggles and compromises faced by aspiring artists in post-war California, blending glamour with a bittersweet tone to examine themes of racial inequality and the pursuit of the American dream."
+      },
+      "duration_seconds": 62.95521879196167
+    }
+  }
+}

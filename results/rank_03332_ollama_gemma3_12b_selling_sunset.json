@@ -1,0 +1,70 @@
+{
+  "input_data": {
+    "title": "Selling Sunset",
+    "overview": "The elite real estate brokers at The Oppenheim Group sell the luxe life to affluent buyers in LA. The drama ramps up when a new agent joins the team.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2019,
+    "vote_count": 39
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Selling Sunset is a reality television series that follows the lives of real estate agents working at The Oppenheim Group in Los Angeles. The show focuses on the high-stakes world of luxury real estate, showcasing opulent properties and the competitive dynamics among the agents. While the core premise revolves around sales and client relationships, the series primarily explores interpersonal conflicts, professional rivalries, and the personal lives of the agents, creating a blend of aspirational lifestyle content and dramatic interpersonal narratives. The show's appeal lies in its portrayal of wealth, ambition, and the complexities of relationships within a high-pressure environment.",
+        "spoiler_rich_plot_summary": "The series begins with the introduction of Christine Quinn, a seasoned agent, and the arrival of a new agent, Chrishell Stause, who quickly becomes entangled in the office's complex social hierarchy. Throughout the seasons, the agents compete for listings and commissions, leading to clashes over clients and deals. Romantic relationships and personal dramas frequently intertwine with professional endeavors, creating ongoing tensions and conflicts. New agents are consistently introduced, disrupting the established power dynamics and adding fresh layers of competition. While the agents achieve significant sales and close deals on multi-million dollar properties, the focus remains on the interpersonal relationships and the constant struggle for status and recognition within the brokerage. The series culminates in ongoing shifts in team dynamics and professional alliances, with agents navigating changing market conditions and personal challenges.",
+        "categorized_keywords": {
+          "themes": [
+            "wealth-and-status",
+            "career-ambition",
+            "female-relationships",
+            "office-politics",
+            "competition"
+          ],
+          "plot_and_concepts": [
+            "real-estate-market",
+            "luxury-lifestyle",
+            "office-drama"
+          ],
+          "mood_and_tone": [
+            "glamorous",
+            "competitive",
+            "dramatic"
+          ],
+          "genre_and_tropes": [
+            "reality-television",
+            "workplace-drama",
+            "aspirational-lifestyle"
+          ],
+          "setting": [
+            "los-angeles",
+            "modern-day",
+            "luxury-homes"
+          ],
+          "character_archetypes": [
+            "ambitious-agent",
+            "office-rival",
+            "newcomer"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "fashion-enthusiasts"
+          ],
+          "detail_plot": [
+            "luxury-listings",
+            "open-house",
+            "brokerage-office",
+            "designer-clothing"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Selling Sunset offers a glamorous glimpse into the competitive world of luxury real estate in Los Angeles, where ambitious agents navigate office politics and strive for success amidst designer clothing and high-stakes deals."
+      },
+      "duration_seconds": 52.37948274612427
+    }
+  }
+}

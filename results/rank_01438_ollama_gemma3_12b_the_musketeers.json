@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "The Musketeers",
+    "overview": "Set in 17th century Paris, musketeers Athos, Porthos, Aramis and D'Artagnan are members of an elite band of soldiers who fight for what is just. They are heroes in the truest and most abiding sense – men that can be trusted and believed in to do the right thing, regardless of personal risk.",
+    "genres": [
+      "Drama",
+      "Action & Adventure"
+    ],
+    "release_year": 2014,
+    "vote_count": 155
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Musketeers is a historical action-adventure series set in 17th-century Paris, reimagining Alexandre Dumas' classic novel. The show follows the exploits of four elite musketeers as they navigate political intrigue, fight injustice, and uphold the King's law. It blends swashbuckling action with a focus on themes of loyalty, honor, and friendship, offering a fast-paced and visually engaging experience. The series balances large-scale action sequences with character-driven drama, exploring the personal struggles of the musketeers as they grapple with their duty and their conscience. It aims to deliver a modern take on a beloved story, appealing to audiences seeking both thrilling action and compelling character arcs.",
+        "spoiler_rich_plot_summary": "The series begins with D'Artagnan arriving in Paris, eager to join the King's Musketeers. He quickly befriends Athos, Porthos, and Aramis, each a skilled swordsman with a troubled past. They become embroiled in a conspiracy against Cardinal Richelieu, the King's chief minister, who seeks to undermine the monarchy. The musketeers uncover plots involving secret societies, corrupt officials, and foreign powers, constantly battling Richelieu's agents and protecting the King. Throughout the series, each musketeer confronts personal demons and past traumas, impacting their loyalty and effectiveness. Alliances shift, betrayals are revealed, and the musketeers face difficult choices that test their bonds and challenge their ideals. The series culminates in a confrontation with Richelieu, where the musketeers must use all their skills and courage to defend the King and the realm, ultimately reshaping the political landscape of France and solidifying their place in history.",
+        "categorized_keywords": {
+          "themes": [
+            "honor",
+            "loyalty",
+            "friendship",
+            "justice",
+            "political-intrigue",
+            "duty",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "swashbuckling",
+            "court-politics",
+            "conspiracy",
+            "secret-society",
+            "revenge",
+            "duel"
+          ],
+          "mood_and_tone": [
+            "action-packed",
+            "dramatic",
+            "suspenseful",
+            "heroic"
+          ],
+          "genre_and_tropes": [
+            "historical-drama",
+            "action-adventure",
+            "swords-and-sorcery",
+            "found-family"
+          ],
+          "setting": [
+            "17th-century-paris",
+            "french-monarchy",
+            "royal-court"
+          ],
+          "character_archetypes": [
+            "swordsman",
+            "heroic-protagonist",
+            "mentor",
+            "antagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "sword-fight",
+            "royal-palace",
+            "carriage-chase",
+            "duel-scene"
+          ],
+          "maturity_and_content": [
+            "violence"
+          ]
+        },
+        "keyword_sentence": "Set in 17th-century Paris, The Musketeers is a dramatic action-adventure series exploring themes of honor and loyalty as a band of heroic swordsmen navigate political intrigue and fight for justice within the French monarchy."
+      },
+      "duration_seconds": 72.80598163604736
+    }
+  }
+}

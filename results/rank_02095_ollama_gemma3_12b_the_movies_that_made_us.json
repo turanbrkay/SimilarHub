@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "The Movies That Made Us",
+    "overview": "These blockbusters brought us together and gave us the time of our lives. Meet the actors, directors and industry insiders who made them happen.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2019,
+    "vote_count": 89
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Movies That Made Us is a documentary series exploring the cultural impact and behind-the-scenes stories of iconic American films. Each episode delves into the production history, marketing strategies, and lasting legacy of a beloved movie, featuring interviews with cast, crew, and industry experts. The series aims to understand why these films resonated with audiences and shaped popular culture, examining their influence on subsequent films and broader societal trends. It offers a nostalgic and insightful look at the making of cinematic touchstones, celebrating their enduring appeal while also acknowledging the complexities of their creation.",
+        "spoiler_rich_plot_summary": "Each episode of The Movies That Made Us focuses on a different film, tracing its journey from initial concept to box office success and beyond. The series examines the challenges faced during production, including creative differences, budget constraints, and unexpected setbacks. Interviews reveal the personal stories of those involved, highlighting their passion, dedication, and occasional conflicts. The documentaries also explore the marketing campaigns that propelled these films to stardom, analyzing how studios targeted specific audiences and created lasting cultural phenomena. Ultimately, the series demonstrates how these movies transcended mere entertainment, becoming integral parts of the American cultural landscape, shaping memories and influencing generations.",
+        "categorized_keywords": {
+          "themes": [
+            "nostalgia",
+            "cultural-impact",
+            "film-history",
+            "behind-the-scenes",
+            "american-cinema",
+            "legacy"
+          ],
+          "plot_and_concepts": [
+            "documentary-film",
+            "interview-format",
+            "film-production",
+            "marketing-campaigns"
+          ],
+          "mood_and_tone": [
+            "celebratory",
+            "informative",
+            "reflective",
+            "lighthearted"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "behind-the-scenes-look"
+          ],
+          "setting": [
+            "hollywood",
+            "american-culture"
+          ],
+          "character_archetypes": [
+            "film-director",
+            "actor",
+            "producer"
+          ],
+          "narrative_style": [
+            "chronological-narrative",
+            "interview-driven"
+          ],
+          "target_audience": [
+            "film-fans",
+            "general-audience"
+          ],
+          "detail_plot": [
+            "film-poster",
+            "movie-trailer",
+            "premiere-event",
+            "studio-lot"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Movies That Made Us is a celebratory documentary series exploring the cultural impact and behind-the-scenes stories of iconic American films, offering a nostalgic look at their creation and lasting legacy."
+      },
+      "duration_seconds": 57.194254636764526
+    }
+  }
+}

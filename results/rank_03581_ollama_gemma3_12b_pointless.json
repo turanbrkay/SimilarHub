@@ -1,0 +1,58 @@
+{
+  "input_data": {
+    "title": "Pointless",
+    "overview": "Quiz in which contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else can think of.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2009,
+    "vote_count": 34
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Pointless is a unique reality television game show where contestants strive to achieve the lowest possible score by providing obscure and rarely known answers to general knowledge questions. The show's premise subverts traditional quiz show formats, rewarding incorrect or unusual responses rather than demonstrating expertise. Its appeal lies in the unpredictable nature of the answers and the comedic interactions between contestants and the hosts. The show's low-stakes environment and focus on quirky knowledge create a lighthearted and often hilarious viewing experience.",
+        "spoiler_rich_plot_summary": "The show's format remains consistent throughout its run. Four teams of two contestants compete to answer general knowledge questions. The goal is not to get the most correct answers, but rather to provide answers that no one else has thought of, resulting in a score of zero. The show's host guides the contestants, often providing hints or prompting them to think outside the box. Each round presents new categories and questions, and the team with the lowest cumulative score at the end of the show is declared the winner. The show's appeal lies in the unexpected and often absurd answers provided by the contestants, leading to moments of comedic brilliance and surprising insights into the vastness of human knowledge.",
+        "categorized_keywords": {
+          "themes": [
+            "general-knowledge",
+            "obscurity",
+            "competition",
+            "humor"
+          ],
+          "plot_and_concepts": [
+            "reverse-quiz",
+            "game-show-format"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "comedic",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "reality-television",
+            "game-show"
+          ],
+          "setting": [
+            "television-studio"
+          ],
+          "character_archetypes": [],
+          "narrative_style": [
+            "episodic"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "question-board",
+            "score-tracker",
+            "host-interaction"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Pointless is a lighthearted reality television game show where contestants compete to achieve the lowest score by providing obscure answers to general knowledge questions, creating a uniquely comedic and family-friendly viewing experience."
+      },
+      "duration_seconds": 42.83332085609436
+    }
+  }
+}

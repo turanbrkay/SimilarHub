@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Briarpatch",
+    "overview": "Dogged investigator Allegra Dill returns to her border-town Texas home after her sister is murdered. What begins as a search for a killer turns into an all-consuming fight to bring her corrupt hometown to its knees.",
+    "genres": [
+      "Drama",
+      "Crime",
+      "Mystery"
+    ],
+    "release_year": 2020,
+    "vote_count": 40
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Briarpatch is a neo-noir crime drama centered on a woman's return to her hometown following a tragic event. The series blends elements of mystery, thriller, and family saga, exploring themes of corruption, revenge, and the complexities of small-town life. The narrative unfolds with a distinctive, stylized aesthetic and a focus on character-driven storytelling, creating a tense and atmospheric viewing experience. It examines the dark underbelly of seemingly idyllic communities and the lengths people will go to protect their secrets.",
+        "spoiler_rich_plot_summary": "Allegra Dill returns to her Texas hometown after her sister, Poppy, is murdered. Initially, Allegra’s focus is on finding Poppy’s killer, but she quickly discovers that her sister’s death is intertwined with a web of corruption and criminal activity that permeates the entire town. As Allegra investigates, she uncovers a list of individuals, each representing a potential suspect and connected to a mysterious 'Manifesto' – a document outlining a series of planned events. The investigation forces Allegra to confront her own complicated family history and the dark secrets of her parents, who are prominent figures in the community. She navigates a treacherous landscape of alliances and betrayals, realizing that bringing justice requires dismantling the entire system that allowed Poppy’s death to occur. The series explores the interconnectedness of the town’s elite and the devastating consequences of their actions, ultimately leading Allegra to question her own morality and the true meaning of justice.",
+        "categorized_keywords": {
+          "themes": [
+            "revenge",
+            "corruption",
+            "family-secrets",
+            "justice",
+            "small-town-life",
+            "grief",
+            "moral-ambiguity"
+          ],
+          "plot_and_concepts": [
+            "murder-mystery",
+            "conspiracy",
+            "manifesto",
+            "crime-drama",
+            "police-investigation"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "tense",
+            "atmospheric",
+            "neo-noir",
+            "gritty"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "mystery",
+            "thriller",
+            "small-town-drama"
+          ],
+          "setting": [
+            "texas",
+            "border-town",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "investigator",
+            "anti-hero",
+            "corrupt-official",
+            "grieving-sibling"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "manifesto-document",
+            "small-town-politics",
+            "family-estate",
+            "police-station"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "mature-themes"
+          ]
+        },
+        "keyword_sentence": "Briarpatch is a dark and tense neo-noir crime drama set in a Texas border town, exploring themes of revenge and corruption as a grieving investigator unravels a conspiracy that threatens to expose the town’s darkest secrets."
+      },
+      "duration_seconds": 58.4335412979126
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "The Resort",
+    "overview": "An anniversary trip puts a marriage to the test when a couple finds themselves embroiled in one of Yucatan's most bizarre unsolved mysteries.",
+    "genres": [
+      "Comedy",
+      "Mystery"
+    ],
+    "release_year": 2022,
+    "vote_count": 49
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Resort is a comedic mystery series that blends a lighthearted tone with a complex, decades-old enigma. The story unfolds across two timelines, following a young couple on their anniversary vacation and the original group of tourists involved in a disappearance years prior. The series explores themes of marriage, nostalgia, and the allure of unsolved mysteries, offering a unique blend of humor and suspense as the characters grapple with the past and its unexpected consequences. The narrative structure creates a sense of intrigue and encourages viewers to piece together the puzzle alongside the protagonists.",
+        "spoiler_rich_plot_summary": "The series initially introduces Noah and Hanna, a young couple whose marriage is experiencing strain. Seeking to reconnect, they choose a vacation to the Mayan Riviera. Their trip takes an unexpected turn when they stumble upon a time capsule buried in the sand, revealing clues related to the disappearance of a group of teenagers in 2007. The discovery pulls them into a decades-old mystery, forcing them to confront the original group of tourists and the secrets they're desperately trying to keep buried. As Noah and Hanna investigate, they uncover a web of interconnected relationships, hidden agendas, and a meticulously planned series of events that led to the initial disappearance. The investigation reveals that the original group was involved in a complex game, designed to test their limits and expose their vulnerabilities. The truth behind the disappearance is far more elaborate than initially suspected, involving manipulation, deception, and a desire for control. The series culminates in a confrontation that exposes the motivations of the key players and reveals the lasting impact of the events on everyone involved, forcing the characters to confront their own flaws and the fragility of their relationships.",
+        "categorized_keywords": {
+          "themes": [
+            "marriage-challenges",
+            "nostalgia",
+            "unsolved-mysteries",
+            "deception",
+            "secrets",
+            "redemption",
+            "fate"
+          ],
+          "plot_and_concepts": [
+            "time-capsule",
+            "mystery-box",
+            "serial-investigation",
+            "game-theory",
+            "flashback-narrative"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "suspenseful",
+            "whimsical",
+            "satirical"
+          ],
+          "genre_and_tropes": [
+            "mystery-comedy",
+            "found-family",
+            "slow-burn-romance",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "mayan-riviera",
+            "mexico",
+            "resort-town",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "skeptic",
+            "manipulator",
+            "idealist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "dual-timeline",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "time-capsule",
+            "mayan-ruins",
+            "resort-pool",
+            "beach-scene",
+            "hotel-lobby"
+          ],
+          "maturity_and_content": [
+            "substance-abuse",
+            "sexual-content"
+          ]
+        },
+        "keyword_sentence": "The Resort is a darkly comic mystery series set in the Mayan Riviera, exploring themes of marriage challenges and deception through a dual-timeline narrative that blends suspenseful moments with a satirical look at nostalgia and secrets."
+      },
+      "duration_seconds": 63.5973584651947
+    }
+  }
+}

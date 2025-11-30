@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "The Bourne Identity",
+    "overview": "An unconscious man is washed ashore on the beach of a small French village during a heavy storm. A retired doctor takes care of the unconscious stranger. When the mysterious man recovers, he can't remember a thing...he does not know his name, he does not know where his flashback memories come from, and he does not know why the access code for an anonymous Swiss bank account is implanted in his thigh. As he seeks his own identity, things quickly become dangerous. There are attempts to kill him, he is well known in first class hotels across Europe, and worst of all, there are strange similarities between his memories and reported actions of the notorious terrorist, Carlos the Jackal.",
+    "genres": [
+      "Drama",
+      "Action & Adventure"
+    ],
+    "release_year": 1988,
+    "vote_count": 77
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Bourne Identity is a suspenseful action-thriller centered on a man suffering from amnesia who must uncover his past while evading those who want him dead. The series blends elements of espionage, action, and mystery, creating a compelling narrative about identity, memory, and the consequences of a hidden past. It explores themes of self-discovery and the struggle to reconcile a fragmented past with a dangerous present, offering a fast-paced and intellectually stimulating experience for viewers.",
+        "spoiler_rich_plot_summary": "The story begins with a man, found adrift and suffering from amnesia, being rescued off the coast of France. As his memories slowly return, he discovers he possesses extraordinary combat skills and a Swiss bank account with a substantial sum of money. He learns his name is David Bourne and that he may be connected to a covert operation. Pursued by assassins and aided by Marie Sun, a CIA operative, Bourne begins to piece together his past, uncovering a history of training as a highly skilled operative. He discovers he was involved in a program to assassinate a terrorist, Carlos the Jackal, and that his memory was erased to protect him. Bourne's quest for identity leads him across Europe, confronting his former colleagues and enemies, and ultimately revealing the truth about his past and his role in a global conspiracy. He grapples with the moral implications of his actions and the realization that his skills were used for purposes he may not fully endorse, leading to a complex internal conflict.",
+        "categorized_keywords": {
+          "themes": [
+            "amnesia",
+            "identity-quest",
+            "memory-loss",
+            "espionage",
+            "redemption",
+            "moral-ambiguity"
+          ],
+          "plot_and_concepts": [
+            "spy-thriller",
+            "memory-manipulation",
+            "assassination",
+            "conspiracy",
+            "secret-identity"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "tense",
+            "action-packed",
+            "dark",
+            "mysterious"
+          ],
+          "genre_and_tropes": [
+            "action-thriller",
+            "spy-genre",
+            "amnesia-trope",
+            "man-on-the-run"
+          ],
+          "setting": [
+            "europe",
+            "modern-day",
+            "coastal-village"
+          ],
+          "character_archetypes": [
+            "amnesiac-hero",
+            "skilled-operative",
+            "reluctant-hero",
+            "cia-operative"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "mystery-driven"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "swiss-bank-account",
+            "coastal-village",
+            "anonymous-identity",
+            "combat-skills"
+          ],
+          "maturity_and_content": [
+            "violence"
+          ]
+        },
+        "keyword_sentence": "A suspenseful action-thriller set in modern-day Europe, The Bourne Identity follows an amnesiac operative as he unravels a conspiracy and confronts his past, grappling with themes of identity and moral ambiguity."
+      },
+      "duration_seconds": 63.756876707077026
+    }
+  }
+}

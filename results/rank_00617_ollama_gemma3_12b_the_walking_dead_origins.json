@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "The Walking Dead: Origins",
+    "overview": "The Walking Dead: Origins is a series of specials exploring the journeys of the series' most celebrated characters. Each episode charts the story of the zombie apocalypse from the point of view of a single character and features new interviews and narrations from the actors that portray these iconic characters, interwoven with clips from the most pivotal moments of their journeys so far.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2021,
+    "vote_count": 468
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Walking Dead: Origins is a documentary series offering retrospective insights into the established characters of The Walking Dead universe. Through interviews and curated clips, the series explores the formative experiences and pivotal moments that shaped these individuals during the zombie apocalypse. It aims to provide a deeper understanding of their motivations and resilience, offering a fresh perspective on familiar narratives. The series blends documentary-style interviews with dramatic reenactments, creating a reflective and emotionally resonant experience for fans. It serves as both a celebration of the franchise's legacy and a means of expanding the audience's connection to its core characters.",
+        "spoiler_rich_plot_summary": "Each episode of The Walking Dead: Origins focuses on a different character, detailing their experiences from the initial outbreak of the zombie apocalypse through significant events in their subsequent journeys. The specials revisit the early struggles for survival, the formation of communities, and the difficult choices characters faced in a world overrun by the undead. Through new interviews, actors reflect on their characters' growth, the impact of loss, and the moral compromises necessary for survival. The series highlights key relationships and betrayals that defined the characters' arcs, offering a comprehensive look at their evolution from ordinary individuals to hardened survivors. While avoiding entirely new plot developments, the series provides context and emotional depth to previously seen events, enriching the overall narrative of The Walking Dead.",
+        "categorized_keywords": {
+          "themes": [
+            "survival",
+            "loss",
+            "redemption",
+            "moral-ambiguity",
+            "community",
+            "hope",
+            "resilience"
+          ],
+          "plot_and_concepts": [
+            "zombie-apocalypse",
+            "retrospective",
+            "character-study",
+            "found-family",
+            "post-apocalyptic"
+          ],
+          "mood_and_tone": [
+            "reflective",
+            "somber",
+            "emotional",
+            "nostalgic"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "character-driven",
+            "anthology-series"
+          ],
+          "setting": [
+            "post-apocalyptic-america",
+            "rural-america"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "reluctant-leader",
+            "moral-compass"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "interview-format"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "walking-dead-fans"
+          ],
+          "detail_plot": [
+            "zombie-herd",
+            "interview-clip",
+            "character-flashback",
+            "safe-zone"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "emotional-trauma"
+          ]
+        },
+        "keyword_sentence": "The Walking Dead: Origins is a reflective documentary series exploring the emotional journeys of beloved characters as they navigate a brutal zombie apocalypse and grapple with loss, resilience, and the complexities of survival in a post-apocalyptic America."
+      },
+      "duration_seconds": 74.00098466873169
+    }
+  }
+}

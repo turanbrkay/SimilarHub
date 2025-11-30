@@ -1,0 +1,87 @@
+{
+  "input_data": {
+    "title": "The Umbrella Academy",
+    "overview": "A dysfunctional family of superheroes comes together to solve the mystery of their father's death, the threat of the apocalypse and more.",
+    "genres": [
+      "Action & Adventure",
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "release_year": 2019,
+    "vote_count": 8891
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Umbrella Academy follows a dysfunctional family of adopted siblings, each with unique powers, who reunite after their father’s mysterious death to prevent an impending apocalypse. Over three seasons, the series blends dark humor, dramatic family drama, and sci‑fi time‑travel mechanics, revealing complex backstories and the supernatural origins of their abilities. The narrative explores themes of identity, fate, and power dynamics while maintaining a fast‑paced, serialized structure that keeps viewers engaged with its quirky, satirical tone.",
+        "spoiler_rich_plot_summary": "In Season 1, the siblings are forced to confront their estranged father’s death and a looming apocalypse, while uncovering a conspiracy tied to a secret organization. Season 2 deepens their fractured relationships, introduces a time‑travel experiment that creates a paradox, and reveals that one sibling’s death was orchestrated to protect the timeline. Season 3 culminates with the team traveling back to 1989 to stop the apocalypse, but the experiment alters reality, leaving them stranded in an alternate 1989 where the world is reshaped and the family’s future is uncertain. The series ends with the siblings confronting this new reality, setting the stage for potential future adventures.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dysfunction",
+            "time-travel",
+            "apocalypse",
+            "identity-crisis",
+            "power-dynamics"
+          ],
+          "plot_and_concepts": [
+            "superhero-family",
+            "father-death-mystery",
+            "time-travel-experiment",
+            "paradox",
+            "apocalypse-prevention",
+            "alternate-reality",
+            "family-legacy"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "satirical",
+            "dramatic",
+            "quirky",
+            "melancholic"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "sci-fi-fantasy",
+            "drama",
+            "superhero",
+            "family-ensemble",
+            "time-travel-twist",
+            "dark-comedy"
+          ],
+          "setting": [
+            "modern-america",
+            "1989",
+            "present-day-usa",
+            "future"
+          ],
+          "character_archetypes": [
+            "siblings",
+            "misfit-hero",
+            "mentor",
+            "rebel"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "non-linear-timeline",
+            "time-loop",
+            "fast-paced"
+          ],
+          "target_audience": [
+            "mature-audiences",
+            "superhero-fans",
+            "sci-fi-fans"
+          ],
+          "detail_plot": [
+            "umbrella-academy",
+            "time-travel-portal",
+            "apocalypse-weapon",
+            "family-photos",
+            "bobby-suit"
+          ]
+        },
+        "keyword_sentence": "The Umbrella Academy is a dark, satirical, serialized superhero drama centered on a dysfunctional sibling family navigating time‑travel and apocalypse threats in a modern‑usa setting, with recurring motifs such as the umbrella‑academy and time‑travel‑portal."
+      },
+      "duration_seconds": 191.22108387947083
+    }
+  }
+}

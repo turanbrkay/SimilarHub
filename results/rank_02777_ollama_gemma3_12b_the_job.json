@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "The Job",
+    "overview": "Mike McNeil is a decorated New York City detective whose toughest assignment is himself. He's struggling to balance a challenging personal life with a job that leaves him wondering on a daily basis if he is the last sane person in New York. His unconventional approach to his job makes him a great cop, even on the most trying days. The only thing he can't figure out is why, if he's the only sane guy around, everyone's always looking at him like he's crazy.",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "release_year": 2001,
+    "vote_count": 56
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Job is a dramedy series centered on a New York City detective grappling with personal struggles and a sense of isolation within a chaotic police force. The show blends comedic elements with a darker exploration of mental health and the pressures of law enforcement. It examines the blurred lines between sanity and madness, and the challenges of maintaining perspective in a demanding profession. The series offers a darkly humorous and introspective look at a man struggling to find his place in a world that often feels absurd.",
+        "spoiler_rich_plot_summary": "The series follows Detective Mike McNeil, a highly skilled but emotionally troubled officer in the NYPD. The narrative initially establishes Mike's reputation as a brilliant detective with unorthodox methods, often clashing with his superiors and colleagues due to his unconventional approach to solving crimes. As the series progresses, Mike's personal life becomes increasingly intertwined with his professional duties, revealing a complex web of relationships and past traumas. The show explores his attempts to navigate the challenges of his job while battling his own internal demons, often blurring the lines between his perception of reality and the world around him. Throughout the series, Mike confronts various cases that force him to question his own sanity and the nature of justice, ultimately leading him on a journey of self-discovery and a search for meaning in a seemingly absurd world. The series concludes with Mike finding a fragile sense of equilibrium, accepting his complexities and finding a renewed purpose in his work and relationships.",
+        "categorized_keywords": {
+          "themes": [
+            "mental-health",
+            "isolation",
+            "justice",
+            "sanity",
+            "self-discovery",
+            "law-enforcement"
+          ],
+          "plot_and_concepts": [
+            "police-procedural",
+            "crime-solving",
+            "unconventional-methods",
+            "internal-conflict"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "introspective",
+            "absurdist",
+            "satirical"
+          ],
+          "genre_and_tropes": [
+            "dramedy",
+            "police-drama",
+            "anti-hero",
+            "fish-out-of-water"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "detective",
+            "anti-hero",
+            "troubled-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "police-station",
+            "crime-scene",
+            "detective-badge"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Job is a darkly comic dramedy set in New York City, exploring themes of mental health and isolation through the eyes of a troubled detective navigating the absurdities of law enforcement."
+      },
+      "duration_seconds": 51.92288422584534
+    }
+  }
+}

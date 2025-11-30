@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "The Wonder Years",
+    "overview": "A coming of age story set in the late 1960s that takes a nostalgic look at a black middle-class family in Montgomery, Alabama through the point-of-view of imaginative 12 year-old Dean. With the wisdom of his adult years, Dean’s hopeful and humorous recollections show how his family found their “wonder years” in a turbulent time. Inspired by the classic series of the same name.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2021,
+    "vote_count": 190
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Wonder Years (2021) is a coming-of-age dramedy that revisits the familiar premise of the original series through the lens of a Black family in 1960s Alabama. Told through the nostalgic recollections of Dean Williams, the series explores themes of family, identity, and the challenges of growing up against a backdrop of social and political change. It blends humor and heartfelt drama to create a poignant and relatable portrait of a generation navigating adolescence and the complexities of the American Dream. The show offers a fresh perspective on a classic format, emphasizing the importance of community and the enduring power of memory.",
+        "spoiler_rich_plot_summary": "The series begins with an older Dean Williams reflecting on his childhood and introducing viewers to his family: his parents, siblings, and close-knit community. The narrative follows Dean as he experiences the joys and struggles of adolescence, including first crushes, schoolyard conflicts, and the burgeoning awareness of racial inequality. Throughout the series, Dean grapples with his place within his family and community, navigating the expectations of his parents while forging his own identity. The show explores the challenges faced by his father, a hardworking man striving to provide for his family, and his mother, who serves as the emotional anchor of the household. As Dean matures, he witnesses firsthand the impact of the Civil Rights Movement and begins to question the injustices of the era. The series culminates in Dean’s transition into young adulthood, leaving behind the familiar comforts of his childhood and embracing the uncertainties of the future, forever shaped by the lessons and memories of his wonder years.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "coming-of-age",
+            "nostalgia",
+            "racial-identity",
+            "social-change",
+            "memory",
+            "american-dream"
+          ],
+          "plot_and_concepts": [
+            "coming-of-age-story",
+            "flashback-narrative",
+            "family-drama",
+            "social-commentary"
+          ],
+          "mood_and_tone": [
+            "heartwarming",
+            "reflective",
+            "poignant",
+            "optimistic",
+            "sentimental"
+          ],
+          "genre_and_tropes": [
+            "family-drama",
+            "coming-of-age",
+            "sitcom",
+            "slice-of-life"
+          ],
+          "setting": [
+            "1960s-america",
+            "alabama",
+            "suburban-america",
+            "american-south"
+          ],
+          "character_archetypes": [
+            "innocent-protagonist",
+            "loving-parents",
+            "supportive-sibling",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format",
+            "voiceover-narration"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "1960s-cars",
+            "family-dinner",
+            "school-bus",
+            "record-player",
+            "vintage-clothing"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Wonder Years offers a heartwarming and reflective look at a Black family’s coming-of-age in 1960s Alabama, exploring themes of family, nostalgia, and social change through a poignant and episodic narrative."
+      },
+      "duration_seconds": 67.14667510986328
+    }
+  }
+}

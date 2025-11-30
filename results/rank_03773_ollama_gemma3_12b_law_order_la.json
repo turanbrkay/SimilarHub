@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Law & Order: LA",
+    "overview": "From the tony Beverly Hills to the seedy side of Hollywood, LAPD’s elite Robbery Homicide Division is on the case. Fusing classic ripped-from-the-headlines storytelling with the backdrop of LA, the series delves into the high profile crimes of the west coast.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2010,
+    "vote_count": 31
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Law & Order: LA is a procedural crime drama that transplants the established Law & Order formula to Los Angeles. The series focuses on the investigations of the Robbery-Homicide Division, tackling high-profile cases ripped from the headlines. It blends the familiar 'police procedural' and 'courtroom drama' elements with the unique setting and cultural landscape of Los Angeles, offering a blend of gritty realism and heightened stakes. The show explores themes of justice, morality, and the complexities of the legal system within a specific geographical and social context.",
+        "spoiler_rich_plot_summary": "The series begins with the Robbery-Homicide Division responding to a series of high-profile crimes in Los Angeles, ranging from robberies targeting wealthy individuals to murders with complex motives. Each episode typically follows a two-part structure: the initial investigation led by the detectives, followed by the prosecution of the accused in court. Detectives navigate the challenges of gathering evidence, interviewing witnesses, and dealing with the pressures of public scrutiny. The courtroom proceedings often reveal unexpected twists and turns, highlighting the flaws and biases within the legal system. Over the series' run, the detectives confront a variety of criminals, including organized crime figures, corrupt officials, and individuals driven by personal vendettas. The show explores the impact of these cases on both the victims and the investigators, revealing the emotional toll of pursuing justice in a city rife with crime and inequality. While individual cases are resolved within each episode, overarching storylines involving recurring characters and complex criminal networks occasionally emerge, adding depth and intrigue to the series.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "crime",
+            "morality",
+            "legal-system",
+            "corruption",
+            "social-inequality"
+          ],
+          "plot_and_concepts": [
+            "police-procedural",
+            "courtroom-drama",
+            "ripped-from-headlines",
+            "investigation",
+            "prosecution"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "realistic",
+            "tense",
+            "serious"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "legal-thriller",
+            "procedural-drama"
+          ],
+          "setting": [
+            "los-angeles",
+            "modern-day",
+            "beverly-hills",
+            "hollywood"
+          ],
+          "character_archetypes": [
+            "detective",
+            "prosecutor",
+            "judge",
+            "criminal"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "crime-scene",
+            "police-car",
+            "courtroom",
+            "interrogation-room"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "legal-proceedings"
+          ]
+        },
+        "keyword_sentence": "Law & Order: LA is a gritty crime drama set in Los Angeles, exploring themes of justice and morality through realistic police investigations and intense courtroom proceedings."
+      },
+      "duration_seconds": 80.91639494895935
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "input_data": {
+    "title": "The Boys",
+    "overview": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "release_year": 2019,
+    "vote_count": 8721
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Boys follows a rough‑skinned vigilante crew intent on dismantling a corrupt superhero industry, using street‑level tactics and a cynical worldview. The series blends hyper‑violent action with sharp satire, exposing the dark underbelly of fame, corporate greed, and government collusion. Its tone is gritty, irreverent, and unapologetically mature, while its narrative oscillates between high‑stakes confrontations and intimate character betrayals. Set in a contemporary, urban America dominated by a mega‑corporate superhero conglomerate, the show critiques the myth of the infallible hero and the moral compromises of power.",
+        "spoiler_rich_plot_summary": "Season one introduces the Boys—Billy Butcher, Hughie, Frenchie, Mother's Milk, and Black Noir—who uncover the truth behind the superhero corporation Vought’s public façade, culminating in a brutal showdown with Homelander and the death of a key ally. Season two expands the conspiracy to a global scale, revealing the existence of a secret Vought laboratory, the creation of a new super‑weapon, and the internal power struggle between Homelander and a ruthless executive, while the Boys navigate betrayals and personal losses. Season three follows the group as they are captured by a covert government agency, uncover a deeper plot involving a new, more dangerous super‑hero, and confront the moral cost of their crusade, leaving the series on a cliffhanger with the fate of the Boys and the ultimate threat unresolved.",
+        "categorized_keywords": {
+          "themes": [
+            "corrupt-superheroes",
+            "moral-ambiguity",
+            "power-abuse",
+            "media-manipulation",
+            "sexual-harassment",
+            "government-corruption",
+            "class-struggle",
+            "revenge"
+          ],
+          "plot_and_concepts": [
+            "superhero-industrial-giant",
+            "vigilante",
+            "secret-organization",
+            "government-oversight",
+            "experimental-chem",
+            "superhero-weaponization",
+            "superhero-organization"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "satirical",
+            "gritty",
+            "cynical",
+            "dark-humor",
+            "violent",
+            "irreverent"
+          ],
+          "genre_and_tropes": [
+            "superhero-anti-hero",
+            "action-adventure",
+            "dark-comedy",
+            "parody",
+            "thriller",
+            "espionage",
+            "political-thriller"
+          ],
+          "setting": [
+            "modern-america",
+            "urban",
+            "corporate-giant",
+            "government-agency"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "mentor",
+            "femme-fatale",
+            "power-figure",
+            "traitor",
+            "sidekick",
+            "villain",
+            "law-enforcement"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "fast-paced"
+          ],
+          "target_audience": [
+            "mature-audiences",
+            "superhero-fans",
+            "dark-comedy-lovers"
+          ],
+          "detail_plot": [
+            "butcher-weapon",
+            "chem-weapon",
+            "secret-warehouse",
+            "government-lab"
+          ]
+        },
+        "keyword_sentence": "The Boys blends dark-humor, violent action, and a cynical critique of superhero culture, following a vigilante gang as they expose corporate corruption and government complicity in a modern-urban, corporate-giant setting."
+      },
+      "duration_seconds": 211.43994307518005
+    }
+  }
+}

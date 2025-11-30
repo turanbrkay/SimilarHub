@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Brothers and Sisters",
+    "overview": "The close-knit Walker family deals with struggles and triumphs.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2006,
+    "vote_count": 164
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Brothers and Sisters is a family drama series that explores the complexities of sibling relationships, political intrigue, and personal secrets. The show centers on the Walker family, initially presented as a picture of American success, but quickly revealed to be harboring deep-seated tensions and hidden truths. Through a blend of heartwarming moments and dramatic conflicts, the series examines themes of loyalty, betrayal, and the enduring bonds that tie families together, even amidst scandal and adversity. The show's tone is generally earnest and emotionally resonant, offering a nuanced portrayal of a family navigating both public scrutiny and private struggles.",
+        "spoiler_rich_plot_summary": "The series begins with the sudden death of William Walker, the patriarch of the prominent Walker family, revealing a decades-long affair and leaving his children reeling. Nora, the pragmatic and responsible matriarch, and Tommy, the rebellious and politically ambitious son, are thrust into positions of leadership, uncovering a web of financial and personal secrets that threaten to unravel the family's carefully constructed image. As the siblings grapple with their father's legacy and their own individual struggles, long-held resentments and hidden alliances come to light. Political maneuvering, romantic entanglements, and unexpected betrayals further complicate the family's dynamics. Over the course of the series, the Walker children confront their past mistakes, forge new relationships, and ultimately strive to redefine their family's identity amidst ongoing challenges and revelations. The series concludes with the family facing new uncertainties, but with a renewed sense of unity and a commitment to supporting one another through whatever the future holds.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "sibling-rivalry",
+            "political-corruption",
+            "secrets-and-lies",
+            "redemption",
+            "loyalty",
+            "betrayal"
+          ],
+          "plot_and_concepts": [
+            "political-intrigue",
+            "financial-scandal",
+            "family-business",
+            "affair-reveal"
+          ],
+          "mood_and_tone": [
+            "emotional",
+            "dramatic",
+            "earnest",
+            "melancholy"
+          ],
+          "genre_and_tropes": [
+            "family-drama",
+            "political-thriller",
+            "soap-opera",
+            "dysfunctional-family"
+          ],
+          "setting": [
+            "california",
+            "modern-day",
+            "upper-class-society"
+          ],
+          "character_archetypes": [
+            "patriarch",
+            "matriarch",
+            "rebellious-son",
+            "responsible-daughter",
+            "political-figure"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "walker-family-estate",
+            "political-campaign",
+            "courtroom-scene",
+            "family-portrait"
+          ],
+          "maturity_and_content": [
+            "affair-themes",
+            "political-manipulation"
+          ]
+        },
+        "keyword_sentence": "Brothers and Sisters is an emotional family drama set in modern-day California, exploring themes of loyalty, betrayal, and political intrigue within a wealthy and dysfunctional family."
+      },
+      "duration_seconds": 64.18675303459167
+    }
+  }
+}

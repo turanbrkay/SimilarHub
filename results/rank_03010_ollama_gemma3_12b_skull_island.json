@@ -1,0 +1,85 @@
+{
+  "input_data": {
+    "title": "Skull Island",
+    "overview": "Shipwrecked in the South Pacific, a group of explorers encounter a menagerie of fearsome creatures — including the giant ape who rules the island: Kong.",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2023,
+    "vote_count": 47
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Skull Island is a visually stunning animated adventure series that blends action, creature feature thrills, and elements of science fantasy. The series follows a group of explorers who find themselves stranded on a mysterious island teeming with dangerous beasts, all under the dominion of a colossal ape known as Kong. The narrative explores themes of survival, the clash between humanity and nature, and the complexities of power and dominance within a primal ecosystem. The tone is a mix of suspenseful action and awe-inspiring spectacle, offering a thrilling experience for audiences seeking a creature-filled adventure.",
+        "spoiler_rich_plot_summary": "The series begins with a group of explorers, lured by rumors of a lost island, shipwrecked near Skull Island. They quickly discover the island is far from uninhabited, as they are confronted by a variety of prehistoric creatures and Kong, the island's apex predator. The explorers initially attempt to study and understand Kong, but their presence disrupts the island's delicate balance, leading to escalating conflicts. As the explorers struggle to survive, they uncover the island's history, revealing a deeper connection between Kong and the island's unique ecosystem. Internal divisions arise within the group, with some advocating for escape while others seek to exploit the island's resources. The explorers face betrayals and losses as they navigate the dangers of Skull Island, ultimately confronting Kong in a final showdown that tests their courage and resolve. The series concludes with the explorers facing a difficult choice: to leave the island and risk exposing its existence to the world, or to remain and face an uncertain future alongside Kong.",
+        "categorized_keywords": {
+          "themes": [
+            "survival",
+            "human-vs-nature",
+            "power-dynamics",
+            "exploration",
+            "isolation",
+            "primal-instincts"
+          ],
+          "plot_and_concepts": [
+            "shipwreck",
+            "creature-feature",
+            "lost-world",
+            "apex-predator",
+            "island-ecosystem",
+            "exploration-gone-wrong"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "action-packed",
+            "awe-inspiring",
+            "dangerous",
+            "mysterious"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "action-adventure",
+            "sci-fi-fantasy",
+            "monster-movie",
+            "lost-world-adventure"
+          ],
+          "setting": [
+            "south-pacific",
+            "tropical-island",
+            "prehistoric-era",
+            "isolated-location"
+          ],
+          "character_archetypes": [
+            "explorer",
+            "scientist",
+            "leader",
+            "traitor",
+            "apex-predator"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "adventure-series"
+          ],
+          "target_audience": [
+            "young-adult",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "shipwrecked-vessel",
+            "giant-ape",
+            "prehistoric-creatures",
+            "dense-jungle",
+            "ancient-ruins"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Stranded on a mysterious tropical island teeming with prehistoric creatures and ruled by a colossal ape, a group of explorers must confront their own survival instincts and the dangers of a lost world in this action-packed animated adventure."
+      },
+      "duration_seconds": 72.43205213546753
+    }
+  }
+}

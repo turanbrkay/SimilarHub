@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "Star Trek: Voyager",
+    "overview": "Pulled to the far side of the galaxy, where the Federation is 75 years away at maximum warp speed, a Starfleet ship must cooperate with Maquis rebels to find a way home.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Action & Adventure"
+    ],
+    "release_year": 1995,
+    "vote_count": 792
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Star Trek: Voyager follows the crew of the starship Voyager, stranded 70,000 light-years from Earth and forced to cooperate with former adversaries, the Maquis rebels, to navigate a perilous journey home. The series blends classic Star Trek exploration with themes of survival, diplomacy, and the complexities of forced alliances. It explores the moral compromises necessary for survival and the challenges of bridging ideological divides, all while maintaining a sense of hope and the pursuit of scientific discovery. The show balances action-adventure sequences with thoughtful character development and philosophical inquiries about humanity's place in the universe.",
+        "spoiler_rich_plot_summary": "Voyager, commanded by Captain Kathryn Janeway, is accidentally swept across the Delta Quadrant by a temporal anomaly, leaving them impossibly far from Federation space. Initially, tensions are high as the crew must contend with the Maquis, a group of rebel colonists who were previously at odds with Starfleet. A tense but necessary alliance forms, with both groups contributing to the ship's survival and navigation through uncharted territories. Throughout their journey, Voyager encounters numerous alien species, some benevolent, others hostile, forcing the crew to make difficult choices and often compromise their ideals. The series follows the ship’s gradual progress, encountering various challenges including Borg encounters, temporal distortions, and the constant struggle to maintain hope and morale among the crew. As Voyager nears the Alpha Quadrant, the crew faces a final, critical decision regarding their return, weighing the potential consequences for the Federation and the sacrifices made during their long voyage.",
+        "categorized_keywords": {
+          "themes": [
+            "survival",
+            "diplomacy",
+            "hope",
+            "sacrifice",
+            "exploration",
+            "redemption",
+            "moral-compromise",
+            "cultural-exchange"
+          ],
+          "plot_and_concepts": [
+            "temporal-anomaly",
+            "space-exploration",
+            "first-contact",
+            "borg-encounters",
+            "political-intrigue",
+            "ship-board-politics"
+          ],
+          "mood_and_tone": [
+            "optimistic",
+            "adventurous",
+            "thoughtful",
+            "tense",
+            "hopeful"
+          ],
+          "genre_and_tropes": [
+            "sci-fi",
+            "space-opera",
+            "found-family",
+            "ship-board-drama"
+          ],
+          "setting": [
+            "delta-quadrant",
+            "space",
+            "alternate-timeline",
+            "starship-voyager"
+          ],
+          "character_archetypes": [
+            "strong-female-lead",
+            "reluctant-hero",
+            "wise-mentor",
+            "moral-ambiguity"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-adventure"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "sci-fi-fans"
+          ],
+          "detail_plot": [
+            "holodeck",
+            "warp-core",
+            "tricorder",
+            "phaser",
+            "delta-quadrant-map"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Star Trek: Voyager blends space exploration and episodic adventure with themes of survival and diplomacy, following a starship crew navigating the perils of the Delta Quadrant and forging unlikely alliances to find their way home."
+      },
+      "duration_seconds": 70.00765228271484
+    }
+  }
+}

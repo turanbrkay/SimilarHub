@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Martin",
+    "overview": "Sassy sitcom centering on radio and television personality Martin Payne. Series focuses on his romantic relationship with girlfriend Gina, her best friend Pam and escapades with best friends Tommy and Cole.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 1992,
+    "vote_count": 105
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Martin is a 1990s sitcom that follows the misadventures of Martin Payne, a quick-witted radio personality, and his circle of friends. The series blends observational humor with exaggerated comedic situations, exploring themes of relationships, friendship, and navigating social dynamics. Known for its unapologetic portrayal of urban life and its often-controversial humor, the show offers a comedic lens on the complexities of interpersonal relationships and the challenges of self-discovery. The series' popularity stems from its relatable characters and its willingness to push boundaries, creating a unique and enduring comedic experience.",
+        "spoiler_rich_plot_summary": "The series begins with Martin Payne, a successful radio personality, relocating to Detroit with his girlfriend Gina. Their relationship is constantly tested by Martin's immature antics and Gina's attempts to keep him grounded. Throughout the series, Martin's best friend Tommy and Gina's best friend Pam provide comedic relief and often serve as a foil to Martin and Gina's dynamic. Recurring conflicts arise from Martin's flirtatious behavior and his tendency to create chaotic situations. As the series progresses, the characters face evolving personal and professional challenges, leading to moments of growth and self-reflection. While the core relationships remain central, the series explores various subplots and introduces new characters, adding depth and complexity to the comedic landscape. The show concludes with the characters having matured and navigated the ups and downs of their relationships, leaving a lasting impression on the sitcom landscape.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "relationships",
+            "urban-life",
+            "self-discovery",
+            "romantic-comedy"
+          ],
+          "plot_and_concepts": [
+            "sitcom",
+            "romantic-entanglements",
+            "misunderstandings",
+            "fish-out-of-water"
+          ],
+          "mood_and_tone": [
+            "comedic",
+            "lighthearted",
+            "satirical",
+            "slapstick"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "romantic-comedy",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "detroit",
+            "urban-setting",
+            "1990s"
+          ],
+          "character_archetypes": [
+            "comedic-protagonist",
+            "best-friend",
+            "romantic-interest"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "radio-station",
+            "apartment-living",
+            "comedic-skits"
+          ],
+          "maturity_and_content": [
+            "adult-humor"
+          ]
+        },
+        "keyword_sentence": "Martin is a lighthearted 1990s sitcom set in Detroit, exploring themes of friendship and relationships through the comedic misadventures of a radio personality and his circle of friends."
+      },
+      "duration_seconds": 62.2175567150116
+    }
+  }
+}

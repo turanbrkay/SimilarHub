@@ -1,0 +1,106 @@
+{
+  "input_data": {
+    "title": "The Witcher",
+    "overview": "Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny in a turbulent world where people often prove more wicked than beasts.",
+    "genres": [
+      "Drama",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2019,
+    "vote_count": 5159
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Witcher follows Geralt of Rivia, a monster-hunter with mutated powers, as he navigates a world where humanity's cruelty often eclipses that of beasts. The series blends gritty fantasy with political intrigue, exploring themes of destiny, identity, and moral ambiguity. Through its action-packed storytelling, it portrays complex relationships between Geralt, the sorceress Yennefer, and the young princess Ciri, while weaving a larger narrative of prophecy and power struggles across kingdoms.",
+        "spoiler_rich_plot_summary": "Season 1 opens with Geralt’s encounters with the sorceress Yennefer of Vengerberg and the young princess Ciri, introducing the world’s political tensions and monster-hunting contracts. The season culminates in the battle at Kaer Morhen, where Geralt confronts the Wild Hunt and the Red Queen’s forces, while Yennefer’s past is revealed and Ciri’s destiny hinted at. Season 2 expands the scope to the continent’s war, the rise of the Wild Hunt, and the political machinations of the Northern Realms. Key events include Geralt’s capture by the Nilfgaardian army, Yennefer’s imprisonment and escape, and Ciri’s training at the tower of the School of Sorcery, culminating in a climactic confrontation with the Wild Hunt that ends with Ciri’s escape and Geralt’s vow to protect her. The series remains ongoing, with Season 3 set to continue the saga.",
+        "categorized_keywords": {
+          "themes": [
+            "fate",
+            "destiny",
+            "moral-ambiguity",
+            "identity",
+            "power-dynamics",
+            "gender-inequality"
+          ],
+          "plot_and_concepts": [
+            "monster-hunting",
+            "witcher-codex",
+            "sorceress-aspirations",
+            "royal-plot",
+            "bloodline-prophecy",
+            "magic",
+            "swords",
+            "red-queen",
+            "wild-hunt",
+            "kaer-morhen",
+            "school-of-sorcery"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "grim",
+            "brooding",
+            "dramatic",
+            "action-packed",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "fantasy",
+            "action-adventure",
+            "anti-hero",
+            "quest",
+            "fate-omen",
+            "love-triangle",
+            "political-intrigue",
+            "monster-hunting",
+            "sorcery"
+          ],
+          "setting": [
+            "medieval-fantasy",
+            "north-kingdoms",
+            "sorcerer-lands",
+            "dark-forest",
+            "winter-snow"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "wise-mentor",
+            "femme-fatale",
+            "protagonist",
+            "love-interest",
+            "villain",
+            "sidekick",
+            "sorceress"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "character-driven",
+            "slow-burn",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "mature-audiences",
+            "fantasy-fans",
+            "action-lovers",
+            "adventure-enthusiasts"
+          ],
+          "detail_plot": [
+            "sword-ignis",
+            "kaer-morhen",
+            "red-queen",
+            "wild-hunt",
+            "school-of-sorcery",
+            "bloodline-knowledge",
+            "frost-kingdom",
+            "mysterious-forest",
+            "golden-apple",
+            "cursed-curse"
+          ]
+        },
+        "keyword_sentence": "The Witcher blends dark fantasy and action‑adventure with themes of fate, destiny, and moral ambiguity, centering on a monster‑hunting anti‑hero navigating political intrigue, a bloodline prophecy, and a looming Wild Hunt across a medieval‑fantasy setting."
+      },
+      "duration_seconds": 126.22862315177917
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "The Good Place",
+    "overview": "Eleanor Shellstrop, an ordinary woman who, through an extraordinary string of events, enters the afterlife where she comes to realize that she hasn't been a very good person. With the help of her wise afterlife mentor, she's determined to shed her old way of living and discover the awesome (or at least the pretty good) person within.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Comedy"
+    ],
+    "release_year": 2016,
+    "vote_count": 1313
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Good Place is a philosophical comedy series that explores questions of morality, ethics, and what it means to be a good person. The show follows Eleanor Shellstrop, who finds herself in the afterlife, a seemingly perfect paradise, only to discover she doesn't belong. Through a series of increasingly complex scenarios and relationships, Eleanor and her companions grapple with their flaws and strive for self-improvement, challenging the traditional notions of heaven and hell. The series blends humor with profound existential themes, offering a surprisingly heartwarming and thought-provoking exploration of human nature.",
+        "spoiler_rich_plot_summary": "The series begins with Eleanor Shellstrop mistakenly arriving in 'The Good Place,' a meticulously designed afterlife neighborhood overseen by Michael. She quickly realizes she's been sent there by mistake and fears exposure. With the help of Chidi Anagonye, an ethics professor, she attempts to become a better person, but her efforts are constantly undermined by her past actions and the inherent flaws in the system. As the group – including Tahani Al-Jamil, Jason Mendoza, and Janet – navigate increasingly bizarre and challenging situations, they uncover a shocking truth: The Good Place is not what it seems. Michael, the architect of the neighborhood, reveals that the entire afterlife is an elaborate experiment designed to test whether humans can truly improve. The group then undertakes a perilous journey to reset the entire system, repeatedly dying and restarting the experiment, each time with new challenges and revelations about the nature of goodness and the limitations of the afterlife. Ultimately, they make a selfless decision to erase their memories and allow the experiment to continue, sacrificing their own existence for the potential of future generations to achieve genuine moral progress.",
+        "categorized_keywords": {
+          "themes": [
+            "morality",
+            "ethics",
+            "redemption",
+            "self-improvement",
+            "existentialism",
+            "afterlife",
+            "free-will",
+            "sacrifice"
+          ],
+          "plot_and_concepts": [
+            "time-loop",
+            "philosophical-experiment",
+            "moral-dilemma",
+            "artificial-intelligence",
+            "simulation-theory"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "lighthearted",
+            "optimistic",
+            "quirky",
+            "philosophical"
+          ],
+          "genre_and_tropes": [
+            "comedy",
+            "sci-fi",
+            "found-family",
+            "sitcom",
+            "existential-comedy"
+          ],
+          "setting": [
+            "afterlife",
+            "utopia",
+            "artificial-environment",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "reluctant-hero",
+            "wise-mentor",
+            "flawed-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "good-place-neighborhood",
+            "janet-assistant",
+            "chidi-ethics-professor",
+            "tahani-philanthropist",
+            "jason-mendoza"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Good Place is a lighthearted and philosophical comedy series that explores themes of morality and redemption within a whimsical afterlife setting, challenging viewers to consider what it truly means to be a good person."
+      },
+      "duration_seconds": 64.42130589485168
+    }
+  }
+}

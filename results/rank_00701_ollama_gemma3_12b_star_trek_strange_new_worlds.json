@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Star Trek: Strange New Worlds",
+    "overview": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
+    "genres": [
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2022,
+    "vote_count": 406
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Star Trek: Strange New Worlds is a science fiction series that serves as a prequel to the original Star Trek, focusing on the adventures of Captain Christopher Pike and his crew aboard the U.S.S. Enterprise. The show blends episodic exploration with serialized character development, emphasizing optimistic exploration and a return to the classic Star Trek formula of diplomacy and discovery. It balances action and suspense with thoughtful examinations of morality and the challenges of interstellar contact, offering a hopeful vision of the future and a celebration of human potential. The series aims to recapture the spirit of the original while introducing new characters and storylines for a modern audience.",
+        "spoiler_rich_plot_summary": "The series begins with Captain Pike grappling with a premonition of his own death, a consequence of a past encounter with the mysterious creature known as the Guardian of Forever. Despite this knowledge, he embraces his command and leads the Enterprise on a mission of exploration and first contact. Throughout the initial seasons, the crew faces numerous challenges, including encounters with hostile alien civilizations, internal conflicts within the ship's hierarchy, and the ethical dilemmas inherent in interfering with developing cultures. Spock struggles with his dual Vulcan and human nature, while Number One navigates the complexities of leadership and ambition. Recurring storylines involve the exploration of Pike's past and the looming threat of the Guardian, forcing the crew to confront difficult choices and make sacrifices. The series explores themes of duty, sacrifice, and the enduring power of hope in the face of adversity, ultimately reaffirming the Federation's commitment to peaceful exploration and understanding.",
+        "categorized_keywords": {
+          "themes": [
+            "exploration",
+            "duty",
+            "sacrifice",
+            "hope",
+            "morality",
+            "first-contact",
+            "leadership",
+            "self-discovery"
+          ],
+          "plot_and_concepts": [
+            "time-travel",
+            "prequel",
+            "space-exploration",
+            "alien-encounters",
+            "federation-politics",
+            "mystery"
+          ],
+          "mood_and_tone": [
+            "optimistic",
+            "adventurous",
+            "thoughtful",
+            "hopeful",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "space-opera",
+            "found-family",
+            "episodic-adventure"
+          ],
+          "setting": [
+            "space",
+            "alternate-timeline",
+            "23rd-century",
+            "starship-enterprise"
+          ],
+          "character_archetypes": [
+            "heroic-captain",
+            "logical-officer",
+            "stoic-leader",
+            "enigmatic-alien"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "science-fiction-fans"
+          ],
+          "detail_plot": [
+            "starship-enterprise",
+            "tricorder",
+            "phaser",
+            "warp-drive",
+            "communicator"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Star Trek: Strange New Worlds is an optimistic science fiction series that blends episodic space exploration with serialized character development, emphasizing themes of duty, sacrifice, and hope as the crew of the starship Enterprise navigates the challenges of first contact and the vastness of the galaxy."
+      },
+      "duration_seconds": 67.99987697601318
+    }
+  }
+}

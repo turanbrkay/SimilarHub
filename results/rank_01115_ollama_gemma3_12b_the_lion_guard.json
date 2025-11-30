@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "The Lion Guard",
+    "overview": "Simba's son, Kion, assembles a group of animals to protect the Pride Lands, known as the Lion Guard.",
+    "genres": [
+      "Kids",
+      "Animation"
+    ],
+    "release_year": 2016,
+    "vote_count": 224
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Lion Guard is a Disney animated series that serves as a sequel and spin-off of The Lion King. Focused on themes of responsibility, teamwork, and protecting the natural order, the show follows Kion, Simba's son, as he establishes a team of young animals to safeguard the Pride Lands. Combining action-adventure with educational elements about the African savanna, the series offers a lighthearted and engaging experience for younger audiences, emphasizing the importance of courage, loyalty, and environmental stewardship. The show maintains a positive and uplifting tone, promoting values of friendship and community.",
+        "spoiler_rich_plot_summary": "The series begins with Kion discovering he possesses the roar of his father, Simba, a powerful ability that grants him the responsibility of protecting the Pride Lands. He forms the Lion Guard, a team consisting of Fuli the cheetah, Bunga the honey badger, Beshte the hippopotamus, and Ono the egret, each possessing unique skills vital for their mission. Throughout the series, the Lion Guard faces numerous threats, including Scar's followers seeking to reclaim the Pride Lands, rogue animals disrupting the ecosystem, and challenges to their leadership. Kion grapples with the weight of his responsibility and learns to balance his power with compassion. The Guard encounters various animal tribes and learns about the interconnectedness of the ecosystem, facing moral dilemmas and learning valuable lessons about leadership and compromise. Ultimately, Kion must confront his own limitations and make difficult choices to ensure the safety and harmony of the Pride Lands, demonstrating the enduring legacy of his father and the importance of passing on the mantle of responsibility.",
+        "categorized_keywords": {
+          "themes": [
+            "responsibility",
+            "teamwork",
+            "leadership",
+            "friendship",
+            "courage",
+            "loyalty",
+            "environmental-protection",
+            "coming-of-age"
+          ],
+          "plot_and_concepts": [
+            "animal-adventure",
+            "legacy-sequel",
+            "coming-of-age-story",
+            "protecting-the-balance",
+            "animal-tribes"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "uplifting",
+            "positive",
+            "adventurous"
+          ],
+          "genre_and_tropes": [
+            "kids-animation",
+            "animal-protagonist",
+            "found-family",
+            "coming-of-age-story"
+          ],
+          "setting": [
+            "african-savanna",
+            "pride-lands",
+            "natural-habitat"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "loyal-companion",
+            "wise-mentor",
+            "strong-female-character"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-adventure"
+          ],
+          "target_audience": [
+            "young-children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "lion-guard",
+            "roar-power",
+            "honey-badger",
+            "egret-vision"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Lion Guard is a lighthearted and adventurous kids' animation series set in the African savanna, where a young lion learns about responsibility and leadership while protecting the Pride Lands with the help of his loyal animal companions."
+      },
+      "duration_seconds": 66.74836587905884
+    }
+  }
+}

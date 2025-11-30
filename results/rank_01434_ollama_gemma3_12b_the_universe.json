@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "The Universe",
+    "overview": "From the planets to the stars and out to the edge of the unknown, history and science collide in a wondrous yet deadly adventure through space and time.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2007,
+    "vote_count": 156
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Universe is a documentary series that explores the vastness and mysteries of space, blending historical accounts of astronomical discovery with cutting-edge scientific explanations. The series aims to convey the scale of the cosmos and humanity's ongoing quest to understand our place within it, often highlighting the challenges and risks associated with space exploration. Through stunning visuals and expert commentary, it offers a compelling journey through the universe, prompting reflection on our existence and the potential for future discoveries. The tone is largely awe-inspiring and contemplative, balancing scientific rigor with a sense of wonder. It appeals to a broad audience interested in science, history, and the exploration of the unknown.",
+        "spoiler_rich_plot_summary": "The series begins by charting the history of astronomical observation, from ancient civilizations tracking the stars to the development of modern telescopes. It then delves into the formation of galaxies, stars, and planets, explaining complex astrophysical processes in accessible terms. A significant portion of the series is dedicated to exploring the search for extraterrestrial life, examining potential habitats and the challenges of interstellar travel. The narrative follows the evolution of our understanding of the universe, from geocentric models to the Big Bang theory, and the ongoing efforts to unravel its remaining enigmas. The series culminates in a discussion of the future of space exploration, including the possibility of colonizing other planets and the search for new forms of energy. Throughout, the series emphasizes the collaborative nature of scientific discovery and the importance of continued investment in space research.",
+        "categorized_keywords": {
+          "themes": [
+            "scientific-discovery",
+            "exploration",
+            "human-existence",
+            "cosmic-perspective",
+            "time-and-space"
+          ],
+          "plot_and_concepts": [
+            "big-bang-theory",
+            "astrophysics",
+            "interstellar-travel",
+            "extraterrestrial-life",
+            "telescopes"
+          ],
+          "mood_and_tone": [
+            "awe-inspiring",
+            "contemplative",
+            "educational",
+            "epic",
+            "wonder"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "science-documentary",
+            "space-exploration"
+          ],
+          "setting": [
+            "universe",
+            "outer-space",
+            "earth",
+            "galaxies"
+          ],
+          "character_archetypes": [
+            "scientist",
+            "astronomer",
+            "explorer"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "historical-account"
+          ],
+          "target_audience": [
+            "general-audience",
+            "science-enthusiasts"
+          ],
+          "detail_plot": [
+            "nebula",
+            "black-hole",
+            "satellite",
+            "rocket",
+            "constellation"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Universe is an awe-inspiring documentary series that explores the vastness of space, charting the history of scientific discovery and prompting reflection on humanity's place within the cosmos."
+      },
+      "duration_seconds": 66.09374332427979
+    }
+  }
+}

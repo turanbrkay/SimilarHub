@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Renegade",
+    "overview": "Framed for murder, Detective Reno Raines becomes a fugitive bounty hunter who fights crime while trying to clear his name. His troubles began after he testified about police corruption, leading Lt. Donald Dixon to set him up.",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Crime"
+    ],
+    "release_year": 1992,
+    "vote_count": 94
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Renegade is a 1990s action-drama series centered on Reno Raines, a former Los Angeles detective wrongly accused of murder. Forced to operate as a bounty hunter, Raines navigates a world of crime and corruption while relentlessly pursuing the truth behind his framing. The series blends action sequences with a strong moral compass, exploring themes of justice, loyalty, and the complexities of the legal system. It offers a blend of thrilling chases and character-driven drama, appealing to audiences who enjoy action with a focus on personal redemption.",
+        "spoiler_rich_plot_summary": "The series begins with Reno Raines, a decorated detective, testifying against corrupt officers within the LAPD. Lieutenant Donald Dixon, implicated in the corruption scandal, frames Raines for murder to silence him and protect his own interests. Now a fugitive, Raines adopts the persona of a bounty hunter, using his skills to track down criminals while simultaneously investigating the conspiracy that led to his downfall. Throughout the series, Raines encounters a diverse cast of characters, some allies, some adversaries, as he unravels the web of deceit surrounding his case. He faces numerous challenges, including relentless pursuit by law enforcement and confrontations with dangerous criminals, all while maintaining his commitment to justice. As he gets closer to exposing Dixon and the corrupt officers, the stakes become increasingly high, leading to intense confrontations and near misses. While he never fully clears his name in the eyes of the law, he consistently brings criminals to justice and exposes corruption, ultimately becoming a symbol of hope for those wronged by the system.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "corruption",
+            "redemption",
+            "loyalty",
+            "revenge",
+            "moral-ambiguity"
+          ],
+          "plot_and_concepts": [
+            "bounty-hunter",
+            "wrongful-accusation",
+            "police-corruption",
+            "conspiracy",
+            "vigilante-justice"
+          ],
+          "mood_and_tone": [
+            "action-packed",
+            "gritty",
+            "suspenseful",
+            "dark",
+            "heroic"
+          ],
+          "genre_and_tropes": [
+            "action-drama",
+            "crime-procedural",
+            "police-thriller",
+            "fish-out-of-water",
+            "lone-wolf"
+          ],
+          "setting": [
+            "los-angeles",
+            "1990s",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "vigilante",
+            "corrupt-official",
+            "reluctant-hero",
+            "moral-gray-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "bounty-hunter-truck",
+            "police-badge",
+            "courtroom-scene",
+            "wanted-poster"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "police-brutality"
+          ]
+        },
+        "keyword_sentence": "Renegade is a gritty 1990s action-drama series following a wrongfully accused detective who becomes a bounty hunter, battling police corruption and seeking redemption in the urban landscape of Los Angeles."
+      },
+      "duration_seconds": 70.35674238204956
+    }
+  }
+}

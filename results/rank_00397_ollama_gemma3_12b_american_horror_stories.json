@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "American Horror Stories",
+    "overview": "An anthology series of stand alone episodes delving into horror myths, legends and lore.",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2021,
+    "vote_count": 753
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "American Horror Stories is an anthology horror series that presents self-contained episodes exploring various horror myths, legends, and folklore. Each installment offers a unique narrative, distinct from the overarching storylines of the main 'American Horror Story' franchise. The series aims to deliver intense scares and unsettling themes, often blending psychological horror with supernatural elements. While maintaining the signature style of the 'American Horror Story' brand, the anthology format allows for greater creative freedom and experimentation with different subgenres and storytelling approaches. The series caters to fans of horror seeking a diverse range of terrifying experiences.",
+        "spoiler_rich_plot_summary": "American Horror Stories distinguishes itself from its parent series by presenting entirely new, self-contained narratives each episode. The first season explores a wide range of horror concepts, from a cursed radio station to a haunted doll and a vengeful ghost. Episodes often feature complex themes of guilt, trauma, and the consequences of unchecked ambition. While individual stories may involve supernatural entities or paranormal events, the underlying focus is often on the human characters and their struggles against forces beyond their control. The anthology format allows for a rapid shift in tone and setting, presenting viewers with a constantly evolving landscape of terror. The series concludes each season with a final, often unsettling, resolution to the immediate threat, leaving a lingering sense of dread and the possibility of future hauntings.",
+        "categorized_keywords": {
+          "themes": [
+            "supernatural-horror",
+            "guilt",
+            "trauma",
+            "vengeance",
+            "haunting",
+            "folklore",
+            "urban-legends"
+          ],
+          "plot_and_concepts": [
+            "anthology-series",
+            "haunted-objects",
+            "ghost-stories",
+            "cursed-items",
+            "paranormal-investigation"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "suspenseful",
+            "creepy",
+            "unsettling",
+            "psychological-horror"
+          ],
+          "genre_and_tropes": [
+            "horror",
+            "anthology",
+            "supernatural",
+            "mystery"
+          ],
+          "setting": [
+            "modern-day",
+            "urban-settings",
+            "various-locations"
+          ],
+          "character_archetypes": [
+            "victim",
+            "investigator",
+            "haunted-individual"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "self-contained-episodes"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "horror-fans"
+          ],
+          "detail_plot": [
+            "haunted-house",
+            "cursed-radio",
+            "vintage-doll",
+            "ghostly-figure"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "disturbing-imagery",
+            "psychological-distress"
+          ]
+        },
+        "keyword_sentence": "American Horror Stories is a dark and suspenseful anthology series that explores various supernatural horror themes through self-contained episodes set in modern-day urban settings, often featuring disturbing imagery and psychological distress."
+      },
+      "duration_seconds": 81.82312345504761
+    }
+  }
+}

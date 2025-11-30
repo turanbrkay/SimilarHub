@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Gavin & Stacey",
+    "overview": "Gavin is an ordinary boy from Billericay, Essex. Stacey is an ordinary girl from Barry Island, South Wales. They’ve spoken on the phone every day at work for months but they’ve never actually met… until now.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2007,
+    "vote_count": 90
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Gavin & Stacey is a British comedy-drama series that explores the lives of two young people from different parts of the UK, Gavin from Essex and Stacey from Wales, as they navigate relationships, family dynamics, and cultural differences. The series blends humor with heartfelt moments, portraying the challenges and joys of modern life through a relatable and often quirky lens. It's a character-driven show that emphasizes the importance of connection and belonging, offering a warm and optimistic portrayal of everyday experiences.",
+        "spoiler_rich_plot_summary": "The series begins with Gavin, an unassuming young man from Essex, and Stacey, a spirited girl from Barry Island, Wales, developing a phone relationship while working at a call center. Their burgeoning connection is complicated by the interference of their families, who represent contrasting cultural backgrounds and comedic styles. As Gavin and Stacey begin a long-distance relationship, they face the challenges of maintaining their connection while dealing with the eccentricities of their respective families, including Gavin’s boisterous and often chaotic relatives and Stacey’s close-knit and equally quirky Welsh clan. Over the seasons, their relationship deepens, leading to significant milestones such as engagement and marriage. The series explores the complexities of family life, career aspirations, and the evolving dynamics between the two families, culminating in a heartwarming and bittersweet conclusion that reflects the enduring power of love and connection.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "cultural-differences",
+            "long-distance-relationship",
+            "love",
+            "friendship",
+            "growing-up"
+          ],
+          "plot_and_concepts": [
+            "romance",
+            "situational-comedy",
+            "ensemble-cast",
+            "fish-out-of-water"
+          ],
+          "mood_and_tone": [
+            "warm",
+            "humorous",
+            "heartwarming",
+            "lighthearted"
+          ],
+          "genre_and_tropes": [
+            "romantic-comedy",
+            "british-humor",
+            "found-family"
+          ],
+          "setting": [
+            "essex",
+            "wales",
+            "barry-island",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "everyman",
+            "quirky-family",
+            "relatable-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "phone-call",
+            "wedding-planning",
+            "christmas-dinner",
+            "welsh-cake"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Gavin & Stacey is a heartwarming British romantic comedy that explores the challenges and joys of a long-distance relationship between two young people from different cultural backgrounds, set against the backdrop of quirky families and everyday life."
+      },
+      "duration_seconds": 60.81621837615967
+    }
+  }
+}

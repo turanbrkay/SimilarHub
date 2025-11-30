@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Adventures of Sonic the Hedgehog",
+    "overview": "Follow the adventures of Sonic the Hedgehog, and his sidekick Tails, as they attempt to stop Dr. Robotnik and his array of robots from taking over the planet Mobius.",
+    "genres": [
+      "Animation",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Comedy"
+    ],
+    "release_year": 1993,
+    "vote_count": 83
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Adventures of Sonic the Hedgehog is a vibrant, comedic animated series centered on Sonic's ongoing battles against the scheming Dr. Robotnik. The show blends action-adventure with lighthearted humor, targeting a younger audience with its fast-paced storytelling and colorful visuals. It emphasizes themes of friendship, courage, and the triumph of good over evil, offering a consistently upbeat and entertaining experience.",
+        "spoiler_rich_plot_summary": "The series primarily follows Sonic and Tails as they thwart Dr. Robotnik's increasingly elaborate schemes to conquer Mobius. Robotnik consistently builds elaborate robotic contraptions and attempts to capture Sonic, often with disastrous and comical results. Throughout the series, Sonic and Tails encounter various characters, both friendly and antagonistic, who contribute to the ongoing conflict. Robotnik's plans evolve from simple attempts at domination to more complex schemes involving advanced technology and manipulation. While Sonic and Tails consistently outsmart Robotnik, his persistent efforts create a constant state of chaos and adventure across Mobius. The series concludes with Robotnik’s continued schemes, ensuring a perpetual cycle of challenge and triumph for the heroic duo.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "courage",
+            "good-vs-evil",
+            "heroism",
+            "perseverance"
+          ],
+          "plot_and_concepts": [
+            "robotics",
+            "sci-fi-adventure",
+            "villain-schemes",
+            "chase-sequences",
+            "cartoon-physics"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "comedic",
+            "energetic",
+            "optimistic",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "cartoon",
+            "action-adventure",
+            "sci-fi",
+            "found-family",
+            "superhero"
+          ],
+          "setting": [
+            "mobius",
+            "fantasy-world",
+            "cartoon-city"
+          ],
+          "character_archetypes": [
+            "hero",
+            "sidekick",
+            "villain",
+            "mad-scientist"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story",
+            "monster-of-the-week"
+          ],
+          "target_audience": [
+            "children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "robotnik-lair",
+            "sonic-speed",
+            "tails-gadgets",
+            "mobius-landscape",
+            "cartoon-vehicles"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Adventures of Sonic the Hedgehog is a lighthearted cartoon series that follows a heroic duo as they battle a mad scientist in a vibrant, fantastical world, emphasizing themes of friendship and courage through episodic adventures."
+      },
+      "duration_seconds": 57.64907479286194
+    }
+  }
+}

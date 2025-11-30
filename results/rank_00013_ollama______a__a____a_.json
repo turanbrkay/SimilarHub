@@ -1,0 +1,108 @@
+{
+  "input_data": {
+    "title": "The Mandalorian",
+    "overview": "After the fall of the Galactic Empire, lawlessness has spread throughout the galaxy. A lone gunfighter makes his way through the outer reaches, earning his keep as a bounty hunter.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Drama"
+    ],
+    "release_year": 2019,
+    "vote_count": 9353
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Set in the wake of the Galactic Empire’s collapse, The Mandalorian follows a solitary bounty hunter, Din Djarin, as he roams the outer reaches of the Star Wars galaxy. The series fuses a gritty space‑western aesthetic with a strict warrior code, framing the protagonist’s reluctant guardianship of a mysterious child, Grogu, who becomes the emotional core of the narrative. Through encounters with remnants of the Empire, Jedi, and alien cultures, the show explores themes of honor, identity, survival, and the bonds that transcend species. Its blend of action, drama, and subtle humor creates a tense yet hopeful tone that has become a defining chapter of contemporary Star Wars storytelling.",
+        "spoiler_rich_plot_summary": "In the first season, Din Djarin is hired to retrieve a prized asset from a rival bounty hunter, but the target turns out to be a child from a mysterious species, later revealed to be Grogu. He reluctantly protects the child, evading a coalition of bounty hunters and a sinister Imperial agent, and ultimately delivers Grogu to a Jedi, only to be betrayed by the Jedi who attempts to use the child’s Force sensitivity. Din escapes with Grogu, who is later rescued by a group of Mandalorians and taken to a secretive sanctuary, where he learns of a hidden droid that can help him find a way to save the child. In season two, Din travels to Tatooine, encountering the legendary Boba Fett, who offers to help him find a Jedi capable of training Grogu. After a series of trials, Din meets a Jedi, Yoda, who refuses to train the child, leading to a confrontation with a group of Imperial agents. The season ends with Din and Grogu escaping to a remote planet, where they are pursued by a new threat, the Reapers, who seek the child’s power. Season three sees Din and Grogu on a desperate quest to find a new Jedi, encountering a group of Mandalorians who believe the child is a key to their future. They travel to a distant world, where Din confronts a former ally turned adversary, and a new alliance with a mysterious figure from the Outer Rim is forged. The season culminates in a cliffhanger where the child is taken by a group of Mandalorians, leaving Din and his allies scrambling to rescue him as the series remains ongoing.",
+        "categorized_keywords": {
+          "themes": [
+            "code-of-honor",
+            "parenthood",
+            "identity-crisis",
+            "survival",
+            "family",
+            "moral-ambiguity",
+            "spirituality"
+          ],
+          "plot_and_concepts": [
+            "bounty-hunting",
+            "mando-armor",
+            "child-protection",
+            "droid-technology",
+            "rebel-alliance",
+            "imperial-relics",
+            "jedi",
+            "sith",
+            "force",
+            "star-wars-universe",
+            "space-travel",
+            "alien-encounters"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "noir",
+            "adventure",
+            "hopeful",
+            "mysterious"
+          ],
+          "genre_and_tropes": [
+            "space-western",
+            "action-adventure",
+            "post-empire",
+            "hero-journey",
+            "bounty-hunter",
+            "guardian-hero",
+            "family-quest"
+          ],
+          "setting": [
+            "outer-reaches",
+            "galaxy",
+            "post-empire",
+            "remote-planet",
+            "star-wars-universe",
+            "dune-like-desert",
+            "space-ports",
+            "alien-worlds"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "mentor",
+            "prodigy",
+            "child-protector",
+            "mysterious-mercenary",
+            "loyal-ally",
+            "villainous-bounty-hunter",
+            "droid"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic",
+            "slow-burn",
+            "action-driven"
+          ],
+          "target_audience": [
+            "mature-audiences",
+            "family-friendly",
+            "science-fiction-fans",
+            "star-wars-fans"
+          ],
+          "detail_plot": [
+            "the child known as Grogu",
+            "the use of the 3D-printed Mando armor",
+            "the recurring motif of the Mandalorian creed and the Darksaber",
+            "the presence of Jedi and Force themes",
+            "the appearance of Boba Fett and the Imperial remnants",
+            "the Tatooine-like desert planet setting",
+            "the protective bond between Din and Grogu",
+            "the quest for a new Jedi to train Grogu",
+            "the use of droid technology to navigate the galaxy",
+            "the cliffhanger involving the child being taken by a group of Mandalorians"
+          ]
+        },
+        "keyword_sentence": "The Mandalorian blends a gritty space‑western adventure with a lone bounty hunter bound by a strict code, who protects a mysterious child in a post‑Empire Star Wars galaxy, weaving themes of honor, survival, and family into action‑driven, serialized storytelling."
+      },
+      "duration_seconds": 188.98980069160461
+    }
+  }
+}

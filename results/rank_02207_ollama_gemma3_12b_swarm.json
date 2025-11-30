@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "Swarm",
+    "overview": "A young woman's obsession with a pop star takes a dark turn.",
+    "genres": [
+      "Drama",
+      "Crime",
+      "Comedy"
+    ],
+    "release_year": 2023,
+    "vote_count": 82
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Swarm is a darkly comedic psychological thriller exploring the dangers of obsessive fandom and the blurred lines between reality and delusion. The series follows a young woman whose devotion to a pop star spirals into increasingly disturbing and violent behavior. It blends elements of crime drama, psychological horror, and satire, offering a provocative commentary on celebrity culture and the intensity of online communities. The narrative is characterized by its unsettling tone, unpredictable plot twists, and a protagonist whose actions challenge conventional morality.",
+        "spoiler_rich_plot_summary": "The series centers on Dre, a young woman consumed by her unwavering loyalty to Ni'Jah, a pop star reminiscent of Beyoncé. Dre and her foster brother, Marshall, live a relatively isolated life, their existence revolving entirely around Ni'Jah's music and online presence. When Marshall dies unexpectedly, Dre's grief and obsession with Ni'Jah intensify, leading her to embark on a cross-country road trip. Under the guise of attending Ni'Jah's concerts, Dre systematically hunts down and eliminates individuals she perceives as disrespecting or harming Ni'Jah's image. As she travels, Dre adopts various identities and manipulates those around her, blurring the lines between her true self and the persona she creates to carry out her vengeful acts. The series culminates in a confrontation with the source of Dre’s obsession, revealing the complex and traumatic origins of her devotion and the devastating consequences of unchecked fanaticism.",
+        "categorized_keywords": {
+          "themes": [
+            "obsession",
+            "fandom",
+            "grief",
+            "revenge",
+            "identity-crisis",
+            "celebrity-culture",
+            "mental-health",
+            "trauma"
+          ],
+          "plot_and_concepts": [
+            "road-trip",
+            "revenge-thriller",
+            "impersonation",
+            "stalking",
+            "pop-star-mania"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "unsettling",
+            "psychological-horror",
+            "satirical",
+            "tense"
+          ],
+          "genre_and_tropes": [
+            "crime-thriller",
+            "psychological-drama",
+            "satire",
+            "revenge-story"
+          ],
+          "setting": [
+            "modern-day",
+            "american-south",
+            "american-midwest",
+            "tour-bus"
+          ],
+          "character_archetypes": [
+            "unstable-protagonist",
+            "obsessive-fan",
+            "anti-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "pop-concert",
+            "fake-id",
+            "rental-car",
+            "social-media"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "sexual-content",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "Swarm is a darkly comic psychological thriller set in modern America, exploring the dangers of obsessive fandom and the blurred lines between reality and delusion as a young woman’s grief and revenge spiral out of control."
+      },
+      "duration_seconds": 65.20256638526917
+    }
+  }
+}

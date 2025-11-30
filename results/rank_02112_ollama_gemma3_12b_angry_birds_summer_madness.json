@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Angry Birds: Summer Madness",
+    "overview": "Teen birds Red, Chuck, Bomb and Stella are crashing through Camp Splinterwood with their fellow feathered campers for a summer of high-flying hijinks!",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Kids",
+      "Action & Adventure"
+    ],
+    "release_year": 2022,
+    "vote_count": 88
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Angry Birds: Summer Madness is a comedic animated series geared towards a younger audience, blending action-adventure elements with lighthearted humor. The show follows a group of teenage birds as they navigate the challenges and excitement of summer camp. It emphasizes friendship, teamwork, and overcoming obstacles through playful antics and energetic scenarios. The series aims to provide entertaining and engaging content for families and young children, delivering a mix of slapstick comedy and adventurous storytelling.",
+        "spoiler_rich_plot_summary": "The series revolves around Red, Chuck, Bomb, and Stella, a group of teenage birds attending Camp Splinterwood for the summer. Each episode typically features a new challenge or competition, often instigated by the camp director or rival groups of birds. These challenges range from building elaborate structures to participating in wacky games, all while dealing with typical teenage drama and interpersonal conflicts. Throughout the summer, the birds learn valuable lessons about friendship, cooperation, and embracing their individual strengths. While the series maintains a lighthearted tone, underlying tensions and rivalries between the birds create opportunities for comedic misunderstandings and unexpected twists. The overarching narrative focuses on the birds' journey of self-discovery and their ability to overcome obstacles together, culminating in a final summer event that tests their bonds and celebrates their growth.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "teamwork",
+            "coming-of-age",
+            "summer-camp",
+            "self-discovery"
+          ],
+          "plot_and_concepts": [
+            "competition",
+            "rivalry",
+            "slapstick-comedy",
+            "adventure-storytelling"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "humorous",
+            "energetic",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "comedy",
+            "kids-tv",
+            "action-adventure",
+            "found-family"
+          ],
+          "setting": [
+            "summer-camp",
+            "forest-setting",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "teenager",
+            "leader",
+            "comedic-relief"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "kids",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "camp-counselors",
+            "summer-activities",
+            "forest-trails",
+            "campground"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Angry Birds: Summer Madness is a lighthearted animated comedy series for kids and families, following a group of teenage birds as they navigate the challenges and adventures of summer camp through friendship and teamwork."
+      },
+      "duration_seconds": 58.43241834640503
+    }
+  }
+}

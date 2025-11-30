@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "Diagnosis: Murder",
+    "overview": "Dr. Mark Sloan is a good-natured, offbeat physician who is called upon to solve murders.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 1993,
+    "vote_count": 91
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Diagnosis: Murder is a procedural drama series centered on Dr. Mark Sloan, a physician who frequently assists the police in solving murder cases. The show blends medical drama with crime investigation, offering a lighter, more humorous take on the genre compared to darker crime shows. It emphasizes character relationships and problem-solving, with a focus on the interplay between medical expertise and detective work. The series is known for its ensemble cast and its ability to balance suspense with moments of levity, creating an accessible and engaging viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Dr. Mark Sloan, a successful and compassionate physician, inadvertently stumbling upon clues related to a murder case. Recognizing his aptitude for investigation, he begins to collaborate with his son, Steve Sloan, a detective with the Los Angeles Police Department, and his colleagues, including medical examiner Dr. Michael Cahill. Throughout the series, Mark's medical knowledge proves invaluable in unraveling complex cases, often involving intricate motives and unexpected suspects. Recurring storylines involve Steve's career progression within the police force, and the evolving relationships between the Sloan family and their professional associates. While the show maintains a generally optimistic tone, it explores themes of justice, loss, and the challenges of balancing personal and professional lives. The series evolves to include a spin-off, 'Murder, She Wrote', further expanding the universe and showcasing the enduring appeal of amateur sleuths.",
+        "categorized_keywords": {
+          "themes": [
+            "medical-ethics",
+            "family-relationships",
+            "justice",
+            "crime-solving",
+            "professional-integrity"
+          ],
+          "plot_and_concepts": [
+            "medical-mystery",
+            "police-investigation",
+            "amateur-sleuth",
+            "crime-procedural"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "humorous",
+            "optimistic",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "medical-drama",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "los-angeles",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "physician",
+            "detective",
+            "medical-examiner",
+            "family-man"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "medical-records",
+            "crime-scene",
+            "police-badge",
+            "autopsy-table"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Diagnosis: Murder is a lighthearted and optimistic crime-procedural set in Los Angeles, blending medical drama with police investigation through the lens of a compassionate physician and his detective son."
+      },
+      "duration_seconds": 60.21350073814392
+    }
+  }
+}

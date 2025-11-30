@@ -1,0 +1,70 @@
+{
+  "input_data": {
+    "title": "Pocoyo",
+    "overview": "Fun-loving Pocoyo is curious about absolutely everything, and he loves to play and explore with his companions.",
+    "genres": [
+      "Animation",
+      "Family"
+    ],
+    "release_year": 2005,
+    "vote_count": 431
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Pocoyo is a Spanish animated series designed for very young children, focusing on simple concepts and interactive learning through play. The show utilizes a minimalist aesthetic and features a small cast of characters who engage in imaginative scenarios. Its primary goal is to entertain while subtly introducing basic vocabulary and problem-solving skills. The series fosters a sense of wonder and encourages active participation from the audience. Pocoyo's gentle humor and positive messaging make it a popular choice for preschool-aged viewers.",
+        "spoiler_rich_plot_summary": "The series revolves around Pocoyo, a young boy who explores his world with his friends Elpido the dog, Chirus the cat, and Lou. Each episode typically begins with Pocoyo asking a question or encountering a situation that requires exploration. The characters then embark on a playful journey, often involving games and simple tasks that teach basic concepts like colors, shapes, and numbers. While there isn't a traditional overarching plot, recurring themes of friendship, curiosity, and learning are consistently present. The episodes conclude with a sense of accomplishment and reinforce the importance of play and discovery. The series maintains a consistent tone and format throughout its run, focusing on continuous learning and positive interaction.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "learning",
+            "curiosity",
+            "imagination",
+            "play"
+          ],
+          "plot_and_concepts": [
+            "interactive-learning",
+            "problem-solving",
+            "early-childhood-education"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "gentle",
+            "playful",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "childrens-animation",
+            "educational-tv",
+            "preschool-show"
+          ],
+          "setting": [
+            "simple-environment",
+            "stylized-world"
+          ],
+          "character_archetypes": [
+            "innocent-protagonist",
+            "loyal-companion",
+            "playful-pet"
+          ],
+          "narrative_style": [
+            "episodic",
+            "minimalist"
+          ],
+          "target_audience": [
+            "preschool-audience",
+            "young-children"
+          ],
+          "detail_plot": [
+            "colorful-shapes",
+            "simple-backgrounds",
+            "animated-characters"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Pocoyo is a gentle and playful children's animation series that fosters learning and imagination through simple stories and colorful characters."
+      },
+      "duration_seconds": 46.46484732627869
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "Frozen Planet",
+    "overview": "David Attenborough travels to the end of the earth, taking viewers on an extraordinary journey across the polar regions of our planet.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2011,
+    "vote_count": 223
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Frozen Planet is a visually stunning nature documentary series that explores the extreme environments of the Arctic and Antarctic. Narrated by David Attenborough, the series showcases the incredible adaptations of wildlife in these harsh conditions, highlighting the beauty and fragility of polar ecosystems. Through breathtaking cinematography and insightful commentary, the series aims to educate viewers about the impact of climate change on these vital regions and the importance of conservation efforts. It offers a compelling blend of scientific exploration and emotional storytelling, fostering a sense of wonder and responsibility towards the planet.",
+        "spoiler_rich_plot_summary": "The series is structured around the seasonal cycles of the polar regions, showcasing the dramatic shifts in environment and the challenges faced by the wildlife. The first half focuses on the Arctic, depicting the impact of melting ice on polar bear hunting patterns and the struggles of walruses forced onto land due to disappearing sea ice. The second half transitions to Antarctica, revealing the vast penguin colonies, the intricate feeding habits of seals, and the colossal ice shelves that dominate the landscape. Throughout both regions, the series emphasizes the delicate balance of the ecosystems and the increasing threat posed by rising temperatures and human activity. While the series doesn't follow a traditional narrative arc with characters, it presents a powerful story of resilience and vulnerability in the face of environmental change, culminating in a stark portrayal of the potential consequences of inaction.",
+        "categorized_keywords": {
+          "themes": [
+            "environmental-conservation",
+            "climate-change",
+            "wildlife-adaptation",
+            "polar-regions",
+            "fragility-of-ecosystems"
+          ],
+          "plot_and_concepts": [
+            "seasonal-cycles",
+            "scientific-exploration",
+            "documentary-format",
+            "wildlife-photography"
+          ],
+          "mood_and_tone": [
+            "awe-inspiring",
+            "sobering",
+            "educational",
+            "visually-stunning"
+          ],
+          "genre_and_tropes": [
+            "nature-documentary",
+            "environmental-film"
+          ],
+          "setting": [
+            "arctic",
+            "antarctic",
+            "polar-regions",
+            "glaciers",
+            "ice-caps"
+          ],
+          "character_archetypes": [
+            "naturalist",
+            "environmental-advocate"
+          ],
+          "narrative_style": [
+            "observational-documentary"
+          ],
+          "target_audience": [
+            "general-audience",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "polar-bears",
+            "penguins",
+            "walruses",
+            "icebergs",
+            "glacier-calving"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Frozen Planet is a visually stunning nature documentary series that explores the fragile beauty and environmental challenges of the Arctic and Antarctic, highlighting the importance of conservation efforts in the face of climate change."
+      },
+      "duration_seconds": 58.083720445632935
+    }
+  }
+}

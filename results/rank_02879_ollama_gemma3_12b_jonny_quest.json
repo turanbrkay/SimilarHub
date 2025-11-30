@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Jonny Quest",
+    "overview": "Jonny Quest – often casually referred to as The Adventures of Jonny Quest – is an American animated science fiction adventure television series about a boy who accompanies his scientist father on extraordinary adventures. It was produced by Hanna-Barbera Productions for Screen Gems, and created and designed by comic book artist Doug Wildey.\n\nInspired by radio serials and comics in the action-adventure genre, it featured more realistic art, characters, and stories than Hanna-Barbera's previous cartoon programs. It was the first of several Hanna-Barbera action-based adventure shows – which would later include Space Ghost, The Herculoids, and Birdman and the Galaxy Trio – and ran on ABC in prime time on early Friday nights for one season in 1964–1965.",
+    "genres": [
+      "Action & Adventure",
+      "Animation"
+    ],
+    "release_year": 1964,
+    "vote_count": 52
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Jonny Quest is a classic animated action-adventure series following a young boy and his companions as they travel the globe with his scientist father. The show distinguishes itself with its more realistic art style and sophisticated storytelling compared to typical Hanna-Barbera cartoons of the era. It blends elements of science fiction, espionage, and exotic locales, offering a thrilling and often suspenseful experience for viewers. The series emphasizes themes of family, friendship, and the pursuit of knowledge, all while showcasing a sense of wonder and exploration.",
+        "spoiler_rich_plot_summary": "The series centers on Jonny Quest, a teenager who accompanies his widowed father, Dr. Jonathan Quest, a renowned scientist, on various assignments around the world. Alongside his loyal Irish Wolfhound Bandit, Jonny is protected by Race Bannon, a security expert and close friend of his father, and accompanied by Hadji Singh, a resourceful and intelligent young man from the Middle East. Their adventures often involve thwarting the schemes of villains like Dr. Zin, a recurring antagonist with a penchant for elaborate and dangerous plots. Throughout the series, Jonny matures and develops his skills, learning valuable lessons about responsibility and the importance of teamwork. While the specific missions vary, the overarching narrative focuses on the ongoing struggle between good and evil, with Jonny and his companions consistently working to protect the world from harm. The series concludes with the team successfully foiling Dr. Zin's latest scheme, reaffirming their commitment to safeguarding global security and continuing their extraordinary journeys.",
+        "categorized_keywords": {
+          "themes": [
+            "family-loyalty",
+            "friendship",
+            "adventure",
+            "espionage",
+            "scientific-discovery",
+            "good-vs-evil"
+          ],
+          "plot_and_concepts": [
+            "espionage-thriller",
+            "international-travel",
+            "scientific-mystery",
+            "villainous-schemes"
+          ],
+          "mood_and_tone": [
+            "adventurous",
+            "suspenseful",
+            "optimistic",
+            "exciting"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "spy-fiction",
+            "coming-of-age",
+            "buddy-cop"
+          ],
+          "setting": [
+            "global-travel",
+            "1960s",
+            "international-locations"
+          ],
+          "character_archetypes": [
+            "intelligent-protagonist",
+            "loyal-companion",
+            "skilled-mentor",
+            "resourceful-sidekick",
+            "eccentric-villain"
+          ],
+          "narrative_style": [
+            "episodic-adventure",
+            "serialized-elements"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "wolfhound",
+            "jet-plane",
+            "secret-laboratory",
+            "international-agents"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Jonny Quest is an adventurous and suspenseful action-adventure series, following a young boy and his companions as they travel the globe, thwarting villainous schemes and experiencing scientific discovery in a thrilling, family-friendly setting."
+      },
+      "duration_seconds": 60.83587598800659
+    }
+  }
+}

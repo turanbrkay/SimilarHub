@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "CSI: NY",
+    "overview": "Follow the investigations of a team of NYPD forensic scientists and police officers identified as \"Crime Scene Investigators\".",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2004,
+    "vote_count": 609
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "CSI: NY is a procedural crime drama that follows a team of forensic investigators in New York City as they meticulously analyze crime scenes to solve complex cases. The series blends police investigation with detailed scientific analysis, offering a blend of suspense and technical exposition. Each episode typically presents a self-contained mystery, showcasing the team's expertise in forensic science and their dedication to justice. While maintaining a familiar procedural format, the show distinguishes itself through its New York City setting and the unique perspectives of its investigators.",
+        "spoiler_rich_plot_summary": "The series begins with the introduction of the CSU team, led by Lieutenant Danny Messer, who is a former criminal himself. The team, including Grace Van Pelt, Mac Taylor, and others, investigates a variety of crimes, ranging from homicides to robberies, utilizing cutting-edge forensic techniques. Throughout the series, the team faces personal and professional challenges, including internal conflicts, external pressures from the NYPD, and the emotional toll of dealing with violent crime. Recurring storylines involve the team's relationships with each other, their families, and their interactions with the criminal justice system. As the series progresses, individual team members confront their pasts and grapple with moral dilemmas, while consistently striving to uphold the law and bring perpetrators to justice. The team faces betrayals, both from within and outside the department, and must navigate complex political landscapes to solve cases and maintain their integrity.",
+        "categorized_keywords": {
+          "themes": [
+            "crime-and-punishment",
+            "justice-system",
+            "teamwork",
+            "redemption",
+            "forensic-science"
+          ],
+          "plot_and_concepts": [
+            "crime-procedural",
+            "police-investigation",
+            "forensic-analysis",
+            "serial-crime",
+            "mystery-solving"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "procedural",
+            "dark",
+            "serious"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "procedural-drama",
+            "police-procedural"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "forensic-scientist",
+            "police-detective",
+            "criminal-profiler",
+            "team-leader"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "crime-scene",
+            "forensic-lab",
+            "evidence-collection",
+            "police-badge",
+            "fingerprint-analysis"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "crime-themes"
+          ]
+        },
+        "keyword_sentence": "CSI: NY is a suspenseful crime drama set in New York City, where a dedicated team of forensic scientists and police officers meticulously investigates crime scenes to solve complex mysteries and uphold the justice system."
+      },
+      "duration_seconds": 60.03860569000244
+    }
+  }
+}

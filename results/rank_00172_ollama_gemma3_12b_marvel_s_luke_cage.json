@@ -1,0 +1,87 @@
+{
+  "input_data": {
+    "title": "Marvel's Luke Cage",
+    "overview": "Given superstrength and durability by a sabotaged experiment, a wrongly accused man escapes prison to become a superhero for hire.",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Crime"
+    ],
+    "release_year": 2016,
+    "vote_count": 1574
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Marvel's Luke Cage is a superhero drama series that blends gritty crime procedural elements with a vibrant exploration of Black identity and community in Harlem. The series follows Luke Cage, a wrongly convicted man who gains superhuman strength and resilience, and must confront his past while protecting his neighborhood from corruption and violence. It's a character-driven story that examines themes of justice, redemption, and the complexities of heroism within a specific cultural context, offering a blend of action, social commentary, and compelling personal narratives.",
+        "spoiler_rich_plot_summary": "The series begins with Luke Cage's imprisonment for killing a man who abused his wife, Aliyah. While incarcerated, he is subjected to experiments by the Roxxon Corporation, granting him his superhuman abilities. After escaping, Luke becomes a reluctant hero, operating as a bodyguard and enforcer in Harlem. His past catches up to him in the form of Cornell Cottonmouth Stokes, a ruthless crime boss connected to the experiments that gave Luke his powers. Cottonmouth's operations threaten Harlem's community and expose Luke's history. As Luke battles Cottonmouth and his allies, he is joined by Misty Knight, a police detective investigating Cottonmouth's activities, and Claire Temple, a nurse with a mysterious past who becomes Luke's confidante and ally. The conflict escalates, drawing in other powerful figures like Diamondback, Cottonmouth’s sister and a formidable adversary with her own agenda. Luke confronts his past traumas and the systemic injustices that led to his imprisonment, ultimately striving to protect Harlem and its people from those who seek to exploit it. The series culminates in a showdown between Luke and Diamondback, forcing Luke to confront his deepest fears and embrace his role as a symbol of hope and resilience for the community.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "redemption",
+            "black-identity",
+            "community",
+            "corruption",
+            "superheroism",
+            "systemic-injustice",
+            "revenge"
+          ],
+          "plot_and_concepts": [
+            "superpowers",
+            "crime-procedural",
+            "revenge-plot",
+            "gang-war",
+            "corporate-conspiracy",
+            "found-family"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "dark",
+            "action-packed",
+            "hopeful",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "superhero-action",
+            "crime-drama",
+            "urban-noir",
+            "blaxploitation-influence"
+          ],
+          "setting": [
+            "harlem",
+            "new-york-city",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "anti-hero",
+            "femme-fatale",
+            "corrupt-politician",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "harlem-nightclub",
+            "police-station",
+            "superhero-fight",
+            "prison-cell"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "substance-abuse",
+            "gang-violence"
+          ]
+        },
+        "keyword_sentence": "Marvel’s Luke Cage is a gritty superhero drama set in Harlem, exploring themes of justice, community, and systemic injustice through a blend of action, crime procedural elements, and a powerful exploration of black identity."
+      },
+      "duration_seconds": 70.068434715271
+    }
+  }
+}

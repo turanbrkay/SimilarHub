@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Super Friends",
+    "overview": "The most powerful heroes ever--Superman, Wonder Woman, Aquaman, Batman and Robin--join forces with teenagers Wendy and Marvin and their dog, Marvel the Wonderdog, to defend justice and guard the innocent.",
+    "genres": [
+      "Animation",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1973,
+    "vote_count": 109
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Super Friends is an animated superhero anthology series that brings together DC Comics' most iconic characters in a format geared towards a younger audience. The show primarily focuses on episodic adventures where the Super Friends confront a variety of villains and threats to protect the world. It's a lighthearted and optimistic portrayal of heroism, emphasizing teamwork and the importance of fighting for what's right. While the individual episodes often feature self-contained narratives, a recurring sense of global responsibility and the ongoing battle between good and evil provides a unifying thread throughout the series. The show's appeal lies in its accessible action and the opportunity to see beloved heroes interacting in a consistently positive and encouraging environment.",
+        "spoiler_rich_plot_summary": "The series begins with the formation of the Super Friends, a team comprised of Superman, Batman, Wonder Woman, Aquaman, and Robin. They are joined by Wendy and Marvin, two teenagers who possess unique abilities and a strong desire to help. The team operates from the Hall of Justice, responding to distress calls from around the world. Recurring villains, such as Lex Luthor, Brainiac, and the Riddler, consistently pose significant challenges, requiring the Super Friends to combine their powers and strategies to overcome them. Throughout the series, the team faces threats ranging from alien invasions to elaborate schemes designed to destabilize governments. While the heroes experience setbacks and moments of doubt, their unwavering commitment to justice and their ability to work together ultimately prevails. The ongoing dynamic between the experienced heroes and the younger Wendy and Marvin fosters a sense of mentorship and growth, reinforcing the importance of passing on values and inspiring future generations to embrace heroism.",
+        "categorized_keywords": {
+          "themes": [
+            "good-vs-evil",
+            "teamwork",
+            "justice",
+            "heroism",
+            "responsibility",
+            "mentorship"
+          ],
+          "plot_and_concepts": [
+            "superhero-team",
+            "villain-of-the-week",
+            "alien-invasion",
+            "crime-fighting",
+            "mystery"
+          ],
+          "mood_and_tone": [
+            "optimistic",
+            "lighthearted",
+            "wholesome",
+            "family-friendly"
+          ],
+          "genre_and_tropes": [
+            "superhero-action",
+            "animated-series",
+            "found-family",
+            "childrens-entertainment"
+          ],
+          "setting": [
+            "hall-of-justice",
+            "earth",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "superhero",
+            "sidekick",
+            "mentor",
+            "villain"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "wonderdog",
+            "hall-of-justice",
+            "batmobile",
+            "superman-cape"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Super Friends is a lighthearted and optimistic animated series that celebrates teamwork and heroism as a group of iconic superheroes defend Earth from a variety of threats in a family-friendly episodic format."
+      },
+      "duration_seconds": 65.27232575416565
+    }
+  }
+}

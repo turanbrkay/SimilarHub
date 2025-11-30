@@ -1,0 +1,104 @@
+{
+  "input_data": {
+    "title": "Stranger Things",
+    "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Mystery"
+    ],
+    "release_year": 2016,
+    "vote_count": 16161
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Stranger Things weaves a nostalgic 1980s thriller about a tight-knit group of kids in the small town of Raccoon City who confront a terrifying government experiment that opens a portal to a dark parallel world. The series blends supernatural horror with heartfelt coming‑of‑age drama, as the friends battle a menacing entity while grappling with family secrets, friendship, and the loss of innocence. Its tone oscillates between eerie suspense and warm camaraderie, anchored by a relentless sense of hope and collective resilience.",
+        "spoiler_rich_plot_summary": "The first season follows the disappearance of young Will Byers, the discovery of a girl with telekinetic powers named Eleven, and the uncovering of a secret government laboratory that has created a gateway to a hostile dimension called the Upside Down. As the group of friends—Mike, Lucas, Dustin, and later Nancy and Jonathan—investigate, they confront the monstrous Mind Flayer, rescue Will from the dark realm, and witness Eleven’s sacrifice to close the portal. Season 2 expands the stakes with a new threat, the Russian‑run “Pennywise” entity, and the emergence of a new generation of kids who form a secret club, while Eleven’s powers wane and her past is revealed. Season 3 sees the town’s population trapped in a time‑loop created by a mysterious “Mind Flayer” cult, the return of the Upside Down’s influence, and the revelation that a new, more powerful entity—The Shadow—has taken over the town’s power plant, ultimately culminating in a battle that destroys the Upside Down’s influence in Raccoon City and restores the town’s normalcy. Season 4 confronts the looming threat of the Mind Flayer’s return, the emergence of a new portal in a neighboring town, and the ultimate showdown in a subterranean facility where the kids and their allies defeat the entity, but not without significant losses; the season ends with the town’s future uncertain and a teaser for a forthcoming season.",
+        "categorized_keywords": {
+          "themes": [
+            "childhood-friendship",
+            "government-cover-up",
+            "parallel-world",
+            "fear-of-unknown",
+            "family-dynamics",
+            "teen-rebellion",
+            "nostalgia",
+            "psychological-trauma",
+            "hope"
+          ],
+          "plot_and_concepts": [
+            "demon-hunt",
+            "upside-down",
+            "science-experiment",
+            "telekinesis",
+            "horror-mystery",
+            "mind-flayer",
+            "portal",
+            "radiation",
+            "mysterious-entity",
+            "child-protagonist"
+          ],
+          "mood_and_tone": [
+            "nostalgic",
+            "tense",
+            "dark",
+            "hopeful",
+            "whimsical",
+            "courageous"
+          ],
+          "genre_and_tropes": [
+            "sci-fi-fantasy",
+            "horror",
+            "teen-drama",
+            "found-family",
+            "enemies-to-lovers",
+            "supernatural",
+            "friendship",
+            "secret-organization"
+          ],
+          "setting": [
+            "1980s",
+            "small-town",
+            "raccoon-city",
+            "west-virginia"
+          ],
+          "character_archetypes": [
+            "hero",
+            "sidekick",
+            "mysterious-teen",
+            "villainous-entity",
+            "mentor",
+            "rebellious-teen",
+            "scientist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic",
+            "slow-burn",
+            "character-driven"
+          ],
+          "target_audience": [
+            "young-adult",
+            "mature-audiences",
+            "sci-fi-fans"
+          ],
+          "detail_plot": [
+            "red-portal",
+            "echoing-hallways",
+            "mysterious-vanishing",
+            "telekinetic-sightings",
+            "government-lab",
+            "mind-flayer-attack",
+            "time-loop",
+            "shadow-entity",
+            "subterranean-facility",
+            "teen-heroic-acts"
+          ]
+        },
+        "keyword_sentence": "Stranger Things blends 1980s nostalgia, teen friendship, and a secret government experiment that opens a portal to the Upside Down, featuring a telekinetic girl, a menacing mind‑flayer, and a serialized, character‑driven horror‑drama that explores themes of family dynamics, psychological trauma, and hope."
+      },
+      "duration_seconds": 131.1856725215912
+    }
+  }
+}

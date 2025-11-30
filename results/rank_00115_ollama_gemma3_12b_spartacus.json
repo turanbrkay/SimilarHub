@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Spartacus",
+    "overview": "Torn from his homeland and the woman he loves, Spartacus is condemned to the brutal world of the arena where blood and death are primetime entertainment.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2010,
+    "vote_count": 2192
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Spartacus is a historical drama series centered on a Thracian slave who leads a rebellion against the Roman Republic. The show is characterized by its intense action sequences, gritty realism, and exploration of themes of freedom, slavery, and revenge. It blends elements of action, political intrigue, and character-driven drama, offering a visceral and often brutal depiction of ancient Roman society and the fight for liberation. The series delves into complex moral ambiguities and the cost of rebellion, portraying a world where survival often depends on strength and cunning.",
+        "spoiler_rich_plot_summary": "The series begins with Spartacus, a Thracian warrior, and his wife Sura being captured by Romans and forced into slavery. They are sold to a lanista, Crixus, who trains them as gladiators at a ludus in Capua. Spartacus quickly rises through the ranks, demonstrating exceptional skill and leadership. After a tragic event involving Sura, Spartacus ignites a slave rebellion, escaping the ludus with a band of fellow gladiators, including Crixus, Gannicus, and Oenomao. The rebellion grows, attracting more slaves and challenging Roman authority. The series follows their battles against the Legions, led by various Roman commanders, including Titus Pullo, Lucius Metellus, and Gaius Marius. As the rebellion gains momentum, internal conflicts and betrayals emerge within the rebel ranks, testing their unity and resolve. The Roman Senate dispatches formidable generals to crush the uprising, leading to increasingly desperate and bloody confrontations. The rebellion's impact reverberates throughout Roman society, exposing corruption and challenging the foundations of the Republic. Ultimately, the rebellion faces overwhelming odds, and while it achieves significant victories, the cost is immense, and the fate of Spartacus and his followers remains uncertain, forever altering the course of Roman history.",
+        "categorized_keywords": {
+          "themes": [
+            "slavery",
+            "rebellion",
+            "freedom",
+            "revenge",
+            "political-corruption",
+            "social-justice",
+            "war",
+            "loyalty",
+            "betrayal"
+          ],
+          "plot_and_concepts": [
+            "gladiator-combat",
+            "slave-revolt",
+            "political-intrigue",
+            "military-campaign",
+            "epic-warfare"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "violent",
+            "dark",
+            "intense",
+            "epic"
+          ],
+          "genre_and_tropes": [
+            "historical-drama",
+            "action-adventure",
+            "war-epic",
+            "found-family"
+          ],
+          "setting": [
+            "ancient-rome",
+            "ancient-thrace",
+            "roman-empire"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "anti-hero",
+            "wise-mentor",
+            "ruthless-villain"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "gladiator-arena",
+            "roman-legion",
+            "thracian-sword",
+            "chariot-race",
+            "roman-senate"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "sexual-content"
+          ]
+        },
+        "keyword_sentence": "Set in the brutal world of ancient Rome, Spartacus is a gritty and intense historical drama series exploring themes of slavery, rebellion, and freedom through a sweeping narrative of war and political corruption."
+      },
+      "duration_seconds": 75.35066771507263
+    }
+  }
+}

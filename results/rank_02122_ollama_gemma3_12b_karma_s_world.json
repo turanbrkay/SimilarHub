@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Karma’s World",
+    "overview": "Talented singer and high school student Karma juggles rap dreams and rhyme schemes, using her talent, ambition and big heart to solve all kinds of problems.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Kids"
+    ],
+    "release_year": 2021,
+    "vote_count": 87
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Karma's World is a vibrant animated series centered on a young, aspiring rapper navigating the challenges of adolescence and family life. The show blends comedic elements with heartfelt moments, exploring themes of self-expression, creativity, and community. It aims to be a positive and empowering experience for young viewers, celebrating individuality and the power of music. The series emphasizes the importance of family, friendship, and pursuing one's dreams, offering a lighthearted and optimistic portrayal of growing up.",
+        "spoiler_rich_plot_summary": "The series follows Karma, a talented middle schooler with a passion for songwriting and rapping. She uses her music to express her feelings and to connect with her family and friends. The show begins with Karma struggling to find her place in her school and community, often feeling overshadowed by her older brother, Kai. Throughout the series, Karma faces typical adolescent challenges, including navigating friendships, dealing with school pressures, and understanding her family dynamics. She learns to embrace her unique voice and to use her music to inspire others. The series explores the complexities of family relationships, showcasing both the joys and the struggles of growing up within a close-knit community. Karma's journey is one of self-discovery and empowerment, as she learns to believe in herself and to pursue her dreams with confidence.",
+        "categorized_keywords": {
+          "themes": [
+            "self-expression",
+            "family-relationships",
+            "friendship",
+            "community",
+            "music-as-therapy",
+            "growing-up",
+            "perseverance"
+          ],
+          "plot_and_concepts": [
+            "coming-of-age-story",
+            "music-competition",
+            "school-life",
+            "sibling-rivalry"
+          ],
+          "mood_and_tone": [
+            "optimistic",
+            "heartwarming",
+            "lighthearted",
+            "positive"
+          ],
+          "genre_and_tropes": [
+            "family-comedy",
+            "animation",
+            "slice-of-life",
+            "coming-of-age"
+          ],
+          "setting": [
+            "modern-day",
+            "suburban-neighborhood",
+            "school-environment"
+          ],
+          "character_archetypes": [
+            "aspiring-artist",
+            "supportive-family",
+            "older-sibling",
+            "best-friend"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "kids",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "microphone",
+            "notebook",
+            "school-bus",
+            "family-dinner"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Karma’s World is a heartwarming animated series that celebrates family, friendship, and the power of music as a young artist navigates the joys and challenges of growing up in a close-knit community."
+      },
+      "duration_seconds": 62.0847544670105
+    }
+  }
+}

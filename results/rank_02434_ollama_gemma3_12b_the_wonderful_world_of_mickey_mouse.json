@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "The Wonderful World of Mickey Mouse",
+    "overview": "It's nothing but fun and excitement for Mickey and his best pals – Minnie, Donald, Daisy, Goofy and Pluto - as they embark on their greatest adventures yet, navigating the curveballs of a wild and zany world where the magic of Disney makes the impossible possible.",
+    "genres": [
+      "Animation",
+      "Family",
+      "Kids"
+    ],
+    "release_year": 2020,
+    "vote_count": 69
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Wonderful World of Mickey Mouse is a revival of the classic animated series, designed for a modern audience while retaining the charm and humor of the original. The show features Mickey Mouse and his friends in a series of short, episodic adventures, blending slapstick comedy with heartwarming themes of friendship and optimism. It aims to provide wholesome entertainment for young children and evoke nostalgia for older viewers familiar with the characters. The series emphasizes positive values and encourages imaginative play, offering a lighthearted and consistently cheerful viewing experience.",
+        "spoiler_rich_plot_summary": "The series primarily consists of standalone adventures where Mickey, Minnie, Donald, Daisy, Goofy, and Pluto encounter various challenges and whimsical situations. Episodes often involve problem-solving, teamwork, and embracing a positive attitude. While there isn't a continuous overarching narrative, recurring elements include visits to familiar locations like Mouseton and encounters with eccentric characters. The series focuses on celebrating friendship and community, with each episode reinforcing the importance of kindness and perseverance. The characters frequently face minor setbacks, but always overcome them through cooperation and a can-do spirit, ultimately reaffirming the enduring appeal of the Disney legacy.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "optimism",
+            "community",
+            "kindness",
+            "perseverance",
+            "wholesome-entertainment"
+          ],
+          "plot_and_concepts": [
+            "slapstick-comedy",
+            "problem-solving",
+            "episodic-adventures"
+          ],
+          "mood_and_tone": [
+            "cheerful",
+            "lighthearted",
+            "wholesome",
+            "playful"
+          ],
+          "genre_and_tropes": [
+            "animated-comedy",
+            "family-entertainment",
+            "childrens-show"
+          ],
+          "setting": [
+            "mouseton",
+            "animated-world"
+          ],
+          "character_archetypes": [
+            "optimistic-hero",
+            "loyal-friend",
+            "goofy-sidekick"
+          ],
+          "narrative_style": [
+            "episodic-storytelling",
+            "short-form-comedy"
+          ],
+          "target_audience": [
+            "young-children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "animated-characters",
+            "cartoon-setting",
+            "mickey-mouse-ears"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Wonderful World of Mickey Mouse is a cheerful animated series for young children and families, celebrating friendship and optimism through lighthearted, episodic adventures in a cartoon setting."
+      },
+      "duration_seconds": 52.47053146362305
+    }
+  }
+}

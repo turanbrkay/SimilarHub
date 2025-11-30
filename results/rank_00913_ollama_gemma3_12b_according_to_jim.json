@@ -1,0 +1,67 @@
+{
+  "input_data": {
+    "title": "According to Jim",
+    "overview": "According to Jim is an American sitcom television series starring Jim Belushi in the title role as a suburban father of three children. It originally ran on ABC from October 1, 2001 to June 2, 2009.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2001,
+    "vote_count": 289
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "According to Jim is a sitcom centered on the comedic clashes between a laid-back, immature man and his more responsible wife and family. The series explores the challenges of suburban life, marriage, and parenting through a lighthearted and often chaotic lens. It relies heavily on physical comedy and witty banter to create a familiar and comforting viewing experience, appealing to audiences seeking a feel-good, family-friendly sitcom. The show's longevity speaks to its ability to consistently deliver relatable situations and humorous observations about everyday life.",
+        "spoiler_rich_plot_summary": "The series begins with Jim Belushi's character, Jim, a man living a carefree bachelor lifestyle, unexpectedly finding himself married to Cheryl, a more organized and driven woman. The initial seasons focus on the culture clash between Jim's relaxed approach to life and Cheryl's desire for structure and responsibility. They navigate the challenges of raising three children, dealing with Jim's eccentric friends, and enduring the constant presence of Cheryl's parents, who frequently visit and offer unsolicited advice. Over time, Jim matures slightly, learning to appreciate Cheryl's efforts and becoming a more involved father. The series explores the evolving dynamics of their marriage, showcasing both humorous disagreements and moments of genuine affection. While Jim's core personality remains largely unchanged, the show depicts a gradual shift towards greater family unity and a deeper understanding of the responsibilities of adulthood. The series concludes with a sense of stability and contentment, suggesting a lasting commitment to family and a continued appreciation for the comedic chaos of suburban life.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "marriage-comedy",
+            "suburban-life",
+            "personal-growth",
+            "responsibility"
+          ],
+          "plot_and_concepts": [
+            "culture-clash",
+            "sitcom-formula",
+            "fish-out-of-water"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "family-comedy"
+          ],
+          "setting": [
+            "suburban-america",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "immature-protagonist",
+            "responsible-partner",
+            "eccentric-friend"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "family-dinner",
+            "lawn-mower",
+            "baseball-game",
+            "family-vacation"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "According to Jim is a lighthearted family comedy set in suburban America, exploring the humorous challenges of marriage and parenting through the antics of an immature protagonist and his responsible partner."
+      },
+      "duration_seconds": 55.7337806224823
+    }
+  }
+}

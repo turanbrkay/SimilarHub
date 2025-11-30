@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Mayday",
+    "overview": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of the incident based on cockpit voice recorders and air traffic control transcripts, as well as eyewitnesses recounts and interviews with aviation experts.",
+    "genres": [
+      "Documentary",
+      "Drama"
+    ],
+    "release_year": 2003,
+    "vote_count": 226
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Mayday is a documentary series that reconstructs major air disasters through dramatic reenactments and expert analysis. Each episode meticulously examines the events leading up to the crash, utilizing cockpit voice recordings, air traffic control transcripts, and eyewitness accounts to provide a comprehensive understanding of the tragedy. The series aims to educate viewers about aviation safety and the complexities of air travel while honoring the victims and their families. It blends factual reporting with dramatic storytelling to create a compelling and often harrowing viewing experience, emphasizing the fragility of human systems and the importance of rigorous safety protocols.",
+        "spoiler_rich_plot_summary": "Each episode of Mayday focuses on a specific air disaster, beginning with the initial flight preparations and progressing through the critical moments leading to the catastrophic event. The series meticulously recreates the sequence of events, often highlighting mechanical failures, human error, or adverse weather conditions that contributed to the crash. Expert interviews with aviation specialists and investigators provide context and analysis, explaining the technical aspects of the disaster and the subsequent investigations. The narrative typically follows the timeline of the flight, detailing the crew's actions, the passengers' experiences, and the unfolding crisis. While the outcome is known from the outset, the series builds suspense by revealing the chain of events that led to the inevitable tragedy, culminating in the crash and its aftermath. The focus remains on understanding the causes and lessons learned from each disaster, rather than sensationalizing the event itself.",
+        "categorized_keywords": {
+          "themes": [
+            "aviation-safety",
+            "human-error",
+            "tragedy",
+            "investigation",
+            "loss",
+            "resilience"
+          ],
+          "plot_and_concepts": [
+            "disaster-reconstruction",
+            "cockpit-voice-recorder",
+            "air-traffic-control",
+            "mechanical-failure",
+            "investigative-journalism"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "serious",
+            "informative",
+            "respectful",
+            "tense"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "true-crime",
+            "disaster-drama"
+          ],
+          "setting": [
+            "aviation",
+            "modern-day",
+            "global"
+          ],
+          "character_archetypes": [
+            "expert-witness",
+            "investigator",
+            "pilot",
+            "air-traffic-controller"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "investigative-report"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "aviation-enthusiasts"
+          ],
+          "detail_plot": [
+            "cockpit-recording",
+            "flight-simulator",
+            "crash-site",
+            "black-box"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "emotional-distress"
+          ]
+        },
+        "keyword_sentence": "Mayday is a somber documentary series that investigates major air disasters through dramatic reconstructions and expert analysis, highlighting the complexities of aviation safety and the profound impact of tragedy."
+      },
+      "duration_seconds": 61.81768822669983
+    }
+  }
+}

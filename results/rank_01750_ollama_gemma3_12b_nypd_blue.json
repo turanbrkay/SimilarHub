@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "NYPD Blue",
+    "overview": "Police drama set in New York City, exploring the internal and external struggles of the fictional 15th precinct of Manhattan. Each episode typically intertwined several plots involving an ensemble cast.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 1993,
+    "vote_count": 118
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "NYPD Blue is a gritty and realistic police procedural that redefined the genre with its raw depiction of law enforcement in New York City. The series focuses on the complex relationships within a police precinct, exploring moral ambiguities and the personal toll of the job. Known for its innovative camera work and willingness to push boundaries, NYPD Blue blends procedural elements with character-driven drama, offering a nuanced portrayal of both the officers and the criminals they encounter. The show’s focus on internal conflicts and the challenges of maintaining integrity in a corrupt system creates a consistently tense and engaging viewing experience.",
+        "spoiler_rich_plot_summary": "NYPD Blue centers on Detectives Andy Sipowicz and his partner, James Martinez, as they navigate the complexities of the 15th precinct. Sipowicz, a recovering alcoholic with a troubled past, undergoes significant character development throughout the series, learning to confront his prejudices and build meaningful relationships. The early seasons establish the detectives' dynamic and introduce recurring characters within the precinct, showcasing the internal politics and personal struggles of the officers. As the series progresses, Sipowicz's personal life becomes increasingly intertwined with his work, leading to both triumphs and devastating losses. The show explores themes of redemption and second chances as Sipowicz strives to become a better man and a better detective. Recurring storylines involve investigations into organized crime, corruption within the police force, and the impact of violence on both the victims and the officers involved. While the series maintains a procedural element, the overarching narrative focuses on Sipowicz's journey and the evolution of the precinct's dynamics, culminating in a complex and bittersweet resolution that acknowledges the enduring challenges of law enforcement.",
+        "categorized_keywords": {
+          "themes": [
+            "redemption",
+            "police-corruption",
+            "moral-ambiguity",
+            "family-dynamics",
+            "justice",
+            "alcoholism"
+          ],
+          "plot_and_concepts": [
+            "police-procedural",
+            "serial-investigation",
+            "ensemble-cast",
+            "undercover-operation"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "realistic",
+            "dark",
+            "tense",
+            "noir"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "police-drama",
+            "buddy-cop",
+            "procedural-drama"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "flawed-hero",
+            "mentor",
+            "corrupt-official"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "police-station",
+            "crime-scene",
+            "interrogation-room",
+            "police-car",
+            "courtroom"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "sexual-content",
+            "strong-language"
+          ]
+        },
+        "keyword_sentence": "NYPD Blue is a gritty and realistic crime drama set in New York City, exploring themes of redemption and justice through the flawed hero and ensemble cast navigating a world of police corruption and graphic violence."
+      },
+      "duration_seconds": 69.80972194671631
+    }
+  }
+}

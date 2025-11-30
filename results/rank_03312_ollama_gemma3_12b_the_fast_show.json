@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "The Fast Show",
+    "overview": "The Fast Show is a multi BAFTA award winning sketch comedy show written and produced by Paul Whitehouse and Charlie Higson.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1994,
+    "vote_count": 40
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Fast Show is a British sketch comedy series known for its rapid-fire succession of short, surreal, and often absurd scenarios. The show's strength lies in its diverse cast of characters and its willingness to satirize British culture and social norms through exaggerated and often bizarre humor. Its fast pace and unconventional comedic style have made it a cult classic, influencing subsequent generations of comedians. The show's brilliance resides in its ability to create memorable, instantly recognizable characters within incredibly brief segments, often relying on visual gags and witty dialogue.",
+        "spoiler_rich_plot_summary": "The Fast Show doesn't follow a traditional narrative arc. Instead, it presents a series of unconnected sketches, each introducing new characters and situations. Recurring characters like Jeremy Usborne, a socially awkward and often clueless individual, and Bob Effingham, a hapless airline security officer, appear in multiple sketches, providing a sense of continuity despite the lack of an overarching plot. The show's humor derives from the absurdity of the situations and the characters' reactions to them, often pushing boundaries with its satirical observations of British society. While there's no definitive ending, the show's legacy lies in its collection of iconic sketches and memorable characters, solidifying its place as a cornerstone of British comedy.",
+        "categorized_keywords": {
+          "themes": [
+            "satire",
+            "absurdism",
+            "british-culture",
+            "social-commentary",
+            "identity-exploration"
+          ],
+          "plot_and_concepts": [
+            "sketch-comedy",
+            "rapid-fire-humor",
+            "recurring-characters",
+            "ensemble-cast"
+          ],
+          "mood_and_tone": [
+            "surreal",
+            "quirky",
+            "darkly-comic",
+            "fast-paced"
+          ],
+          "genre_and_tropes": [
+            "sketch-comedy",
+            "british-humor",
+            "satirical-comedy"
+          ],
+          "setting": [
+            "modern-day",
+            "united-kingdom"
+          ],
+          "character_archetypes": [
+            "socially-awkward",
+            "hapless-protagonist",
+            "eccentric-characters"
+          ],
+          "narrative_style": [
+            "episodic",
+            "non-linear"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "airline-security",
+            "socially-awkward-man",
+            "eccentric-characters"
+          ],
+          "maturity_and_content": [
+            "crude-humor"
+          ]
+        },
+        "keyword_sentence": "The Fast Show is a fast-paced British sketch comedy series that satirizes modern-day British culture through a collection of eccentric characters and absurd situations."
+      },
+      "duration_seconds": 51.44285249710083
+    }
+  }
+}

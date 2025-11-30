@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "(Un)Well",
+    "overview": "This docuseries takes a deep dive into the lucrative wellness industry, which touts health and healing. But do the products live up to the promises?",
+    "genres": [
+      "Documentary",
+      "Reality"
+    ],
+    "release_year": 2020,
+    "vote_count": 48
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "“(Un)Well” is a documentary series that critically examines the booming wellness industry, questioning the validity of its claims and the motivations behind its marketing. Through interviews with former influencers, experts, and consumers, the series explores the financial incentives driving the promotion of often-unproven products and practices. It aims to expose potential exploitation and misinformation within the wellness space, prompting viewers to question the narratives they encounter and to approach wellness trends with a more discerning eye. The series blends investigative journalism with personal narratives, creating a cautionary tale about the intersection of health, commerce, and social media.",
+        "spoiler_rich_plot_summary": "The series begins by introducing several prominent figures in the wellness industry, showcasing their rise to fame and the lucrative businesses they’re building around various health and beauty products. As the series progresses, former influencers and employees begin to share their experiences, revealing the pressure to promote products they may not genuinely believe in and the often-manipulative tactics used to cultivate a devoted following. The documentary exposes the lack of scientific evidence supporting many wellness claims, highlighting the potential for financial exploitation and the promotion of harmful practices. It follows the journeys of individuals who have been negatively impacted by the wellness industry, showcasing the emotional and financial toll of chasing unrealistic promises. Ultimately, the series aims to dismantle the illusion of effortless health and well-being, encouraging viewers to prioritize evidence-based practices and critical thinking.",
+        "categorized_keywords": {
+          "themes": [
+            "consumerism",
+            "health-and-wellness",
+            "deception",
+            "social-media-influence",
+            "critical-thinking",
+            "exploitation"
+          ],
+          "plot_and_concepts": [
+            "investigative-journalism",
+            "false-advertising",
+            "wellness-industry",
+            "influencer-marketing",
+            "documentary-format"
+          ],
+          "mood_and_tone": [
+            "skeptical",
+            "critical",
+            "expository",
+            "cautionary"
+          ],
+          "genre_and_tropes": [
+            "true-crime",
+            "documentary",
+            "investigative-report"
+          ],
+          "setting": [
+            "modern-day",
+            "social-media",
+            "consumer-culture"
+          ],
+          "character_archetypes": [
+            "influencer",
+            "victim",
+            "expert",
+            "exposer"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "interview-driven"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "social-media-post",
+            "product-packaging",
+            "influencer-video",
+            "wellness-retreat"
+          ],
+          "maturity_and_content": [
+            "false-advertising",
+            "consumer-fraud"
+          ]
+        },
+        "keyword_sentence": "This investigative documentary series critically examines the modern wellness industry, exposing deceptive marketing practices and social media influence to encourage adult viewers to engage in critical thinking about health and consumerism."
+      },
+      "duration_seconds": 55.22530484199524
+    }
+  }
+}

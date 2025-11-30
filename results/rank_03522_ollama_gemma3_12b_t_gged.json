@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "T@gged",
+    "overview": "T@gged is a modern day thriller that explores the terrifying risks of social media in a world of anonymity.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2016,
+    "vote_count": 35
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "T@gged is a thriller series that examines the dangers of online anonymity and the potential for social media to facilitate stalking and harassment. The show follows a group of teenagers who are targeted by an unknown stalker, forcing them to confront the dark side of technology and the fragility of their privacy. It blends elements of suspense, mystery, and psychological drama, creating a tense and unsettling viewing experience. The series explores themes of vulnerability, trust, and the consequences of online behavior, offering a cautionary tale about the digital age.",
+        "spoiler_rich_plot_summary": "The series begins with a group of high school students participating in an online game where they are anonymously 'tagged' with a digital mark. Soon, the game turns sinister as the tags become a prelude to real-world stalking and harassment. The students realize they are being targeted by someone who knows their secrets and vulnerabilities. As the attacks escalate, the group struggles to identify their stalker while dealing with the psychological toll of constant fear and suspicion. Relationships are strained as trust erodes, and the students must confront their own online activity and the potential consequences of their digital footprint. The investigation leads them down a complex web of online identities and hidden connections, revealing a disturbing truth about the stalker's motives and the extent of their reach. The series culminates in a confrontation where the students must use their wits and courage to outsmart their tormentor and reclaim their sense of safety and control.",
+        "categorized_keywords": {
+          "themes": [
+            "online-stalking",
+            "social-media-risks",
+            "privacy",
+            "vulnerability",
+            "trust",
+            "fear",
+            "revenge",
+            "identity"
+          ],
+          "plot_and_concepts": [
+            "cyber-thriller",
+            "mystery",
+            "revenge-plot",
+            "cat-and-mouse",
+            "online-game"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "tense",
+            "dark",
+            "unsettling"
+          ],
+          "genre_and_tropes": [
+            "teen-drama",
+            "thriller",
+            "mystery-drama"
+          ],
+          "setting": [
+            "modern-day",
+            "high-school"
+          ],
+          "character_archetypes": [
+            "vulnerable-teenager",
+            "reluctant-hero",
+            "investigator"
+          ],
+          "narrative_style": [
+            "serialized-story"
+          ],
+          "target_audience": [
+            "teen-viewers",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "social-media-profile",
+            "digital-tag",
+            "online-forum",
+            "security-camera"
+          ],
+          "maturity_and_content": [
+            "cyberbullying",
+            "stalking",
+            "anxiety"
+          ]
+        },
+        "keyword_sentence": "T@gged is a suspenseful teen drama that explores the dark side of social media and the terrifying consequences of online anonymity, leaving viewers questioning the safety of their digital lives."
+      },
+      "duration_seconds": 55.512956857681274
+    }
+  }
+}

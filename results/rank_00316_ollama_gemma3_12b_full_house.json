@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Full House",
+    "overview": "After the death of his wife, Danny enlists his best friend and his brother-in-law to help raise his three daughters, D.J., Stephanie, and Michelle.",
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "release_year": 1987,
+    "vote_count": 934
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Full House is a lighthearted family sitcom centered on a widowed father navigating parenthood with the unexpected support of his brother-in-law and best friend. The series explores themes of family, friendship, and overcoming loss through comedic situations and heartwarming moments. It offers a wholesome and optimistic viewing experience, emphasizing the importance of community and finding joy in everyday life. The show's enduring appeal lies in its relatable characters and its focus on positive values.",
+        "spoiler_rich_plot_summary": "The series begins with Danny Tanner, a San Francisco-based host of a home improvement show, struggling to raise his three daughters, D.J., Stephanie, and Michelle, after the tragic death of his wife. Recognizing his need for assistance, Danny turns to his best friend Joey Gladstone, a struggling comedian, and his disciplined brother-in-law Jesse Katsopolis, a musician, to move in and help. Throughout the series, the unconventional family faces typical childhood challenges, navigating school, friendships, and first crushes. Jesse and Becky, his girlfriend, eventually marry and welcome children of their own, further expanding the household. Joey's comedic pursuits often lead to chaotic and humorous situations, while Jesse's musical talents provide a constant source of entertainment. As the children grow, they encounter more complex issues, but the core family unit remains steadfast, offering unwavering support and love. The series concludes with a sense of closure, celebrating the enduring bonds of family and the joy of shared experiences.",
+        "categorized_keywords": {
+          "themes": [
+            "family-love",
+            "grief-and-healing",
+            "friendship",
+            "parenthood",
+            "loss",
+            "growing-up"
+          ],
+          "plot_and_concepts": [
+            "found-family",
+            "sitcom-formula",
+            "coming-of-age",
+            "domestic-comedy"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "lighthearted",
+            "optimistic",
+            "heartwarming"
+          ],
+          "genre_and_tropes": [
+            "family-sitcom",
+            "90s-nostalgia",
+            "domestic-humor"
+          ],
+          "setting": [
+            "san-francisco",
+            "domestic-setting",
+            "1980s"
+          ],
+          "character_archetypes": [
+            "widower-father",
+            "comedian-friend",
+            "cool-uncle",
+            "teenage-daughter",
+            "younger-sisters"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adults"
+          ],
+          "detail_plot": [
+            "tanner-house",
+            "uncle-jesse-band",
+            "joey-gladsone-comedy",
+            "michelle-tanner"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Full House is a heartwarming family sitcom set in San Francisco, exploring themes of grief, friendship, and parenthood through lighthearted humor and a focus on the enduring bonds of a found family."
+      },
+      "duration_seconds": 60.71055603027344
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "input_data": {
+    "title": "PAW Patrol",
+    "overview": "PAW Patrol is a CG action-adventure for old children and preschool series starring a pack of six heroic puppies led by a tech-savvy 10-year-old boy named Ryder.",
+    "genres": "Animation, Kids",
+    "release_year": 2013,
+    "vote_count": 655
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "PAW Patrol is a vibrant, animated children's series centered around a group of rescue dogs and a young boy who work together to protect their community. The show emphasizes teamwork, problem-solving, and community service, presented in a fast-paced, episodic format. Its appeal lies in its simple narratives, engaging characters, and positive messaging, making it a popular choice for preschool-aged viewers and their families. The series blends action and adventure with educational elements, promoting cooperation and responsibility.",
+        "spoiler_rich_plot_summary": "The series begins with Ryder, a ten-year-old boy, recruiting six puppies – Chase, Marshall, Skye, Rubble, Rocky, and Zuma – to form the PAW Patrol. Each puppy possesses unique skills and vehicles, allowing them to respond to various emergencies in Adventure Bay. Throughout the series, the PAW Patrol faces challenges ranging from rescuing kittens from trees to stopping runaway trains, always working together to overcome obstacles. Recurring antagonists, often involving mishaps or misunderstandings, provide ongoing conflict. While the specific missions change each episode, the core dynamic of the team remains consistent, reinforcing the importance of friendship and dedication to helping others. The series consistently reinforces the value of community and the importance of working together to solve problems, culminating in a sense of accomplishment and shared responsibility.",
+        "categorized_keywords": {
+          "themes": [
+            "teamwork",
+            "friendship",
+            "community-service",
+            "problem-solving",
+            "responsibility",
+            "rescue-missions"
+          ],
+          "plot_and_concepts": [
+            "rescue-vehicles",
+            "episodic-format",
+            "animal-characters",
+            "adventure-bay"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "lighthearted",
+            "optimistic",
+            "energetic"
+          ],
+          "genre_and_tropes": [
+            "childrens-animation",
+            "rescue-team",
+            "found-family"
+          ],
+          "setting": [
+            "adventure-bay",
+            "coastal-town"
+          ],
+          "character_archetypes": [
+            "heroic-puppy",
+            "resourceful-boy",
+            "team-leader"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "preschool-audience",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "rescue-vehicles",
+            "puppy-pads",
+            "command-center"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "PAW Patrol is a lighthearted and energetic children’s animation series that celebrates teamwork and community service through the adventures of a resourceful boy and his heroic puppy team in a charming coastal town."
+      },
+      "duration_seconds": 102.77397608757019
+    }
+  }
+}

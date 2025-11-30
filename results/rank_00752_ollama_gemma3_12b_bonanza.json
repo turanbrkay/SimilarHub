@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Bonanza",
+    "overview": "The High-Sierra adventures of Ben Cartwright and his sons as they run and defend their ranch while helping the surrounding community.",
+    "genres": [
+      "Western",
+      "Action & Adventure"
+    ],
+    "release_year": 1959,
+    "vote_count": 378
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Bonanza is a classic Western television series centered on the Cartwright family and their sprawling ranch, the Ponderosa. The show explores themes of family, justice, and community in the American frontier, blending action-adventure with a strong moral compass. It portrays the challenges of running a large ranch, navigating conflicts with neighboring families, and upholding a sense of fairness in a lawless environment. The series is known for its picturesque landscapes, memorable characters, and its depiction of a idealized vision of the American West.",
+        "spoiler_rich_plot_summary": "The series begins with Ben Cartwright, a widower, arriving in Nevada with his three sons – Adam, Hoss, and Little Joe – each born to a different woman. They establish the Ponderosa ranch, quickly becoming a focal point for the surrounding community. Throughout the series, the Cartwrights face numerous challenges, including land disputes with rival ranchers like the Canterburys, conflicts with Native American tribes, and the constant threat of outlaws. Adam, the eldest, is often the voice of reason and the strategic leader. Hoss, the strong and gentle giant, provides physical strength and a compassionate heart. Little Joe, the youngest, matures from a rebellious youth into a responsible member of the family. The series chronicles their growth, their struggles to maintain peace, and their unwavering commitment to their family and the values they represent. While the series maintains a generally optimistic tone, it also explores darker themes of loss, betrayal, and the complexities of frontier justice, ultimately portraying a vision of a family striving to build a better life in a challenging world.",
+        "categorized_keywords": {
+          "themes": [
+            "family-values",
+            "frontier-justice",
+            "land-ownership",
+            "community-building",
+            "moral-responsibility",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "western-genre",
+            "ranching-life",
+            "land-disputes",
+            "horseback-riding",
+            "cattle-drives"
+          ],
+          "mood_and_tone": [
+            "optimistic",
+            "adventurous",
+            "heartwarming",
+            "nostalgic"
+          ],
+          "genre_and_tropes": [
+            "western",
+            "family-drama",
+            "adventure-series",
+            "frontier-life"
+          ],
+          "setting": [
+            "american-west",
+            "19th-century",
+            "nevada",
+            "frontier-town"
+          ],
+          "character_archetypes": [
+            "patriarch",
+            "strong-son",
+            "rebellious-son",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "ponderosa-ranch",
+            "horse-drawn-wagon",
+            "cattle-brand",
+            "sheriffs-badge"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Bonanza portrays a heartwarming and adventurous family drama set in the American West, where the Cartwrights navigate challenges of ranching life and uphold values of community and justice amidst the vast frontier."
+      },
+      "duration_seconds": 60.59106373786926
+    }
+  }
+}

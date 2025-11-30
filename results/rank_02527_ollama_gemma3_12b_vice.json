@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "VICE",
+    "overview": "A documentary news series with a taboo-breaking team who deliver incredible news stories from around the world.",
+    "genres": [
+      "Documentary",
+      "News",
+      "War & Politics"
+    ],
+    "release_year": 2013,
+    "vote_count": 65
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "VICE is a documentary news series that distinguishes itself through its immersive, often unconventional approach to reporting. The series tackles complex and sensitive topics, frequently placing reporters in dangerous or politically charged environments. VICE's style emphasizes firsthand experience and a willingness to challenge established narratives, often blurring the lines between journalism and activism. The series aims to provide a raw and unfiltered perspective on global events, exploring issues ranging from war and politics to technology and culture. Its commitment to on-the-ground reporting and willingness to confront difficult subjects has made it a significant voice in contemporary documentary filmmaking.",
+        "spoiler_rich_plot_summary": "VICE began as a website and magazine before expanding into a television series. Early seasons focused heavily on conflict zones, embedding reporters with military forces and exploring the realities of war. The series investigated drug cartels, examined political corruption in various countries, and delved into the complexities of global poverty. As the series evolved, it broadened its scope to include investigations into technological advancements, environmental issues, and cultural phenomena. Recurring segments often involved undercover reporting and risky operations, highlighting the challenges faced by journalists in hostile environments. While specific investigations vary greatly, a consistent thread is the series' commitment to exposing uncomfortable truths and giving voice to marginalized communities. The series has consistently pushed boundaries in terms of access and subject matter, often sparking controversy and debate.",
+        "categorized_keywords": {
+          "themes": [
+            "global-conflict",
+            "political-corruption",
+            "social-justice",
+            "cultural-exploration",
+            "war-reporting",
+            "human-rights"
+          ],
+          "plot_and_concepts": [
+            "undercover-reporting",
+            "investigative-journalism",
+            "embedded-reporting",
+            "documentary-film",
+            "news-magazine"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "serious",
+            "unflinching",
+            "candid",
+            "provocative"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "news-series",
+            "investigative-report"
+          ],
+          "setting": [
+            "global",
+            "conflict-zones",
+            "urban-environments"
+          ],
+          "character_archetypes": [
+            "investigative-reporter",
+            "candid-narrator"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "undercover-cameras",
+            "conflict-zones",
+            "political-interviews"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "political-tension",
+            "sensitive-topics"
+          ]
+        },
+        "keyword_sentence": "VICE delivers unflinching documentary news reports from around the globe, exploring sensitive topics and political tensions with a gritty and serious tone."
+      },
+      "duration_seconds": 58.204758405685425
+    }
+  }
+}

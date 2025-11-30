@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Clarkson's Farm",
+    "overview": "Follow Jeremy Clarkson as he embarks on his latest adventure, farming. The man who on several occasions claims to be allergic to manual labour takes on the most manually labour intensive job there is. What could possibly go wrong?",
+    "genres": [
+      "Reality",
+      "Comedy"
+    ],
+    "release_year": 2021,
+    "vote_count": 155
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Clarkson's Farm is a reality comedy series documenting Jeremy Clarkson's attempts to run a farm. The show blends humor with surprisingly insightful commentary on modern agriculture, the challenges faced by farmers, and the complexities of the food supply chain. It offers a lighthearted yet often poignant look at a man stepping outside his comfort zone and grappling with the realities of rural life, punctuated by Clarkson's trademark wit and self-deprecating humor. The series is ultimately a celebration of the resilience and dedication of those who work the land, even when faced with seemingly insurmountable obstacles.",
+        "spoiler_rich_plot_summary": "The series begins with Jeremy Clarkson purchasing Diddly Squat Farm in the Cotswolds, with little to no farming experience. He assembles a small team, including his farm manager Kaleb Cooper, and begins the process of planting and harvesting various crops, such as wheat, barley, and vegetables. Throughout the first season, Clarkson encounters numerous setbacks, including poor weather, crop failures, and financial difficulties. He struggles to understand the intricacies of farming, often clashing with Kaleb over his methods and decisions. The series follows the farm through the seasons, showcasing the cyclical nature of agriculture and the constant battle against the elements. While initially driven by a desire to prove he could succeed at farming, Clarkson gradually develops a genuine appreciation for the work and the people involved, even as he continues to lament the financial losses and the sheer amount of effort required. The series culminates in a reflection on the challenges of sustainable farming and the importance of supporting local producers.",
+        "categorized_keywords": {
+          "themes": [
+            "agriculture",
+            "rural-life",
+            "financial-struggle",
+            "self-discovery",
+            "environmental-sustainability",
+            "local-economy"
+          ],
+          "plot_and_concepts": [
+            "farming",
+            "crop-failure",
+            "seasonal-cycles",
+            "small-business",
+            "agricultural-economics"
+          ],
+          "mood_and_tone": [
+            "humorous",
+            "lighthearted",
+            "observational",
+            "optimistic",
+            "self-deprecating"
+          ],
+          "genre_and_tropes": [
+            "reality-tv",
+            "mockumentary",
+            "fish-out-of-water",
+            "small-town-life"
+          ],
+          "setting": [
+            "cotswolds",
+            "england",
+            "rural-england",
+            "farmland"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "working-class-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "observational-documentary"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "tractor",
+            "crops",
+            "livestock",
+            "farm-buildings",
+            "diddly-squat-farm"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Clarkson's Farm is a humorous and observational reality series set in the English countryside, following a reluctant hero's journey through the challenges of agriculture and small-business ownership."
+      },
+      "duration_seconds": 70.62624049186707
+    }
+  }
+}

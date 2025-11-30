@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Dare Me",
+    "overview": "Dive into the cutthroat world of competitive high school cheerleading, following the fraught relationship between two best friends after a new coach arrives to bring their team to prominence.",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Crime"
+    ],
+    "release_year": 2019,
+    "vote_count": 332
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Dare Me is a drama series exploring the intense dynamics within a competitive high school cheerleading squad. The show delves into themes of friendship, ambition, power, and manipulation, examining the psychological toll of striving for excellence and the complexities of interpersonal relationships. It blends elements of mystery and crime, creating a suspenseful atmosphere as secrets and betrayals surface within the team and its surrounding community. The series offers a nuanced portrayal of teenage life, highlighting the pressures of social hierarchy and the lengths to which individuals will go to achieve their goals.",
+        "spoiler_rich_plot_summary": "The series begins with the established friendship between Addy and Colette, the co-captains of the elite Eagle Ridge High cheerleading squad. Their bond is tested when a new coach, Martha, arrives, disrupting the team's established order and favoring Colette as the primary leader. As Martha implements rigorous training and strategic changes, tensions escalate between Addy and Colette, fueled by jealousy and a desire for recognition. The series unravels a web of secrets surrounding the cheerleading program, revealing connections to a local murder investigation and exposing the dark underbelly of the seemingly perfect small town. Addy, feeling betrayed and sidelined, begins her own investigation, uncovering uncomfortable truths about Martha, Colette, and the adults in their lives. The investigation leads to a complex understanding of the power dynamics at play and the sacrifices made in the pursuit of victory. The series culminates in a confrontation where long-held secrets are exposed, and the fragile alliances within the team are irrevocably shattered, leaving the future of the squad and the friendships at stake.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship-betrayal",
+            "power-dynamics",
+            "ambition",
+            "manipulation",
+            "identity-crisis",
+            "social-hierarchy",
+            "secrets-and-lies"
+          ],
+          "plot_and_concepts": [
+            "murder-investigation",
+            "competitive-sports",
+            "small-town-secrets",
+            "coming-of-age",
+            "revenge"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "tense",
+            "psychological-thriller"
+          ],
+          "genre_and_tropes": [
+            "teen-drama",
+            "mystery",
+            "crime",
+            "wholesome-exterior-dark-secrets"
+          ],
+          "setting": [
+            "small-town-usa",
+            "high-school",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "ambitious-protagonist",
+            "manipulative-mentor",
+            "betrayed-friend",
+            "complex-antagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult"
+          ],
+          "detail_plot": [
+            "cheerleading-routine",
+            "high-school-gym",
+            "cheerleading-uniform",
+            "investigation-file"
+          ],
+          "maturity_and_content": [
+            "bullying",
+            "emotional-manipulation"
+          ]
+        },
+        "keyword_sentence": "Dare Me is a suspenseful teen drama set in a small town, exploring themes of friendship, betrayal, and ambition within the intense world of competitive cheerleading."
+      },
+      "duration_seconds": 66.82956743240356
+    }
+  }
+}

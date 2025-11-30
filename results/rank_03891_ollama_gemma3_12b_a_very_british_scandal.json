@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "A Very British Scandal",
+    "overview": "The true story of a duchess publicly shamed in a high society divorce that gripped the nation.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2021,
+    "vote_count": 29
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "A Very British Scandal is a historical drama series that explores the scandalous divorce of the Duke and Duchess of Argyll in 1963. The series delves into the societal pressures and double standards faced by women in positions of power during that era, examining themes of reputation, morality, and the complexities of marriage within the British aristocracy. Through a blend of courtroom drama and character study, the series offers a glimpse into a world of privilege and secrets, revealing the devastating consequences of public humiliation and the lengths to which individuals will go to protect their image. The series maintains a tone of restrained elegance, punctuated by moments of intense emotional turmoil, offering a compelling portrait of a woman fighting for her dignity in a deeply judgmental society.",
+        "spoiler_rich_plot_summary": "The series centers on Margaret Campbell, Duchess of Argyll, whose marriage to Archibald, the Duke, is fraught with tension and unhappiness from the outset. Their relationship is marked by Archibald’s infidelity and controlling behavior, while Margaret struggles to find her place within the rigid confines of aristocratic society. As their marriage deteriorates, a series of compromising photographs of Margaret surface, threatening to destroy her reputation and expose her private life to public scrutiny. A bitter and highly publicized divorce trial ensues, where scandalous details of both Margaret and Archibald’s affairs are revealed, and accusations of forgery and blackmail are leveled. The trial becomes a spectacle, fueled by sensationalist media coverage and the public’s fascination with the downfall of a prominent figure. Ultimately, Margaret is found guilty of adultery, and the divorce is finalized, leaving her ostracized and financially ruined, while Archibald retains his title and a significant portion of her fortune. The series concludes with Margaret attempting to rebuild her life, forever marked by the scandal that consumed her.",
+        "categorized_keywords": {
+          "themes": [
+            "scandal",
+            "reputation",
+            "marriage",
+            "social-class",
+            "double-standards",
+            "forgery",
+            "blackmail",
+            "female-agency"
+          ],
+          "plot_and_concepts": [
+            "courtroom-drama",
+            "divorce-proceedings",
+            "public-shaming",
+            "aristocratic-society",
+            "media-sensationalism"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "melancholy",
+            "restrained",
+            "dramatic",
+            "historical"
+          ],
+          "genre_and_tropes": [
+            "historical-drama",
+            "true-crime",
+            "aristocratic-romance",
+            "fall-from-grace"
+          ],
+          "setting": [
+            "1960s-britain",
+            "aristocratic-estate",
+            "london-courtroom"
+          ],
+          "character_archetypes": [
+            "tragic-heroine",
+            "controlling-husband",
+            "ruthless-lawyer",
+            "social-climber"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "character-driven"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "compromising-photographs",
+            "divorce-settlement",
+            "courtroom-scene",
+            "aristocratic-ball"
+          ],
+          "maturity_and_content": [
+            "sexual-content",
+            "adultery",
+            "legal-proceedings"
+          ]
+        },
+        "keyword_sentence": "A Very British Scandal portrays a tragic heroine’s fall from grace within the rigid confines of 1960s aristocratic society, exposing the devastating consequences of scandal, adultery, and legal battles fueled by media sensationalism."
+      },
+      "duration_seconds": 92.08759498596191
+    }
+  }
+}

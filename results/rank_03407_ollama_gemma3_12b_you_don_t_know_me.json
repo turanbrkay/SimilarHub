@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "You Don't Know Me",
+    "overview": "Accused of murder, Hero shouldn't stand a chance in court. He swears he's innocent. But in the end, all that matters is this: do you believe him?",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2021,
+    "vote_count": 37
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "You Don't Know Me is a British drama series centered around a young man's fight for justice after being wrongly accused of murder. The series utilizes a non-linear narrative structure, presenting the story through flashbacks and courtroom testimony, aiming to build suspense and challenge the audience's perception of truth and innocence. It explores themes of social injustice, systemic bias, and the complexities of the legal system, offering a gritty and emotionally charged viewing experience. The series’ strength lies in its ability to create empathy for the protagonist while simultaneously questioning the reliability of his account.",
+        "spoiler_rich_plot_summary": "The series follows Samuel, a young man who stands accused of murdering Lisa, the girlfriend of his best friend, Charlie. The narrative unfolds through a courtroom drama interspersed with flashbacks that reveal Samuel's backstory and his relationship with both Lisa and Charlie. As the trial progresses, Samuel insists on representing himself, determined to prove his innocence and expose the truth behind Lisa’s death. Flashbacks reveal a complex web of relationships, financial struggles, and simmering tensions between Samuel, Charlie, and Lisa. It becomes apparent that Charlie had a volatile relationship with Lisa and was deeply in debt. Samuel’s attempts to reveal Charlie’s involvement are met with resistance from the prosecution and skepticism from the jury. The series culminates in a dramatic reveal of the true circumstances surrounding Lisa’s death, exposing a conspiracy that extends beyond the immediate circle of suspects and highlighting the flaws within the justice system. Samuel’s fate hangs in the balance, leaving the audience to question whether he will ultimately be exonerated.",
+        "categorized_keywords": {
+          "themes": [
+            "social-injustice",
+            "innocence",
+            "legal-system",
+            "truth",
+            "betrayal",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "courtroom-drama",
+            "flashbacks",
+            "non-linear-timeline",
+            "self-representation"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "gritty",
+            "emotional",
+            "tense"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "legal-thriller",
+            "mystery"
+          ],
+          "setting": [
+            "modern-day",
+            "london-uk"
+          ],
+          "character_archetypes": [
+            "wrongfully-accused",
+            "anti-hero",
+            "corrupt-authority"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "courtroom-scene",
+            "flashback-sequence",
+            "police-investigation"
+          ],
+          "maturity_and_content": [
+            "legal-proceedings",
+            "tense-situations"
+          ]
+        },
+        "keyword_sentence": "You Don't Know Me is a suspenseful crime drama exploring themes of innocence and social injustice through a non-linear narrative set in modern-day London, where a wrongfully accused man fights for his freedom within a flawed legal system."
+      },
+      "duration_seconds": 57.16778779029846
+    }
+  }
+}

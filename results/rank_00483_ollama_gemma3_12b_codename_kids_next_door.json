@@ -1,0 +1,88 @@
+{
+  "input_data": {
+    "title": "Codename: Kids Next Door",
+    "overview": "Taking numbers instead of names, five extraordinary 10-year-olds form a covert team called the Kids Next Door with one dedicated mission: to free all children from the tyrannical rule of adults.",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Comedy",
+      "Sci-Fi & Fantasy",
+      "Family"
+    ],
+    "release_year": 2002,
+    "vote_count": 640
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Codename: Kids Next Door is a vibrant and imaginative animated series that blends action, comedy, and science fiction to explore the frustrations of childhood and the perceived tyranny of adulthood. The show follows a team of five young operatives who dedicate themselves to fighting for kids' rights and dismantling adult control. It's characterized by its fast-paced humor, inventive gadgets, and a playful deconstruction of societal norms, offering a lighthearted yet subversive commentary on power dynamics and the importance of childhood freedom. The series appeals to a broad audience with its blend of slapstick comedy and surprisingly clever storytelling.",
+        "spoiler_rich_plot_summary": "The series begins with five seemingly ordinary ten-year-olds – Numbuh One, Two, Three, Four, and Five – discovering a network of underground bases belonging to a global organization of children dedicated to fighting adults. They quickly join the KND, each taking on a specialized role within the team. The initial seasons focus on their daily missions to thwart adult schemes, from enforcing bedtime to controlling access to sugary treats. As the series progresses, the KND uncover a deeper conspiracy involving the origins of the organization and the true extent of adult control. They encounter various adult adversaries, including Sector V's primary nemesis, Father, a ruthless and manipulative man obsessed with maintaining order. The team faces internal conflicts and betrayals as they learn more about the KND's history and the sacrifices required to fight for children's freedom. Ultimately, the KND must confront the reality of growing up and the inevitable loss of childhood innocence, leading to a bittersweet and poignant conclusion where they must make a difficult choice about their future and the fate of the KND organization.",
+        "categorized_keywords": {
+          "themes": [
+            "childhood-innocence",
+            "rebellion",
+            "freedom",
+            "growing-up",
+            "adult-oppression",
+            "friendship",
+            "loyalty"
+          ],
+          "plot_and_concepts": [
+            "secret-organization",
+            "espionage",
+            "gadget-technology",
+            "time-travel",
+            "alternate-reality",
+            "conspiracy"
+          ],
+          "mood_and_tone": [
+            "humorous",
+            "lighthearted",
+            "whimsical",
+            "satirical",
+            "adventurous"
+          ],
+          "genre_and_tropes": [
+            "action-comedy",
+            "spy-fi",
+            "found-family",
+            "coming-of-age",
+            "cartoon-comedy"
+          ],
+          "setting": [
+            "suburban-setting",
+            "underground-base",
+            "modern-day",
+            "imaginary-world"
+          ],
+          "character_archetypes": [
+            "leader",
+            "strategist",
+            "tech-expert",
+            "muscle",
+            "wildcard"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "episodic-adventure"
+          ],
+          "target_audience": [
+            "children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "tree-house",
+            "knd-uniform",
+            "sector-v",
+            "father-character",
+            "supply-chest"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Codename: Kids Next Door is a lighthearted and adventurous cartoon comedy that explores themes of childhood freedom and rebellion against adult oppression through the eyes of a secret organization of young spies."
+      },
+      "duration_seconds": 63.56670928001404
+    }
+  }
+}

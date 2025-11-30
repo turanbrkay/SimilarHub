@@ -1,0 +1,69 @@
+{
+  "input_data": {
+    "title": "Dennis the Menace",
+    "overview": "The young blond boy with a cowlick and a mischievous personality, Dennis the Menace, gets into numerous scrapes and adventures with his dog Ruff and his friends Joey, Margaret, Gina, Tommy, PeeBee and Jay.",
+    "genres": [
+      "Kids",
+      "Animation"
+    ],
+    "release_year": 1985,
+    "vote_count": 214
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Dennis the Menace is a lighthearted animated series centered around a well-meaning but perpetually mischievous young boy and his dog. The show's premise revolves around Dennis's innocent but chaotic antics, which consistently disrupt the lives of his neighbors, particularly the perpetually exasperated Mr. Wilson. The series blends slapstick comedy with gentle humor, emphasizing the importance of friendship and community, even amidst the occasional mishap. It offers a nostalgic and wholesome viewing experience, appealing to families and those seeking a return to classic, uncomplicated entertainment.",
+        "spoiler_rich_plot_summary": "The series follows Dennis Mitchell, a young boy whose playful nature often leads to unintended consequences for his neighborhood. Each episode typically begins with Dennis embarking on a seemingly harmless activity, which quickly spirals into a series of escalating events, much to the dismay of his neighbor, Mr. Wilson. While Dennis's actions often cause frustration, his genuine innocence and good intentions ultimately prevail, and he usually finds a way to resolve the situation, often with the help of his loyal dog, Ruff. Recurring characters like Joey, Margaret, and Mr. Wilson contribute to the ongoing comedic dynamic, with Mr. Wilson consistently attempting to maintain order while Dennis inadvertently throws it into disarray. The series doesn's feature a grand overarching plot, instead focusing on episodic adventures that explore the joys and challenges of childhood and neighborhood life.",
+        "categorized_keywords": {
+          "themes": [
+            "childhood-innocence",
+            "friendship",
+            "community",
+            "mischief",
+            "neighborly-relations"
+          ],
+          "plot_and_concepts": [
+            "episodic-storytelling",
+            "slapstick-comedy",
+            "neighbor-conflict"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "gentle-humor"
+          ],
+          "genre_and_tropes": [
+            "kids-comedy",
+            "animated-sitcom",
+            "classic-cartoon"
+          ],
+          "setting": [
+            "suburban-neighborhood",
+            "small-town-usa"
+          ],
+          "character_archetypes": [
+            "mischievous-child",
+            "exasperated-neighbor",
+            "loyal-dog"
+          ],
+          "narrative_style": [
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-children"
+          ],
+          "detail_plot": [
+            "cowlick",
+            "ruff-the-dog",
+            "mr-wilson's-garden",
+            "neighborhood-block"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Dennis the Menace is a lighthearted animated series about a mischievous young boy and his dog who consistently create comical chaos in their suburban neighborhood, offering a wholesome and gentle-humored experience for family audiences."
+      },
+      "duration_seconds": 56.6715350151062
+    }
+  }
+}

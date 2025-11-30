@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Kim's Convenience",
+    "overview": "The funny, heartfelt story of The Kims, a Korean-Canadian family, running a convenience store in downtown Toronto. Mr. and Mrs. Kim ('Appa' and 'Umma') immigrated to Toronto in the '80s to set up shop near Regent Park and had two kids, Jung and Janet who are now young adults. However, when Jung was 16, he and Appa had a major falling out involving a physical fight, stolen money and Jung leaving home. Father and son have been estranged since.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2016,
+    "vote_count": 83
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Kim's Convenience is a Canadian sitcom centered on a Korean-Canadian family navigating the challenges of running a convenience store and raising their adult children. The series blends humor with heartfelt explorations of family dynamics, cultural identity, and the immigrant experience. It portrays the generational gap and differing perspectives within a close-knit family, while also showcasing the vibrant community surrounding their store. The show's tone is generally lighthearted and optimistic, though it doesn't shy away from addressing more serious themes of misunderstanding and reconciliation. It offers a warm and relatable portrayal of everyday life and the enduring bonds of family.",
+        "spoiler_rich_plot_summary": "The series begins with Appa and Umma Kim running Kim's Convenience, a small store in Toronto, while their children, Jung and Janet, are young adults trying to find their place in the world. Jung, a struggling artist, has a strained relationship with his father, stemming from a past incident involving stolen money and a physical altercation that led to Jung leaving home. Janet, ambitious and driven, pursues various business ventures, often clashing with her parents' traditional values. The series follows their individual struggles and the ongoing attempts at reconciliation between Jung and Appa. Throughout the show, the family faces financial challenges, community issues, and the complexities of intergenerational understanding. Janet's entrepreneurial pursuits lead to both successes and failures, while Jung grapples with his artistic aspirations and his desire to reconnect with his father. The series culminates in a poignant exploration of family legacy and the enduring power of forgiveness, as the Kim family confronts the possibility of selling the store and navigating their individual futures.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "cultural-identity",
+            "immigrant-experience",
+            "generational-gap",
+            "reconciliation",
+            "forgiveness",
+            "parental-expectations"
+          ],
+          "plot_and_concepts": [
+            "small-business-ownership",
+            "family-conflict",
+            "coming-of-age",
+            "intergenerational-relationships"
+          ],
+          "mood_and_tone": [
+            "heartwarming",
+            "lighthearted",
+            "optimistic",
+            "slice-of-life"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "family-comedy",
+            "multicultural-storytelling"
+          ],
+          "setting": [
+            "toronto-canada",
+            "urban-neighborhood",
+            "convenience-store"
+          ],
+          "character_archetypes": [
+            "traditional-father",
+            "ambitious-daughter",
+            "struggling-artist",
+            "supportive-mother"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "convenience-store-interior",
+            "kim-family-home",
+            "neighborhood-market"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Kim's Convenience is a heartwarming Canadian sitcom exploring family dynamics and cultural identity through the everyday lives of a Korean-Canadian family running a small business in downtown Toronto."
+      },
+      "duration_seconds": 63.571357011795044
+    }
+  }
+}

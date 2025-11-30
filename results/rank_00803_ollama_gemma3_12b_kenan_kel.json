@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Kenan & Kel",
+    "overview": "Set in Chicago, the show follows the kid-friendly misadventures of two high-school friends who are always scheming and dreaming. Kenan, who works at a grocery store, constantly devises crazy plans to strike it rich, while orange-soda-loving buddy Kel is always dragged along for the ride despite his track record for messing things up.",
+    "genres": [
+      "Family",
+      "Comedy",
+      "Kids"
+    ],
+    "release_year": 1996,
+    "vote_count": 343
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Kenan & Kel is a Nickelodeon sitcom centered on the comedic escapades of two teenage friends in Chicago. The show's humor derives from Kenan's elaborate schemes and Kel's often disastrous involvement, creating a lighthearted and consistently silly atmosphere. It's a classic example of a buddy comedy, emphasizing friendship and playful chaos over complex narratives. The series appeals to a younger audience with its slapstick humor and relatable themes of friendship and youthful ambition.",
+        "spoiler_rich_plot_summary": "The series primarily follows Kenan's attempts to get rich quick, often involving elaborate and poorly conceived business ventures. Kel, known for his love of orange soda and tendency to inadvertently sabotage Kenan's plans, is a constant companion in these endeavors. Recurring characters, including Kenan's sister Kyra and their eccentric neighbors, contribute to the comedic situations. While each episode typically features a self-contained plot, there are occasional running gags and character development that build upon the established dynamics. The show doesn't feature a grand overarching narrative, but rather a continuous cycle of schemes, mishaps, and the enduring friendship between Kenan and Kel.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "youthful-ambition",
+            "coming-of-age",
+            "sibling-relationship"
+          ],
+          "plot_and_concepts": [
+            "slapstick-comedy",
+            "business-ventures",
+            "running-gags",
+            "buddy-comedy"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "silly"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "teen-comedy",
+            "nickelodeon-show"
+          ],
+          "setting": [
+            "chicago",
+            "modern-day",
+            "suburban-neighborhood"
+          ],
+          "character_archetypes": [
+            "scheming-protagonist",
+            "loyal-sidekick",
+            "eccentric-neighbor"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "self-contained-episodes"
+          ],
+          "target_audience": [
+            "family-audience",
+            "kids",
+            "young-adults"
+          ],
+          "detail_plot": [
+            "orange-soda",
+            "grocery-store",
+            "sibling-rivalry",
+            "failed-business"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Kenan & Kel is a lighthearted, episodic sitcom about two friends in Chicago who navigate youthful ambition and sibling rivalry through silly schemes and failed business ventures."
+      },
+      "duration_seconds": 55.156606912612915
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "The Love Boat",
+    "overview": "Passengers who search for romantic nights aboard a beautiful ship travelling to tropical or mysterious countries, decide to pass their vacation aboard the \"Love Boat\", where Gopher, Dr. Bricker, Isaac, Julie, and Captain Stubing try their best to please them, and sometimes help them fall in love. Things are not always so easy, but in the end, love wins.",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "release_year": 1977,
+    "vote_count": 155
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Love Boat is a lighthearted romantic comedy series centered around the escapades of passengers and crew aboard a luxury cruise ship. Each episode typically features self-contained stories exploring themes of love, relationships, and personal growth, often with comedic misunderstandings and heartwarming resolutions. The show's episodic format and idyllic setting create a feel-good viewing experience, emphasizing the pursuit of romance and the joys of travel. It blends elements of romantic comedy with a touch of situational humor, appealing to a broad audience seeking an optimistic and entertaining escape.",
+        "spoiler_rich_plot_summary": "The series begins with the introduction of the Pacific Princess and its core crew: Captain Merrill Stubing, purser Julie McCoy, cruise director Gopher Jones, and ship's doctor Adam Bricker, alongside Isaac, the ship's bartender. Each week, new passengers board the ship, each with their own romantic hopes and personal challenges. The initial seasons focus on establishing the characters and their dynamic, with recurring storylines involving the crew's attempts to navigate passenger requests and unexpected situations. As the series progresses, the crew faces increasingly complex romantic entanglements and personal growth opportunities, often involving the passengers they serve. While the show maintains its lighthearted tone, underlying themes of commitment, compromise, and the pursuit of happiness are explored. The series concludes with a sense of closure for the main characters, celebrating the enduring power of love and the importance of human connection, leaving the audience with a feeling of warmth and optimism about the future.",
+        "categorized_keywords": {
+          "themes": [
+            "romance",
+            "relationships",
+            "personal-growth",
+            "commitment",
+            "compromise",
+            "human-connection"
+          ],
+          "plot_and_concepts": [
+            "episodic-storytelling",
+            "romantic-comedy",
+            "ship-setting",
+            "travel-adventure"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "feel-good",
+            "optimistic",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "romantic-comedy",
+            "sitcom",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "cruise-ship",
+            "tropical-locations",
+            "1970s",
+            "ocean"
+          ],
+          "character_archetypes": [
+            "captain",
+            "purser",
+            "cruise-director",
+            "ship-doctor",
+            "bartender"
+          ],
+          "narrative_style": [
+            "episodic",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "cruise-ship",
+            "cocktail-lounge",
+            "captain-quarters",
+            "ballroom"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Love Boat is a lighthearted and optimistic romantic comedy series set aboard a luxury cruise ship, exploring themes of love, relationships, and personal growth through an ensemble cast of charming characters."
+      },
+      "duration_seconds": 67.39629650115967
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "CSI: Vegas",
+    "overview": "Facing an existential threat that could bring down the Crime Lab, a brilliant team of forensic investigators must welcome back old friends and deploy new techniques to preserve and serve justice in Sin City.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2021,
+    "vote_count": 214
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "CSI: Vegas is a procedural crime drama that serves as a revival of the original CSI franchise. The series follows a team of forensic investigators in Las Vegas as they tackle complex cases using cutting-edge technology and scientific analysis. It blends familiar procedural elements with a serialized narrative arc, exploring themes of legacy, justice, and the evolving nature of forensic science. The show aims to recapture the original's appeal while introducing new characters and storylines for a modern audience, maintaining a balance between intense crime-solving and character-driven drama.",
+        "spoiler_rich_plot_summary": "The series picks up years after the original CSI: Vegas concluded, with the original team facing a new threat: a powerful and ruthless businessman, Milton Glick, who seeks to exploit the Crime Lab's reputation and resources for his own nefarious purposes. Glick's schemes force the team to confront their past mistakes and re-evaluate their methods. As the team investigates Glick's activities, they uncover a web of corruption and deceit that reaches into the highest levels of Las Vegas society. New forensic specialists join the team, bringing fresh perspectives and advanced techniques to the investigations. The team must navigate complex legal battles and personal conflicts while racing against time to expose Glick's crimes and protect the integrity of the Crime Lab. Throughout the seasons, the team faces betrayals, unexpected alliances, and the constant pressure of upholding justice in a city rife with secrets.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "legacy",
+            "corruption",
+            "forensic-science",
+            "betrayal",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "crime-procedural",
+            "forensic-investigation",
+            "serialized-story",
+            "corporate-crime",
+            "legal-thriller"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "procedural",
+            "serious"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "police-procedural",
+            "found-family",
+            "revenge-plot"
+          ],
+          "setting": [
+            "las-vegas",
+            "modern-day",
+            "crime-lab"
+          ],
+          "character_archetypes": [
+            "forensic-scientist",
+            "detective",
+            "anti-hero",
+            "mentor"
+          ],
+          "narrative_style": [
+            "ensemble-cast",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "crime-scene",
+            "evidence-collection",
+            "forensic-analysis",
+            "police-badge",
+            "crime-lab-equipment"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "crime-themes"
+          ]
+        },
+        "keyword_sentence": "CSI: Vegas is a suspenseful crime drama set in Las Vegas, where a team of forensic scientists utilizes cutting-edge technology to uphold justice and confront a legacy of corruption."
+      },
+      "duration_seconds": 61.56365418434143
+    }
+  }
+}

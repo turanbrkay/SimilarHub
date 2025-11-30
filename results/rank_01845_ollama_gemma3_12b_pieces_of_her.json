@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Pieces of Her",
+    "overview": "An act of violence rocks a sleepy Georgia town as well as the bond between a mother and her daughter.",
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Drama"
+    ],
+    "release_year": 2022,
+    "vote_count": 108
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Pieces of Her is a suspenseful crime drama centered on the fractured relationship between a mother and daughter, unraveling a web of secrets and past trauma. The series explores themes of identity, family loyalty, and the lengths people go to protect their past. With a focus on mystery and psychological tension, it offers a compelling narrative about a woman forced to confront a hidden life and the impact it has on her daughter. The series blends elements of thriller and drama, creating a gripping exploration of buried truths and the complexities of maternal bonds.",
+        "spoiler_rich_plot_summary": "The series begins with Andy, a young woman living a seemingly normal life, whose world is shattered when her mother, Laura, unexpectedly intervenes during a violent incident in their small town. This act prompts Andy to question everything she thought she knew about her mother, leading her on a journey to uncover Laura’s hidden past. Andy discovers that Laura has been living under an assumed identity, fleeing from a past life as a radical activist involved in a series of violent events decades earlier. As Andy digs deeper, she uncovers a complex network of individuals connected to Laura’s past, including former allies and dangerous enemies. Laura, in turn, is forced to confront her past actions and the consequences they have had on her and her daughter. The investigation reveals a history of political extremism, corporate corruption, and personal betrayals, forcing both women to make difficult choices and confront the truth about their identities. Ultimately, Laura’s past catches up with her, and she must protect Andy from those who seek to harm her, leading to a confrontation that reshapes their relationship and reveals the full extent of Laura’s carefully constructed facade.",
+        "categorized_keywords": {
+          "themes": [
+            "identity-crisis",
+            "mother-daughter-relationship",
+            "past-trauma",
+            "secrets",
+            "redemption",
+            "family-loyalty"
+          ],
+          "plot_and_concepts": [
+            "mystery",
+            "crime-investigation",
+            "political-thriller",
+            "false-identity",
+            "radical-activism"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "tense",
+            "psychological-thriller"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "mystery-drama",
+            "small-town-secrets"
+          ],
+          "setting": [
+            "small-town-usa",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "enigmatic-mother",
+            "determined-daughter"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "flashback-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "small-town-setting",
+            "flashback-sequences",
+            "police-investigation",
+            "hidden-identity"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "emotional-abuse"
+          ]
+        },
+        "keyword_sentence": "Pieces of Her is a suspenseful mystery drama set in a small town, exploring the complex and often dark relationship between a mother and daughter as they confront a past filled with secrets and violence."
+      },
+      "duration_seconds": 66.88813138008118
+    }
+  }
+}

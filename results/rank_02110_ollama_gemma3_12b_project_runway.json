@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Project Runway",
+    "overview": "Aspiring fashion designers compete for a chance to break into the industry. Each week, a designer is eliminated from the competition after exhibiting their work in front of a judges' panel.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2004,
+    "vote_count": 89
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Project Runway is a reality competition series that showcases the creative process and intense pressure faced by aspiring fashion designers. Each season, a group of designers compete in weekly challenges, judged on their ability to conceptualize, design, and execute garments under tight deadlines. The show blends elements of design, business, and interpersonal drama, offering viewers a glimpse into the high-stakes world of fashion while celebrating creativity and innovation. The series is known for its charismatic host, demanding judges, and the emotional journeys of the contestants as they strive for a career-launching opportunity.",
+        "spoiler_rich_plot_summary": "The series begins with a group of diverse designers, each with their own unique style and background, vying for a chance to win the title of Project Runway winner. Throughout the season, they face weekly challenges that test their skills in various areas of fashion design, from creating evening wear to designing entire collections. The designers must work under immense time constraints and limited resources, often leading to creative breakthroughs and frustrating setbacks. Each week, the judges critique the designers' work, providing feedback and ultimately eliminating one contestant. The competition intensifies as the number of designers dwindles, culminating in a final runway show where the remaining designers present their best work. The winner receives a significant prize package, including funding, mentorship, and exposure to the fashion industry, potentially launching their career into the spotlight. While the specific challenges and designer personalities vary each season, the core structure of the competition remains consistent, showcasing the highs and lows of pursuing a career in fashion.",
+        "categorized_keywords": {
+          "themes": [
+            "competition",
+            "creativity",
+            "fashion-design",
+            "career-ambition",
+            "self-expression",
+            "pressure",
+            "innovation"
+          ],
+          "plot_and_concepts": [
+            "elimination-challenge",
+            "design-competition",
+            "judging-panel",
+            "runway-show",
+            "time-constraints",
+            "fashion-industry"
+          ],
+          "mood_and_tone": [
+            "competitive",
+            "inspiring",
+            "fast-paced",
+            "dramatic",
+            "stylish"
+          ],
+          "genre_and_tropes": [
+            "reality-competition",
+            "design-show",
+            "makeover-show",
+            "underdog-story"
+          ],
+          "setting": [
+            "new-york-city",
+            "fashion-studio",
+            "runway"
+          ],
+          "character_archetypes": [
+            "aspiring-designer",
+            "charismatic-host",
+            "expert-judge",
+            "creative-visionary"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "weekly-challenge",
+            "elimination-format"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "fashion-enthusiasts"
+          ],
+          "detail_plot": [
+            "design-brief",
+            "fabric-swatch",
+            "sewing-machine",
+            "judges-critique",
+            "runway-look"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Project Runway is a fast-paced reality competition showcasing aspiring fashion designers battling weekly challenges under intense pressure to launch their careers in the stylish world of fashion."
+      },
+      "duration_seconds": 66.92303133010864
+    }
+  }
+}

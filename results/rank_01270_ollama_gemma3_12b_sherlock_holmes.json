@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Sherlock Holmes",
+    "overview": "Sherlock Holmes uses his abilities to take on cases by private clients and those that the Scotland Yard are unable to solve, along with his friend Dr. Watson.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 1984,
+    "vote_count": 187
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Sherlock Holmes is a British television series that reimagines the classic detective stories of Sir Arthur Conan Doyle. The show blends elements of crime procedural, mystery, and drama, presenting a modern take on the iconic characters of Sherlock Holmes and Dr. Watson. It emphasizes intricate plots, sharp dialogue, and the dynamic partnership between the brilliant but eccentric detective and his loyal companion, offering a compelling exploration of deduction, observation, and the pursuit of justice. The series maintains a consistently suspenseful and intellectually stimulating atmosphere, appealing to fans of classic mysteries and contemporary crime dramas.",
+        "spoiler_rich_plot_summary": "The series follows Sherlock Holmes, a consulting detective living at 221B Baker Street, and his friend Dr. John Watson as they investigate a series of complex and often dangerous cases. Early episodes establish Sherlock's unparalleled deductive abilities and Watson's role as his chronicler and confidant. As the series progresses, Sherlock and Watson confront increasingly challenging adversaries, including Moriarty, a criminal mastermind who poses a significant threat to their safety and the stability of London. The cases often involve intricate plots, red herrings, and unexpected twists, requiring Sherlock to utilize his keen intellect and observational skills to uncover the truth. Throughout the series, the relationship between Sherlock and Watson deepens, as they rely on each other for support and companionship. The overarching narrative explores themes of justice, morality, and the complexities of human nature, culminating in a final confrontation that tests the limits of their abilities and their friendship.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "deduction",
+            "friendship",
+            "morality",
+            "observation",
+            "crime"
+          ],
+          "plot_and_concepts": [
+            "crime-investigation",
+            "mystery",
+            "consulting-detective",
+            "red-herring",
+            "deductive-reasoning"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "intellectual",
+            "dramatic",
+            "enigmatic"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "mystery",
+            "detective-fiction"
+          ],
+          "setting": [
+            "london-england",
+            "victorian-era",
+            "baker-street"
+          ],
+          "character_archetypes": [
+            "detective",
+            "sidekick",
+            "criminal-mastermind"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "221b-baker-street",
+            "magnifying-glass",
+            "pipe",
+            "deerstalker-hat"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Set in Victorian London, the series is a suspenseful crime investigation that follows the brilliant detective Sherlock Holmes and his loyal companion as they unravel complex mysteries and confront dangerous adversaries."
+      },
+      "duration_seconds": 59.62649321556091
+    }
+  }
+}

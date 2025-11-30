@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Black Summer",
+    "overview": "In the dark, early days of a zombie apocalypse, complete strangers band together to find the strength they need to survive and get back to loved ones.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Action & Adventure"
+    ],
+    "release_year": 2019,
+    "vote_count": 459
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Black Summer is a gritty and visceral zombie apocalypse drama that distinguishes itself through its focus on the immediate, chaotic aftermath of societal collapse. The series emphasizes the psychological toll of survival, portraying a group of strangers forced to cooperate amidst overwhelming danger. It blends elements of horror, action, and character-driven drama, offering a bleak and realistic depiction of a world overrun by the undead. The show prioritizes tension and suspense, exploring themes of loss, resilience, and the fragility of human connection in the face of unimaginable horror. It avoids traditional zombie tropes, opting for a more grounded and desperate tone.",
+        "spoiler_rich_plot_summary": "The series begins with a sudden and unexplained zombie outbreak, instantly plunging a shopping mall and its surrounding community into chaos. A woman named Sarah, desperately searching for her missing daughter, becomes entangled with a group of survivors attempting to escape the mall. Their initial attempts at cooperation are fraught with conflict, as differing personalities and desperate measures threaten to tear the group apart. As they venture out into the wider world, they encounter increasingly dangerous hordes of zombies and hostile survivors, forcing them to make difficult choices with devastating consequences. The search for Sarah’s daughter becomes a driving force, intertwining with the larger struggle for survival and revealing the depths of human desperation. Over time, the group fragments and reforms, facing betrayals and losses that test their resolve. The series explores the long-term effects of trauma and the moral compromises necessary to endure, ultimately depicting a world irrevocably changed by the apocalypse and the enduring hope for reconnection.",
+        "categorized_keywords": {
+          "themes": [
+            "survival",
+            "loss",
+            "hope",
+            "desperation",
+            "family-loyalty",
+            "moral-compromise",
+            "trauma"
+          ],
+          "plot_and_concepts": [
+            "zombie-apocalypse",
+            "found-family",
+            "post-apocalyptic",
+            "survival-horror",
+            "small-group-dynamics"
+          ],
+          "mood_and_tone": [
+            "grim",
+            "tense",
+            "visceral",
+            "bleak",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "horror",
+            "action-thriller",
+            "post-apocalyptic-fiction"
+          ],
+          "setting": [
+            "modern-day",
+            "suburban-setting",
+            "shopping-mall",
+            "post-collapse-society"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "grieving-mother",
+            "survivalist",
+            "anti-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "small-ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "zombie-horde",
+            "shopping-mall-setting",
+            "makeshift-weapons",
+            "barricades",
+            "makeshift-shelter"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "zombie-gore"
+          ]
+        },
+        "keyword_sentence": "Black Summer is a grim and visceral horror series depicting a desperate group of survivors navigating a terrifying zombie apocalypse in a modern, post-collapse society, exploring themes of loss, hope, and the fragility of human connection."
+      },
+      "duration_seconds": 89.16719341278076
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Scooby-Doo and Guess Who?",
+    "overview": "The Mystery Inc. gang solve bigger mysteries while also encountering many memorable celebrities.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Mystery"
+    ],
+    "release_year": 2019,
+    "vote_count": 200
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Scooby-Doo and Guess Who? is a comedic animated series that revitalizes the classic Scooby-Doo formula by introducing a rotating cast of celebrity guest stars and expanding the scope of the mysteries. Maintaining the core appeal of slapstick humor and lovable characters, the show blends familiar tropes with fresh comedic elements and a broader range of settings. The series aims to entertain a family audience with lighthearted adventures and a nostalgic feel, while also appealing to fans of the original series through its continuation of the established universe.",
+        "spoiler_rich_plot_summary": "The series follows Fred, Daphne, Velma, Shaggy, and Scooby-Doo as they continue their mystery-solving adventures. Each episode typically features a new celebrity guest star who becomes entangled in a supernatural or seemingly paranormal situation. The gang must then unravel the truth behind the mystery, often involving elaborate schemes and disguises. While the mysteries themselves are usually resolved through clever deduction and comedic mishaps, the introduction of new characters and settings expands the overall narrative scope. Recurring themes involve the importance of friendship, courage, and the power of teamwork in overcoming challenges. The series maintains a lighthearted tone, avoiding darker or more complex storylines, and focuses on delivering entertaining adventures for a broad audience. The celebrity appearances often tie into the mystery in unexpected ways, adding a layer of playful absurdity to the proceedings.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "courage",
+            "teamwork",
+            "mystery-solving",
+            "nostalgia"
+          ],
+          "plot_and_concepts": [
+            "mystery-procedural",
+            "disguise",
+            "celebrity-guest-star",
+            "monster-of-the-week"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "comedic",
+            "wholesome",
+            "slapstick-humor"
+          ],
+          "genre_and_tropes": [
+            "animated-comedy",
+            "mystery",
+            "found-family"
+          ],
+          "setting": [
+            "modern-day",
+            "various-locations"
+          ],
+          "character_archetypes": [
+            "lovable-misfits",
+            "brave-protagonist",
+            "clever-detective"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "mystery-machine",
+            "monster-mask",
+            "trap-door",
+            "secret-passage"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Scooby-Doo and Guess Who? is a lighthearted animated comedy series that follows a group of lovable friends as they solve mysteries and encounter celebrity guests in a nostalgic and family-friendly adventure."
+      },
+      "duration_seconds": 57.23091697692871
+    }
+  }
+}

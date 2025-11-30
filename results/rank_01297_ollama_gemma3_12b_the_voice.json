@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "The Voice",
+    "overview": "The strongest vocalists from across the United states compete in a blockbusters vocal competition, the winner becomes “The Voice.” The show's innovative format features four stages of competition: the blind auditions, the battle rounds, the knockouts and, finally, the live performance shows.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2011,
+    "vote_count": 182
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Voice is a popular reality singing competition series where aspiring vocalists compete for a recording contract and national recognition. The show's unique blind audition format, where coaches judge contestants solely on their voice, creates immediate drama and emotional investment. It blends elements of talent scouting, performance spectacle, and interpersonal coaching dynamics, appealing to a broad audience interested in music and human stories. The series emphasizes vocal talent and stage presence, fostering a supportive environment while maintaining competitive tension.",
+        "spoiler_rich_plot_summary": "Each season of The Voice begins with the blind auditions, where four celebrity coaches sit with their backs to the performers, pressing their 'I Want You' buttons if they like what they hear. Successful auditionees are then divided into teams, with the coaches mentoring their chosen singers. The Battle Rounds pit team members against each other in vocal duels, with the coaches deciding who advances. Following the Battles are the Knockout Rounds, where remaining singers compete individually, further refining their performances. The season culminates in live performance shows, where the public votes for their favorite singers, gradually eliminating contestants until a winner is crowned. Throughout the competition, coaches offer guidance and support, often revealing personal stories and professional insights, creating a narrative arc of mentorship and artistic growth.",
+        "categorized_keywords": {
+          "themes": [
+            "talent-competition",
+            "music-industry",
+            "mentorship",
+            "performance-pressure",
+            "artistic-growth"
+          ],
+          "plot_and_concepts": [
+            "blind-audition",
+            "battle-rounds",
+            "knockout-rounds",
+            "live-voting",
+            "elimination-format"
+          ],
+          "mood_and_tone": [
+            "uplifting",
+            "emotional",
+            "energetic",
+            "supportive",
+            "competitive"
+          ],
+          "genre_and_tropes": [
+            "reality-television",
+            "talent-show",
+            "singing-competition",
+            "feel-good-tv"
+          ],
+          "setting": [
+            "television-studio",
+            "modern-day",
+            "united-states"
+          ],
+          "character_archetypes": [
+            "aspiring-singer",
+            "celebrity-coach",
+            "mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "elimination-based"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "blind-audition-chairs",
+            "microphone",
+            "stage-lights",
+            "voting-system"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Voice is an uplifting reality television competition where aspiring singers showcase their talent under the guidance of celebrity coaches, creating an emotional and energetic journey towards musical stardom."
+      },
+      "duration_seconds": 56.40845060348511
+    }
+  }
+}

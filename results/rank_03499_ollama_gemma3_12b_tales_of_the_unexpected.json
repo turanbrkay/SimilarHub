@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "Tales of the Unexpected",
+    "overview": "A British television anthology of stories, often with sinister and wryly comedic undertones, and a twist at the end. With early episodes written and presented by Roald Dahl, the series featured a plethora of big name guest stars.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 1979,
+    "vote_count": 36
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Tales of the Unexpected is a British anthology series renowned for its darkly comedic and suspenseful short stories, frequently culminating in unexpected twists. The show, initially presented and written by Roald Dahl, blends drama with a wry sense of humor, exploring human nature and often revealing the darker side of seemingly ordinary situations. Featuring a rotating cast of guest stars, each episode offers a self-contained narrative, creating a consistently engaging and unpredictable viewing experience. The series' enduring appeal lies in its clever writing, strong performances, and the satisfaction of a well-executed surprise ending.",
+        "spoiler_rich_plot_summary": "Each episode of Tales of the Unexpected presents a unique and self-contained story, often beginning with a seemingly innocuous premise. Characters are introduced, and a situation unfolds, gradually building tension and suspense. The narratives frequently explore themes of greed, betrayal, and revenge, with a focus on the complexities of human relationships. As the story progresses, subtle clues and red herrings are woven into the narrative, leading the viewer down a path of assumptions. The hallmark of the series is the unexpected twist ending, which often subverts the viewer's expectations and reveals a hidden truth or a surprising motive. The stories vary in tone, ranging from darkly comedic to genuinely unsettling, but all share the common thread of a clever and unexpected resolution. The series' format allows for a wide range of stories and characters, ensuring a consistently fresh and engaging viewing experience.",
+        "categorized_keywords": {
+          "themes": [
+            "greed",
+            "betrayal",
+            "revenge",
+            "deception",
+            "human-nature",
+            "moral-ambiguity"
+          ],
+          "plot_and_concepts": [
+            "twist-ending",
+            "anthology-series",
+            "short-story",
+            "red-herring",
+            "surprise-reveal"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "suspenseful",
+            "wry",
+            "unsettling"
+          ],
+          "genre_and_tropes": [
+            "drama",
+            "mystery",
+            "thriller",
+            "anthology"
+          ],
+          "setting": [
+            "british-culture",
+            "domestic-setting"
+          ],
+          "character_archetypes": [
+            "deceptive-character",
+            "victim",
+            "manipulator"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "self-contained-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "unexpected-twist",
+            "domestic-interior",
+            "british-setting"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Tales of the Unexpected is a darkly comic British anthology series that explores themes of deception and betrayal through suspenseful short stories, culminating in a surprising twist ending."
+      },
+      "duration_seconds": 52.99351215362549
+    }
+  }
+}

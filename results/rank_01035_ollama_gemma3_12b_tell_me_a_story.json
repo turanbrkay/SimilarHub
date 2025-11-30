@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Tell Me a Story",
+    "overview": "The world's most beloved fairy tales reimagined as a dark and twisted psychological thriller.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2018,
+    "vote_count": 246
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Tell Me a Story is an anthology series that deconstructs classic fairy tales, weaving them into a contemporary, dark psychological thriller. Each season presents a new set of characters and a reimagined narrative, exploring themes of morality, desperation, and the blurred lines between good and evil. The series blends elements of drama, suspense, and mystery, offering a visually stylish and emotionally intense viewing experience. It examines the lengths people will go to protect their loved ones and the consequences of their choices in a world where traditional notions of happily ever after are shattered.",
+        "spoiler_rich_plot_summary": "The inaugural season of 'Tell Me a Story' centers around a group of seemingly ordinary New Yorkers struggling with personal crises. A young woman's fiancé is murdered, and she desperately seeks revenge, leading her down a dark path. Simultaneously, a struggling single mother grapples with financial hardship and considers drastic measures to secure her child's future. A third character, a police officer, becomes entangled in the unfolding events, blurring the lines between justice and personal gain. As the characters' lives intertwine, they find themselves drawn into a twisted game of manipulation and deceit, inspired by the fairy tale 'Little Red Riding Hood.' The season culminates in a shocking revelation, exposing the true nature of the events and the devastating consequences of their actions, leaving the audience questioning the characters' motivations and the very definition of morality. Subsequent seasons continue this pattern, each retelling a different fairy tale with new characters and a fresh set of moral dilemmas, maintaining the series' signature dark and suspenseful tone.",
+        "categorized_keywords": {
+          "themes": [
+            "morality",
+            "desperation",
+            "revenge",
+            "deception",
+            "family-loyalty",
+            "loss",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "fairy-tale-retelling",
+            "anthology-series",
+            "crime-investigation",
+            "psychological-thriller",
+            "mystery"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "suspenseful",
+            "intense",
+            "gritty",
+            "noir"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "psychological-horror",
+            "dark-fantasy",
+            "anthology"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "morally-gray-protagonist",
+            "victim",
+            "vigilante"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "anthology"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "dark-forest",
+            "police-station",
+            "urban-setting",
+            "red-hoodie"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "sexual-content",
+            "dark-themes"
+          ]
+        },
+        "keyword_sentence": "Tell Me a Story is a dark and suspenseful anthology series set in modern-day New York City, reimagining classic fairy tales as gritty psychological thrillers exploring themes of morality, desperation, and the blurred lines between good and evil."
+      },
+      "duration_seconds": 62.36626482009888
+    }
+  }
+}

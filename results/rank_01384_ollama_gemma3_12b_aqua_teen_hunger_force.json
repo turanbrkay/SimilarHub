@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Aqua Teen Hunger Force",
+    "overview": "The surreal adventures of three anthropomorphic fast food items: Master Shake, Frylock and Meatwad, and their human nextdoor neighbor, Carl Brutananadilewski.",
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "release_year": 2000,
+    "vote_count": 166
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Aqua Teen Hunger Force is a surreal and absurdist animated comedy series that defies easy categorization. The show follows the misadventures of three anthropomorphic fast food items – Master Shake, Frylock, and Meatwad – and their perpetually frustrated neighbor, Carl. Known for its non-sequiturs, bizarre humor, and often-chaotic storytelling, the series offers a unique and often unsettling comedic experience, blending elements of sketch comedy, dark humor, and experimental animation. The show's appeal lies in its willingness to embrace randomness and its rejection of conventional narrative structures.",
+        "spoiler_rich_plot_summary": "The series largely eschews a traditional overarching plot, instead opting for episodic adventures that often spiral into bizarre and illogical scenarios. Master Shake, the arrogant and manipulative milkshake, frequently instigates trouble, often targeting Frylock, the more rational and responsible french fry, and the naive and childlike Meatwad. Carl, the perpetually unlucky neighbor, consistently finds himself caught in the crossfire of their antics, suffering a constant barrage of property damage and psychological torment. Recurring themes involve the trio's attempts to make money, their interactions with strange and often dangerous creatures, and their general disruption of suburban life. While individual episodes may feature brief, self-contained narratives, the series' overall arc involves the ongoing, chaotic relationship between the three fast-food items and their increasingly exasperated neighbor, with no clear resolution or ultimate goal in sight. The show's humor often derives from the characters' inability to learn from their mistakes and their persistent engagement in destructive behavior.",
+        "categorized_keywords": {
+          "themes": [
+            "absurdism",
+            "chaos",
+            "consumerism",
+            "frustration",
+            "suburban-life",
+            "nihilism"
+          ],
+          "plot_and_concepts": [
+            "surreal-comedy",
+            "anthropomorphism",
+            "sketch-comedy",
+            "non-sequitur",
+            "randomness"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "surreal",
+            "chaotic",
+            "unsettling",
+            "absurdist"
+          ],
+          "genre_and_tropes": [
+            "adult-animation",
+            "comedy",
+            "sketch-comedy"
+          ],
+          "setting": [
+            "suburban-america",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "arrogant-villain",
+            "straight-man",
+            "naive-protagonist",
+            "unlucky-neighbor"
+          ],
+          "narrative_style": [
+            "episodic",
+            "non-linear-storytelling"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "fast-food-items",
+            "anthropomorphic-characters",
+            "suburban-house",
+            "lawnmower",
+            "car-wash"
+          ],
+          "maturity_and_content": [
+            "crude-humor",
+            "sexual-innuendo",
+            "violence"
+          ]
+        },
+        "keyword_sentence": "Aqua Teen Hunger Force is a darkly comic adult animation series that revels in absurdism and chaos, following the misadventures of anthropomorphic fast-food items and their unlucky neighbor in suburban America."
+      },
+      "duration_seconds": 64.38008952140808
+    }
+  }
+}

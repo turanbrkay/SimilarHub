@@ -1,0 +1,125 @@
+{
+  "input_data": {
+    "title": "Game of Thrones",
+    "overview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Action & Adventure"
+    ],
+    "release_year": 2011,
+    "vote_count": 21857
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Game of Thrones is an epic fantasy drama that chronicles the brutal power struggle among seven noble houses in the continent of Westeros, intertwining political intrigue, war, and supernatural threats. The series follows the rise and fall of dynasties, the relentless pursuit of the iron-throne, and the looming menace of the white-walkers beyond the wall. With a sprawling ensemble cast, it balances intimate character arcs with sweeping battles, exploring themes of honor, betrayal, and survival. The narrative’s gritty realism and complex moral ambiguity set it apart as a landmark in modern television fantasy.",
+        "spoiler_rich_plot_summary": "The series begins with the death of King Robert Baratheon and the subsequent scramble for the iron-throne, as the Stark family of Winterfell becomes entangled in the political machinations of the Lannisters and Baratheons. Over the first season, Ned Stark is executed, the Red Wedding devastates the northern houses, and the Night’s Watch faces the threat of the White Walkers. Daenerys Targaryen rises from exile, conquers the cities of Meereen, and hatches three dragons, while Jon Snow, a member of the Night’s Watch, discovers his true parentage and ultimately kills the Night King, ending the immediate threat from the north. Bran Stark’s journey to become the Three-Headed Dragon of the North culminates in his ascension to the throne of the North. In the final season, the remaining houses converge on King's Landing, where Cersei Lannister is killed by a falling iron throne, and Daenerys is slain by Jon Snow to prevent her tyrannical rule. Bran is elected king of the Six Kingdoms, while Sansa Stark declares the North an independent kingdom. The series concludes with the surviving characters facing a new era of governance and the lingering remnants of the ancient magic that once ruled Westeros.",
+        "categorized_keywords": {
+          "themes": [
+            "power-struggle",
+            "betrayal",
+            "honor",
+            "family",
+            "survival",
+            "destiny",
+            "politics",
+            "morality",
+            "fate",
+            "loyalty",
+            "retribution",
+            "identity",
+            "sacrifice",
+            "corruption"
+          ],
+          "plot_and_concepts": [
+            "iron-throne",
+            "white-walkers",
+            "nights-watch",
+            "dragons",
+            "red-wedding",
+            "great-hall",
+            "wall",
+            "wildlings",
+            "prophecy"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "political",
+            "gritty",
+            "epic",
+            "dramatic",
+            "violent",
+            "bleak",
+            "tension"
+          ],
+          "genre_and_tropes": [
+            "epic-fantasy",
+            "political-drama",
+            "family-quest",
+            "battle-royale",
+            "revenge",
+            "betrayal",
+            "cunning",
+            "survival",
+            "dark-humor"
+          ],
+          "setting": [
+            "westeros",
+            "north",
+            "wall",
+            "iron-islands",
+            "kings-landing",
+            "frozen-wastes"
+          ],
+          "character_archetypes": [
+            "king",
+            "queen",
+            "prince",
+            "knight",
+            "wizard",
+            "dragon-rider",
+            "rogue",
+            "mentor",
+            "traitor",
+            "hero",
+            "anti-hero",
+            "rebel",
+            "soldier",
+            "noble"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "multi-arc",
+            "slow-burn",
+            "episodic",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "mature-audiences",
+            "fantasy-fans",
+            "political-drama",
+            "action-adventure"
+          ],
+          "detail_plot": [
+            "death-of-ned-stark",
+            "red-wedding",
+            "burning-of-great-hall",
+            "fall-of-great-houses",
+            "rise-of-daenerys-queen-of-dragons",
+            "destruction-of-the-wall",
+            "final-battle-of-the-living-and-the-dead",
+            "death-of-jon-snow",
+            "destruction-of-night-king",
+            "fall-of-cersei",
+            "collapse-of-iron-throne",
+            "death-of-daenerys",
+            "fate-of-six-kingdoms"
+          ]
+        },
+        "keyword_sentence": "Game of Thrones is a dark, epic fantasy saga of power-struggle, betrayal, and survival set in Westeros, featuring iconic elements like the iron-throne, white-walkers, nights-watch, and dragons, while weaving a serialized, multi-arc narrative that appeals to mature-audiences."
+      },
+      "duration_seconds": 211.05709052085876
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "The Responder",
+    "overview": "Under pressure, fraying at the edges. In relentless night-time Liverpool, copper Chris is paired with a rookie. Will they save or destroy each other?",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "release_year": 2022,
+    "vote_count": 50
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Responder is a gritty, character-driven drama series set against the backdrop of a chaotic and crime-ridden Liverpool. The show follows a morally compromised police responder struggling with personal demons and professional pressures, forcing him to make difficult choices with significant consequences. It explores themes of duty, redemption, and the psychological toll of working in a high-stress environment, blending elements of police procedural and psychological thriller. The series offers a bleak and realistic portrayal of law enforcement and its impact on both the officers and the community they serve, maintaining a tense and suspenseful atmosphere throughout.",
+        "spoiler_rich_plot_summary": "The Responder centers on Chris Carrier, a police responder facing disciplinary action and battling personal struggles, including a failing marriage and substance abuse. He's partnered with a new recruit, Kate Bishop, and together they navigate the dangerous streets of Liverpool, responding to emergency calls. Early episodes establish Chris's willingness to bend or break the rules to achieve results, often blurring the lines between justice and vigilantism. As the series progresses, Chris becomes embroiled in a complex and dangerous case involving drug trafficking and corruption within the police force. His actions and decisions have far-reaching consequences, impacting his career, his relationship with Kate, and the lives of those around him. The investigation reveals a web of deceit and betrayal, forcing Chris to confront his own demons and make difficult choices that will determine his fate and the future of the police department. The series culminates in a tense and morally ambiguous resolution, leaving the audience questioning the true meaning of justice and the cost of redemption.",
+        "categorized_keywords": {
+          "themes": [
+            "moral-ambiguity",
+            "redemption",
+            "police-corruption",
+            "duty",
+            "personal-struggle",
+            "justice"
+          ],
+          "plot_and_concepts": [
+            "police-procedural",
+            "undercover-operation",
+            "crime-thriller",
+            "moral-compromise"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "tense",
+            "bleak",
+            "suspenseful",
+            "dark"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "police-thriller",
+            "anti-hero",
+            "slow-burn"
+          ],
+          "setting": [
+            "liverpool",
+            "modern-day",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "troubled-protagonist",
+            "rookie-cop",
+            "corrupt-official"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "police-car",
+            "emergency-call",
+            "crime-scene",
+            "interrogation-room"
+          ],
+          "maturity_and_content": [
+            "substance-abuse",
+            "profanity",
+            "graphic-violence"
+          ]
+        },
+        "keyword_sentence": "Set against the gritty backdrop of modern-day Liverpool, The Responder is a tense crime drama exploring themes of moral ambiguity and redemption through the eyes of a troubled police officer battling personal demons and navigating a web of corruption."
+      },
+      "duration_seconds": 60.721184492111206
+    }
+  }
+}

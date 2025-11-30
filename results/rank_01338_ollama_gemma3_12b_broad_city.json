@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Broad City",
+    "overview": "Broad City follows two women throughout their daily lives in New York City, making the smallest and mundane events hysterical and disturbing to watch all at the same time.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2014,
+    "vote_count": 174
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Broad City is a comedic exploration of female friendship and navigating adulthood in New York City. The series blends observational humor with surreal and often absurd situations, creating a unique and irreverent tone. It follows the escapades of two best friends as they pursue their dreams, encounter various misadventures, and grapple with the challenges of their twenties. The show's strength lies in its authentic portrayal of female relationships and its willingness to push boundaries with its humor, offering a relatable and often chaotic depiction of modern life.",
+        "spoiler_rich_plot_summary": "The series begins with Ilana and Abbi, two lifelong best friends living in New York City, struggling to find their footing in their careers and personal lives. Ilana, a freelance saleswoman, is more impulsive and sexually adventurous, while Abbi, a struggling artist, is more anxious and prone to awkward situations. Throughout the series, they navigate a series of increasingly bizarre and hilarious encounters, from disastrous job interviews and failed romantic pursuits to run-ins with eccentric characters and unexpected opportunities. Their friendship is tested by their individual ambitions and insecurities, but ultimately remains the central anchor of their lives. As the series progresses, Ilana and Abbi confront their fears and insecurities, striving to achieve their goals while maintaining their close bond. The final season sees them reflecting on their journey and preparing for the next chapter of their lives, acknowledging the impact they're having on each other and the world around them.",
+        "categorized_keywords": {
+          "themes": [
+            "female-friendship",
+            "coming-of-age",
+            "urban-life",
+            "self-discovery",
+            "ambition",
+            "identity"
+          ],
+          "plot_and_concepts": [
+            "slice-of-life",
+            "workplace-comedy",
+            "romantic-encounters",
+            "ensemble-cast"
+          ],
+          "mood_and_tone": [
+            "absurdist-humor",
+            "lighthearted",
+            "irreverent",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "comedy",
+            "found-family"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "best-friends",
+            "reluctant-hero",
+            "quirky-characters"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "young-adult",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "apartment-living",
+            "nyc-subway",
+            "workplace-environment",
+            "social-media"
+          ],
+          "maturity_and_content": [
+            "sexual-content",
+            "drug-use"
+          ]
+        },
+        "keyword_sentence": "Broad City is a lighthearted comedy series that explores the complexities of female friendship and the absurdities of urban life in New York City."
+      },
+      "duration_seconds": 58.803953886032104
+    }
+  }
+}

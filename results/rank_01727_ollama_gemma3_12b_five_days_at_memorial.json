@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Five Days at Memorial",
+    "overview": "Based on actual events from Hurricane Katrina. When the floodwaters rose, power failed, and heat soared, exhausted caregivers at a New Orleans hospital were forced to make profound, heart-wrenching decisions.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2022,
+    "vote_count": 119
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Five Days at Memorial is a harrowing drama series based on the real-life events surrounding Hurricane Katrina and its impact on Memorial Medical Center in New Orleans. The series explores the ethical and moral dilemmas faced by medical staff as they struggle to provide care amidst catastrophic conditions, dwindling resources, and the breakdown of societal infrastructure. It's a character-driven exploration of resilience, desperation, and the difficult choices made under extreme pressure, examining the fragility of systems and the human cost of disaster. The series blends medical drama with disaster narrative, offering a deeply unsettling and thought-provoking experience.",
+        "spoiler_rich_plot_summary": "The series begins in the days leading up to Hurricane Katrina, establishing the staff and patients at Memorial Medical Center. As the storm intensifies and makes landfall, the hospital loses power and quickly becomes isolated. With no electricity, backup generators fail, and the heat becomes unbearable, threatening the lives of vulnerable patients. Faced with dwindling supplies and the inability to transfer patients to safer locations, the medical team, led by Dr. Shantrelle Baptiste and Administrator Thorndike, makes the agonizing decision to administer sedatives to keep patients comfortable and conserve resources. As the days pass, the situation deteriorates, and the ethical implications of their actions become increasingly fraught. Investigations into the deaths that occurred at Memorial after the storm begin, focusing on the decisions made by the medical staff and the potential for criminal negligence. The series follows multiple perspectives, including those of the doctors, nurses, patients, and the investigators, revealing the complex web of responsibility and the lasting trauma inflicted by the disaster. The narrative culminates in a legal reckoning, forcing the characters to confront the consequences of their actions and grapple with the weight of their decisions.",
+        "categorized_keywords": {
+          "themes": [
+            "ethics",
+            "moral-dilemmas",
+            "disaster-response",
+            "accountability",
+            "loss",
+            "trauma",
+            "social-responsibility"
+          ],
+          "plot_and_concepts": [
+            "medical-drama",
+            "disaster-narrative",
+            "legal-investigation",
+            "resource-scarcity",
+            "euthanasia-debate"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "tense",
+            "unsettling",
+            "grim",
+            "claustrophobic"
+          ],
+          "genre_and_tropes": [
+            "medical-procedural",
+            "disaster-movie",
+            "courtroom-drama"
+          ],
+          "setting": [
+            "new-orleans",
+            "hurricane-katrina",
+            "hospital-setting",
+            "post-disaster"
+          ],
+          "character_archetypes": [
+            "moral-protagonist",
+            "resourceful-doctor",
+            "administrator-under-pressure",
+            "grieving-family"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "multiple-perspectives",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "hospital-beds",
+            "medical-records",
+            "sedation-protocols",
+            "floodwaters",
+            "emergency-generators"
+          ],
+          "maturity_and_content": [
+            "death-themes",
+            "medical-procedures",
+            "ethical-dilemmas"
+          ]
+        },
+        "keyword_sentence": "Five Days at Memorial is a somber medical drama set against the backdrop of Hurricane Katrina, exploring the ethical and moral dilemmas faced by medical professionals as they struggle to provide care amidst a catastrophic disaster and subsequent legal investigation."
+      },
+      "duration_seconds": 73.78526067733765
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Pride and Prejudice",
+    "overview": "Set in England in the early 19th century, Pride and Prejudice tells the story of Mr and Mrs Bennet's five unmarried daughters after the rich and eligible Mr Bingley and his status-conscious friend, Mr Darcy, have moved into their neighbourhood. While Bingley takes an immediate liking to the eldest Bennet daughter, Jane, Darcy has difficulty adapting to local society and repeatedly clashes with the second-eldest Bennet daughter, Elizabeth.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 1995,
+    "vote_count": 405
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Pride and Prejudice is a period drama that explores themes of love, class, and societal expectations in 19th-century England. The series follows the Bennet sisters as they navigate the complexities of courtship and marriage, often hindered by their family's social standing and the prejudices of the time. It's a character-driven story, focusing on the evolving relationship between Elizabeth Bennet and Mr. Darcy, marked by initial misunderstandings and growing respect. The series offers a witty and insightful commentary on social conventions and the pursuit of happiness within a rigid social hierarchy, ultimately celebrating the triumph of love and personal growth.",
+        "spoiler_rich_plot_summary": "The story begins with the arrival of wealthy bachelors, Mr. Bingley and Mr. Darcy, to the neighborhood, sparking excitement among the Bennet family, particularly Mrs. Bennet, who is desperate to secure advantageous marriages for her five daughters. Jane Bennet quickly attracts Mr. Bingley's attention, while Elizabeth Bennet finds herself clashing with the proud and aloof Mr. Darcy. Darcy's interference in Jane and Bingley's budding romance, fueled by his disapproval of the Bennet family's social standing, leads to Elizabeth's strong dislike for him.  Further complicating matters, Elizabeth is misled by Mr. Wickham, who paints Darcy as a villain.  Darcy proposes to Elizabeth, but she vehemently rejects him, fueled by her prejudices and Wickham's lies. Darcy then writes a letter explaining his actions and revealing Wickham's true character. Elizabeth begins to re-evaluate her judgments and recognizes her own flawed perceptions.  Through a series of events involving Lydia's elopement with Wickham and Darcy's intervention to resolve the crisis, Elizabeth gains a deeper understanding of Darcy's true nature and his honorable character.  Ultimately, Darcy and Elizabeth overcome their pride and prejudices, confess their love for each other, and agree to marry, alongside Jane and Bingley, securing a happy future for the Bennet sisters and resolving the initial social tensions.",
+        "categorized_keywords": {
+          "themes": [
+            "love-and-romance",
+            "social-class",
+            "family-dynamics",
+            "prejudice",
+            "reputation",
+            "personal-growth",
+            "courtship"
+          ],
+          "plot_and_concepts": [
+            "romantic-rivalry",
+            "misunderstandings",
+            "social-comedy",
+            "elopement",
+            "arranged-marriage"
+          ],
+          "mood_and_tone": [
+            "witty",
+            "romantic",
+            "charming",
+            "lighthearted",
+            "sentimental"
+          ],
+          "genre_and_tropes": [
+            "period-drama",
+            "romantic-comedy",
+            "social-satire",
+            "enemies-to-lovers"
+          ],
+          "setting": [
+            "england",
+            "19th-century",
+            "rural-estate",
+            "countryside"
+          ],
+          "character_archetypes": [
+            "strong-female-lead",
+            "brooding-hero",
+            "social-climbing-mother",
+            "naive-romantic"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "character-driven"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "ballroom-scene",
+            "carriage-ride",
+            "letter-writing",
+            "country-estate",
+            "drawing-room"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Pride and Prejudice is a charming and witty period drama set in 19th-century England, exploring themes of love, social class, and personal growth through the evolving relationship between a strong-willed heroine and a brooding hero."
+      },
+      "duration_seconds": 67.49593424797058
+    }
+  }
+}

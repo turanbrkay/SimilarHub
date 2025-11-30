@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Hercules",
+    "overview": "A chronicle of the life of the Greek hero who after killing his three sons must perform five labors to repent.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2005,
+    "vote_count": 38
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Hercules is a dramatic series chronicling the life of the legendary Greek hero. Following a tragic act of violence, Hercules is burdened by guilt and seeks redemption through a series of arduous labors. The series explores themes of fate, responsibility, and the struggle to overcome personal demons, blending mythological elements with a focus on character development and emotional depth. It offers a somber and introspective portrayal of a figure often depicted as purely heroic, examining the human cost of extraordinary power and the complexities of morality.",
+        "spoiler_rich_plot_summary": "The series begins with Hercules, a celebrated warrior, tragically killing his own sons in a moment of divine manipulation. Consumed by grief and guilt, he is tasked by the gods to perform twelve seemingly impossible labors as penance for his actions. Each labor presents not only physical challenges but also forces Hercules to confront his own flaws and the consequences of his past. Throughout his journey, he encounters various mythological creatures, gods, and mortals, some offering assistance and others seeking to exploit his power. As Hercules completes each labor, he grapples with the weight of his actions and the possibility of finding true redemption. The series culminates with Hercules facing a final, devastating trial that tests his strength and resolve, ultimately shaping his destiny and leaving a lasting impact on the world.",
+        "categorized_keywords": {
+          "themes": [
+            "redemption",
+            "guilt",
+            "fate",
+            "responsibility",
+            "divine-intervention",
+            "mortality",
+            "heroism"
+          ],
+          "plot_and_concepts": [
+            "mythological-quest",
+            "labor-of-hero",
+            "divine-punishment",
+            "heroic-journey"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "tragic",
+            "epic",
+            "melancholy"
+          ],
+          "genre_and_tropes": [
+            "mythological-drama",
+            "heroic-epic",
+            "tragic-hero"
+          ],
+          "setting": [
+            "ancient-greece",
+            "mythological-world"
+          ],
+          "character_archetypes": [
+            "tragic-hero",
+            "burdened-hero",
+            "penitent-warrior"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "quest-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "labor-trials",
+            "mythical-creatures",
+            "divine-intervention"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "death"
+          ]
+        },
+        "keyword_sentence": "Hercules is a somber and tragic mythological drama set in ancient Greece, exploring themes of guilt, redemption, and the burden of responsibility through the quest of a heroic figure seeking to atone for a devastating act."
+      },
+      "duration_seconds": 53.01617240905762
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Worst Roommate Ever",
+    "overview": "Violent con artists. Stone-cold killers. These terrifying true stories unveil some of the worst cohabitation experiences one could ever imagine.",
+    "genres": [
+      "Crime",
+      "Documentary"
+    ],
+    "release_year": 2022,
+    "vote_count": 43
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Worst Roommate Ever is a true-crime documentary series that explores the dark side of shared living spaces. Each episode recounts a different case of individuals who entered into roommate situations that quickly devolved into terrifying and often violent experiences. The series blends interviews with victims, law enforcement, and friends and family, alongside dramatic reenactments to build suspense and illustrate the psychological manipulation and criminal activity that unfolded. It examines the complexities of human relationships, the dangers of naivete, and the devastating consequences of trusting the wrong person.",
+        "spoiler_rich_plot_summary": "The series unfolds as a collection of standalone cases, each detailing a unique and disturbing roommate situation. Episodes typically begin with the initial attraction or circumstance that brought the individuals together, often portraying a seemingly normal or even friendly dynamic. However, as the narrative progresses, subtle signs of manipulation, financial exploitation, or outright criminal behavior emerge. These situations escalate, often involving theft, fraud, physical intimidation, and in some cases, violence. The series highlights the psychological tactics employed by the perpetrators, often targeting vulnerable individuals and exploiting their trust. While the specific details of each case vary, a common thread runs through the stories: the devastating impact on the victims and the often-complex legal proceedings that follow. The series concludes with a recounting of the legal outcomes and the long-term consequences for those involved, emphasizing the lasting trauma experienced by the victims.",
+        "categorized_keywords": {
+          "themes": [
+            "true-crime",
+            "deception",
+            "exploitation",
+            "trust-betrayal",
+            "psychological-manipulation",
+            "victimhood",
+            "financial-crime"
+          ],
+          "plot_and_concepts": [
+            "documentary-series",
+            "true-stories",
+            "crime-investigation",
+            "reenactments",
+            "financial-fraud",
+            "domestic-abuse"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "disturbing",
+            "unsettling",
+            "grim"
+          ],
+          "genre_and_tropes": [
+            "true-crime",
+            "documentary",
+            "crime-procedural"
+          ],
+          "setting": [
+            "domestic-setting",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "manipulative-abuser",
+            "vulnerable-victim",
+            "investigator"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "case-study"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "shared-apartment",
+            "financial-records",
+            "police-interview",
+            "security-footage"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "emotional-abuse",
+            "financial-exploitation"
+          ]
+        },
+        "keyword_sentence": "Worst Roommate Ever is a disturbing documentary series that explores the dark side of shared living spaces, revealing true stories of financial exploitation and psychological manipulation through a suspenseful and unsettling tone."
+      },
+      "duration_seconds": 59.27047252655029
+    }
+  }
+}

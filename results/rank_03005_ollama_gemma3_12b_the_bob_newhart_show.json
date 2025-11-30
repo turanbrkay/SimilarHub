@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "The Bob Newhart Show",
+    "overview": "The Bob Newhart Show is an American situation comedy produced by MTM Enterprises, which aired 142 original episodes on CBS from September 16, 1972, to April 1, 1978. Comedian Bob Newhart portrays a psychologist having to deal with his patients and fellow office workers. The show was filmed before a live audience.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1972,
+    "vote_count": 48
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Bob Newhart Show is a classic American sitcom centered around the daily life of psychologist Bob Hartley and his interactions with his patients, colleagues, and quirky neighbors. Known for its understated humor and relatable characters, the show explores themes of family, friendship, and the challenges of professional life with a gentle, observational style. Its simple premise and focus on character-driven comedy have made it a beloved and enduring television staple, showcasing the humor found in everyday situations. The show's live-audience format contributes to its warm and inviting atmosphere.",
+        "spoiler_rich_plot_summary": "The series begins with Bob Hartley establishing his psychology practice in Chicago, sharing an office with his friend, accountant Steve Vanderkolk. The initial seasons focus on Bob's attempts to build his practice, navigate patient interactions, and deal with the eccentricities of his neighbor, Emily Hartley, who often drops in unannounced. Steve's own personal and professional life provides a parallel comedic thread, as he deals with his wife and career aspirations. Throughout the series, Bob and Steve encounter a revolving door of patients and colleagues, each presenting unique comedic situations and challenges. While the show maintains a largely episodic structure, recurring characters and ongoing relationships provide a sense of continuity and development. The series concludes with Bob and Steve continuing their professional and personal lives, having weathered various comedic trials and tribulations, solidifying their enduring friendship and professional partnership.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "family",
+            "professional-life",
+            "everyday-situations",
+            "relationships"
+          ],
+          "plot_and_concepts": [
+            "sitcom",
+            "office-comedy",
+            "patient-interactions",
+            "recurring-characters",
+            "episodic-structure"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "observational",
+            "gentle",
+            "warm",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "slice-of-life",
+            "workplace-comedy"
+          ],
+          "setting": [
+            "chicago",
+            "modern-day",
+            "office-building"
+          ],
+          "character_archetypes": [
+            "psychologist",
+            "accountant",
+            "eccentric-neighbor",
+            "supportive-friend"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "psychology-practice",
+            "office-building",
+            "patient-file",
+            "accounting-ledgers"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Bob Newhart Show is a lighthearted and gentle sitcom that explores the everyday challenges and joys of friendship, family, and professional life in a Chicago psychology practice."
+      },
+      "duration_seconds": 59.79709720611572
+    }
+  }
+}

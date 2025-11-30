@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "12 Monkeys",
+    "overview": "The provocative story of Cole, a time traveler from a decimated future in a high-stakes race against the clock. Utilizing a dangerous and untested method of time travel, he journeys from 2043 to the present day on a mission to locate and eradicate the source of a deadly plague that will all but annihilate the human race.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "release_year": 2015,
+    "vote_count": 970
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "12 Monkeys is a complex science fiction drama that blends elements of time travel paradoxes, psychological thriller, and dystopian fiction. The series follows a convict sent from a post-apocalyptic future to the past to prevent a deadly virus from wiping out humanity. It explores themes of fate versus free will, the burden of knowledge, and the fragility of civilization, often presenting a dark and morally ambiguous world where the lines between hero and villain are blurred. The show's intricate narrative structure and character-driven storytelling create a suspenseful and intellectually stimulating viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with James Cole, a convict from 2043, involuntarily sent back to 2015 as part of a desperate attempt to prevent the release of the Army of the 12 Monkeys virus, which decimated the human population. Initially believing he is the virus's source, Cole struggles to understand his mission and the complex web of events surrounding it. He encounters Dr. Cassandra Railton, a brilliant virologist whose father's research is crucial to understanding the virus's origins. As Cole travels through different points in time, he uncovers a conspiracy far larger than he initially imagined, involving shadowy organizations and manipulations of history. He forms uneasy alliances and confronts betrayals, all while grappling with the psychological toll of his mission and the potential for altering the timeline with unforeseen consequences. The series reveals that the Army of the 12 Monkeys is not simply a terrorist group, but a complex organization with roots in the past, and that Cole's own existence is intertwined with the virus's creation. Ultimately, Cole must confront his own identity and purpose as he attempts to prevent the apocalypse, even if it means sacrificing his own future.",
+        "categorized_keywords": {
+          "themes": [
+            "time-travel",
+            "fate-vs-free-will",
+            "apocalypse",
+            "identity-crisis",
+            "redemption",
+            "conspiracy",
+            "moral-ambiguity"
+          ],
+          "plot_and_concepts": [
+            "time-loop",
+            "alternate-timeline",
+            "genetic-engineering",
+            "government-coverup",
+            "serial-experiments"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "suspenseful",
+            "psychological-thriller",
+            "dystopian"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "time-travel-story",
+            "found-family",
+            "government-conspiracy"
+          ],
+          "setting": [
+            "modern-day",
+            "post-apocalyptic",
+            "alternate-timeline"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "brilliant-scientist",
+            "enigmatic-villain",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "time-machine",
+            "laboratory-setting",
+            "government-facility",
+            "virus-sample"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "medical-horror"
+          ]
+        },
+        "keyword_sentence": "12 Monkeys is a dark and suspenseful science fiction drama exploring themes of time travel, fate, and conspiracy as a reluctant hero races against the clock to prevent a devastating apocalypse in a dystopian world."
+      },
+      "duration_seconds": 62.65234088897705
+    }
+  }
+}

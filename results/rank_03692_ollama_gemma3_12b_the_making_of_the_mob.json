@@ -1,0 +1,88 @@
+{
+  "input_data": {
+    "title": "The Making of The Mob",
+    "overview": "A docudrama series chronicling some of America's most notorious mobsters, each season dealing with a different city/region.",
+    "genres": [
+      "Drama",
+      "Documentary"
+    ],
+    "release_year": 2015,
+    "vote_count": 32
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Making of The Mob is a docudrama series that explores the rise and fall of various American crime syndicates. Each season focuses on a different city or region, blending historical accounts with dramatic reenactments to depict the lives of notorious mobsters and the impact of their actions. The series aims to provide a comprehensive look at the social, economic, and political factors that contributed to the rise of organized crime, while also examining the consequences for those involved and the communities they affected. It offers a blend of factual reporting and narrative storytelling, aiming to be both informative and engaging for viewers interested in true crime and American history.",
+        "spoiler_rich_plot_summary": "The series unfolds chronologically, beginning with the early days of organized crime in a specific city, often tracing the roots back to immigrant communities and Prohibition-era bootlegging. Each season introduces key figures – often ruthless and ambitious individuals – who gradually build their power through illegal activities like gambling, extortion, and drug trafficking. As these figures rise, they encounter rival gangs, corrupt law enforcement officials, and internal conflicts that threaten their empires. The narrative follows their strategies for maintaining control, navigating betrayals, and evading justice, often culminating in dramatic confrontations with the authorities or violent clashes with competing factions. The series doesn't shy away from depicting the brutal realities of organized crime, showcasing the devastating impact on families and communities. Ultimately, each season portrays the inevitable downfall of these criminal enterprises, whether through legal prosecution, internal strife, or the relentless pursuit of justice.",
+        "categorized_keywords": {
+          "themes": [
+            "crime-and-punishment",
+            "power-and-corruption",
+            "family-loyalty",
+            "american-history",
+            "social-impact",
+            "rise-and-fall"
+          ],
+          "plot_and_concepts": [
+            "true-crime",
+            "docudrama",
+            "gangster-film",
+            "prohibition-era",
+            "underworld-politics",
+            "law-enforcement"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "gritty",
+            "suspenseful",
+            "historical",
+            "serious"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "historical-drama",
+            "gangster-genre",
+            "true-story"
+          ],
+          "setting": [
+            "american-cities",
+            "20th-century",
+            "underground-world",
+            "historical-context"
+          ],
+          "character_archetypes": [
+            "gangster",
+            "corrupt-official",
+            "law-enforcer",
+            "ruthless-leader",
+            "victim"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "historical-account",
+            "reenactment"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "true-crime-fans",
+            "history-buffs"
+          ],
+          "detail_plot": [
+            "speakeasy",
+            "gambling-den",
+            "police-raid",
+            "courtroom-scene",
+            "mob-meeting"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "profanity",
+            "illegal-activities"
+          ]
+        },
+        "keyword_sentence": "The Making of The Mob is a dark and gritty docudrama series that explores the rise and fall of American organized crime through historical reenactments and true accounts of ruthless leaders and their impact on American cities."
+      },
+      "duration_seconds": 85.85246801376343
+    }
+  }
+}

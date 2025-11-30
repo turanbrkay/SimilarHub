@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "I Know This Much Is True",
+    "overview": "The parallel lives of identical twin brothers Dominick and Thomas Birdsey in an epic story of betrayal, sacrifice and forgiveness set against the backdrop of 20th century America.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2020,
+    "vote_count": 190
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "I Know This Much Is True is a deeply character-driven drama exploring the complex and often fraught relationship between identical twin brothers. The series delves into themes of family, mental illness, and the burden of secrets, unfolding across decades and examining the lasting impact of childhood trauma. With a deliberate pace and introspective tone, the show offers a poignant and emotionally resonant experience, demanding patience and rewarding viewers with a nuanced portrayal of human connection and the enduring power of forgiveness. The narrative structure, shifting between past and present, gradually reveals the roots of the brothers' fractured bond and the sacrifices made in the name of loyalty.",
+        "spoiler_rich_plot_summary": "The series primarily follows Dominick Birdsey, a New York Post reporter, as he journeys to rural Galilee, New York, to care for his twin brother, Thomas, who has been institutionalized following a severe mental breakdown. As Dominick attempts to reconnect with Thomas and uncover the reasons behind his brother’s crisis, he is forced to confront his own past and the secrets that have shaped their lives. The narrative weaves between the present-day struggles and flashbacks to their childhood, revealing a traumatic event involving their father and a subsequent cover-up that has haunted both brothers. Thomas, grappling with paranoia and delusions, believes he possesses knowledge that could expose a significant injustice, leading to a desperate search for truth and a dangerous confrontation with powerful figures. Dominick’s investigation unearths a web of deceit and corruption, forcing him to question everything he thought he knew about his family and his own identity. The brothers' relationship is tested to its limits as they navigate the complexities of mental illness, familial responsibility, and the pursuit of justice, ultimately leading to a poignant and bittersweet resolution where both men confront their demons and find a measure of peace.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "mental-illness",
+            "secrets-and-lies",
+            "redemption",
+            "forgiveness",
+            "truth-seeking",
+            "brotherhood",
+            "trauma"
+          ],
+          "plot_and_concepts": [
+            "flashbacks",
+            "parallel-narratives",
+            "cover-up",
+            "investigative-journalism",
+            "institutionalization"
+          ],
+          "mood_and_tone": [
+            "melancholy",
+            "introspective",
+            "somber",
+            "atmospheric",
+            "poignant"
+          ],
+          "genre_and_tropes": [
+            "family-drama",
+            "psychological-thriller",
+            "character-study"
+          ],
+          "setting": [
+            "new-york-state",
+            "rural-america",
+            "20th-century"
+          ],
+          "character_archetypes": [
+            "troubled-protagonist",
+            "eccentric-genius",
+            "burdened-sibling"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "newspaper-office",
+            "mental-institution",
+            "family-farm",
+            "old-photographs"
+          ],
+          "maturity_and_content": [
+            "mental-health-themes",
+            "emotional-distress"
+          ]
+        },
+        "keyword_sentence": "I Know This Much Is True is a somber and introspective family drama exploring the complexities of brotherhood, mental illness, and long-held secrets against the backdrop of 20th-century rural America."
+      },
+      "duration_seconds": 69.15257430076599
+    }
+  }
+}

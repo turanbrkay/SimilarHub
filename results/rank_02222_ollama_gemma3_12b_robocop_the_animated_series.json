@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "RoboCop: The Animated Series",
+    "overview": "Cyborg cop Alex Murphy, with his partner Officer Anne Lewis fight to save the city of Old Detroit from assorted rogue elements, and to reclaim aspects of his humanity.",
+    "genres": [
+      "Animation",
+      "Action & Adventure"
+    ],
+    "release_year": 1988,
+    "vote_count": 82
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "RoboCop: The Animated Series is an action-packed continuation of the iconic film franchise, reimagined for a younger audience. The series follows cyborg police officer Alex Murphy and his partner, Anne Lewis, as they combat crime and corruption in the dystopian metropolis of Old Detroit. Balancing intense action sequences with explorations of Murphy's struggle to retain his humanity, the show blends elements of science fiction, action, and police procedural genres. It offers a blend of thrilling crime-fighting and poignant reflections on identity and justice.",
+        "spoiler_rich_plot_summary": "The series begins with Alex Murphy, a Detroit police officer, being brutally murdered and resurrected as RoboCop, a cyborg law enforcement officer. Partnered with Officer Anne Lewis, RoboCop navigates the criminal underworld of Old Detroit, facing off against gangs, corrupt officials, and the powerful OCP corporation, which is responsible for his transformation. Throughout the series, Murphy grapples with fragmented memories of his past life as Alex Murphy, and struggles to reconcile his robotic programming with his lingering human emotions. He frequently confronts the consequences of OCP's policies and their impact on the city's citizens. While battling external threats, Murphy also experiences internal conflicts as he attempts to recover his lost identity and fight for justice in a city riddled with corruption. The series explores themes of corporate greed, the erosion of human rights, and the struggle to maintain one's humanity in a dehumanizing world, culminating in a continuous battle for the soul of Old Detroit.",
+        "categorized_keywords": {
+          "themes": [
+            "corporate-greed",
+            "identity-crisis",
+            "law-and-order",
+            "artificial-intelligence",
+            "police-corruption",
+            "redemption",
+            "humanity"
+          ],
+          "plot_and_concepts": [
+            "cyborg-transformation",
+            "police-procedural",
+            "dystopian-future",
+            "artificial-intelligence",
+            "crime-fighting"
+          ],
+          "mood_and_tone": [
+            "action-packed",
+            "somber",
+            "gritty",
+            "futuristic"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "action-adventure",
+            "cyberpunk",
+            "found-family"
+          ],
+          "setting": [
+            "dystopian-city",
+            "futuristic-detroit",
+            "urban-landscape"
+          ],
+          "character_archetypes": [
+            "cyborg",
+            "police-officer",
+            "reluctant-hero",
+            "partner"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "young-adult",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "cyborg-armor",
+            "police-scanner",
+            "robocop-vehicle",
+            "ocp-headquarters"
+          ],
+          "maturity_and_content": [
+            "violence"
+          ]
+        },
+        "keyword_sentence": "RoboCop: The Animated Series is a gritty, action-packed science-fiction series set in a dystopian Detroit, where a cyborg police officer battles corporate greed and fights to reclaim his lost humanity."
+      },
+      "duration_seconds": 65.8968231678009
+    }
+  }
+}

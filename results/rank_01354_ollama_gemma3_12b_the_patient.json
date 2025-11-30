@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "The Patient",
+    "overview": "A psychotherapist finds himself held prisoner by a serial killer with an unusual request: curb his homicidal urges.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "release_year": 2022,
+    "vote_count": 170
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Patient is a psychological thriller centered on a psychiatrist's captivity by a serial killer who seeks his help in controlling violent impulses. The series explores the complex dynamic between captor and captive, delving into themes of trauma, morality, and the nature of evil. It blends elements of suspense and character study, creating a tense and unsettling atmosphere as the therapist confronts his own vulnerabilities while attempting to unravel the killer's motivations. The narrative is driven by the psychological interplay between the two men, offering a claustrophobic and introspective experience for the viewer.",
+        "spoiler_rich_plot_summary": "The series begins with Dr. Alan Strauss, a recently retired therapist, being abducted and held prisoner in a remote basement by Sam, one of his former patients. Sam reveals himself to be a serial killer struggling with his urges and requests Alan's help in curbing his homicidal tendencies. As Alan attempts to treat Sam through unconventional methods, he is forced to confront his own past traumas and the ethical dilemmas inherent in his profession. Flashbacks reveal Alan's history with his husband Tom, and the profound grief he still carries. Sam's past is gradually revealed through therapy sessions, showcasing a history of abuse and a deeply fractured psyche. Alan's attempts to help Sam are complicated by the constant threat of violence and the realization that Sam's urges are deeply ingrained. The series explores the cyclical nature of trauma and the difficulty of breaking free from destructive patterns. As Alan delves deeper into Sam's mind, he risks losing himself in the darkness, blurring the lines between therapist and prisoner, sanity and madness. The narrative culminates in a confrontation where Alan must confront not only Sam's violence but also his own unresolved pain, leading to a resolution that leaves a lasting impact on both men.",
+        "categorized_keywords": {
+          "themes": [
+            "trauma",
+            "redemption",
+            "morality",
+            "violence",
+            "mental-health",
+            "grief",
+            "captivity",
+            "therapy"
+          ],
+          "plot_and_concepts": [
+            "serial-killer",
+            "psychological-thriller",
+            "therapy-session",
+            "captivity-narrative",
+            "flashback-structure"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "introspective",
+            "claustrophobic",
+            "unsettling"
+          ],
+          "genre_and_tropes": [
+            "psychological-thriller",
+            "crime-procedural",
+            "therapy-drama"
+          ],
+          "setting": [
+            "remote-location",
+            "basement-setting",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "psychotherapist",
+            "serial-killer",
+            "reluctant-hero",
+            "damaged-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "flashback-structure"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "therapy-room",
+            "basement-cell",
+            "flashback-sequence"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "mental-health-themes"
+          ]
+        },
+        "keyword_sentence": "The Patient is a dark and suspenseful psychological thriller exploring themes of trauma and redemption as a therapist is held captive by a serial killer seeking unconventional therapy in a remote location."
+      },
+      "duration_seconds": 67.67478895187378
+    }
+  }
+}

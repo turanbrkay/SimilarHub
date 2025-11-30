@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Tour of Duty",
+    "overview": "The trials of a U.S. Army platoon serving in the field during the Vietnam War.",
+    "genres": [
+      "War & Politics",
+      "Drama",
+      "Action & Adventure"
+    ],
+    "release_year": 1987,
+    "vote_count": 141
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Tour of Duty is a gritty and realistic portrayal of American soldiers during the Vietnam War, focusing on the psychological and physical toll of combat. The series eschews romanticized notions of warfare, instead presenting a visceral and often harrowing depiction of the soldiers' experiences, their relationships, and the moral ambiguities of the conflict. It explores themes of camaraderie, loss, and the dehumanizing effects of prolonged exposure to violence, offering a sobering look at a pivotal moment in American history. The series blends action sequences with introspective character studies, creating a compelling and emotionally resonant narrative.",
+        "spoiler_rich_plot_summary": "The series follows the 1st Battalion (Airborne) of the 7th Cavalry Regiment during a year-long tour of duty in Vietnam. Initially, the focus is on the unit's training and deployment, establishing the core characters and their individual motivations. As the soldiers engage in increasingly dangerous missions, the psychological strain begins to manifest, leading to fractured relationships and questioning of the war's purpose. The narrative follows several arcs, including the evolving dynamic between Lieutenant Colburn and Sergeant Hartsfield, whose differing perspectives on leadership and combat create tension within the unit. The series depicts numerous engagements with the Viet Cong, showcasing the brutal realities of jungle warfare and the constant threat of ambush. As the tour progresses, the soldiers face mounting casualties and the gradual erosion of their idealism, culminating in a sense of disillusionment and a profound understanding of the war's devastating impact. The series concludes with the unit's return home, leaving the audience to contemplate the long-term consequences of their experiences and the enduring scars of the conflict.",
+        "categorized_keywords": {
+          "themes": [
+            "war-and-conflict",
+            "moral-ambiguity",
+            "loss-and-grief",
+            "camaraderie",
+            "psychological-trauma",
+            "duty-and-sacrifice"
+          ],
+          "plot_and_concepts": [
+            "military-operations",
+            "search-and-destroy",
+            "tunnel-complexes",
+            "helicopter-combat",
+            "vietnam-war"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "realistic",
+            "tense",
+            "somber",
+            "intense"
+          ],
+          "genre_and_tropes": [
+            "war-drama",
+            "military-procedural",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "vietnam",
+            "jungle-environment",
+            "1980s"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "seasoned-veteran",
+            "young-recruit",
+            "commanding-officer"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "military-helicopter",
+            "combat-uniform",
+            "flak-jacket",
+            "rice-paddies",
+            "mine-fields"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "Tour of Duty offers a gritty and realistic portrayal of American soldiers in Vietnam, exploring themes of loss, duty, and the psychological toll of war through a tense and intense narrative."
+      },
+      "duration_seconds": 69.0050778388977
+    }
+  }
+}

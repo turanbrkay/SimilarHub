@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Betty",
+    "overview": "A diverse group of young women navigate their lives through the male-dominated world of skateboarding in New York City. Inspired by the critically acclaimed film Skate Kitchen.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2020,
+    "vote_count": 48
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Betty is a coming-of-age dramedy series centered on a group of young women forging their identities within the male-dominated world of skateboarding in New York City. The show explores themes of female friendship, ambition, and self-discovery, often blending humor with moments of vulnerability and conflict. It offers a raw and authentic portrayal of adolescence, highlighting the challenges and triumphs of navigating social hierarchies and personal growth. The series distinguishes itself through its focus on a specific subculture and its commitment to showcasing diverse perspectives and experiences.",
+        "spoiler_rich_plot_summary": "The series begins with a focus on Dede, a young woman struggling to find her place within a tight-knit skateboarding crew. Her attempts to gain acceptance and prove her skills often lead to clashes with the established dynamics of the group, particularly with her rival, Violet. As the series progresses, the narrative expands to encompass the lives of other young women within the skateboarding scene, including January, Camille, and Esther. Each character grapples with their own personal struggles, ranging from family issues and romantic relationships to questions of identity and belonging. The narrative follows their attempts to navigate the complexities of their lives, often confronting sexism and prejudice within the skateboarding community and beyond. Throughout the series, the women form deep bonds of friendship, supporting each other through difficult times and celebrating their successes. The series culminates in a sense of growth and self-acceptance, as the women find their voices and assert their place in a world that often tries to silence them.",
+        "categorized_keywords": {
+          "themes": [
+            "female-friendship",
+            "coming-of-age",
+            "identity-quest",
+            "social-hierarchy",
+            "self-discovery",
+            "belonging"
+          ],
+          "plot_and_concepts": [
+            "skateboarding-culture",
+            "rivalry",
+            "coming-of-age-story",
+            "female-empowerment"
+          ],
+          "mood_and_tone": [
+            "raw",
+            "authentic",
+            "humorous",
+            "vulnerable",
+            "realistic"
+          ],
+          "genre_and_tropes": [
+            "coming-of-age-drama",
+            "slice-of-life",
+            "female-led-ensemble"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day",
+            "skateboarding-scene"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "outsider",
+            "ambitious-protagonist"
+          ],
+          "narrative_style": [
+            "ensemble-cast",
+            "slice-of-life"
+          ],
+          "target_audience": [
+            "young-adult"
+          ],
+          "detail_plot": [
+            "skateboard",
+            "skate-park",
+            "graffiti",
+            "street-fashion"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Betty is a raw and authentic coming-of-age drama set in modern-day New York City, exploring themes of female friendship and identity within the vibrant skateboarding scene."
+      },
+      "duration_seconds": 55.406020402908325
+    }
+  }
+}

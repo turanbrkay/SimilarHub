@@ -1,0 +1,69 @@
+{
+  "input_data": {
+    "title": "Postman Pat",
+    "overview": "Pat and his black-and-white cat Jess deliver the mail in Greendale.",
+    "genres": [
+      "Kids",
+      "Animation"
+    ],
+    "release_year": 1981,
+    "vote_count": 36
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Postman Pat is a gentle, animated children's series centered around a postman and his cat delivering mail in the idyllic village of Greendale. The show emphasizes community, kindness, and the simple joys of everyday life. Its episodic nature and focus on problem-solving within a supportive environment make it a comforting and accessible viewing experience for young audiences. The series' charm lies in its wholesome depiction of rural life and its celebration of friendship and helpfulness.",
+        "spoiler_rich_plot_summary": "The series follows Pat Clifton, a postman who moves to the picturesque village of Greendale and quickly becomes a beloved member of the community. Each episode typically revolves around Pat's daily mail route, encountering various challenges and opportunities to assist the villagers. These challenges range from delivering packages through difficult terrain to helping neighbors with small tasks. While the series doesn't feature overarching plotlines, recurring characters and familiar locations create a sense of continuity and familiarity. The series concludes with Pat continuing his role as the village postman, maintaining the close-knit community and spreading joy throughout Greendale.",
+        "categorized_keywords": {
+          "themes": [
+            "community",
+            "friendship",
+            "kindness",
+            "rural-life",
+            "helping-others"
+          ],
+          "plot_and_concepts": [
+            "mail-delivery",
+            "episodic-storytelling",
+            "problem-solving"
+          ],
+          "mood_and-tone": [
+            "wholesome",
+            "gentle",
+            "optimistic",
+            "peaceful"
+          ],
+          "genre_and_tropes": [
+            "childrens-tv",
+            "slice-of-life",
+            "animation"
+          ],
+          "setting": [
+            "rural-village",
+            "greendale",
+            "english-countryside"
+          ],
+          "character_archetypes": [
+            "helpful-protagonist",
+            "loyal-companion"
+          ],
+          "narrative_style": [
+            "episodic-format"
+          ],
+          "target_audience": [
+            "young-children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "black-and-white-cat",
+            "mail-sack",
+            "delivery-van"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Postman Pat is a gentle and wholesome animated series that celebrates community and kindness as a friendly postman and his cat deliver mail in the idyllic setting of a rural English village."
+      },
+      "duration_seconds": 46.238887310028076
+    }
+  }
+}

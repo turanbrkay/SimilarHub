@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "Ellery Queen",
+    "overview": "Ellery Queen is an American television detective mystery series based on the fictional character Ellery Queen. It aired on NBC during the 1975-76 television season and stars Jim Hutton as Ellery Queen, David Wayne as his father, Inspector Richard Queen, and Tom Reese as Sgt. Velie. Created by the writing/producing team of Richard Levinson and William Link, the title character \"breaks\" the fourth wall to ask the audience to consider their solution.",
+    "genres": [
+      "Mystery",
+      "Drama"
+    ],
+    "release_year": 1975,
+    "vote_count": 34
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Ellery Queen is a detective mystery series that distinguishes itself through its unique meta-narrative device: the protagonist directly engages the audience, inviting them to solve the case alongside him. The show blends classic whodunit elements with a conversational, almost theatrical presentation, creating a blend of suspense and intellectual engagement. It leans heavily on traditional mystery tropes, emphasizing deduction and observation, and offers a relatively straightforward, episodic structure centered around solving complex crimes. The series aims to provide a puzzle-solving experience for the viewer, rather than a deeply character-driven drama.",
+        "spoiler_rich_plot_summary": "The series follows Ellery Queen, a young detective, and his father, Inspector Richard Queen, as they investigate a series of complex murder cases. Each episode presents a new mystery, often involving intricate clues and a cast of suspicious characters. Ellery frequently breaks the fourth wall, addressing the audience directly and posing questions to guide their deductive reasoning. The investigations often involve red herrings and unexpected twists, leading to surprising reveals about the killer's identity and motive. While the series maintains a largely episodic format, recurring themes of family legacy and the burden of responsibility emerge as Ellery grapples with his father's reputation and his own abilities. The series concludes with Ellery continuing his detective work, demonstrating a commitment to upholding justice and engaging with the audience in his unique style.",
+        "categorized_keywords": {
+          "themes": [
+            "mystery-solving",
+            "family-legacy",
+            "justice",
+            "deduction",
+            "fourth-wall-break"
+          ],
+          "plot_and_concepts": [
+            "whodunit",
+            "detective-procedural",
+            "fourth-wall-narrative",
+            "red-herring",
+            "mystery-puzzle"
+          ],
+          "mood_and_tone": [
+            "intellectual",
+            "suspenseful",
+            "classic",
+            "conversational"
+          ],
+          "genre_and_tropes": [
+            "detective-series",
+            "mystery-drama",
+            "classic-mystery"
+          ],
+          "setting": [
+            "small-town-usa",
+            "1970s"
+          ],
+          "character_archetypes": [
+            "brilliant-detective",
+            "experienced-inspector"
+          ],
+          "narrative_style": [
+            "episodic",
+            "puzzle-solving"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "crime-scene",
+            "detective-hat",
+            "police-badge",
+            "interview-room"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Ellery Queen is a classic detective series that engages adult viewers with its intellectual puzzles and conversational style, set in a small-town American setting during the 1970s."
+      },
+      "duration_seconds": 52.21819877624512
+    }
+  }
+}

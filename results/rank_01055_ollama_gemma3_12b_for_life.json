@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "For Life",
+    "overview": "A prisoner becomes a lawyer, litigating cases for other inmates while fighting to overturn his own life sentence for a crime he didn’t commit.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2020,
+    "vote_count": 240
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "For Life is a legal drama centered on a prisoner who becomes a lawyer, both representing fellow inmates and fighting to clear his own name. The series blends courtroom procedural elements with a compelling exploration of the justice system's flaws and the personal toll of legal battles. It examines themes of redemption, family, and the complexities of morality within a prison environment, offering a suspenseful and emotionally resonant narrative.",
+        "spoiler_rich_plot_summary": "The series begins with Aaron Wallace, wrongly convicted of murder, granted the opportunity to study law while incarcerated. Initially, he represents other inmates, gaining experience and notoriety within the prison system. As he successfully navigates complex cases, Aaron begins to challenge the legal system and uncover corruption within the prison and beyond. His legal battles intertwine with his personal quest to prove his innocence, revealing a web of deceit and conspiracy surrounding his original conviction. Throughout the series, Aaron confronts moral dilemmas, navigates treacherous relationships with fellow inmates and prison staff, and grapples with the emotional burden of representing those often overlooked by the justice system. The fight for his freedom becomes a catalyst for systemic change, exposing the vulnerabilities of the legal process and the human cost of injustice. While he achieves some legal victories, the ultimate resolution of his case remains uncertain, leaving a lasting impact on those involved.",
+        "categorized_keywords": {
+          "themes": [
+            "redemption",
+            "justice-system",
+            "innocence",
+            "family-loyalty",
+            "corruption",
+            "legal-ethics",
+            "prison-life"
+          ],
+          "plot_and_concepts": [
+            "courtroom-drama",
+            "legal-thriller",
+            "wrongful-conviction",
+            "prison-lawyer",
+            "serialized-story",
+            "crime-procedural"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "somber",
+            "gritty",
+            "dramatic"
+          ],
+          "genre_and_tropes": [
+            "legal-drama",
+            "crime-procedural",
+            "prison-break",
+            "underdog-story"
+          ],
+          "setting": [
+            "prison-environment",
+            "modern-day",
+            "courtroom"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "reluctant-hero",
+            "corrupt-official",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "courtroom-scene",
+            "prison-yard",
+            "legal-brief",
+            "inmate-population"
+          ],
+          "maturity_and_content": [
+            "legal-proceedings",
+            "prison-violence"
+          ]
+        },
+        "keyword_sentence": "For Life is a dramatic legal thriller set within a gritty prison environment, exploring themes of redemption and justice as a wrongly convicted man fights to clear his name and expose corruption within the system."
+      },
+      "duration_seconds": 61.09549355506897
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "input_data": {
+    "title": "The Expanse",
+    "overview": "A thriller set two hundred years in the future following the case of a missing young woman who brings a hardened detective and a rogue ship's captain together in a race across the solar system to expose the greatest conspiracy in human history.",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2015,
+    "vote_count": 2058
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Expanse is a hard science fiction drama series set in a future where humanity has colonized the solar system. The narrative blends political intrigue, gritty realism, and thrilling action as it explores the tensions between Earth, Mars, and the Belters – those who live and work in the asteroid belt. The series excels at portraying complex characters navigating a precarious balance of power, with a focus on realistic space travel and the consequences of resource scarcity. It offers a compelling exploration of class struggle, colonialism, and the potential for interstellar conflict, all while maintaining a grounded and believable depiction of future technology.",
+        "spoiler_rich_plot_summary": "The series begins with the disappearance of Julie Mao, a young woman with connections to a powerful corporation. Detective Joe Miller, a jaded cop on Ceres, is assigned to the case, while James Holden, an executive officer on a transport ship, finds himself embroiled in a conspiracy after his ship is attacked. Holden and his crew, including Naomi Nagata, Amos Burton, and Penelope Blake, become fugitives, pursued by both Earth and Martian authorities. Their investigation reveals a mysterious protomolecule, an alien technology capable of transforming matter, which has been weaponized. The discovery ignites a devastating conflict between Earth and Mars, threatening to engulf the entire solar system. As the war escalates, Holden and his crew uncover the true nature of the protomolecule and its connection to a larger, unknown force. The series follows their struggle to prevent the protomolecule from falling into the wrong hands and to navigate the complex political landscape of a solar system on the brink of destruction. Later seasons delve deeper into the alien origins of the protomolecule and the existence of a network of ancient gates, leading humanity to confront a cosmic threat far beyond their understanding. The fate of humanity hangs in the balance as they grapple with the implications of their discovery and the responsibility of safeguarding the solar system.",
+        "categorized_keywords": {
+          "themes": [
+            "colonialism",
+            "class-struggle",
+            "resource-scarcity",
+            "political-intrigue",
+            "survival",
+            "identity",
+            "hope",
+            "duty"
+          ],
+          "plot_and_concepts": [
+            "space-exploration",
+            "political-thriller",
+            "mystery",
+            "alien-technology",
+            "interstellar-conflict",
+            "conspiracy",
+            "found-family"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "tense",
+            "realistic",
+            "suspenseful",
+            "dark"
+          ],
+          "genre_and_tropes": [
+            "hard-science-fiction",
+            "space-opera",
+            "crime-procedural",
+            "slow-burn-mystery"
+          ],
+          "setting": [
+            "solar-system",
+            "space-stations",
+            "asteroid-belt",
+            "mars",
+            "earth",
+            "future-setting"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "anti-hero",
+            "skilled-engineer",
+            "loyal-companion",
+            "corrupt-official"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "political-drama"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "protomolecule",
+            "rc-ship",
+            "belter-crews",
+            "martian-military",
+            "earth-navy"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "political-corruption"
+          ]
+        },
+        "keyword_sentence": "The Expanse is a gritty and suspenseful hard science fiction drama series exploring themes of colonialism and class struggle within a realistically depicted future solar system, where political intrigue and the threat of interstellar conflict drive a complex narrative."
+      },
+      "duration_seconds": 79.12332129478455
+    }
+  }
+}

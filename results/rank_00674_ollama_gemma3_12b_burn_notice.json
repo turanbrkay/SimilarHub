@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "Burn Notice",
+    "overview": "A formerly blacklisted spy uses his unique skills and training to help people in desperate situations.",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Crime"
+    ],
+    "release_year": 2007,
+    "vote_count": 424
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Burn Notice is a spy-themed action drama centered on a former CIA operative, Michael Westen, who is suddenly and inexplicably burned – essentially blacklisted and stripped of his assets. Forced to operate independently in Miami, he uses his skills to help those in need while simultaneously investigating the forces behind his downfall. The series blends action sequences with character-driven narratives, exploring themes of betrayal, redemption, and the complexities of morality within the world of espionage. It offers a mix of thrilling action and wry humor, often examining the consequences of covert operations and the blurred lines between right and wrong.",
+        "spoiler_rich_plot_summary": "The series begins with Michael Westen abruptly finding himself disavowed by the CIA, his accounts frozen, and his life in shambles. He's left to piece together why he was burned while using his skills to assist ordinary people facing extraordinary circumstances in Miami. Throughout the initial seasons, Michael is aided by his mother, Madeline, and his friends, Fiona and Sam, each bringing unique skills and perspectives to his mission. As Michael investigates his burn notice, he uncovers a complex web of conspiracies involving former colleagues and shadowy organizations. He confronts various adversaries, including ruthless mercenaries, corrupt government officials, and dangerous criminals. Over time, the reasons behind his burn notice become clearer, revealing a deeper conspiracy that reaches the highest levels of the intelligence community. Michael's quest for answers leads him on a perilous journey, forcing him to confront his past and make difficult choices that impact those around him. The series culminates in a confrontation with those responsible for his downfall, leading to a resolution that redefines his future and the lives of his allies.",
+        "categorized_keywords": {
+          "themes": [
+            "betrayal",
+            "redemption",
+            "espionage",
+            "morality",
+            "family-loyalty",
+            "justice",
+            "revenge"
+          ],
+          "plot_and_concepts": [
+            "spy-thriller",
+            "blacklisted-agent",
+            "conspiracy",
+            "undercover-operation",
+            "crime-investigation",
+            "revenge-plot"
+          ],
+          "mood_and_tone": [
+            "action-packed",
+            "suspenseful",
+            "wry-humor",
+            "darkly-comic",
+            "tense"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "crime-procedural",
+            "spy-genre",
+            "found-family"
+          ],
+          "setting": [
+            "miami-city",
+            "modern-day",
+            "florida"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "skilled-operative",
+            "resourceful-ally",
+            "enigmatic-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "case-of-the-week"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "black-briefcase",
+            "safehouse",
+            "surveillance-equipment",
+            "miami-beach"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "Burn Notice is a suspenseful action drama set in Miami, where a blacklisted spy uses his skills to help others while uncovering a dangerous conspiracy and navigating a world of espionage, betrayal, and found family."
+      },
+      "duration_seconds": 66.65565729141235
+    }
+  }
+}

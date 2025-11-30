@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Never Mind the Buzzcocks",
+    "overview": "Never Mind the Buzzcocks is a comedy panel game show with a pop and rock music theme. The show is infamous for its dry, sarcastic humour and scathing, provocative attacks on the pop industry.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1996,
+    "vote_count": 42
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Never Mind the Buzzcocks is a British comedy panel game show centered around music trivia and irreverent humor. The show's premise revolves around teams of comedians and musicians attempting to identify song snippets and answering questions about the music industry, often with a deliberately antagonistic and sarcastic tone. Known for its quick wit and provocative banter, the show offers a comedic deconstruction of pop culture and the music scene, appealing to audiences with a taste for dry humor and a willingness to embrace playful insults. The show's longevity is a testament to its ability to consistently deliver sharp, unpredictable comedic moments.",
+        "spoiler_rich_plot_summary": "The show's format remains largely consistent throughout its run: two teams of comedians and musicians compete in a series of rounds, each designed to test their musical knowledge and comedic improvisation skills. Rounds typically involve identifying song intros, answering trivia questions about artists, and enduring 'attack' rounds where team members are subjected to humorous and often embarrassing challenges posed by the opposing team. While there are occasional guest hosts and slight variations in the game's structure, the core dynamic of witty insults and musical challenges remains the defining characteristic. The show's success lies in the chemistry between the panelists and their ability to deliver consistently funny and unpredictable interactions, rather than a complex narrative arc.",
+        "categorized_keywords": {
+          "themes": [
+            "pop-culture",
+            "music-industry",
+            "satire",
+            "comedy",
+            "banter"
+          ],
+          "plot_and_concepts": [
+            "game-show",
+            "trivia",
+            "panel-discussion",
+            "musical-challenge"
+          ],
+          "mood_and_tone": [
+            "sarcastic",
+            "irreverent",
+            "witty",
+            "humorous",
+            "provocative"
+          ],
+          "genre_and_tropes": [
+            "comedy-panel-show",
+            "music-comedy"
+          ],
+          "setting": [
+            "television-studio",
+            "british-humor"
+          ],
+          "character_archetypes": [
+            "comedian",
+            "musician",
+            "panelist"
+          ],
+          "narrative_style": [
+            "episodic",
+            "short-form"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "music-fans"
+          ],
+          "detail_plot": [
+            "song-intro",
+            "trivia-question",
+            "attack-round"
+          ],
+          "maturity_and_content": [
+            "offensive-humor",
+            "adult-language"
+          ]
+        },
+        "keyword_sentence": "Never Mind the Buzzcocks is a British comedy panel show that satirizes the music industry with sharp wit and provocative banter, delivering consistently humorous moments for adult viewers."
+      },
+      "duration_seconds": 50.95055365562439
+    }
+  }
+}

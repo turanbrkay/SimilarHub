@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Seinfeld",
+    "overview": "A stand-up comedian and his three offbeat friends weather the pitfalls and payoffs of life in New York City in the '90s. It's a show about nothing.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1989,
+    "vote_count": 1671
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Seinfeld is a sitcom renowned for its 'show about nothing' premise, focusing on the mundane and often absurd experiences of four friends navigating life in New York City. The series excels in observational humor, highlighting social awkwardness, petty grievances, and the comedic potential of everyday situations. Its ensemble cast dynamic and witty writing have cemented its place as a cultural touchstone, influencing countless comedies that followed. The show's brilliance lies in its ability to find humor in the seemingly insignificant, creating a relatable and endlessly entertaining portrayal of modern life.",
+        "spoiler_rich_plot_summary": "The series begins with Jerry Seinfeld, a stand-up comedian, and his best friend George Costanza, a perpetually unemployed and scheming individual. They are joined by Elaine Benes, a sharp-tongued and independent woman, and Cosmo Kramer, Jerry's eccentric and unpredictable neighbor. Early seasons establish the core group's dynamic, showcasing their often-misguided attempts to succeed in relationships, careers, and social situations. Throughout the series, the friends encounter a revolving door of romantic interests, professional setbacks, and increasingly bizarre circumstances, often stemming from their own flawed judgment and tendency to overthink simple matters. As the show progresses, the characters' actions frequently lead to escalating conflicts and comedic consequences, pushing the boundaries of social norms and exploring the absurdity of human behavior. While individual episodes often resolve with humorous outcomes, the overarching narrative arc involves the characters' ongoing struggles with self-improvement, acceptance, and the complexities of modern relationships, culminating in a famously controversial series finale that satirizes the show's own legacy.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "relationships",
+            "social-awkwardness",
+            "modern-life",
+            "observational-humor",
+            "satire"
+          ],
+          "plot_and_concepts": [
+            "ensemble-cast",
+            "sitcom",
+            "romantic-comedy",
+            "fish-out-of-water",
+            "slice-of-life"
+          ],
+          "mood_and_tone": [
+            "comedic",
+            "lighthearted",
+            "absurdist",
+            "witty"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "romantic-comedy",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "comedian",
+            "anti-hero",
+            "eccentric-friend",
+            "independent-woman"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "coffee-shop",
+            "apartment-building",
+            "stand-up-comedy",
+            "manic-panic"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Seinfeld is a witty and lighthearted sitcom that explores the absurdities of modern life and relationships through the experiences of four friends living in New York City."
+      },
+      "duration_seconds": 59.11163091659546
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Looney Tunes Cartoons",
+    "overview": "A series of short form cartoons starring the iconic and beloved Looney Tunes characters. Bugs Bunny, Daffy Duck, Porky Pig and other marquee Looney Tunes characters are featured in their classic pairings in simple, gag-driven and visually vibrant stories.",
+    "genres": [
+      "Family",
+      "Animation",
+      "Comedy"
+    ],
+    "release_year": 2020,
+    "vote_count": 196
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Looney Tunes Cartoons is a revival of the classic animated shorts, designed for a modern audience while retaining the timeless humor and visual style of the originals. The series features a variety of Looney Tunes characters in short, self-contained comedic stories, emphasizing slapstick, visual gags, and character-driven chaos. It aims to recapture the anarchic spirit of the original cartoons, offering lighthearted entertainment suitable for families. The series prioritizes visual comedy and character interactions over complex narratives, providing a nostalgic and accessible experience for viewers of all ages.",
+        "spoiler_rich_plot_summary": "The series largely eschews a continuous narrative, instead presenting a collection of standalone shorts featuring the core Looney Tunes characters. Bugs Bunny frequently engages in elaborate schemes and pranks, often targeting the hapless Elmer Fudd or Yosemite Sam. Daffy Duck's ambition and ego often lead to comedic failures and rivalry with Bugs. Porky Pig's gentle nature is often contrasted with the more chaotic antics of his companions. While each short is self-contained, recurring gags and character dynamics establish a familiar and humorous world. The shorts often conclude with a return to the status quo, reinforcing the cyclical nature of the characters' comedic interactions. The series maintains a playful and irreverent tone, celebrating the absurdity of cartoon mayhem.",
+        "categorized_keywords": {
+          "themes": [
+            "humor",
+            "friendship",
+            "rivalry",
+            "chaos",
+            "slapstick"
+          ],
+          "plot_and_concepts": [
+            "gag-driven",
+            "short-form",
+            "cartoon-physics",
+            "prank",
+            "chase"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "playful",
+            "zany",
+            "absurd"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "comedy",
+            "family-audience",
+            "classic-cartoon",
+            "slapstick-comedy"
+          ],
+          "setting": [
+            "animated-world",
+            "cartoon-landscape"
+          ],
+          "character_archetypes": [
+            "trickster",
+            "bumbler",
+            "pursuer",
+            "victim"
+          ],
+          "narrative_style": [
+            "episodic",
+            "short-form-storytelling"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "acme-products",
+            "rabbit-hole",
+            "anvil",
+            "cartoon-explosion"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Looney Tunes Cartoons delivers lighthearted, zany entertainment for the whole family through short-form storytelling and classic cartoon humor, celebrating the timeless appeal of iconic animated characters in a world of absurd chaos."
+      },
+      "duration_seconds": 57.49429512023926
+    }
+  }
+}

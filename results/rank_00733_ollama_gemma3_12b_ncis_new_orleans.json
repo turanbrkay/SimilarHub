@@ -1,0 +1,86 @@
+{
+  "input_data": {
+    "title": "NCIS: New Orleans",
+    "overview": "A drama about the local field office that investigates criminal cases affecting military personnel in The Big Easy, a city known for its music, entertainment and decadence.",
+    "genres": [
+      "Action & Adventure",
+      "Drama"
+    ],
+    "release_year": 2014,
+    "vote_count": 385
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "NCIS: New Orleans is a procedural drama that blends elements of crime investigation with the unique cultural backdrop of New Orleans. The series follows a team of special agents as they tackle cases involving military personnel, often intertwined with the city's vibrant music scene and complex social dynamics. It maintains the familiar NCIS formula of balancing intense investigations with character-driven relationships and a touch of humor, offering a blend of action, suspense, and a glimpse into the heart of the Big Easy.",
+        "spoiler_rich_plot_summary": "The series begins with Special Agent Dwayne Pride leading a team of NCIS agents in New Orleans, investigating crimes involving the U.S. Navy and Marine Corps. Early seasons focus on establishing the team and their individual backstories, while tackling a variety of cases ranging from petty theft to complex conspiracies. A recurring antagonist emerges, posing a significant threat to the team and the city. Throughout the series, personal relationships within the team evolve, with agents confronting their pasts and forming deep bonds. Cases often involve local musicians, organized crime, and political intrigue, reflecting the city's rich and sometimes dangerous underbelly. As the series progresses, the team faces increasingly dangerous adversaries and must confront difficult moral choices, ultimately striving to protect the city and its people while navigating their own personal struggles. The final seasons see the team dealing with the fallout from past events and facing a new wave of threats, culminating in a bittersweet farewell as the team members move on to new chapters in their lives.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "teamwork",
+            "family-loyalty",
+            "redemption",
+            "sacrifice",
+            "military-service"
+          ],
+          "plot_and_concepts": [
+            "crime-investigation",
+            "military-procedural",
+            "conspiracy",
+            "undercover-operation",
+            "serial-crime"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "gritty",
+            "action-oriented",
+            "somber",
+            "patriotic"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "police-drama",
+            "military-drama",
+            "ensemble-cast",
+            "found-family"
+          ],
+          "setting": [
+            "new-orleans-city",
+            "modern-day",
+            "louisiana",
+            "southern-us"
+          ],
+          "character_archetypes": [
+            "team-leader",
+            "skilled-agent",
+            "wise-mentor",
+            "reluctant-hero",
+            "military-officer"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "case-of-the-week",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "jazz-music",
+            "french-quarter",
+            "mardi-gras",
+            "bayou",
+            "police-badge"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "NCIS: New Orleans is a suspenseful crime procedural set against the vibrant backdrop of the Big Easy, where a team of skilled agents investigates military crimes while navigating the city’s rich culture and confronting personal struggles."
+      },
+      "duration_seconds": 62.803515911102295
+    }
+  }
+}

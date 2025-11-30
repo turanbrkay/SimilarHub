@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Rotten",
+    "overview": "This docuseries travels deep into the heart of the food supply chain to reveal unsavory truths and expose hidden forces that shape what we eat.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2018,
+    "vote_count": 53
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Rotten is a documentary series that investigates the dark side of the food industry, exposing corruption, environmental damage, and ethical compromises within various sectors, from bananas to honey. Through investigative journalism and compelling visuals, the series aims to reveal the complex and often unsettling realities behind the food we consume. It blends investigative reporting with a cinematic style, creating a thought-provoking and often disturbing exploration of global food systems. The series aims to raise awareness and prompt critical examination of the origins and production of our food.",
+        "spoiler_rich_plot_summary": "The first season of Rotten begins by examining the banana industry, revealing how the dominance of a few corporations has led to exploitation of workers and environmental degradation in Central America. It then moves on to investigate the honey industry, exposing widespread adulteration and fraud, where cheaper, often illegally sourced, syrups are passed off as pure honey. Subsequent episodes delve into the shrimp farming industry in Southeast Asia, highlighting the devastating impact on mangrove forests and local communities. The series continues to expose similar issues within the coffee, palm oil, and avocado industries, demonstrating a pattern of corporate greed, regulatory failures, and the prioritization of profit over sustainability and human rights. The overarching narrative reveals a systemic problem within the global food supply chain, where powerful interests often manipulate markets and exploit vulnerable populations.",
+        "categorized_keywords": {
+          "themes": [
+            "corporate-greed",
+            "environmental-degradation",
+            "food-security",
+            "labor-exploitation",
+            "globalization",
+            "sustainability",
+            "food-industry"
+          ],
+          "plot_and_concepts": [
+            "investigative-journalism",
+            "supply-chain",
+            "fraud",
+            "corruption",
+            "documentary-series"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "critical",
+            "exposé",
+            "unsettling"
+          ],
+          "genre_and_tropes": [
+            "true-crime",
+            "documentary",
+            "investigative-report"
+          ],
+          "setting": [
+            "global",
+            "central-america",
+            "southeast-asia"
+          ],
+          "character_archetypes": [
+            "whistleblower",
+            "investigative-reporter"
+          ],
+          "narrative_style": [
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "banana-plantations",
+            "honey-processing",
+            "shrimp-farms",
+            "coffee-fields"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "environmental-damage"
+          ]
+        },
+        "keyword_sentence": "Rotten is a somber documentary series that critically examines the global food industry, exposing corporate greed and environmental damage through investigative reporting and revealing unsettling truths about the origins of what we eat."
+      },
+      "duration_seconds": 54.287211418151855
+    }
+  }
+}

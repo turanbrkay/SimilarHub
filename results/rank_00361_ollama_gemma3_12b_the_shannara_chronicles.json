@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "The Shannara Chronicles",
+    "overview": "A young Healer armed with an unpredictable magic guides a runaway Elf in her perilous quest to save the peoples of the Four Lands from an age-old Demon scourge.",
+    "genres": [
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2016,
+    "vote_count": 844
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Shannara Chronicles is a fantasy adventure series centered on a young woman with burgeoning magical abilities who must protect the Four Lands from a resurfaced demonic threat. The show blends action-packed sequences with explorations of destiny, family, and the burden of responsibility. It draws heavily on established fantasy tropes while attempting to create a compelling narrative about a new generation facing an ancient evil. The series features a mix of familiar fantasy elements and a focus on character development amidst a backdrop of epic conflict, offering a visually engaging and emotionally driven experience.",
+        "spoiler_rich_plot_summary": "The series begins with Elara, a young woman discovering her powers as a healer, and Wil, an elf escaping his past, both drawn into a quest to stop the return of the Shade, an ancient demon imprisoned long ago. Their journey leads them to confront various threats, including rogue mages, corrupted creatures, and political intrigue within the elven and human kingdoms. As they progress, Elara grapples with the unpredictable nature of her magic and the weight of her lineage, while Wil confronts his past and the secrets surrounding his birth. The quest reveals a deeper conspiracy involving the origins of the Shade and the true nature of the Four Lands' history. The protagonists face betrayals and losses, forging alliances with unexpected allies and confronting their own inner demons. The narrative culminates in a confrontation with the Shade, where the fate of the Four Lands hangs in the balance, forcing Elara and Wil to make difficult choices that will shape the future of their world.",
+        "categorized_keywords": {
+          "themes": [
+            "destiny",
+            "family-loyalty",
+            "good-vs-evil",
+            "coming-of-age",
+            "sacrifice",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "ancient-evil",
+            "magic-system",
+            "prophecy",
+            "political-intrigue",
+            "quest-narrative",
+            "chosen-one"
+          ],
+          "mood_and_tone": [
+            "epic",
+            "dark",
+            "hopeful",
+            "adventurous",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "fantasy",
+            "adventure",
+            "coming-of-age-story",
+            "chosen-one-narrative",
+            "magic-user"
+          ],
+          "setting": [
+            "fantasy-world",
+            "four-lands",
+            "elven-kingdom",
+            "human-kingdom"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "magic-user",
+            "elf",
+            "mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "quest-driven"
+          ],
+          "target_audience": [
+            "young-adult"
+          ],
+          "detail_plot": [
+            "magic-staff",
+            "elven-armor",
+            "ancient-ruins",
+            "demon-scourge"
+          ],
+          "maturity_and_content": [
+            "fantasy-violence"
+          ]
+        },
+        "keyword_sentence": "The Shannara Chronicles is a young-adult fantasy adventure series set in a sprawling fantasy world where a young woman with unpredictable magic must embark on a perilous quest to confront an ancient evil and fulfill her destiny."
+      },
+      "duration_seconds": 71.14141154289246
+    }
+  }
+}

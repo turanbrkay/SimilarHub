@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "The Conners",
+    "overview": "This iconic family—Dan, Jackie, Darlene, Becky and D.J.—grapples with parenthood, dating, an unexpected pregnancy, financial pressures, aging and in-laws in working-class America.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2018,
+    "vote_count": 87
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Conners is a revival of the classic sitcom, focusing on the everyday struggles and comedic situations faced by the working-class Conner family. The series explores themes of family, financial hardship, and generational differences with a blend of humor and heart. While maintaining the familiar sitcom format, the show tackles contemporary social issues and evolving family dynamics, offering a relatable and often poignant portrayal of modern American life. The series aims to recapture the charm of the original while updating it for a new generation of viewers.",
+        "spoiler_rich_plot_summary": "The series picks up with Dan Conner still grieving the loss of his wife, Roseanne, and navigating life with his adult children: Darlene, a struggling artist and mother; Becky, dealing with personal and professional challenges; and D.J., adjusting to married life and fatherhood. Jackie continues to provide her unique brand of blunt honesty and support, while Darlene's husband, David, and Becky's husband, Mark, add to the family dynamic. Throughout the seasons, the family confronts financial difficulties, relationship complexities, and the challenges of raising children in a rapidly changing world. Recurring storylines involve Darlene's artistic pursuits, Becky's career aspirations, and D.J.'s attempts to balance family and work. The series explores the evolving relationships between the siblings and their parents, highlighting the enduring bonds of family despite the inevitable ups and downs of life. While maintaining a comedic tone, the show doesn't shy away from addressing serious issues such as economic insecurity and the complexities of modern parenting.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "economic-hardship",
+            "generational-differences",
+            "parenthood",
+            "working-class-life",
+            "sibling-relationships"
+          ],
+          "plot_and_concepts": [
+            "sitcom-format",
+            "family-drama",
+            "financial-struggles",
+            "relationship-challenges",
+            "adult-children"
+          ],
+          "mood_and_tone": [
+            "humorous",
+            "heartwarming",
+            "relatable",
+            "poignant",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "family-comedy",
+            "working-class-drama"
+          ],
+          "setting": [
+            "working-class-america",
+            "suburban-home",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "working-class-father",
+            "independent-daughter",
+            "struggling-artist",
+            "blunt-sister"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "suburban-home",
+            "family-dinner",
+            "working-class-neighborhood"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Conners offers a humorous and heartwarming portrayal of a working-class American family navigating the challenges of parenthood, financial struggles, and generational differences in a relatable sitcom format."
+      },
+      "duration_seconds": 65.85962247848511
+    }
+  }
+}

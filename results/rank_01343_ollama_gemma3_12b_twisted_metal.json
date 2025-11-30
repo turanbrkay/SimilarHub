@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Twisted Metal",
+    "overview": "A motor-mouthed outsider with no memory of his past is offered a chance at a better life, but only if he can successfully deliver a mysterious package across a post-apocalyptic wasteland. With the help of a badass axe-wielding car thief, he’ll face savage marauders driving vehicles of destruction and other dangers of the open road, including a deranged clown who drives an all too familiar ice cream truck.",
+    "genres": [
+      "Action & Adventure",
+      "Comedy"
+    ],
+    "release_year": 2023,
+    "vote_count": 172
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Twisted Metal is a high-octane action-comedy series set in a post-apocalyptic wasteland. The narrative follows a mysterious protagonist tasked with delivering a package, facing numerous dangers and eccentric adversaries along the way. The show blends vehicular combat with dark humor and a quirky cast of characters, offering a chaotic and visually engaging experience. It leans into over-the-top action sequences and absurdist humor, creating a unique blend of genres that appeals to fans of both action and comedy.",
+        "spoiler_rich_plot_summary": "The series begins with Preston, a man with amnesia, being offered a chance at a better life by a shadowy figure known only as Siena. His task: deliver a mysterious package across a ravaged landscape. He's given a heavily armored vehicle – a Twisted Metal – and paired with Hope, a skilled car thief with her own agenda. Their journey is fraught with peril, as they are relentlessly pursued by various factions and individuals, including the menacing clown, Caliban, who drives an ice cream truck and harbors a dark past connected to Preston's. As they progress, Preston begins to uncover fragments of his lost memory, revealing a complex history and a connection to the very forces he's now battling. Hope’s motivations remain ambiguous, and her alliance with Preston is constantly tested by her own goals. The series culminates in a confrontation where Preston must confront his past and the true nature of the package he’s delivering, ultimately reshaping the landscape of the wasteland and revealing the larger conspiracy at play.",
+        "categorized_keywords": {
+          "themes": [
+            "redemption",
+            "amnesia",
+            "found-family",
+            "survival",
+            "past-trauma",
+            "revenge"
+          ],
+          "plot_and_concepts": [
+            "post-apocalyptic",
+            "vehicular-combat",
+            "delivery-mission",
+            "mystery",
+            "amnesia-plot",
+            "revenge-plot"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "action-packed",
+            "chaotic",
+            "gritty",
+            "absurdist"
+          ],
+          "genre_and_tropes": [
+            "action-comedy",
+            "post-apocalyptic-fiction",
+            "road-movie",
+            "found-family-trope"
+          ],
+          "setting": [
+            "post-apocalyptic-wasteland",
+            "open-road",
+            "alternate-timeline"
+          ],
+          "character_archetypes": [
+            "amnesiac-protagonist",
+            "badass-thief",
+            "deranged-villain",
+            "enigmatic-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "armored-vehicle",
+            "ice-cream-truck",
+            "delivery-package",
+            "wasteland-landscape"
+          ],
+          "maturity_and_content": [
+            "graphic-violence"
+          ]
+        },
+        "keyword_sentence": "Set in a chaotic post-apocalyptic wasteland, Twisted Metal blends action-packed vehicular combat with darkly comic humor as an amnesiac protagonist and a badass thief navigate a dangerous road to redemption."
+      },
+      "duration_seconds": 64.95820260047913
+    }
+  }
+}

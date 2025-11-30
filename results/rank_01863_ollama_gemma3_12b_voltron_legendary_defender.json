@@ -1,0 +1,87 @@
+{
+  "input_data": {
+    "title": "Voltron: Legendary Defender",
+    "overview": "Five unlikely teenage heroes and their flying robot lions unite to form the megapowerful Voltron and defend the universe from evil.",
+    "genres": [
+      "Action & Adventure",
+      "Animation",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2016,
+    "vote_count": 107
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Voltron: Legendary Defender is an animated action-adventure series that blends classic mecha elements with a modern, character-driven narrative. The show follows a group of teenagers who must overcome personal conflicts and learn to work together to pilot the powerful Voltron, a giant robot capable of defending the galaxy from an intergalactic empire. It explores themes of teamwork, sacrifice, and the burden of responsibility, appealing to a broad audience with its dynamic action sequences and relatable characters.",
+        "spoiler_rich_plot_summary": "The series begins with Allura, the princess of a lost kingdom, discovering a group of teenagers scattered across the universe. These teenagers, each piloting a lion robot, are destined to form Voltron, the galaxy's last hope against the Galra Empire, led by Emperor Zarkon. Initially struggling to connect and master their lions, the team gradually learns to trust each other and harness Voltron's power. Throughout their journey, they uncover the history of Allura's people, the Alteans, and the tragic events that led to the war with the Galra. They face numerous challenges, including betrayals within their own ranks and the constant threat of Zarkon's relentless pursuit. As the series progresses, the team discovers that Zarkon is connected to Allura in a surprising way, revealing a complex family history and forcing them to confront difficult moral choices. Ultimately, they must find a way to defeat Zarkon and restore peace to the galaxy, facing immense personal sacrifices along the way.",
+        "categorized_keywords": {
+          "themes": [
+            "teamwork",
+            "sacrifice",
+            "responsibility",
+            "friendship",
+            "redemption",
+            "duty",
+            "galactic-conflict"
+          ],
+          "plot_and_concepts": [
+            "giant-robot",
+            "mecha",
+            "intergalactic-war",
+            "lost-kingdom",
+            "ancient-prophecy",
+            "chosen-one",
+            "time-travel"
+          ],
+          "mood_and_tone": [
+            "hopeful",
+            "action-packed",
+            "epic",
+            "optimistic",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "sci-fi",
+            "fantasy",
+            "adventure",
+            "found-family",
+            "coming-of-age"
+          ],
+          "setting": [
+            "space",
+            "alternate-timeline",
+            "galactic-empire",
+            "alien-planets"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "determined-princess",
+            "skilled-pilot",
+            "reformed-villain"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "quest-narrative"
+          ],
+          "target_audience": [
+            "young-adult",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "lion-robots",
+            "voltron-formation",
+            "galra-empire",
+            "altean-technology",
+            "paladins"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Voltron: Legendary Defender is a hopeful and action-packed animated series about a group of young heroes who must learn to work together to pilot giant robot lions and defend the galaxy from a powerful intergalactic empire."
+      },
+      "duration_seconds": 69.61717438697815
+    }
+  }
+}

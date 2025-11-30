@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Hollyoaks",
+    "overview": "The daily soap that follows the loves, lives and misdemeanours of a group of people living in the Chester village of Hollyoaks where anything could, and frequently does, happen...",
+    "genres": [
+      "Soap"
+    ],
+    "release_year": 1995,
+    "vote_count": 52
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Hollyoaks is a long-running British soap opera that chronicles the interconnected lives of residents in a fictional Chester village. Known for its youthful cast and willingness to tackle contemporary social issues, the series blends romantic relationships, family drama, and occasional crime or mystery elements. The show's longevity stems from its ability to evolve with changing audience tastes while maintaining a core focus on character development and relatable storylines. It offers a familiar, comforting viewing experience punctuated by unexpected twists and turns.",
+        "spoiler_rich_plot_summary": "Hollyoaks debuted in 1995, initially focusing on a small group of teenagers and their families. Early storylines revolved around school life, first loves, and the challenges of growing up. As the series progressed, the scope broadened to include a wider range of characters and storylines, often exploring complex social issues like drug abuse, domestic violence, and LGBTQ+ acceptance. Over the years, numerous characters have come and gone, each leaving their mark on the village. Relationships have been central, with romances blossoming and dissolving, families fracturing and reforming, and long-held secrets gradually being revealed. The show has frequently incorporated dramatic events, including arson, accidental deaths, and criminal activity, impacting the lives of many residents. While some characters have found happiness and stability, others have faced tragedy and hardship, reflecting the unpredictable nature of life. The series has consistently pushed boundaries, tackling sensitive topics and challenging societal norms, contributing to its enduring popularity and cultural relevance.",
+        "categorized_keywords": {
+          "themes": [
+            "family-drama",
+            "youth-culture",
+            "social-issues",
+            "romance",
+            "friendship",
+            "secrets",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "soap-opera",
+            "coming-of-age",
+            "domestic-violence",
+            "lgbtq-acceptance",
+            "crime",
+            "mystery"
+          ],
+          "mood_and_tone": [
+            "melodramatic",
+            "emotional",
+            "contemporary",
+            "realistic"
+          ],
+          "genre_and_tropes": [
+            "soap-opera",
+            "coming-of-age",
+            "romantic-relationships",
+            "family-secrets"
+          ],
+          "setting": [
+            "chester-village",
+            "modern-day",
+            "uk"
+          ],
+          "character_archetypes": [
+            "teenagers",
+            "young-adults",
+            "families"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adults",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "chester-village",
+            "school-life",
+            "local-pub"
+          ],
+          "maturity_and_content": [
+            "domestic-violence",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "Hollyoaks is a long-running British soap opera that explores the lives of young adults and their families in a Chester village, tackling contemporary social issues and romantic relationships with a melodramatic and emotional tone."
+      },
+      "duration_seconds": 58.04189944267273
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Gabby's Dollhouse",
+    "overview": "This colorful series leads preschoolers room to room through a fantastical dollhouse of delightful mini-worlds and irresistible kitty characters.",
+    "genres": [
+      "Animation",
+      "Kids"
+    ],
+    "release_year": 2021,
+    "vote_count": 36
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Gabby's Dollhouse is a vibrant, animated series designed for preschool-aged children. The show centers around Gabby, a young girl who shrinks down to explore a magical dollhouse filled with miniature worlds and adorable cat characters. It emphasizes creativity, problem-solving, and friendship through engaging, interactive adventures. The series aims to inspire imaginative play and foster a sense of wonder in its young audience, blending live-action and animation to create a unique and appealing viewing experience.",
+        "spoiler_rich_plot_summary": "Each episode of Gabby's Dollhouse begins with Gabby receiving a special delivery – a box containing a new challenge or adventure within the dollhouse. With the help of her cat Pandy Paws and a host of other feline friends, Gabby transforms the dollhouse rooms into fantastical environments, often themed around parties, holidays, or creative projects. These transformations involve crafting, decorating, and solving simple puzzles to complete the adventure. Throughout the series, Gabby and her friends consistently demonstrate the importance of teamwork and kindness, overcoming obstacles and celebrating their accomplishments. The overarching narrative focuses on fostering creativity and encouraging viewers to embrace their own imaginations, with each episode culminating in a joyful celebration of friendship and accomplishment.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "creativity",
+            "imagination",
+            "problem-solving",
+            "kindness",
+            "teamwork"
+          ],
+          "plot_and_concepts": [
+            "miniature-worlds",
+            "transformation",
+            "crafting",
+            "interactive-adventure"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "playful",
+            "joyful",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "childrens-animation",
+            "live-action-animation",
+            "preschool-show"
+          ],
+          "setting": [
+            "dollhouse",
+            "miniature-world",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "young-protagonist",
+            "animal-companion",
+            "supportive-friends"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "interactive-narrative"
+          ],
+          "target_audience": [
+            "preschool-audience"
+          ],
+          "detail_plot": [
+            "dollhouse-room",
+            "cat-characters",
+            "delivery-box",
+            "crafting-supplies"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Gabby's Dollhouse is a joyful and imaginative preschool show that encourages creativity and friendship through interactive adventures within a magical dollhouse."
+      },
+      "duration_seconds": 49.320648193359375
+    }
+  }
+}

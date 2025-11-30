@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "BEEF",
+    "overview": "A road rage incident between two strangers — a failing contractor and an unfulfilled entrepreneur — sparks a feud that brings out their darkest impulses.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2023,
+    "vote_count": 334
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "BEEF is a darkly comedic drama exploring the escalating conflict between two strangers after a road rage incident. The series delves into themes of frustration, ambition, and the search for meaning in modern life, using humor to highlight the characters' underlying pain and desperation. It's a character-driven narrative that examines the fragility of composure and the destructive potential of unchecked anger, ultimately questioning the nature of happiness and success. The show blends elements of comedy and drama to create a tense and often absurd atmosphere, offering a nuanced portrayal of flawed individuals struggling with their own demons.",
+        "spoiler_rich_plot_summary": "The series begins with Danny Cho, a struggling contractor, nearly colliding with Amy Lau, a successful but deeply unhappy entrepreneur, in a parking lot. A brief but intense road rage incident sparks a simmering feud between them. Initially, their retaliation is petty and impulsive – leaving negative reviews, vandalizing property, and disrupting each other's lives. As the feud intensifies, their actions become increasingly reckless and destructive, impacting not only their own lives but also the lives of those around them. Danny's family and Amy's husband, George, become entangled in their conflict, exposing vulnerabilities and secrets. The escalating conflict forces both characters to confront their own personal struggles and the underlying reasons for their anger and dissatisfaction. Ultimately, the feud reaches a dramatic climax, forcing them to re-evaluate their actions and the consequences they're having on themselves and others, leading to a complex and unexpected resolution that blurs the lines between victim and aggressor.",
+        "categorized_keywords": {
+          "themes": [
+            "anger-management",
+            "class-conflict",
+            "existential-dread",
+            "identity-crisis",
+            "revenge",
+            "unfulfilled-potential"
+          ],
+          "plot_and_concepts": [
+            "road-rage",
+            "escalating-conflict",
+            "revenge-plot",
+            "misunderstandings",
+            "spiral-of-destruction"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "tense",
+            "absurd",
+            "satirical",
+            "unsettling"
+          ],
+          "genre_and_tropes": [
+            "black-comedy",
+            "character-driven",
+            "slow-burn",
+            "domestic-drama"
+          ],
+          "setting": [
+            "los-angeles",
+            "suburban-life",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "frustrated-entrepreneur",
+            "struggling-immigrant",
+            "unreliable-narrator"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "road-rage-incident",
+            "online-reviews",
+            "damaged-property",
+            "family-dynamics",
+            "business-dealings"
+          ],
+          "maturity_and_content": [
+            "profanity",
+            "anxiety",
+            "emotional-abuse"
+          ]
+        },
+        "keyword_sentence": "BEEF is a darkly comic drama set in modern-day Los Angeles, exploring themes of anger, class conflict, and the search for meaning through the escalating feud between a frustrated entrepreneur and a struggling immigrant."
+      },
+      "duration_seconds": 67.54254508018494
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "The Rookie",
+    "overview": "Starting over isn’t easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force’s oldest rookie, he’s met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2018,
+    "vote_count": 1431
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Rookie follows John Nolan, a man who decides to pursue his dream of becoming a police officer later in life, joining the Los Angeles Police Department as its oldest rookie. The series blends procedural crime drama with a focus on character development and the challenges of navigating a demanding career while confronting personal demons. It explores themes of second chances, proving oneself, and the complexities of law enforcement, often balancing intense action sequences with moments of humor and heartfelt connection. The show offers a generally optimistic and engaging portrayal of police work, emphasizing teamwork and the pursuit of justice.",
+        "spoiler_rich_plot_summary": "The series begins with John Nolan, a former college professor, joining the LAPD as a rookie after a traumatic event. He faces skepticism and challenges from his fellow officers and superiors, who question his abilities and motivations. Throughout the early seasons, Nolan works alongside a team of younger, more experienced rookies, learning the ropes and confronting various criminal cases. He frequently finds himself in dangerous situations, often relying on his instincts and unconventional methods to solve crimes. As the series progresses, Nolan’s past is gradually revealed, exposing secrets and connections that complicate his present. He develops close relationships with his fellow officers, forming a found-family dynamic that provides support and camaraderie. Later seasons introduce larger-scale threats and conspiracies, forcing Nolan and his team to confront powerful adversaries and navigate complex moral dilemmas. Nolan’s personal life also evolves, with romantic relationships and family dynamics adding further layers to his journey. While facing numerous setbacks and personal struggles, Nolan consistently strives to prove himself as a capable and dedicated officer, ultimately earning the respect of his peers and the community he serves.",
+        "categorized_keywords": {
+          "themes": [
+            "second-chances",
+            "law-enforcement",
+            "found-family",
+            "personal-redemption",
+            "justice",
+            "overcoming-adversity"
+          ],
+          "plot_and_concepts": [
+            "police-procedural",
+            "undercover-operation",
+            "criminal-investigation",
+            "conspiracy",
+            "found-family-dynamic"
+          ],
+          "mood_and_tone": [
+            "optimistic",
+            "action-oriented",
+            "suspenseful",
+            "heartwarming"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "police-procedural",
+            "rookie-story",
+            "underdog-narrative"
+          ],
+          "setting": [
+            "los-angeles",
+            "modern-day",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "rookie",
+            "mentor",
+            "underdog",
+            "seasoned-detective"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "police-academy",
+            "crime-scene",
+            "police-car",
+            "firearm",
+            "badge"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "The Rookie is an optimistic crime drama following a late-blooming police officer as he navigates the challenges of law enforcement and finds a supportive found-family within the Los Angeles Police Department."
+      },
+      "duration_seconds": 63.8415322303772
+    }
+  }
+}

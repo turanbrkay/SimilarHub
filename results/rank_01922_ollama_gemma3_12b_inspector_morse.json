@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Inspector Morse",
+    "overview": "Inspector Morse is a detective drama based on Colin Dexter's series of Chief Inspector Morse novels. The series starred John Thaw as Chief Inspector Morse and Kevin Whately as Sergeant Lewis, as well as a large cast of notable actors and actresses.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 1987,
+    "vote_count": 103
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Inspector Morse is a British detective drama that follows the brilliant but troubled Chief Inspector Morse as he solves complex crimes in Oxford. The series blends intricate mysteries with a character-driven narrative, exploring Morse's personal struggles, intellectual pursuits, and often-strained relationships. Known for its atmospheric setting, classical music soundtrack, and nuanced portrayal of a flawed genius, the show offers a compelling blend of crime procedural and psychological character study. The series is notable for its eventual spin-off, Lewis, which focuses on Morse's former sergeant.",
+        "spoiler_rich_plot_summary": "The series begins with Chief Inspector Morse, a highly intelligent but emotionally complex detective, investigating various crimes in Oxford. Early cases establish his sharp intellect and unconventional methods, often clashing with his superiors and relying heavily on his intuition. Throughout the series, Morse grapples with personal demons, including a failed love life and a sense of isolation, often finding solace in classical music and literature. As the series progresses, Morse's investigations become increasingly intricate, often involving academic circles and uncovering hidden secrets within Oxford's seemingly idyllic environment. The relationship between Morse and his sergeant, Lewis, evolves from a professional partnership to a complex and sometimes fraught friendship, with Lewis often serving as a grounding influence on Morse's erratic behavior. Later seasons see Morse facing a decline in his health, adding a layer of melancholy to his investigations and foreshadowing a significant life change. The final episodes see Morse involved in a particularly challenging case that forces him to confront his past and contemplate his future, ultimately leading to a poignant and bittersweet resolution.",
+        "categorized_keywords": {
+          "themes": [
+            "crime-and-justice",
+            "intellectual-pursuit",
+            "personal-redemption",
+            "isolation",
+            "friendship",
+            "moral-ambiguity"
+          ],
+          "plot_and_concepts": [
+            "police-investigation",
+            "mystery-solving",
+            "cat-and-mouse",
+            "academic-intrigue"
+          ],
+          "mood_and_tone": [
+            "melancholy",
+            "atmospheric",
+            "thoughtful",
+            "somber"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "detective-drama",
+            "british-tv",
+            "whodunit"
+          ],
+          "setting": [
+            "oxford-city",
+            "england",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "brilliant-detective",
+            "flawed-hero",
+            "loyal-sidekick",
+            "authoritative-figure"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "jaguar-car",
+            "classical-music",
+            "university-setting",
+            "interrogation-room"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Inspector Morse is a thoughtful British detective drama set in Oxford, exploring themes of crime, intellectual pursuit, and personal redemption through the lens of a brilliant but flawed investigator."
+      },
+      "duration_seconds": 65.16155767440796
+    }
+  }
+}

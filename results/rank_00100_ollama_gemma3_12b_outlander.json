@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Outlander",
+    "overview": "The story of Claire Randall, a married combat nurse from 1945 who is mysteriously swept back in time to 1743, where she is immediately thrown into an unknown world where her life is threatened. When she is forced to marry Jamie, a chivalrous and romantic young Scottish warrior, a passionate affair is ignited that tears Claire's heart between two vastly different men in two irreconcilable lives.",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2014,
+    "vote_count": 2403
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Outlander is a historical fantasy drama that blends elements of romance, adventure, and time travel. The series follows Claire Randall, a WWII nurse who is transported to 18th-century Scotland, where she navigates a dangerous political landscape and finds herself entangled in a passionate relationship. The show explores themes of love, loyalty, and identity against the backdrop of historical events, offering a sweeping narrative with both intimate character moments and large-scale conflicts. It balances the emotional intensity of a romance with the action and intrigue of a historical drama, appealing to audiences interested in both genres.",
+        "spoiler_rich_plot_summary": "Claire Randall, a married combat nurse, is unexpectedly transported from 1945 to 1743 Scotland during a second honeymoon with her husband Frank. Immediately thrust into a world of clan warfare and political intrigue, she is forced to marry Jamie Fraser, a young Scottish warrior, to protect herself. Their relationship blossoms into a passionate affair, complicated by Claire's knowledge of future events and her desire to return to her own time. As the Jacobite rising approaches, Claire and Jamie become deeply involved in the conflict, facing betrayals, losses, and difficult choices that test their love and loyalty. They eventually flee Scotland, seeking a new life in the American colonies, where they encounter new challenges and dangers as the American Revolution looms. Claire's ability to see the future continues to shape their decisions, creating tension and altering the course of history, while she grapples with the consequences of her actions and the enduring connection to her past life.",
+        "categorized_keywords": {
+          "themes": [
+            "time-travel",
+            "love-and-loss",
+            "identity-quest",
+            "historical-conflict",
+            "fate-and-destiny",
+            "family-loyalty",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "time-travel",
+            "historical-romance",
+            "political-intrigue",
+            "clan-warfare",
+            "revolution"
+          ],
+          "mood_and_tone": [
+            "romantic",
+            "melancholy",
+            "suspenseful",
+            "epic",
+            "historical"
+          ],
+          "genre_and_tropes": [
+            "historical-drama",
+            "time-travel-romance",
+            "epic-romance",
+            "found-family"
+          ],
+          "setting": [
+            "18th-century-scotland",
+            "american-colonies",
+            "historical-setting"
+          ],
+          "character_archetypes": [
+            "strong-female-lead",
+            "romantic-hero",
+            "warrior",
+            "historical-figure"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "historical-fiction"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "romance-lovers"
+          ],
+          "detail_plot": [
+            "scottish-highlands",
+            "jacobite-rising",
+            "clan-tartans",
+            "18th-century-dress",
+            "american-revolution"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "sexual-content"
+          ]
+        },
+        "keyword_sentence": "Outlander is a sweeping historical fantasy drama that blends romantic love and loss with political intrigue and time travel against the backdrop of 18th-century Scotland and the American colonies."
+      },
+      "duration_seconds": 64.45244979858398
+    }
+  }
+}

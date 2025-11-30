@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "30 Rock",
+    "overview": "Liz Lemon, the head writer for a late-night TV variety show in New York, tries to juggle all the egos around her while chasing her own dream.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2006,
+    "vote_count": 585
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "30 Rock is a fast-paced, satirical comedy series that lampoons the television industry and corporate culture. The show follows Liz Lemon, the head writer for a fictional variety show, as she navigates the absurdities of her workplace and attempts to maintain some semblance of control. Known for its witty writing, quirky characters, and meta-humor, the series offers a comedic exploration of ambition, creativity, and the challenges of managing eccentric personalities. The show's humor is often self-referential and breaks the fourth wall, creating a unique and engaging viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Liz Lemon, a cynical and perpetually stressed head writer, struggling to keep the failing 'TGS with Tracy Jordan' afloat. Jack Donaghy, a relentlessly ambitious and corporate executive, arrives to revitalize the network and frequently clashes with Liz's more grounded approach. Tracy Jordan, the show's unpredictable star, and Jenna Maroney, a self-absorbed actress, add to the chaos. Throughout the seasons, Liz attempts to balance her professional responsibilities with her personal life, often failing spectacularly. Relationships form and dissolve amidst the constant upheaval, and the characters grapple with their own insecurities and ambitions. The show explores the behind-the-scenes realities of television production, highlighting the egos, compromises, and occasional moments of genuine creativity that define the industry. While the show maintains a comedic tone, it also touches on themes of friendship, loyalty, and the pursuit of happiness in a demanding and often ridiculous environment. The series concludes with a sense of bittersweet resolution, as the characters acknowledge their growth and the enduring bonds they're formed.",
+        "categorized_keywords": {
+          "themes": [
+            "workplace-comedy",
+            "corporate-culture",
+            "ambition",
+            "friendship",
+            "self-discovery",
+            "satire"
+          ],
+          "plot_and_concepts": [
+            "mockumentary",
+            "behind-the-scenes",
+            "television-industry",
+            "ensemble-cast"
+          ],
+          "mood_and_tone": [
+            "fast-paced",
+            "quirky",
+            "witty",
+            "satirical",
+            "absurdist"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "workplace-comedy",
+            "mockumentary"
+          ],
+          "setting": [
+            "new-york-city",
+            "television-studio"
+          ],
+          "character_archetypes": [
+            "head-writer",
+            "corporate-executive",
+            "eccentric-star",
+            "self-absorbed-actress"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "television-studio",
+            "writer's-room",
+            "tgs-with-tracy-jordan",
+            "jack-donaghys-office"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "30 Rock is a fast-paced, satirical sitcom set in a New York television studio, exploring themes of workplace comedy and ambition through a quirky ensemble cast and a mockumentary style."
+      },
+      "duration_seconds": 58.63330435752869
+    }
+  }
+}

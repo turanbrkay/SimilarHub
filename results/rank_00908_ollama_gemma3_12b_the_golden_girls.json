@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "The Golden Girls",
+    "overview": "Four Southern Florida seniors share a house, their dreams, and a whole lot of cheesecake. Bright, promiscuous, clueless and hilarious, these lovely, mismatched ladies form the perfect circle of friends.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1985,
+    "vote_count": 292
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Golden Girls is a sitcom centered on the lives of four older women sharing a home in Miami. The series explores themes of friendship, aging, and reinvention with a comedic and often heartwarming approach. It challenges societal expectations surrounding older women and celebrates the joys and challenges of navigating later life. The show's enduring appeal lies in its relatable characters, witty dialogue, and its ability to find humor and grace in everyday situations.",
+        "spoiler_rich_plot_summary": "The series begins with Dorothy Zbornak, a recently divorced woman, moving in with her mother, Sophia Petrillo. Shortly after, Rose Nylund, a naive and quirky woman from St. Olaf, Minnesota, and Blanche Devereaux, a flirtatious and charming Southern belle, join their household. Throughout the series, the women navigate various personal and romantic challenges, often with hilarious and touching results. Rose's outlandish stories, Blanche's pursuit of romance, and Dorothy's sharp wit provide constant comedic tension. The women support each other through dating, family issues, and career changes, forming a strong and unconventional family unit. While each woman experiences individual storylines, the core of the show remains their enduring friendship and the comfort they find in one another’s company. The series explores themes of loss, regret, and the importance of connection, ultimately celebrating the resilience and joy of aging.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "aging",
+            "family-found",
+            "reinvention",
+            "loss",
+            "connection"
+          ],
+          "plot_and_concepts": [
+            "sitcom",
+            "found-family",
+            "romantic-comedy",
+            "fish-out-of-water"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "humorous",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "ensemble-cast",
+            "romantic-comedy"
+          ],
+          "setting": [
+            "miami-florida",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "wise-mentor",
+            "naive-character",
+            "flirtatious-character",
+            "sarcastic-character"
+          ],
+          "narrative_style": [
+            "episodic",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "cheesecake",
+            "st-olaf-stories",
+            "southern-charm",
+            "miami-beach"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Golden Girls is a lighthearted sitcom about four older women in Miami who find friendship, laughter, and enduring connection as they navigate the joys and challenges of aging."
+      },
+      "duration_seconds": 53.88900804519653
+    }
+  }
+}

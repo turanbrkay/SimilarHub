@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "The Night Of",
+    "overview": "After a night of partying with a female stranger, a man wakes up to find her stabbed to death and is charged with her murder.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2016,
+    "vote_count": 875
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Night Of is a gripping crime drama that meticulously examines the American justice system through the lens of a murder investigation. The series follows Nasir Khan, a young man accused of a brutal crime, and Detective Rendell Pierce, as they navigate the complexities of evidence, procedure, and human fallibility. With a deliberate pace and unflinching realism, the show explores themes of guilt, innocence, prejudice, and the profound impact of the legal process on individuals and communities. The series offers a tense and morally ambiguous narrative, prompting viewers to question assumptions and confront uncomfortable truths about the pursuit of justice.",
+        "spoiler_rich_plot_summary": "The series begins with Nasir Khan, a Pakistani-American student, attending a party where he meets and has a brief relationship with Andrea Cornish. The next morning, Andrea is found murdered, and Nasir is quickly identified as the prime suspect. The investigation, led by Detective Rendell Pierce, uncovers a web of circumstantial evidence pointing towards Nasir's guilt, but also reveals inconsistencies and potential alternative suspects. As the case progresses, Nasir is formally charged and the legal proceedings begin, showcasing the intricacies of the criminal justice system, from police interrogation to courtroom drama. The defense team, led by John Stone, struggles to uncover the truth and challenge the prosecution's case, while Nasir grapples with the psychological toll of the accusations and the uncertainty of his future. Throughout the trial, new evidence emerges, casting doubt on Nasir’s involvement and suggesting the possibility of a more complex scenario. Ultimately, despite lingering questions and a lack of definitive proof, Nasir is found guilty, though the series concludes without a clear resolution to the mystery of Andrea’s murder, leaving the audience to ponder the ambiguities of justice and the fragility of truth.",
+        "categorized_keywords": {
+          "themes": [
+            "justice-system",
+            "guilt-innocence",
+            "prejudice",
+            "truth-seeking",
+            "moral-ambiguity",
+            "social-inequality"
+          ],
+          "plot_and_concepts": [
+            "murder-investigation",
+            "courtroom-drama",
+            "false-accusation",
+            "police-procedural",
+            "legal-thriller"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "tense",
+            "gritty",
+            "realistic",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "legal-thriller",
+            "police-procedural"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "morally-gray-protagonist",
+            "jaded-detective"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "police-station",
+            "courtroom",
+            "prison-cell",
+            "interrogation-room"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "sexual-content",
+            "drug-use"
+          ]
+        },
+        "keyword_sentence": "The Night Of is a dark and suspenseful crime drama set in New York City, exploring themes of guilt, prejudice, and the complexities of the justice system through a meticulous murder investigation and courtroom proceedings."
+      },
+      "duration_seconds": 74.07275295257568
+    }
+  }
+}

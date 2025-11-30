@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Even Stevens",
+    "overview": "The Stevens are a middle-class family living in Sacramento, CA. Husband and father Steve is a successful attorney. Wife and mother Eileen is a state Senator. Their oldest child Donnie ia a high-school sports legend. Ren, an 8th-grader, is just about the perfect daughter. She makes the best grades, she's popular, she does volunteer work and other extracurricular tasks by the score. Her brother Louis, in the 7th grade, is her opposite. He likes to sleep late, he's messy, his grades are not good, he's frequently in detention and he seems to take nothing seriously. But he is serious about finding something of his own that he can do to put himself on a par with the rest of his overachieving family. Though he and Ren occasionally soften their attitudes toward each other, at any given moment the're likely to be fighting like mongoose and cobra.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2000,
+    "vote_count": 61
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Even Stevens is a family sitcom centered on the dynamic between two siblings, Ren and Louis, who represent opposite ends of the achievement spectrum. The show explores themes of family, identity, and the pressures of societal expectations through comedic situations and relatable character interactions. It blends lighthearted humor with moments of genuine emotional depth, offering a nostalgic and entertaining portrayal of adolescence and familial relationships. The series utilizes exaggerated scenarios and physical comedy to highlight the absurdity of everyday life and the challenges of finding one's place within a family. Ultimately, Even Stevens is a feel-good comedy that celebrates individuality and the importance of embracing one's unique qualities.",
+        "spoiler_rich_plot_summary": "The series begins with the Stevens family, a seemingly perfect household led by successful parents, Steve and Eileen. Their eldest child, Donnie, excels in sports, while Ren embodies the ideal student and daughter. Louis, however, struggles to find his place, constantly overshadowed by his siblings' accomplishments. Throughout the series, Louis attempts various schemes and endeavors to gain recognition and prove his worth, often leading to chaotic and humorous consequences. Ren, initially portrayed as the epitome of perfection, gradually reveals vulnerabilities and insecurities, challenging the notion of flawless achievement. The show explores the complexities of sibling rivalry and the pressures of maintaining a facade of success. While the family faces various challenges and misunderstandings, they ultimately learn to appreciate each other's differences and support one another's individual journeys. The series concludes with a sense of acceptance and understanding, reinforcing the importance of family bonds and celebrating the unique qualities that make each member special.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "sibling-rivalry",
+            "identity-quest",
+            "self-discovery",
+            "acceptance",
+            "pressure-to-succeed"
+          ],
+          "plot_and_concepts": [
+            "fish-out-of-water",
+            "slapstick-comedy",
+            "misunderstandings",
+            "schemes",
+            "coming-of-age"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "nostalgic"
+          ],
+          "genre_and_tropes": [
+            "family-sitcom",
+            "teen-comedy",
+            "coming-of-age-story"
+          ],
+          "setting": [
+            "suburban-usa",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "overachiever",
+            "underdog",
+            "quirky-teenager",
+            "successful-parents"
+          ],
+          "narrative_style": [
+            "episodic-format",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "teenagers"
+          ],
+          "detail_plot": [
+            "school-setting",
+            "family-dinner",
+            "detention-room",
+            "sports-field"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Even Stevens is a lighthearted family sitcom set in modern-day suburban America, exploring themes of identity and acceptance through the comedic struggles of a quirky teenager finding his place within a family of overachievers."
+      },
+      "duration_seconds": 63.38734006881714
+    }
+  }
+}

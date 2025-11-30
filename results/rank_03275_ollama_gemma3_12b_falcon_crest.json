@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Falcon Crest",
+    "overview": "Falcon Crest is an American primetime television soap opera which aired on the CBS network for nine seasons, from December 4, 1981 to May 17, 1990. A total of 227 episodes were produced.\n\nThe series revolves around the feuding factions of the wealthy Gioberti/Channing family in the Californian wine industry. Jane Wyman starred as Angela Channing, the tyrannical matriarch of the Falcon Crest Winery, alongside Robert Foxworth as Chase Gioberti, Angela's nephew who returns to Falcon Crest following the death of his father. The series was set in the fictitious Tuscany Valley northeast of San Francisco.",
+    "genres": [
+      "Soap",
+      "Drama"
+    ],
+    "release_year": 1981,
+    "vote_count": 41
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Falcon Crest is a long-running American soap opera centered on the power struggles within a wealthy California wine-producing family. The series explores themes of ambition, betrayal, and familial loyalty against the backdrop of the competitive wine industry. Known for its dramatic twists and turns, Falcon Crest offers a blend of melodrama and intrigue, focusing on the complex relationships and ruthless tactics employed by its characters to gain control of the Falcon Crest Winery. The show’s longevity is a testament to its ability to consistently deliver compelling narratives and captivating performances.",
+        "spoiler_rich_plot_summary": "The series begins with Angela Channing, the formidable matriarch of Falcon Crest Winery, facing challenges to her authority. Her nephew, Chase Gioberti, returns to Tuscany Valley after years of estrangement, bringing with him secrets and ambitions that threaten the established order. A complex web of relationships unfolds, involving multiple generations of the Gioberti and Channing families, each vying for power and control of the winery. Throughout the series, characters engage in elaborate schemes, betrayals, and romantic entanglements, leading to dramatic shifts in alliances and fortunes. Over the years, characters rise and fall, marriages are forged and broken, and long-held secrets are revealed, constantly reshaping the power dynamics within the family. The winery itself becomes a central battleground, with characters employing increasingly ruthless tactics to secure their positions. Ultimately, the series concludes with a resolution to the ongoing conflicts, though the legacy of the family’s struggles and the winery’s history remains.",
+        "categorized_keywords": {
+          "themes": [
+            "family-loyalty",
+            "power-struggle",
+            "betrayal",
+            "ambition",
+            "revenge",
+            "generational-conflict"
+          ],
+          "plot_and_concepts": [
+            "soap-opera",
+            "wine-industry",
+            "family-business",
+            "inheritance-dispute",
+            "romantic-entanglements"
+          ],
+          "mood_and_tone": [
+            "melodramatic",
+            "intense",
+            "dramatic",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "soap-opera",
+            "family-drama",
+            "generational-saga"
+          ],
+          "setting": [
+            "california",
+            "wine-country",
+            "tuscany-valley"
+          ],
+          "character_archetypes": [
+            "matriarch",
+            "ruthless-businessman",
+            "estranged-heir",
+            "scheming-rival"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "generational-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "wine-vineyard",
+            "family-mansion",
+            "courtroom-scene",
+            "vineyard-estate"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Falcon Crest is a dramatic soap opera set in California’s wine country, exploring themes of family loyalty and betrayal as generations of a powerful family vie for control of a sprawling vineyard estate."
+      },
+      "duration_seconds": 56.729416608810425
+    }
+  }
+}

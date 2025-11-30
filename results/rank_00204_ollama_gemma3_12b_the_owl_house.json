@@ -1,0 +1,86 @@
+{
+  "input_data": {
+    "title": "The Owl House",
+    "overview": "An animated fantasy-comedy series that follows Luz, a self-assured teenage girl who accidentally stumbles upon a portal to a magical world where she befriends a rebellious witch, Eda, and an adorably tiny warrior, King. Despite not having magical abilities, Luz pursues her dream of becoming a witch by serving as Eda's apprentice at the Owl House and ultimately finds a new family in an unlikely setting.",
+    "genres": [
+      "Animation",
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Action & Adventure",
+      "Comedy"
+    ],
+    "release_year": 2020,
+    "vote_count": 1379
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Owl House is a coming-of-age animated series blending fantasy, comedy, and drama, centered on a human girl's journey to become a witch in a magical realm. The show explores themes of found family, self-discovery, and challenging societal norms, with a focus on character development and a heartwarming narrative. It balances lighthearted humor with deeper emotional resonance, appealing to a broad audience while maintaining a unique visual style and engaging storyline. The series ultimately portrays a story of acceptance and belonging, demonstrating the power of unconventional relationships.",
+        "spoiler_rich_plot_summary": "The series begins with Luz Noceda, a teenager obsessed with magic, accidentally discovering a portal to the Boiling Isles, a realm teeming with witches and demons. She meets Eda Clawthorne, a rebellious witch living as an outlaw, and King, a diminutive creature who believes himself to be a powerful demon. Luz becomes Eda’s apprentice, living in the Owl House and learning the basics of witchcraft, despite lacking inherent magical abilities. As Luz progresses, she uncovers a larger conspiracy involving Emperor Belos, the ruler of the Boiling Isles, who seeks to eradicate human magic and control the realm. Luz, Eda, and King form alliances with other witches and rebels, fighting against Belos's oppressive regime. Throughout the series, Luz grapples with her identity as a human in a magical world, while also confronting personal challenges and uncovering secrets about Eda’s past and the true nature of the Boiling Isles. The conflict culminates in a confrontation with Belos, revealing his true motivations and leading to a significant shift in the power dynamics of the Boiling Isles, ultimately shaping the future of the realm and its inhabitants.",
+        "categorized_keywords": {
+          "themes": [
+            "found-family",
+            "self-discovery",
+            "acceptance",
+            "rebellion",
+            "identity-quest",
+            "coming-of-age",
+            "magic-and-power"
+          ],
+          "plot_and_concepts": [
+            "portal-fantasy",
+            "coming-of-age-story",
+            "rebellion-against-authority",
+            "magic-system",
+            "alternate-dimension"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "humorous",
+            "adventurous",
+            "optimistic",
+            "lighthearted"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "fantasy-comedy",
+            "coming-of-age",
+            "found-family-trope",
+            "magic-academy"
+          ],
+          "setting": [
+            "boiling-isles",
+            "alternate-world",
+            "magical-realm",
+            "fantasy-setting"
+          ],
+          "character_archetypes": [
+            "rebellious-protagonist",
+            "wise-mentor",
+            "unlikely-hero",
+            "loyal-companion"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "character-driven"
+          ],
+          "target_audience": [
+            "young-adult",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "owl-house",
+            "portal",
+            "witch's-spellbook",
+            "emperor-belos",
+            "staff-of-power"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Owl House is a heartwarming animated series that follows a young girl’s journey of self-discovery and acceptance as she finds a new family and embraces magic in a whimsical and adventurous alternate world."
+      },
+      "duration_seconds": 69.59972763061523
+    }
+  }
+}

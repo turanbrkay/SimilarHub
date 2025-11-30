@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Tiny Creatures",
+    "overview": "Little animals embark on big adventures across the U.S. in a dramatic nature series that explores their hidden worlds and epic survival stories.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2020,
+    "vote_count": 132
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Tiny Creatures is a nature documentary series that offers a unique perspective on the lives of small animals, showcasing their resilience and adaptability as they navigate diverse environments across the United States. The series blends stunning visuals with compelling narratives, highlighting the challenges and triumphs of these often-overlooked creatures. It aims to foster appreciation for the natural world and emphasize the interconnectedness of ecosystems, offering a blend of educational content and captivating storytelling. The series emphasizes the drama inherent in survival, even at a miniature scale, and explores the beauty and fragility of the natural world.",
+        "spoiler_rich_plot_summary": "The series follows several distinct animal groups throughout the year, documenting their seasonal migrations, breeding cycles, and struggles for survival. Early episodes focus on a family of prairie dogs facing a harsh winter, showcasing their complex social structure and the constant threat of predators. Later segments follow a colony of bats navigating urban landscapes, highlighting their vital role in pollination and insect control. The series also explores the lives of desert tortoises, demonstrating their remarkable ability to conserve water and endure extreme temperatures. As the seasons change, the animals face new challenges, including wildfires, floods, and competition for resources. The series culminates in a celebration of the animals' resilience and the importance of preserving their habitats, emphasizing the ongoing struggle for survival in a changing world.",
+        "categorized_keywords": {
+          "themes": [
+            "survival",
+            "nature",
+            "ecosystems",
+            "adaptation",
+            "wildlife",
+            "conservation"
+          ],
+          "plot_and_concepts": [
+            "migration",
+            "predator-prey",
+            "seasonal-cycles",
+            "wildlife-photography",
+            "documentary-format"
+          ],
+          "mood_and_tone": [
+            "awe-inspiring",
+            "educational",
+            "observational",
+            "naturalistic"
+          ],
+          "genre_and_tropes": [
+            "nature-documentary",
+            "wildlife-series",
+            "observational-documentary"
+          ],
+          "setting": [
+            "united-states",
+            "prairie",
+            "desert",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "resilient-animal",
+            "adaptable-creature"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "observational-narrative"
+          ],
+          "target_audience": [
+            "family-audience",
+            "nature-enthusiasts"
+          ],
+          "detail_plot": [
+            "prairie-dog-town",
+            "bat-colony",
+            "desert-tortoise-shell",
+            "wildfire-scar",
+            "seasonal-migration"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Tiny Creatures is an awe-inspiring nature documentary series that explores the resilience and adaptability of small animals as they navigate diverse ecosystems across the United States, highlighting the beauty and fragility of the natural world."
+      },
+      "duration_seconds": 61.84439420700073
+    }
+  }
+}

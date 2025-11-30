@@ -1,0 +1,66 @@
+{
+  "input_data": {
+    "title": "Thunder in Paradise",
+    "overview": "Thunder in Paradise was a one-hour action-adventure TV series from the creators of Baywatch, which starred Hulk Hogan, Chris Lemmon, and Carol Alt. This first-run syndicated TV series originally premiered as a straight-to-video feature film in September 1993, then ran for one season in 1994, before being cancelled. The series was later rebroadcast on the TNT cable network.",
+    "genres": [
+      "Action & Adventure"
+    ],
+    "release_year": 1994,
+    "vote_count": 31
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Thunder in Paradise is a lighthearted, action-adventure series blending elements of rescue drama and comedic action. The show follows a group of former criminals given a chance at redemption by working as a rescue team in a tropical paradise. It emphasizes teamwork, second chances, and overcoming personal challenges, all wrapped in a visually appealing setting. While aiming for a similar appeal to Baywatch, the series ultimately struggled to find a consistent audience and was short-lived.",
+        "spoiler_rich_plot_summary": "The series begins with a group of convicted criminals, led by the charismatic but troubled Patrick 'Mac' McKenzie (Hulk Hogan), being offered a unique opportunity for early release. They are assigned to a remote island where they must use their skills to rescue people in distress, overseen by the stern but fair Lieutenant Lemon and his daughter. Each episode typically involves a rescue mission, often complicated by the team's past mistakes and personal conflicts. As the season progresses, the team members confront their demons and learn to rely on each other, forming a found-family dynamic. While they strive to maintain a positive image and earn their freedom, their past actions continue to haunt them, creating tension and jeopardizing their second chance. The series concludes with the team facing a significant threat that tests their loyalty and forces them to make difficult choices about their future.",
+        "categorized_keywords": {
+          "themes": [
+            "redemption",
+            "second-chances",
+            "teamwork",
+            "found-family",
+            "overcoming-obstacles"
+          ],
+          "plot_and_concepts": [
+            "rescue-mission",
+            "tropical-setting",
+            "criminal-rehabilitation"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "comedic",
+            "action-adventure"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "rescue-drama",
+            "found-family"
+          ],
+          "setting": [
+            "tropical-island",
+            "remote-location"
+          ],
+          "character_archetypes": [
+            "reformed-criminal",
+            "stern-authority-figure",
+            "charismatic-leader"
+          ],
+          "narrative_style": [
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "rescue-boat",
+            "tropical-beach",
+            "helicopter-rescue"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Thunder in Paradise is a lighthearted action-adventure series set on a tropical island, where reformed criminals work as a rescue team, striving for redemption and forming a found-family dynamic."
+      },
+      "duration_seconds": 61.751359939575195
+    }
+  }
+}

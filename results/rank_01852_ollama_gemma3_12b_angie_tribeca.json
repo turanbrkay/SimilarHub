@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "Angie Tribeca",
+    "overview": "Lone-wolf detective Angie Tribeca and a squad of committed LAPD detectives investigate the most serious cases, from the murder of a ventriloquist to a rash of baker suicides.",
+    "genres": [
+      "Comedy",
+      "Action & Adventure",
+      "Crime"
+    ],
+    "release_year": 2016,
+    "vote_count": 108
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Angie Tribeca is a surreal and absurdist police procedural comedy series that parodies classic crime dramas. The show follows the relentlessly optimistic and seemingly indestructible detective Angie Tribeca as she investigates bizarre and often ridiculous cases alongside her dedicated team. Its humor derives from exaggerated tropes, deadpan delivery, and a commitment to escalating the ridiculousness of crime-solving. The series blends action, crime, and comedy in a unique and consistently unpredictable fashion, offering a lighthearted and self-aware viewing experience.",
+        "spoiler_rich_plot_summary": "The series centers on Detective Angie Tribeca, a detective known for her unwavering dedication and remarkable resilience despite facing increasingly outlandish and dangerous situations. Each season presents a new wave of absurd cases, ranging from the murder of a ventriloquist to a series of baker suicides, all investigated with a straight-faced commitment to procedural conventions. Recurring characters, including her colleagues and superiors, contribute to the show's comedic chaos, often reacting with varying degrees of exasperation and bewilderment at Angie's methods and the sheer absurdity of the crimes. While the overarching narrative is episodic, with each case largely self-contained, the series subtly explores themes of loyalty, perseverance, and the importance of finding humor in the face of the bizarre. The show consistently subverts expectations, delivering unexpected twists and escalating the comedic stakes with each investigation, ultimately celebrating the absurdity of the crime-solving genre.",
+        "categorized_keywords": {
+          "themes": [
+            "absurdism",
+            "crime-solving",
+            "perseverance",
+            "loyalty",
+            "satire"
+          ],
+          "plot_and_concepts": [
+            "police-procedural",
+            "satirical-comedy",
+            "crime-investigation",
+            "surreal-humor"
+          ],
+          "mood_and_tone": [
+            "deadpan",
+            "lighthearted",
+            "absurdist",
+            "satirical"
+          ],
+          "genre_and_tropes": [
+            "crime-comedy",
+            "parody",
+            "satirical-drama"
+          ],
+          "setting": [
+            "los-angeles",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "unflappable-heroine",
+            "dedicated-colleague",
+            "exasperated-superior"
+          ],
+          "narrative_style": [
+            "episodic-format",
+            "satirical-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "crime-scene",
+            "police-station",
+            "investigation-room"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Angie Tribeca is a lighthearted and absurd crime-comedy series set in Los Angeles, satirizing police procedurals with a deadpan tone and a cast of dedicated characters facing increasingly ridiculous investigations."
+      },
+      "duration_seconds": 60.29414653778076
+    }
+  }
+}

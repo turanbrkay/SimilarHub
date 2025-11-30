@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Airwolf",
+    "overview": "As part of a deal with an intelligence agency to look for his missing brother, a renegade pilot goes on missions with an advanced battle helicopter.",
+    "genres": [
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1984,
+    "vote_count": 382
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Airwolf is a 1980s action-adventure series centered on a technologically advanced helicopter and the pilots who operate it. The show blends elements of espionage, military action, and science fiction, exploring themes of family, loyalty, and the moral complexities of covert operations. The narrative follows a renegade pilot forced into service with a shadowy intelligence agency, undertaking dangerous missions while searching for his missing brother. The series offers a fast-paced, action-packed experience with a focus on aerial combat and suspenseful intrigue.",
+        "spoiler_rich_plot_summary": "The series begins with Maverick, a skilled helicopter pilot, reluctantly agreeing to work with the intelligence agency, known as BOSCO, in exchange for information about his brother, Stirling, who disappeared years prior while piloting an experimental helicopter – the Airwolf. Airwolf is a technologically superior aircraft, stolen from a Nazi base at the end of World War II and subsequently developed by the US military. Maverick's missions involve recovering stolen technology, thwarting enemy plots, and engaging in high-stakes aerial combat. Throughout the series, Maverick uncovers clues about his brother's fate, revealing a complex web of deception and betrayal within BOSCO itself. He discovers Stirling was not simply missing, but actively involved in the Airwolf's development and its subsequent theft. The series explores the moral ambiguities of Maverick's work, as he grapples with the consequences of his actions and the sacrifices required to uncover the truth about his brother and the Airwolf’s origins. The search for Stirling becomes increasingly perilous, leading Maverick into confrontations with powerful adversaries and forcing him to question the true nature of his mission.",
+        "categorized_keywords": {
+          "themes": [
+            "family-loyalty",
+            "espionage",
+            "redemption",
+            "betrayal",
+            "revenge",
+            "moral-ambiguity"
+          ],
+          "plot_and_concepts": [
+            "military-action",
+            "helicopter-combat",
+            "advanced-technology",
+            "secret-mission",
+            "missing-person",
+            "cold-war-espionage"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "action-packed",
+            "tense",
+            "patriotic"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "sci-fi",
+            "military-thriller",
+            "espionage-thriller"
+          ],
+          "setting": [
+            "cold-war",
+            "military-base",
+            "international-locations"
+          ],
+          "character_archetypes": [
+            "renegade-pilot",
+            "skilled-agent",
+            "enigmatic-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "mission-based"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "airwolf-helicopter",
+            "bosco-agency",
+            "stirling-maverick",
+            "nazis-ww2",
+            "advanced-radar"
+          ],
+          "maturity_and_content": [
+            "violence"
+          ]
+        },
+        "keyword_sentence": "Airwolf is a suspenseful action-adventure series set during the Cold War, following a renegade pilot’s mission-based search for his brother while piloting an advanced helicopter and navigating the complexities of espionage and military action."
+      },
+      "duration_seconds": 59.76822233200073
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Rugrats",
+    "overview": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, usually involving common life experiences that become adventures in the babies' imaginations. Adults in the series are almost always unaware of what the children are up to; however, this only provides more room for the babies to explore and discover their surroundings.",
+    "genres": [
+      "Family",
+      "Animation"
+    ],
+    "release_year": 1991,
+    "vote_count": 612
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Rugrats is a beloved animated series that chronicles the world through the eyes of a group of toddlers. The show's humor derives from the contrast between the children's imaginative interpretations of everyday events and the obliviousness of the adults around them. It explores themes of childhood wonder, sibling rivalry, and the importance of friendship, all presented with a lighthearted and whimsical tone. The series' enduring appeal lies in its ability to evoke a sense of nostalgia and capture the universal experiences of growing up.",
+        "spoiler_rich_plot_summary": "The series begins with the introduction of Tommy Pickles, a curious and adventurous toddler, and his friends Chuckie Finster, Phil and Lil DeVille, and Angelica Pickles. The babies frequently embark on imaginative adventures, often misinterpreting adult conversations and situations as grand quests. Recurring storylines involve navigating the complexities of family dynamics, particularly the often-antagonistic relationship between Tommy and Angelica. As the series progresses, new characters are introduced, expanding the group's adventures and deepening the exploration of childhood themes. The babies consistently face challenges, from escaping the confines of their playpen to confronting the perceived dangers of the adult world, always relying on their ingenuity and the strength of their friendships to overcome obstacles. While the adults remain largely unaware of the babies' escapades, the series subtly hints at the growing pains and developmental milestones that shape the children's understanding of the world around them.",
+        "categorized_keywords": {
+          "themes": [
+            "childhood-innocence",
+            "family-dynamics",
+            "sibling-rivalry",
+            "friendship",
+            "imagination",
+            "growing-up"
+          ],
+          "plot_and_concepts": [
+            "toddler-perspective",
+            "misinterpretation",
+            "imaginative-play",
+            "adult-obliviousness"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "nostalgic",
+            "playful"
+          ],
+          "genre_and_tropes": [
+            "animated-comedy",
+            "slice-of-life",
+            "found-family"
+          ],
+          "setting": [
+            "suburban-home",
+            "1990s-setting"
+          ],
+          "character_archetypes": [
+            "curious-toddler",
+            "anxious-child",
+            "spoiled-child",
+            "mischievous-toddler"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-children"
+          ],
+          "detail_plot": [
+            "playpen",
+            "diapers",
+            "baby-bottle",
+            "stroller"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Rugrats is a lighthearted animated comedy that explores the joys and challenges of childhood through the imaginative perspective of a group of toddlers, all while navigating family dynamics and the obliviousness of the adults around them."
+      },
+      "duration_seconds": 56.92829442024231
+    }
+  }
+}

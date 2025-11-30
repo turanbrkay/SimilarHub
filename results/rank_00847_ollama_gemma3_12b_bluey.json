@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Bluey",
+    "overview": "Bluey is an inexhaustible six year-old Blue Heeler dog, who loves to play and turns everyday family life into extraordinary adventures, developing her imagination as well as her mental, physical and emotional resilience.",
+    "genres": [
+      "Animation",
+      "Kids"
+    ],
+    "release_year": 2018,
+    "vote_count": 317
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Bluey is an Australian animated television series centered on a family of Blue Heelers and their imaginative play. The show's strength lies in its portrayal of relatable family dynamics, emphasizing the importance of play and creativity in child development. It blends humor with heartwarming moments, offering a positive and engaging viewing experience for both children and adults. The series explores themes of parenting, sibling relationships, and the power of imagination, all while maintaining a lighthearted and optimistic tone.",
+        "spoiler_rich_plot_summary": "The series follows Bluey, her younger sister Bingo, and their parents, Bandit and Chilli. Each episode typically revolves around a game invented by Bluey and Bingo, which often involves their parents participating and improvising. Bandit, in particular, frequently embraces the children's games, demonstrating a playful and engaged parenting style. Throughout the series, the family navigates everyday challenges and milestones, such as learning to share, dealing with frustration, and understanding the importance of empathy. While the episodes are largely episodic, there's a subtle progression in the children's understanding of the world and their relationships with their parents. The series consistently reinforces positive values and celebrates the joy of family life, culminating in a sense of warmth and connection that resonates with viewers of all ages.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "childhood-development",
+            "imagination",
+            "parenting",
+            "sibling-relationships",
+            "playfulness"
+          ],
+          "plot_and_concepts": [
+            "episodic-storytelling",
+            "improvisational-play",
+            "family-comedy"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "lighthearted",
+            "optimistic",
+            "heartwarming"
+          ],
+          "genre_and_tropes": [
+            "childrens-animation",
+            "slice-of-life",
+            "family-sitcom"
+          ],
+          "setting": [
+            "australia",
+            "suburban-home",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "playful-father",
+            "engaged-mother",
+            "imaginative-child",
+            "younger-sibling"
+          ],
+          "narrative_style": [
+            "episodic-storytelling"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-children"
+          ],
+          "detail_plot": [
+            "family-home",
+            "backyard-play",
+            "cardboard-boxes",
+            "pretend-play"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Bluey is a heartwarming Australian animated series that celebrates the joy of family life and imaginative play, offering a lighthearted and optimistic portrayal of childhood development and the importance of connection."
+      },
+      "duration_seconds": 55.483999252319336
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "Good Eats",
+    "overview": "Host Alton Brown explores the origins of ingredients, decodes culinary customs and presents food and equipment trends. Punctuated by unusual interludes, simple preparations and unconventional discussions, he'll bring you food in its finest and funniest form.",
+    "genres": [
+      "Comedy",
+      "Documentary"
+    ],
+    "release_year": 1999,
+    "vote_count": 34
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Good Eats is a comedic documentary series that blends culinary exploration with quirky humor and scientific explanations. Hosted by Alton Brown, the show delves into the history and science behind everyday foods, often employing unconventional methods and a playful, irreverent tone. It's a unique blend of education and entertainment, appealing to both food enthusiasts and those seeking a lighthearted, informative viewing experience. The series distinguishes itself through its distinctive visual style and Brown's engaging, often self-deprecating, presentation.",
+        "spoiler_rich_plot_summary": "The series doesn't follow a traditional narrative arc but rather presents a collection of themed episodes, each exploring different aspects of food and cooking. Early seasons focus on basic techniques and ingredients, gradually expanding to cover more complex topics like regional cuisines and food science. Recurring segments, such as 'Science of Cooking' and 'Equipment Tips,' provide consistent educational elements. While there's no overarching plot, the series builds a cumulative understanding of food preparation and appreciation, with Alton Brown's personality and unique perspective serving as the central thread. Later seasons introduce more elaborate experiments and challenges, showcasing the evolution of Brown's approach to culinary exploration.",
+        "categorized_keywords": {
+          "themes": [
+            "food-culture",
+            "culinary-history",
+            "science-of-cooking",
+            "humor",
+            "education"
+          ],
+          "plot_and_concepts": [
+            "cooking-demonstration",
+            "food-science",
+            "recipe-development",
+            "culinary-exploration"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "informative",
+            "quirky",
+            "humorous",
+            "playful"
+          ],
+          "genre_and_tropes": [
+            "cooking-show",
+            "documentary",
+            "comedy"
+          ],
+          "setting": [
+            "kitchen",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "eccentric-host",
+            "food-expert"
+          ],
+          "narrative_style": [
+            "episodic",
+            "themed-episodes"
+          ],
+          "target_audience": [
+            "food-enthusiasts",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "kitchen-equipment",
+            "ingredients",
+            "recipes",
+            "cooking-techniques"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Good Eats is a lighthearted and informative cooking show that explores the science and history of food with a quirky sense of humor and a playful approach to culinary exploration."
+      },
+      "duration_seconds": 47.995991945266724
+    }
+  }
+}

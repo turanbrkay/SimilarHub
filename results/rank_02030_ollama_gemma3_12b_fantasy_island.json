@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Fantasy Island",
+    "overview": "A magical island hosted by Mr Roarke and Tattoo where weekly guests learn valuable life lessons in their pursuit of fulfilling their dreams. Not all dreams are fulfilled as expected.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "release_year": 1978,
+    "vote_count": 94
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Fantasy Island is an anthology series centered on a mysterious island resort where guests request personalized experiences designed to fulfill their deepest desires. Hosted by the enigmatic Mr. Roarke and his ever-present assistant Tattoo, each episode presents a self-contained story exploring the complexities of human wishes and the often-unforeseen consequences of getting what one wants. The show blends elements of fantasy, drama, and social commentary, offering a blend of escapism and moral reflection. While seemingly lighthearted, the series often delves into darker themes, revealing the potential pitfalls of unchecked ambition and the importance of appreciating what one already possesses.",
+        "spoiler_rich_plot_summary": "Each week, new guests arrive at Fantasy Island, presenting Mr. Roarke with their 'fantasy' – a wish or desire they hope to experience. Roarke, with the assistance of Tattoo, orchestrates elaborate scenarios to fulfill these requests, often involving complex narratives and unexpected twists. While the guests initially believe their fantasies will be purely positive, Roarke frequently uses these experiences to teach them valuable life lessons, revealing the flaws in their desires and the importance of personal growth. The island itself operates under a mysterious power, seemingly capable of manipulating reality to serve Roarke's purposes. As the series progresses, hints are dropped about Roarke's own past and the true nature of the island's magic, suggesting a deeper, more complex history than initially presented. The guests' fantasies often lead to unexpected consequences, forcing them to confront uncomfortable truths about themselves and the world around them, ultimately leaving them transformed, whether for better or worse.",
+        "categorized_keywords": {
+          "themes": [
+            "wish-fulfillment",
+            "moral-lessons",
+            "self-discovery",
+            "consequences",
+            "illusion-vs-reality",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "anthology-series",
+            "wish-granting",
+            "moral-dilemma",
+            "alternate-reality",
+            "self-contained-story"
+          ],
+          "mood_and_tone": [
+            "mysterious",
+            "thought-provoking",
+            "escapist",
+            "melancholy",
+            "whimsical"
+          ],
+          "genre_and_tropes": [
+            "fantasy",
+            "drama",
+            "anthology",
+            "wish-fulfillment-trope"
+          ],
+          "setting": [
+            "tropical-island",
+            "alternate-timeline",
+            "magical-realm"
+          ],
+          "character_archetypes": [
+            "enigmatic-host",
+            "loyal-assistant",
+            "naive-guest"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "tattoo-design",
+            "roarke-mansion",
+            "wish-request-form",
+            "tropical-landscape"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Fantasy Island offers a whimsical and thought-provoking journey to a tropical island where guests confront the complexities of their deepest desires, often learning valuable moral lessons through fantastical and self-contained stories."
+      },
+      "duration_seconds": 65.72041535377502
+    }
+  }
+}

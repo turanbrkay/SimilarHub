@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Crime Scene: The Times Square Killer",
+    "overview": "In 1970s NYC, the “Torso Killer” preys on women to fulfill his grotesque fantasies while eluding police. A docuseries dive into crime’s darkest places.",
+    "genres": [
+      "Documentary",
+      "Crime",
+      "Mystery"
+    ],
+    "release_year": 2021,
+    "vote_count": 74
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Crime Scene: The Times Square Killer is a documentary series that delves into the chilling 1970s case of the 'Torso Killer,' who terrorized New York City. The series utilizes archival footage, interviews with investigators and witnesses, and recreations to reconstruct the investigation and explore the social and cultural context surrounding the crimes. It aims to provide a detailed account of the case while examining the impact on the victims' families and the community. The series blends true crime investigation with a broader exploration of urban decay and the psychological impact of violence. It offers a grim and unsettling look into a dark chapter of New York City's history.",
+        "spoiler_rich_plot_summary": "The series chronicles the investigation into the 'Torso Killer,' whose crimes began to surface in the early 1970s in the Times Square area of New York City. The victims, primarily young women, were found dismembered and posed in disturbing ways, initially baffling investigators. The documentary traces the early missteps in the investigation, highlighting the challenges of identifying the killer and connecting the seemingly disparate cases. As the investigation progresses, the series explores the social and economic conditions of the Times Square area, which contributed to the vulnerability of the victims. The series follows the eventual identification of a suspect, and the subsequent legal proceedings, revealing the complexities of building a case based on circumstantial evidence and the impact of the crimes on the community and the families of the victims. The series concludes by examining the legacy of the case and the ongoing efforts to bring closure to those affected.",
+        "categorized_keywords": {
+          "themes": [
+            "true-crime",
+            "urban-decay",
+            "victimhood",
+            "police-investigation",
+            "social-issues",
+            "fear",
+            "justice"
+          ],
+          "plot_and_concepts": [
+            "serial-killer",
+            "cold-case",
+            "police-procedural",
+            "true-crime-investigation",
+            "missing-persons"
+          ],
+          "mood_and_tone": [
+            "grim",
+            "suspenseful",
+            "dark",
+            "disturbing",
+            "unsettling"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "true-crime",
+            "crime-procedural"
+          ],
+          "setting": [
+            "new-york-city",
+            "1970s",
+            "times-square"
+          ],
+          "character_archetypes": [
+            "detective",
+            "victim",
+            "suspect",
+            "investigator"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "investigative-journalism"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "crime-scene",
+            "police-badge",
+            "evidence-bag",
+            "newspaper-headlines",
+            "interrogation-room"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "disturbing-imagery"
+          ]
+        },
+        "keyword_sentence": "Crime Scene: The Times Square Killer is a grim documentary series that investigates a disturbing serial killer case in 1970s New York City, exploring themes of urban decay and the lasting impact of violence on a community."
+      },
+      "duration_seconds": 67.91675424575806
+    }
+  }
+}

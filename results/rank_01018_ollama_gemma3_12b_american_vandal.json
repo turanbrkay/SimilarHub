@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "American Vandal",
+    "overview": "A true-crime satire that explores the aftermath of a costly high school prank that left twenty-seven faculty cars vandalized with phallic images.",
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "release_year": 2017,
+    "vote_count": 250
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "American Vandal is a darkly comedic mockumentary series that satirizes the true-crime genre. The show investigates seemingly minor incidents at a high school, treating them with the seriousness and intensity typically reserved for major crimes. Through interviews, evidence analysis, and a self-aware exploration of media bias, the series examines the complexities of judgment, perception, and the human tendency to seek narratives, even where they may not exist. It offers a sharp commentary on the true-crime obsession and the potential for misinterpretation and unfair judgment.",
+        "spoiler_rich_plot_summary": "The first season centers on Dylan Leaver, a student accused of vandalizing twenty-seven faculty cars with crude drawings. The series follows two student journalists, Peter and Saul, as they attempt to uncover the truth behind the incident, interviewing students, faculty, and Dylan himself. Initially presented as a troubled and potentially guilty individual, Dylan’s story becomes increasingly complex as Peter and Saul discover inconsistencies in the evidence and explore the possibility of a larger conspiracy. The season culminates in the revelation that Dylan was framed, and the true perpetrator is revealed to be a student seeking revenge for a past injustice. The second season shifts focus to a different incident – a cafeteria worker accused of poisoning hundreds of students. Again, the series employs the mockumentary format to investigate the accusations, uncovering a web of personal conflicts, hidden motives, and systemic failures within the school. The investigation reveals a more nuanced picture of the accused, challenging the initial assumptions and highlighting the dangers of hasty judgment and the complexities of human behavior.",
+        "categorized_keywords": {
+          "themes": [
+            "social-justice",
+            "truth-seeking",
+            "judgment",
+            "perception",
+            "media-bias",
+            "revenge",
+            "accountability"
+          ],
+          "plot_and_concepts": [
+            "mockumentary",
+            "true-crime-satire",
+            "investigative-journalism",
+            "false-accusation",
+            "conspiracy",
+            "school-setting"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "satirical",
+            "observational",
+            "cynical"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "satire",
+            "mockumentary-genre"
+          ],
+          "setting": [
+            "high-school-setting",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "investigative-journalist",
+            "troubled-student",
+            "authority-figure"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "investigative-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "vandalized-cars",
+            "interrogation-room",
+            "student-interviews",
+            "school-cafeteria"
+          ],
+          "maturity_and_content": [
+            "sexual-content",
+            "crude-humor"
+          ]
+        },
+        "keyword_sentence": "American Vandal is a darkly comic mockumentary series that satirizes the true-crime genre, exploring themes of judgment and media bias within a high-school setting through investigative journalism and a cynical tone."
+      },
+      "duration_seconds": 58.63698887825012
+    }
+  }
+}

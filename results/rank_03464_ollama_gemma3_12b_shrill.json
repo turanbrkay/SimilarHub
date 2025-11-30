@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Shrill",
+    "overview": "Annie is a fat young woman who wants to change her life — but not her body. Annie is trying to start her career while juggling bad boyfriends, a sick parent, and a perfectionist boss.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2019,
+    "vote_count": 36
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Shrill is a comedy series centered on Annie, a young woman navigating career aspirations, complicated relationships, and familial responsibilities while challenging societal beauty standards and embracing self-acceptance. The show blends humor with poignant observations about body image, feminism, and the pressures faced by women in professional settings. It offers a refreshingly honest and often hilarious portrayal of a woman finding her voice and redefining success on her own terms, exploring themes of self-discovery and the complexities of modern life.",
+        "spoiler_rich_plot_summary": "The series begins with Annie working a job she dislikes, feeling undervalued and struggling with her weight and self-esteem. She's often subjected to patronizing behavior and unrealistic expectations from her mother and colleagues. A pivotal moment arrives when she's assigned to write a piece about weight loss, which prompts her to confront her own feelings about her body and the pervasive diet culture. Annie begins to actively challenge these norms, rejecting societal pressures to conform to unrealistic beauty standards. She starts to pursue her career ambitions more assertively, confronting her boss and seeking opportunities for growth. Her romantic relationships are also a source of conflict, as she learns to identify and reject partners who don't respect her. Throughout the series, Annie develops a stronger sense of self-worth and begins to prioritize her own happiness and well-being, forging deeper connections with friends and family who support her journey of self-discovery. The series culminates in Annie finding a greater sense of purpose and confidence, embracing her identity and advocating for change.",
+        "categorized_keywords": {
+          "themes": [
+            "body-positivity",
+            "self-acceptance",
+            "feminism",
+            "career-ambition",
+            "family-dynamics",
+            "mental-health",
+            "female-friendship"
+          ],
+          "plot_and_concepts": [
+            "coming-of-age",
+            "workplace-comedy",
+            "romantic-relationships",
+            "self-discovery"
+          ],
+          "mood_and_tone": [
+            "humorous",
+            "witty",
+            "empowering",
+            "realistic",
+            "observational"
+          ],
+          "genre_and_tropes": [
+            "comedy",
+            "dramedy",
+            "slice-of-life",
+            "female-led-comedy"
+          ],
+          "setting": [
+            "modern-day",
+            "urban-setting",
+            "workplace"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "strong-female-lead",
+            "complex-mother",
+            "supportive-friend"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "workplace-environment",
+            "apartment-living",
+            "therapy-session",
+            "online-dating"
+          ],
+          "maturity_and_content": [
+            "sexual-content",
+            "body-image-issues"
+          ]
+        },
+        "keyword_sentence": "Shrill is a witty and empowering comedy series that explores themes of body positivity, self-acceptance, and career ambition through the lens of a strong female lead navigating modern life and challenging societal expectations."
+      },
+      "duration_seconds": 60.069435119628906
+    }
+  }
+}

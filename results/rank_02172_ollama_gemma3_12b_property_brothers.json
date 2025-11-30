@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "Property Brothers",
+    "overview": "Brothers Jonathan and Drew Scott help home buyers to purchase renovation projects.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2011,
+    "vote_count": 85
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Property Brothers is a reality television series centered on siblings Jonathan and Drew Scott, who assist families in finding and renovating fixer-upper homes. The show blends elements of real estate, design, and construction, offering viewers a glimpse into the challenges and rewards of homeownership and renovation. It appeals to audiences interested in home improvement, design trends, and the emotional journey of creating a dream home. The series emphasizes family dynamics and the collaborative process of transforming spaces.",
+        "spoiler_rich_plot_summary": "Each episode typically begins with a family identifying a property they desire but which requires significant renovation work. Jonathan, the contractor, assesses the structural and logistical challenges of the project, while Drew, the real estate agent, negotiates the purchase. The brothers then work with the family to develop a design plan, balancing their vision with the budget and timeline. The renovation process is shown, highlighting unexpected setbacks and creative solutions. The series culminates in the reveal of the renovated home, showcasing the transformed space and the family's emotional response to their new living environment. Recurring themes involve budget constraints, design compromises, and the emotional investment families make in their homes.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "homeownership",
+            "design-challenges",
+            "budget-constraints",
+            "dream-home"
+          ],
+          "plot_and_concepts": [
+            "home-renovation",
+            "real-estate-negotiation",
+            "design-reveal",
+            "fixer-upper"
+          ],
+          "mood_and_tone": [
+            "optimistic",
+            "heartwarming",
+            "family-friendly"
+          ],
+          "genre_and_tropes": [
+            "reality-tv",
+            "home-improvement",
+            "makeover-show"
+          ],
+          "setting": [
+            "suburban-homes",
+            "north-america"
+          ],
+          "character_archetypes": [
+            "contractor",
+            "real-estate-agent",
+            "family-client"
+          ],
+          "narrative_style": [
+            "episodic",
+            "client-focused"
+          ],
+          "target_audience": [
+            "family-audience",
+            "homeowners"
+          ],
+          "detail_plot": [
+            "blueprint-plans",
+            "demolition-scene",
+            "paint-swatches",
+            "kitchen-renovation",
+            "finished-basement"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Property Brothers offers a heartwarming and family-friendly reality show experience, following siblings as they navigate the challenges of home renovation and real estate negotiation to help families achieve their dream home."
+      },
+      "duration_seconds": 54.25409412384033
+    }
+  }
+}

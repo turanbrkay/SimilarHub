@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Cosmos",
+    "overview": "Famed astrophysicist Neil deGrasse Tyson provides clarity for the vision of the cosmos as he voyages across the universe with never-before-told stories that delve into the scientific concepts of the laws of gravity and the origins of space and time.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2014,
+    "vote_count": 1370
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Cosmos is a documentary series that explores the vastness of the universe and the scientific principles that govern it. Hosted by Neil deGrasse Tyson, the show combines stunning visuals, historical narratives, and accessible explanations to make complex scientific concepts understandable to a broad audience. It aims to inspire curiosity and a deeper appreciation for the natural world, emphasizing the interconnectedness of all things and the ongoing quest for knowledge. The series blends scientific rigor with a sense of wonder and a humanistic perspective, celebrating the achievements of scientists throughout history and encouraging viewers to engage with the universe around them.",
+        "spoiler_rich_plot_summary": "The series follows Neil deGrasse Tyson as he retraces the journey of Carl Sagan's original Cosmos, but with updated scientific understanding and new visual techniques. Each episode tackles a different aspect of the universe, from the formation of stars and galaxies to the search for extraterrestrial life and the history of scientific discovery. Tyson explores the lives and contributions of key figures in science, highlighting their struggles and triumphs in the pursuit of knowledge. The narrative weaves together historical accounts with modern scientific breakthroughs, demonstrating how our understanding of the cosmos has evolved over time. The series emphasizes the importance of critical thinking, skepticism, and the scientific method as tools for understanding the world around us, ultimately portraying a continuous journey of exploration and discovery.",
+        "categorized_keywords": {
+          "themes": [
+            "scientific-discovery",
+            "exploration",
+            "human-curiosity",
+            "universe-origins",
+            "knowledge-quest",
+            "scientific-method"
+          ],
+          "plot_and_concepts": [
+            "time-travel",
+            "astrophysics",
+            "space-exploration",
+            "scientific-narrative",
+            "historical-accounts"
+          ],
+          "mood_and_tone": [
+            "inspiring",
+            "educational",
+            "awe-inspiring",
+            "optimistic",
+            "thought-provoking"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "science-communication",
+            "educational-television"
+          ],
+          "setting": [
+            "universe",
+            "earth",
+            "space",
+            "historical-timeline"
+          ],
+          "character_archetypes": [
+            "scientist",
+            "explorer",
+            "educator"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "historical-narrative"
+          ],
+          "target_audience": [
+            "general-audience",
+            "science-enthusiasts"
+          ],
+          "detail_plot": [
+            "telescope",
+            "galaxy",
+            "nebula",
+            "black-hole",
+            "spaceship"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Cosmos is an inspiring documentary series that explores the vastness of the universe and the ongoing quest for scientific discovery, blending historical narratives with awe-inspiring visuals to educate a general audience about the wonders of space and the importance of human curiosity."
+      },
+      "duration_seconds": 57.60168814659119
+    }
+  }
+}

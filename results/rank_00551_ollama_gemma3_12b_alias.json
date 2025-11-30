@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Alias",
+    "overview": "Sydney Bristow, an agent who has been tricked to believe she is working for the U.S. government, is actually working for a criminal organization named the Alliance of Twelve. Upon learning this, Sydney becomes a double agent for the real CIA.",
+    "genres": [
+      "Action & Adventure",
+      "Drama"
+    ],
+    "release_year": 2001,
+    "vote_count": 554
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Alias is a fast-paced action-spy series centered on Sydney Bristow, a young woman who discovers she's been unknowingly recruited by a global criminal organization. The series blends espionage, martial arts, and complex character relationships, exploring themes of identity, loyalty, and betrayal. Known for its intricate plots, shifting allegiances, and stylish action sequences, Alias offers a thrilling and suspenseful viewing experience with a strong emphasis on character development and moral ambiguity.",
+        "spoiler_rich_plot_summary": "The series begins with Sydney Bristow, a recent college graduate, being recruited by the CIA. She quickly discovers that she has been unknowingly working for the Alliance, a shadowy organization comprised of twelve powerful criminal syndicates. Under the guidance of her handler, Michael Vaughn, Sydney becomes a double agent, infiltrating the Alliance while secretly working for the CIA. As Sydney navigates the dangerous world of espionage, she uncovers a web of conspiracies and betrayals, learning that those she trusts may not be who they seem. Throughout the series, Sydney confronts formidable enemies, including her own father, who is deeply involved in the Alliance. Relationships shift and evolve as Sydney struggles to maintain her cover and protect those she cares about. The series explores the complexities of loyalty and the sacrifices required to fight for what's right, culminating in a confrontation with the Alliance and a reckoning with her own past.",
+        "categorized_keywords": {
+          "themes": [
+            "identity-crisis",
+            "double-agency",
+            "family-secrets",
+            "loyalty",
+            "betrayal",
+            "redemption",
+            "espionage"
+          ],
+          "plot_and_concepts": [
+            "double-agent",
+            "criminal-organization",
+            "conspiracy",
+            "spy-thriller",
+            "heist",
+            "cover-identity"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "fast-paced",
+            "stylish",
+            "dark",
+            "intense"
+          ],
+          "genre_and_tropes": [
+            "spy-genre",
+            "action-thriller",
+            "found-family",
+            "revenge-plot"
+          ],
+          "setting": [
+            "international-locations",
+            "modern-day",
+            "underground-world"
+          ],
+          "character_archetypes": [
+            "double-agent",
+            "skilled-spy",
+            "mentor",
+            "antagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "complex-plot",
+            "flashbacks"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "martial-arts",
+            "gadgets",
+            "disguises",
+            "safe-houses"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "deception"
+          ]
+        },
+        "keyword_sentence": "Alias is a stylish and suspenseful action-spy series that explores themes of identity and betrayal within a complex narrative of double-agency and espionage, set against a backdrop of international locations and rife with deception."
+      },
+      "duration_seconds": 54.56631827354431
+    }
+  }
+}

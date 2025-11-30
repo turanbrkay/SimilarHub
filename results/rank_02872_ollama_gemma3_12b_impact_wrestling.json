@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Impact Wrestling",
+    "overview": "IMPACT WRESTLING offers a unique style of wrestling that features a blend of the traditional with high flying athleticism and cutting edge action. IMPACT's roster includes the biggest names in wrestling today, and the hottest new stars in the sport.",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2004,
+    "vote_count": 52
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Impact Wrestling is a professional wrestling television program known for its blend of high-flying action, dramatic storylines, and a mix of established and emerging talent. The show distinguishes itself through its dynamic wrestling style and evolving narrative arcs, often incorporating elements of mystery and intrigue. It caters to wrestling fans seeking a more athletic and unpredictable viewing experience, frequently showcasing intense rivalries and unexpected twists within the competitive landscape. The program's longevity speaks to its ability to adapt and maintain a dedicated audience.",
+        "spoiler_rich_plot_summary": "Impact Wrestling's narrative has consistently revolved around championship pursuits, inter-promotional rivalries, and the ongoing evolution of its roster. Early seasons focused on establishing a distinct identity separate from other wrestling promotions, often featuring intense battles for the World Championship and X-Division titles. Over time, the show has incorporated storylines involving betrayals, unexpected alliances, and the rise of new stars challenging established veterans. Championship reigns are frequently contested through complex feuds, often involving interference and unexpected rule changes. The show has also featured periods of significant roster turnover, with wrestlers departing and returning, impacting ongoing storylines and creating new dynamics. While specific rivalries and championship changes have occurred, the overarching theme remains a constant struggle for dominance and recognition within the world of professional wrestling, with the show frequently adapting to changing industry trends and fan expectations.",
+        "categorized_keywords": {
+          "themes": [
+            "competition",
+            "rivalry",
+            "ambition",
+            "loyalty",
+            "redemption",
+            "power"
+          ],
+          "plot_and_concepts": [
+            "championship-pursuit",
+            "inter-promotional-rivalry",
+            "heel-face-turn",
+            "gimmick-development",
+            "storyline-arc"
+          ],
+          "mood_and_tone": [
+            "athletic",
+            "dramatic",
+            "intense",
+            "competitive"
+          ],
+          "genre_and_tropes": [
+            "sports-entertainment",
+            "wrestling-drama",
+            "heel-face-dynamic",
+            "face-in-peril"
+          ],
+          "setting": [
+            "wrestling-ring",
+            "modern-day",
+            "arena"
+          ],
+          "character_archetypes": [
+            "wrestler",
+            "heel",
+            "face",
+            "champion"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ongoing-storyline"
+          ],
+          "target_audience": [
+            "sports-fans",
+            "wrestling-fans"
+          ],
+          "detail_plot": [
+            "championship-belt",
+            "wrestling-rope",
+            "ring-bell",
+            "entrance-ramp"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Impact Wrestling delivers a dramatic and competitive sports-entertainment experience, showcasing intense rivalries and ongoing storylines within the wrestling ring, driven by ambition and the pursuit of championship glory."
+      },
+      "duration_seconds": 59.51126432418823
+    }
+  }
+}

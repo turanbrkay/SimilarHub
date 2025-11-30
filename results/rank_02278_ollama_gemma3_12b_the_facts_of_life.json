@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "The Facts of Life",
+    "overview": "The Facts of Life is an American sitcom that originally ran on the NBC television network from August 24, 1979, to May 7, 1988, making it the longest running sitcom of the 1980s. A spin-off of the sitcom Diff'rent Strokes, the series' premise focuses on Edna Garrett as she becomes a housemother at the fictional Eastland School, an all-female boarding school in Peekskill, New York.",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "release_year": 1979,
+    "vote_count": 79
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Facts of Life is a sitcom that explores the coming-of-age experiences of a group of young women attending an all-girls boarding school. Centered around the guidance of the housemother, Edna Garrett, the series blends comedic situations with heartfelt moments as the girls navigate friendships, family dynamics, and the challenges of adolescence. The show offers a nostalgic look at the 1980s, tackling social issues and personal growth within a supportive, albeit sometimes quirky, environment. It's a character-driven comedy that emphasizes the importance of female relationships and mentorship.",
+        "spoiler_rich_plot_summary": "The series begins with Edna Garrett taking on the role of housemother at Eastland Academy, a boarding school for girls. Initially, the girls – Blair, Natalie, Tootie, and Dorothy – are a diverse group with distinct personalities and backgrounds. Throughout the early seasons, the show focuses on their individual struggles and the evolving relationships between them, often mediated by Edna's wisdom and sometimes exasperation. As the girls mature, the storylines address more complex issues like dating, body image, and academic pressure. New students are introduced over the years, each bringing fresh dynamics and challenges to the established group. While the core themes of friendship and self-discovery remain constant, the girls face various personal crises and triumphs, ultimately growing into more mature and independent young women. The series concludes with the girls preparing to leave Eastland, reflecting on their shared experiences and looking forward to their futures, having formed lasting bonds and learned valuable life lessons.",
+        "categorized_keywords": {
+          "themes": [
+            "coming-of-age",
+            "female-friendship",
+            "family-dynamics",
+            "self-discovery",
+            "mentorship",
+            "social-issues"
+          ],
+          "plot_and_concepts": [
+            "boarding-school",
+            "sitcom-format",
+            "character-driven",
+            "ensemble-cast"
+          ],
+          "mood_and_tone": [
+            "nostalgic",
+            "heartwarming",
+            "lighthearted",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "family-sitcom",
+            "teen-drama",
+            "coming-of-age-story"
+          ],
+          "setting": [
+            "boarding-school-setting",
+            "peekskill-new-york",
+            "1980s"
+          ],
+          "character_archetypes": [
+            "wise-mentor",
+            "teenager",
+            "boarding-school-student"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "boarding-school-dorm",
+            "school-uniform",
+            "housemother"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Facts of Life is a nostalgic family sitcom set in a 1980s boarding school, exploring themes of female friendship, coming-of-age, and self-discovery through the guidance of a wise housemother."
+      },
+      "duration_seconds": 63.438987016677856
+    }
+  }
+}

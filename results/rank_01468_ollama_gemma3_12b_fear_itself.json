@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Fear Itself",
+    "overview": "A horror/suspense anthology series directed by the biggest horror directors working in feature films.",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2008,
+    "vote_count": 150
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Fear Itself is a horror anthology series distinguished by its reliance on established feature film directors to helm each episode. This approach lends a distinct cinematic quality and stylistic variation to the stories, which often explore psychological and supernatural themes. The series aims to deliver a consistently unsettling and suspenseful viewing experience, prioritizing atmosphere and character-driven narratives over traditional horror tropes. While each episode functions as a self-contained story, recurring motifs and a sense of underlying dread contribute to a broader, unsettling tone. The anthology format allows for a wide range of horror subgenres to be explored, from psychological thrillers to supernatural mysteries.",
+        "spoiler_rich_plot_summary": "Each episode of Fear Itself presents a unique and self-contained horror story, often exploring deeply unsettling psychological and supernatural themes. The series doesn't follow a continuous narrative arc, but rather offers a rotating cast of characters and settings, each facing a terrifying ordeal. Directors bring their signature styles to the episodes, resulting in a diverse range of visual and tonal approaches. Some episodes delve into the darkness of human nature, while others explore the terrifying possibilities of the supernatural. The anthology format allows for a constant sense of unpredictability, as viewers never know what horrors await in the next installment. While individual episodes may resolve their immediate conflicts, a pervasive sense of dread and unease lingers throughout the series, suggesting that the true horror lies beneath the surface of reality.",
+        "categorized_keywords": {
+          "themes": [
+            "fear",
+            "supernatural",
+            "psychological-horror",
+            "isolation",
+            "paranoia",
+            "loss",
+            "mortality"
+          ],
+          "plot_and_concepts": [
+            "anthology-series",
+            "short-story",
+            "mystery",
+            "suspense",
+            "twist-ending"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "eerie",
+            "suspenseful",
+            "unsettling",
+            "creepy"
+          ],
+          "genre_and_tropes": [
+            "horror",
+            "anthology",
+            "psychological-thriller",
+            "supernatural-horror"
+          ],
+          "setting": [
+            "modern-day",
+            "various-locations"
+          ],
+          "character_archetypes": [
+            "ordinary-person",
+            "victim",
+            "antagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "self-contained-episodes"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "ominous-music",
+            "dark-shadows",
+            "isolated-house",
+            "creepy-doll",
+            "abandoned-building"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "suspenseful-themes"
+          ]
+        },
+        "keyword_sentence": "Fear Itself is a dark and unsettling horror anthology series that explores themes of fear, isolation, and mortality through self-contained episodes directed by acclaimed filmmakers."
+      },
+      "duration_seconds": 59.086644649505615
+    }
+  }
+}

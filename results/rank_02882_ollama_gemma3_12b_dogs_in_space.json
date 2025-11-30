@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Dogs in Space",
+    "overview": "In the not-so-distant future, genetically enhanced dogs are sent across the universe in search of a new home for the human race. It’s a giant cosmic game of fetch, as the canines seek a planet that will save humanity and - more importantly - let them return to their beloved owners.",
+    "genres": [
+      "Comedy",
+      "Animation",
+      "Action & Adventure",
+      "Family",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2021,
+    "vote_count": 51
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Dogs in Space is a comedic animated series that blends science fiction and family adventure. The premise revolves around genetically enhanced dogs tasked with finding a habitable planet for humanity, creating a unique and whimsical narrative. The show balances humor with themes of loyalty, responsibility, and the search for belonging, offering a lighthearted yet emotionally resonant experience for a family audience. Its blend of animation, action, and sci-fi elements creates a visually engaging and entertaining journey.",
+        "spoiler_rich_plot_summary": "The series begins with the Earth facing environmental collapse, prompting a desperate plan to send genetically modified dogs into space to locate a new home for humanity. These dogs, each possessing unique abilities and personalities, are launched on a perilous journey across the galaxy. As they navigate various planets and encounter alien lifeforms, they face numerous challenges, including hostile environments, political intrigue, and internal conflicts within their own pack. The dogs uncover secrets about their origins and the true nature of the mission, leading them to question the motives of their human creators. Throughout their travels, they form strong bonds with each other, demonstrating the power of found-family and unwavering loyalty. The series explores the complexities of interspecies relationships and the sacrifices made in the name of survival, ultimately leading the dogs to confront a pivotal decision that will determine the fate of both humanity and themselves.",
+        "categorized_keywords": {
+          "themes": [
+            "found-family",
+            "loyalty",
+            "sacrifice",
+            "survival",
+            "inter-species-relationships",
+            "environmental-collapse"
+          ],
+          "plot_and_concepts": [
+            "genetic-modification",
+            "space-exploration",
+            "found-planet",
+            "intergalactic-travel",
+            "mission-critical"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "lighthearted",
+            "comedic",
+            "adventurous"
+          ],
+          "genre_and_tropes": [
+            "animated-comedy",
+            "sci-fi-adventure",
+            "found-family-trope",
+            "space-opera"
+          ],
+          "setting": [
+            "outer-space",
+            "distant-planets",
+            "futuristic-society"
+          ],
+          "character_archetypes": [
+            "loyal-companion",
+            "reluctant-hero",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "spaceship-interior",
+            "alien-landscape",
+            "genetic-lab",
+            "dog-spacesuit"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Dogs in Space is a lighthearted animated series that follows a pack of genetically modified canines on a space-faring adventure, exploring themes of loyalty and sacrifice as they search for a new home for humanity."
+      },
+      "duration_seconds": 56.3311550617218
+    }
+  }
+}

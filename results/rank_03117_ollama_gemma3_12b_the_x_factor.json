@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "The X Factor",
+    "overview": "The X Factor was a singing competition on a mission to find America’s next undiscovered superstar. The X Factor, on FOX is going to give someone like you the chance to win a $5 million recording contract with Sony Music. What’s great about The X Factor is that it is open to anyone – vocal groups and solo singers, over the age of 12 – and there’s absolutely no upper age limit.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2011,
+    "vote_count": 44
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The X Factor is a reality singing competition designed to discover and launch new musical talent. The show features aspiring singers auditioning before a panel of judges and competing through various stages to ultimately win a recording contract and significant prize money. It emphasizes accessibility, welcoming contestants of all ages and group types, and aims to provide a platform for undiscovered artists to achieve mainstream success. The show's format blends performance showcases with behind-the-scenes glimpses into the contestants' journeys, creating a blend of entertainment and aspirational storytelling.",
+        "spoiler_rich_plot_summary": "The series begins with thousands of hopeful singers auditioning across the United States, performing for a panel of celebrity judges and producers. Successful auditionees progress to the 'Boot Camp' stage, where they face rigorous vocal training and competitive challenges to narrow down the field. The next phase, the 'Audience Vote,' sees the remaining contestants performing live before a national audience, who vote to determine who advances. Throughout the competition, contestants face elimination rounds, often marked by emotional farewells and dramatic performances. The final rounds pit the top contenders against each other in a series of high-stakes performances, culminating in a live finale where the audience votes for the winner, who is awarded a recording contract and substantial prize money, marking the culmination of their journey from hopeful auditionee to potential music star.",
+        "categorized_keywords": {
+          "themes": [
+            "fame-and-fortune",
+            "competition",
+            "talent-discovery",
+            "underdog-story",
+            "dreams-and-ambition"
+          ],
+          "plot_and_concepts": [
+            "singing-competition",
+            "elimination-rounds",
+            "live-voting",
+            "celebrity-judges",
+            "recording-contract"
+          ],
+          "mood_and_tone": [
+            "exciting",
+            "emotional",
+            "aspirational",
+            "high-stakes"
+          ],
+          "genre_and_tropes": [
+            "reality-television",
+            "talent-show",
+            "singing-contest"
+          ],
+          "setting": [
+            "united-states",
+            "stage",
+            "television-studio"
+          ],
+          "character_archetypes": [
+            "aspiring-singer",
+            "celebrity-judge",
+            "music-producer"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "competition-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "audition-room",
+            "stage-lights",
+            "microphone",
+            "voting-booth"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The X Factor is an exciting reality television competition that provides aspiring singers with a chance to achieve fame and fortune through live performances and audience voting, all under the watchful eyes of celebrity judges."
+      },
+      "duration_seconds": 56.915868282318115
+    }
+  }
+}

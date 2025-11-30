@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Bill Nye Saves the World",
+    "overview": "Bill Nye explores science and its impact on politics, society and pop culture. Each episode tackles a topic from a scientific point of view, dispelling myths, and refuting anti-scientific claims that may be espoused by politicians, religious leaders or titans of industry.",
+    "genres": [
+      "Comedy",
+      "Talk"
+    ],
+    "release_year": 2017,
+    "vote_count": 47
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Bill Nye Saves the World is a comedic talk show that blends science education with social commentary. Hosted by Bill Nye, the series tackles contemporary issues through a scientific lens, debunking misinformation and exploring the intersection of science, politics, and culture. The show aims to engage a broad audience with complex topics, using humor and accessible explanations to promote scientific literacy and critical thinking. It's a blend of educational content and satirical observations, designed to be both informative and entertaining.",
+        "spoiler_rich_plot_summary": "The series unfolds as Bill Nye addresses a range of pressing global challenges, from climate change and artificial intelligence to misinformation and political polarization. Each episode typically begins with an introduction to the topic, followed by a segment where Nye and his team of experts investigate the science behind the issue. Nye frequently engages in debates and discussions with figures who hold opposing viewpoints, attempting to present evidence-based arguments and challenge flawed reasoning. Throughout the series, Nye emphasizes the importance of scientific consensus and the dangers of ignoring expert advice. While the show doesn't follow a traditional narrative arc, it consistently reinforces the message that science is essential for solving the world's most pressing problems and that informed decision-making requires a commitment to evidence and reason. The series concludes with a call to action, encouraging viewers to become more scientifically literate and to advocate for policies based on scientific evidence.",
+        "categorized_keywords": {
+          "themes": [
+            "science-communication",
+            "environmentalism",
+            "political-activism",
+            "critical-thinking",
+            "scientific-literacy",
+            "social-responsibility"
+          ],
+          "plot_and_concepts": [
+            "debunking-myths",
+            "expert-interviews",
+            "science-education",
+            "political-satire",
+            "problem-solving"
+          ],
+          "mood_and_tone": [
+            "humorous",
+            "informative",
+            "optimistic",
+            "engaging",
+            "thought-provoking"
+          ],
+          "genre_and_tropes": [
+            "talk-show",
+            "educational-comedy",
+            "science-documentary",
+            "satirical-commentary"
+          ],
+          "setting": [
+            "modern-day",
+            "global-issues"
+          ],
+          "character_archetypes": [
+            "science-communicator",
+            "expert-advisor"
+          ],
+          "narrative_style": [
+            "episodic-format",
+            "discussion-based"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "laboratory-setting",
+            "animated-graphics",
+            "expert-panel",
+            "scientific-demonstrations"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Bill Nye Saves the World is a humorous and engaging talk show that uses science communication and satirical commentary to explore global issues and promote scientific literacy among adult and young adult viewers."
+      },
+      "duration_seconds": 54.269495487213135
+    }
+  }
+}

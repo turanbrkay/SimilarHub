@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Get Smart",
+    "overview": "Get Smart is an American comedy television series that satirizes the secret agent genre. Created by Mel Brooks with Buck Henry, the show stars Don Adams, Barbara Feldon, and Edward Platt. Henry said they created the show by request of Daniel Melnick, who was a partner, along with Leonard Stern and David Susskind, of the show's production company, Talent Associates, to capitalize on \"the two biggest things in the entertainment world today\"—James Bond and Inspector Clouseau. Brooks said: \"It's an insane combination of James Bond and Mel Brooks comedy.\" This is the only Mel Brooks production to feature a laugh track.\n\nThe success of the show eventually spawned the follow-up films The Nude Bomb and Get Smart, Again!, as well as a 1995 revival series and a 2008 film remake. In 2010, TV Guide ranked Get Smart's opening title sequence at No. 2 on its list of TV's Top 10 Credits Sequences, as selected by readers.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1965,
+    "vote_count": 344
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Get Smart is a comedic television series that parodies the spy genre, specifically drawing inspiration from James Bond and Inspector Clouseau. The show utilizes slapstick humor and absurd situations to satirize the conventions of secret agent narratives. It features a quirky cast of characters navigating a world of espionage and gadgetry, often with hilarious and unexpected results. The series' lighthearted tone and reliance on physical comedy make it a consistently entertaining and accessible comedy for a broad audience.",
+        "spoiler_rich_plot_summary": "The series follows Maxwell Smart, a hapless and often clumsy secret agent working for CONTROL, an organization dedicated to thwarting the evil organization KAOS. Maxwell, often referred to as 'Agent 86,' is partnered with Agent 99, a skilled and resourceful operative who frequently has to cover for his blunders. Throughout the series, Maxwell and Agent 99 engage in a series of missions to stop KAOS's schemes, which range from stealing valuable artifacts to disrupting global communications. Recurring villains include Chief Ludwig, the head of KAOS, and a variety of eccentric and inept henchmen. While Maxwell's incompetence often leads to chaotic situations, he ultimately manages to foil KAOS's plans, albeit through a combination of luck and Agent 99's intervention. The series maintains a playful and comedic tone, avoiding darker or more dramatic storylines, and focuses on the humorous interactions between the characters and the absurdity of the spy world.",
+        "categorized_keywords": {
+          "themes": [
+            "parody",
+            "espionage",
+            "incompetence",
+            "teamwork",
+            "satire"
+          ],
+          "plot_and_concepts": [
+            "spy-genre",
+            "secret-agent",
+            "rival-organizations",
+            "gadgetry",
+            "mission-based"
+          ],
+          "mood_and_tone": [
+            "slapstick",
+            "lighthearted",
+            "absurdist",
+            "comedic",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "comedy",
+            "parody",
+            "spy-spoof",
+            "buddy-cop"
+          ],
+          "setting": [
+            "modern-day",
+            "global-locations"
+          ],
+          "character_archetypes": [
+            "bumbling-hero",
+            "skilled-partner",
+            "eccentric-villain",
+            "incompetent-henchman"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "gadgets",
+            "control-hq",
+            "kaos-headquarters",
+            "disguises"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Get Smart is a lighthearted comedy series that parodies the spy genre through the antics of a bumbling agent and his skilled partner, creating a consistently amusing and family-friendly experience."
+      },
+      "duration_seconds": 61.024646520614624
+    }
+  }
+}

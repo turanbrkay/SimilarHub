@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "The Singing Detective",
+    "overview": "Tormented and bedridden by a debilitating disease, a mystery writer relives his detective stories through his imagination and hallucinations.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 1986,
+    "vote_count": 32
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Singing Detective is a surreal and darkly comedic drama that blends a mystery writer's internal world with his physical reality. The series explores themes of guilt, memory, and the power of storytelling, using a unique visual style to depict the protagonist's deteriorating health and increasingly bizarre hallucinations. It's a character study wrapped in a detective narrative, offering a melancholic yet strangely entertaining exploration of the human condition and the solace found in creative expression. The series is notable for its distinctive, often jarring, visual presentation and its blend of genres.",
+        "spoiler_rich_plot_summary": "The series follows Guy Grisby, a mystery writer suffering from a painful skin condition, who retreats into his own imagination to cope with his illness and past traumas. He creates a detective character, Pete Drummond, and narrates a series of pulp detective stories featuring him. As the series progresses, the lines between Guy's reality and his imagined world become increasingly blurred. Flashbacks reveal Guy's troubled past, including a failed relationship and involvement in a gambling debt that led to significant personal and financial losses. The detective stories themselves become a way for Guy to process his guilt and attempt to rewrite his own history. The narrative shifts between Guy's hospital bed, the vividly stylized detective stories, and the fragmented memories of his past. The detective stories, initially a form of escapism, gradually reveal connections to Guy’s real-life experiences, suggesting that his imagined world is a distorted reflection of his own failings. The series culminates in a confrontation with the consequences of Guy’s past actions, forcing him to confront his demons and accept responsibility for his choices, ultimately leading to a bittersweet resolution where he finds a measure of peace.",
+        "categorized_keywords": {
+          "themes": [
+            "guilt",
+            "memory",
+            "storytelling",
+            "redemption",
+            "escapism",
+            "illness",
+            "regret"
+          ],
+          "plot_and_concepts": [
+            "hallucination",
+            "pulp-fiction",
+            "detective-story",
+            "flashback",
+            "dual-narrative"
+          ],
+          "mood_and_tone": [
+            "surreal",
+            "darkly-comic",
+            "melancholic",
+            "absurd",
+            "stylized"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "psychological-thriller",
+            "neo-noir"
+          ],
+          "setting": [
+            "1980s",
+            "hospital-setting",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "tormented-protagonist",
+            "unreliable-narrator",
+            "creative-genius"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "non-linear-timeline",
+            "internal-monologue"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "detective-novel",
+            "hospital-bed",
+            "pulp-magazine",
+            "skin-condition"
+          ],
+          "maturity_and_content": [
+            "substance-abuse",
+            "sexual-content"
+          ]
+        },
+        "keyword_sentence": "A darkly comic and surreal drama set in the 1980s, The Singing Detective explores themes of guilt and memory through the fragmented perspective of a tormented writer battling illness and retreating into a stylized detective narrative."
+      },
+      "duration_seconds": 82.08452796936035
+    }
+  }
+}

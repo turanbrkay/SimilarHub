@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Beavis and Butt-head",
+    "overview": "Beavis and Butt-head are high school students whose lifestyles revolve around TV, junk food (usually nachos), shopping malls, heavy metal music, and trying to \"score with chicks\". Each show contains short cartoons centering on the duo who live in the fictitious town of Highland, Texas. The episodes are broken up by short breaks in which Beavis and Butt-head watch and make fun of music videos.",
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "release_year": 1993,
+    "vote_count": 338
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Beavis and Butt-head is an animated sitcom that satirizes American youth culture through the lens of two perpetually adolescent slackers. The series employs absurdist humor and social commentary, often highlighting the characters' lack of intelligence and their obsession with superficial interests like music and girls. The show's comedic style is characterized by its crude language, juvenile antics, and a general disregard for societal norms, offering a darkly humorous critique of consumerism and popular culture. Its enduring appeal lies in its ability to tap into the anxieties and frustrations of adolescence while simultaneously mocking them.",
+        "spoiler_rich_plot_summary": "The series follows Beavis and Butt-head, two dim-witted teenagers, as they navigate the mundane aspects of their lives in Highland, Texas. Their days are largely consumed by attempts to impress girls, mock music videos, and engage in generally disruptive behavior. Throughout the series, they encounter various situations that expose their lack of understanding of the world around them, often leading to chaotic and hilarious consequences. While the show doesn't follow a traditional narrative arc, recurring themes involve their attempts to gain social status and their constant failures to comprehend complex social cues. The characters' relationship remains consistently dysfunctional, fueled by their shared immaturity and lack of self-awareness. The show's format, centered around short cartoons interspersed with music video commentary, remains largely unchanged throughout its run, reinforcing the cyclical nature of their existence.",
+        "categorized_keywords": {
+          "themes": [
+            "youth-culture",
+            "consumerism",
+            "social-satire",
+            "adolescence",
+            "conformity",
+            "rebellion"
+          ],
+          "plot_and_concepts": [
+            "music-video-commentary",
+            "satirical-comedy",
+            "slacker-comedy",
+            "coming-of-age"
+          ],
+          "mood_and_tone": [
+            "absurdist",
+            "darkly-comic",
+            "crude",
+            "juvenile"
+          ],
+          "genre_and_tropes": [
+            "animated-comedy",
+            "satire",
+            "slacker-comedy"
+          ],
+          "setting": [
+            "small-town-usa",
+            "suburban-america",
+            "texas"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "slacker",
+            "rebellious-teenager"
+          ],
+          "narrative_style": [
+            "episodic",
+            "sketch-comedy"
+          ],
+          "target_audience": [
+            "young-adults",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "music-videos",
+            "nachos",
+            "heavy-metal-music",
+            "shopping-mall"
+          ],
+          "maturity_and_content": [
+            "crude-humor",
+            "sexual-references",
+            "profanity"
+          ]
+        },
+        "keyword_sentence": "Beavis and Butt-head satirizes American youth culture with crude humor and episodic sketches, portraying two rebellious teenagers navigating a small-town existence fueled by music videos and a general disregard for societal norms."
+      },
+      "duration_seconds": 64.05393719673157
+    }
+  }
+}

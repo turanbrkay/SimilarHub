@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "The New Woody Woodpecker Show",
+    "overview": "The funny bird drives people crazy with his antics.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Kids"
+    ],
+    "release_year": 1999,
+    "vote_count": 42
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The New Woody Woodpecker Show is a comedic animated series geared towards a young audience, centered around the chaotic and mischievous antics of Woody Woodpecker. The show relies heavily on slapstick humor and visual gags, often involving Woody's interactions with exasperated humans and other woodland creatures. Its appeal lies in its simple, accessible humor and vibrant animation style, providing lighthearted entertainment for children and nostalgic enjoyment for older viewers familiar with the classic character.",
+        "spoiler_rich_plot_summary": "The series primarily follows Woody Woodpecker as he causes widespread mayhem and frustration with his unpredictable behavior. Each episode typically features Woody arriving in a new location, often a business or home, and immediately disrupting the established order with his pranks and antics. He frequently clashes with Walter Wolfnutter, the owner of a failing amusement park who desperately tries to capture Woody and exploit his popularity to save his business. While Woody's actions often lead to chaos and destruction, he generally avoids serious consequences, and the episodes conclude with a return to the status quo, leaving the audience anticipating his next comedic escapade. The overarching narrative involves Woody's ongoing struggle to evade Walter's capture while simultaneously wreaking havoc and entertaining the audience.",
+        "categorized_keywords": {
+          "themes": [
+            "mischief",
+            "chaos",
+            "humor",
+            "friendship",
+            "escapades"
+          ],
+          "plot_and_concepts": [
+            "slapstick-comedy",
+            "cartoon-antics",
+            "chase-sequences",
+            "cartoon-villain"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "playful",
+            "zany"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "comedy",
+            "kids-entertainment",
+            "cartoon-humor"
+          ],
+          "setting": [
+            "woodland",
+            "amusement-park",
+            "small-town"
+          ],
+          "character_archetypes": [
+            "trickster",
+            "comedic-protagonist",
+            "cartoon-villain"
+          ],
+          "narrative_style": [
+            "episodic",
+            "gag-driven"
+          ],
+          "target_audience": [
+            "children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "cartoon-bird",
+            "amusement-park-ride",
+            "cartoon-explosion",
+            "cartoon-hammer"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The New Woody Woodpecker Show is a lighthearted and zany animated comedy series for children, filled with cartoon antics and mischief as a playful bird causes chaos in a small-town setting."
+      },
+      "duration_seconds": 50.74684977531433
+    }
+  }
+}

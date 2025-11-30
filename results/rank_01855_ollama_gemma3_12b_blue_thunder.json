@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Blue Thunder",
+    "overview": "Blue Thunder is a 1984 ABC television series based on the movie of the same title featuring the Blue Thunder helicopter.\n\nThe series uses the converted Aérospatiale Gazelle helicopter and large portions of stock footage from the 1983 film. A ground unit named \"Rolling Thunder\" backed up the helicopter in the television series. This was a large support van with a desert camouflage off-road vehicle stored inside.\n\nThe television series cast includes James Farentino, Dana Carvey, and former professional American football players Bubba Smith and Dick Butkus. The series was canceled by ABC after they felt the similar Airwolf on CBS would win the ratings battle. Also, the series aired at the same time as the CBS soap opera Dallas on Friday nights, and lost.\n\nEleven episodes were made before the series was cancelled.",
+    "genres": [
+      "Action & Adventure",
+      "Crime",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1984,
+    "vote_count": 108
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Blue Thunder is an action-adventure television series rooted in a film of the same name, centering on a highly modified helicopter used for law enforcement and search-and-rescue operations. The series blends elements of crime drama, action, and science fiction, utilizing stock footage and a supporting ground unit. While aiming for a thrilling and visually dynamic experience, the show faced challenges in the competitive television landscape, ultimately leading to its early cancellation. The series offers a mix of aerial action sequences and grounded investigations, appealing to audiences interested in both high-octane thrills and procedural storytelling.",
+        "spoiler_rich_plot_summary": "The series follows the exploits of Eliot Ness (James Farentino), a former police officer now piloting the experimental Blue Thunder helicopter alongside his co-pilot, B.J. McDunn (Dana Carvey). The helicopter is equipped with advanced technology and used to combat crime and assist in search and rescue missions across a vast and rugged terrain. A ground unit, Rolling Thunder, provides support, often encountering their own challenges and investigations. Throughout the eleven episodes, Ness and McDunn face a variety of threats, from smugglers and criminals to corrupt officials and technological malfunctions. The series explores themes of justice, technological advancement, and the challenges of operating in a morally ambiguous world. While the series doesn't have a definitive overarching narrative arc, each episode typically involves a self-contained mission with recurring antagonists and escalating stakes. The early cancellation prevents a full resolution of the series' potential storylines, leaving several plot threads unresolved.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "law-enforcement",
+            "technology",
+            "corruption",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "helicopter-rescue",
+            "crime-investigation",
+            "experimental-technology",
+            "police-procedural",
+            "search-and-rescue"
+          ],
+          "mood_and_tone": [
+            "action-packed",
+            "tense",
+            "suspenseful",
+            "gritty"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "crime-procedural",
+            "techno-thriller",
+            "police-drama"
+          ],
+          "setting": [
+            "american-west",
+            "modern-day",
+            "remote-locations"
+          ],
+          "character_archetypes": [
+            "lawman",
+            "co-pilot",
+            "veteran-agent"
+          ],
+          "narrative_style": [
+            "episodic-format",
+            "serialized-elements"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "blue-thunder-helicopter",
+            "rolling-thunder-van",
+            "aerial-surveillance",
+            "remote-terrain"
+          ],
+          "maturity_and_content": [
+            "action-violence"
+          ]
+        },
+        "keyword_sentence": "Blue Thunder is an action-packed police drama set in the American West, following a skilled lawman and his co-pilot as they use advanced helicopter technology to combat crime and navigate a tense and gritty landscape."
+      },
+      "duration_seconds": 64.4532322883606
+    }
+  }
+}

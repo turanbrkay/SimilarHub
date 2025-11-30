@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Dan Brown's The Lost Symbol",
+    "overview": "The early adventures of young Harvard symbologist Robert Langdon, who must solve a series of deadly puzzles to save his kidnapped mentor and thwart a chilling global conspiracy.",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2021,
+    "vote_count": 298
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Dan Brown's The Lost Symbol is an action-adventure drama series centered on Robert Langdon, a young symbologist, as he navigates a perilous conspiracy linked to his mentor's disappearance. The series blends historical mystery, puzzle-solving, and action sequences, drawing on Brown's signature style of weaving academic concepts into a fast-paced narrative. It explores themes of faith, knowledge, and the potential for hidden power structures to manipulate global events, offering a suspenseful and intellectually stimulating experience for viewers.",
+        "spoiler_rich_plot_summary": "The series begins with Robert Langdon summoned to Harvard University, where his mentor, Peter Solomon, is kidnapped. Langdon quickly discovers that Solomon's disappearance is connected to a centuries-old secret society and a mysterious symbol. He is joined by Katherine Solomon, Peter’s daughter, and Malcolm Covey, a former associate of Peter’s, as they race against time to decipher clues left by Solomon and uncover the truth behind the conspiracy. Their investigation leads them across continents, revealing a hidden history of the Freemasons and a quest for a powerful artifact. As they delve deeper, Langdon and his allies confront dangerous adversaries who are determined to protect the secrets at all costs. The pursuit of the artifact and the unraveling of the conspiracy forces Langdon to confront his own beliefs and question the nature of truth and power, ultimately leading to a confrontation with the mastermind behind the plot and a struggle to prevent the artifact from falling into the wrong hands.",
+        "categorized_keywords": {
+          "themes": [
+            "faith-and-belief",
+            "knowledge-and-power",
+            "conspiracy",
+            "secret-societies",
+            "redemption",
+            "moral-ambiguity"
+          ],
+          "plot_and_concepts": [
+            "puzzle-solving",
+            "treasure-hunt",
+            "historical-mystery",
+            "conspiracy-thriller",
+            "race-against-time"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "fast-paced",
+            "intense",
+            "mysterious"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "mystery",
+            "thriller",
+            "conspiracy-theory"
+          ],
+          "setting": [
+            "harvard-university",
+            "modern-day",
+            "historical-locations",
+            "global-travel"
+          ],
+          "character_archetypes": [
+            "intellectual-hero",
+            "reluctant-hero",
+            "mentor",
+            "enigmatic-villain"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "puzzle-driven-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "freemason-symbols",
+            "harvard-campus",
+            "ancient-artifacts",
+            "secret-vaults"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "suspense"
+          ]
+        },
+        "keyword_sentence": "Dan Brown's The Lost Symbol is a suspenseful action-adventure series that blends historical mystery and puzzle-solving with a fast-paced narrative, exploring themes of faith, knowledge, and conspiracy within a global setting."
+      },
+      "duration_seconds": 60.767484188079834
+    }
+  }
+}

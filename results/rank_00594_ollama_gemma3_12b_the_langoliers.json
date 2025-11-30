@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "The Langoliers",
+    "overview": "A jet leaves on a red-eye flight from Los Angeles to Boston. But early in the flight, ten passengers awaken to a startling realization: All of the other passengers have vanished.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Mystery"
+    ],
+    "release_year": 1995,
+    "vote_count": 496
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Langoliers is a science fiction miniseries centered on a group of passengers who awaken to find themselves the only survivors on a commercial airliner. The series blends elements of mystery, suspense, and psychological horror as the remaining individuals grapple with the unsettling circumstances and attempt to uncover the cause of the disappearance while facing a terrifying, unseen threat. It explores themes of isolation, paranoia, and the fragility of reality, creating a claustrophobic and unsettling atmosphere throughout its runtime. The narrative unfolds as a race against time, with the survivors struggling to understand and confront the forces at play.",
+        "spoiler_rich_plot_summary": "The story begins with ten passengers awakening on a red-eye flight from Los Angeles to Boston to find the rest of the crew and passengers have vanished. Led by Victor Mott, they attempt to understand what has happened, discovering that the plane is being steered towards a mysterious destination. As they investigate, they uncover a hidden history involving a secretive organization and a recurring phenomenon known as the Langoliers – creatures that erase portions of time. The survivors realize they are caught in a temporal loop, with the Langoliers systematically erasing the past to prevent a catastrophic future. They must confront the creatures and their human collaborators to restore the timeline and prevent the erasure of reality itself. The final confrontation takes place in a desolate, timeless landscape, where the survivors battle to reclaim the past and secure a future, ultimately revealing the cyclical nature of the events and the ongoing threat of the Langoliers.",
+        "categorized_keywords": {
+          "themes": [
+            "time-travel",
+            "loss-of-reality",
+            "isolation",
+            "paranoia",
+            "fate-vs-free-will",
+            "memory-and-identity"
+          ],
+          "plot_and_concepts": [
+            "temporal-loop",
+            "monster-of-the-week",
+            "mystery-thriller",
+            "government-conspiracy",
+            "alternate-timeline"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "claustrophobic",
+            "eerie",
+            "dark",
+            "psychological-horror"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "mystery",
+            "horror",
+            "found-family",
+            "monster-movie"
+          ],
+          "setting": [
+            "commercial-airplane",
+            "desert-landscape",
+            "alternate-timeline",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "skeptic",
+            "authority-figure",
+            "antagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "airplane-cockpit",
+            "desert-ruins",
+            "time-portal",
+            "government-facility"
+          ],
+          "maturity_and_content": [
+            "suspense",
+            "psychological-tension"
+          ]
+        },
+        "keyword_sentence": "The Langoliers is a suspenseful science fiction mystery that explores themes of time travel and loss of reality as a group of survivors confronts a terrifying threat aboard a commercial airplane and in a desolate, alternate timeline."
+      },
+      "duration_seconds": 61.90545320510864
+    }
+  }
+}

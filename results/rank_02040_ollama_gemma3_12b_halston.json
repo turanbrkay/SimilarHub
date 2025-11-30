@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Halston",
+    "overview": "American fashion designer Halston skyrockets to fame before his life starts to spin out of control.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2021,
+    "vote_count": 93
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Halston is a biographical drama series chronicling the rise and fall of Roy Halston Frowick, a pivotal figure in 1970s American fashion. The series explores his innovative designs, his tumultuous personal life, and the business dealings that ultimately led to his downfall. It's a stylish and visually arresting production, blending elements of biography, fashion history, and corporate intrigue, offering a glimpse into a glamorous yet complex world. The series examines themes of ambition, creativity, and the price of success, while also portraying the cultural landscape of a transformative era.",
+        "spoiler_rich_plot_summary": "The series begins with a young Roy Halston working as a hatmaker in New York City, showcasing his early talent and ambition. He quickly rises to prominence, establishing his own fashion house and revolutionizing American design with his minimalist and sensual aesthetic. Halston's brand becomes synonymous with the Studio 54 era, attracting a celebrity clientele and solidifying his position as a cultural icon. However, his success is intertwined with complex relationships, including a fraught partnership with his business manager, Victor Hugo Boller, and a complicated romantic entanglement. As Halston's empire expands, he faces increasing pressure from department stores seeking to control his designs and profits. A pivotal moment arrives when a fire devastates his flagship store, exposing vulnerabilities in his business practices and triggering a series of legal battles. Ultimately, Halston's innovative spirit is stifled by corporate greed and legal challenges, leading to the fragmentation of his brand and a decline in his personal life. The series concludes with a portrayal of his later years, marked by isolation and a struggle to reclaim his legacy.",
+        "categorized_keywords": {
+          "themes": [
+            "ambition",
+            "creativity",
+            "legacy",
+            "corporate-greed",
+            "fashion-industry",
+            "american-dream"
+          ],
+          "plot_and_concepts": [
+            "biography",
+            "rise-and-fall",
+            "business-rivalry",
+            "legal-battles",
+            "fashion-design"
+          ],
+          "mood_and_tone": [
+            "glamorous",
+            "stylish",
+            "tragic",
+            "nostalgic"
+          ],
+          "genre_and_tropes": [
+            "biographical-drama",
+            "fashion-drama",
+            "corporate-intrigue"
+          ],
+          "setting": [
+            "new-york-city",
+            "1970s",
+            "studio-54-era"
+          ],
+          "character_archetypes": [
+            "visionary-designer",
+            "ruthless-businessman",
+            "tragic-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "chronological-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "minimalist-designs",
+            "studio-54",
+            "flagship-store",
+            "14th-street-store"
+          ],
+          "maturity_and_content": [
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "Halston is a glamorous biographical drama set in 1970s New York City, exploring themes of ambition, creativity, and the tragic rise and fall of a visionary fashion designer amidst corporate greed and the vibrant Studio 54 era."
+      },
+      "duration_seconds": 68.64888429641724
+    }
+  }
+}

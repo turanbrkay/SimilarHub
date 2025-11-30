@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "High Score",
+    "overview": "This docuseries traces the history of classic video games, featuring insights from the innovators who brought these worlds and characters to life.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2020,
+    "vote_count": 206
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "High Score is a documentary series that explores the golden age of video games, focusing on the people and innovations that shaped the industry. Through interviews and archival footage, the series examines the creative process, the competitive landscape, and the cultural impact of iconic games. It offers a nostalgic look back at a pivotal era in entertainment, celebrating the ingenuity and passion of the developers and players who defined a generation. The series blends historical analysis with personal anecdotes, creating a compelling narrative for both seasoned gamers and those curious about the origins of this influential medium. Ultimately, High Score is a celebration of creativity, competition, and the enduring power of video games.",
+        "spoiler_rich_plot_summary": "The series begins by charting the early days of the video game industry, highlighting the pioneering efforts of companies like Atari and the creation of groundbreaking titles like Pong. It then delves into the rise of the arcade scene and the intense competition between developers striving to create the next big hit. The narrative follows the evolution of gaming technology, from simple pixelated graphics to more sophisticated gameplay mechanics. Interviews with key figures reveal the challenges and triumphs of bringing these games to life, including the struggles with limited resources and the pressure to innovate. The series explores the rise of home consoles and the shift in the industry's focus. It examines the impact of the video game crash of 1983 and the subsequent recovery, showcasing how the industry adapted and evolved. The documentary concludes by reflecting on the lasting legacy of these classic games and their continued influence on modern entertainment.",
+        "categorized_keywords": {
+          "themes": [
+            "innovation",
+            "nostalgia",
+            "competition",
+            "creative-process",
+            "cultural-impact",
+            "industry-history"
+          ],
+          "plot_and_concepts": [
+            "video-game-development",
+            "arcade-scene",
+            "console-gaming",
+            "industry-crash",
+            "retrospective-documentary"
+          ],
+          "mood_and_tone": [
+            "optimistic",
+            "informative",
+            "celebratory",
+            "reflective"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "historical-documentary",
+            "oral-history"
+          ],
+          "setting": [
+            "1970s",
+            "1980s",
+            "united-states"
+          ],
+          "character_archetypes": [
+            "pioneer",
+            "innovator",
+            "game-developer"
+          ],
+          "narrative_style": [
+            "chronological-narrative",
+            "interview-driven"
+          ],
+          "target_audience": [
+            "gamers",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "atari-console",
+            "arcade-cabinet",
+            "pixelated-graphics",
+            "pong-game"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "High Score is an optimistic and informative documentary series that celebrates the innovation and creative process behind the nostalgic golden age of video games, charting the industry’s history from the arcade scene to the rise of console gaming."
+      },
+      "duration_seconds": 61.105210304260254
+    }
+  }
+}

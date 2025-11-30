@@ -1,0 +1,69 @@
+{
+  "input_data": {
+    "title": "iCarly",
+    "overview": "Ten years after signing off of one of TV's most iconic shows, Carly, Spencer, and Freddie are back, navigating the next chapter of their lives, facing the uncertainties of life in their twenties.",
+    "genres": "Comedy",
+    "release_year": 2021,
+    "vote_count": 742
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "iCarly (2021) is a revival of the original Nickelodeon series, following Carly Shay and her friends as they navigate adulthood and attempt to revive their web show. The series blends comedic elements with themes of friendship, family, and personal growth, offering a lighthearted and nostalgic experience for longtime fans while also appealing to a new generation. It explores the challenges of maintaining relationships and pursuing creative endeavors in a rapidly changing digital landscape, maintaining the original show's optimistic and upbeat tone.",
+        "spoiler_rich_plot_summary": "The series picks up several years after the original show's conclusion, with Carly, Spencer, and Freddie now in their twenties. Carly, feeling adrift, decides to reboot iCarly, teaming up with Spencer and Freddie to create new online content. Spencer, still eccentric and artistic, provides the show's visual flair, while Freddie, now a seasoned production professional, handles the technical aspects. The reboot faces initial struggles, including low viewership and creative differences. New characters are introduced, including Harper, a quirky and energetic aspiring actress, and Lewie, a tech-savvy friend of Freddie's. Throughout the season, the group confronts personal challenges, explores romantic interests, and attempts to find their place in the evolving world of online entertainment. The series deals with the complexities of maintaining long-term friendships and the pressures of reviving a beloved franchise, ultimately celebrating the power of creativity and connection.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "family",
+            "personal-growth",
+            "nostalgia",
+            "online-content-creation",
+            "creative-endeavors"
+          ],
+          "plot_and_concepts": [
+            "web-show-revival",
+            "online-comedy",
+            "found-family",
+            "coming-of-age"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "optimistic",
+            "comedic",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "teen-comedy",
+            "sitcom",
+            "nostalgic-revival"
+          ],
+          "setting": [
+            "modern-day",
+            "seattle-washington"
+          ],
+          "character_archetypes": [
+            "eccentric-artist",
+            "tech-savvy-friend",
+            "aspiring-actress"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "teen-viewers",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "webcam",
+            "studio-apartment",
+            "online-platform"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "iCarly is a lighthearted and optimistic teen comedy series that explores themes of friendship, family, and personal growth as a group of friends attempts to revive their online show in modern-day Seattle."
+      },
+      "duration_seconds": 80.88008117675781
+    }
+  }
+}

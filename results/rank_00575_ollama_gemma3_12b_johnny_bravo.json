@@ -1,0 +1,70 @@
+{
+  "input_data": {
+    "title": "Johnny Bravo",
+    "overview": "Johnny Bravo tells the story of a biceps-bulging, karate-chopping free spirit who believes he is a gift from God to the women of the earth. Unfortunately for Johnny, everyone else sees him as a narcissistic Mama's boy with big muscles and even bigger hair. In short, he is the quintessential guy who 'just doesn't get it.' No matter what he does, or where he finds himself, he always winds up being his own worst enemy.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "release_year": 1997,
+    "vote_count": 521
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Johnny Bravo is a comedic animated series centered around a self-absorbed, muscle-bound man relentlessly pursuing romantic attention. The show utilizes slapstick humor and exaggerated characterizations to satirize male ego and romantic pursuit. While ostensibly a comedy aimed at a family audience, the series subtly critiques societal expectations surrounding masculinity and attractiveness. The show's episodic nature allows for a wide range of comedic scenarios and guest appearances, maintaining a lighthearted and consistently humorous tone.",
+        "spoiler_rich_plot_summary": "The series follows Johnny Bravo's persistent, and consistently unsuccessful, attempts to woo women. Each episode typically begins with Johnny devising a plan to impress a potential romantic interest, often involving elaborate schemes and displays of his physique and supposed skills. These plans invariably backfire, leading to embarrassing and humorous situations. While Johnny's mother, Mom, provides a constant source of both encouragement and exasperation, his romantic endeavors remain largely unrewarded. The show doesn't feature a long-term narrative arc, instead focusing on self-contained comedic episodes that reinforce Johnny's comedic failures and his obliviousness to social cues. Recurring characters like Carl and Ray, Johnny's equally hapless friends, contribute to the overall comedic chaos, further highlighting Johnny's inability to achieve his romantic goals.",
+        "categorized_keywords": {
+          "themes": [
+            "male-ego",
+            "romantic-pursuit",
+            "social-awkwardness",
+            "family-dynamics",
+            "satire"
+          ],
+          "plot_and_concepts": [
+            "slapstick-comedy",
+            "episodic-story",
+            "fish-out-of-water"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "humorous",
+            "absurdist"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "animated-comedy",
+            "muscle-bound-hero"
+          ],
+          "setting": [
+            "modern-day",
+            "suburban-america"
+          ],
+          "character_archetypes": [
+            "absurd-protagonist",
+            "mama's-boy",
+            "unsuccessful-suitor"
+          ],
+          "narrative_style": [
+            "episodic-story"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adults"
+          ],
+          "detail_plot": [
+            "biceps",
+            "big-hair",
+            "muscle-shirt",
+            "mom's-house"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Johnny Bravo is a lighthearted animated sitcom that satirizes male ego and romantic pursuit through the absurd misadventures of a muscle-bound man relentlessly seeking affection in suburban America."
+      },
+      "duration_seconds": 53.2163770198822
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Goosebumps",
+    "overview": "Anything can turn spooky in this horror anthology series based on the best-selling books by master of kid horror, R.L. Stine. In every episode, see what happens when regular kids find themselves in scary situations, and how they work to confront and overcome their fears.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Mystery",
+      "Kids"
+    ],
+    "release_year": 1995,
+    "vote_count": 512
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Goosebumps is a horror anthology series aimed at a younger audience, adapting the popular book series by R.L. Stine. Each episode presents a self-contained story featuring ordinary children encountering supernatural or monstrous threats. The show blends elements of fantasy, mystery, and horror, creating a playful and often suspenseful atmosphere designed to be thrilling without being overly frightening. Recurring themes involve facing fears, the power of imagination, and the unsettling nature of the seemingly ordinary. The series' episodic format allows for a wide range of monsters and scenarios, maintaining a sense of novelty and unpredictability.",
+        "spoiler_rich_plot_summary": "The series follows a formulaic structure: a group of children stumble upon a seemingly innocuous object or situation, often involving a mysterious book, a cursed item, or a strange new neighbor. This discovery quickly spirals into a terrifying ordeal, as the children are confronted by monsters, ghosts, or other supernatural entities. Throughout the series, the children must use their wits and courage to overcome these challenges, often uncovering a deeper mystery or a hidden truth behind the initial threat. While each episode presents a unique scenario, a common thread involves the exploration of childhood fears and the realization that the world is not always as safe as it seems. The series concludes with the children typically resolving the immediate threat, though the underlying sense of unease and the possibility of future encounters remain, reinforcing the show's core theme of lurking danger.",
+        "categorized_keywords": {
+          "themes": [
+            "childhood-fears",
+            "imagination",
+            "monsters",
+            "supernatural",
+            "coming-of-age",
+            "facing-challenges"
+          ],
+          "plot_and_concepts": [
+            "anthology-series",
+            "cursed-objects",
+            "monster-of-the-week",
+            "mystery",
+            "coming-of-age-story"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "playful",
+            "creepy",
+            "lighthearted",
+            "eerie"
+          ],
+          "genre_and_tropes": [
+            "horror",
+            "fantasy",
+            "kids-horror",
+            "monster-story",
+            "coming-of-age"
+          ],
+          "setting": [
+            "suburban-setting",
+            "small-town",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "ordinary-children",
+            "reluctant-hero",
+            "curious-child"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "self-contained-narrative"
+          ],
+          "target_audience": [
+            "kids",
+            "young-adults"
+          ],
+          "detail_plot": [
+            "haunted-house",
+            "strange-book",
+            "cursed-toy",
+            "creepy-neighbor",
+            "monster-mask"
+          ],
+          "maturity_and_content": [
+            "mild-horror",
+            "suspense"
+          ]
+        },
+        "keyword_sentence": "Goosebumps is a playful and suspenseful horror anthology series for kids, exploring childhood fears and supernatural encounters in a series of self-contained stories set in ordinary suburban settings."
+      },
+      "duration_seconds": 63.33167099952698
+    }
+  }
+}

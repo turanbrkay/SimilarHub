@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Horror at the Cecil Hotel",
+    "overview": "Not long after the Cecil Hotel in Los Angeles opened in 1924, a guest committed suicide in one of its rooms, beginning a decades-long string of murders, suicides or otherwise unexplained ...",
+    "genres": [
+      "Crime",
+      "Documentary"
+    ],
+    "release_year": 2017,
+    "vote_count": 175
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Horror at the Cecil Hotel is a documentary series that investigates the unsettling history of the Cecil Hotel in Los Angeles, a building plagued by a series of tragic events and mysterious deaths. The series blends true crime investigation with psychological exploration, examining the hotel's architecture, its clientele, and the circumstances surrounding the deaths that occurred within its walls. It aims to uncover potential connections between the events and explore the darker aspects of human nature and urban decay. The series maintains a somber and unsettling tone, relying on archival footage, interviews, and recreations to build suspense and intrigue.",
+        "spoiler_rich_plot_summary": "The series primarily focuses on the disappearance of Elisa Lam in 2013, whose case garnered significant attention due to the disturbing elevator surveillance footage released shortly after her disappearance. The documentary meticulously reconstructs the events leading up to Lam's disappearance, examining her background, her travels, and her stay at the Cecil Hotel. It explores the hotel's history, revealing a long and disturbing pattern of suicides and deaths, including the infamous 'Night Stalker' Richard Ramirez who used the hotel as a base of operations. The series delves into the lives of other individuals connected to the hotel, highlighting their struggles with mental health, addiction, and homelessness. While the exact circumstances of Lam’s death remain officially undetermined, the series presents various theories and perspectives, ultimately leaving the audience to grapple with the unsettling ambiguity of the case and the hotel's dark legacy. The series concludes by acknowledging the ongoing fascination with the Cecil Hotel and its enduring reputation as a place of tragedy and mystery.",
+        "categorized_keywords": {
+          "themes": [
+            "true-crime",
+            "mystery",
+            "urban-decay",
+            "mental-health",
+            "homelessness",
+            "loss",
+            "isolation"
+          ],
+          "plot_and_concepts": [
+            "missing-person",
+            "hotel-setting",
+            "surveillance-footage",
+            "serial-killer",
+            "investigation"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "unsettling",
+            "suspenseful",
+            "somber",
+            "eerie"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "true-crime",
+            "mystery-thriller"
+          ],
+          "setting": [
+            "los-angeles",
+            "hotel-setting",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "victim",
+            "investigator",
+            "witness"
+          ],
+          "narrative_style": [
+            "investigative-journalism",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "hotel-lobby",
+            "elevator-surveillance",
+            "hotel-room",
+            "police-tape"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "disturbing-imagery",
+            "suicide-themes"
+          ]
+        },
+        "keyword_sentence": "Horror at the Cecil Hotel is a dark and unsettling documentary series that investigates a Los Angeles hotel’s history of tragedy and mystery, exploring themes of urban decay and mental health through an investigative lens."
+      },
+      "duration_seconds": 64.816819190979
+    }
+  }
+}

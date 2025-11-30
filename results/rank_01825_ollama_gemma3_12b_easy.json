@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Easy",
+    "overview": "This eclectic, star-studded anthology follows diverse Chicagoans fumbling through the modern maze of love, sex, technology and culture. First dates, friends with benefits, couples with kids. Whatever your relationship status is, it's always complicated.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2016,
+    "vote_count": 110
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Easy is an anthology series exploring the complexities of modern relationships in Chicago. Each episode focuses on different characters navigating the challenges of love, sex, technology, and cultural shifts. The show's strength lies in its diverse cast and willingness to tackle a wide range of relationship dynamics, from casual encounters to long-term commitments, often with a darkly comedic and observational tone. It aims to capture the messy, often awkward realities of human connection in the digital age, offering a relatable and often poignant reflection on contemporary life.",
+        "spoiler_rich_plot_summary": "Easy's structure eschews a traditional overarching plot, instead presenting a series of self-contained stories. The series introduces a diverse group of Chicago residents, each grappling with their own romantic and sexual journeys. Episodes explore themes of consent, communication, and the impact of technology on intimacy. Characters frequently find themselves in situations that challenge their beliefs and force them to confront uncomfortable truths about themselves and their relationships. While individual storylines may resolve within a single episode, recurring characters and subtle connections between stories create a sense of interconnectedness and a broader commentary on the evolving landscape of modern relationships. The series doesn's offer definitive answers or resolutions, instead leaving viewers to ponder the nuances of human connection and the ongoing search for meaning in a complex world.",
+        "categorized_keywords": {
+          "themes": [
+            "modern-relationships",
+            "sexuality",
+            "technology-and-relationships",
+            "identity-exploration",
+            "communication-breakdown",
+            "consent",
+            "urban-life"
+          ],
+          "plot_and_concepts": [
+            "anthology-series",
+            "slice-of-life",
+            "ensemble-cast",
+            "relationship-drama",
+            "sexual-exploration"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "observational",
+            "realistic",
+            "awkward",
+            "poignant"
+          ],
+          "genre_and_tropes": [
+            "romantic-comedy",
+            "relationship-drama",
+            "slice-of-life",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "chicago-city",
+            "modern-day",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "millennial-protagonist",
+            "diverse-characters",
+            "reluctant-romantic"
+          ],
+          "narrative_style": [
+            "episodic-storytelling",
+            "anthology-format",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "millennials",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "dating-app",
+            "apartment-living",
+            "city-nightlife",
+            "social-media"
+          ],
+          "maturity_and_content": [
+            "sexual-content",
+            "mature-themes"
+          ]
+        },
+        "keyword_sentence": "Easy offers a darkly comic and poignant exploration of modern relationships in Chicago, examining the complexities of sexuality, technology, and identity through an episodic anthology format."
+      },
+      "duration_seconds": 64.55493092536926
+    }
+  }
+}

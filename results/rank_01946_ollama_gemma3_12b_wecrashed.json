@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "WeCrashed",
+    "overview": "Inspired by actual events — and the love story at the center of it all. WeWork grew from a single coworking space into a global brand worth $47 billion in under a decade. Then, in less than a year, its valuation dropped $40 billion. What happened?",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2022,
+    "vote_count": 100
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "WeCrashed is a dramatic series exploring the meteoric rise and catastrophic fall of WeWork and its charismatic founder, Adam Neumann. The show examines the blurred lines between ambition, delusion, and reality, focusing on the complex relationship between Adam and his wife, Rebekah, as their personal and professional lives become inextricably intertwined. It's a cautionary tale about unchecked growth, the allure of disruptive innovation, and the dangers of prioritizing hype over substance, presented through a blend of corporate drama and relationship dynamics.",
+        "spoiler_rich_plot_summary": "The series begins with the early days of WeWork, showcasing Adam Neumann's vision of creating a global community workspace and Rebekah's belief in his genius. As WeWork expands rapidly, fueled by massive investments and a cult-like following, the show highlights Adam's increasingly erratic behavior and questionable business practices. Rebekah actively encourages and amplifies Adam's ambitions, believing she is instrumental in his success. The narrative follows the company's journey through multiple funding rounds, showcasing the lavish lifestyle the Neumanns adopt and the growing concerns of investors regarding Adam's leadership and the company's financial stability. As scrutiny intensifies, cracks begin to appear in the facade, revealing a culture of mismanagement, inflated valuations, and legal issues. Ultimately, the series depicts the unraveling of WeWork, Adam's forced resignation, and the devastating consequences for investors, employees, and the Neumann family, leaving them facing significant financial and reputational fallout.",
+        "categorized_keywords": {
+          "themes": [
+            "ambition",
+            "delusion",
+            "hubris",
+            "corporate-greed",
+            "relationship-dynamics",
+            "power-corrupts",
+            "cult-of-personality"
+          ],
+          "plot_and_concepts": [
+            "start-up-culture",
+            "corporate-scandal",
+            "financial-fraud",
+            "cult-following",
+            "real-estate-bubble"
+          ],
+          "mood_and_tone": [
+            "satirical",
+            "darkly-comic",
+            "tense",
+            "cynical"
+          ],
+          "genre_and_tropes": [
+            "corporate-drama",
+            "biographical-drama",
+            "rags-to-riches",
+            "fall-from-grace"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day",
+            "global-business"
+          ],
+          "character_archetypes": [
+            "charismatic-leader",
+            "manipulative-spouse",
+            "naive-investor",
+            "corporate-executive"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "biographical-account"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "coworking-space",
+            "valuation-report",
+            "board-meeting",
+            "office-party",
+            "lawsuit"
+          ],
+          "maturity_and_content": [
+            "financial-risks",
+            "corporate-misconduct"
+          ]
+        },
+        "keyword_sentence": "WeCrashed is a darkly comic corporate drama exploring the rise and fall of a disruptive startup, fueled by ambition, delusion, and the complex relationship between a charismatic leader and his wife, set against the backdrop of modern global business."
+      },
+      "duration_seconds": 68.32144832611084
+    }
+  }
+}

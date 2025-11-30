@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "The Hollow",
+    "overview": "Three teens join forces to find a way home after waking up in a strange realm filled with magic portals, perplexing puzzles and vicious beasts.",
+    "genres": [
+      "Animation",
+      "Kids",
+      "Drama"
+    ],
+    "release_year": 2018,
+    "vote_count": 56
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Hollow is an animated series geared towards a younger audience, blending elements of fantasy, drama, and mystery. The narrative follows three teenagers who find themselves trapped in a magical realm, forcing them to confront both external dangers and internal conflicts as they search for a way back home. The series explores themes of friendship, courage, and self-discovery within a visually engaging and imaginative world. The tone is generally adventurous and suspenseful, with moments of emotional depth and character development.",
+        "spoiler_rich_plot_summary": "The series begins with Skye, Kai, and Sawyer mysteriously transported to the realm of Hollow, a place filled with magical portals and dangerous creatures. They quickly learn that Hollow is a place where people are trapped, and the only way to escape is to solve the realm’s mysteries and confront its powerful guardians. As they journey through Hollow, they encounter other trapped individuals, some helpful, others treacherous, who offer clues and challenges. Skye, Kai, and Sawyer must learn to rely on each other and develop their own unique abilities to overcome obstacles and unravel the secrets of Hollow. They discover that Hollow is not merely a prison, but a place with a complex history and a hidden purpose, and their quest for freedom becomes intertwined with the fate of the realm itself. The teens face increasingly difficult trials, confronting their fears and making sacrifices along the way, ultimately leading them closer to understanding the true nature of Hollow and the path to returning home, though the cost of freedom proves to be significant.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "courage",
+            "self-discovery",
+            "loss",
+            "sacrifice",
+            "mystery",
+            "hope"
+          ],
+          "plot_and_concepts": [
+            "portal-fantasy",
+            "escape-quest",
+            "magical-realm",
+            "puzzle-solving",
+            "coming-of-age"
+          ],
+          "mood_and_tone": [
+            "adventurous",
+            "suspenseful",
+            "emotional",
+            "wholesome",
+            "dark"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "kids-fantasy",
+            "found-family",
+            "quest-narrative"
+          ],
+          "setting": [
+            "magical-realm",
+            "alternate-dimension",
+            "forest-setting"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "loyal-friend"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "kids",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "magical-portal",
+            "ancient-ruins",
+            "glowing-creatures",
+            "hidden-passages"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Hollow is an animated series for kids and families, blending a suspenseful quest narrative with themes of friendship and courage as three teens navigate a magical realm filled with puzzles and dangers in search of a way home."
+      },
+      "duration_seconds": 60.94369864463806
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Miss Marple: Nemesis",
+    "overview": "Mr. Jason Rafiel asks Miss Marple to solve a crime but, he does gives her any details. In fact, he can't be sure that a crime was committed at all.",
+    "genres": [
+      "Crime",
+      "Mystery"
+    ],
+    "release_year": 1987,
+    "vote_count": 31
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Miss Marple: Nemesis is a British mystery television film that continues the tradition of Agatha Christie's beloved amateur detective. The film presents a classic whodunit scenario, characterized by a seemingly innocuous request that unravels into a complex web of secrets and potential danger. It maintains the series' signature blend of gentle observation, subtle humor, and intricate plotting, offering a comforting yet suspenseful viewing experience for fans of traditional mystery narratives. The film explores themes of deception, social class, and the hidden darkness that can lurk beneath a veneer of respectability, all while showcasing Miss Marple's keen intellect and ability to see beyond appearances.",
+        "spoiler_rich_plot_summary": "The story begins with Miss Marple receiving a cryptic request from Mr. Jason Rafiel, a man who believes a crime may have been committed but cannot provide any details. He implores her to investigate, fearing repercussions if he reveals more. Miss Marple travels to a grand estate where she discovers a tense atmosphere and a cast of characters harboring secrets. As she delves deeper, she uncovers a history of betrayal, financial ruin, and a potential murder. The investigation leads her through a series of red herrings and deceptive clues, as she attempts to discern the truth behind Rafiel's warning. The narrative builds suspense as Miss Marple pieces together the events leading up to the potential crime, revealing a complex scheme involving multiple suspects and a desperate attempt to conceal a dark past. Ultimately, the truth is revealed, exposing a web of deceit and a tragic consequence of long-held secrets.",
+        "categorized_keywords": {
+          "themes": [
+            "deception",
+            "social-class",
+            "hidden-darkness",
+            "long-held-secrets",
+            "justice",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "whodunit",
+            "amateur-detective",
+            "cryptic-request",
+            "false-leads",
+            "investigation"
+          ],
+          "mood_and_tone": [
+            "gentle",
+            "suspenseful",
+            "intriguing",
+            "classic"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "mystery",
+            "british-mystery",
+            "amateur-sleuth"
+          ],
+          "setting": [
+            "british-countryside",
+            "grand-estate",
+            "1980s"
+          ],
+          "character_archetypes": [
+            "amateur-detective",
+            "eccentric-character",
+            "wealthy-aristocrat"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "investigative-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "mystery-fans"
+          ],
+          "detail_plot": [
+            "grand-estate",
+            "cryptic-note",
+            "vintage-clothing",
+            "country-manor"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Miss Marple: Nemesis is a classic British mystery film that explores themes of deception and social class through the investigation of a cryptic request in a grand estate."
+      },
+      "duration_seconds": 82.97817420959473
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "X Company",
+    "overview": "An emotionally-driven character drama, set in the thrilling and dangerous world of WWII espionage and covert operations. It follows the stories of five highly skilled young recruits - Canadian, American and British - torn from their ordinary lives to train as agents in an ultra-secret facility on the shores of Lake Ontario. These agents parachute behind enemy lines, where they're fair game for torture and execution. From elegant hotels to hellholes in the field, it's one risky operation after another, masterminded by the brains of Camp X.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2015,
+    "vote_count": 37
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "X Company is a character-driven drama set against the backdrop of World War II espionage. The series explores the psychological toll of covert operations and the bonds forged between a group of young recruits undergoing rigorous training. It blends historical context with suspenseful action, focusing on themes of loyalty, sacrifice, and the moral ambiguities of wartime. The series offers a tense and emotionally resonant experience, examining the human cost of intelligence gathering and the complexities of international alliances.",
+        "spoiler_rich_plot_summary": "The series begins with the recruitment of five young individuals – Canadian, American, and British – plucked from their ordinary lives and brought to Camp X, a clandestine training facility on Lake Ontario. Under the guidance of seasoned operatives, they endure brutal physical and psychological conditioning, learning the skills necessary to operate behind enemy lines. Early missions involve reconnaissance and sabotage, gradually escalating in risk and consequence. As the recruits gain experience, they face betrayals within their own ranks and encounter the harsh realities of wartime brutality. Relationships develop and fracture under the immense pressure, forcing them to confront their own values and the sacrifices they must make. The series follows their progression from naive trainees to hardened operatives, each grappling with the moral compromises inherent in their work, and the constant threat of exposure and capture. The overarching narrative explores the intricate web of international intelligence, revealing the political machinations and personal agendas that drive the war effort, and the ultimate cost of victory.",
+        "categorized_keywords": {
+          "themes": [
+            "wartime-espionage",
+            "loyalty",
+            "sacrifice",
+            "moral-ambiguity",
+            "international-alliances",
+            "identity-crisis",
+            "betrayal"
+          ],
+          "plot_and_concepts": [
+            "covert-operations",
+            "intelligence-gathering",
+            "sabotage",
+            "double-agents",
+            "wartime-recruitment",
+            "espionage-thriller"
+          ],
+          "mood_and_tone": [
+            "tense",
+            "suspenseful",
+            "dark",
+            "emotional",
+            "gritty"
+          ],
+          "genre_and_tropes": [
+            "spy-thriller",
+            "historical-drama",
+            "wartime-drama",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "world-war-ii",
+            "lake-ontario",
+            "canada",
+            "wartime-europe"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "skilled-operative",
+            "mentor-figure",
+            "double-agent"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "training-facility",
+            "wartime-uniform",
+            "espionage-gadgets",
+            "encrypted-message"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "psychological-trauma"
+          ]
+        },
+        "keyword_sentence": "X Company is a tense and emotional spy thriller set during World War II, exploring themes of loyalty and sacrifice as a group of recruits navigate the dangerous world of covert operations and international alliances."
+      },
+      "duration_seconds": 59.03886818885803
+    }
+  }
+}

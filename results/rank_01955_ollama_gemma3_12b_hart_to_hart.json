@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Hart to Hart",
+    "overview": "Wealthy couple Jonathan and Jennifer Hart, a self-made millionaire and his journalist wife, moonlight as amateur detectives.",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Crime"
+    ],
+    "release_year": 1979,
+    "vote_count": 100
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Hart to Hart is a lighthearted action-adventure series centered on a wealthy couple who use their resources and ingenuity to solve crimes. The show blends elements of mystery, comedy, and romance, offering a breezy and escapist viewing experience. Jonathan Hart, a successful businessman, and his journalist wife, Jennifer, use their wealth and connections to investigate various cases, often involving theft, fraud, and kidnapping. The series emphasizes their playful dynamic and their ability to outsmart criminals while maintaining a comfortable lifestyle.",
+        "spoiler_rich_plot_summary": "The series begins with Jonathan Hart, a self-made millionaire, and his wife Jennifer, a journalist, leading seemingly idyllic lives. However, their comfortable existence is frequently disrupted by criminal activity, prompting them to become amateur detectives. Each episode typically presents a new case, ranging from stolen artwork to elaborate schemes involving corrupt officials. Jonathan's business acumen and Jennifer's investigative skills prove invaluable as they navigate complex situations, often relying on their charm and quick thinking to evade danger. While the cases themselves are self-contained, recurring antagonists and underlying conspiracies occasionally surface, adding a layer of intrigue to their adventures. Throughout the series, Jonathan and Jennifer's relationship remains a central focus, with their playful banter and unwavering support for one another providing a heartwarming counterpoint to the often-perilous situations they encounter. The show concludes with the couple continuing their crime-solving escapades, maintaining their comfortable lifestyle and enjoying the satisfaction of bringing criminals to justice.",
+        "categorized_keywords": {
+          "themes": [
+            "wealth-and-status",
+            "crime-solving",
+            "marital-comedy",
+            "justice",
+            "family-values"
+          ],
+          "plot_and_concepts": [
+            "amateur-detectives",
+            "crime-of-the-week",
+            "mystery",
+            "heist",
+            "conspiracy"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "comedic",
+            "optimistic",
+            "playful",
+            "escapist"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "buddy-cop",
+            "romantic-comedy",
+            "mystery",
+            "action-adventure"
+          ],
+          "setting": [
+            "modern-day",
+            "california",
+            "affluent-neighborhood"
+          ],
+          "character_archetypes": [
+            "wealthy-businessman",
+            "resourceful-journalist",
+            "charming-protagonist",
+            "intelligent-female-lead"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "luxury-car",
+            "affluent-mansion",
+            "private-jet",
+            "detective-gadgets"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Hart to Hart is a lighthearted action-adventure series following a wealthy businessman and his journalist wife as they playfully solve crimes and navigate a life of luxury in California."
+      },
+      "duration_seconds": 64.31841707229614
+    }
+  }
+}

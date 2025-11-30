@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Around the World in 80 Days",
+    "overview": "Following an outrageous bet, Fogg and his valet, Passepartout, take on the legendary journey of circumnavigating the globe in just 80 days, swiftly joined by aspiring journalist Abigail Fix, who seizes the chance to report on this extraordinary story.",
+    "genres": [
+      "Action & Adventure",
+      "Family"
+    ],
+    "release_year": 2021,
+    "vote_count": 87
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Around the World in 80 Days is a fast-paced action-adventure series based on Jules Verne's classic novel. The story follows Phileas Fogg, his valet Passepartout, and journalist Abigail Fix as they embark on a race against time to circumnavigate the globe. The series blends historical fiction with comedic elements and emphasizes themes of cultural understanding and the pursuit of adventure. It offers a lighthearted and family-friendly viewing experience, showcasing diverse landscapes and cultures while maintaining a sense of optimism and camaraderie.",
+        "spoiler_rich_plot_summary": "The series begins with Phileas Fogg making a wager that he can travel around the world in 80 days. He sets off with his valet, Passepartout, and is soon joined by Abigail Fix, a determined journalist eager to document their journey. Their travels take them through various countries, encountering both helpful locals and those who attempt to thwart their progress. Passepartout's impulsive nature often leads to comical mishaps, while Abigail's journalistic instincts drive her to uncover hidden truths and challenge societal norms. Throughout their journey, they face numerous obstacles, including transportation delays, political intrigue, and personal conflicts. As they near the end of their race, they must confront a relentless pursuer who is determined to see Fogg fail, leading to a thrilling climax that tests their resolve and ultimately reveals the true meaning of their adventure.",
+        "categorized_keywords": {
+          "themes": [
+            "adventure",
+            "cultural-exchange",
+            "friendship",
+            "determination",
+            "social-commentary"
+          ],
+          "plot_and_concepts": [
+            "race-against-time",
+            "bet",
+            "travelogue",
+            "historical-fiction"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "optimistic",
+            "comedic",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "family-entertainment",
+            "period-drama"
+          ],
+          "setting": [
+            "19th-century",
+            "global-travel",
+            "historical-locations"
+          ],
+          "character_archetypes": [
+            "eccentric-gentleman",
+            "loyal-valet",
+            "ambitious-journalist"
+          ],
+          "narrative_style": [
+            "episodic-adventure",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "steamship",
+            "train-journey",
+            "elephant-ride",
+            "passport",
+            "period-costumes"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Around the World in 80 Days is a lighthearted and optimistic action-adventure series that follows a spirited journey across the globe, celebrating friendship and cultural exchange through a thrilling race against time."
+      },
+      "duration_seconds": 60.495633363723755
+    }
+  }
+}

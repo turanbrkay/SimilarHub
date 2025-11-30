@@ -1,0 +1,95 @@
+{
+  "input_data": {
+    "title": "The Vampire Diaries",
+    "overview": "The story of two vampire brothers obsessed with the same girl, who bears a striking resemblance to the beautiful but ruthless vampire they knew and loved in 1864.",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2009,
+    "vote_count": 8356
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Vampire Diaries is a supernatural drama that blends romance, horror, and family drama within a small-town setting, centering on the complex relationships of the Salvatore brothers, Elena Gilbert, and a host of other supernatural beings. The series explores themes of love, identity, and moral ambiguity through a narrative that oscillates between present-day modernity and historical flashbacks to 1864, using time travel and magical artifacts to deepen its mythos. Its tone is consistently dark and gothic yet interspersed with moments of tenderness and suspense, while its serialized storytelling allows for deep character development and long-running plot arcs.",
+        "spoiler_rich_plot_summary": "The series opens in 2009 with the arrival of the enigmatic vampire brothers, Stefan and Damon Salvatore, into the small town of Mystic Falls, where they meet Elena Gilbert, a high school student who becomes the center of a love triangle that fuels much of the drama. As the show progresses, it is revealed that the town’s history is steeped in supernatural conflict, including a coven of witches, a werewolf pack, and the original vampire, the first of his kind, who is later dubbed the \"Eternal.\" The narrative follows the brothers’ struggle between good and evil, the evolving bond with Elena, and the introduction of other key characters such as Bonnie Bennett, a witch with a powerful destiny, and Caroline Forbes, who becomes a vampire herself. Over the course of eight seasons, the series incorporates time-travel arcs that flash back to 1864, where the Salvatore brothers’ ancestors are introduced, and a series of powerful artifacts—such as the silver mirror, the hunting knife, and a magic amulet—are used to fight the original vampire and the curse that threatens to turn all vampires into monsters. The climax of the series centers on the battle against the Eternal, a powerful entity that can manipulate time, and the original vampire, whose death is necessary to break a cycle of blood-borne curses. In the final episode, the main characters use a spell to break the time loop, defeat the Eternal and the original vampire, and ultimately save Mystic Falls. The series concludes with the Salvatore brothers surviving, but the town is forever changed, and the characters face a new era of supernatural balance. The ending leaves open the possibility of future adventures while providing closure to the long-running love triangle and the brothers’ redemption arc.",
+        "categorized_keywords": {
+          "themes": [
+            "love-triangle",
+            "family-dynamics",
+            "redemption",
+            "moral-ambiguity",
+            "identity-crisis",
+            "fate",
+            "power-dynamics",
+            "betrayal",
+            "sacrifice",
+            "friendship"
+          ],
+          "plot_and_concepts": [
+            "vampire-blood",
+            "werewolf-attack",
+            "witch-coven",
+            "time-travel",
+            "doppelganger",
+            "magic-amulet",
+            "blood-brother",
+            "prophecy",
+            "cursed-curse",
+            "sanguine-curse",
+            "mystic-falls"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "romantic",
+            "dramatic",
+            "suspenseful",
+            "gothic",
+            "mysterious"
+          ],
+          "genre_and_tropes": [
+            "supernatural-drama",
+            "romantic-triangle",
+            "family-drama",
+            "horror",
+            "fantasy",
+            "revenge",
+            "mystery"
+          ],
+          "setting": [
+            "mystic-falls",
+            "present-day",
+            "small-town",
+            "virginia",
+            "1864"
+          ],
+          "character_archetypes": [
+            "brooding-vampire",
+            "love-interest",
+            "brotherhood",
+            "wise-mentor",
+            "femme-fatale",
+            "anti-hero",
+            "werewolf",
+            "witch",
+            "guardian-angel"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "non-linear-timeline",
+            "character-driven",
+            "slow-burn"
+          ],
+          "target_audience": [
+            "mature-audiences",
+            "young-adult",
+            "fantasy-fans"
+          ]
+        },
+        "keyword_sentence": "The Vampire Diaries is a dark, gothic supernatural drama set in Mystic Falls that follows the brooding-vampire brothers, their love-triangle with Elena, and a series of time-travel, witch-coven, and blood-brother plotlines, all underscored by themes of redemption, moral-ambiguity, and sacrifice."
+      },
+      "duration_seconds": 276.3772146701813
+    }
+  }
+}

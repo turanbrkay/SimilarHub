@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Welcome Back, Kotter",
+    "overview": "Welcome Back, Kotter is an American television sitcom starring Gabe Kaplan and featuring a young John Travolta. Videotaped in front of a live studio audience, it originally aired on the ABC network from September 9, 1975, to June 8, 1979.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1975,
+    "vote_count": 42
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Welcome Back, Kotter is a classic 1970s sitcom centered around Gabe Kaplan, who returns to his old high school to teach a class of misfits. The series blends humor with surprisingly poignant observations about adolescence and the challenges of education. It explores themes of second chances, understanding, and the importance of connecting with young people, all while maintaining a lighthearted and comedic tone. The show's success lies in its relatable characters and its ability to find humor in everyday struggles.",
+        "spoiler_rich_plot_summary": "The series begins with Kotter, a former student, reluctantly agreeing to teach a remedial class at Bishop Bishop High School. His class, initially a group of troublemakers, gradually begins to respond to his unconventional teaching methods, which often involve bending the rules and understanding their individual circumstances. Throughout the series, Kotter navigates the challenges of dealing with the school administration, his own personal life, and the evolving dynamics within his class. Recurring storylines involve the students' attempts to improve their grades, avoid disciplinary action, and ultimately find their place in the world. While the series maintains a generally optimistic outlook, it also touches upon the difficulties faced by disadvantaged youth and the importance of mentorship. The core group of students, including Vinnie, Arnold, Freddie, and Cheese, each undergo personal growth and development, learning valuable lessons about responsibility, friendship, and the pursuit of their dreams. The series concludes with a sense of hope and accomplishment, as Kotter and his students celebrate their shared experiences and look forward to a brighter future.",
+        "categorized_keywords": {
+          "themes": [
+            "education",
+            "second-chances",
+            "adolescence",
+            "friendship",
+            "mentorship",
+            "social-commentary"
+          ],
+          "plot_and_concepts": [
+            "remedial-education",
+            "coming-of-age",
+            "school-setting",
+            "ensemble-cast"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "optimistic",
+            "humorous",
+            "nostalgic"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "school-comedy",
+            "ensemble-comedy"
+          ],
+          "setting": [
+            "high-school",
+            "1970s",
+            "urban-setting"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "misfit",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "episodic-format",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "school-locker",
+            "chalkboard",
+            "school-bus",
+            "report-card"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Welcome Back, Kotter is a lighthearted and nostalgic sitcom set in a 1970s high school, exploring themes of adolescence, friendship, and second chances through the eyes of a reluctant mentor and his class of misfits."
+      },
+      "duration_seconds": 56.87271428108215
+    }
+  }
+}

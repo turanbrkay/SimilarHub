@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "The Mind, Explained",
+    "overview": "Ever wonder what's happening inside your head? From dreaming to anxiety disorders, discover how your brain works with this illuminating series.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2019,
+    "vote_count": 87
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Mind, Explained is a documentary series that explores the complexities of the human brain and mental processes. Through a blend of expert interviews, animation, and accessible explanations, the series delves into topics ranging from dreaming and memory to anxiety and the science of meditation. It aims to demystify psychological phenomena and provide viewers with a greater understanding of their own minds. The series adopts a largely optimistic and informative tone, emphasizing the potential for self-improvement and mental well-being. It's a visually engaging and intellectually stimulating exploration of the inner workings of the human psyche.",
+        "spoiler_rich_plot_summary": "Each episode of The Mind, Explained focuses on a distinct aspect of the human mind. One episode explores the science of dreaming, detailing the different stages of sleep and the neurological processes that generate dreams. Another investigates the nature of anxiety, examining its biological roots and the various strategies for managing it. A subsequent episode delves into the workings of memory, explaining how memories are formed, stored, and retrieved. The series consistently presents scientific research and expert opinions to illuminate these complex topics, often highlighting the interplay between biology, psychology, and personal experience. Throughout the series, the narrative emphasizes the interconnectedness of mental processes and the potential for viewers to gain insights into their own cognitive functions.",
+        "categorized_keywords": {
+          "themes": [
+            "self-discovery",
+            "mental-health",
+            "cognitive-science",
+            "consciousness",
+            "neuroscience",
+            "human-experience"
+          ],
+          "plot_and_concepts": [
+            "documentary-series",
+            "scientific-explanation",
+            "animated-visuals",
+            "expert-interviews"
+          ],
+          "mood_and_tone": [
+            "informative",
+            "optimistic",
+            "thoughtful",
+            "calm"
+          ],
+          "genre_and_tropes": [
+            "educational-documentary",
+            "science-communication"
+          ],
+          "setting": [
+            "modern-day",
+            "laboratory-setting",
+            "clinical-setting"
+          ],
+          "character_archetypes": [
+            "scientist",
+            "psychologist",
+            "expert"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "science-enthusiasts"
+          ],
+          "detail_plot": [
+            "brain-scan",
+            "animated-neurons",
+            "laboratory-equipment",
+            "expert-interview"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Mind, Explained is an informative documentary series that explores the science of the human mind through animated visuals and expert interviews, offering a thoughtful and optimistic look at consciousness and mental health."
+      },
+      "duration_seconds": 56.8474805355072
+    }
+  }
+}

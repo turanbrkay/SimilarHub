@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "The Recruit",
+    "overview": "A fledgling lawyer at the CIA that becomes enmeshed in dangerous international power politics when a former asset threatens to expose the nature of her long-term relationship with the agency unless they exonerate her of a serious crime.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "release_year": 2022,
+    "vote_count": 205
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Recruit is a spy thriller series centered on a young, idealistic lawyer who joins the CIA and quickly finds himself embroiled in a web of international intrigue and dangerous power dynamics. The series blends legal procedural elements with espionage and political suspense, exploring themes of loyalty, morality, and the compromises inherent in working for a powerful intelligence agency. The narrative unfolds with a fast pace, balancing intense action sequences with moments of character development and moral questioning, offering a suspenseful and morally ambiguous viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Owen Hendricks, a newly minted lawyer, accepting a position at the CIA. He is quickly brought in to resolve a crisis involving Max Millie, a former CIA asset who possesses damaging information about the agency. Max claims she was wrongly accused of a crime and demands the CIA clear her name to prevent her from exposing classified information. Owen, under the guidance of Langley senior operative Violet, navigates a complex situation, attempting to exonerate Max while simultaneously preventing her from revealing secrets that could destabilize international relations. As Owen delves deeper into the case, he uncovers a conspiracy that reaches the highest levels of the CIA, realizing that Max's situation is far more complicated than initially presented. He begins to question the motives of his superiors and the true nature of his role within the agency, facing moral dilemmas and increasingly dangerous threats. The series culminates in a confrontation where Owen must choose between his loyalty to the CIA and his conscience, ultimately exposing a network of corruption and risking his own safety to uncover the truth.",
+        "categorized_keywords": {
+          "themes": [
+            "loyalty",
+            "corruption",
+            "moral-ambiguity",
+            "power-dynamics",
+            "justice",
+            "secrets",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "spy-thriller",
+            "legal-procedural",
+            "international-intrigue",
+            "conspiracy",
+            "whistleblower",
+            "false-accusation"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "tense",
+            "dark",
+            "fast-paced"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "political-thriller",
+            "spy-genre",
+            "undercover-operation"
+          ],
+          "setting": [
+            "washington-dc",
+            "international-locations",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "idealistic-protagonist",
+            "corrupt-official",
+            "enigmatic-mentor",
+            "resourceful-asset"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "fast-paced-plot"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "cia-headquarters",
+            "interrogation-room",
+            "classified-documents",
+            "international-bank"
+          ],
+          "maturity_and_content": [
+            "political-corruption",
+            "suspense"
+          ]
+        },
+        "keyword_sentence": "The Recruit is a suspenseful spy thriller set in the modern world, exploring themes of loyalty and corruption as a young lawyer navigates a web of international intrigue and political power dynamics."
+      },
+      "duration_seconds": 63.624067544937134
+    }
+  }
+}

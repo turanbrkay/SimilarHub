@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Mission: Impossible",
+    "overview": "Mission: Impossible is an American television series that chronicles the missions of a team of secret American government agents known as the Impossible Missions Force. The show is a revival of the 1966 TV series of the same name. The only actor to return for the series as a regular cast member was Peter Graves who played Jim Phelps, although two other cast members from the original series returned as guest stars. The only other regular cast member to return for every episode was the voice of \"The Tape\", Bob Johnson.",
+    "genres": [
+      "Drama",
+      "Action & Adventure",
+      "Crime"
+    ],
+    "release_year": 1988,
+    "vote_count": 170
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Mission: Impossible (1988) is a revival of the classic espionage television series, following a team of IMF agents undertaking dangerous and complex missions. The show blends action, suspense, and intricate plots, emphasizing teamwork and technological innovation in the face of formidable adversaries. It maintains the core premise of its predecessor while updating the format for a contemporary audience, delivering a thrilling and often unpredictable viewing experience. The series is characterized by its reliance on elaborate schemes and unexpected twists, keeping viewers engaged and questioning the true nature of events. The show’s enduring appeal lies in its ability to consistently deliver high-stakes action and a sense of intrigue.",
+        "spoiler_rich_plot_summary": "The series follows the Impossible Missions Force (IMF), led by Jim Phelps, as they tackle seemingly impossible assignments around the globe. Early seasons establish the team's dynamic and introduce recurring antagonists, often shadowy organizations with global reach. Missions frequently involve infiltrating enemy strongholds, recovering stolen technology, and preventing acts of terrorism. As the series progresses, the team faces betrayals and shifting alliances, forcing them to question the motives of those around them. Phelps, a seasoned veteran, struggles to maintain control as the missions become increasingly perilous and the lines between friend and foe blur. Later seasons introduce new team members and explore the personal sacrifices required to serve in a clandestine organization, culminating in a series of high-stakes confrontations that test the team's loyalty and resolve. The overarching narrative involves a complex web of conspiracies and double-crosses, leaving the audience constantly questioning the true nature of the IMF's objectives.",
+        "categorized_keywords": {
+          "themes": [
+            "espionage",
+            "loyalty",
+            "betrayal",
+            "teamwork",
+            "conspiracy",
+            "national-security"
+          ],
+          "plot_and_concepts": [
+            "undercover-operation",
+            "heist",
+            "infiltration",
+            "counter-terrorism",
+            "double-cross",
+            "technological-espionage"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "tense",
+            "action-packed",
+            "thrilling",
+            "serious"
+          ],
+          "genre_and_tropes": [
+            "spy-thriller",
+            "action-adventure",
+            "crime-procedural",
+            "government-agency"
+          ],
+          "setting": [
+            "international-locations",
+            "modern-day",
+            "secret-agency"
+          ],
+          "character_archetypes": [
+            "secret-agent",
+            "leader",
+            "skilled-operative",
+            "mastermind"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "secret-briefcase",
+            "disguise",
+            "high-tech-gadgets",
+            "escape-route",
+            "surveillance-equipment"
+          ],
+          "maturity_and_content": [
+            "violence"
+          ]
+        },
+        "keyword_sentence": "Mission: Impossible delivers a thrilling and suspenseful spy-thriller experience, following a team of skilled operatives as they undertake dangerous international missions involving espionage, betrayal, and high-tech gadgets."
+      },
+      "duration_seconds": 65.60573816299438
+    }
+  }
+}

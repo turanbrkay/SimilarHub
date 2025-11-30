@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "Toast of London",
+    "overview": "Steven Toast, an eccentric middle-aged actor with a chequered past, spends more time dealing with his problems off stage than performing on it.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2013,
+    "vote_count": 67
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Toast of London is a surreal and darkly comedic British sitcom centered on the misadventures of Steven Toast, a perpetually struggling actor. The series blends absurdist humor with a surprisingly poignant exploration of ego, ambition, and the absurdity of the entertainment industry. Toast's life is a chaotic tapestry of professional failures, bizarre encounters, and increasingly outlandish situations, all delivered with a distinctive, theatrical flair. The show's unique brand of humor derives from its commitment to the ridiculous and its willingness to embrace the uncomfortable, creating a consistently unpredictable and entertaining experience.",
+        "spoiler_rich_plot_summary": "The series follows Steven Toast as he navigates the precarious world of acting, constantly chasing roles and battling his own eccentricities. Early episodes establish his strained relationship with his agent, Jane, and his long-suffering housemate, Ed. Toast's career is a cycle of near misses and humiliating setbacks, often fueled by his own arrogance and inability to read a room. Throughout the series, he encounters a revolving door of eccentric characters, from demanding directors to bizarre co-stars, each encounter escalating the chaos in his life. Recurring plotlines involve his attempts to secure meaningful roles, his complicated romantic entanglements, and his ongoing struggle to maintain a semblance of professionalism. While Toast experiences fleeting moments of success, he invariably sabotages his own progress, leading to increasingly absurd and hilarious consequences. The series culminates in a continued cycle of professional and personal turmoil, with Toast remaining a perpetually flawed and endearing figure, forever chasing the elusive 'toast' of London.",
+        "categorized_keywords": {
+          "themes": [
+            "fame-and-fortune",
+            "absurdity",
+            "ego",
+            "failure",
+            "identity",
+            "professional-life"
+          ],
+          "plot_and_concepts": [
+            "satire",
+            "surrealism",
+            "black-comedy",
+            "ensemble-cast",
+            "workplace-comedy"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "absurdist",
+            "quirky",
+            "satirical"
+          ],
+          "genre_and_tropes": [
+            "british-comedy",
+            "sitcom",
+            "workplace-comedy"
+          ],
+          "setting": [
+            "london-city",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "eccentric-protagonist",
+            "flawed-hero",
+            "struggling-artist"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "theatre-stage",
+            "acting-audition",
+            "agent-office",
+            "london-apartment"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Toast of London is a darkly comic British sitcom that satirizes the absurdities of the entertainment industry through the misadventures of a flawed and eccentric actor chasing fame and fortune in London."
+      },
+      "duration_seconds": 62.46610641479492
+    }
+  }
+}

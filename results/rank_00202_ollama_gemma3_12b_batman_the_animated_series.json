@@ -1,0 +1,88 @@
+{
+  "input_data": {
+    "title": "Batman: The Animated Series",
+    "overview": "Vowing to avenge the murder of his parents, Bruce Wayne devotes his life to wiping out crime in Gotham City as the masked vigilante \"Batman\".",
+    "genres": [
+      "Action & Adventure",
+      "Animation",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 1992,
+    "vote_count": 1392
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Batman: The Animated Series is a critically acclaimed dark and stylized adaptation of the Batman mythos, blending action, mystery, and psychological drama within a neo-noir aesthetic. The series explores themes of justice, vengeance, and the duality of good and evil, presenting a mature and complex portrayal of Gotham City and its inhabitants. It distinguishes itself through its distinctive art deco-inspired animation, compelling voice acting, and sophisticated storytelling that appeals to both children and adults. The show delves into the psychological motivations of Batman and his rogues' gallery, offering a nuanced exploration of their inner demons and the societal forces that shape them.",
+        "spoiler_rich_plot_summary": "The series begins with Bruce Wayne, a young man haunted by the murder of his parents, dedicating his life to fighting crime as Batman. He operates in the corrupt and crime-ridden city of Gotham, confronting a colorful cast of villains including the Joker, Penguin, Harley Quinn, and Poison Ivy. Throughout the series, Batman grapples with his own inner demons and the moral complexities of his mission, often questioning the effectiveness of his methods. Recurring storylines involve the rise and fall of various criminal organizations, the exploration of Batman’s origins and training, and the development of his relationships with allies like Commissioner Gordon and Alfred Pennyworth. The Joker consistently poses the greatest threat, embodying chaos and challenging Batman's sense of order. As the series progresses, Batman confronts deeper conspiracies and uncovers secrets about his family's past, further complicating his fight against the darkness consuming Gotham. While he achieves numerous victories, the underlying corruption and cyclical nature of crime demonstrate the ongoing struggle for justice in the city.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "vengeance",
+            "good-vs-evil",
+            "corruption",
+            "moral-ambiguity",
+            "loss-and-grief",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "crime-fighting",
+            "detective-work",
+            "rogues-gallery",
+            "origin-story",
+            "detective-noir",
+            "psychological-thriller"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "gritty",
+            "neo-noir",
+            "suspenseful",
+            "atmospheric"
+          ],
+          "genre_and_tropes": [
+            "superhero-action",
+            "detective-procedural",
+            "animated-series",
+            "comic-book-adaptation"
+          ],
+          "setting": [
+            "gotham-city",
+            "modern-day",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "vigilante",
+            "detective",
+            "anti-hero",
+            "mentor",
+            "criminal-mastermind"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format",
+            "character-driven"
+          ],
+          "target_audience": [
+            "young-adult",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "bat-signal",
+            "batmobile",
+            "wayne-manor",
+            "gotham-city-skyline",
+            "joker-laugh"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "psychological-themes"
+          ]
+        },
+        "keyword_sentence": "Batman: The Animated Series is a dark and atmospheric superhero action series set in the corrupt city of Gotham, exploring themes of justice, vengeance, and the psychological toll of fighting crime."
+      },
+      "duration_seconds": 67.16691160202026
+    }
+  }
+}

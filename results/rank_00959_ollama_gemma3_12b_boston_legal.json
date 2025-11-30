@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Boston Legal",
+    "overview": "Alan Shore and Denny Crane lead a brigade of high-priced civil litigators in an upscale Boston law firm in a series focusing on the professional and personal lives of brilliant but often emotionally challenged attorneys. A spin-off of long-running series The Practice.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2004,
+    "vote_count": 275
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Boston Legal is a comedic drama series centered on the eccentric lawyers of Shore & Crane. The show blends sharp legal cases with quirky character interactions and a satirical look at the legal profession and societal norms. Known for its witty dialogue, unconventional storytelling, and exploration of ethical dilemmas, Boston Legal offers a blend of humor and pathos, often challenging viewers to consider complex moral questions alongside the characters. The series emphasizes the importance of human connection and the pursuit of justice, even when faced with personal and professional setbacks.",
+        "spoiler_rich_plot_summary": "The series begins with Alan Shore and Denny Crane, two legendary lawyers, leading their firm through a series of high-profile cases. Early seasons establish the firm's unconventional approach to law and the complex relationships within the team, particularly the dynamic between Alan and his protégé, Rebecca Washington. Denny Crane's increasingly erratic behavior and declining health become a recurring plotline, impacting the firm's stability and Alan's personal life. Throughout the series, the lawyers tackle diverse cases, ranging from corporate malfeasance to wrongful convictions, often pushing the boundaries of legal ethics. Relationships evolve and shift, with romances blossoming and betrayals surfacing, creating a constant undercurrent of emotional complexity. As the series progresses, the firm faces financial challenges and internal conflicts, forcing the lawyers to confront their own vulnerabilities and make difficult choices about the future of their practice. The final seasons see the firm navigating a merger and dealing with the consequences of past decisions, ultimately leading to a poignant farewell for the beloved characters.",
+        "categorized_keywords": {
+          "themes": [
+            "justice-system",
+            "ethics",
+            "family-founding",
+            "redemption",
+            "professional-integrity",
+            "social-commentary"
+          ],
+          "plot_and_concepts": [
+            "legal-drama",
+            "courtroom-drama",
+            "spin-off-series",
+            "mergers-and-acquisitions",
+            "corporate-malpractice"
+          ],
+          "mood_and_tone": [
+            "satirical",
+            "witty",
+            "quirky",
+            "humorous",
+            "poignant"
+          ],
+          "genre_and_tropes": [
+            "legal-procedural",
+            "found-family",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "boston-massachusetts",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "eccentric-mentor",
+            "brilliant-protagonist",
+            "moral-ambiguity"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "courtroom-scene",
+            "legal-brief",
+            "law-firm-office"
+          ],
+          "maturity_and_content": [
+            "legal-themes"
+          ]
+        },
+        "keyword_sentence": "Boston Legal is a witty and poignant legal drama set in Boston, exploring themes of justice, ethics, and professional integrity through a quirky ensemble cast and satirical commentary on the legal system."
+      },
+      "duration_seconds": 60.59598922729492
+    }
+  }
+}

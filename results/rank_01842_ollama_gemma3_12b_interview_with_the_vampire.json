@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Interview with the Vampire",
+    "overview": "Louis de Pointe’s epic story of love, blood, and the perils of immortality, as told to the journalist Daniel Molloy. Chafing at the limitations of life as a black man in 1900s New Orleans, Louis finds it impossible to resist the rakish Lestat De Lioncourt’s offer of the ultimate escape: joining him as his vampire companion.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2022,
+    "vote_count": 108
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Interview with the Vampire is a gothic drama series exploring themes of immortality, morality, and the complexities of human connection through the lens of vampire lore. The series follows Louis de Pointe’s recounting of his transformation and subsequent life alongside the charismatic and often cruel Lestat de Lioncourt, as they navigate the challenges of eternal existence and confront their own inner demons. The narrative blends historical drama with supernatural elements, creating a visually stunning and emotionally resonant exploration of identity, belonging, and the burden of immortality. The series delves into the moral ambiguities of vampirism and the enduring search for meaning in a world devoid of consequence.",
+        "spoiler_rich_plot_summary": "The series begins in the 1970s, where an elderly Louis de Pointe recounts his story to journalist Daniel Molloy. Louis’s narrative transports the audience back to 1900s New Orleans, where he is a young black man struggling with the limitations of his life. He is seduced by the alluring and manipulative Lestat de Lioncourt, who transforms him into a vampire. Together, Louis and Lestat embark on a journey of hedonism and violence, exploring the world and indulging in their newfound power. Their relationship is fraught with tension and conflict, as Louis grapples with the moral implications of his existence and Lestat revels in his freedom. They encounter other vampires and navigate the intricate politics of the vampire world, facing dangers and betrayals along the way. As Louis’s story unfolds, he confronts his past and the choices that led him to immortality, ultimately questioning the true meaning of his eternal life and the nature of his bond with Lestat.",
+        "categorized_keywords": {
+          "themes": [
+            "immortality",
+            "morality",
+            "identity-quest",
+            "love",
+            "loss",
+            "redemption",
+            "social-inequality",
+            "existentialism"
+          ],
+          "plot_and_concepts": [
+            "vampire-politics",
+            "coming-of-age",
+            "told-through-interview",
+            "revenge",
+            "supernatural-transformation"
+          ],
+          "mood_and_tone": [
+            "gothic",
+            "dark",
+            "melancholy",
+            "atmospheric",
+            "brooding"
+          ],
+          "genre_and_tropes": [
+            "gothic-horror",
+            "historical-drama",
+            "supernatural-fiction",
+            "coming-of-age-story"
+          ],
+          "setting": [
+            "new-orleans",
+            "early-20th-century",
+            "1970s"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "tragic-hero",
+            "manipulative-villain",
+            "reluctant-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "flashback-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "vampire-fangs",
+            "old-manor",
+            "interview-setting",
+            "black-and-white-photos"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "sexual-content",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "Interview with the Vampire is a darkly atmospheric gothic drama series exploring themes of immortality and morality through the lens of a tragic vampire’s journey through early 20th-century New Orleans and beyond."
+      },
+      "duration_seconds": 71.78975677490234
+    }
+  }
+}

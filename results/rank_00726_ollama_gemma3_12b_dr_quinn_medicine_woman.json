@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Dr. Quinn, Medicine Woman",
+    "overview": "Dr. Michaela Quinn journeys to Colorado Springs to be the town's physician after her father's death in 1868.",
+    "genres": [
+      "Western",
+      "Drama"
+    ],
+    "release_year": 1993,
+    "vote_count": 388
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Dr. Quinn, Medicine Woman is a historical drama series set in the American West, following a woman who defies societal expectations to practice medicine in a frontier town. The show explores themes of female empowerment, cultural clashes between settlers and Native Americans, and the challenges of establishing a medical practice in a remote and often hostile environment. It blends elements of Western adventure with a focus on character development and interpersonal relationships, offering a generally optimistic and heartwarming portrayal of community building and personal growth amidst historical adversity. The series balances medical drama with romantic subplots and explores the complexities of frontier life.",
+        "spoiler_rich_plot_summary": "The series begins with Michaela Quinn, a young woman from New York, traveling west to Colorado Springs after her father's death. Initially met with skepticism and resistance from the townspeople, she gradually earns their trust through her medical skills and compassionate nature. Throughout the series, Michaela faces numerous challenges, including conflicts with local authorities, prejudice against women in medicine, and the complexities of treating patients with limited resources. Romantic relationships develop, notably with Byron Sully, a former Confederate soldier, and Samuel Snow, the town’s beloved mountain man. The show explores the evolving relationship between the settlers and the Cheyenne people, with Michaela often acting as a bridge between the two cultures. Over time, Michaela establishes a thriving medical practice and becomes a respected member of the community, while also confronting personal tragedies and navigating the changing landscape of the American West. The series culminates in Michaela finding a lasting sense of belonging and purpose, having significantly impacted the lives of those around her and leaving a legacy of healing and understanding.",
+        "categorized_keywords": {
+          "themes": [
+            "female-empowerment",
+            "cultural-clash",
+            "frontier-life",
+            "medical-ethics",
+            "community-building",
+            "personal-growth",
+            "settler-native-relations"
+          ],
+          "plot_and_concepts": [
+            "historical-drama",
+            "medical-drama",
+            "frontier-medicine",
+            "romantic-relationships",
+            "settlement-building"
+          ],
+          "mood_and_tone": [
+            "heartwarming",
+            "optimistic",
+            "nostalgic",
+            "sentimental"
+          ],
+          "genre_and_tropes": [
+            "western",
+            "historical-fiction",
+            "medical-procedural",
+            "small-town-drama"
+          ],
+          "setting": [
+            "american-west",
+            "colorado-springs",
+            "19th-century",
+            "frontier-town"
+          ],
+          "character_archetypes": [
+            "strong-female-lead",
+            "frontier-physician",
+            "confederate-soldier",
+            "mountain-man",
+            "town-doctor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "horse-drawn-carriage",
+            "medical-bag",
+            "general-store",
+            "saloon",
+            "covered-wagon"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Set in the American West during the 19th century, Dr. Quinn, Medicine Woman is a heartwarming and optimistic drama exploring themes of female empowerment and cultural understanding as a strong-willed physician builds a life and medical practice in a frontier town."
+      },
+      "duration_seconds": 63.51723027229309
+    }
+  }
+}

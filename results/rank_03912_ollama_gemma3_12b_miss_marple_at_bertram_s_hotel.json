@@ -1,0 +1,70 @@
+{
+  "input_data": {
+    "title": "Miss Marple: At Bertram's Hotel",
+    "overview": "There's a murder at the elegant hotel where Miss Marple is staying and international adventurer Bess Sedgwick is the prime suspect.",
+    "genres": [
+      "Crime",
+      "Mystery"
+    ],
+    "release_year": 1987,
+    "vote_count": 29
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Miss Marple: At Bertram's Hotel is a classic British mystery, characteristic of Agatha Christie's style, blending a seemingly idyllic setting with underlying tensions and a complex web of suspects. The series offers a gentle, observant tone, relying on clever plotting and character interaction rather than action or suspense. It explores themes of deception, social class, and the dangers of appearances, all while maintaining a comforting and familiar atmosphere. The narrative unfolds through Miss Marple's astute observations and subtle deductions, inviting the viewer to play along and unravel the truth.",
+        "spoiler_rich_plot_summary": "The story begins with Miss Marple staying at Bertram's Hotel, a luxurious establishment with a storied past. Shortly after her arrival, a guest is found murdered, and suspicion immediately falls on Bess Sedgwick, an adventurous woman with a mysterious background. Miss Marple, recognizing parallels between the hotel murder and a past tragedy in her village, begins to investigate. She discovers that the hotel staff and guests are not who they seem, and that a criminal organization is using Bertram's as a front for their operations. Through careful observation and subtle questioning, Miss Marple uncovers a conspiracy involving stolen jewels and a network of deceit. The true killer is revealed to be someone unexpected, motivated by greed and a desire to protect a long-held secret. The resolution sees justice served, and the criminal enterprise exposed, restoring order and revealing the fragility of appearances.",
+        "categorized_keywords": {
+          "themes": [
+            "deception",
+            "social-class",
+            "appearances",
+            "justice",
+            "secrets",
+            "greed"
+          ],
+          "plot_and_concepts": [
+            "crime-investigation",
+            "hotel-mystery",
+            "conspiracy",
+            "stolen-jewels"
+          ],
+          "mood_and_tone": [
+            "gentle",
+            "observant",
+            "comforting",
+            "classic"
+          ],
+          "genre_and_tropes": [
+            "british-mystery",
+            "whodunit",
+            "cozy-mystery"
+          ],
+          "setting": [
+            "england",
+            "hotel"
+          ],
+          "character_archetypes": [
+            "amateur-detective",
+            "eccentric-villain"
+          ],
+          "narrative_style": [
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "hotel-lobby",
+            "secret-passageway",
+            "antique-jewelry",
+            "hotel-registration-desk"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "A gentle British mystery unfolds at a luxurious hotel, where Miss Marple investigates a crime rooted in deception and greed, revealing the fragility of appearances and the complexities of social class."
+      },
+      "duration_seconds": 71.34526014328003
+    }
+  }
+}

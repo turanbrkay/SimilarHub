@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Scream Queens",
+    "overview": "The super-charged comedy-horror series is a modern take on the classic whodunit with a killer cast. ",
+    "genres": [
+      "Mystery",
+      "Crime",
+      "Comedy"
+    ],
+    "release_year": 2015,
+    "vote_count": 1609
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Scream Queens is a darkly comedic horror anthology series that blends slasher tropes with satirical commentary on American institutions. Each season features a new cast of characters and a fresh setting, typically a hospital, college, or other public space, as they are terrorized by a mysterious killer. The show utilizes over-the-top performances, sharp wit, and social satire to create a unique and often gruesome viewing experience, playing with audience expectations of the horror genre while delivering a darkly humorous exploration of societal anxieties.",
+        "spoiler_rich_plot_summary": "The first season of Scream Queens is set at Wallace University, where a series of murders are linked to a tragic event from the sisters Chanelle and Zoi’s past. Dean Cathy Munsch attempts to maintain order as the body count rises, while a group of sorority girls, including pledge Gigi, struggle to survive. The killer is revealed to be Grace Adler, whose mother was killed in a tragic bus accident orchestrated by Dean Munsch years prior. The second season shifts the setting to a hospital, where a new wave of killings plagues the staff and patients. The sisters Chanelle and Zoi are back, along with Dean Munsch, as they confront a new threat connected to their past. The killer is revealed to be Jessica, a patient seeking revenge for her mother’s death. The series concludes with a final confrontation, tying together the various storylines and revealing the full extent of the characters' interconnected histories, leaving a legacy of chaos and dark humor.",
+        "categorized_keywords": {
+          "themes": [
+            "revenge",
+            "grief",
+            "social-commentary",
+            "female-empowerment",
+            "institutional-corruption",
+            "dark-humor"
+          ],
+          "plot_and_concepts": [
+            "slasher-horror",
+            "whodunit",
+            "mystery-series",
+            "serial-killer",
+            "revenge-plot"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "suspenseful",
+            "campy",
+            "gory"
+          ],
+          "genre_and_tropes": [
+            "horror-comedy",
+            "anthology-series",
+            "slasher-film",
+            "satire"
+          ],
+          "setting": [
+            "university-campus",
+            "hospital-setting",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "anti-heroine",
+            "eccentric-villain",
+            "sorority-girl",
+            "corrupt-dean"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "mystery-progression"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "blood-splatter",
+            "hospital-gown",
+            "sorority-house",
+            "exam-room",
+            "killer-mask"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "sexual-content",
+            "gore"
+          ]
+        },
+        "keyword_sentence": "Scream Queens is a darkly comedic anthology series that blends slasher horror with sharp satire, set in various institutions as a group of characters confront a mysterious killer and grapple with themes of revenge and social commentary."
+      },
+      "duration_seconds": 64.39783716201782
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "The Waltons",
+    "overview": "The Waltons live their life in a rural Virginia community during the Great Depression and World War II.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 1972,
+    "vote_count": 76
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Waltons is a heartwarming family drama series set in rural Virginia during the tumultuous years of the Great Depression and World War II. The show explores the challenges and triumphs of a large, close-knit family as they navigate economic hardship, social change, and personal growth. With a focus on traditional values, resilience, and the importance of community, The Waltons offers a nostalgic and sentimental portrayal of American life during a pivotal era. The series emphasizes the strength of familial bonds and the enduring spirit of hope in the face of adversity, appealing to audiences seeking comfort and a sense of shared history.",
+        "spoiler_rich_plot_summary": "The series begins in 1933, introducing the Walton family and their struggles to make ends meet on their mountain farm during the Great Depression. John Walton, a hardworking and resourceful man, and his wife, Olivia, a loving and compassionate woman, raise their seven children – John-Boy, Erin, Elizabeth, Jessie, Ben, Mary Ellen, and Jim-Bob – with a strong sense of morality and a deep appreciation for family. As the series progresses, the children mature and pursue their individual dreams, facing challenges such as attending school, finding love, and dealing with the anxieties of wartime. The family experiences both joy and sorrow, including the loss of loved ones and the struggles of adapting to changing social norms. The narrative follows the children as they grow into adulthood, each finding their place in the world while maintaining the strong foundation of family that has always sustained them. The series culminates with the family reflecting on the years passed, celebrating their enduring bonds and the lessons learned throughout their shared experiences, showcasing the resilience and enduring spirit of the American heartland.",
+        "categorized_keywords": {
+          "themes": [
+            "family-values",
+            "rural-life",
+            "economic-hardship",
+            "wartime-anxiety",
+            "personal-growth",
+            "faith-and-hope",
+            "small-town-community"
+          ],
+          "plot_and_concepts": [
+            "coming-of-age",
+            "historical-drama",
+            "family-saga",
+            "wartime-experience"
+          ],
+          "mood_and_tone": [
+            "heartwarming",
+            "nostalgic",
+            "sentimental",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "family-drama",
+            "historical-fiction",
+            "small-town-life"
+          ],
+          "setting": [
+            "rural-virginia",
+            "1930s",
+            "1940s",
+            "great-depression"
+          ],
+          "character_archetypes": [
+            "patriarch",
+            "matriarch",
+            "dutiful-son",
+            "spirited-daughter",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "mountain-farm",
+            "one-room-schoolhouse",
+            "family-dinner",
+            "radio-broadcast"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Set against the backdrop of the Great Depression and World War II, The Waltons is a heartwarming family drama exploring themes of resilience, faith, and the enduring strength of rural American life."
+      },
+      "duration_seconds": 69.16971802711487
+    }
+  }
+}

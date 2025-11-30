@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Truth Be Told",
+    "overview": "Descend into the world of true-crime podcasts with Poppy Parnell, who risks everything—including her life—to pursue truth and justice.",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2019,
+    "vote_count": 164
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Truth Be Told is a drama series that explores the complexities of the true-crime genre and its impact on individuals and the justice system. The show centers on a successful podcast host who re-examines a convicted murderer's case, leading her down a path of moral ambiguity and personal risk. It blends elements of mystery, suspense, and legal drama, offering a nuanced perspective on the ethics of storytelling and the potential for both redemption and devastating consequences. The series delves into themes of guilt, forgiveness, and the subjective nature of truth, challenging viewers to question their own biases and assumptions.",
+        "spoiler_rich_plot_summary": "The series begins with Poppy Parnell, a popular true-crime podcast host, re-examining the case of Karl Elion, a man convicted of murdering Susie Miller. Initially believing in Elion’s guilt, Poppy’s investigation uncovers inconsistencies and raises doubts about his conviction. As she delves deeper, she faces pressure from her producer, Micah, and her own personal demons, including a troubled relationship with her mother. Karl Elion is released from prison, and Poppy finds herself increasingly entangled in his life and the lives of those connected to the original crime. The investigation reveals a web of secrets and lies, implicating various individuals and challenging Poppy’s understanding of justice. Subsequent seasons explore new cases and further complicate Poppy’s moral compass, forcing her to confront the potential harm her podcast can inflict and the blurred lines between truth and manipulation. The series culminates in Poppy grappling with the consequences of her actions and the realization that the pursuit of truth can be a dangerous and unpredictable journey.",
+        "categorized_keywords": {
+          "themes": [
+            "true-crime",
+            "justice",
+            "redemption",
+            "moral-ambiguity",
+            "guilt",
+            "forgiveness",
+            "truth-seeking",
+            "ethics"
+          ],
+          "plot_and_concepts": [
+            "podcast-narrative",
+            "wrongful-conviction",
+            "investigative-journalism",
+            "serial-killer",
+            "legal-drama"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "intense",
+            "thought-provoking"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "mystery",
+            "legal-thriller"
+          ],
+          "setting": [
+            "modern-day",
+            "los-angeles"
+          ],
+          "character_archetypes": [
+            "investigative-journalist",
+            "anti-hero",
+            "wrongfully-convicted"
+          ],
+          "narrative_style": [
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "podcast-recording",
+            "courtroom-scene",
+            "police-interview",
+            "prison-cell"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "abuse-themes"
+          ]
+        },
+        "keyword_sentence": "Truth Be Told is a suspenseful drama series that explores the complexities of the true-crime genre, delving into themes of justice, guilt, and redemption through the lens of an investigative journalist navigating a morally ambiguous world."
+      },
+      "duration_seconds": 64.22496747970581
+    }
+  }
+}

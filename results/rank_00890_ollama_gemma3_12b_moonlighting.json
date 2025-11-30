@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Moonlighting",
+    "overview": "After being duped and going bankrupt, model Maddie is convinced by David to become a partner in a detective agency. Together they solve various cases, while getting comfortable with each other.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 1985,
+    "vote_count": 298
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Moonlighting is a quirky, comedic drama that blends detective procedural elements with a sharp, witty romantic tension between its leads. The series follows a former model and a wisecracking detective as they reluctantly partner to solve cases, navigating both professional challenges and a complex, evolving relationship. Known for its fast-paced dialogue, stylish visuals, and unconventional tone, Moonlighting offers a unique blend of humor, mystery, and character-driven storytelling, establishing a distinctive style that influenced many subsequent television shows.",
+        "spoiler_rich_plot_summary": "The series begins with Madeline Hayes, a successful model, losing her fortune due to a business scam. Desperate for income, she reluctantly agrees to partner with David Addison, a charming but struggling private investigator. Their initial dynamic is fraught with bickering and professional clashes, as Madeline’s high-fashion sensibilities clash with David’s more down-to-earth approach to detective work. As they solve various cases, their relationship slowly evolves, marked by playful banter and undeniable chemistry. Throughout the series, they encounter a range of clients and criminals, each case presenting new challenges and opportunities for both professional and personal growth. While their partnership is the core of the show, the underlying romantic tension between Madeline and David remains a central narrative thread, constantly shifting between flirtation, frustration, and genuine affection. The series explores themes of second chances, professional redemption, and the complexities of human connection, all while maintaining a lighthearted and entertaining tone.",
+        "categorized_keywords": {
+          "themes": [
+            "redemption",
+            "second-chances",
+            "professional-growth",
+            "romantic-tension",
+            "partnership",
+            "class-conflict"
+          ],
+          "plot_and_concepts": [
+            "detective-procedural",
+            "mystery",
+            "crime-solving",
+            "business-scam",
+            "partnership-dynamic"
+          ],
+          "mood_and_tone": [
+            "witty",
+            "quirky",
+            "lighthearted",
+            "comedic",
+            "stylish"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "romantic-comedy",
+            "buddy-cop",
+            "fish-out-of-water"
+          ],
+          "setting": [
+            "1980s",
+            "modern-city",
+            "fashion-industry"
+          ],
+          "character_archetypes": [
+            "former-model",
+            "wisecracking-detective",
+            "reluctant-partner",
+            "charming-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "case-of-the-week"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "detective-agency",
+            "fashion-shoot",
+            "crime-scene",
+            "business-deal"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Moonlighting is a witty and stylish 1980s crime procedural that blends comedic elements with a charming romantic tension between a former model and a wisecracking detective as they navigate a detective agency and solve mysteries."
+      },
+      "duration_seconds": 59.742159366607666
+    }
+  }
+}

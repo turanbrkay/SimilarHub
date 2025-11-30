@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "Call Me Kat",
+    "overview": "Kat is a woman who struggles every day against society and her mother to prove that she can still live a happy and fulfilling life despite still being single at 39. Which is why she recently spent her entire savings to open a cat café in Louisville, Kentucky.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2021,
+    "vote_count": 45
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Call Me Kat is a lighthearted comedy series centered on a woman who defies societal expectations and her mother's wishes by opening a cat café. The show explores themes of self-discovery, female independence, and found family, blending quirky humor with heartwarming moments. It offers a feel-good viewing experience, focusing on personal growth and embracing unconventional life choices. The series utilizes a sitcom format with a focus on character-driven comedy and relatable struggles.",
+        "spoiler_rich_plot_summary": "The series begins with Kat, a recently laid-off marketing executive, deciding to open a cat café in Louisville, Kentucky, despite her mother's disapproval and the skepticism of her friends. She struggles to navigate the challenges of entrepreneurship, including financial difficulties, unexpected repairs, and the complexities of caring for a large number of cats. Throughout the series, Kat's relationships with her friends, including her best friend Max and her neighbor Rand, evolve as she confronts her own insecurities and learns to embrace her unconventional path. Recurring plotlines involve her attempts to find love, her ongoing clashes with her mother, and the humorous antics of the café's feline residents. While facing setbacks and moments of doubt, Kat ultimately finds a sense of purpose and belonging within her community and the quirky world of her cat café, demonstrating resilience and a commitment to living life on her own terms.",
+        "categorized_keywords": {
+          "themes": [
+            "female-independence",
+            "self-discovery",
+            "found-family",
+            "nonconformity",
+            "personal-growth",
+            "mother-daughter-relationship"
+          ],
+          "plot_and_concepts": [
+            "cat-cafe",
+            "small-business-struggles",
+            "romantic-comedy",
+            "sitcom-format"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "quirky",
+            "feel-good"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "romantic-comedy",
+            "female-led-comedy"
+          ],
+          "setting": [
+            "louisville-kentucky",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "quirky-protagonist",
+            "supportive-friend",
+            "overbearing-mother"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "cat-cafe-interior",
+            "cat-toys",
+            "mother-daughter-clashes"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Call Me Kat is a lighthearted and feel-good sitcom centered on a quirky woman who embraces female independence and self-discovery by opening a cat café in Louisville, Kentucky."
+      },
+      "duration_seconds": 58.805222272872925
+    }
+  }
+}

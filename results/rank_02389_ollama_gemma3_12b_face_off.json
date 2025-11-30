@@ -1,0 +1,69 @@
+{
+  "input_data": {
+    "title": "Face Off",
+    "overview": "In this competition/elimination series, special effects make-up artists participate in elaborate challenges for a grand prize and the honor of being Hollywood's next great effects artist.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2011,
+    "vote_count": 72
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Face Off is a reality competition series showcasing the extraordinary talents of special effects makeup artists. Each episode presents artists with unique and demanding challenges, pushing their creativity and technical skills to the limit. The series blends artistic expression with intense competition, highlighting the dedication and artistry required to create stunning visual effects for film and television. It offers a behind-the-scenes look at the world of special effects, celebrating innovation and craftsmanship while fostering a supportive, albeit competitive, community among the contestants.",
+        "spoiler_rich_plot_summary": "The series follows a group of aspiring special effects makeup artists who compete in weekly challenges designed to test their skills in various areas, such as creature design, prosthetic application, and character transformation. Each challenge is themed, often drawing inspiration from popular films, television shows, or mythical creatures. Throughout the competition, artists are judged by a panel of industry professionals, who evaluate their creations based on originality, technical execution, and adherence to the challenge's brief. As the competition progresses, artists are eliminated each week, culminating in a final showdown between the remaining contestants. The winner receives a grand prize, including a significant cash reward and the opportunity to advance their career in the special effects industry. While the competition is fierce, a sense of camaraderie and mutual respect often develops among the artists, as they learn from each other and support each other's growth.",
+        "categorized_keywords": {
+          "themes": [
+            "artistic-expression",
+            "competition",
+            "craftsmanship",
+            "innovation",
+            "dedication"
+          ],
+          "plot_and_concepts": [
+            "elimination-challenge",
+            "prosthetic-application",
+            "character-transformation",
+            "creature-design"
+          ],
+          "mood_and_tone": [
+            "creative",
+            "intense",
+            "supportive",
+            "competitive"
+          ],
+          "genre_and_tropes": [
+            "reality-competition",
+            "make-up-artistry"
+          ],
+          "setting": [
+            "film-industry",
+            "television-production"
+          ],
+          "character_archetypes": [
+            "aspiring-artist",
+            "industry-mentor"
+          ],
+          "narrative_style": [
+            "elimination-format",
+            "weekly-challenge"
+          ],
+          "target_audience": [
+            "art-enthusiasts",
+            "film-fans"
+          ],
+          "detail_plot": [
+            "prosthetic-sculpting",
+            "character-makeup",
+            "creature-effects",
+            "challenge-brief"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Face Off is a reality competition series showcasing the artistry and innovation of aspiring special effects makeup artists as they tackle weekly challenges within the film and television industry."
+      },
+      "duration_seconds": 55.275449991226196
+    }
+  }
+}

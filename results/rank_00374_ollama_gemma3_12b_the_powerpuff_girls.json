@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "The Powerpuff Girls",
+    "overview": "The Powerpuff Girls is a animated television series about Blossom, Bubbles, and Buttercup, three kindergarten-aged girls with superpowers, as well as their \"father\", the brainy scientist Professor Utonium, who all live in the fictional city of Townsville, USA. The girls are frequently called upon by the town's childlike and naive mayor to help fight nearby criminals using their powers.",
+    "genres": [
+      "Action & Adventure",
+      "Animation",
+      "Comedy",
+      "Kids"
+    ],
+    "release_year": 1998,
+    "vote_count": 812
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Powerpuff Girls is a vibrant and comedic animated series centered on three super-powered sisters who protect their city from a colorful array of villains. The show blends action, humor, and a touch of heart, exploring themes of responsibility, teamwork, and the challenges of growing up, even with extraordinary abilities. Its unique visual style and quirky characters have made it a beloved classic for audiences of all ages, offering a lighthearted yet empowering narrative about fighting for what's right.",
+        "spoiler_rich_plot_summary": "The series begins with Professor Utonium accidentally creating Blossom, Bubbles, and Buttercup while attempting to create the perfect little girl. Endowed with incredible superpowers, the girls quickly become Townsville's first line of defense against a bizarre cast of villains, including Mojo Jojo, Him, and the Gangreen Gang. Throughout the series, the girls face increasingly complex threats, learning to rely on each other and their father's guidance. Recurring conflicts involve Mojo Jojo's schemes to conquer Townsville and the girls' attempts to balance their superhero duties with the everyday challenges of childhood, such as school and friendships. While the girls consistently thwart their enemies, the underlying mystery of their creation and the constant threat of new villains keep the narrative engaging, culminating in ongoing battles for the safety of their city and the preservation of their unique bond.",
+        "categorized_keywords": {
+          "themes": [
+            "superheroism",
+            "family-bond",
+            "responsibility",
+            "good-vs-evil",
+            "childhood",
+            "teamwork"
+          ],
+          "plot_and_concepts": [
+            "superpowers",
+            "monster-of-the-week",
+            "villain-origin",
+            "accidental-creation"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "comedic",
+            "action-packed",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "animated-comedy",
+            "superhero-action",
+            "found-family",
+            "childrens-show"
+          ],
+          "setting": [
+            "townsville-usa",
+            "fictional-city",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "superhero",
+            "mad-scientist",
+            "villain",
+            "child-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "powerpuff-girls-uniforms",
+            "mojo-jojos-lair",
+            "professor-utoniums-lab",
+            "townsville-mayor"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Powerpuff Girls is a lighthearted animated series about three superhero sisters who protect their city with humor and action, exploring themes of family, responsibility, and the challenges of childhood in a vibrant and comedic world."
+      },
+      "duration_seconds": 58.27958583831787
+    }
+  }
+}

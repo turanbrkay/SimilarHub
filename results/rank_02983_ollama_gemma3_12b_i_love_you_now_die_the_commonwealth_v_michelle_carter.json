@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "I Love You, Now Die: The Commonwealth v. Michelle Carter",
+    "overview": "Teen Michelle Carter’s actions shocked a nation — but what really happened behind closed doors?",
+    "genres": [
+      "Documentary",
+      "Crime"
+    ],
+    "release_year": 2019,
+    "vote_count": 48
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "I Love You, Now Die: The Commonwealth v. Michelle Carter is a documentary series that delves into the controversial case of Michelle Carter, a teenager convicted of involuntary manslaughter for encouraging her boyfriend's suicide through text messages. The series explores the legal and ethical complexities of the case, examining the role of technology in mental health and the boundaries of responsibility. Through interviews with legal professionals, family members, and those involved in the case, the documentary aims to provide a nuanced perspective on a deeply unsettling event, raising questions about culpability, grief, and the impact of social media.",
+        "spoiler_rich_plot_summary": "The documentary chronicles the tragic story of Conrad Roy III, who died by suicide, and Michelle Carter, his girlfriend, who was later charged with involuntary manslaughter for her role in the events leading up to his death. The series details Conrad's struggles with depression and previous suicide attempts, and how he began communicating with Michelle via text message. Michelle initially offered support but gradually began encouraging Conrad's suicidal thoughts, providing him with methods and reassurance. Following Conrad's death, Michelle initially expressed condolences but later deleted text messages related to the event. An investigation uncovered the disturbing exchange of texts, leading to Michelle's arrest and subsequent trial. The trial itself became a media sensation, raising complex legal questions about whether encouraging suicide constitutes criminal behavior. Michelle was ultimately convicted and sentenced to probation, a decision that sparked widespread debate and controversy.",
+        "categorized_keywords": {
+          "themes": [
+            "mental-health",
+            "suicide",
+            "grief",
+            "responsibility",
+            "legal-ethics",
+            "social-media",
+            "teen-relationships"
+          ],
+          "plot_and_concepts": [
+            "text-messaging",
+            "involuntary-manslaughter",
+            "courtroom-drama",
+            "true-crime"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "disturbing",
+            "unsettling",
+            "reflective"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "true-crime",
+            "legal-thriller"
+          ],
+          "setting": [
+            "massachusetts",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "victim",
+            "defendant",
+            "legal-professional"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "investigative-journalism"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "text-messages",
+            "courtroom",
+            "police-investigation"
+          ],
+          "maturity_and_content": [
+            "suicide",
+            "depression",
+            "graphic-content"
+          ]
+        },
+        "keyword_sentence": "This somber documentary series explores the legal and ethical complexities of a true-crime case involving text messaging, depression, and the responsibility of a teenager in the tragic death of her boyfriend."
+      },
+      "duration_seconds": 53.480467796325684
+    }
+  }
+}

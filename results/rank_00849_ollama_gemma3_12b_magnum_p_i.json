@@ -1,0 +1,85 @@
+{
+  "input_data": {
+    "title": "Magnum, P.I.",
+    "overview": "A private investigator who works when he wants, lives in a beachfront estate in Hawaii, drives a posh Ferrari, runs up an unlimited tab at a swank bar, and charms attractive women in peril - that's the lifestyle of Thomas Magnum, aka Magnum, P.I.",
+    "genres": [
+      "Action & Adventure",
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 1980,
+    "vote_count": 316
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Magnum, P.I. is a classic action-adventure series centered around a charming private investigator operating in the beautiful Hawaiian Islands. The show blends elements of crime procedural, mystery, and lighthearted comedy, creating a breezy and escapist viewing experience. Magnum's unconventional lifestyle and his complex relationship with the estate owner Robin Masters, along with his interactions with his fellow Marines-turned-security team, drive the narrative. The series offers a mix of intriguing cases and character-driven moments, all set against the backdrop of a tropical paradise.",
+        "spoiler_rich_plot_summary": "The series begins with Thomas Magnum accepting a job from the enigmatic Robin Masters to act as the security manager for his Hawaiian estate. Magnum's primary task is to locate Masters' missing manuscripts, which often leads him into a series of investigations involving local crime, political intrigue, and dangerous adversaries. Throughout the series, Magnum navigates a web of mysteries, frequently encountering recurring villains and uncovering secrets about Masters' past. He develops close bonds with his fellow Marines – Rick Wright, TC Beanes, and Orville 'Mac' MacIntyre – who provide support and camaraderie. Magnum's personal life is complicated by his ongoing search for his friend’s killer, a case that continues to haunt him and drive his actions. While Magnum enjoys a luxurious lifestyle, he grapples with a sense of responsibility and a desire to help those in need, often finding himself embroiled in situations far more complex than simple security matters. The series explores themes of friendship, loyalty, and redemption, all while maintaining a lighthearted and adventurous tone.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "loyalty",
+            "redemption",
+            "justice",
+            "mystery",
+            "adventure"
+          ],
+          "plot_and_concepts": [
+            "private-investigation",
+            "missing-manuscript",
+            "crime-solving",
+            "mystery-solving",
+            "search-and-rescue"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "adventurous",
+            "humorous",
+            "escapist",
+            "tropical"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "crime-procedural",
+            "mystery",
+            "buddy-cop",
+            "tropical-setting"
+          ],
+          "setting": [
+            "hawaii",
+            "beachfront-estate",
+            "tropical-island",
+            "1980s"
+          ],
+          "character_archetypes": [
+            "private-eye",
+            "marine",
+            "enigmatic-employer",
+            "loyal-sidekick",
+            "charming-protagonist"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story",
+            "case-of-the-week"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "ferrari",
+            "beachfront-estate",
+            "marine-uniform",
+            "missing-manuscript",
+            "tropical-cocktail"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Set against the vibrant backdrop of Hawaii, Magnum, P.I. is a lighthearted action-adventure series following a charming private investigator and his Marine buddies as they solve mysteries and navigate a world of intrigue."
+      },
+      "duration_seconds": 65.59342503547668
+    }
+  }
+}

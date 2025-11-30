@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "The Grand Tour",
+    "overview": "Jeremy Clarkson, Richard Hammond and James May are back with a show about adventure, excitement and friendship... as long as you accept that the people you call friends are also the ones you find extremely annoying. Sometimes it's even a show about cars. Follow them on their global adventure.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2016,
+    "vote_count": 608
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Grand Tour is a travel and motoring reality series following the dynamic trio of Jeremy Clarkson, Richard Hammond, and James May. The show blends high-octane driving challenges with comedic banter and exploration of diverse locations worldwide. It retains the irreverent humor and chaotic energy of its predecessor, 'Top Gear,' while expanding its scope to encompass broader travel and adventure elements. The series offers a lighthearted and often absurd take on global exploration, driven by the personalities of its hosts and their penchant for pushing boundaries and engaging in playful rivalry.",
+        "spoiler_rich_plot_summary": "Following their departure from 'Top Gear,' Clarkson, Hammond, and May embark on a new global adventure with 'The Grand Tour.' Each episode typically features a 'Festival of Speed' segment, showcasing a unique automotive event or challenge, alongside a 'Conversation Street' segment where the hosts engage in humorous discussions with random people in various locations. They travel to numerous countries, undertaking ambitious driving challenges, often involving customized vehicles and elaborate stunts. Throughout the series, the hosts frequently engage in playful competition and comedic mishaps, highlighting their established dynamic and pushing the boundaries of automotive exploration. While the show maintains a generally lighthearted tone, it also explores cultural nuances and showcases the beauty of diverse landscapes, albeit through the lens of their often-chaotic adventures. The series concludes with a special 'Euro Tour' where they revisit locations and reflect on their journey, solidifying their bond and celebrating their shared experiences.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "adventure",
+            "travel",
+            "automotive-culture",
+            "humor",
+            "rivalry"
+          ],
+          "plot_and_concepts": [
+            "road-trip",
+            "automotive-challenge",
+            "festival-of-speed",
+            "conversation-street"
+          ],
+          "mood_and_tone": [
+            "comedic",
+            "lighthearted",
+            "chaotic",
+            "irreverent"
+          ],
+          "genre_and_tropes": [
+            "reality-tv",
+            "automotive-entertainment",
+            "travel-documentary"
+          ],
+          "setting": [
+            "global",
+            "various-countries",
+            "automotive-events"
+          ],
+          "character_archetypes": [
+            "comedic-personality",
+            "adventurer",
+            "rivals"
+          ],
+          "narrative_style": [
+            "episodic",
+            "travel-log"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "automotive-enthusiasts"
+          ],
+          "detail_plot": [
+            "customized-vehicles",
+            "automotive-stunts",
+            "festival-of-speed-events"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Grand Tour is a lighthearted reality series where three comedic personalities embark on a global adventure, blending automotive challenges with irreverent humor and showcasing diverse locations through a chaotic and entertaining travelogue."
+      },
+      "duration_seconds": 66.18136048316956
+    }
+  }
+}

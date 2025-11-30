@@ -1,0 +1,70 @@
+{
+  "input_data": {
+    "title": "This Fool",
+    "overview": "Julio Lopez has a heart of gold and goes out of his way to help everyone but himself. Julio attempts to better his community, overcome his codependency issues with his family, and navigate working-class life in South Central.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2022,
+    "vote_count": 31
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "This Fool is a comedic series centered on Julio Lopez, a well-intentioned but often misguided individual striving to improve his community and address his personal struggles. The show blends humor with poignant observations about working-class life and familial relationships in South Central Los Angeles. It explores themes of codependency, personal growth, and the challenges of navigating systemic issues with a lighthearted yet insightful approach. The series offers a relatable and often heartwarming portrayal of everyday struggles and the pursuit of a better life.",
+        "spoiler_rich_plot_summary": "The series follows Julio Lopez, a young man working as a security guard at a bank in South Central Los Angeles. He consistently attempts to assist those around him, often to his own detriment. His efforts to help his community and family are frequently complicated by his own impulsive nature and a tendency to overextend himself. Throughout the series, Julio grapples with his codependent relationship with his mother and sister, attempting to break free from patterns of enabling behavior. He encounters various characters and situations that challenge his worldview and force him to confront his own shortcomings. While striving to make a positive impact, Julio's actions often lead to unexpected consequences, creating both humorous and heartfelt moments. The series explores the complexities of working-class life and the ongoing quest for personal growth and a more fulfilling existence, leaving Julio at a crossroads as he navigates his future.",
+        "categorized_keywords": {
+          "themes": [
+            "working-class-life",
+            "family-dynamics",
+            "personal-growth",
+            "codependency",
+            "community-service",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "security-guard",
+            "small-town-life",
+            "coming-of-age",
+            "romantic-relationships"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "humorous",
+            "heartwarming",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "comedy",
+            "slice-of-life",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "south-central-los-angeles",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "well-intentioned-protagonist",
+            "family-man",
+            "reluctant-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "security-guard-uniform",
+            "family-home",
+            "bank-lobby"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "This Fool is a lighthearted comedy series set in South Central Los Angeles, exploring themes of family dynamics and personal growth through the eyes of a well-intentioned protagonist striving to improve his community."
+      },
+      "duration_seconds": 70.10184812545776
+    }
+  }
+}

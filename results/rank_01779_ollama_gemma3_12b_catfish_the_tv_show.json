@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Catfish: The TV Show",
+    "overview": "Nev and his co-hosts -- from Max to Kamie to celebrity guests -- help people in dubious online relationships track down their baes IRL so they can sort out what's fact and what's fiction.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2012,
+    "vote_count": 114
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Catfish: The TV Show explores the complexities of online relationships and the potential for deception in the digital age. The series follows Nev Schulman and his team as they investigate individuals who have formed significant connections with people they's only met online, often uncovering surprising and sometimes unsettling truths. It's a blend of investigative journalism, social commentary, and human drama, examining themes of identity, trust, and the desire for connection. The show's format relies on suspense and emotional vulnerability, offering a unique perspective on modern relationships and the risks of online interaction.",
+        "spoiler_rich_plot_summary": "Each episode of Catfish typically begins with an individual, often referred to as the 'victim,' expressing concerns about their online relationship. Nev and his team then embark on an investigation, using online clues and social media to verify the person's identity and intentions. The investigations often lead to unexpected discoveries, ranging from harmless misunderstandings to elaborate catfishing schemes involving fabricated identities and deceptive motives. The series frequently reveals that the online persona is not who they appear to be, leading to emotional confrontations and a reckoning for both the victim and the 'catfish.' While some episodes conclude with a sense of closure and understanding, others expose deeper issues of loneliness, insecurity, and the desire for validation, leaving a lasting impact on those involved. The show highlights the potential for both positive and negative outcomes when navigating online relationships, emphasizing the importance of caution and critical thinking.",
+        "categorized_keywords": {
+          "themes": [
+            "online-relationships",
+            "deception",
+            "identity",
+            "trust",
+            "catfishing",
+            "social-media",
+            "validation",
+            "loneliness"
+          ],
+          "plot_and_concepts": [
+            "investigative-journalism",
+            "online-verification",
+            "social-experiment",
+            "reveal"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "emotional",
+            "candid",
+            "vulnerable"
+          ],
+          "genre_and_tropes": [
+            "reality-tv",
+            "true-crime",
+            "social-commentary"
+          ],
+          "setting": [
+            "internet",
+            "social-media-platforms"
+          ],
+          "character_archetypes": [
+            "investigator",
+            "victim",
+            "catfish"
+          ],
+          "narrative_style": [
+            "episodic",
+            "investigative"
+          ],
+          "target_audience": [
+            "young-adults",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "online-profile",
+            "reverse-image-search",
+            "social-media-accounts",
+            "video-call"
+          ],
+          "maturity_and_content": [
+            "emotional-manipulation",
+            "deceptive-behavior"
+          ]
+        },
+        "keyword_sentence": "Catfish: The TV Show explores the emotional complexities of online relationships and the potential for deception through candid investigations into the risks and vulnerabilities of modern social media."
+      },
+      "duration_seconds": 61.951457500457764
+    }
+  }
+}

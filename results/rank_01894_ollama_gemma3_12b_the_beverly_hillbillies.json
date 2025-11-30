@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "The Beverly Hillbillies",
+    "overview": "Jed Clampett's swamp is loaded with oil. When a wildcatter discovers the huge pool, Jed sells his land to the O.K. Oil Company and at the urging of cousin Pearl, moves his family to a 35-room mansion in Beverly Hills, California.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1962,
+    "vote_count": 105
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Beverly Hillbillies is a sitcom that satirizes the clash between rural poverty and extravagant wealth. The series follows the Clampett family as they relocate from the Ozark Mountains to Beverly Hills, California, after striking oil on their land. The humor derives from their naivete and unfamiliarity with high society, creating comedic situations as they navigate a world of luxury and sophistication. The show explores themes of cultural differences, the corrupting influence of money, and the importance of family, all while maintaining a lighthearted and optimistic tone.",
+        "spoiler_rich_plot_summary": "The series begins with Jed Clampett, his wife Elly May, and his daughter Darlene (later known as Miss Jane Hathaway) living a simple life in the Ozarks. Their world is dramatically altered when oil is discovered on their property, making them incredibly wealthy. Encouraged by their cousin Pearl, they decide to move to Beverly Hills, California, where they purchase a sprawling mansion. The family's arrival causes a stir in the affluent community, and they quickly become the subject of fascination and ridicule. Throughout the series, the Clampetts encounter a variety of eccentric characters, including their housekeeper, Gladys Kravitz, and the scheming banker, Milburn Drysdale, who attempts to exploit their newfound wealth. While the family enjoys the luxuries of their new life, they remain grounded in their values and often find themselves at odds with the superficiality of Beverly Hills society. The series follows their ongoing adjustments to their new life, the challenges they face, and the humorous situations that arise from their cultural differences.",
+        "categorized_keywords": {
+          "themes": [
+            "rural-vs-urban",
+            "class-conflict",
+            "family-values",
+            "fish-out-of-water",
+            "greed",
+            "cultural-clash"
+          ],
+          "plot_and_concepts": [
+            "sudden-wealth",
+            "fish-out-of-water",
+            "sitcom-formula",
+            "social-satire"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "optimistic",
+            "wholesome",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "family-comedy",
+            "fish-out-of-water",
+            "social-satire"
+          ],
+          "setting": [
+            "ozark-mountains",
+            "beverly-hills",
+            "california",
+            "1960s"
+          ],
+          "character_archetypes": [
+            "naive-protagonist",
+            "eccentric-family",
+            "greedy-villain",
+            "wise-neighbor"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "oil-well",
+            "mansion",
+            "sheriffs-hat",
+            "swamp"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Beverly Hillbillies is a lighthearted family comedy that satirizes the clash between rural simplicity and extravagant wealth as a naive family navigates the unfamiliar world of Beverly Hills."
+      },
+      "duration_seconds": 66.66627526283264
+    }
+  }
+}

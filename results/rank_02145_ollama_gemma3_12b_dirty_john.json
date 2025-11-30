@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Dirty John",
+    "overview": "Anthology series in which each season is based on a true crime story featuring an epic tale of love gone wrong.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "release_year": 2018,
+    "vote_count": 86
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Dirty John is an anthology series exploring the dark side of relationships through the lens of true crime. Each season delves into a different story of deception, manipulation, and the devastating consequences of misplaced trust. The series blends elements of crime drama and psychological thriller, examining the vulnerabilities that allow individuals to be exploited and the complex dynamics that unfold when love and betrayal intertwine. It offers a cautionary exploration of human nature and the dangers of overlooking red flags in romantic partnerships.",
+        "spoiler_rich_plot_summary": "The first season of Dirty John centers on John Meehan, a charismatic con man who deceives Debra Newell, a successful interior designer, into a whirlwind romance and marriage. As their relationship progresses, John's manipulative and controlling behavior becomes increasingly apparent, and Debra's children and friends express serious concerns. John’s past is revealed to be riddled with lies, including multiple marriages and a history of financial fraud. He isolates Debra from her support system, manipulating her into enabling his schemes. The season culminates in a tense confrontation as Debra and her family uncover the full extent of John’s criminal activities and attempt to protect themselves from his escalating threats. Subsequent seasons follow different true crime stories, each exploring similar themes of deception and abuse within romantic relationships, showcasing the diverse ways in which individuals can be victimized and the long-lasting impact of such experiences.",
+        "categorized_keywords": {
+          "themes": [
+            "deception",
+            "manipulation",
+            "abuse",
+            "trust",
+            "control",
+            "redemption",
+            "family-loyalty",
+            "vulnerability"
+          ],
+          "plot_and_concepts": [
+            "true-crime",
+            "con-artist",
+            "romantic-scam",
+            "anthology-series",
+            "domestic-abuse",
+            "financial-fraud"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "psychological-thriller",
+            "cautionary"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "psychological-thriller",
+            "true-crime-genre"
+          ],
+          "setting": [
+            "modern-day",
+            "california"
+          ],
+          "character_archetypes": [
+            "con-artist",
+            "vulnerable-victim",
+            "skeptical-family"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "anthology-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "wedding-rings",
+            "interior-design",
+            "financial-records",
+            "police-investigation"
+          ],
+          "maturity_and_content": [
+            "emotional-abuse",
+            "financial-exploitation"
+          ]
+        },
+        "keyword_sentence": "Dirty John is a suspenseful anthology series exploring the dark side of relationships through true crime stories, revealing the devastating consequences of deception and manipulation within modern-day settings."
+      },
+      "duration_seconds": 62.581140756607056
+    }
+  }
+}

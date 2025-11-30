@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "The Munsters",
+    "overview": "A family of friendly monsters that have misadventures all while never quite understanding why people react to them so strangely.",
+    "genres": [
+      "Comedy",
+      "Sci-Fi & Fantasy",
+      "Family"
+    ],
+    "release_year": 1964,
+    "vote_count": 379
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Munsters is a classic American sitcom that blends horror and comedy, presenting a family of monsters attempting to navigate suburban life. The show's humor derives from the clash between the monsters' appearances and behaviors and the reactions of the 'normal' human world. It explores themes of acceptance, family, and belonging through a lighthearted and often absurd lens, offering a gentle satire of societal norms and prejudices. The series' enduring appeal lies in its quirky characters, its optimistic tone, and its ability to find humor in the unconventional.",
+        "spoiler_rich_plot_summary": "The series centers around the Munster family, comprised of Herman, Lily, Eddie, Marilyn, and Grandpa, who relocate from Transylvania to Mockingbird Heights in California. Herman, the patriarch, strives to be a successful businessman, while Lily, his vampire wife, attempts to fit into the role of a typical suburban housewife. Eddie, their werewolf son, and Marilyn, their niece, experience the challenges of adolescence while dealing with their monstrous natures. Grandpa, Lily's father, is a mischievous and ancient vampire who often causes chaos with his antics. Throughout the series, the Munsters encounter various situations where their monstrous appearances and behaviors lead to misunderstandings and humorous conflicts with their neighbors and the wider community. Despite these challenges, the family consistently demonstrates a strong sense of loyalty and affection for one another, ultimately finding a place for themselves in their new home. The series concludes with the family briefly returning to Transylvania, hinting at a continued journey of self-discovery and acceptance.",
+        "categorized_keywords": {
+          "themes": [
+            "family-acceptance",
+            "otherness",
+            "belonging",
+            "social-satire",
+            "monster-lore"
+          ],
+          "plot_and_concepts": [
+            "fish-out-of-water",
+            "monster-family",
+            "sitcom-format",
+            "suburban-life"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "horror-comedy",
+            "found-family",
+            "monster-trope"
+          ],
+          "setting": [
+            "1960s-america",
+            "suburban-neighborhood",
+            "mockingbird-heights"
+          ],
+          "character_archetypes": [
+            "monster-dad",
+            "vampire-mom",
+            "werewolf-son",
+            "grandpa-figure"
+          ],
+          "narrative_style": [
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "mockingbird-house",
+            "grandpa-lab",
+            "monster-truck",
+            "family-car"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Munsters is a lighthearted family sitcom that playfully explores themes of acceptance and belonging through the comedic misadventures of a monster family navigating suburban life in 1960s America."
+      },
+      "duration_seconds": 58.78053283691406
+    }
+  }
+}

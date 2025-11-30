@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "I'm a Celebrity...Get Me Out of Here!",
+    "overview": "Twelve celebrities are abandoned in the Australian jungle. In order to earn food, they must perform Bushtucker Trials which challenge them physically and mentally.",
+    "genres": [
+      "Comedy",
+      "Reality"
+    ],
+    "release_year": 2002,
+    "vote_count": 37
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "I'm a Celebrity...Get Me Out of Here! is a long-running reality television series where a group of celebrities are isolated in a jungle environment and must complete challenges to secure meals. The show's appeal lies in observing the celebrities' reactions to harsh conditions, their interactions with each other, and their willingness to confront their fears. It blends elements of survivalism, competition, and interpersonal drama, offering a mix of humor and suspense for viewers. The series thrives on the contrast between the celebrities' accustomed lifestyles and the primitive setting, creating a spectacle of resilience and entertainment.",
+        "spoiler_rich_plot_summary": "Each season begins with twelve celebrities arriving in the Australian jungle, completely cut off from the outside world. They are immediately tasked with building their own camp and must rely on each other for survival. To earn meals, they participate in 'Bushtucker Trials,' which range from eating bizarre insects and creatures to navigating physically demanding obstacle courses. The trials test their physical and mental endurance, often revealing their personalities and vulnerabilities. Throughout their time in the jungle, the celebrities form alliances, experience conflicts, and develop unexpected bonds. Public voting determines who is eliminated each episode, culminating in a final showdown where one celebrity is crowned the 'King or Queen of the Jungle.' The series consistently features moments of humor, drama, and genuine emotional connection as the celebrities adapt to their surroundings and confront their fears.",
+        "categorized_keywords": {
+          "themes": [
+            "survival",
+            "celebrity-culture",
+            "interpersonal-relationships",
+            "fear",
+            "resilience",
+            "humor"
+          ],
+          "plot_and_concepts": [
+            "reality-competition",
+            "bushcraft",
+            "public-voting",
+            "challenge-based"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "humorous",
+            "suspenseful",
+            "entertaining"
+          ],
+          "genre_and_tropes": [
+            "reality-tv",
+            "survival-show",
+            "celebrity-contestant"
+          ],
+          "setting": [
+            "australian-jungle",
+            "remote-location",
+            "wilderness"
+          ],
+          "character_archetypes": [
+            "celebrity",
+            "contestant"
+          ],
+          "narrative_style": [
+            "elimination-format",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "bushtucker-trials",
+            "jungle-camp",
+            "elimination-ceremony"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "I'm a Celebrity...Get Me Out of Here! is a lighthearted reality competition series where celebrities face humorous and suspenseful challenges in the Australian jungle, testing their resilience and entertaining a family audience."
+      },
+      "duration_seconds": 52.93376016616821
+    }
+  }
+}

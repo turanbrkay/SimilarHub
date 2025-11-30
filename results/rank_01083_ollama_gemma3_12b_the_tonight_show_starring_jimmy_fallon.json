@@ -1,0 +1,70 @@
+{
+  "input_data": {
+    "title": "The Tonight Show Starring Jimmy Fallon",
+    "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
+    "genres": [
+      "Comedy",
+      "Talk"
+    ],
+    "release_year": 2014,
+    "vote_count": 234
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Tonight Show Starring Jimmy Fallon is a late-night talk show that maintains the traditional format of celebrity interviews, comedic sketches, and musical performances. Following a relocation to New York City, the show aims to revitalize the genre with a youthful energy and interactive segments, appealing to a broad audience seeking lighthearted entertainment and a glimpse into the lives of popular figures. The show's success hinges on Fallon's energetic hosting style and ability to create viral moments that extend its reach beyond traditional television.",
+        "spoiler_rich_plot_summary": "The show's narrative arc primarily revolves around Jimmy Fallon's evolution as a host and the ongoing effort to maintain relevance in a competitive late-night landscape. Each episode presents a new set of guests, each interaction shaping the show's overall tone and contributing to its ongoing popularity. The show's success is driven by its ability to adapt to changing trends and incorporate new digital platforms, ensuring its continued engagement with a diverse audience. While there are no overarching plotlines, the show's journey reflects the changing dynamics of the entertainment industry and the ongoing quest for comedic innovation.",
+        "categorized_keywords": {
+          "themes": [
+            "celebrity-culture",
+            "comedy",
+            "entertainment",
+            "talk-show",
+            "humor"
+          ],
+          "plot_and_concepts": [
+            "interview-format",
+            "musical-performance",
+            "skit-comedy",
+            "viral-moments"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "energetic",
+            "optimistic",
+            "playful"
+          ],
+          "genre_and_tropes": [
+            "talk-show",
+            "late-night-comedy"
+          ],
+          "setting": [
+            "new-york-city",
+            "television-studio"
+          ],
+          "character_archetypes": [
+            "host",
+            "celebrity-guest"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-segments"
+          ],
+          "target_audience": [
+            "general-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "studio-audience",
+            "band-performance",
+            "interview-segment",
+            "comedy-skit"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Tonight Show Starring Jimmy Fallon is a lighthearted and energetic talk show that brings celebrity guests and comedic segments to a general audience from its New York City studio."
+      },
+      "duration_seconds": 50.937846422195435
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "The Thorn Birds",
+    "overview": "The story based on a novel by Colleen McCullough focuses on three generations of the Cleary family living on a sheep station in the Australian outback.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 1983,
+    "vote_count": 103
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Thorn Birds is a sweeping family saga set against the backdrop of the Australian outback, exploring themes of ambition, faith, and forbidden love. The series follows the Cleary family across multiple generations, charting their struggles and triumphs as they navigate the challenges of pioneering life and the complexities of human relationships. It's a dramatic exploration of duty versus desire, set within a visually stunning and emotionally charged environment. The series blends historical drama with a strong romantic core, offering a poignant reflection on the enduring power of family and the sacrifices made in pursuit of dreams.",
+        "spoiler_rich_plot_summary": "The story begins with the arrival of Paddy Cleary and his young family to the harsh Australian outback, where they establish a sheep station called Drogheda. As the children grow, particularly Meg, her relationship with the Catholic priest, Ralph de Bricassart, becomes a central conflict. Ralph, ambitious and bound by his vows, is drawn to Meg's spirit and beauty, while she yearns for a love he cannot fully reciprocate. The series follows their complicated and often heartbreaking connection across decades, punctuated by Ralph's rising position within the Church and Meg's own personal struggles and marriages. Other family members, including Frank Cleary, also pursue their own ambitions, leading to rivalries and shifting power dynamics within the family and the surrounding community. The narrative explores the consequences of choices made in the name of faith, love, and personal advancement, ultimately portraying a family forever marked by both its triumphs and its tragedies.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "forbidden-love",
+            "faith-and-doubt",
+            "ambition",
+            "social-class",
+            "sacrifice",
+            "generational-conflict"
+          ],
+          "plot_and_concepts": [
+            "historical-saga",
+            "forbidden-romance",
+            "coming-of-age",
+            "pioneer-life",
+            "religious-conflict"
+          ],
+          "mood_and_tone": [
+            "melancholy",
+            "romantic",
+            "epic",
+            "poignant",
+            "dramatic"
+          ],
+          "genre_and_tropes": [
+            "historical-drama",
+            "family-saga",
+            "slow-burn-romance",
+            "epic-romance"
+          ],
+          "setting": [
+            "australian-outback",
+            "19th-century",
+            "rural-australia"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "forbidden-lover",
+            "ambitious-cleric",
+            "strong-willed-woman"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "generational-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "sheep-station",
+            "catholic-church",
+            "family-portrait",
+            "outback-landscape"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Set against the vast Australian outback, The Thorn Birds is a sweeping historical drama exploring themes of forbidden love, faith, and family dynamics through a generational narrative of ambition and sacrifice."
+      },
+      "duration_seconds": 66.71455764770508
+    }
+  }
+}

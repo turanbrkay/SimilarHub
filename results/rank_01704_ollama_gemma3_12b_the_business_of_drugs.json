@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "The Business of Drugs",
+    "overview": "To detail how drugs push people into risky — even deadly — behaviors, a former CIA analyst investigates the economics of six illicit substances.",
+    "genres": [
+      "Documentary",
+      "Crime"
+    ],
+    "release_year": 2020,
+    "vote_count": 121
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Business of Drugs is a documentary series that explores the economic forces driving the global drug trade. Through the perspective of a former CIA analyst, the series examines the supply chains, financial networks, and societal impacts of six different illicit substances. It offers a dispassionate, data-driven look at the complex interplay of economics, politics, and human behavior, revealing how the pursuit of profit often fuels devastating consequences. The series aims to demystify the drug trade by focusing on its financial underpinnings rather than sensationalizing individual stories. It's a sobering and informative exploration of a global crisis.",
+        "spoiler_rich_plot_summary": "The series begins by establishing the fundamental economic principles at play in the drug trade: supply, demand, and profit margins. Each episode focuses on a different substance – cocaine, heroin, fentanyl, marijuana, methamphetamine, and counterfeit pills – tracing its journey from production to distribution and consumption. The investigation reveals how cartels and criminal organizations operate as sophisticated businesses, employing strategies to minimize risk and maximize profits. The series details the impact of globalization and technological advancements on the drug trade, highlighting how these factors have facilitated the movement of drugs and money across borders. It exposes the role of corruption and political instability in enabling the drug trade to flourish, and examines the devastating consequences for communities and individuals caught in its grip. The series concludes by suggesting that addressing the economic incentives driving the drug trade is crucial for effective policy interventions, rather than solely focusing on punitive measures.",
+        "categorized_keywords": {
+          "themes": [
+            "economics",
+            "crime",
+            "globalization",
+            "corruption",
+            "supply-and-demand",
+            "political-instability"
+          ],
+          "plot_and_concepts": [
+            "documentary-series",
+            "crime-investigation",
+            "supply-chain",
+            "financial-networks",
+            "cartel-economics"
+          ],
+          "mood_and_tone": [
+            "sobering",
+            "informative",
+            "analytical",
+            "dispassionate"
+          ],
+          "genre_and_tropes": [
+            "true-crime",
+            "investigative-journalism",
+            "documentary"
+          ],
+          "setting": [
+            "global",
+            "international-trade"
+          ],
+          "character_archetypes": [
+            "investigative-analyst",
+            "former-cia-agent"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "investigative-report"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "economics-students"
+          ],
+          "detail_plot": [
+            "drug-cartels",
+            "financial-transactions",
+            "supply-routes",
+            "border-crossings"
+          ],
+          "maturity_and_content": [
+            "drug-use",
+            "crime-related-violence"
+          ]
+        },
+        "keyword_sentence": "The Business of Drugs is a sobering documentary series that investigates the global economics of illicit substances, revealing how supply and demand, corruption, and international trade fuel a complex and devastating crime network."
+      },
+      "duration_seconds": 64.57385587692261
+    }
+  }
+}

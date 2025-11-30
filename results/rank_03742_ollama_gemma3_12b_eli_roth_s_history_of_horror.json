@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Eli Roth's History of Horror",
+    "overview": "An in-depth look at the history and pop cultural significance of horror films.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2018,
+    "vote_count": 31
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Eli Roth's History of Horror is a documentary series that explores the evolution of horror cinema, examining its key films, directors, and cultural impact. Through interviews with prominent filmmakers and actors, the series dissects the genre's tropes, anxieties, and enduring appeal. It offers a blend of historical analysis, personal anecdotes, and behind-the-scenes insights, appealing to both casual horror fans and serious film enthusiasts. The series aims to contextualize horror within broader social and political landscapes, demonstrating its ability to reflect and shape cultural fears and fascinations. Roth's personal perspective adds a layer of passion and enthusiasm to the exploration.",
+        "spoiler_rich_plot_summary": "The series unfolds chronologically, beginning with the birth of horror in German Expressionism and the Universal Monsters era. Each episode focuses on a specific subgenre or movement, such as slasher films, zombie movies, and supernatural horror. Roth and his guests trace the lineage of these subgenres, highlighting the films that defined them and the innovations that pushed the boundaries of the genre. The series examines the social and political contexts that influenced these films, demonstrating how horror often reflects anxieties about war, social change, and technological advancements. Recurring themes include the evolution of gore and special effects, the role of female characters in horror, and the impact of censorship and moral panics. The series culminates in a discussion of contemporary horror and its potential future, acknowledging the genre's continued relevance and its ability to challenge and entertain audiences.",
+        "categorized_keywords": {
+          "themes": [
+            "fear",
+            "violence",
+            "cultural-impact",
+            "social-anxiety",
+            "film-history",
+            "gore",
+            "censorship"
+          ],
+          "plot_and_concepts": [
+            "documentary-film",
+            "film-analysis",
+            "interview-format",
+            "historical-chronology",
+            "subgenre-exploration"
+          ],
+          "mood_and_tone": [
+            "informative",
+            "nostalgic",
+            "passionate",
+            "analytical"
+          ],
+          "genre_and_tropes": [
+            "horror-film",
+            "documentary",
+            "film-criticism"
+          ],
+          "setting": [
+            "film-industry",
+            "hollywood",
+            "global-cinema"
+          ],
+          "character_archetypes": [
+            "film-director",
+            "actor",
+            "film-critic"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "interview-driven"
+          ],
+          "target_audience": [
+            "film-enthusiasts",
+            "horror-fans"
+          ],
+          "detail_plot": [
+            "universal-monsters",
+            "slasher-film",
+            "zombie-movie",
+            "gore-effects",
+            "film-poster"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "disturbing-imagery"
+          ]
+        },
+        "keyword_sentence": "Eli Roth's History of Horror is an informative documentary series that explores the evolution of horror cinema, examining its key films and directors while analyzing the genre’s enduring fascination with fear and violence."
+      },
+      "duration_seconds": 76.89130997657776
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Homicide: Life on the Street",
+    "overview": "An American police procedural chronicling the work of a fictional version of the Baltimore Police Department's Homicide Unit.",
+    "genres": [
+      "Mystery",
+      "Drama",
+      "Crime"
+    ],
+    "release_year": 1993,
+    "vote_count": 104
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Homicide: Life on the Street offers a gritty and realistic portrayal of police work, eschewing sensationalism in favor of a procedural focus on the complexities of investigating homicides. The series distinguishes itself through its emphasis on the psychological toll on detectives and the bureaucratic realities of law enforcement. It blends elements of crime drama and procedural storytelling, creating a somber and contemplative viewing experience. The show explores themes of justice, morality, and the human cost of violence, offering a nuanced perspective on the criminal justice system.",
+        "spoiler_rich_plot_summary": "The series begins with the introduction of Lieutenant George Berger and his team of detectives in the Baltimore Police Department's Homicide Unit. The initial seasons focus on establishing the team dynamics and showcasing the diverse range of cases they encounter, often highlighting the challenges of solving crimes in a city grappling with poverty and violence. Berger, a seasoned detective, struggles to maintain his composure and ethical standards amidst the constant exposure to brutality. As the series progresses, the team faces internal conflicts, bureaucratic obstacles, and the emotional weight of their work. Recurring characters develop complex personal lives intertwined with their professional duties, leading to moments of both triumph and tragedy. While individual cases are resolved, overarching storylines explore systemic issues within the police department and the city's criminal justice system, culminating in a sense of weary resignation rather than definitive closure. The series concludes with Berger's departure, leaving the audience to contemplate the ongoing cycle of violence and the enduring burden on those who investigate it.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "morality",
+            "police-ethics",
+            "urban-crime",
+            "grief",
+            "loss",
+            "corruption"
+          ],
+          "plot_and_concepts": [
+            "police-procedural",
+            "crime-investigation",
+            "serialized-story",
+            "ensemble-cast",
+            "case-of-the-week"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "somber",
+            "realistic",
+            "contemplative"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "police-procedural",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "baltimore-city",
+            "modern-day",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "seasoned-detective",
+            "moral-protagonist",
+            "ensemble-cast"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "case-of-the-week"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "crime-scene",
+            "police-car",
+            "interrogation-room",
+            "evidence-bag",
+            "police-badge"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "Homicide: Life on the Street offers a gritty and realistic portrayal of urban crime, exploring themes of justice and morality through the work of a seasoned detective and his team in Baltimore."
+      },
+      "duration_seconds": 64.78168845176697
+    }
+  }
+}

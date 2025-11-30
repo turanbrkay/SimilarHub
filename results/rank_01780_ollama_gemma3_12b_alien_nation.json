@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Alien Nation",
+    "overview": "Detective Matthew Sikes, a Los Angeles police officer reluctantly works with \"Newcomer\" alien George Francisco. Sikes also has an 'on again off again' flirtation with a female Newcomer, Cathy Frankel.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Drama"
+    ],
+    "release_year": 1989,
+    "vote_count": 114
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Alien Nation is a science fiction crime drama that explores themes of prejudice, integration, and societal acceptance. Set in a near-future Los Angeles, the series follows a human police detective partnered with an alien refugee, navigating both criminal investigations and the complex social dynamics of a city grappling with a large-scale alien population. The show blends procedural elements with character-driven narratives, examining the challenges of cross-cultural understanding and the persistence of discrimination even in a seemingly progressive society. It offers a blend of action, suspense, and thoughtful commentary on human nature.",
+        "spoiler_rich_plot_summary": "The series begins with the arrival of a massive wave of refugees from the planet Zeet, who are forced to land on Earth after their ship is disabled. Designated as 'Newcomers,' they are initially confined to a designated zone in Los Angeles. Detective Matthew Sikes, a hardened police officer, is reluctantly assigned to work with George Francisco, a Newcomer who has adapted to human society. Their partnership is fraught with tension, as Sikes struggles to overcome his prejudices and George attempts to bridge the gap between the two cultures. As they investigate crimes, they uncover a conspiracy involving both humans and Newcomers, revealing a deeper conflict surrounding the Newcomers' status and rights. Throughout the series, the relationship between Sikes and George evolves, as they learn to respect and rely on each other. Cathy Frankel, a Newcomer, adds another layer of complexity to the dynamic, creating a romantic entanglement that further blurs the lines between the two worlds. The series explores the political machinations surrounding the Newcomers' integration, highlighting the resistance from those who fear their presence and the efforts of those who advocate for their acceptance. The overarching narrative deals with the struggle for equality and the enduring challenge of overcoming deeply ingrained biases.",
+        "categorized_keywords": {
+          "themes": [
+            "prejudice",
+            "integration",
+            "acceptance",
+            "equality",
+            "cultural-conflict",
+            "xenophobia",
+            "justice"
+          ],
+          "plot_and_concepts": [
+            "police-procedural",
+            "alien-invasion",
+            "conspiracy",
+            "crime-investigation",
+            "political-intrigue"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "gritty",
+            "thought-provoking",
+            "dramatic"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "crime-drama",
+            "buddy-cop",
+            "found-family"
+          ],
+          "setting": [
+            "los-angeles",
+            "near-future",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "outsider",
+            "law-enforcement",
+            "immigrant"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "police-badge",
+            "alien-ship",
+            "newcomer-zone",
+            "interrogation-room"
+          ],
+          "maturity_and_content": [
+            "crime",
+            "violence"
+          ]
+        },
+        "keyword_sentence": "Alien Nation is a suspenseful science fiction crime drama set in a near-future Los Angeles, exploring themes of prejudice and integration through the partnership of a human police officer and an alien refugee."
+      },
+      "duration_seconds": 69.56292366981506
+    }
+  }
+}

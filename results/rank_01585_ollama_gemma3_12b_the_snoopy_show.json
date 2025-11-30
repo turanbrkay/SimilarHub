@@ -1,0 +1,68 @@
+{
+  "input_data": {
+    "title": "The Snoopy Show",
+    "overview": "The world’s most iconic dog is ready for his close-up. Dive into new adventures with the happy-dancing, high-flying, big-dreaming beagle, who's joined by best friend Woodstock and rest of the Peanuts gang.",
+    "genres": [
+      "Animation"
+    ],
+    "release_year": 2021,
+    "vote_count": 132
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Snoopy Show is a reboot of the classic Peanuts animated series, designed for a modern audience. It retains the core charm and humor of the original, focusing on the whimsical adventures of Snoopy and Woodstock. The show emphasizes lighthearted fun, friendship, and imagination, offering a gentle and accessible viewing experience for young children and families. It aims to recapture the nostalgic appeal of the Peanuts universe while introducing it to a new generation.",
+        "spoiler_rich_plot_summary": "The series follows Snoopy's imaginative escapades, often involving elaborate fantasies and elaborate scenarios. He frequently dons various disguises and personas, embarking on daring missions and engaging in playful interactions with Woodstock and the rest of the Peanuts gang. Recurring themes involve Snoopy's aspirations for a life of luxury and adventure, often contrasted with the simple joys of friendship and belonging. While the show maintains a largely episodic structure, there's a gentle arc of character development as Snoopy and Woodstock navigate their playful world and strengthen their bond. The series concludes with a celebration of their enduring friendship and the boundless possibilities of imagination, leaving the door open for future adventures.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "imagination",
+            "optimism",
+            "playfulness",
+            "belonging"
+          ],
+          "plot_and_concepts": [
+            "episodes",
+            "fantasy-sequences",
+            "animal-companions"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "joyful",
+            "gentle"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "slice-of-life",
+            "childrens-entertainment"
+          ],
+          "setting": [
+            "suburban-setting",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "optimistic-protagonist",
+            "loyal-companion"
+          ],
+          "narrative_style": [
+            "episodic-story"
+          ],
+          "target_audience": [
+            "young-children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "dog-house",
+            "woodstock",
+            "flying-ace",
+            "dancing-beagle"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Snoopy Show is a lighthearted and joyful animated series that celebrates friendship, imagination, and the simple pleasures of life in a charming suburban setting."
+      },
+      "duration_seconds": 51.917508125305176
+    }
+  }
+}

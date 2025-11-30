@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Dave Chappelle",
+    "overview": "Comedy icon Dave Chappelle makes his triumphant return to the screen with a pair of blistering, fresh stand-up specials.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2017,
+    "vote_count": 30
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Dave Chappelle's return to stand-up comedy specials marks a significant moment in contemporary entertainment. The specials are characterized by their raw, unfiltered humor, tackling sensitive and often controversial topics with a distinctive blend of observational wit and social commentary. Chappelle's delivery is conversational and engaging, creating a sense of intimacy with the audience while fearlessly exploring complex issues of race, celebrity, and American culture. The specials represent a return to form for a comedian who had largely stepped away from the spotlight, and they offer a provocative and often challenging perspective on modern society.",
+        "spoiler_rich_plot_summary": "The specials largely consist of Chappelle performing stand-up routines, but they are interwoven with reflections on his past, his career, and his relationship with fame. He revisits earlier material, recontextualizing it within the current social and political climate. Recurring themes include his experiences with Hollywood, his observations on race and identity, and his critiques of celebrity culture. Chappelle often uses satire and irony to expose hypocrisy and challenge conventional wisdom. The specials are not structured as a traditional narrative, but rather as a series of interconnected comedic explorations, culminating in a renewed sense of purpose and a willingness to confront uncomfortable truths.",
+        "categorized_keywords": {
+          "themes": [
+            "satire",
+            "race-relations",
+            "celebrity-culture",
+            "social-commentary",
+            "identity",
+            "fame",
+            "comedy"
+          ],
+          "plot_and_concepts": [
+            "stand-up-comedy",
+            "satirical-performance",
+            "observational-humor"
+          ],
+          "mood_and_tone": [
+            "provocative",
+            "candid",
+            "witty",
+            "thought-provoking",
+            "satirical"
+          ],
+          "genre_and_tropes": [
+            "comedy-special",
+            "social-criticism",
+            "satirical-comedy"
+          ],
+          "setting": [
+            "stage-performance",
+            "modern-america"
+          ],
+          "character_archetypes": [
+            "social-critic",
+            "comedian"
+          ],
+          "narrative_style": [
+            "performance-based",
+            "non-linear"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "stage-lighting",
+            "microphone",
+            "audience-reaction"
+          ],
+          "maturity_and_content": [
+            "mature-language",
+            "sensitive-topics"
+          ]
+        },
+        "keyword_sentence": "Dave Chappelle's comedy specials deliver a provocative and candid exploration of race, celebrity culture, and modern America through satirical performance and thought-provoking social commentary."
+      },
+      "duration_seconds": 68.58327603340149
+    }
+  }
+}

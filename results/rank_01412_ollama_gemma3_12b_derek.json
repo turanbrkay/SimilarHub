@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Derek",
+    "overview": "Derek is a loyal nursing home caretaker who sees only the good in his quirky co-workers as they struggle against prejudice and shrinking budgets to care for their elderly residents.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2013,
+    "vote_count": 160
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Derek is a heartwarming British sitcom-drama that explores the lives of caregivers and residents in a nursing home. The series blends comedic moments with poignant reflections on aging, illness, and the importance of human connection. It focuses on Derek Noakes, a man with learning difficulties who finds purpose and joy in his work, and the challenges faced by the staff as they navigate a system often strained by financial constraints and societal attitudes. The show offers a gentle, optimistic perspective on the complexities of caregiving and the resilience of the human spirit.",
+        "spoiler_rich_plot_summary": "The series begins with Derek, a dedicated caregiver, finding immense satisfaction in his work at the Harmony Glen care home. He forms close bonds with his colleagues, including Hannah, the head of the care home, and Richard, a cynical but ultimately compassionate nurse. The narrative follows their daily routines, highlighting both the humorous and the heartbreaking aspects of caring for elderly residents with varying degrees of physical and cognitive impairment. As the series progresses, the care home faces increasing financial pressures, leading to staff shortages and cuts in services. Derek's unwavering positivity and genuine empathy become a source of strength for his colleagues and residents, but the challenges they face test their resilience and force them to confront difficult choices. Throughout the series, the characters grapple with personal struggles and professional dilemmas, ultimately demonstrating the power of compassion and the importance of finding joy in the face of adversity. The series concludes with a sense of hope and a recognition of the enduring value of human connection.",
+        "categorized_keywords": {
+          "themes": [
+            "aging",
+            "compassion",
+            "caregiving",
+            "friendship",
+            "human-connection",
+            "mental-health",
+            "social-work"
+          ],
+          "plot_and_concepts": [
+            "workplace-comedy",
+            "slice-of-life",
+            "ensemble-cast",
+            "social-commentary"
+          ],
+          "mood_and_tone": [
+            "heartwarming",
+            "optimistic",
+            "gentle",
+            "poignant"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "drama",
+            "found-family"
+          ],
+          "setting": [
+            "nursing-home",
+            "modern-day",
+            "uk"
+          ],
+          "character_archetypes": [
+            "kind-hearted-protagonist",
+            "wise-mentor",
+            "compassionate-caregiver"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "nursing-home-setting",
+            "care-home-residents",
+            "workplace-uniforms"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Derek is a heartwarming British drama that explores themes of aging, compassion, and friendship within a nursing home setting, offering a gentle and optimistic perspective on the challenges and rewards of caregiving."
+      },
+      "duration_seconds": 59.86718988418579
+    }
+  }
+}

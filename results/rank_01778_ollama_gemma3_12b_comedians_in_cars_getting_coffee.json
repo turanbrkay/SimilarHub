@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Comedians in Cars Getting Coffee",
+    "overview": "Jerry takes his comedy pals out for coffee in a selection of his classic automobiles. Larry David sums it up best when he says, 'You've finally made a show about nothing.'",
+    "genres": [
+      "Comedy",
+      "Talk"
+    ],
+    "release_year": 2012,
+    "vote_count": 114
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Comedians in Cars Getting Coffee is a unique talk show format conceived and hosted by Jerry Seinfeld. The show revolves around Seinfeld driving around with fellow comedians, engaging in casual conversations while showcasing a rotating collection of vintage automobiles. It's a low-key, conversational affair, prioritizing humor and camaraderie over structured interviews or topical discussions. The show's appeal lies in its relaxed atmosphere and the opportunity to witness the personalities of celebrated comedians in a candid and unscripted setting. It's a celebration of comedy, cars, and the joy of simple, shared experiences.",
+        "spoiler_rich_plot_summary": "The show's premise is straightforward: Jerry Seinfeld picks up a comedian, drives them in a classic car to a coffee shop, and they talk. Each episode features a different comedian, and the conversations range widely, often touching on their careers, comedic influences, personal anecdotes, and observations about life. While there's no overarching narrative or plot, the show builds a sense of community and shared history among the featured comedians and viewers. The selection of cars is a key element, often sparking conversation and adding a visual flair to the proceedings. The show's format allows for a loose, improvisational feel, with the conversations flowing naturally and often leading to unexpected and humorous tangents. The series has featured a wide range of comedic talent, creating a rich tapestry of perspectives and experiences.",
+        "categorized_keywords": {
+          "themes": [
+            "comedy",
+            "friendship",
+            "conversation",
+            "nostalgia",
+            "cars",
+            "celebrity"
+          ],
+          "plot_and_concepts": [
+            "talk-show",
+            "road-trip",
+            "interview-format",
+            "car-culture"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "conversational",
+            "relaxed",
+            "wholesome",
+            "humorous"
+          ],
+          "genre_and_tropes": [
+            "comedy",
+            "talk-show",
+            "slice-of-life"
+          ],
+          "setting": [
+            "new-york-city",
+            "los-angeles",
+            "classic-cars",
+            "coffee-shops"
+          ],
+          "character_archetypes": [
+            "comedian",
+            "host",
+            "celebrity"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-conversations"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "comedy-fans"
+          ],
+          "detail_plot": [
+            "vintage-cars",
+            "coffee-cups",
+            "road-trip",
+            "comedian-duo"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Comedians in Cars Getting Coffee is a lighthearted talk show celebrating friendship and humor as Jerry Seinfeld drives around with fellow comedians in classic cars, sharing casual conversations and a love of car culture."
+      },
+      "duration_seconds": 61.67347574234009
+    }
+  }
+}

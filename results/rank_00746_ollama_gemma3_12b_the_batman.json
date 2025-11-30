@@ -1,0 +1,86 @@
+{
+  "input_data": {
+    "title": "The Batman",
+    "overview": "Billionaire Bruce Wayne fights crime and evil as the mysterious Batman.",
+    "genres": [
+      "Animation",
+      "Sci-Fi & Fantasy",
+      "Mystery",
+      "Action & Adventure"
+    ],
+    "release_year": 2004,
+    "vote_count": 379
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Batman (2004) reimagines the iconic superhero as a brooding, vengeance-driven figure operating in a stylized, noir-influenced Gotham City. The series blends action, mystery, and psychological depth, exploring Bruce Wayne's internal struggles and his relentless pursuit of justice. It distinguishes itself through its unique visual aesthetic, dark tone, and focus on Batman's detective skills alongside his physical prowess. The show offers a gritty and mature take on the superhero genre, appealing to audiences seeking a more complex and psychologically driven narrative.",
+        "spoiler_rich_plot_summary": "The series begins with Bruce Wayne, a young man consumed by the murder of his parents, dedicating his life to fighting crime as Batman. He operates alongside Commissioner James Gordon, forming a clandestine partnership to combat the escalating criminal activity in Gotham. Early seasons focus on Batman's battles against a rogues' gallery of villains, including the Joker, Poison Ivy, and the Penguin, each presenting unique challenges to his methods and his sanity. As the series progresses, Batman confronts deeper conspiracies within Gotham's elite, uncovering corruption that reaches the highest levels of power. He grapples with the moral implications of his actions, questioning whether his methods truly serve justice or perpetuate a cycle of violence. Throughout his journey, Batman develops complex relationships with allies and adversaries, blurring the lines between hero and villain and forcing him to confront his own inner demons. The series culminates in a confrontation with a powerful and shadowy figure who threatens to destroy everything Batman has fought to protect, forcing him to make difficult choices that will shape the future of Gotham.",
+        "categorized_keywords": {
+          "themes": [
+            "vengeance",
+            "justice",
+            "corruption",
+            "moral-ambiguity",
+            "identity-quest",
+            "grief",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "detective-noir",
+            "superhero-action",
+            "rogues-gallery",
+            "conspiracy",
+            "secret-identity"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "gritty",
+            "noir",
+            "suspenseful",
+            "brooding"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "superhero-genre",
+            "detective-story",
+            "noir-fiction"
+          ],
+          "setting": [
+            "gotham-city",
+            "modern-day",
+            "urban-landscape"
+          ],
+          "character_archetypes": [
+            "brooding-hero",
+            "vigilante",
+            "corrupt-official",
+            "enigmatic-villain"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-crime",
+            "mystery-driven"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "batmobile",
+            "batcave",
+            "batarang",
+            "gotham-skyline",
+            "detective-mode"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "dark-themes"
+          ]
+        },
+        "keyword_sentence": "Operating in the dark and gritty urban landscape of Gotham City, The Batman delivers a brooding and suspenseful superhero narrative centered on themes of vengeance, justice, and the moral ambiguities of a vigilante's quest."
+      },
+      "duration_seconds": 62.62597990036011
+    }
+  }
+}

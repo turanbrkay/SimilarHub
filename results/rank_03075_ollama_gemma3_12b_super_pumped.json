@@ -1,0 +1,85 @@
+{
+  "input_data": {
+    "title": "Super Pumped",
+    "overview": "Each season of this anthology series explores a story that rocked the business world to its core and changed culture. The first season tells the story of Uber, one of Silicon Valley’s most successful and most destructive unicorns.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2022,
+    "vote_count": 45
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Super Pumped is an anthology series that delves into the high-stakes world of business and technology, examining pivotal moments that reshaped industries and culture. The first season focuses on the rise of Uber, portraying the ambition, innovation, and ethical compromises that fueled its rapid growth. The series blends elements of drama and business thriller, offering a glimpse into the cutthroat environment of Silicon Valley and the personalities who shaped it. It explores themes of ambition, disruption, and the consequences of unchecked power, offering a cautionary tale about the pursuit of success at any cost. The show aims to provide a nuanced perspective on a company that revolutionized transportation while also facing significant controversies.",
+        "spoiler_rich_plot_summary": "The first season of Super Pumped chronicles the tumultuous early years of Uber, beginning with Travis Kalanick's vision to disrupt the taxi industry. The series follows the company's aggressive expansion, fueled by venture capital and a relentless pursuit of market dominance. Early successes are intertwined with ethically questionable tactics, including exploiting legal loopholes and undermining competitors. As Uber grows, internal conflicts arise, highlighting the clash between Kalanick's leadership style and the company's evolving values. The series portrays the challenges of scaling a disruptive business, the pressures of maintaining rapid growth, and the consequences of prioritizing expansion over ethical considerations. Ultimately, the season culminates in a crisis that forces a reckoning within Uber, leading to significant changes in leadership and a reevaluation of the company's culture and practices, though the long-term impact remains uncertain.",
+        "categorized_keywords": {
+          "themes": [
+            "business-ethics",
+            "disruption",
+            "power-dynamics",
+            "ambition",
+            "corporate-culture",
+            "innovation",
+            "leadership",
+            "accountability"
+          ],
+          "plot_and_concepts": [
+            "business-rivalry",
+            "venture-capital",
+            "corporate-takeover",
+            "growth-hacking",
+            "anthology-series",
+            "tech-industry"
+          ],
+          "mood_and_tone": [
+            "tense",
+            "fast-paced",
+            "cynical",
+            "ambitious",
+            "corporate-drama"
+          ],
+          "genre_and_tropes": [
+            "business-thriller",
+            "corporate-drama",
+            "tech-drama",
+            "rise-and-fall"
+          ],
+          "setting": [
+            "silicon-valley",
+            "modern-day",
+            "united-states"
+          ],
+          "character_archetypes": [
+            "visionary-leader",
+            "ruthless-executive",
+            "disruptor",
+            "corporate-lawyer"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "anthology-format"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "business-professionals"
+          ],
+          "detail_plot": [
+            "uber-logo",
+            "venture-capital-pitch",
+            "corporate-boardroom",
+            "smartphone-app",
+            "rideshare-vehicle"
+          ],
+          "maturity_and_content": [
+            "profanity",
+            "sexual-content",
+            "aggressive-behavior"
+          ]
+        },
+        "keyword_sentence": "Super Pumped is a tense and fast-paced business thriller set in modern-day Silicon Valley, exploring themes of ambition, disruption, and the ethical compromises inherent in the relentless pursuit of innovation within the tech industry."
+      },
+      "duration_seconds": 66.26227188110352
+    }
+  }
+}

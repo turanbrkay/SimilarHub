@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Island of the Sea Wolves",
+    "overview": "Explore wild, wondrous Vancouver Island, where the ocean nurtures all life, from bald eagles who go fishing to sea wolves who swim in frigid waters.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2022,
+    "vote_count": 58
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Island of the Sea Wolves is a nature documentary series offering a detailed exploration of Vancouver Island's unique ecosystem. The series focuses on the interconnectedness of the island's wildlife, particularly the sea wolves, showcasing their adaptations and behaviors within a challenging environment. Through stunning visuals and immersive storytelling, the documentary aims to highlight the beauty and fragility of this coastal habitat, emphasizing the importance of conservation efforts. The series blends observational footage with expert commentary, providing insights into the natural processes shaping the island's biodiversity. It offers a visually captivating and informative experience for nature enthusiasts and those interested in wildlife conservation.",
+        "spoiler_rich_plot_summary": "The series follows the lives of a pack of sea wolves, demonstrating their remarkable ability to swim long distances in search of food, primarily salmon. Viewers witness the wolves' hunting strategies, their interactions with other wildlife such as bears and eagles, and the challenges they face due to changing environmental conditions and human activity. The documentary also explores the broader ecosystem of Vancouver Island, revealing the complex relationships between various species and the impact of factors like ocean currents and seasonal changes. While the series doesn't follow a traditional narrative arc, it presents a continuous cycle of life and survival, highlighting the resilience of the sea wolves and the delicate balance of the island's natural world. The series concludes by emphasizing the need for ongoing conservation efforts to protect this unique habitat and its inhabitants.",
+        "categorized_keywords": {
+          "themes": [
+            "wildlife-conservation",
+            "ecosystem-balance",
+            "adaptation",
+            "survival",
+            "natural-world"
+          ],
+          "plot_and_concepts": [
+            "nature-documentary",
+            "animal-behavior",
+            "predator-prey",
+            "migration"
+          ],
+          "mood_and_tone": [
+            "immersive",
+            "observational",
+            "awe-inspiring",
+            "peaceful"
+          ],
+          "genre_and_tropes": [
+            "nature-documentary",
+            "wildlife-photography"
+          ],
+          "setting": [
+            "vancouver-island",
+            "coastal-environment",
+            "pacific-northwest",
+            "temperate-rainforest"
+          ],
+          "character_archetypes": [
+            "apex-predator",
+            "resilient-animal"
+          ],
+          "narrative_style": [
+            "observational-narrative",
+            "environmental-storytelling"
+          ],
+          "target_audience": [
+            "nature-lovers",
+            "wildlife-enthusiasts",
+            "families"
+          ],
+          "detail_plot": [
+            "sea-wolves",
+            "salmon-run",
+            "bald-eagles",
+            "coastal-forest",
+            "ocean-currents"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Island of the Sea Wolves immersively portrays the resilience of wildlife, particularly sea wolves, within the breathtaking coastal environment of Vancouver Island, highlighting the importance of conservation and the delicate balance of the natural world."
+      },
+      "duration_seconds": 58.46155762672424
+    }
+  }
+}

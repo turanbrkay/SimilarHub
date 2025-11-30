@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "How to Become a Tyrant",
+    "overview": "The documentary series explores different political figures throughout history.",
+    "genres": [
+      "Documentary",
+      "War & Politics"
+    ],
+    "release_year": 2021,
+    "vote_count": 176
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "How to Become a Tyrant is a documentary series that examines the rise and consolidation of power by authoritarian leaders throughout history. Through archival footage, expert interviews, and historical analysis, the series dissects the common strategies, psychological manipulations, and societal conditions that enable individuals to seize and maintain tyrannical control. The series aims to provide a cautionary exploration of power dynamics and the fragility of democratic institutions, highlighting the recurring patterns that have led to oppression across different eras and cultures. It offers a detached, analytical perspective, avoiding sensationalism while presenting a sobering look at the mechanisms of authoritarianism. The series is intended to foster critical thinking about political leadership and the importance of safeguarding democratic values.",
+        "spoiler_rich_plot_summary": "The series doesn't follow a traditional narrative arc but instead presents individual episodes dedicated to different historical figures, such as Joseph Stalin, Adolf Hitler, and Saddam Hussein. Each episode traces the subject's early life, identifying formative experiences and personality traits that contributed to their later ambitions. The series then details their ascent to power, showcasing the exploitation of political instability, economic hardship, and social divisions. It analyzes the use of propaganda, the suppression of dissent, and the manipulation of legal systems to solidify their control. The documentary explores how these leaders systematically dismantled democratic institutions, eliminated rivals, and cultivated a cult of personality. While the series doesn't depict specific events in chronological order, it consistently demonstrates the recurring patterns of authoritarian behavior, from the initial seizure of power to the eventual consequences of their rule, often ending with their downfall or death, though the series avoids graphic depictions of violence or suffering. The series concludes by drawing parallels between historical tyrants and contemporary political trends, suggesting that the lessons of the past remain relevant in understanding the present.",
+        "categorized_keywords": {
+          "themes": [
+            "power-corrupts",
+            "political-manipulation",
+            "authoritarianism",
+            "historical-analysis",
+            "cult-of-personality",
+            "propaganda",
+            "social-control"
+          ],
+          "plot_and_concepts": [
+            "rise-to-power",
+            "political-instability",
+            "historical-documentary",
+            "biography",
+            "cult-of-personality"
+          ],
+          "mood_and_tone": [
+            "analytical",
+            "sobering",
+            "cautionary",
+            "detached",
+            "serious"
+          ],
+          "genre_and_tropes": [
+            "political-documentary",
+            "historical-biography",
+            "non-fiction"
+          ],
+          "setting": [
+            "20th-century",
+            "historical-context",
+            "global-politics"
+          ],
+          "character_archetypes": [
+            "tyrant",
+            "dictator",
+            "political-leader"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "analytical-approach"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "history-buffs",
+            "political-science-students"
+          ],
+          "detail_plot": [
+            "archival-footage",
+            "expert-interviews",
+            "political-rhetoric",
+            "propaganda-posters"
+          ],
+          "maturity_and_content": [
+            "political-violence",
+            "historical-atrocities"
+          ]
+        },
+        "keyword_sentence": "How to Become a Tyrant is a serious and analytical political documentary series that examines the recurring patterns of authoritarianism and political manipulation throughout history, offering a cautionary look at the rise and consolidation of power by tyrannical leaders."
+      },
+      "duration_seconds": 69.3279755115509
+    }
+  }
+}

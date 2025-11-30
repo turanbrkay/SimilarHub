@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "The Story of Film: An Odyssey",
+    "overview": "A worldwide guided tour of the greatest movies ever made and the story of international cinema through the history of cinematic innovation.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2011,
+    "vote_count": 50
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Story of Film: An Odyssey is a documentary series that explores the history of cinema, tracing its evolution across continents and decades. It examines key innovations, influential filmmakers, and the cultural impact of film, offering a broad overview of the art form's development. The series aims to be accessible to a wide audience, blending historical context with engaging visuals and insightful commentary. It celebrates the power of film as a storytelling medium and its ability to reflect and shape human experience. The series provides a comprehensive journey through the world of cinema, highlighting both iconic works and lesser-known gems.",
+        "spoiler_rich_plot_summary": "The series begins with the earliest days of cinema, showcasing the pioneering work of the Lumière brothers and Georges Méliès, and charting the transition from silent films to the advent of sound. It then moves through the Golden Age of Hollywood, examining the studio system and the rise of iconic stars. The documentary explores the impact of World War II on filmmaking, highlighting the emergence of neorealism in Italy and the French New Wave. It continues through the decades, covering the rise of blockbuster filmmaking, the influence of independent cinema, and the impact of digital technology. The series concludes by reflecting on the current state of the film industry and speculating on its future, acknowledging the challenges and opportunities facing filmmakers in a rapidly changing world. It emphasizes the enduring power of storytelling and the importance of preserving cinematic heritage.",
+        "categorized_keywords": {
+          "themes": [
+            "art-history",
+            "cultural-impact",
+            "innovation",
+            "storytelling",
+            "preservation",
+            "global-cinema"
+          ],
+          "plot_and_concepts": [
+            "film-history",
+            "documentary-format",
+            "chronological-narrative",
+            "global-perspective"
+          ],
+          "mood_and_tone": [
+            "informative",
+            "reflective",
+            "celebratory",
+            "historical"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "historical-survey"
+          ],
+          "setting": [
+            "worldwide",
+            "20th-century",
+            "21st-century"
+          ],
+          "character_archetypes": [
+            "filmmaker",
+            "pioneer",
+            "artist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "historical-overview"
+          ],
+          "target_audience": [
+            "film-enthusiasts",
+            "general-audience"
+          ],
+          "detail_plot": [
+            "silent-film",
+            "golden-age-of-hollywood",
+            "studio-system",
+            "neorealism",
+            "french-new-wave",
+            "blockbuster-film"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Story of Film: An Odyssey is an informative documentary series that explores the history of global cinema, celebrating innovation and cultural impact through a chronological narrative spanning the 20th and 21st centuries."
+      },
+      "duration_seconds": 55.97366547584534
+    }
+  }
+}

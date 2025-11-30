@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "George Lopez",
+    "overview": "George raises daughter Carmen and dyslexic son Max with his wife Angie, after surviving a miserable, dysfunctional childhood at the hands of his neglectful alcoholic mother Benny.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2002,
+    "vote_count": 82
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "George Lopez is a sitcom centered on a Cuban-American family living in Los Angeles. The series blends observational humor with relatable family dynamics, exploring themes of cultural identity, generational differences, and the challenges of raising children. The show's comedic style relies heavily on physical humor and witty banter, often highlighting the clash between George's traditional values and his children's more modern perspectives. While primarily a comedy, the series also incorporates moments of genuine warmth and emotional depth, portraying the enduring bonds of family despite their imperfections.",
+        "spoiler_rich_plot_summary": "The series begins with George, a hard-working factory supervisor, navigating the complexities of his family life alongside his wife Angie and their children, Carmen and Max. George's parents, Jose and Benny, live with them, creating a constant source of comedic conflict and cultural clashes. Throughout the series, the family faces various challenges, including financial struggles, career setbacks, and the difficulties of raising children with differing personalities and learning styles. As the series progresses, George and Angie grapple with the evolving dynamics of their relationship and the challenges of balancing their individual aspirations with the needs of their family. The show explores the generational gap between George and his children, as they navigate different perspectives on life, love, and success. While comedic in nature, the series also touches upon themes of cultural identity, immigration, and the importance of family support in overcoming adversity. The show concludes with the family having grown closer, having learned valuable lessons about themselves and each other, and having embraced their unique cultural heritage.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "cultural-identity",
+            "generational-gap",
+            "immigration",
+            "parenting",
+            "latin-heritage"
+          ],
+          "plot_and_concepts": [
+            "sitcom",
+            "family-comedy",
+            "multi-generational-household",
+            "dysfunctional-family"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "humorous",
+            "warm",
+            "observational"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "family-comedy",
+            "latin-american-culture"
+          ],
+          "setting": [
+            "los-angeles",
+            "modern-day",
+            "urban-neighborhood"
+          ],
+          "character_archetypes": [
+            "working-class-father",
+            "strong-willed-mother",
+            "rebellious-teenager",
+            "eccentric-grandparents"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "factory-setting",
+            "family-dinner",
+            "grandparents-house",
+            "car-chase"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "George Lopez is a lighthearted family comedy set in Los Angeles, exploring themes of cultural identity and generational differences through the humorous struggles of a working-class Latino family."
+      },
+      "duration_seconds": 61.84049463272095
+    }
+  }
+}

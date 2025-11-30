@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Life Sentence",
+    "overview": "When Stella finds out her terminal cancer is cured, she's going to have to learn to live with all the choices she's made when she decided to \"live like she was dying\".",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "release_year": 2018,
+    "vote_count": 55
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Life Sentence is a dramedy exploring themes of second chances and the complexities of family relationships. Following a woman who was convicted of murder and spent years awaiting execution, the series examines her reintegration into society and the challenges of rebuilding trust with her loved ones. The show balances moments of humor with poignant reflections on mortality, redemption, and the weight of past mistakes. It offers a blend of emotional depth and lightheartedness, inviting viewers to consider the meaning of life and the importance of human connection.",
+        "spoiler_rich_plot_summary": "The series begins with Stella Morgan being released from prison after serving a life sentence for a crime she committed as a teenager. Her family, including her parents and younger brother, struggles to adjust to her return, grappling with the resurfacing of painful memories and the uncertainty of her presence. As Stella attempts to rebuild her life, she confronts the consequences of her past actions and the lingering impact on those she left behind. Relationships are tested as secrets are revealed and old wounds are reopened. Throughout the series, Stella navigates the legal system, attempts to find employment, and strives to reconcile with her family, all while confronting the possibility of a future she never anticipated. The series explores the complexities of forgiveness, the challenges of reintegration, and the enduring power of family bonds, ultimately examining what it truly means to live a life worth living.",
+        "categorized_keywords": {
+          "themes": [
+            "second-chances",
+            "family-dynamics",
+            "redemption",
+            "forgiveness",
+            "mortality",
+            "reintegration",
+            "justice"
+          ],
+          "plot_and_concepts": [
+            "wrongful-conviction",
+            "legal-drama",
+            "coming-of-age",
+            "crime-procedural"
+          ],
+          "mood_and_tone": [
+            "dramedy",
+            "emotional",
+            "hopeful",
+            "bittersweet"
+          ],
+          "genre_and_tropes": [
+            "family-drama",
+            "crime-drama",
+            "coming-of-age-story"
+          ],
+          "setting": [
+            "suburban-america",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "reluctant-hero",
+            "concerned-parent",
+            "supportive-sibling"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "prison-gates",
+            "courtroom-scene",
+            "family-dinner",
+            "police-investigation"
+          ],
+          "maturity_and_content": [
+            "legal-themes",
+            "crime-related-content"
+          ]
+        },
+        "keyword_sentence": "Life Sentence is a dramedy set in modern-day suburban America, exploring themes of second chances and family dynamics as a woman navigates the complexities of reintegration after a wrongful conviction."
+      },
+      "duration_seconds": 55.59978628158569
+    }
+  }
+}

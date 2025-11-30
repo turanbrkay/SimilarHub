@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Jury Duty",
+    "overview": "The inner workings of an American jury trial through the eyes of one particular juror, Ronald Gladden. Gladden is unaware the entire case is fake, everyone except him is an actor and everything that happens — inside the courtroom and out — is carefully planned.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2023,
+    "vote_count": 65
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Jury Duty is a unique and innovative comedy series that blurs the lines between reality and fiction. The show centers on a single juror who is unaware that the entire trial and its participants are fabricated, creating a surreal and humorous exploration of civic duty, performance, and the nature of truth. The series utilizes a mockumentary style to heighten the comedic effect, as the production team orchestrates increasingly elaborate scenarios to maintain the juror's unwitting participation. It's a clever and lighthearted commentary on the American legal system and the power of collective storytelling.",
+        "spoiler_rich_plot_summary": "The series begins with Ronald Gladden, a seemingly ordinary man, being selected for jury duty in a mock trial. Unbeknownst to him, the entire case, the judge, the lawyers, and all the other jurors are actors hired to create a reality show. The production team, led by a dedicated director and crew, meticulously crafts the trial and its surrounding events to keep Ronald believing in the legitimacy of the proceedings. As the trial progresses, the team escalates the absurdity, staging elaborate scenarios and introducing increasingly outlandish characters to maintain the illusion. Ronald, initially bewildered by the unusual behavior of his fellow jurors and the eccentric judge, gradually becomes invested in the case and forms genuine connections with the actors portraying the other participants. The team faces numerous challenges in keeping Ronald's ignorance intact, as his genuine reactions and questions threaten to expose the ruse. Ultimately, the truth is revealed to Ronald, leading to a poignant and heartwarming conclusion where he confronts the actors and acknowledges the profound impact they're had on his life.",
+        "categorized_keywords": {
+          "themes": [
+            "reality-vs-fiction",
+            "deception",
+            "civic-duty",
+            "performance",
+            "friendship",
+            "identity",
+            "trust"
+          ],
+          "plot_and_concepts": [
+            "mockumentary",
+            "social-experiment",
+            "reality-tv",
+            "found-family",
+            "improvisation"
+          ],
+          "mood_and_tone": [
+            "absurdist",
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "surreal"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "mockumentary-comedy",
+            "found-family-trope"
+          ],
+          "setting": [
+            "courtroom",
+            "modern-day",
+            "suburban-america"
+          ],
+          "character_archetypes": [
+            "everyman",
+            "naive-protagonist",
+            "eccentric-characters"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "courtroom-scene",
+            "jury-box",
+            "judge's-bench",
+            "mock-trial"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Jury Duty is a lighthearted and absurdist mockumentary comedy that explores themes of deception and civic duty through the story of an ordinary man unwittingly participating in a fabricated trial."
+      },
+      "duration_seconds": 61.58213925361633
+    }
+  }
+}

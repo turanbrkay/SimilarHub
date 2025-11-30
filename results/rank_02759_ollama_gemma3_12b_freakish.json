@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Freakish",
+    "overview": "A group of students trapped in a high school must fight for survival when predatory mutant freaks take over after a meltdown at the local chemical plant.",
+    "genres": [
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2016,
+    "vote_count": 56
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Freakish is a young adult horror series blending science fiction and creature feature elements. Set in a small town, the series follows a group of high school students as they confront a terrifying threat unleashed by a chemical plant accident. The narrative explores themes of survival, friendship, and the consequences of unchecked industrial practices, delivered with a suspenseful and often darkly comic tone. The series focuses on the characters' struggles to understand and combat the monstrous creatures while navigating the complexities of adolescence and personal relationships.",
+        "spoiler_rich_plot_summary": "The series begins with a chemical plant meltdown that releases mutated creatures into the town of Groveport. A group of students, including Millie, Gus, Harper, and Burnell, find themselves trapped within their high school as the freaks begin to hunt them. Initially, the students attempt to understand the nature of the mutations and find a way to reverse the process, but their efforts are complicated by the creatures' increasing aggression and the town's panicked response. As the series progresses, the students discover that the mutations are linked to a deeper conspiracy involving the chemical plant's owners and a secret research program. They must confront not only the freaks but also the adults who are responsible for the disaster. Throughout the series, relationships are tested as the students grapple with loss, betrayal, and the moral compromises necessary for survival. The narrative culminates in a confrontation with the source of the mutations, forcing the students to make difficult choices that will determine the fate of Groveport and their own futures.",
+        "categorized_keywords": {
+          "themes": [
+            "survival",
+            "friendship",
+            "conspiracy",
+            "loss",
+            "moral-compromise",
+            "industrial-disaster"
+          ],
+          "plot_and_concepts": [
+            "mutation",
+            "creature-feature",
+            "monster-hunt",
+            "secret-research",
+            "small-town-horror"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "darkly-comic",
+            "tense",
+            "creepy"
+          ],
+          "genre_and_tropes": [
+            "young-adult",
+            "sci-fi-horror",
+            "monster-movie",
+            "found-family"
+          ],
+          "setting": [
+            "small-town-usa",
+            "high-school",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "teenager",
+            "outsider"
+          ],
+          "narrative_style": [
+            "serialized-story"
+          ],
+          "target_audience": [
+            "young-adult"
+          ],
+          "detail_plot": [
+            "chemical-plant",
+            "high-school-hallway",
+            "monster-tracks",
+            "emergency-broadcast"
+          ],
+          "maturity_and_content": [
+            "graphic-violence"
+          ]
+        },
+        "keyword_sentence": "Freakish is a suspenseful young adult series set in a small town, where a group of teenagers must confront terrifying mutations and a dangerous conspiracy following a devastating chemical plant disaster."
+      },
+      "duration_seconds": 59.92257523536682
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Mosaic",
+    "overview": "Explore the psychological underpinnings of love and murder in a small mountain resort town while following popular children’s book author and illustrator Olivia Lake, whose literary success makes her a local celebrity in the tight-knit community.",
+    "genres": [
+      "Drama",
+      "Crime",
+      "Mystery"
+    ],
+    "release_year": 2018,
+    "vote_count": 48
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Mosaic is a psychological drama and crime mystery that explores themes of memory, perception, and the fragility of reality. The series follows Olivia Lake, a celebrated children's book author, as her life unravels amidst suspicion and fragmented recollections. The narrative employs a unique, fractured presentation style, blurring the lines between truth and illusion, and challenging the viewer to piece together the events alongside the protagonist. The show delves into the complexities of relationships, the burden of secrets, and the potential for deception within a seemingly idyllic community. It offers a suspenseful and unsettling viewing experience, prompting reflection on the nature of truth and the reliability of memory.",
+        "spoiler_rich_plot_summary": "The series begins with Olivia Lake, a beloved children's book author, found in a distressed state, leading to questions about her involvement in a possible crime. As the investigation unfolds, the narrative presents multiple, conflicting versions of events, each offering a different perspective on Olivia's life and the circumstances surrounding the incident. The audience is gradually introduced to a cast of characters, including her husband, her sister, and various acquaintances, each with their own secrets and motivations. Through a series of flashbacks and fragmented memories, the story reveals a web of complex relationships and hidden tensions within the community. As the investigation progresses, it becomes increasingly clear that Olivia's memories are unreliable, and that the truth is far more complicated than it initially appears. The series explores the possibility that Olivia is not entirely culpable, but is instead a victim of manipulation and circumstance. The narrative culminates in a confrontation that reveals the true nature of the events and the identities of those involved, ultimately questioning the very foundations of perception and reality.",
+        "categorized_keywords": {
+          "themes": [
+            "memory-fragmentation",
+            "perception-distortion",
+            "truth-versus-illusion",
+            "guilt-and-innocence",
+            "small-town-secrets",
+            "fragility-of-reality"
+          ],
+          "plot_and_concepts": [
+            "unreliable-narrator",
+            "multiple-perspectives",
+            "crime-investigation",
+            "psychological-thriller",
+            "memory-loss"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "unsettling",
+            "mysterious",
+            "atmospheric"
+          ],
+          "genre_and_tropes": [
+            "psychological-drama",
+            "crime-mystery",
+            "unreliable-narrator-trope"
+          ],
+          "setting": [
+            "small-town-america",
+            "mountain-resort"
+          ],
+          "character_archetypes": [
+            "author-protagonist",
+            "investigator",
+            "enigmatic-figure"
+          ],
+          "narrative_style": [
+            "non-linear-timeline",
+            "fragmented-narrative",
+            "multiple-viewpoints"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "childrens-book-illustrations",
+            "mountain-resort-town",
+            "police-interrogation",
+            "flashback-sequence"
+          ],
+          "maturity_and_content": [
+            "psychological-distress",
+            "suspense"
+          ]
+        },
+        "keyword_sentence": "Mosaic is a suspenseful psychological drama set in a small mountain resort town, exploring themes of memory fragmentation and unreliable narration through a fractured narrative that questions the very nature of truth and perception."
+      },
+      "duration_seconds": 62.0361111164093
+    }
+  }
+}

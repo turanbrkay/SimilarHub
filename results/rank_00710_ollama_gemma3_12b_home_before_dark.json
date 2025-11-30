@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Home Before Dark",
+    "overview": "A young girl moves from Brooklyn to the small lakeside town her father left behind. While there, her dogged pursuit of the truth leads her to unearth a cold case that everyone in town, including her own father, tried hard to bury.",
+    "genres": [
+      "Mystery",
+      "Drama"
+    ],
+    "release_year": 2020,
+    "vote_count": 399
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Home Before Dark is a mystery drama series centered on a young woman's determination to uncover a dark secret in her father's past. The series explores themes of family, truth, and the burden of secrets, set against the backdrop of a seemingly idyllic small town. It blends elements of suspense and emotional drama, creating a compelling narrative about confronting uncomfortable truths and the lasting impact of past events. The series maintains a tone of quiet intensity, gradually revealing layers of complexity and challenging the audience to question the nature of truth and justice.",
+        "spoiler_rich_plot_summary": "The series follows Frankie Elías, who moves with her mother and younger brother to Cass Lake, Wisconsin, the town her father, Matt Elías, abruptly left fifteen years prior. Frankie, a budding journalist, is immediately drawn to the local legend of a serial killer known as the 'Night Wanderer' who terrorized the town decades ago. Her father’s past is inextricably linked to the case, as he was a young deputy sheriff investigating the murders at the time. As Frankie digs deeper, she uncovers inconsistencies in the official narrative and begins to suspect that her father may have been involved in covering up crucial information. The investigation stirs up old tensions within the community, revealing a web of secrets and lies that many residents are desperate to keep buried. Frankie's relentless pursuit of the truth puts her and her family in danger, forcing her to confront not only the darkness of the past but also the complexities of her relationship with her father and the possibility that he is not who she thought he was. The series culminates in a confrontation with the truth about the Night Wanderer and the role Matt played in the events surrounding the case, ultimately forcing Frankie to reconcile her understanding of her father and the town’s history.",
+        "categorized_keywords": {
+          "themes": [
+            "family-secrets",
+            "truth-seeking",
+            "small-town-dynamics",
+            "redemption",
+            "past-trauma",
+            "justice"
+          ],
+          "plot_and_concepts": [
+            "cold-case-investigation",
+            "serial-killer",
+            "small-town-mystery",
+            "generational-curse"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "atmospheric",
+            "melancholy",
+            "tense"
+          ],
+          "genre_and_tropes": [
+            "mystery-drama",
+            "small-town-thriller",
+            "coming-of-age",
+            "whodunit"
+          ],
+          "setting": [
+            "small-town-usa",
+            "lakeside-community",
+            "midwest-setting"
+          ],
+          "character_archetypes": [
+            "determined-protagonist",
+            "enigmatic-father",
+            "skeptical-authority",
+            "local-historian"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "old-newspaper-clippings",
+            "lakeside-cabin",
+            "sheriffs-office",
+            "town-archives"
+          ],
+          "maturity_and_content": [
+            "suspense",
+            "emotional-trauma"
+          ]
+        },
+        "keyword_sentence": "Home Before Dark is a suspenseful mystery drama set in a small lakeside town, exploring themes of family secrets and truth-seeking as a young woman investigates a cold case that threatens to unravel her father’s past and expose the darkness hidden within the community."
+      },
+      "duration_seconds": 65.00668096542358
+    }
+  }
+}

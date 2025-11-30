@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Louie",
+    "overview": "Louis C.K. stars as a fictionalized version of himself; a comedian and newly divorced father raising his two daughters in New York City.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2010,
+    "vote_count": 431
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Louie is a darkly comedic and often poignant television series that follows the life of Louis C.K., a comedian navigating the complexities of fatherhood, relationships, and the mundane realities of existence in New York City. The show distinguishes itself through its improvisational style, often blurring the lines between fiction and reality, and exploring uncomfortable truths about human connection and loneliness. It's a character study that uses humor to examine the anxieties and vulnerabilities of modern life, offering a unique and often unsettling viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Louis, a recently divorced comedian, struggling to balance his career with raising his two daughters, Lily and Jane. Early episodes focus on his attempts to co-parent effectively, often leading to awkward and humorous situations. As the series progresses, Louis's personal life becomes increasingly complex, with explorations of past relationships, fleeting romances, and the challenges of maintaining meaningful connections. The show frequently deviates from traditional narrative structures, incorporating experimental segments, surreal interludes, and moments of profound introspection. Louis grapples with feelings of isolation and regret, often confronting uncomfortable truths about himself and the world around him. While the series maintains a comedic veneer, it delves into darker themes of loss, aging, and the search for meaning in a chaotic world. The later seasons see Louis confronting his own mortality and the fragility of human relationships, culminating in a series of episodes that reflect on his life and legacy.",
+        "categorized_keywords": {
+          "themes": [
+            "fatherhood",
+            "divorce",
+            "loneliness",
+            "existentialism",
+            "relationships",
+            "comedy-and-tragedy",
+            "mortality"
+          ],
+          "plot_and_concepts": [
+            "slice-of-life",
+            "improvisation",
+            "experimental-comedy",
+            "mockumentary",
+            "confessional-narrative"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "poignant",
+            "awkward",
+            "surreal",
+            "introspective"
+          ],
+          "genre_and_tropes": [
+            "comedy",
+            "drama",
+            "character-study",
+            "mockumentary-style"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "reluctant-hero",
+            "everyman"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-storytelling",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "comedy-club",
+            "daughters",
+            "apartment",
+            "stand-up-routine"
+          ],
+          "maturity_and_content": [
+            "sexual-content",
+            "adult-language"
+          ]
+        },
+        "keyword_sentence": "Louie is a darkly comedic and poignant drama that explores the complexities of fatherhood, relationships, and the search for meaning in the modern world, set against the backdrop of New York City."
+      },
+      "duration_seconds": 59.22552442550659
+    }
+  }
+}

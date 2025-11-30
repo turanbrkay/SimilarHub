@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "The Bachelor",
+    "overview": "A single bachelor dates multiple women over several weeks, narrowing them down to hopefully find his true love.",
+    "genres": [
+      "Reality",
+      "Drama"
+    ],
+    "release_year": 2002,
+    "vote_count": 57
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Bachelor is a long-running reality television series centered on a single contestant, the 'Bachelor,' who dates multiple women over several weeks. The series follows a structured elimination process, with the Bachelor progressively narrowing down the pool of potential partners through dates, cocktail parties, and rose ceremonies. The show explores themes of romance, competition, and self-discovery, often amplified by the artificial and highly produced environment. While ostensibly about finding love, the series also functions as a social experiment and a platform for entertainment, frequently showcasing interpersonal drama and manufactured conflict. The Bachelor has become a cultural phenomenon, spawning numerous international adaptations and spin-offs.",
+        "spoiler_rich_plot_summary": "Each season of The Bachelor begins with a group of women vying for the attention of a single man. Throughout the weeks, the Bachelor goes on a series of dates, ranging from extravagant group outings to intimate one-on-one experiences. At the end of each week, the Bachelor eliminates several women, culminating in a final rose ceremony where he chooses one woman to continue to the next stage. The remaining women often engage in interpersonal conflict, fueled by competition and the pressure of the situation. The Bachelor's choices are often influenced by a combination of genuine connection, perceived compatibility, and the dynamics of the group. The final episode typically involves a 'fantasy suite' stay, followed by a final rose ceremony where the Bachelor declares his choice, though the outcome is often uncertain and subject to post-show revelations and speculation. While the series aims for a romantic conclusion, the manufactured nature of the process and the subsequent media scrutiny often complicate the long-term viability of the relationships.",
+        "categorized_keywords": {
+          "themes": [
+            "romance",
+            "competition",
+            "self-discovery",
+            "social-experiment",
+            "artificial-relationships",
+            "media-scrutiny"
+          ],
+          "plot_and_concepts": [
+            "elimination-process",
+            "rose-ceremony",
+            "fantasy-suite",
+            "manufactured-drama",
+            "dating-show"
+          ],
+          "mood_and_tone": [
+            "romantic",
+            "dramatic",
+            "superficial",
+            "artificial"
+          ],
+          "genre_and_tropes": [
+            "reality-television",
+            "dating-show",
+            "competition-show",
+            "found-family"
+          ],
+          "setting": [
+            "luxury-resorts",
+            "modern-day",
+            "domestic-travel"
+          ],
+          "character_archetypes": [
+            "eligible-bachelor",
+            "romantic-hopeful",
+            "villain",
+            "contestant"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "elimination-format"
+          ],
+          "target_audience": [
+            "young-adult",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "rose",
+            "cocktail-party",
+            "elimination-ceremony",
+            "fantasy-suite"
+          ],
+          "maturity_and_content": [
+            "emotional-manipulation",
+            "relationship-drama"
+          ]
+        },
+        "keyword_sentence": "The Bachelor is a reality television dating show where an eligible bachelor navigates a competition of romantic hopefuls, often fueled by manufactured drama and emotional manipulation, in pursuit of a potentially lasting relationship."
+      },
+      "duration_seconds": 63.797950983047485
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "One of Us Is Lying",
+    "overview": "The story of what happens when five high schoolers walk into detention and only four make it out alive. Everyone is a suspect, and everyone has something to hide.",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2021,
+    "vote_count": 128
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "One of Us Is Lying is a teen drama and mystery series centered around a group of high school students trapped in detention, where one student dies and the others become suspects. The series blends elements of suspense, social commentary, and character-driven storytelling, exploring themes of privilege, secrets, and the complexities of adolescent relationships. The narrative unfolds through multiple perspectives, creating a sense of intrigue and uncertainty as the truth behind the death is gradually revealed. The show maintains a fast-paced rhythm, punctuated by twists and red herrings, keeping the audience guessing until the very end.",
+        "spoiler_rich_plot_summary": "The series begins with five students – Simon, Cooper, Nate, Addy, and Jake – entering detention. Simon, a popular gossip blogger, is found dead shortly after, and the remaining four become the prime suspects. The narrative then shifts between the perspectives of Cooper, Nate, Addy, and Jake, each revealing their own secrets and motivations while attempting to clear their names. Cooper, a star athlete with a carefully constructed image, struggles to conceal his drug use and a past relationship with Simon. Nate, a privileged and often arrogant student, grapples with his family’s reputation and a hidden connection to the deceased. Addy, a seemingly perfect student, hides a troubled past and a complicated relationship with another student. Jake, a quiet and observant student, possesses a keen eye for detail and a surprising amount of knowledge about the others. As the investigation progresses, it becomes clear that Simon was actively writing a damaging blog post about one or more of the students, creating a web of resentment and potential motives. The truth behind Simon’s death is gradually unveiled, revealing a complex conspiracy involving blackmail, hidden identities, and long-held grudges. The series culminates in a confrontation where the true killer is exposed, and the remaining students must confront the consequences of their actions and the secrets they’re desperately trying to protect.",
+        "categorized_keywords": {
+          "themes": [
+            "secrets",
+            "deception",
+            "social-class",
+            "privilege",
+            "revenge",
+            "identity",
+            "grief",
+            "betrayal"
+          ],
+          "plot_and_concepts": [
+            "murder-mystery",
+            "whodunit",
+            "multiple-perspectives",
+            "blackmail",
+            "gossip",
+            "false-accusation"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "tense",
+            "intense"
+          ],
+          "genre_and_tropes": [
+            "teen-drama",
+            "mystery",
+            "thriller",
+            "whodunit"
+          ],
+          "setting": [
+            "high-school",
+            "modern-day",
+            "suburban-america"
+          ],
+          "character_archetypes": [
+            "athlete",
+            "outsider",
+            "perfect-student",
+            "antagonist",
+            "victim"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "multiple-point-of-view"
+          ],
+          "target_audience": [
+            "young-adult"
+          ],
+          "detail_plot": [
+            "detention-room",
+            "blog-post",
+            "school-locker",
+            "social-media"
+          ],
+          "maturity_and_content": [
+            "bullying",
+            "drug-use",
+            "sexual-content"
+          ]
+        },
+        "keyword_sentence": "One of Us Is Lying is a suspenseful teen drama and mystery series exploring themes of secrets, deception, and social class within the confines of a high school setting, where a deadly game of whodunit unfolds among a group of students."
+      },
+      "duration_seconds": 74.34772944450378
+    }
+  }
+}

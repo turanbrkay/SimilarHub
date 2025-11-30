@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "The Ranch",
+    "overview": "Being a pro athlete didn't pan out for Colt. Now he's helping his dad and brother keep the ranch afloat, and figuring out how he fits into the family.",
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "release_year": 2016,
+    "vote_count": 189
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Ranch is a comedy series that explores the complexities of family, ambition, and second chances against the backdrop of a Colorado ranch. The show blends humor with heartfelt moments as Colt Bennett returns home after a failed football career to assist his father and brother in running the family business. It examines themes of regret, reconciliation, and the challenges of rural life, offering a lighthearted yet relatable portrayal of intergenerational relationships and the pursuit of personal fulfillment. The series utilizes a sitcom format with a multi-camera setup, creating a warm and accessible viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Colt Bennett, a former football hopeful, returning to his parents' ranch after his dreams of a professional career crumble. He joins his father, Beau, and his brother, Jameson, in the struggling ranching business, a situation complicated by their strained relationships and Beau's gruff demeanor. Throughout the series, Colt grapples with his past failures and attempts to find his place within the family, often clashing with Jameson's carefree attitude and Beau's traditional values. Romantic relationships develop and dissolve, adding further layers of complexity to the family dynamics. As the seasons progress, the ranch faces financial difficulties and external pressures, forcing the Bennetts to confront their past mistakes and work together to secure their future. While the series maintains a comedic tone, it also delves into deeper themes of forgiveness, acceptance, and the enduring power of family bonds, ultimately portraying a journey of personal growth and reconciliation for all involved.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "second-chances",
+            "rural-life",
+            "regret",
+            "reconciliation",
+            "small-town-life"
+          ],
+          "plot_and_concepts": [
+            "failed-dreams",
+            "family-business",
+            "coming-of-age",
+            "romantic-relationships"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "heartwarming",
+            "comedic",
+            "sentimental"
+          ],
+          "genre_and_tropes": [
+            "family-comedy",
+            "small-town-drama",
+            "multi-camera-sitcom"
+          ],
+          "setting": [
+            "colorado-ranch",
+            "rural-america",
+            "small-town-usa"
+          ],
+          "character_archetypes": [
+            "disillusioned-son",
+            "gruff-father",
+            "carefree-brother"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "ranch-horses",
+            "cattle-branding",
+            "pickup-truck",
+            "rodeos"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Ranch is a lighthearted family comedy set on a Colorado ranch, exploring themes of second chances and reconciliation as a disillusioned son navigates complex relationships and the challenges of rural life."
+      },
+      "duration_seconds": 60.091883420944214
+    }
+  }
+}

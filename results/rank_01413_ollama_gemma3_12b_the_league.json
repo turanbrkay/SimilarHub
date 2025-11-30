@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "The League",
+    "overview": "The League is an American sitcom and semi-improvised comedy about a about a fantasy football league and its members and their everyday lives.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2009,
+    "vote_count": 160
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The League is a comedic exploration of male friendship and competitive obsession, centered around a fantasy football league. The series blends scripted scenes with improvisational elements, creating a raw and often absurd portrayal of the characters' personal and professional lives. It delves into themes of loyalty, ambition, and the lengths to which people will go to achieve victory, all while maintaining a consistently irreverent and often crude sense of humor. The show's appeal lies in its relatable depiction of camaraderie and the ridiculousness of modern male bonding rituals.",
+        "spoiler_rich_plot_summary": "The series begins with a group of longtime friends, all members of a fantasy football league, navigating their personal and professional lives. As the seasons progress, the league's competition intensifies, leading to escalating conflicts and increasingly outlandish schemes to gain an advantage. Relationships are tested as the characters prioritize their fantasy teams over their friendships and romantic interests. Throughout the series, the characters face various personal crises, including career setbacks, relationship breakdowns, and financial struggles, all intertwined with the ongoing fantasy football season. The show culminates in a final season where the friends confront the consequences of their actions and ultimately reflect on the importance of their bond, even amidst the chaos and absurdity of their shared obsession.",
+        "categorized_keywords": {
+          "themes": [
+            "male-friendship",
+            "competition",
+            "obsession",
+            "loyalty",
+            "ambition",
+            "rivalry"
+          ],
+          "plot_and_concepts": [
+            "fantasy-football",
+            "improvised-comedy",
+            "bromance",
+            "ensemble-cast"
+          ],
+          "mood_and_tone": [
+            "crude-humor",
+            "irreverent",
+            "absurd",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "sports-comedy",
+            "bromance-trope"
+          ],
+          "setting": [
+            "modern-day",
+            "urban-setting"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "manic-character",
+            "rival-character"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "fantasy-football-trophy",
+            "man-cave",
+            "sports-bar"
+          ],
+          "maturity_and_content": [
+            "crude-language",
+            "sexual-content"
+          ]
+        },
+        "keyword_sentence": "The League is a comedic sitcom exploring the absurdities of male friendship and competitive obsession through the lens of a fantasy football league, often employing improvisational elements and crude humor."
+      },
+      "duration_seconds": 55.745630741119385
+    }
+  }
+}

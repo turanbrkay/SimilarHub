@@ -1,0 +1,87 @@
+{
+  "input_data": {
+    "title": "Xena: Warrior Princess",
+    "overview": "Xena is an infamous warrior on a quest to seek redemption for her past sins against the innocent. Accompanied her comrade-in-arms Gabrielle, the campy couple use their formidable fighting skills to help those who are unable to defend themselves.",
+    "genres": [
+      "Drama",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1995,
+    "vote_count": 1161
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Xena: Warrior Princess is a fantasy action-adventure series centered on a reformed warlord seeking redemption through heroic deeds. The show blends elements of mythology, martial arts, and humor, exploring themes of forgiveness, friendship, and the struggle against tyranny. Xena's journey is often fraught with peril, as she confronts powerful enemies and grapples with the consequences of her past actions, while her bond with Gabrielle provides both strength and emotional depth. The series offers a blend of action-packed sequences and character-driven narratives, appealing to audiences seeking a mix of escapism and moral exploration.",
+        "spoiler_rich_plot_summary": "The series begins with Xena, a notorious warlord, attempting to atone for her past atrocities. She initially operates as a mercenary, but a fateful encounter with Gabrielle, a naive farm girl, sets her on a new path. Gabrielle's unwavering belief in Xena's potential for good inspires her to use her skills to protect the innocent. Throughout their travels, Xena and Gabrielle face numerous challenges, battling tyrannical rulers, mythical creatures, and powerful gods. Xena confronts figures from her past, including Ares, the God of War, and Julius Caesar, forcing her to relive and ultimately overcome the events that defined her as a warrior. Gabrielle undergoes a significant transformation, evolving from a sheltered girl into a skilled fighter and a source of moral guidance for Xena. As the series progresses, Xena and Gabrielle gather a loyal group of companions, forming a found family that supports their quest for justice. The overarching narrative explores the complexities of redemption, the enduring power of friendship, and the ongoing battle between good and evil, culminating in a final confrontation that tests Xena's resolve and determines the fate of the world.",
+        "categorized_keywords": {
+          "themes": [
+            "redemption",
+            "friendship",
+            "justice",
+            "forgiveness",
+            "good-vs-evil",
+            "found-family",
+            "female-empowerment"
+          ],
+          "plot_and_concepts": [
+            "mythology",
+            "heroic-quest",
+            "time-travel",
+            "ancient-history",
+            "warrior-code"
+          ],
+          "mood_and_tone": [
+            "action-adventure",
+            "campy",
+            "humorous",
+            "epic",
+            "dramatic"
+          ],
+          "genre_and_tropes": [
+            "fantasy",
+            "action-adventure",
+            "mythological-fiction",
+            "strong-female-lead",
+            "buddy-cop"
+          ],
+          "setting": [
+            "ancient-greece",
+            "mythical-realm",
+            "alternate-timeline"
+          ],
+          "character_archetypes": [
+            "warrior",
+            "naive-heroine",
+            "wise-mentor",
+            "anti-hero",
+            "trickster"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-adventure",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "warrior-sword",
+            "greek-temple",
+            "chariot-race",
+            "amazon-tribe",
+            "gods-and-goddesses"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "fantasy-violence"
+          ]
+        },
+        "keyword_sentence": "Xena: Warrior Princess is a campy action-adventure series set in a mythical realm, following a warrior’s quest for redemption through heroic deeds and enduring friendship."
+      },
+      "duration_seconds": 67.11357045173645
+    }
+  }
+}

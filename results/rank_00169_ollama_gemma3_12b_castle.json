@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Castle",
+    "overview": "After a serial killer imitates the plots of his novels, successful mystery novelist Richard \"Rick\" Castle receives permission from the Mayor of New York City to tag along with an NYPD homicide investigation team for research purposes.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "release_year": 2009,
+    "vote_count": 1632
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Castle is a procedural crime drama that blends police investigation with comedic elements and a touch of romantic tension. The series follows a bestselling mystery novelist who partners with a New York City police detective, offering a unique perspective on solving crimes while navigating a complex professional and personal relationship. The show balances gritty crime scenes with lighthearted banter and a playful exploration of the creative process, appealing to a broad audience seeking both suspense and entertainment. Recurring themes include the intersection of fiction and reality, the nature of justice, and the evolving dynamics of partnership.",
+        "spoiler_rich_plot_summary": "The series begins with Richard Castle, a celebrated mystery author, seeking inspiration after his latest book flops. He's granted permission to shadow NYPD Detective Kate Beckett and her team, ostensibly for research. Initially, their partnership is fraught with friction; Beckett is skeptical of Castle's presence, while Castle finds the realities of police work both fascinating and frustrating. As they work together, they begin to develop a strong professional bond, which gradually evolves into a romantic relationship, though complicated by Beckett's past trauma and Castle's own personal life. Throughout the series, Castle's fictional plots often eerily mirror real-life crimes, leading to speculation about his involvement and blurring the lines between reality and imagination. Recurring antagonists and complex cases challenge their partnership and force them to confront personal demons. The series explores Castle's family history and his relationship with his daughter, Alexis, adding layers of emotional depth. While the cases are often resolved, underlying mysteries and personal conflicts persist, driving the narrative forward and shaping the characters' journeys.",
+        "categorized_keywords": {
+          "themes": [
+            "crime-and-punishment",
+            "fiction-versus-reality",
+            "partnership",
+            "romantic-tension",
+            "family-dynamics",
+            "justice"
+          ],
+          "plot_and_concepts": [
+            "crime-procedural",
+            "mystery-novel",
+            "police-investigation",
+            "serial-crime",
+            "copycat-crime"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "comedic",
+            "suspenseful",
+            "romantic"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "buddy-cop",
+            "romantic-comedy",
+            "procedural-drama"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "detective",
+            "author",
+            "reluctant-hero",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "crime-scene",
+            "police-badge",
+            "manuscript",
+            "evidence-board"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Blending crime-procedural elements with lighthearted comedy and romantic tension, Castle follows a celebrated author and a dedicated detective as they navigate the complexities of justice and partnership in modern-day New York City."
+      },
+      "duration_seconds": 57.43605947494507
+    }
+  }
+}

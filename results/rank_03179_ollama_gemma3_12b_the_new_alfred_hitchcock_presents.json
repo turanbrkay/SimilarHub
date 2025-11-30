@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "The New Alfred Hitchcock Presents",
+    "overview": "The New Alfred Hitchcock Presents is an American anthology series that aired on NBC from 1985 to 1986, and on the USA Network from 1987 to 1989. The series is an updated re-imagining of the classic 1955 series Alfred Hitchcock Presents.",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 1985,
+    "vote_count": 43
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The New Alfred Hitchcock Presents is a revival of the classic anthology series, presenting a collection of self-contained suspenseful and often darkly humorous stories. Each episode features a new cast and explores themes of morality, deception, and unexpected consequences. The series maintains the signature style of Alfred Hitchcock – a blend of sophisticated storytelling, unsettling atmosphere, and a playful approach to the macabre. It offers a mix of psychological thrillers, crime dramas, and tales of the bizarre, appealing to viewers who appreciate intelligent and suspenseful entertainment.",
+        "spoiler_rich_plot_summary": "Each episode of The New Alfred Hitchcock Presents tells a distinct story, often beginning with a seemingly ordinary situation that gradually descends into a web of intrigue and danger. Stories frequently involve characters grappling with moral dilemmas, facing betrayal, or uncovering hidden truths. The narratives often feature unexpected twists and turns, challenging the viewer's assumptions and leaving a lingering sense of unease. While the anthology format prevents a continuous overarching plot, recurring motifs of paranoia, deception, and the fragility of human relationships emerge across the series. The endings are often ambiguous or ironic, leaving the audience to ponder the deeper implications of the events they have witnessed. The series explores the darker aspects of human nature, often with a touch of dark humor and a sophisticated narrative style.",
+        "categorized_keywords": {
+          "themes": [
+            "morality",
+            "deception",
+            "consequences",
+            "paranoia",
+            "betrayal",
+            "dark-humor",
+            "suspense"
+          ],
+          "plot_and_concepts": [
+            "anthology-series",
+            "twist-endings",
+            "crime-drama",
+            "psychological-thriller",
+            "mystery"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "darkly-comic",
+            "unsettling",
+            "sophisticated"
+          ],
+          "genre_and_tropes": [
+            "mystery-drama",
+            "anthology",
+            "noir"
+          ],
+          "setting": [
+            "modern-day",
+            "urban-setting"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "victim",
+            "deceiver"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "self-contained-episodes"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "twist-reveal",
+            "unexpected-consequence",
+            "moral-dilemma"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The New Alfred Hitchcock Presents delivers suspenseful and darkly comic mystery dramas through a collection of self-contained episodes, exploring themes of morality and deception in a sophisticated urban setting."
+      },
+      "duration_seconds": 51.09036898612976
+    }
+  }
+}

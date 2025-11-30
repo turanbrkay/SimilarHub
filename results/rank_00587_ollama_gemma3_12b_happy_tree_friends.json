@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Happy Tree Friends",
+    "overview": "This action and adventure comedy is drawn in simple appearance and combines cute forest animals with extreme graphic violence. Each episode revolves around the characters enduring accidental events of bloodshed, pain, dismemberment and/or death.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1999,
+    "vote_count": 504
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Happy Tree Friends is a surreal, darkly comedic animated series that juxtaposes adorable character designs with shockingly violent and often absurd scenarios. The show's premise relies on the contrast between its seemingly innocent aesthetic and the graphic nature of its humor, creating a disorienting and darkly funny experience. While ostensibly a comedy, the series explores themes of accidental harm, consequence, and the fragility of life through a lens of extreme cartoon violence. The show's episodic structure allows for a wide range of bizarre and often disturbing situations, appealing to audiences seeking unconventional and transgressive humor.",
+        "spoiler_rich_plot_summary": "The series doesn't follow a traditional narrative arc, instead presenting a series of self-contained episodes centered around the misadventures of a group of forest animals. Each episode typically begins with a seemingly innocuous situation, which quickly escalates into a chain of unfortunate events leading to gruesome and often comical deaths. While the characters retain a degree of continuity across episodes, there is no overarching plot or character development. The humor derives from the unexpected and often absurd ways in which the animals meet their ends, ranging from simple accidents to elaborate and bizarre traps. The series consistently subverts expectations, presenting a darkly comedic exploration of violence and consequence without a clear resolution or overarching narrative.",
+        "categorized_keywords": {
+          "themes": [
+            "accidental-harm",
+            "consequence",
+            "violence",
+            "absurdity",
+            "dark-humor",
+            "fragility-of-life"
+          ],
+          "plot_and_concepts": [
+            "slapstick-comedy",
+            "cartoon-violence",
+            "episodic-story",
+            "dark-comedy"
+          ],
+          "mood_and_tone": [
+            "surreal",
+            "darkly-comic",
+            "grotesque",
+            "absurd"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "comedy",
+            "black-comedy",
+            "surreal-humor"
+          ],
+          "setting": [
+            "forest",
+            "cartoon-world"
+          ],
+          "character_archetypes": [
+            "innocent-victim",
+            "cartoon-animal"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "anthology-series"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "cartoon-gore",
+            "forest-setting",
+            "animal-characters"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "cartoon-gore"
+          ]
+        },
+        "keyword_sentence": "Happy Tree Friends is a darkly comedic animated series that uses cartoon violence and absurd situations to explore themes of consequence and the fragility of life within a surreal forest setting."
+      },
+      "duration_seconds": 53.66531777381897
+    }
+  }
+}

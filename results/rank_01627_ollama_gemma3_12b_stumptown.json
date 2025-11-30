@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Stumptown",
+    "overview": "Dex Parios is a strong, assertive, and unapologetically sharp-witted Army veteran working as a P.I. in Portland, Oregon. With a complicated personal history and only herself to rely on, she solves other people’s messes with a blind eye toward her own.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2019,
+    "vote_count": 128
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Stumptown is a crime drama series centered on a troubled former Army veteran turned private investigator in Portland, Oregon. The show blends elements of noir, procedural, and character-driven storytelling, exploring themes of trauma, addiction, and redemption. Dex Parios, the protagonist, navigates a complex web of cases while grappling with her own personal demons, creating a gritty and emotionally resonant viewing experience. The series distinguishes itself through its strong female lead and its authentic portrayal of a city known for its unique culture and atmosphere.",
+        "spoiler_rich_plot_summary": "The series begins with Dex Parios, recently discharged from the Army and struggling with PTSD and gambling debts, becoming a private investigator in Portland. Her initial case involves investigating the disappearance of a local blues singer, which quickly spirals into a larger conspiracy involving organized crime and powerful figures within the city. As Dex delves deeper, she uncovers secrets about her own past and the circumstances surrounding her brother's death. Throughout the first season, she encounters a colorful cast of characters, including a quirky police lieutenant and a mysterious informant, forming uneasy alliances and facing constant threats. The investigation leads her to confront her own demons and the people responsible for the tragedies in her life, culminating in a confrontation that forces her to make difficult choices with lasting consequences. While she finds some measure of closure regarding her brother, the series establishes that her past will continue to haunt her, and new dangers will inevitably arise.",
+        "categorized_keywords": {
+          "themes": [
+            "trauma",
+            "redemption",
+            "addiction",
+            "family-secrets",
+            "justice",
+            "loss",
+            "moral-ambiguity"
+          ],
+          "plot_and_concepts": [
+            "private-investigation",
+            "crime-procedural",
+            "noir",
+            "conspiracy",
+            "missing-person",
+            "organized-crime"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "dark",
+            "cynical",
+            "suspenseful",
+            "noir"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "strong-female-lead",
+            "noir-detective",
+            "found-family"
+          ],
+          "setting": [
+            "portland-oregon",
+            "modern-day",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "troubled-heroine",
+            "veteran",
+            "private-eye",
+            "anti-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "private-eye-office",
+            "portland-rain",
+            "gambling-den",
+            "police-station",
+            "veteran-benefits"
+          ],
+          "maturity_and_content": [
+            "gambling",
+            "substance-abuse",
+            "violence"
+          ]
+        },
+        "keyword_sentence": "Stumptown is a gritty crime drama set in Portland, Oregon, following a troubled veteran as she navigates a world of secrets, violence, and personal demons while working as a private investigator."
+      },
+      "duration_seconds": 66.49782252311707
+    }
+  }
+}

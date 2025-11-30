@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "The Critic",
+    "overview": "The Critic is an American prime time animated series created by writing partners Al Jean and Mike Reiss, who had previously worked as writers and showrunners on The Simpsons. The show follows the life of a 36-year-old film critic from New York named Jay Sherman, voiced by Jon Lovitz. 23 episodes were produced, first broadcast on ABC in 1994 and finishing its original run on Fox in 1995.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 1994,
+    "vote_count": 94
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Critic is an animated sitcom that satirizes the film industry and celebrity culture through the eyes of a cynical film critic. The series blends comedic elements with dramatic arcs, exploring themes of loneliness, regret, and the search for meaning in a superficial world. Jay Sherman's sharp wit and acerbic observations provide a constant stream of commentary on movies and the people who make them, while also revealing his own personal struggles and vulnerabilities. The show's humor is often dark and self-deprecating, and its characters are flawed and complex, making for a unique and often poignant viewing experience.",
+        "spoiler_rich_plot_summary": "The series follows Jay Sherman, a film critic whose life is a constant cycle of reviewing movies and navigating relationships. Early episodes establish his reputation for brutally honest reviews and his strained connections with his ex-fiancée Tammy and his eccentric family. As the series progresses, Jay attempts to find personal fulfillment, often through romantic pursuits and attempts to improve his professional standing. Recurring plotlines involve his complicated relationship with his family, particularly his mother and sister, and his ongoing struggle to find genuine connection amidst the superficiality of the film industry. While Jay experiences moments of happiness and success, he consistently finds himself returning to a state of cynicism and loneliness, highlighting the challenges of finding meaning in a world obsessed with entertainment and appearances. The series concludes with Jay facing a pivotal moment that forces him to confront his past and consider his future, leaving his ultimate fate ambiguous.",
+        "categorized_keywords": {
+          "themes": [
+            "cynicism",
+            "loneliness",
+            "regret",
+            "superficiality",
+            "redemption",
+            "family-dynamics"
+          ],
+          "plot_and_concepts": [
+            "satire",
+            "film-criticism",
+            "romantic-pursuit",
+            "ensemble-cast",
+            "serialized-story"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "satirical",
+            "witty",
+            "cynical"
+          ],
+          "genre_and_tropes": [
+            "animated-comedy",
+            "satirical-comedy",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "cynical-protagonist",
+            "anti-hero",
+            "eccentric-family"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "film-reviews",
+            "movie-theater",
+            "premiere-event",
+            "red-carpet"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Critic is a darkly comic animated series that satirizes the film industry and explores themes of loneliness and regret through the cynical perspective of a film critic navigating a superficial world."
+      },
+      "duration_seconds": 62.04584050178528
+    }
+  }
+}

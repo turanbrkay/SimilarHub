@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "The Rockford Files",
+    "overview": "Cranky but likable L.A. PI Jim Rockford pulls no punches (but takes plenty of them). An ex-con sent to the slammer for a crime he didn't commit, Rockford takes on cases others don't want, aided by his tough old man, his lawyer girlfriend and some shady associates from his past.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 1974,
+    "vote_count": 82
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Rockford Files is a crime drama series centered on Jim Rockford, a former convict turned private investigator operating out of a mobile home in Malibu, California. The show distinguishes itself through its unconventional protagonist, who is more comfortable evading danger than confronting it, and its focus on character development and nuanced storytelling. It blends elements of classic detective fiction with a wry sense of humor and a grounded portrayal of the criminal justice system, offering a refreshing alternative to more action-oriented crime shows. The series explores themes of redemption, family, and the complexities of morality in a morally ambiguous world.",
+        "spoiler_rich_plot_summary": "The series begins with Jim Rockford, recently released from prison after serving time for a crime he didn't commit, attempting to build a quiet life as a private investigator. He takes on cases referred to him by his former cellmate and friend, Angel, often involving missing persons, petty theft, and insurance fraud. Rockford's past continually resurfaces, with former associates and enemies seeking revenge or attempting to exploit his skills. He is aided by his father, Gideon, a gruff and resourceful man with a mysterious past, and his lawyer girlfriend, Beth, who provides legal support and a voice of reason. As Rockford’s reputation grows, he becomes embroiled in increasingly complex and dangerous cases, often involving powerful and corrupt individuals. He navigates a web of deceit and betrayal, relying on his wits and resourcefulness to survive. Throughout the series, Rockford grapples with the consequences of his past and strives to build a life of integrity, while constantly facing threats from those who seek to exploit or harm him. The series concludes with Rockford having established a stable life and career, having confronted his demons and found a measure of peace, although the ever-present threat of his past ensures that his journey is far from over.",
+        "categorized_keywords": {
+          "themes": [
+            "redemption",
+            "family-dynamics",
+            "justice-system",
+            "past-haunts",
+            "moral-ambiguity",
+            "identity-quest"
+          ],
+          "plot_and_concepts": [
+            "private-investigation",
+            "false-accusation",
+            "crime-procedural",
+            "wrongful-conviction",
+            "undercover-work"
+          ],
+          "mood_and_tone": [
+            "wry-humor",
+            "noir",
+            "gritty",
+            "character-driven",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "detective-fiction",
+            "neo-noir",
+            "fish-out-of-water"
+          ],
+          "setting": [
+            "malibu-california",
+            "1970s",
+            "los-angeles"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "gruff-father-figure",
+            "resourceful-lawyer",
+            "ex-con"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format",
+            "character-focused"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "mobile-home",
+            "sheriffs-hat",
+            "vintage-car",
+            "private-eye-office"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Rockford Files is a gritty, character-driven crime drama set in 1970s California, following a reluctant ex-con turned private investigator as he navigates a world of false accusations, moral ambiguity, and the ever-present threat of his past."
+      },
+      "duration_seconds": 70.88984870910645
+    }
+  }
+}

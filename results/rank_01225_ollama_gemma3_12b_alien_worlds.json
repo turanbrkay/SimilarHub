@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "Alien Worlds",
+    "overview": "Applying the laws of life on Earth to the rest of the galaxy, this series blends science fact and fiction to imagine alien life on other planets.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2020,
+    "vote_count": 196
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Alien Worlds is a documentary series that explores the possibilities of extraterrestrial life by applying known biological principles to various exoplanets. Combining scientific data with speculative fiction, the series presents compelling visualizations of potential alien ecosystems and the creatures that might inhabit them. It aims to educate viewers about astrobiology while sparking imagination about the vastness and potential diversity of life beyond Earth. The series blends scientific rigor with creative storytelling, offering a unique and engaging perspective on the search for life in the universe. Ultimately, it encourages viewers to consider the possibilities of life beyond our planet and the scientific processes used to investigate them.",
+        "spoiler_rich_plot_summary": "Each episode of Alien Worlds focuses on a different exoplanet, presenting a detailed analysis of its environment – atmosphere, geology, potential for liquid water – based on current scientific understanding. Scientists and artists collaborate to construct plausible scenarios for the evolution of life on these worlds, considering factors like available energy sources, planetary conditions, and potential evolutionary pathways. The series explores diverse possibilities, from simple microbial life to complex, multicellular organisms, and even speculative civilizations. While not a narrative in the traditional sense, each episode builds a compelling case for the potential habitability of the featured planet, culminating in a vivid depiction of what alien life might look like. The series doesn't follow a linear plot but rather presents a scientific and artistic exploration of different planetary environments and the possibilities they hold for life.",
+        "categorized_keywords": {
+          "themes": [
+            "astrobiology",
+            "scientific-exploration",
+            "evolution",
+            "habitability",
+            "planetary-science"
+          ],
+          "plot_and_concepts": [
+            "exoplanet-exploration",
+            "scientific-visualization",
+            "speculative-biology",
+            "habitability-assessment"
+          ],
+          "mood_and_tone": [
+            "educational",
+            "thought-provoking",
+            "optimistic",
+            "wonder"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "science-documentary",
+            "speculative-fiction"
+          ],
+          "setting": [
+            "exoplanets",
+            "outer-space",
+            "alien-worlds"
+          ],
+          "character_archetypes": [
+            "scientist",
+            "astronomer",
+            "biologist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "science-enthusiasts"
+          ],
+          "detail_plot": [
+            "planetary-surface",
+            "alien-ecosystem",
+            "atmospheric-conditions",
+            "geological-formations"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Alien Worlds is an educational documentary series that explores the possibilities of life on exoplanets, blending scientific data and speculative biology to visualize potential alien ecosystems and inspire wonder about the vastness of the universe."
+      },
+      "duration_seconds": 57.4688937664032
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "input_data": {
+    "title": "Lonesome Dove",
+    "overview": "A pair of longtime friends and former Texas Rangers crave one last adventure before hanging-up their spurs. After stealing over a thousand head of cattle from rustlers south of the border, they recruit an unlikely crew of hands to drive the herd 3,000 miles north to the grasslands of Montana.",
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "release_year": 1989,
+    "vote_count": 166
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Lonesome Dove is a sprawling Western drama that chronicles the arduous cattle drive from Texas to Montana undertaken by two former lawmen, Gus McCrae and Woodrow F. Call. The series explores themes of friendship, ambition, regret, and the fading frontier spirit. It blends elements of adventure, character study, and historical fiction, offering a poignant reflection on the American West and the men who shaped it. The narrative is driven by complex relationships and the relentless pursuit of a dream, creating a bittersweet and ultimately tragic portrait of a bygone era.",
+        "spoiler_rich_plot_summary": "The story begins with Gus McCrae and Woodrow F. Call, former Texas Rangers, living a comfortable but restless life in Lonesome Dove. Driven by a desire for one last grand adventure and spurred by the theft of their cattle by the ruthless Peter Ekburg, they decide to drive the stolen herd north to Montana. They recruit a diverse crew, including the young and eager Jake Spader, the loyal but flawed Newt Kincaid, and the stoic Deets. The journey is fraught with peril, including encounters with hostile Native American tribes, treacherous terrain, and the constant threat of rustlers. As the drive progresses, tensions rise between Gus and Call, reflecting their differing philosophies and ambitions.  Call’s relentless pursuit of perfection and his inability to connect emotionally lead to tragedy and loss.  Jake Spader’s descent into depravity and his eventual confrontation with Call highlight the darker side of human nature.  Newt Kincaid finds love and loss, while Deets remains the steadfast anchor of the group. The series culminates in a bittersweet resolution, with the surviving members reaching Montana but forever marked by the hardships and sacrifices endured along the way, and the realization that the frontier they sought is already fading.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "ambition",
+            "regret",
+            "loss",
+            "frontier-spirit",
+            "redemption",
+            "duty",
+            "legacy"
+          ],
+          "plot_and_concepts": [
+            "cattle-drive",
+            "western-frontier",
+            "revenge",
+            "coming-of-age",
+            "moral-ambiguity",
+            "loss-of-innocence"
+          ],
+          "mood_and_tone": [
+            "melancholy",
+            "epic",
+            "bittersweet",
+            "stoic",
+            "gritty",
+            "reflective"
+          ],
+          "genre_and_tropes": [
+            "western",
+            "historical-drama",
+            "epic-saga",
+            "frontier-adventure",
+            "coming-of-age-story"
+          ],
+          "setting": [
+            "texas",
+            "montana",
+            "american-west",
+            "19th-century"
+          ],
+          "character_archetypes": [
+            "stoic-hero",
+            "reluctant-leader",
+            "loyal-companion",
+            "rogue",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "character-driven"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "cattle-brand",
+            "sheriffs-badge",
+            "campfire",
+            "covered-wagon",
+            "horseback-riding"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "Lonesome Dove is a sweeping, melancholy western saga that explores themes of friendship, ambition, and loss as two former lawmen embark on a perilous cattle drive across the American West, confronting both external dangers and the fading frontier spirit."
+      },
+      "duration_seconds": 73.00590515136719
+    }
+  }
+}

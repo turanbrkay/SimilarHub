@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "The Mary Tyler Moore Show",
+    "overview": "30-year-old single Mary Richards moves to Minneapolis to start a new life after a romantic break-up. There she reacquaints with Phyllis who rents her a room, and meets her upstairs neighbor and new best friend Rhoda. Mary unexpectedly lands a job as associate producer at the TV station WJM, where she works alongside her bristly boss, Lou; the comical newswriter, Murray; and the newscast's often-incompetent anchor, Ted.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1970,
+    "vote_count": 60
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Mary Tyler Moore Show is a groundbreaking sitcom that redefined the portrayal of single women on television. Centered on Mary Richards, the series explores her professional and personal life as she navigates a career in television production and builds meaningful relationships with her colleagues and friends. The show's humor is character-driven and observational, focusing on the everyday challenges and triumphs of modern life. It established a precedent for female-led sitcoms and offered a more realistic and relatable depiction of singlehood than previously seen on television, emphasizing independence and ambition.",
+        "spoiler_rich_plot_summary": "The series begins with Mary Richards seeking a fresh start in Minneapolis after a painful breakup. She finds a room in Phyllis Lindstrom’s house and unexpectedly secures a job as an associate producer at WJM-TV. Initially, Mary’s earnest attempts to impress her demanding boss, Lou Grant, are met with skepticism and frustration. Throughout the series, Mary develops close friendships with Phyllis and Rhoda, navigating their own personal struggles and romantic entanglements. Rhoda’s storyline involves a marriage to Joe, followed by a difficult divorce and subsequent career aspirations. Phyllis’s life is marked by a series of romantic relationships and a constant search for stability. As the series progresses, Mary matures professionally and personally, learning to assert herself and find fulfillment in her career and friendships. While romantic interests occasionally surface, the core of the show remains focused on the evolving dynamics of the women's lives and their pursuit of independence and happiness.",
+        "categorized_keywords": {
+          "themes": [
+            "female-empowerment",
+            "friendship",
+            "career-ambition",
+            "independence",
+            "modern-life",
+            "self-discovery"
+          ],
+          "plot_and_concepts": [
+            "workplace-comedy",
+            "romantic-relationships",
+            "coming-of-age",
+            "ensemble-cast"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "optimistic",
+            "wholesome",
+            "observational"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "workplace-comedy",
+            "found-family"
+          ],
+          "setting": [
+            "minneapolis-city",
+            "1970s",
+            "television-station"
+          ],
+          "character_archetypes": [
+            "career-woman",
+            "best-friend",
+            "quirky-boss",
+            "optimistic-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "television-studio",
+            "newsroom",
+            "typewriter",
+            "minneapolis-skyline"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Mary Tyler Moore Show is a lighthearted sitcom set in 1970s Minneapolis, celebrating female empowerment and the enduring bonds of friendship as a career-driven woman navigates the challenges of modern life in a television newsroom."
+      },
+      "duration_seconds": 62.663825273513794
+    }
+  }
+}

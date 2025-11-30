@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Popeye the Sailor",
+    "overview": "Follows the adventures of the famed spinach-eating sailor man.\n\nPopeye is one of the most popular cartoon characters of all time. This spunky but loveable spinach-eating sailor continues to delight young and old with his comic adventures, and the entire gang is around to provide plenty of rousing fun and action: Olive Oyl, Swee'Pea, Wimpy and Bluto.",
+    "genres": [
+      "Animation",
+      "Kids"
+    ],
+    "release_year": 1960,
+    "vote_count": 330
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Popeye the Sailor is a classic animated series centered around the perpetually optimistic and spinach-loving sailor and his ongoing battles with the brutish Bluto for the affection of Olive Oyl. The show's enduring appeal lies in its slapstick humor, memorable characters, and simple morality tales. It consistently delivers lighthearted entertainment suitable for a young audience, emphasizing themes of perseverance and the triumph of good over evil. The series' episodic nature and repetitive formula contribute to its timeless quality, offering a comforting and familiar viewing experience.",
+        "spoiler_rich_plot_summary": "The series primarily revolves around Popeye's attempts to win the heart of Olive Oyl, who is often targeted by the villainous Bluto. Bluto frequently kidnaps Olive, forcing Popeye to confront him in a series of comical and often destructive battles. Popeye's signature move – consuming a can of spinach – grants him superhuman strength, allowing him to overcome Bluto's physical advantage. Wimpy, a perpetually hungry character, often seeks to exploit Popeye's generosity, while Swee'Pea, a small orphan, becomes a cherished member of Popeye's family. The narrative consistently reinforces the idea that kindness, courage, and a healthy dose of spinach can conquer any obstacle, though the cycle of conflict and resolution repeats throughout the series. While the characters face various challenges, the underlying structure remains consistent, ensuring a predictable but enjoyable outcome.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "perseverance",
+            "good-vs-evil",
+            "optimism",
+            "family-values"
+          ],
+          "plot_and_concepts": [
+            "slapstick-comedy",
+            "villain-pursuit",
+            "superhero-transformation",
+            "romantic-rivalry",
+            "episodic-story"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "humorous",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "kids-entertainment",
+            "cartoon-comedy"
+          ],
+          "setting": [
+            "coastal-town",
+            "fictional-location"
+          ],
+          "character_archetypes": [
+            "hero",
+            "villain",
+            "damsel-in-distress",
+            "sidekick",
+            "lovable-goof"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "simple-narrative"
+          ],
+          "target_audience": [
+            "young-children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "spinach-can",
+            "sailor-hat",
+            "olive-oyl",
+            "wimpy-hamburger",
+            "sweepea"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Popeye the Sailor is a lighthearted animated series for young children, featuring a heroic sailor who overcomes a villainous rival with the help of spinach and a cast of lovable characters."
+      },
+      "duration_seconds": 62.49440097808838
+    }
+  }
+}

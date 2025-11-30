@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Fraggle Rock",
+    "overview": "The Fraggles are a fun-loving community of creatures who live in a subterranean fantasy land where they love to play, sing and dance their cares away, sharing their world with the tiny Doozers and the giant Gorgs. The series teaches empathy and tolerance and encourages children to understand people different from themselves.",
+    "genres": [
+      "Kids",
+      "Family",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1983,
+    "vote_count": 161
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Fraggle Rock is a whimsical children's series that explores themes of friendship, tolerance, and understanding through the interactions of three distinct cultures: the playful Fraggles, the industrious Doozers, and the grumpy Gorgs. Set in a vibrant underground world, the show uses music and colorful animation to create a lighthearted and educational experience for young viewers, emphasizing the importance of appreciating differences and finding common ground. The series fosters a sense of wonder and encourages empathy, presenting a gentle and optimistic view of community and cooperation.",
+        "spoiler_rich_plot_summary": "The series revolves around the Fraggles, who live to dance and play, and their interactions with the Doozers, who are obsessed with building and collecting radishes. The Gorgs, a family of grumpy creatures, live nearby and often try to capture the Fraggles for food. Gobo, the adventurous Fraggle, often ventures beyond his community, accompanied by Mokey, Boober, and Wembley, to explore the world and learn about the Gorgs and Doozers. Throughout the series, the Fraggles learn about the importance of respecting the Doozers' work ethic and understanding the Gorgs' perspective, even when they seem hostile. The series doesn't follow a linear plot but rather presents episodic adventures that reinforce the core themes of acceptance and the interconnectedness of different cultures. The series concludes with a sense of harmony and mutual respect between the three communities, suggesting that even seemingly disparate groups can find common ground and coexist peacefully.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "tolerance",
+            "acceptance",
+            "community",
+            "understanding",
+            "interconnectedness",
+            "cooperation"
+          ],
+          "plot_and_concepts": [
+            "cultural-exchange",
+            "monster-of-the-week",
+            "episodic-adventure"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "lighthearted",
+            "optimistic",
+            "playful"
+          ],
+          "genre_and_tropes": [
+            "kids-tv",
+            "fantasy-world",
+            "musical-tv"
+          ],
+          "setting": [
+            "underground-world",
+            "fantasy-setting",
+            "vibrant-colors"
+          ],
+          "character_archetypes": [
+            "adventurous-protagonist",
+            "wise-mentor",
+            "grumpy-villain",
+            "playful-character"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "radishes",
+            "doozers-buildings",
+            "fraggle-rock-cave",
+            "gorgs-garden"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Fraggle Rock is a lighthearted and whimsical kids' series set in a vibrant underground world, exploring themes of friendship, tolerance, and understanding through the interactions of playful Fraggles, industrious Doozers, and grumpy Gorgs."
+      },
+      "duration_seconds": 61.873610496520996
+    }
+  }
+}

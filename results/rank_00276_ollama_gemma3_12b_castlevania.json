@@ -1,0 +1,88 @@
+{
+  "input_data": {
+    "title": "Castlevania",
+    "overview": "A dark medieval fantasy following the last surviving member of the disgraced Belmont clan, trying to save Eastern Europe from extinction at the hand of Vlad Dracula Tepe himself. Inspired by the classic video game series.",
+    "genres": [
+      "Animation",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2017,
+    "vote_count": 1082
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Castlevania is a dark fantasy animated series blending action, horror, and mature themes within a medieval European setting. The show follows a lone warrior's quest to defeat Dracula and his army of monsters, exploring themes of revenge, redemption, and the corrupting influence of power. Its blend of stylized animation, intense action sequences, and complex character dynamics creates a visceral and engaging viewing experience, appealing to fans of both video games and dark fantasy narratives. The series is characterized by its brutal action, morally ambiguous characters, and exploration of the consequences of violence.",
+        "spoiler_rich_plot_summary": "The series begins with Trevor Belmont, the last of his clan, witnessing the execution of his lover, Lisa, for falsely being accused of witchcraft. Enraged, he vows revenge against Vlad Dracula Tepe, who orchestrated her death. Dracula, in turn, plans to unleash a horde of demons upon humanity, seeking to eradicate the species. Trevor reluctantly teams up with Sypha Belnades, a Speaker who can channel magical energies, and Alucard, Dracula’s own son who opposes his father’s plans. They journey across Eastern Europe, battling Dracula’s forces and uncovering the reasons behind his hatred for humanity. Along the way, they encounter various allies and enemies, facing betrayals and losses. As they progress, the trio confronts the philosophical and moral implications of their actions, questioning the nature of good and evil. The series culminates in a final confrontation with Dracula, where the fate of humanity hangs in the balance, and the characters must make difficult choices that will shape their destinies and the future of the world.",
+        "categorized_keywords": {
+          "themes": [
+            "revenge",
+            "redemption",
+            "corruption",
+            "good-vs-evil",
+            "loss",
+            "betrayal",
+            "family-loyalty",
+            "sacrifice"
+          ],
+          "plot_and_concepts": [
+            "dark-fantasy",
+            "monster-hunting",
+            "vampire-politics",
+            "demon-invasion",
+            "magic-system",
+            "quest"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "violent",
+            "grim",
+            "suspenseful",
+            "epic"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "action-adventure",
+            "dark-fantasy",
+            "monster-of-the-week",
+            "found-family"
+          ],
+          "setting": [
+            "eastern-europe",
+            "medieval",
+            "castle-setting",
+            "dark-forest"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "anti-hero",
+            "wise-mentor",
+            "tragic-hero",
+            "fallen-prince"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "vampire-fangs",
+            "magic-circles",
+            "demon-portals",
+            "castle-ruins",
+            "sword-combat"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "sexual-content",
+            "gore"
+          ]
+        },
+        "keyword_sentence": "Castlevania is a dark and violent animated series set in medieval Eastern Europe, following a reluctant hero and his allies as they battle a vampire lord and his demonic horde in a quest for revenge and redemption."
+      },
+      "duration_seconds": 74.33999752998352
+    }
+  }
+}

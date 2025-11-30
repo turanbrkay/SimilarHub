@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Alex Rider",
+    "overview": "Everything changes when Alex Rider learns that his uncle Ian has actually been killed in the line of duty as a British spy. The normal teen is approached by the head of The Department and pressured to help investigate his uncle's death. Alex reluctantly assumes a new identity and goes undercover in a remote boarding school called Point Blanc.",
+    "genres": [
+      "Drama",
+      "Action & Adventure"
+    ],
+    "release_year": 2020,
+    "vote_count": 370
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Alex Rider is a teen spy thriller series that blends action-adventure with a coming-of-age narrative. The show follows a reluctant teenager thrust into the world of espionage after uncovering the truth about his uncle's death. It explores themes of duty, identity, and the loss of innocence, offering a fast-paced and suspenseful viewing experience with a focus on resourceful problem-solving and thrilling set pieces. The series maintains a balance between grounded realism and over-the-top spy tropes, appealing to a young adult audience while retaining elements of intrigue for older viewers.",
+        "spoiler_rich_plot_summary": "The series begins with Alex Rider, a seemingly ordinary teenager, discovering that his uncle, Ian Rider, a MI5 agent, has died in what is officially reported as a car accident. However, Alex soon learns the truth: Ian was a spy and his death was a cover-up. Recruited by the secretive Department, Alex is forced to assume his uncle’s identity and go undercover at Point Blanc, a prestigious boarding school in the Swiss Alps. The school is revealed to be a training ground for assassins run by the ruthless Herod Sayle. Alex navigates the dangerous environment, uncovering Sayle’s sinister plans to manipulate world leaders. He faces numerous challenges, including intense training, deadly encounters with Sayle’s agents, and the constant threat of exposure. Throughout his missions, Alex grapples with the moral implications of his actions and the burden of his uncle’s legacy, ultimately striving to dismantle Sayle’s operation and bring him to justice while struggling to maintain his own sense of self.",
+        "categorized_keywords": {
+          "themes": [
+            "duty-and-responsibility",
+            "identity-crisis",
+            "loss-of-innocence",
+            "revenge",
+            "moral-ambiguity",
+            "coming-of-age"
+          ],
+          "plot_and_concepts": [
+            "undercover-operation",
+            "spy-thriller",
+            "boarding-school-setting",
+            "conspiracy",
+            "assassination",
+            "secret-organization"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "action-packed",
+            "dark",
+            "tense",
+            "thrilling"
+          ],
+          "genre_and_tropes": [
+            "teen-spy",
+            "action-adventure",
+            "conspiracy-thriller",
+            "reluctant-hero"
+          ],
+          "setting": [
+            "switzerland",
+            "boarding-school",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "mentor",
+            "villain",
+            "spy"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "fast-paced"
+          ],
+          "target_audience": [
+            "young-adult"
+          ],
+          "detail_plot": [
+            "boarding-school-campus",
+            "spy-gadgets",
+            "undercover-identity",
+            "alpine-setting"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "suspense"
+          ]
+        },
+        "keyword_sentence": "Alex Rider is a suspenseful young-adult spy thriller series set in a modern-day boarding school, following a reluctant hero’s journey as he confronts a dangerous conspiracy and grapples with themes of duty and the loss of innocence."
+      },
+      "duration_seconds": 63.08039426803589
+    }
+  }
+}

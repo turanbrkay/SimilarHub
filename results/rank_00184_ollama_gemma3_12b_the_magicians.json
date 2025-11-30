@@ -1,0 +1,88 @@
+{
+  "input_data": {
+    "title": "The Magicians",
+    "overview": "Brakebills University is a secret institution specializing in magic. There, amidst an unorthodox education of spellcasting, a group of twenty-something friends soon discover that a magical fantasy world they read about as children is all too real— and poses grave danger to humanity.",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2015,
+    "vote_count": 1503
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Magicians is a dark fantasy series that blends elements of coming-of-age drama with a complex exploration of magic and its consequences. Following a group of young adults admitted to a secret university for magicians, the series delves into the realities of a magical world far more dangerous and morally ambiguous than they initially imagined. It explores themes of trauma, responsibility, and the burden of power, often subverting traditional fantasy tropes with a cynical and mature perspective. The show balances moments of humor and camaraderie with intense emotional stakes and a pervasive sense of dread, creating a compelling and often unsettling narrative experience.",
+        "spoiler_rich_plot_summary": "The series begins with Quentin Coldwater, a depressed young man, gaining admission to Brakebills University for Magical Pedagogy. He and his friends, including Alice Quinn, Julia Wicker, and Eliot Waugh, quickly discover that the magical world of Fillory, which they read about as children, is real and facing a crisis. Initially, they embrace the adventure and attempt to save Fillory from a looming threat, but their actions have unforeseen and devastating consequences for both Fillory and their own world. As they grow more powerful, they confront the darker aspects of magic and the moral compromises required to wield it. The narrative shifts between the mundane world and Fillory, exploring the characters' personal struggles and the interconnectedness of both realms. Betrayals, losses, and difficult choices shape their journeys, forcing them to question their beliefs and confront their own demons. The series progresses through multiple cycles and timelines, revealing deeper layers of the magical world and the characters' roles within it, ultimately leading to a confrontation with forces beyond their comprehension and a reckoning with the true cost of magic.",
+        "categorized_keywords": {
+          "themes": [
+            "magic-and-power",
+            "trauma-and-healing",
+            "identity-quest",
+            "loss-and-grief",
+            "moral-ambiguity",
+            "responsibility",
+            "found-family"
+          ],
+          "plot_and_concepts": [
+            "alternate-reality",
+            "time-travel",
+            "portal-fantasy",
+            "magical-education",
+            "quest-narrative",
+            "cycle-of-reincarnation"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "somber",
+            "suspenseful",
+            "melancholy",
+            "whimsical"
+          ],
+          "genre_and_tropes": [
+            "urban-fantasy",
+            "portal-fantasy",
+            "coming-of-age",
+            "magical-realism",
+            "dark-fantasy"
+          ],
+          "setting": [
+            "modern-day",
+            "university-campus",
+            "alternate-timeline",
+            "fillory"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "anti-hero",
+            "wise-mentor",
+            "morally-gray-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "brakebills-university",
+            "fillory-kingdom",
+            "magical-text",
+            "spellbook",
+            "portal"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "substance-abuse",
+            "sexual-content"
+          ]
+        },
+        "keyword_sentence": "The Magicians is a darkly comic and suspenseful series that explores themes of trauma, responsibility, and the burden of power within a magical world, blending elements of urban fantasy and coming-of-age drama through the journeys of a group of young adults attending a secret university."
+      },
+      "duration_seconds": 71.53066658973694
+    }
+  }
+}

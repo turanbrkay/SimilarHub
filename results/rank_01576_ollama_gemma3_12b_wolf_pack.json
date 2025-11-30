@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Wolf Pack",
+    "overview": "When a raging wildfire releases a supernatural creature, four young adults find themselves drawn together under a full moon.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "release_year": 2023,
+    "vote_count": 133
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Wolf Pack is a supernatural drama series centered on a group of teenagers whose lives become intertwined after a wildfire awakens a mysterious creature. The series blends elements of mystery, suspense, and coming-of-age narratives, exploring themes of trauma, connection, and the search for identity. It offers a blend of thrilling action sequences and character-driven storytelling, appealing to audiences interested in supernatural mysteries and the complexities of adolescent relationships. The series leans into a darker tone, punctuated by moments of hope and resilience as the characters navigate their newfound connection and the dangers it presents.",
+        "spoiler_rich_plot_summary": "The series begins with a devastating wildfire that unleashes a supernatural wolf creature, impacting the lives of four teenagers: Blair, Harlan, Maya, and Evie. Each of them is grappling with personal traumas and secrets, and they find themselves inexplicably drawn to each other under the full moon. As they investigate the creature's origins and their own connection to it, they uncover a shared history and a deeper mystery surrounding a past case involving a missing person and a pack of wolves. The teenagers discover they possess unique abilities linked to the wolf creature, and they must learn to control their powers while confronting the dangers posed by those who seek to exploit them. The investigation leads them to uncover a conspiracy involving a local law enforcement officer and a shadowy organization with a vested interest in the supernatural. As the teenagers delve deeper into the mystery, they face betrayals, loss, and the realization that their connection to the wolf creature is far more complex and dangerous than they initially believed. The series culminates in a confrontation with the forces behind the supernatural events, forcing the teenagers to make difficult choices that will determine their fate and the future of their community.",
+        "categorized_keywords": {
+          "themes": [
+            "supernatural-connection",
+            "trauma-recovery",
+            "identity-discovery",
+            "mystery-solving",
+            "found-family",
+            "loss-and-grief"
+          ],
+          "plot_and_concepts": [
+            "supernatural-creature",
+            "wildfire-disaster",
+            "pack-dynamics",
+            "investigation-procedural",
+            "conspiracy-thriller"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "mysterious",
+            "emotional",
+            "tense"
+          ],
+          "genre_and_tropes": [
+            "supernatural-drama",
+            "teen-drama",
+            "mystery-thriller",
+            "coming-of-age"
+          ],
+          "setting": [
+            "small-town-usa",
+            "modern-day",
+            "forest-setting"
+          ],
+          "character_archetypes": [
+            "troubled-teenager",
+            "investigator",
+            "mentor-figure",
+            "reluctant-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult"
+          ],
+          "detail_plot": [
+            "wolf-creature",
+            "wildfire-scar",
+            "police-badge",
+            "full-moon"
+          ],
+          "maturity_and_content": [
+            "emotional-trauma",
+            "supernatural-horror"
+          ]
+        },
+        "keyword_sentence": "Wolf Pack is a suspenseful young-adult drama series set in a small town, where a supernatural creature and a devastating wildfire intertwine the lives of troubled teenagers as they uncover a dangerous mystery and forge a found family."
+      },
+      "duration_seconds": 71.51737403869629
+    }
+  }
+}

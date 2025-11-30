@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "The Storyteller: Greek Myths",
+    "overview": "A storyteller in a labyrinth tells his dog the stories of Perseus and Medusa, Icarus and Daedalus, Theseus and the Minotaur, and Orpheus and Euridyce.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 1991,
+    "vote_count": 80
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Storyteller: Greek Myths is a visually stunning anthology series that retells classic Greek myths through the frame of a storyteller sharing tales with his dog within a labyrinth. The series blends drama, fantasy, and mythology, offering a rich and immersive experience steeped in ancient lore and timeless themes of heroism, love, loss, and consequence. Its episodic structure allows for exploration of diverse narratives, each offering a unique perspective on the enduring power of myth and its relevance to the human condition. The series is characterized by its atmospheric visuals, evocative storytelling, and a focus on character-driven narratives.",
+        "spoiler_rich_plot_summary": "The series unfolds as a man, the Storyteller, recounts various Greek myths to his loyal dog within the confines of a labyrinth. Each episode focuses on a different myth, beginning with the tale of Perseus and his quest to slay Medusa. The series then moves to the tragic story of Icarus and Daedalus, highlighting the dangers of ambition and the consequences of defying the gods. Theseus's encounter with the Minotaur and Orpheus's descent into the underworld to retrieve Eurydice are also explored, each narrative showcasing the complexities of human nature and the power of fate. Throughout the series, the Storyteller's presence provides a constant reminder of the cyclical nature of storytelling and the enduring power of these ancient tales, ultimately suggesting that these myths continue to resonate across generations, offering lessons and warnings about the human experience.",
+        "categorized_keywords": {
+          "themes": [
+            "fate",
+            "heroism",
+            "love-and-loss",
+            "mortality",
+            "hubris",
+            "redemption",
+            "mythology"
+          ],
+          "plot_and_concepts": [
+            "mythological-quest",
+            "monstrous-encounter",
+            "underworld-journey",
+            "frame-story",
+            "tragic-hero"
+          ],
+          "mood_and_tone": [
+            "atmospheric",
+            "melancholy",
+            "epic",
+            "tragic",
+            "mysterious"
+          ],
+          "genre_and_tropes": [
+            "mythological-drama",
+            "epic-fantasy",
+            "tragic-narrative",
+            "ancient-myth"
+          ],
+          "setting": [
+            "ancient-greece",
+            "labyrinth",
+            "underworld"
+          ],
+          "character_archetypes": [
+            "hero",
+            "trickster",
+            "wise-mentor",
+            "tragic-hero"
+          ],
+          "narrative_style": [
+            "episodic-storytelling",
+            "frame-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "medusa-head",
+            "daedalus-wings",
+            "minotaur-maze",
+            "eurydice-lyre"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Storyteller: Greek Myths weaves together tragic narratives of heroism, fate, and loss within the atmospheric setting of ancient Greece, exploring timeless themes through episodic storytelling and the enduring power of mythology."
+      },
+      "duration_seconds": 62.55322551727295
+    }
+  }
+}

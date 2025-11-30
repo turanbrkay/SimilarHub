@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Last Week Tonight with John Oliver",
+    "overview": "A half-hour satirical look at the week in news, politics and current events.",
+    "genres": [
+      "Talk",
+      "Comedy",
+      "News"
+    ],
+    "release_year": 2014,
+    "vote_count": 582
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Last Week Tonight with John Oliver is a weekly news satire program that delves into complex and often overlooked topics with a blend of humor and in-depth research. Hosted by John Oliver, the show distinguishes itself through its extended segments, often exceeding 20 minutes, allowing for a thorough examination of subjects ranging from political scandals to technological advancements. The show's comedic style is characterized by sharp wit and a critical perspective on societal issues, aiming to inform and entertain audiences while prompting reflection on current events. It's a unique blend of news analysis and comedic commentary, offering a distinctive voice in the media landscape.",
+        "spoiler_rich_plot_summary": "The show's format revolves around John Oliver selecting a topic each week, often one that has been underreported or deserves greater scrutiny. He presents a detailed history and analysis of the issue, incorporating archival footage, expert interviews, and satirical segments. While there isn't a traditional narrative arc, each episode builds a case for why the topic is important and often highlights the consequences of inaction or flawed policies. Recurring themes involve exposing corporate malfeasance, critiquing government regulations, and examining the impact of technology on society. The show frequently concludes with a call to action, encouraging viewers to engage with the issue and demand change. Over the years, Last Week Tonight has tackled a wide range of subjects, from the opioid crisis to the FIFA corruption scandal, consistently shaping public discourse and prompting real-world consequences.",
+        "categorized_keywords": {
+          "themes": [
+            "satire",
+            "political-commentary",
+            "social-criticism",
+            "media-analysis",
+            "corporate-accountability",
+            "government-oversight"
+          ],
+          "plot_and_concepts": [
+            "investigative-journalism",
+            "long-form-analysis",
+            "monologue",
+            "documentary-style",
+            "call-to-action"
+          ],
+          "mood_and_tone": [
+            "satirical",
+            "witty",
+            "critical",
+            "informative",
+            "humorous"
+          ],
+          "genre_and_tropes": [
+            "news-satire",
+            "talk-show",
+            "comedy-news"
+          ],
+          "setting": [
+            "modern-day",
+            "united-states"
+          ],
+          "character_archetypes": [
+            "satirical-host",
+            "investigative-reporter"
+          ],
+          "narrative_style": [
+            "serialized-segments",
+            "single-topic-focus"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "news-consumers"
+          ],
+          "detail_plot": [
+            "monologue",
+            "graph",
+            "archival-footage",
+            "expert-interview"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Last Week Tonight with John Oliver delivers a satirical and witty commentary on current events through long-form analysis and investigative journalism, offering a critical perspective on political and corporate accountability within a modern American setting."
+      },
+      "duration_seconds": 57.092341899871826
+    }
+  }
+}

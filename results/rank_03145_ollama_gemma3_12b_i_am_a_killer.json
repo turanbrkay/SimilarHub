@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "I Am a Killer",
+    "overview": "Death row inmates convicted of capital murder give a firsthand account of their crimes in this documentary series.",
+    "genres": [
+      "Documentary",
+      "Crime"
+    ],
+    "release_year": 2018,
+    "vote_count": 43
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "I Am a Killer is a documentary series offering a chilling and intimate perspective on capital murder cases. Through interviews with death row inmates, the series explores the motivations, circumstances, and psychological states that led to their crimes. It provides a unique, albeit disturbing, window into the criminal mind and the complexities of the justice system. The series is characterized by its stark realism and the unsettling nature of hearing directly from those convicted of heinous acts, prompting reflection on guilt, remorse, and the human capacity for violence. It avoids sensationalism, instead focusing on the raw and often unsettling narratives of the individuals involved.",
+        "spoiler_rich_plot_summary": "Each episode of I Am a Killer typically focuses on a single inmate on death row, presenting their account of the crime they committed. The narratives unfold chronologically, detailing the events leading up to the murder, the commission of the crime itself, and the subsequent legal proceedings. Inmates often provide explanations for their actions, ranging from troubled childhoods and mental health issues to acts of desperation and premeditated malice. The series doesn't shy away from graphic details, though it avoids gratuitous displays of violence. As the legal process unfolds, viewers witness the appeals, the legal challenges, and the eventual confirmation of the death sentence. The series concludes with a reflection on the inmate's current state, their feelings about their fate, and the impact of their actions on the victims' families. The series consistently avoids depicting the execution itself, instead focusing on the psychological and emotional toll of the legal process.",
+        "categorized_keywords": {
+          "themes": [
+            "crime-and-punishment",
+            "guilt-and-remorse",
+            "justice-system",
+            "human-psychology",
+            "death-penalty",
+            "mental-health"
+          ],
+          "plot_and_concepts": [
+            "true-crime",
+            "confessional-narrative",
+            "legal-proceedings",
+            "death-row-inmate",
+            "first-person-account"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "disturbing",
+            "reflective",
+            "unsettling",
+            "grim"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "true-crime",
+            "confessional"
+          ],
+          "setting": [
+            "prison-system",
+            "death-row",
+            "courtroom"
+          ],
+          "character_archetypes": [
+            "criminal-mind",
+            "death-row-inmate",
+            "legal-professional"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "first-person-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "prison-cell",
+            "court-transcript",
+            "death-warrant",
+            "police-investigation"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "disturbing-content",
+            "legal-proceedings"
+          ]
+        },
+        "keyword_sentence": "I Am a Killer is a somber documentary series that delves into the disturbing realities of capital murder cases through first-person accounts from death row inmates, exploring themes of guilt, the justice system, and the complexities of the human psyche."
+      },
+      "duration_seconds": 64.5633978843689
+    }
+  }
+}

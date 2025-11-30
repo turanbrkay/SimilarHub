@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Lizzie McGuire",
+    "overview": "Lizzie McGuire is all about the ordinary and not-so-ordinary adventures of a junior high student and her two best friends as they try to deal with the ups and downs of school, popularity, boys, parents, a bratty little brother--just life in general. And if Lizzie leaves anything unsaid, you can bet that her cartoon alter ego will say it for her!",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2001,
+    "vote_count": 292
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Lizzie McGuire is a coming-of-age sitcom that chronicles the everyday experiences of a teenage girl navigating the challenges of junior high school. The series blends humor with relatable themes of friendship, family, and self-discovery, often exploring the awkwardness and insecurities of adolescence. Through the device of a cartoon alter ego, Lizzie's inner thoughts and anxieties are brought to life, adding a layer of comedic introspection. The show's lighthearted tone and focus on universal adolescent struggles make it appealing to a broad audience, particularly young viewers.",
+        "spoiler_rich_plot_summary": "The series follows Lizzie McGuire as she enters junior high school, grappling with typical teenage concerns like fitting in, dealing with crushes, and navigating family dynamics. Early episodes focus on Lizzie's attempts to gain popularity and impress her crush, Ethan Craft, often with humorous and embarrassing results. As the series progresses, Lizzie confronts more complex issues such as dealing with a changing friend group, facing parental expectations, and understanding her own identity. The show explores the complexities of female friendships, showcasing both supportive bonds and occasional conflicts. Throughout the series, Lizzie's cartoon alter ego provides a comedic commentary on her experiences, often voicing her unspoken thoughts and anxieties. The show culminates in Lizzie facing a significant decision about her future, demonstrating her growth and maturity as she prepares to move on to the next chapter of her life.",
+        "categorized_keywords": {
+          "themes": [
+            "coming-of-age",
+            "friendship",
+            "family-dynamics",
+            "self-discovery",
+            "adolescence",
+            "identity"
+          ],
+          "plot_and_concepts": [
+            "teen-sitcom",
+            "cartoon-alter-ego",
+            "junior-high-school",
+            "romantic-interest",
+            "popularity-contest"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "humorous",
+            "relatable",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "teen-comedy",
+            "sitcom",
+            "coming-of-age-story"
+          ],
+          "setting": [
+            "suburban-usa",
+            "junior-high-school"
+          ],
+          "character_archetypes": [
+            "teenager",
+            "best-friend",
+            "crush",
+            "bratty-sibling"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "young-adult",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "cartoon-sequence",
+            "school-locker",
+            "family-dinner",
+            "shopping-mall"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Lizzie McGuire is a lighthearted teen sitcom that explores the relatable challenges of adolescence through the comedic device of a cartoon alter ego, set in a typical suburban environment."
+      },
+      "duration_seconds": 56.183932304382324
+    }
+  }
+}

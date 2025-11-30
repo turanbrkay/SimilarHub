@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "John Doe",
+    "overview": "John Doe tell the story of a man who wakes up naked on an island off the coast of Seattle, knowing everything in the world there is to know—except for who he is and how and why he ended up there.",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2002,
+    "vote_count": 69
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "John Doe is a mind-bending drama that blends mystery, science fiction, and philosophical exploration. The series centers on a man stripped of his identity, forced to piece together his past while navigating a world that seems both familiar and subtly altered. The narrative unfolds as a complex puzzle, examining themes of memory, identity, and the nature of reality. The show's tone is consistently unsettling and introspective, offering a unique and thought-provoking viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with the amnesiac John Doe washing ashore near Seattle, possessing vast knowledge but lacking any memory of his identity. He is taken in by Pete Garrison, a former police officer, and together they embark on a journey to uncover Doe's past. As Doe's memories slowly resurface, they reveal a life of extraordinary skill and a connection to a shadowy organization. The investigation leads them across the United States, encountering various individuals who recognize Doe and offer fragmented pieces of his history. Doe's past is revealed to be intertwined with a clandestine group involved in advanced scientific research and covert operations. He discovers he was a key figure in a project aimed at unlocking human potential, but the project went horribly wrong, leading to his memory wipe and the events that led to his arrival on the island. The series culminates in a confrontation with those responsible for his predicament, forcing Doe to confront his past actions and the consequences of his knowledge. While Doe regains some of his memories, the full truth remains elusive, leaving the audience to question the nature of reality and the reliability of memory.",
+        "categorized_keywords": {
+          "themes": [
+            "identity-crisis",
+            "memory-loss",
+            "existentialism",
+            "moral-ambiguity",
+            "redemption",
+            "conspiracy"
+          ],
+          "plot_and_concepts": [
+            "amnesia",
+            "government-conspiracy",
+            "scientific-experiment",
+            "lost-memory",
+            "search-for-identity"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "mysterious",
+            "introspective",
+            "suspenseful",
+            "philosophical"
+          ],
+          "genre_and_tropes": [
+            "mystery-drama",
+            "science-fiction",
+            "thriller",
+            "amnesiac-protagonist"
+          ],
+          "setting": [
+            "pacific-northwest",
+            "modern-day",
+            "seattle-area"
+          ],
+          "character_archetypes": [
+            "amnesiac-hero",
+            "enigmatic-mentor",
+            "shadowy-antagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-mystery"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "island-discovery",
+            "police-investigation",
+            "flashback-sequence",
+            "secret-laboratory"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "psychological-themes"
+          ]
+        },
+        "keyword_sentence": "John Doe is a dark and mysterious drama that explores themes of identity, memory, and conspiracy through the journey of an amnesiac protagonist searching for his past in the modern-day Pacific Northwest."
+      },
+      "duration_seconds": 67.89155340194702
+    }
+  }
+}

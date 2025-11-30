@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "The Martian Chronicles",
+    "overview": "The Martian Chronicles deals with the exploration of Mars and the inhabitants there.",
+    "genres": [
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1980,
+    "vote_count": 31
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Martian Chronicles is a science fiction anthology series exploring humanity's attempts to colonize Mars and the complex relationship that develops between the settlers and the native Martian population. The series blends elements of social commentary, philosophical inquiry, and speculative fiction, examining themes of cultural clash, environmental destruction, and the search for meaning in a new world. Told through a series of interconnected stories, the series offers a melancholic and often unsettling portrayal of human ambition and its consequences. The tone is generally somber and reflective, prompting viewers to consider the ethical implications of expansion and the fragility of both civilizations and ecosystems.",
+        "spoiler_rich_plot_summary": "The series begins with the initial, ill-fated attempts by humans to settle Mars, encountering resistance from the seemingly ethereal and telepathic Martian inhabitants. Early colonization efforts are marked by misunderstandings, violence, and ultimately, failure as the Martians subtly manipulate events to discourage human presence. As human settlements gradually take hold, a complex dynamic emerges, with some settlers embracing Martian culture while others seek to dominate and exploit the planet's resources. The series explores the psychological toll of isolation and the blurring lines between reality and illusion as settlers grapple with the Martian influence. Over time, the Martian civilization, weakened by human interference, begins to fade, leaving a poignant reflection on the impermanence of all cultures and the potential for both destruction and understanding between disparate peoples. The series concludes with a sense of loss and a lingering question about the true nature of humanity's place in the universe.",
+        "categorized_keywords": {
+          "themes": [
+            "colonialism",
+            "cultural-clash",
+            "environmental-destruction",
+            "isolation",
+            "loss",
+            "human-nature",
+            "alienation",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "first-contact",
+            "telepathy",
+            "terraforming",
+            "anthology-series",
+            "dystopian-future"
+          ],
+          "mood_and_tone": [
+            "melancholic",
+            "reflective",
+            "somber",
+            "unsettling",
+            "atmospheric"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "space-exploration",
+            "first-contact-story",
+            "dystopian-society"
+          ],
+          "setting": [
+            "mars",
+            "space-colony",
+            "alternate-timeline"
+          ],
+          "character_archetypes": [
+            "pioneer",
+            "explorer",
+            "outsider",
+            "martian-native"
+          ],
+          "narrative_style": [
+            "episodic-storytelling",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "mars-landscape",
+            "spacecraft",
+            "martian-ruins",
+            "terraforming-equipment"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Martian Chronicles is a melancholic science fiction anthology series exploring themes of colonialism and cultural clash as humans attempt to settle a distant planet and confront the consequences of their ambitions."
+      },
+      "duration_seconds": 76.90820074081421
+    }
+  }
+}

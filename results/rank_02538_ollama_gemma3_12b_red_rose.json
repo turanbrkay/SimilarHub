@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Red Rose",
+    "overview": "When one of a group of friends downloads the mysterious Red Rose app, plans change. What starts innocently as a game of admiration rapidly descends into something much darker.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2022,
+    "vote_count": 64
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Red Rose is a British drama series that explores the dark side of adolescence and the dangers of technology. The series follows a group of friends whose lives are disrupted by a mysterious app that manipulates their relationships and exposes their secrets. With a suspenseful tone and a focus on psychological manipulation, Red Rose offers a chilling examination of social pressure, online privacy, and the fragility of trust within a close-knit group. The series blends elements of thriller and coming-of-age narratives, creating a tense and unsettling viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with a group of teenagers in Bolton, England, discovering the Red Rose app, which seemingly offers a platform for anonymous admiration and connection. Initially, the app appears harmless, allowing users to send compliments and express appreciation for one another. However, the app quickly evolves into a tool for manipulation and control, as its anonymous sender begins to exploit the group's vulnerabilities and secrets. As the app's influence grows, the friends find themselves embroiled in a web of lies, blackmail, and escalating danger. The group struggles to uncover the identity of the app's creator and the motives behind its actions, while simultaneously dealing with the fallout of the app's revelations. The series culminates in a confrontation where the true nature of the app and its creator are revealed, forcing the friends to confront their own complicity in the unfolding events and grapple with the consequences of their actions. The series explores themes of online identity, social pressure, and the dark side of technology, ultimately leaving the audience to question the true cost of connection in the digital age.",
+        "categorized_keywords": {
+          "themes": [
+            "social-pressure",
+            "online-identity",
+            "technology-addiction",
+            "trust-betrayal",
+            "secrets-and-lies",
+            "adolescence",
+            "digital-privacy"
+          ],
+          "plot_and_concepts": [
+            "anonymous-communication",
+            "social-media-influence",
+            "blackmail",
+            "mystery-thriller",
+            "coming-of-age"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "tense",
+            "unsettling"
+          ],
+          "genre_and_tropes": [
+            "teen-drama",
+            "mystery",
+            "thriller",
+            "digital-noir"
+          ],
+          "setting": [
+            "bolton-england",
+            "modern-day",
+            "suburban-setting"
+          ],
+          "character_archetypes": [
+            "vulnerable-teenager",
+            "manipulative-antagonist",
+            "loyal-friend",
+            "isolated-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult"
+          ],
+          "detail_plot": [
+            "mobile-app",
+            "text-messages",
+            "social-media-profile",
+            "group-chat"
+          ],
+          "maturity_and_content": [
+            "bullying",
+            "emotional-manipulation"
+          ]
+        },
+        "keyword_sentence": "Red Rose is a suspenseful teen drama set in modern-day England, exploring the dark consequences of online identity and social pressure through a mystery centered around a manipulative mobile app."
+      },
+      "duration_seconds": 62.872885942459106
+    }
+  }
+}

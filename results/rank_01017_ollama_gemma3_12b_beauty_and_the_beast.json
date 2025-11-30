@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Beauty and the Beast",
+    "overview": "Beauty and the Beast is an American drama series which first aired on CBS in 1987. Creator Ron Koslow's updated version of the fairy tale has a double focus: the relationship between Vincent, a mythic, noble man-beast, and Catherine, a savvy Assistant District Attorney in New York; and a secret Utopian community of social outcasts living in a subterranean sanctuary. Through an empathetic bond, Vincent senses Catherine's emotions, and becomes her guardian.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "release_year": 1987,
+    "vote_count": 251
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Beauty and the Beast is a unique blend of crime procedural and fantastical romance, reimagining the classic fairy tale within a contemporary New York City setting. The series centers on the complex relationship between Catherine, a driven Assistant District Attorney, and Vincent, a mysterious man-beast, while also exploring a hidden community of outcasts. The show balances gritty crime investigations with moments of tenderness and explores themes of acceptance, prejudice, and the search for belonging. Its distinctive premise and emotional depth offer a compelling narrative experience, appealing to viewers interested in both procedural drama and character-driven stories.",
+        "spoiler_rich_plot_summary": "The series begins with Catherine Chandler, a young lawyer, witnessing a brutal attack and encountering Vincent, a man cursed to live as a beast. Vincent saves her life, and a unique bond forms between them. Catherine becomes Vincent’s protector and confidante, while he, in turn, helps her solve crimes and navigate the complexities of the legal system. As their relationship deepens, Catherine discovers the existence of a hidden community of outcasts living beneath New York City, individuals who, like Vincent, are different and marginalized. These outcasts, led by a wise and enigmatic figure, offer Catherine a glimpse into a world beyond societal norms. Throughout the series, Catherine and Vincent confront prejudice and misunderstanding from both the outside world and within the outcast community. Vincent struggles to control his beastly nature and seeks a way to break the curse, while Catherine fights to protect him and champion the rights of the outcasts. The series explores the challenges of acceptance, the power of empathy, and the enduring search for a place to belong, culminating in a bittersweet resolution where both Catherine and Vincent find a measure of peace and understanding.",
+        "categorized_keywords": {
+          "themes": [
+            "acceptance",
+            "prejudice",
+            "belonging",
+            "empathy",
+            "redemption",
+            "otherness",
+            "justice"
+          ],
+          "plot_and_concepts": [
+            "crime-investigation",
+            "fairy-tale-retelling",
+            "cursed-identity",
+            "secret-community",
+            "guardian-angel"
+          ],
+          "mood_and_tone": [
+            "melancholy",
+            "hopeful",
+            "romantic",
+            "mysterious",
+            "somber"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "romantic-drama",
+            "urban-fantasy",
+            "found-family"
+          ],
+          "setting": [
+            "new-york-city",
+            "underground-city",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "guardian",
+            "reluctant-hero",
+            "strong-female-lead",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-investigation"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "crime-scene",
+            "courtroom",
+            "underground-sanctuary",
+            "beast-transformation"
+          ],
+          "maturity_and_content": [
+            "violence"
+          ]
+        },
+        "keyword_sentence": "Beauty and the Beast blends a crime investigation procedural with a romantic drama, exploring themes of acceptance and belonging within a mysterious, underground sanctuary beneath the bustling streets of New York City."
+      },
+      "duration_seconds": 61.87384295463562
+    }
+  }
+}

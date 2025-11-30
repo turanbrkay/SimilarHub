@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "Just Shoot Me!",
+    "overview": "Just Shoot Me! is an American television sitcom that aired for seven seasons on NBC from March 4, 1997, to August 16, 2003, with 148 episodes produced. The show was created by Steven Levitan, the show's executive producer.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1997,
+    "vote_count": 141
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Just Shoot Me! is a workplace sitcom centered around the staff of a fashion magazine, Blush. The series employs a mockumentary style, offering a comedic look at the absurdities of the fashion industry and the dynamics of a dysfunctional team. The show's humor derives from its quirky characters, their interpersonal conflicts, and the often-unrealistic situations they find themselves in. It blends observational comedy with physical gags and witty dialogue, creating a lighthearted and entertaining viewing experience. The series explores themes of family, friendship, and finding purpose in unconventional environments.",
+        "spoiler_rich_plot_summary": "The series begins with Maya Payton, a waitress who reluctantly takes a job at Blush magazine after her father, Jack Payton, the magazine's owner, promises to pay off her debts. Maya's arrival disrupts the established order of the magazine, creating tension and comedic clashes with the existing staff, including her older sister, Nina, and the magazine's handsome and often clueless fashion reporter, Elliot. Throughout the series, Maya navigates the challenges of her new career while dealing with her complicated family relationships and the eccentric personalities around her. Relationships evolve, with romantic interests developing between various characters, and professional rivalries intensify. The series follows the staff as they attempt to maintain Blush's relevance in a changing fashion landscape, facing financial struggles and creative differences along the way. Over the seasons, characters grow and change, confronting personal demons and finding unexpected connections, ultimately leading to a sense of closure and a celebration of the unconventional family they're created.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "workplace-comedy",
+            "self-discovery",
+            "found-family",
+            "romantic-relationships"
+          ],
+          "plot_and_concepts": [
+            "mockumentary-style",
+            "workplace-romance",
+            "sibling-rivalry",
+            "fish-out-of-water"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "quirky",
+            "humorous",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "workplace-comedy",
+            "romantic-comedy"
+          ],
+          "setting": [
+            "fashion-industry",
+            "new-york-city"
+          ],
+          "character_archetypes": [
+            "reluctant-heroine",
+            "eccentric-boss",
+            "quirky-colleague",
+            "handsome-reporter"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "fashion-magazine",
+            "office-pranks",
+            "photo-shoot",
+            "fashion-show"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Just Shoot Me! is a lighthearted sitcom that humorously explores family dynamics and romantic relationships within the quirky setting of a fashion magazine in New York City."
+      },
+      "duration_seconds": 62.85917615890503
+    }
+  }
+}

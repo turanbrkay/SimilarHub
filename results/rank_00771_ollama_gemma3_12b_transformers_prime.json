@@ -1,0 +1,87 @@
+{
+  "input_data": {
+    "title": "Transformers: Prime",
+    "overview": "Roll out with Optimus Prime, Bumblebee, Arcee, Ratchet, Bulkhead, and the rest of the heroic Autobots as they battle the evil Decepticons. Now that big bad Megatron has returned with a mysterious and dangerous element, Team Prime must prepare for an epic battle.",
+    "genres": [
+      "Action & Adventure",
+      "Animation",
+      "Kids"
+    ],
+    "release_year": 2010,
+    "vote_count": 364
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Transformers: Prime is an animated action series that reimagines the classic Transformers franchise for a new generation. The series follows the Autobots, led by Optimus Prime, as they battle the Decepticons to protect Earth and its inhabitants. It blends action-packed sequences with character-driven narratives, exploring themes of leadership, sacrifice, and the struggle between good and evil. The show aims for a more mature tone than previous iterations, emphasizing the weight of the Autobots' responsibility and the constant threat posed by their enemies. It's a visually dynamic series appealing to both long-time fans and younger audiences.",
+        "spoiler_rich_plot_summary": "The series begins with the Autobots, having fled Cybertron, crash-landing on Earth and establishing a base of operations. They are pursued by the Decepticons, led by Megatron, who seek to exploit Earth's energy resources. Initially, the Autobots operate in secrecy, encountering human allies like Rafael Esquivel, who becomes a vital member of their team. As the conflict escalates, the Autobots recruit new members, including Arcee and Grimlock, while the Decepticons gain strength with the arrival of Starscream and Soundwave. Throughout the series, the Autobots uncover a larger conspiracy involving ancient Primal Sparks and a mysterious entity known as Unicron, who threatens to consume all life in the universe. The Autobots face numerous betrayals and losses, forcing them to confront their own limitations and make difficult choices to protect Earth. The final confrontation involves a desperate battle against Unicron, requiring the combined efforts of the Autobots and their human allies to prevent the destruction of the planet and the universe.",
+        "categorized_keywords": {
+          "themes": [
+            "good-vs-evil",
+            "sacrifice",
+            "leadership",
+            "redemption",
+            "loyalty",
+            "responsibility"
+          ],
+          "plot_and_concepts": [
+            "ancient-prophecy",
+            "cybertronian-war",
+            "giant-robots",
+            "transforming-vehicles",
+            "space-opera",
+            "alternate-timeline"
+          ],
+          "mood_and_tone": [
+            "action-packed",
+            "dark",
+            "suspenseful",
+            "heroic",
+            "intense"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "sci-fi",
+            "found-family",
+            "mecha",
+            "coming-of-age"
+          ],
+          "setting": [
+            "earth",
+            "cybertron",
+            "space",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "heroic-leader",
+            "wise-mentor",
+            "rebellious-teenager",
+            "villainous-leader",
+            "loyal-companion"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "quest-narrative"
+          ],
+          "target_audience": [
+            "kids",
+            "young-adults"
+          ],
+          "detail_plot": [
+            "autobot-vehicles",
+            "decepticon-vehicles",
+            "cybertronian-technology",
+            "energy-source",
+            "prime-spark"
+          ],
+          "maturity_and_content": [
+            "action-violence"
+          ]
+        },
+        "keyword_sentence": "Transformers: Prime is an action-packed animated series set on Earth, where heroic Autobots battle evil Decepticons in a serialized quest to protect the planet and uphold the ideals of good versus evil."
+      },
+      "duration_seconds": 64.24321818351746
+    }
+  }
+}

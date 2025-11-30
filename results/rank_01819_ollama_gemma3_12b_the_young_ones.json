@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "The Young Ones",
+    "overview": "The Young Ones is a British sitcom, broadcast in Great Britain from 1982 to 1984 in two six-part series. Shown on BBC2, it featured anarchic, offbeat humour which helped bring alternative comedy to television in the 1980s and made household names of its writers and performers. In 1985, it was shown on MTV, one of the first non-music television shows on the fledgling channel.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1982,
+    "vote_count": 111
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Young Ones is a surreal and anarchic British sitcom that satirizes the lives of four disaffected young men sharing a dilapidated house in London. The show's humor is characterized by its absurdity, dark undertones, and commentary on societal issues prevalent in the 1980s, such as unemployment, political apathy, and consumerism. It's a comedic exploration of youthful rebellion and the challenges of navigating a rapidly changing world, delivered with a distinctive blend of slapstick, musical interludes, and pointed social critique. The series' influence on alternative comedy is significant, paving the way for a new wave of irreverent and unconventional television.",
+        "spoiler_rich_plot_summary": "The series revolves around the chaotic lives of Vyvyan, Richie, Neil, and Mik, who are perpetually dodging rent collectors and dealing with bizarre situations. Each episode typically involves a new crisis or absurd scenario, often triggered by Vyvyan's destructive tendencies or Neil's naive outlook. Richie attempts to maintain a semblance of responsibility, while Mik's eccentric personality adds to the overall mayhem. Throughout the series, the characters encounter a variety of eccentric and often antagonistic figures, reflecting the show's satirical commentary on British society. While the series doesn't follow a traditional narrative arc, recurring themes of poverty, political disillusionment, and the search for meaning emerge. The show concludes without resolving the characters' fundamental problems, leaving them in a state of perpetual disarray, a fitting end to a show that revels in absurdity and rejects conventional resolutions.",
+        "categorized_keywords": {
+          "themes": [
+            "youth-rebellion",
+            "social-satire",
+            "poverty",
+            "political-disillusionment",
+            "absurdism",
+            "consumerism"
+          ],
+          "plot_and_concepts": [
+            "slapstick-comedy",
+            "surreal-humor",
+            "musical-comedy",
+            "sitcom-format"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "absurdist",
+            "chaotic",
+            "irreverent"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "alternative-comedy",
+            "satirical-comedy"
+          ],
+          "setting": [
+            "london-uk",
+            "1980s-uk"
+          ],
+          "character_archetypes": [
+            "disaffected-youth",
+            "eccentric-personality",
+            "naive-protagonist",
+            "destructive-character"
+          ],
+          "narrative_style": [
+            "episodic-format",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "dilapidated-house",
+            "rent-collector",
+            "musical-interlude"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Young Ones is a darkly comic British sitcom that satirizes the lives of disaffected youth in 1980s London through absurd situations and irreverent humor."
+      },
+      "duration_seconds": 63.52043414115906
+    }
+  }
+}

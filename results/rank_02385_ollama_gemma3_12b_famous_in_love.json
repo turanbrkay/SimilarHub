@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Famous in Love",
+    "overview": "Ordinary college student Paige gets her big break after auditioning for the starring role in a Hollywood blockbuster. She must now navigate her new star-studded life and the highs and lows that come with being the new It Girl in town as well as balancing her college workload.",
+    "genres": [
+      "Soap",
+      "Drama"
+    ],
+    "release_year": 2017,
+    "vote_count": 72
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Famous in Love is a soapy drama series that follows a young woman's sudden ascent to Hollywood stardom. The show explores the challenges of balancing a burgeoning acting career with the responsibilities of college life, all while navigating complex relationships and the pressures of fame. It blends elements of romantic drama with the behind-the-scenes look at the entertainment industry, offering a lighthearted and often melodramatic portrayal of the pursuit of dreams and the sacrifices required to achieve them. The series focuses on themes of friendship, ambition, and the intoxicating allure of celebrity culture.",
+        "spoiler_rich_plot_summary": "The series begins with Paige, a seemingly ordinary college student, unexpectedly landing the lead role in a major motion picture. Thrust into the world of Hollywood, she must adjust to a new life filled with paparazzi, lavish parties, and demanding schedules. Her close friends, Jordan and Rainer, struggle to support her while dealing with their own insecurities and romantic feelings for Paige. As Paige's fame grows, she encounters various challenges, including jealous rivals, manipulative agents, and the constant scrutiny of the media. Romantic relationships become complicated as Paige grapples with the pressures of maintaining a public image and the desire for genuine connection. Throughout the series, Paige faces difficult choices that test her values and force her to confront the darker side of the entertainment industry, ultimately shaping her journey to becoming a successful actress while trying to maintain her sense of self.",
+        "categorized_keywords": {
+          "themes": [
+            "fame",
+            "friendship",
+            "romance",
+            "ambition",
+            "identity",
+            "celebrity-culture",
+            "coming-of-age"
+          ],
+          "plot_and_concepts": [
+            "casting-call",
+            "rise-to-fame",
+            "romantic-triangle",
+            "media-scrutiny",
+            "acting-career"
+          ],
+          "mood_and_tone": [
+            "soapy",
+            "melodramatic",
+            "lighthearted",
+            "romantic",
+            "glamorous"
+          ],
+          "genre_and_tropes": [
+            "teen-drama",
+            "romantic-drama",
+            "coming-of-age-story",
+            "rise-and-fall"
+          ],
+          "setting": [
+            "los-angeles",
+            "college-campus",
+            "hollywood"
+          ],
+          "character_archetypes": [
+            "aspiring-actress",
+            "loyal-friend",
+            "romantic-interest"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult",
+            "teen-viewers"
+          ],
+          "detail_plot": [
+            "red-carpet-event",
+            "paparazzi",
+            "casting-audition",
+            "movie-set"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Famous in Love is a lighthearted teen drama series that follows an aspiring actress’s journey to stardom in Los Angeles, exploring themes of friendship, romance, and the challenges of navigating the glamorous world of Hollywood."
+      },
+      "duration_seconds": 63.72214603424072
+    }
+  }
+}

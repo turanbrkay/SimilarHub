@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "The Dropout",
+    "overview": "The story of Elizabeth Holmes, the enigmatic Stanford dropout who founded medical testing start-up Theranos. Lauded as a Steve Jobs for the next tech generation and once worth billions of dollars, the myth crumbled when it was revealed that none of the tech actually worked, putting thousands of people's health in grave danger.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2022,
+    "vote_count": 185
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Dropout is a dramatic miniseries chronicling the rise and fall of Elizabeth Holmes and her company, Theranos. It explores themes of ambition, deception, and the allure of Silicon Valley's 'fake it till you make it' culture. The series examines the pressures of innovation, the dangers of unchecked ego, and the devastating consequences of prioritizing profit over ethical considerations. Through a blend of investigative journalism and character study, it offers a cautionary tale about the fragility of reputation and the importance of accountability.",
+        "spoiler_rich_plot_summary": "The series begins with a look at Elizabeth Holmes' early life, showcasing her ambition and desire to emulate Steve Jobs. She drops out of Stanford to found Theranos, a company promising to revolutionize blood testing with a technology that ultimately proves to be deeply flawed. As Theranos gains traction and attracts significant investment, Elizabeth maintains a carefully constructed public image, concealing the fact that the technology is not working as advertised. The narrative follows the escalating pressure on Elizabeth and her inner circle as they attempt to maintain the facade, resorting to increasingly desperate measures to avoid exposure. The series details the gradual unraveling of the company, the whistleblowers who attempt to expose the truth, and the legal battles that ensue as the fraud is revealed. Ultimately, Elizabeth faces the consequences of her actions, leading to a dramatic downfall and legal reckoning.",
+        "categorized_keywords": {
+          "themes": [
+            "ambition",
+            "deception",
+            "fraud",
+            "ethics",
+            "accountability",
+            "silicon-valley-culture",
+            "corporate-greed",
+            "power-corrupts"
+          ],
+          "plot_and_concepts": [
+            "corporate-fraud",
+            "whistleblower-drama",
+            "startup-culture",
+            "investigative-journalism",
+            "legal-proceedings"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "cynical",
+            "unsettling"
+          ],
+          "genre_and_tropes": [
+            "true-crime",
+            "biographical-drama",
+            "corporate-thriller"
+          ],
+          "setting": [
+            "silicon-valley",
+            "modern-day",
+            "stanford-university"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "manipulative-leader",
+            "naive-investor",
+            "ethical-dissent"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "biographical-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "blood-testing-machines",
+            "lab-environment",
+            "board-room-meetings",
+            "press-conferences"
+          ],
+          "maturity_and_content": [
+            "fraudulent-activity",
+            "corporate-misconduct"
+          ]
+        },
+        "keyword_sentence": "The Dropout is a suspenseful biographical drama exploring the dark side of Silicon Valley, revealing the ambition and corporate misconduct that led to the downfall of a fraudulent startup and its charismatic leader."
+      },
+      "duration_seconds": 61.59366846084595
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "Tales from the Loop",
+    "overview": "The story of the town and people who live above “The Loop,” a machine built to unlock and explore the mysteries of the universe – making things possible that were previously relegated only to science fiction.",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2020,
+    "vote_count": 328
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Tales from the Loop is a contemplative science fiction drama exploring the lives of residents in a small town built above a massive, experimental physics installation. The series blends elements of mystery, coming-of-age narratives, and surrealism, creating a melancholic and often unsettling atmosphere. It focuses on the emotional impact of extraordinary circumstances on ordinary people, examining themes of loss, connection, and the search for meaning in a world where the boundaries of reality are blurred. The show's episodic structure allows for a focus on individual characters and their unique struggles, while maintaining a sense of overarching mystery and interconnectedness.",
+        "spoiler_rich_plot_summary": "The series centers around the town of Mercer, Ohio, and its inhabitants who live above 'The Loop,' a machine built to unlock the secrets of the universe. Initially, the series introduces several interconnected characters, each grappling with personal challenges while subtly experiencing the strange phenomena caused by The Loop's experiments. These anomalies range from temporal distortions and altered perceptions to the manifestation of objects and people from different times and places. As the series progresses, the characters begin to uncover the deeper implications of The Loop's existence and the sacrifices made to keep it operational. Relationships are tested as the characters confront their pasts and the unsettling truths about their present. While the overarching mystery of The Loop remains partially unresolved, the series culminates in a poignant exploration of human resilience and the enduring power of connection in the face of extraordinary circumstances, leaving the audience to ponder the true cost of scientific progress and the fragility of reality.",
+        "categorized_keywords": {
+          "themes": [
+            "loss",
+            "connection",
+            "scientific-discovery",
+            "existentialism",
+            "memory",
+            "childhood",
+            "grief",
+            "isolation"
+          ],
+          "plot_and_concepts": [
+            "time-distortion",
+            "parallel-realities",
+            "scientific-experiment",
+            "mystery",
+            "coming-of-age",
+            "small-town-secrets"
+          ],
+          "mood_and_tone": [
+            "melancholic",
+            "surreal",
+            "contemplative",
+            "atmospheric",
+            "eerie"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "drama",
+            "mystery",
+            "slice-of-life",
+            "anthology-series"
+          ],
+          "setting": [
+            "small-town-america",
+            "modern-day",
+            "alternate-timeline",
+            "underground-facility"
+          ],
+          "character_archetypes": [
+            "child-protagonist",
+            "scientist",
+            "grieving-parent",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story",
+            "character-driven"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "loop-machine",
+            "underground-tunnel",
+            "strange-artifacts",
+            "temporal-anomalies"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Tales from the Loop is a contemplative drama exploring the lives of residents in a small town grappling with loss and connection amidst strange temporal anomalies and the mysteries of a groundbreaking scientific experiment."
+      },
+      "duration_seconds": 66.5795316696167
+    }
+  }
+}

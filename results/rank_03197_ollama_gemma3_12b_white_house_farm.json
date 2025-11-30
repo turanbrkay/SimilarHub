@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "White House Farm",
+    "overview": "Factual drama based on the notorious White House Farm murders, and the ensuing police investigation and court case.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2020,
+    "vote_count": 42
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "White House Farm is a factual drama series that meticulously recreates the events surrounding the brutal 1985 murders of a family in Essex, England. The series focuses on the police investigation, the subsequent trial, and the impact of the crime on the victims' families and the community. It explores themes of betrayal, justice, and the complexities of human nature, presented with a somber and unflinching tone. The series aims to provide a detailed and sensitive portrayal of a tragic event, highlighting the dedication of the investigators and the devastating consequences of violence.",
+        "spoiler_rich_plot_summary": "The series opens with the discovery of the Neville Bates family – Nevill, June, and their two young sons, Joshua and Daniel – murdered at their White House Farm property. The initial investigation focuses on Nevill’s brother, Russell, who quickly becomes the prime suspect. The police meticulously gather evidence, uncovering a complex web of financial troubles, marital discord, and family tensions that contributed to the horrific crime. The series follows the painstaking process of building a case against Russell, including interviews with family members, forensic analysis, and reconstruction of the events leading up to the murders. The trial itself is depicted in detail, showcasing the legal proceedings and the emotional toll on all involved. Ultimately, Russell is found guilty, bringing a degree of closure to the victims' families, but leaving a lasting impact on the community and those who investigated the case.",
+        "categorized_keywords": {
+          "themes": [
+            "true-crime",
+            "family-secrets",
+            "justice-system",
+            "betrayal",
+            "grief",
+            "social-class"
+          ],
+          "plot_and_concepts": [
+            "police-investigation",
+            "courtroom-drama",
+            "murder-mystery",
+            "financial-crime"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "unflinching",
+            "dark",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "true-crime-drama"
+          ],
+          "setting": [
+            "essex-england",
+            "1980s"
+          ],
+          "character_archetypes": [
+            "detective",
+            "suspect",
+            "victim",
+            "family-member"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "factual-drama"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "farmhouse",
+            "police-evidence",
+            "courtroom",
+            "family-photographs"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "murder",
+            "courtroom-scenes"
+          ]
+        },
+        "keyword_sentence": "White House Farm is a somber and unflinching true-crime drama set in 1980s England, exploring themes of betrayal and justice through a meticulous police investigation and courtroom proceedings."
+      },
+      "duration_seconds": 54.6495041847229
+    }
+  }
+}

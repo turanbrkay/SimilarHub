@@ -1,0 +1,68 @@
+{
+  "input_data": {
+    "title": "PBS NewsHour",
+    "overview": "America's first and longest running hour-long nightly news broadcast known for its in-depth coverage of issues and current events.",
+    "genres": [
+      "News"
+    ],
+    "release_year": 1975,
+    "vote_count": 42
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "PBS NewsHour is a nightly news program distinguished by its commitment to in-depth reporting and analysis of current events. Unlike many broadcast news programs, it prioritizes extended interviews, thoughtful discussion, and a broader range of perspectives. The show aims to provide viewers with a comprehensive understanding of complex issues, often delving into policy, culture, and science. Its tone is generally serious and measured, emphasizing journalistic integrity and a commitment to public service. The program serves as a vital source of information for engaged citizens seeking nuanced coverage of the world.",
+        "spoiler_rich_plot_summary": "PBS NewsHour does not follow a traditional narrative arc. Instead, it presents a continuous stream of news stories and features, evolving daily with the unfolding of events. The program’s focus shifts constantly, covering major political developments, international conflicts, economic trends, and social issues. Recurring themes include the impact of government policies, the challenges facing communities, and the exploration of scientific advancements. While there are no character arcs or plot twists in the conventional sense, the program documents the ongoing evolution of society and the world, reflecting the consequences of decisions made by individuals and institutions. The program’s longevity allows it to provide historical context and track the long-term effects of events, offering a unique perspective on the passage of time and the changing nature of the news cycle.",
+        "categorized_keywords": {
+          "themes": [
+            "public-service",
+            "journalistic-integrity",
+            "political-analysis",
+            "social-issues",
+            "global-affairs",
+            "economic-trends"
+          ],
+          "plot_and_concepts": [
+            "investigative-reporting",
+            "long-form-journalism",
+            "panel-discussion",
+            "interview-format"
+          ],
+          "mood_and_tone": [
+            "serious",
+            "measured",
+            "informative",
+            "objective"
+          ],
+          "genre_and_tropes": [
+            "news-broadcast",
+            "current-events",
+            "political-reporting"
+          ],
+          "setting": [
+            "washington-dc",
+            "united-states",
+            "global"
+          ],
+          "character_archetypes": [],
+          "narrative_style": [
+            "serialized-story",
+            "documentary-style"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "informed-citizens"
+          ],
+          "detail_plot": [
+            "studio-set",
+            "news-graphics",
+            "interview-backdrop"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "PBS NewsHour provides adult viewers with serious and informative coverage of current events, political analysis, and global affairs through long-form journalism and measured reporting from Washington, D.C."
+      },
+      "duration_seconds": 50.12553334236145
+    }
+  }
+}

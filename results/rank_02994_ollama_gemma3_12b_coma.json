@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Coma",
+    "overview": "A young medical student discovers that something sinister is going on in her hospital after routine procedures send more than a few seemingly healthy patients into comas on the operating table.",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2012,
+    "vote_count": 48
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Coma is a medical mystery drama that follows a young medical student as she investigates a series of unexplained comas plaguing her hospital. The series blends elements of suspense, science fiction, and medical procedural, creating a tense atmosphere as the protagonist uncovers a conspiracy that threatens the lives of patients and colleagues alike. The narrative explores themes of institutional corruption, the ethics of medical experimentation, and the fragility of human consciousness, offering a chilling examination of the dark side of the medical profession. The show maintains a sense of paranoia and intrigue, keeping viewers guessing about the true nature of the threat.",
+        "spoiler_rich_plot_summary": "The series begins with medical student Nora Sharpe starting her internship at the prestigious Blackwood Clinic. She quickly notices a disturbing pattern: seemingly healthy patients are falling into unexplained comas during routine procedures. Initially dismissed by her superiors, Nora begins her own investigation, uncovering a history of unusual research and a secretive group within the hospital. As she delves deeper, she discovers that the comas are linked to experimental treatments and a shadowy figure known only as 'The Architect.' Nora's investigation puts her at odds with powerful figures within the hospital, including her mentor, Dr. Foster, who may be complicit in the conspiracy. The series reveals that 'The Architect' is conducting dangerous experiments on patients' minds, attempting to unlock the secrets of consciousness and potentially achieve immortality. Nora, along with a few allies, races against time to expose the truth and stop the experiments, facing constant threats and betrayals along the way. The series culminates in a confrontation with 'The Architect,' revealing the full extent of his plan and the devastating consequences for those involved. The truth about the comas and the Architect's motives are revealed, leaving a lasting impact on Nora and the future of Blackwood Clinic.",
+        "categorized_keywords": {
+          "themes": [
+            "medical-ethics",
+            "institutional-corruption",
+            "consciousness",
+            "scientific-hubris",
+            "mystery",
+            "paranoia"
+          ],
+          "plot_and_concepts": [
+            "medical-conspiracy",
+            "experimental-treatment",
+            "mind-control",
+            "medical-procedural",
+            "scientific-experiment"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "tense",
+            "paranoid"
+          ],
+          "genre_and_tropes": [
+            "medical-drama",
+            "mystery-thriller",
+            "science-fiction",
+            "conspiracy-thriller"
+          ],
+          "setting": [
+            "hospital-setting",
+            "modern-day",
+            "new-england"
+          ],
+          "character_archetypes": [
+            "determined-protagonist",
+            "corrupt-authority",
+            "enigmatic-villain",
+            "skeptical-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "mystery-driven"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "operating-theater",
+            "medical-records",
+            "patient-room",
+            "laboratory-equipment"
+          ],
+          "maturity_and_content": [
+            "medical-procedures",
+            "suspense"
+          ]
+        },
+        "keyword_sentence": "Coma is a suspenseful medical drama that explores themes of institutional corruption and scientific hubris within a tense, mystery-driven narrative set in a modern-day hospital."
+      },
+      "duration_seconds": 66.69208836555481
+    }
+  }
+}

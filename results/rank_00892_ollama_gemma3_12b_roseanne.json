@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Roseanne",
+    "overview": "A working-class family struggles to get by on a limited income in the fictional town of Lanford, Illinois.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1988,
+    "vote_count": 297
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Roseanne is a sitcom that offers a realistic and often humorous portrayal of a working-class American family navigating everyday challenges. The series distinguishes itself through its frank depiction of financial struggles, family dynamics, and social issues, often challenging conventional sitcom tropes. It blends comedic situations with moments of genuine emotional depth, exploring themes of resilience, love, and the pursuit of the American dream. The show's relatable characters and grounded storytelling resonated with audiences, establishing it as a cultural touchstone.",
+        "spoiler_rich_plot_summary": "The series initially introduces the Conner family – Roseanne, Dan, and their three children, Darlene, DJ, and Becky – living in a modest home in Lanford, Illinois. The early seasons focus on their attempts to make ends meet, dealing with job losses, financial anxieties, and the typical ups and downs of raising a family. As the series progresses, the Conners face various social and economic challenges, including Becky's teenage pregnancy and Dan's struggles with his business. Later seasons explore more complex themes, such as Roseanne's political views and the family's evolving relationships. The show culminates in a controversial finale that reveals an alternate reality where Roseanne has passed away, and the final season was a story within a story, intended to provide closure for the characters and the audience. This twist, while divisive, underscored the show's willingness to push boundaries and explore unconventional narrative structures.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "working-class-struggles",
+            "american-dream",
+            "social-commentary",
+            "economic-hardship",
+            "parenting",
+            "resilience"
+          ],
+          "plot_and_concepts": [
+            "sitcom",
+            "family-drama",
+            "alternate-reality",
+            "story-within-a-story"
+          ],
+          "mood_and_tone": [
+            "humorous",
+            "realistic",
+            "heartwarming",
+            "satirical"
+          ],
+          "genre_and_tropes": [
+            "family-sitcom",
+            "working-class-narrative"
+          ],
+          "setting": [
+            "illinois",
+            "midwest-america",
+            "working-class-neighborhood"
+          ],
+          "character_archetypes": [
+            "working-class-mother",
+            "blue-collar-father",
+            "teenage-daughter",
+            "younger-children"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "conner-house",
+            "lanford-illinois",
+            "blue-collar-job",
+            "family-dinner"
+          ],
+          "maturity_and_content": [
+            "financial-stress",
+            "teen-pregnancy"
+          ]
+        },
+        "keyword_sentence": "Roseanne is a humorous and realistic family sitcom that portrays the struggles and triumphs of a working-class family in the American Midwest, offering a poignant commentary on economic hardship and the pursuit of the American dream."
+      },
+      "duration_seconds": 59.40948438644409
+    }
+  }
+}

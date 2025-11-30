@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Lewis",
+    "overview": "Inspector Robert Lewis and Sergeant James Hathaway solve the tough cases that the learned inhabitants of Oxford throw at them.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2007,
+    "vote_count": 85
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Lewis is a British crime drama series that serves as a spin-off from the popular Inspector Morse. The show follows the investigations of Inspector Robert Lewis and his partner, Sergeant James Hathaway, as they navigate complex and often intellectually challenging cases within the academic and historical backdrop of Oxford. The series blends traditional police procedural elements with a focus on character development and explores themes of morality, loss, and the burdens of knowledge. While maintaining a serious tone, Lewis incorporates moments of dark humor and offers a nuanced portrayal of the human condition.",
+        "spoiler_rich_plot_summary": "The series begins with the retirement of Inspector Morse, leaving Robert Lewis, his former partner, grappling with the void and the weight of unresolved cases. Lewis is partnered with the brilliant but troubled James Hathaway, whose own personal demons and academic background often complicate their investigations. Throughout the series, they confront a wide range of crimes, often linked to the world of academia, historical artifacts, and Oxford's rich cultural heritage. Hathaway's struggles with anxiety and his complex relationship with his estranged fiancée, Robbie, are recurring plotlines that intertwine with the cases they solve. As the series progresses, Lewis and Hathaway's partnership evolves, with Lewis providing a grounding influence on Hathaway while Hathaway challenges Lewis's perspectives. The later seasons explore deeper personal issues for both detectives, including Lewis's own past and Hathaway's ongoing mental health challenges, culminating in significant shifts in their professional and personal lives. While the series maintains a focus on solving crimes, it also delves into the psychological toll that such work takes on the detectives.",
+        "categorized_keywords": {
+          "themes": [
+            "crime-and-punishment",
+            "morality",
+            "loss",
+            "knowledge",
+            "redemption",
+            "mental-health",
+            "grief"
+          ],
+          "plot_and_concepts": [
+            "police-investigation",
+            "crime-procedural",
+            "academic-mystery",
+            "serial-crime"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "serious",
+            "melancholy",
+            "thoughtful"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "mystery",
+            "british-tv",
+            "whodunit"
+          ],
+          "setting": [
+            "oxford-city",
+            "england",
+            "university-town",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "detective",
+            "brilliant-but-troubled",
+            "mentor-protégé"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-crime"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "crime-scene",
+            "police-car",
+            "university-buildings",
+            "historical-artifacts"
+          ],
+          "maturity_and_content": [
+            "graphic-violence"
+          ]
+        },
+        "keyword_sentence": "Set against the backdrop of Oxford's academic world, Lewis is a dark and thoughtful crime drama that explores themes of morality, loss, and the psychological toll of solving complex cases."
+      },
+      "duration_seconds": 65.77580213546753
+    }
+  }
+}

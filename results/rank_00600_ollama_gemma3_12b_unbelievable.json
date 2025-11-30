@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Unbelievable",
+    "overview": "A teenager is charged with lying about her rape allegation, but two determined investigative female detectives discover a far more sinister truth.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "release_year": 2019,
+    "vote_count": 490
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Unbelievable is a gripping limited series that explores the devastating consequences of disbelief and the systemic failures within law enforcement. Rooted in a true story, the series follows a teenager who recants her rape allegation under pressure, only to have two detectives uncover a pattern of similar assaults. The narrative is a blend of procedural drama and psychological thriller, examining themes of trauma, victim-blaming, and the importance of empathy and persistence in the pursuit of justice. The series offers a somber and emotionally resonant experience, prompting reflection on the complexities of truth and the fragility of trust.",
+        "spoiler_rich_plot_summary": "The series begins with Marie Adler, a teenager, reporting a rape. Due to inconsistencies in her story and pressure from authorities, she recants her allegation and is charged with false reporting. Simultaneously, in another state, Detectives Grace Rasmussen and Karen Duvall investigate a series of strikingly similar rape cases. Rasmussen, a seasoned investigator, recognizes the pattern and pushes for a deeper investigation, while Duvall initially expresses skepticism. As they connect the cases, they uncover a serial rapist who is meticulously covering his tracks. Marie, meanwhile, struggles with the fallout of her false reporting charge and the trauma of the initial assault. The detectives' relentless pursuit of the truth eventually leads them to the perpetrator, exposing a disturbing network of complicity and highlighting the systemic failures that allowed him to operate for so long. The series culminates in a confrontation that brings a measure of justice for the victims, but also underscores the lasting impact of the trauma they have endured.",
+        "categorized_keywords": {
+          "themes": [
+            "victim-blaming",
+            "trauma",
+            "justice",
+            "trust",
+            "empathy",
+            "false-accusation",
+            "systemic-failure"
+          ],
+          "plot_and_concepts": [
+            "serial-rape",
+            "police-investigation",
+            "false-reporting",
+            "pattern-recognition",
+            "cold-case"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "suspenseful",
+            "unsettling",
+            "realistic",
+            "dark"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "true-crime",
+            "legal-drama",
+            "psychological-thriller"
+          ],
+          "setting": [
+            "modern-day",
+            "suburban-america",
+            "courtroom"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "dedicated-detective",
+            "vulnerable-victim",
+            "skeptical-authority"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "dual-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "police-station",
+            "interrogation-room",
+            "courtroom-scene",
+            "victim-support-group"
+          ],
+          "maturity_and_content": [
+            "sexual-content",
+            "rape-themes",
+            "graphic-violence"
+          ]
+        },
+        "keyword_sentence": "Unbelievable is a somber and suspenseful crime procedural that explores themes of trauma and justice through the lens of a police investigation into a series of rapes, highlighting the devastating consequences of disbelief and systemic failure."
+      },
+      "duration_seconds": 61.737387895584106
+    }
+  }
+}

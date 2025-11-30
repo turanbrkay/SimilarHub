@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "The Duchess",
+    "overview": "Katherine's a single mom juggling her career, her tween daughter, her relationship with her boyfriend — and pondering getting pregnant with her ex.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2020,
+    "vote_count": 57
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Duchess is a darkly comedic and poignant series exploring the complexities of modern motherhood, relationships, and societal expectations. Centered around Katherine, a successful businesswoman and single mother, the show delves into her decision-making process regarding another child and the ripple effects it has on her life and the lives of those around her. The series blends sharp wit with genuine emotional depth, offering a nuanced portrayal of the challenges and joys of parenting and the pressures of maintaining a public image. It's a character-driven exploration of ambition, love, and the constant negotiation of identity in a rapidly changing world.",
+        "spoiler_rich_plot_summary": "The series begins with Katherine, a driven PR executive and single mother, contemplating whether to have another child with her ex-boyfriend, Devon. She's in a committed relationship with Oliver, a film producer, and the prospect of adding another child to the mix throws her carefully constructed life into disarray. As Katherine navigates the complexities of her relationships, she grapples with the expectations of her family, her colleagues, and society at large. Flashbacks reveal the history of her relationships with Devon and Oliver, providing context for her current predicament. The series follows Katherine as she attempts to balance her career ambitions with the demands of motherhood, all while wrestling with the potential consequences of her decision. Throughout the season, she confronts uncomfortable truths about herself and those closest to her, ultimately leading to a reevaluation of her priorities and a shift in her understanding of what truly matters.",
+        "categorized_keywords": {
+          "themes": [
+            "motherhood",
+            "relationships",
+            "social-expectations",
+            "career-ambition",
+            "identity-crisis",
+            "modern-family"
+          ],
+          "plot_and_concepts": [
+            "flashbacks",
+            "relationship-drama",
+            "single-parenting",
+            "moral-dilemma"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "satirical",
+            "witty",
+            "poignant"
+          ],
+          "genre_and_tropes": [
+            "romantic-comedy",
+            "dramedy",
+            "slice-of-life"
+          ],
+          "setting": [
+            "modern-day",
+            "new-york-city"
+          ],
+          "character_archetypes": [
+            "driven-woman",
+            "single-mother",
+            "complex-romantic-lead"
+          ],
+          "narrative_style": [
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "pr-agency",
+            "film-production",
+            "child's-school",
+            "apartment-living"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Duchess is a darkly comic dramedy set in modern-day New York City, exploring the complexities of motherhood, relationships, and career ambition through the eyes of a driven woman grappling with social expectations and a moral dilemma."
+      },
+      "duration_seconds": 58.98580503463745
+    }
+  }
+}

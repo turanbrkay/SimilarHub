@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Treasure Island",
+    "overview": "In this two-part miniseries adaptation of the classic adventure novel, young Jim Hawkins is the only one who can direct a schooner to an island known for buried treasure. But aboard the ship is a mysterious man whose true motives challenge Jim's trust in the entire crew.",
+    "genres": [
+      "Action & Adventure",
+      "Drama"
+    ],
+    "release_year": 2012,
+    "vote_count": 85
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Treasure Island is a two-part miniseries adaptation of Robert Louis Stevenson's classic adventure novel. The series follows young Jim Hawkins as he becomes embroiled in a perilous quest for buried treasure, navigating treacherous waters and facing a cast of morally ambiguous characters. It blends elements of action, adventure, and drama, offering a thrilling and suspenseful journey centered on themes of trust, greed, and the allure of the unknown. The series aims to capture the spirit of the original story while providing a visually engaging and emotionally resonant experience for modern audiences.",
+        "spoiler_rich_plot_summary": "The story begins with young Jim Hawkins living a quiet life on his family’s inn. His world is upended when a mysterious and injured man, later revealed to be the infamous pirate Billy Bones, seeks refuge there. Upon Bones’ death, Jim discovers a treasure map, setting in motion a dangerous voyage aboard the schooner Hispaniola. Unbeknownst to Jim, the ship’s cook, Long John Silver, is a cunning pirate in disguise, leading a mutiny to seize the treasure for himself. Jim, along with Captain Smollett and Doctor Livesey, must outwit Silver and his crew, facing perilous storms, hostile natives, and the constant threat of betrayal. The quest for the treasure leads to a confrontation on the island, where Jim’s courage and resourcefulness are tested as he attempts to thwart Silver’s plans and secure the treasure for the rightful owners. The series culminates in a final showdown, revealing the true cost of greed and the enduring power of loyalty.",
+        "categorized_keywords": {
+          "themes": [
+            "treasure-hunt",
+            "greed",
+            "loyalty",
+            "betrayal",
+            "coming-of-age",
+            "adventure",
+            "trust"
+          ],
+          "plot_and_concepts": [
+            "pirate-adventure",
+            "treasure-map",
+            "mutiny",
+            "shipwreck",
+            "island-exploration"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "adventurous",
+            "dark",
+            "thrilling"
+          ],
+          "genre_and_tropes": [
+            "adventure-story",
+            "pirate-tale",
+            "coming-of-age-story",
+            "treasure-hunt-trope"
+          ],
+          "setting": [
+            "18th-century",
+            "caribbean-sea",
+            "tropical-island"
+          ],
+          "character_archetypes": [
+            "young-hero",
+            "cunning-villain",
+            "wise-mentor",
+            "rogue"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "adventure-narrative"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "treasure-chest",
+            "schooner",
+            "pirate-flag",
+            "cutlass"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Treasure Island is a thrilling adventure story set in the 18th century Caribbean, following a young hero’s perilous quest for buried treasure amidst pirates, betrayal, and the allure of greed."
+      },
+      "duration_seconds": 66.73318433761597
+    }
+  }
+}

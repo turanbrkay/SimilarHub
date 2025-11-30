@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Dr. Horrible's Sing-Along Blog",
+    "overview": "Aspiring super-villain Dr. Horrible wants to join the Evil League of Evil and win the girl of his dreams, but his nemesis, Captain Hammer, stops him at every turn.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2008,
+    "vote_count": 476
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Dr. Horrible's Sing-Along Blog is a comedic musical series that satirizes superhero tropes and explores themes of ambition, failure, and unrequited love. Presented as a mockumentary, the series follows the aspirations of a would-be supervillain, Dr. Horrible, as he attempts to achieve his goals while constantly thwarted by the heroic Captain Hammer. The series blends humor, catchy musical numbers, and surprisingly poignant character development, offering a self-aware and ultimately bittersweet commentary on the superhero genre and the pursuit of dreams.",
+        "spoiler_rich_plot_summary": "The series begins with Dr. Horrible, a frustrated inventor yearning for recognition within the Evil League of Evil. He dreams of becoming a formidable villain and winning the affection of Penny, a kind and compassionate aspiring singer. However, his plans are consistently undermined by Captain Hammer, a relentlessly heroic and popular figure who embodies everything Dr. Horrible is not. As Dr. Horrible attempts increasingly elaborate schemes to achieve his goals, he finds himself in a constant battle with Captain Hammer, often with disastrous and humorous consequences. Penny, initially unaware of the conflict between the two men, becomes entangled in their rivalry. Ultimately, Dr. Horrible achieves a significant victory, seemingly fulfilling his ambitions, but the triumph is bittersweet as it comes at a cost to his relationship with Penny, who chooses to be with Captain Hammer. The series concludes with Dr. Horrible reflecting on his failures and the complexities of love and ambition, leaving the audience to ponder the nature of heroism and villainy.",
+        "categorized_keywords": {
+          "themes": [
+            "ambition",
+            "failure",
+            "unrequited-love",
+            "heroism",
+            "villainy",
+            "social-commentary"
+          ],
+          "plot_and_concepts": [
+            "satire",
+            "mockumentary",
+            "superhero-tropes",
+            "sing-along",
+            "rivalry"
+          ],
+          "mood_and_tone": [
+            "comedic",
+            "bittersweet",
+            "ironic",
+            "darkly-humorous"
+          ],
+          "genre_and_tropes": [
+            "musical",
+            "comedy",
+            "satirical-comedy",
+            "superhero-genre"
+          ],
+          "setting": [
+            "modern-day",
+            "fictional-city"
+          ],
+          "character_archetypes": [
+            "aspiring-villain",
+            "reluctant-hero",
+            "innocent-romantic"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "mock-documentary"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "evil-league-of-evil",
+            "sing-along-blog",
+            "laser-beams",
+            "heroic-pose"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Dr. Horrible's Sing-Along Blog is a darkly humorous musical satire that explores themes of ambition and failure within the superhero genre, presented as a mockumentary about an aspiring villain’s quest for recognition and love."
+      },
+      "duration_seconds": 80.28146243095398
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Disney's Adventures of the Gummi Bears",
+    "overview": "Join the world’s sweetest heroes for high adventure in a mystical land of giants and wizards, ogres and dragons, and wondrous creatures both good and evil. Meet Gruffi, Zummi, Cubbi, Grammi, Tummi, Sunni, and all the legendary Gummis as they laugh, play, foil dastardly plots, and fight for what's right.",
+    "genres": [
+      "Animation",
+      "Family",
+      "Kids"
+    ],
+    "release_year": 1985,
+    "vote_count": 186
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Disney's Adventures of the Gummi Bears is a lighthearted animated series aimed at a family audience, blending fantasy adventure with comedic elements. The show follows a group of bear-like creatures who are the last of an ancient civilization known for their ability to create gummi bears, a source of magical energy. The series explores themes of friendship, courage, and the importance of preserving history and tradition, all while delivering a consistently upbeat and entertaining experience. It's a classic example of 1980s animated storytelling, emphasizing positive values and whimsical escapism.",
+        "spoiler_rich_plot_summary": "The series begins with the Gummi Bears living in hiding, fearing persecution from the Duke of Drekkar, who seeks to control their gummi berry energy. Gruffi Gummi, the leader, struggles to uphold the traditions of his people while navigating the challenges of protecting them. Throughout the series, the Gummis encounter various adversaries, including the sinister Sir Ernest and the cunning Ugg, each attempting to exploit the Gummis' power for their own nefarious purposes. The Gummis frequently travel to different regions of the kingdom, uncovering lost artifacts and confronting historical conflicts. As the series progresses, the Gummis learn more about their own history and the true extent of their power, ultimately striving to restore balance and harmony to the land. While the Gummis face numerous setbacks and dangers, they consistently demonstrate resilience and a commitment to doing what is right, ultimately safeguarding their legacy and inspiring others.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "courage",
+            "legacy",
+            "tradition",
+            "good-vs-evil",
+            "family-values"
+          ],
+          "plot_and_concepts": [
+            "fantasy-adventure",
+            "hidden-civilization",
+            "magical-artifacts",
+            "quest-narrative",
+            "ancient-history"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "optimistic",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "animated-series",
+            "family-audience",
+            "heroic-quest",
+            "coming-of-age"
+          ],
+          "setting": [
+            "fantasy-kingdom",
+            "medieval-setting",
+            "enchanted-forest"
+          ],
+          "character_archetypes": [
+            "wise-leader",
+            "brave-hero",
+            "loyal-companion",
+            "mischievous-sidekick"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "gummi-bears",
+            "gummi-berries",
+            "duke-of-drekkar",
+            "ancient-tomb",
+            "magic-staff"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Disney's Adventures of the Gummi Bears is a lighthearted animated series for families, following a heroic quest through a fantasy kingdom filled with magic, friendship, and the importance of preserving ancient traditions."
+      },
+      "duration_seconds": 64.0478208065033
+    }
+  }
+}

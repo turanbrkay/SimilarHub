@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "The Super Hero Squad Show",
+    "overview": "The Super Hero Squad Show is an American cartoon series by Marvel Animation. It is based on the Marvel Super Hero Squad action figure line from Hasbro, which portray the Avengers, the X-Men, and various other characters of the Marvel Universe in a cartoonish super-deformed-style. It is also a self-aware parody of the Marvel characters, with influences taken from on the comedic Mini Marvels series of parody comic books, in that the heroes tend to find themselves in comedic situations, and have cartoonish bents in comparison to their usually serious personalities, and is an overall comedic take on the Avengers. The series' animation was produced by Film Roman and Marvel Animation.",
+    "genres": [
+      "Action & Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "release_year": 2009,
+    "vote_count": 105
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Super Hero Squad Show is a comedic animated series aimed at a young audience, featuring Marvel superheroes in a lighthearted and exaggerated style. The show parodies the established characters, presenting them in humorous situations and downplaying their typically serious personalities. It's a family-friendly action-comedy that blends superhero action with slapstick humor and self-aware parody, designed to appeal to both children and fans of the Marvel universe. The series prioritizes entertainment and accessibility over complex narratives or character development.",
+        "spoiler_rich_plot_summary": "The series revolves around a team of Marvel superheroes – including Iron Man, Captain America, Hulk, Thor, Spider-Man, and many others – who frequently find themselves facing off against a variety of villains, such as Doctor Doom, Loki, and MODOK. Each episode typically involves a new threat or problem that the team must solve, often through a combination of superhero powers and comedic mishaps. While the heroes are powerful, they are also prone to silly arguments and misunderstandings, which often complicate their missions. The overarching narrative focuses on the team learning to work together and embracing their roles as protectors of the Marvel Universe, while maintaining a consistently lighthearted and humorous tone. The series doesn't feature a complex, season-long arc, instead opting for episodic adventures that resolve within a single episode, reinforcing the show's focus on accessible entertainment.",
+        "categorized_keywords": {
+          "themes": [
+            "teamwork",
+            "friendship",
+            "heroism",
+            "good-vs-evil",
+            "parody"
+          ],
+          "plot_and_concepts": [
+            "superhero-team",
+            "episodic-adventure",
+            "villain-of-the-week",
+            "cartoonish-physics"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "comedic",
+            "wholesome",
+            "silly"
+          ],
+          "genre_and_tropes": [
+            "superhero-action",
+            "comedy",
+            "childrens-animation",
+            "parody"
+          ],
+          "setting": [
+            "marvel-universe",
+            "cartoon-city"
+          ],
+          "character_archetypes": [
+            "superhero",
+            "villain",
+            "sidekick"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "superhero-costumes",
+            "hq-base",
+            "villain-lair"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Super Hero Squad Show is a lighthearted and comedic children's animation that features a team of Marvel superheroes facing off against villains in episodic adventures, celebrating friendship and heroism within a cartoonish and parodic universe."
+      },
+      "duration_seconds": 57.96295094490051
+    }
+  }
+}

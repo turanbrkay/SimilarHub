@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Superman: The Animated Series",
+    "overview": "Superman, an incredibly powerful alien from the planet Krypton, defends Metropolis from supercriminals. Superman hides his identity behind the glasses of Clark Kent; a mild-mannered reporter for the newspaper the Daily Planet. At the Daily Planet Superman works with fellow reporter Lois Lane and photographer Jimmy Olsen.",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1996,
+    "vote_count": 269
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Superman: The Animated Series is a superhero action-adventure show that reimagines the classic Superman mythos for a younger audience. The series blends thrilling action sequences with compelling character development, exploring themes of responsibility, morality, and the struggle between good and evil. It maintains a consistently heroic tone while delving into the psychological complexities of Superman's dual identity and the challenges of protecting a city filled with dangerous adversaries. The show’s animation style is distinctive and its storytelling emphasizes the emotional weight of Superman’s actions.",
+        "spoiler_rich_plot_summary": "The series begins with a young Clark Kent arriving on Earth after the destruction of Krypton, raised by the Kents in Smallville. As he matures, he embraces his destiny as Superman, defending Metropolis from a rogues' gallery of iconic villains like Lex Luthor, Brainiac, and the Joker. Throughout the series, Superman grapples with the burden of his immense power and the constant threat to those he protects. Lex Luthor consistently plots to expose Superman and seize power, while Brainiac seeks to collect specimens from various planets, often targeting Earth. The series explores Superman’s relationships with Lois Lane, Jimmy Olsen, and his adoptive parents, showcasing his unwavering commitment to justice and his struggle to balance his personal life with his heroic duties. Recurring storylines involve the exploration of Kryptonian history and the potential return of threats from Superman’s past, culminating in ongoing battles for the fate of Metropolis and the planet.",
+        "categorized_keywords": {
+          "themes": [
+            "good-vs-evil",
+            "responsibility",
+            "moral-dilemmas",
+            "identity-crisis",
+            "hope",
+            "sacrifice"
+          ],
+          "plot_and_concepts": [
+            "superhero-action",
+            "dual-identity",
+            "rogues-gallery",
+            "alien-invasion",
+            "scientific-threat",
+            "crime-fighting"
+          ],
+          "mood_and_tone": [
+            "heroic",
+            "optimistic",
+            "dramatic",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "superhero-genre",
+            "coming-of-age",
+            "alien-mythology",
+            "secret-identity"
+          ],
+          "setting": [
+            "metropolis-city",
+            "krypton-planet",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "brilliant-villain",
+            "loyal-sidekick",
+            "wise-parent"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-adventure"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "daily-planet",
+            "kryptonian-symbol",
+            "superman-suit",
+            "lexcorp-tower"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Superman: The Animated Series is a heroic and dramatic adventure that explores themes of responsibility and moral dilemmas as a young alien defends Metropolis from a rogues' gallery of villains while grappling with his dual identity."
+      },
+      "duration_seconds": 62.029892444610596
+    }
+  }
+}

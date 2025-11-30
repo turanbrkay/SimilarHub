@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Terminator: The Sarah Connor Chronicles",
+    "overview": "The series picks up four years after the events of Terminator 2: Judgment Day with John and Sarah Connor trying to stay under-the-radar from the government, as they plot to destroy the computer network, Skynet, in hopes of preventing Armageddon.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Action & Adventure"
+    ],
+    "release_year": 2008,
+    "vote_count": 783
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Terminator: The Sarah Connor Chronicles follows John and Sarah Connor as they attempt to proactively prevent Judgment Day, the apocalyptic event depicted in the original films. The series blends action, science fiction, and drama, exploring themes of destiny, free will, and the complexities of mother-son relationships under extraordinary circumstances. It delves into the psychological toll of living with the knowledge of a future apocalypse and the constant threat of technological adversaries. The show maintains a suspenseful tone, punctuated by intense action sequences and a persistent sense of paranoia.",
+        "spoiler_rich_plot_summary": "The series begins four years after the events of Terminator 2, with Sarah and John Connor living under assumed identities, constantly on the run from both the government and Skynet. They are aided by Cameron, a Terminator sent from the future to protect John and ensure he fulfills his destiny as the leader of the human resistance. Initially, Sarah is fiercely protective and controlling, struggling to reconcile her maternal instincts with the need to prepare John for war. However, as the series progresses, she begins to question the deterministic nature of their mission and the potential for altering the future. John, meanwhile, grapples with the burden of his destiny and the allure of a normal life. New Terminators are sent from the future, each with different objectives, complicating their efforts and forcing them to adapt their strategies. The series explores the origins of Skynet and the events leading up to Judgment Day, revealing the intricate web of causality that binds their lives to the impending apocalypse. The Connor's encounter other survivors and resistance fighters, forming alliances and facing betrayals as they fight to change the future.",
+        "categorized_keywords": {
+          "themes": [
+            "free-will",
+            "destiny",
+            "mother-son-relationship",
+            "survival",
+            "technological-dystopia",
+            "resistance-movement"
+          ],
+          "plot_and_concepts": [
+            "time-travel",
+            "terminator-program",
+            "artificial-intelligence",
+            "resistance-warfare",
+            "alternate-timeline"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "action-packed",
+            "dark",
+            "paranoia",
+            "tense"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "action-thriller",
+            "dystopian-fiction",
+            "found-family",
+            "protector-narrative"
+          ],
+          "setting": [
+            "modern-day",
+            "california",
+            "alternate-timeline"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "protective-mother",
+            "cyborg",
+            "government-agent"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "action-adventure"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "terminator-unit",
+            "skynet-network",
+            "resistance-base",
+            "government-facility",
+            "modified-vehicle"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "perilous-situations"
+          ]
+        },
+        "keyword_sentence": "Terminator: The Sarah Connor Chronicles is a suspenseful science-fiction action series exploring themes of free will and destiny as a mother and son fight against a technological dystopia and a relentless Terminator program to alter the course of the future."
+      },
+      "duration_seconds": 125.38606762886047
+    }
+  }
+}

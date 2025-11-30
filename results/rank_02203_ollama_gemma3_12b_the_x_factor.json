@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "The X Factor",
+    "overview": "The X Factor is a British television music competition to find new singing talent, contested by aspiring singers drawn from public auditions.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2004,
+    "vote_count": 83
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The X Factor is a British reality television competition that seeks to discover new singing talent through public auditions and subsequent performance rounds. The series blends elements of talent scouting, performance anxiety, and audience participation, creating a dynamic and often emotionally charged viewing experience. Contestants are mentored by celebrity judges who provide feedback and guidance, culminating in a live final where the public votes for their favorite performer. The show's format has been widely adapted internationally, demonstrating its appeal and influence in the global entertainment landscape.",
+        "spoiler_rich_plot_summary": "Each season of The X Factor begins with thousands of hopeful singers auditioning before a panel of judges and a public audience. Successful candidates progress to the 'boot camp' stage, where they undergo intensive training and compete against other hopefuls to secure a place in the live shows. The live shows feature weekly performances judged by the panel, with public voting determining which contestants are eliminated. Throughout the competition, contestants often face challenges, including vocal difficulties, stage fright, and interpersonal conflicts. The mentors play a crucial role in guiding the contestants, offering advice and support. The final episode showcases the remaining contestants performing for a chance to win a recording contract and the title of 'The X Factor' winner, marking the culmination of their journey and the realization of their dreams.",
+        "categorized_keywords": {
+          "themes": [
+            "talent-discovery",
+            "competition",
+            "fame",
+            "ambition",
+            "public-opinion",
+            "performance-pressure"
+          ],
+          "plot_and_concepts": [
+            "talent-show",
+            "elimination-rounds",
+            "mentor-relationship",
+            "public-voting",
+            "singing-competition"
+          ],
+          "mood_and_tone": [
+            "excitement",
+            "emotional",
+            "tense",
+            "celebratory"
+          ],
+          "genre_and_tropes": [
+            "reality-television",
+            "singing-contest",
+            "underdog-story"
+          ],
+          "setting": [
+            "television-studio",
+            "uk"
+          ],
+          "character_archetypes": [
+            "aspiring-singer",
+            "celebrity-judge",
+            "mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "elimination-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "microphone",
+            "stage-lights",
+            "judges-table",
+            "voting-lines"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The X Factor is a British reality television competition that showcases aspiring singers battling for fame and a recording contract through elimination rounds and public voting, creating a tense and emotional experience for both contestants and viewers."
+      },
+      "duration_seconds": 56.847896099090576
+    }
+  }
+}

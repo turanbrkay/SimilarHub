@@ -1,0 +1,88 @@
+{
+  "input_data": {
+    "title": "The Dragon Prince",
+    "overview": "An extraordinary discovery inspires two human princes and an elven assassin to team up on an epic quest to bring peace to their warring lands.",
+    "genres": [
+      "Action & Adventure",
+      "Sci-Fi & Fantasy",
+      "Animation"
+    ],
+    "release_year": 2018,
+    "vote_count": 517
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Dragon Prince is a fantasy animated series centered on a fragile peace between humans and elves, shattered by a devastating war. The story follows two human princes and an elven assassin who embark on a perilous journey to return a dragon egg and prevent further conflict. The series blends action-adventure with elements of political intrigue and character-driven storytelling, exploring themes of prejudice, forgiveness, and the complexities of leadership. Its appeal lies in its engaging characters, vibrant animation, and a narrative that balances humor with moments of genuine emotional depth.",
+        "spoiler_rich_plot_summary": "The series begins with the destruction of the Elven kingdom of Xadia by human mages who use dark magic to harness dragon power. Two princes, Callum and Ezran, witness the devastation and are tasked with returning a dragon egg to its mother, a quest that takes them beyond the human kingdom of Katolis. They are joined by Rayla, an elven assassin sent to kill the princes, but she ultimately defects and joins their cause, questioning her people's long-held beliefs. Their journey is fraught with danger, as they navigate treacherous landscapes, encounter various creatures, and confront both human and elven adversaries. Along the way, they uncover a larger conspiracy involving the motivations behind the war and the true nature of dark magic. Callum discovers an unexpected ability to draw magic, leading to a complex journey of self-discovery and moral responsibility. The princes and Rayla forge unlikely alliances, challenging the ingrained prejudices that fuel the conflict, and ultimately strive to bridge the divide between humans and elves, though the path to lasting peace remains uncertain and requires significant sacrifices.",
+        "categorized_keywords": {
+          "themes": [
+            "war-and-conflict",
+            "prejudice",
+            "forgiveness",
+            "redemption",
+            "duty-and-honor",
+            "friendship",
+            "self-discovery",
+            "leadership"
+          ],
+          "plot_and_concepts": [
+            "quest-narrative",
+            "political-intrigue",
+            "magic-system",
+            "dragon-lore",
+            "found-family",
+            "coming-of-age"
+          ],
+          "mood_and_tone": [
+            "hopeful",
+            "adventurous",
+            "wholesome",
+            "lighthearted",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "fantasy",
+            "animation",
+            "adventure",
+            "coming-of-age",
+            "epic-quest"
+          ],
+          "setting": [
+            "fantasy-kingdom",
+            "medieval-setting",
+            "magical-forest",
+            "elven-culture",
+            "human-kingdom"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "skilled-assassin",
+            "young-prince",
+            "moral-ambiguity"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "quest-driven"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "dragon-egg",
+            "elven-armor",
+            "magic-glyphs",
+            "royal-crest",
+            "ancient-ruins"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Dragon Prince is a hopeful animated fantasy series that follows a group of unlikely heroes on an epic quest to bridge the divide between warring kingdoms and overcome prejudice through friendship and self-discovery."
+      },
+      "duration_seconds": 64.63975048065186
+    }
+  }
+}

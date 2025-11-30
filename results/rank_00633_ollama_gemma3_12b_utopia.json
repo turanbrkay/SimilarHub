@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Utopia",
+    "overview": "The  Utopia Experiments is a legendary graphic novel shrouded in mystery.  When a group of strangers find themselves in possession of an original  manuscript, their lives suddenly and brutally implode.",
+    "genres": [
+      "Mystery",
+      "Drama",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy",
+      "Comedy"
+    ],
+    "release_year": 2013,
+    "vote_count": 452
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Utopia is a British thriller series centered around a group of individuals who stumble upon a mysterious and highly sought-after graphic novel. The series blends elements of action, suspense, and dark humor, exploring themes of conspiracy, government control, and the power of information. Its fast-paced narrative and unpredictable plot twists create a sense of constant danger and paranoia, keeping viewers on edge as the characters navigate a world of shadowy organizations and deadly secrets. The show's unique visual style and complex characters contribute to a compelling and unsettling viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Jessica Hyde finding a discarded copy of 'The Utopia Experiments,' a graphic novel detailing a pandemic, environmental disaster, and other catastrophic events. She connects with other individuals who also possess copies, forming a group to investigate the novel's seemingly prophetic content. As they delve deeper, they realize they are being hunted by powerful forces who want the graphic novel suppressed. The group, initially naive, becomes embroiled in a deadly game of cat and mouse, uncovering a vast conspiracy involving a clandestine organization manipulating global events. Members of the group face betrayals, loss, and are forced to confront their own moral boundaries as they fight to expose the truth. The narrative progresses through multiple seasons, with the characters constantly adapting to new threats and uncovering layers of deception, ultimately revealing the graphic novel's connection to a larger, ongoing experiment.",
+        "categorized_keywords": {
+          "themes": [
+            "conspiracy",
+            "government-control",
+            "power-of-information",
+            "moral-ambiguity",
+            "paranoia",
+            "identity-crisis"
+          ],
+          "plot_and_concepts": [
+            "graphic-novel-mystery",
+            "cat-and-mouse",
+            "secret-society",
+            "global-conspiracy",
+            "prophecy"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "darkly-comic",
+            "tense",
+            "paranoic",
+            "unsettling"
+          ],
+          "genre_and_tropes": [
+            "thriller",
+            "mystery",
+            "action-thriller",
+            "conspiracy-thriller"
+          ],
+          "setting": [
+            "modern-day",
+            "uk-setting",
+            "urban-setting"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "anti-hero",
+            "enigmatic-figure"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "fast-paced",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "graphic-novel",
+            "secret-organization",
+            "surveillance-technology"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "suspense"
+          ]
+        },
+        "keyword_sentence": "Utopia is a suspenseful British thriller series that explores themes of conspiracy and government control through a fast-paced narrative centered around a mysterious graphic novel and a group of individuals caught in a deadly game of cat and mouse."
+      },
+      "duration_seconds": 71.67224335670471
+    }
+  }
+}

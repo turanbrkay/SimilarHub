@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "The Equalizer",
+    "overview": "Robyn McCall, an enigmatic former CIA operative with a mysterious background, uses her extensive skills to help those with nowhere else to turn.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Action & Adventure"
+    ],
+    "release_year": 2021,
+    "vote_count": 227
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Equalizer is a crime drama series centered on Robyn McCall, a woman with a shadowy past who utilizes her covert skills to assist those in need. The show blends action, suspense, and a strong moral compass, exploring themes of justice, redemption, and the complexities of operating outside the legal system. McCall's unique skillset and desire to right wrongs create a compelling narrative, often involving intricate plots and dangerous adversaries. The series offers a blend of procedural elements and character-driven storytelling, appealing to audiences seeking both thrilling action and a focus on personal morality.",
+        "spoiler_rich_plot_summary": "The series begins with Robyn McCall, a former CIA operative, living under an assumed identity, attempting to escape her past. However, she finds herself compelled to intervene when she witnesses injustice, using her skills to help those who are exploited and vulnerable. Each case presents a new challenge, often involving powerful and ruthless individuals who operate with impunity. As Robyn navigates these dangerous situations, she is forced to confront her own past and the reasons she left the CIA. Recurring adversaries and allies emerge, complicating her mission and revealing more about her history. The series explores the consequences of her actions, both for herself and for those she helps, and hints at a larger conspiracy that threatens to expose her true identity and force her back into the world she tried to leave behind. Throughout the series, Robyn's past catches up to her, revealing connections to powerful figures and forcing her to make difficult choices that impact her safety and the lives of those around her.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "redemption",
+            "moral-ambiguity",
+            "vigilantism",
+            "past-trauma",
+            "protecting-the-innocent"
+          ],
+          "plot_and_concepts": [
+            "crime-procedural",
+            "vigilante-justice",
+            "undercover-operation",
+            "secret-identity",
+            "revenge-plot"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "action-oriented",
+            "serious"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "action-thriller",
+            "secret-agent",
+            "found-family"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "vigilante",
+            "skilled-operative",
+            "enigmatic-heroine"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "case-of-the-week"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "safe-house",
+            "surveillance-equipment",
+            "undercover-disguise",
+            "skillful-combat"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "The Equalizer is a suspenseful crime drama set in modern-day New York City, following a skilled operative who uses her past as a secret agent to deliver justice and protect the innocent through vigilantism."
+      },
+      "duration_seconds": 63.376830101013184
+    }
+  }
+}

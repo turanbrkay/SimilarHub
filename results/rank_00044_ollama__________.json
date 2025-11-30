@@ -1,0 +1,101 @@
+{
+  "input_data": {
+    "title": "Mr. Robot",
+    "overview": "A contemporary and culturally resonant drama about a young programmer, Elliot, who suffers from a debilitating anti-social disorder and decides that he can only connect to people by hacking them. He wields his skills as a weapon to protect the people that he cares about. Elliot will find himself in the intersection between a cybersecurity firm he works for and the underworld organizations that are recruiting him to bring down corporate America.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2015,
+    "vote_count": 4119
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analysis_summary": "The user requested a detailed, spoiler‑rich summary of the TV series \"Mr. Robot\" along with a comprehensive set of keywords categorized into themes, plot elements, mood, genre, setting, character archetypes, narrative style, target audience, and specific plot details. The response must adhere to strict formatting rules: all keys in snake_case, values in kebab-case, no articles, and a single sentence keyword summary. The JSON output should include a spoiler‑rich plot summary that covers the entire series up to the last episode, and a keyword_sentence that encapsulates the main themes and motifs. The final JSON is structured according to the provided schema and includes all required categories with relevant, non‑redundant keywords.",
+        "spoiler_rich_plot_summary": "Elliot Alderson, a cybersecurity engineer with dissociative identity disorder, is recruited by the enigmatic Mr. Robot to join fsociety, a hacktivist group that plans a massive cyber‑attack on the conglomerate E Corp. In Season 1, Elliot and fsociety succeed in wiping out E Corp’s debt records, but the fallout forces Elliot into a mental hospital where he confronts the split between his own identity and the persona of Mr. Robot, who is revealed to be a manifestation of his deceased father. Season 2 sees Elliot attempting to kill Mr. Robot and unravel the conspiracy that has tied him to a global network of corporate control, only to discover that the mastermind behind the plot is himself, manipulating events from within. By Season 3, Elliot is a fugitive living in a new identity, constantly battling his internal demons while trying to expose the truth about the E Corp hack and the hidden agendas of the government and corporate elite. Season 4 escalates the stakes as Elliot’s alter ego, Mr. Robot, orchestrates a plan to dismantle the power structures that control society, while Elliot struggles to maintain sanity and protect those he cares about. In the final Season 5, Elliot is confined to a psychiatric facility, where he confronts the reality that his entire narrative may have been a construct of his own mind. The series concludes with Elliot escaping the hospital, adopting a new name, and stepping into an uncertain future—leaving his fate ambiguous but suggesting a continued fight against the systemic injustices that defined his life.",
+        "categorized_keywords": {
+          "themes": [
+            "mental-health",
+            "identity-crisis",
+            "corporate-critique",
+            "rebellion",
+            "paranoia",
+            "hacker-ethics",
+            "social-justice"
+          ],
+          "plot_and_concepts": [
+            "hacking",
+            "cyber-attack",
+            "fsociety",
+            "E Corp",
+            "Allsafe",
+            "DID",
+            "Mr Robot",
+            "Elliot",
+            "Elliot's-van",
+            "Elliot's-therapist"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "psychological",
+            "suspenseful",
+            "bleak",
+            "introspective",
+            "gritty",
+            "surreal",
+            "existential"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "psychological-thriller",
+            "hacker-genre",
+            "anti-hero",
+            "conspiracy",
+            "identity-crisis",
+            "unreliable-narrator"
+          ],
+          "setting": [
+            "modern-usa",
+            "new-york",
+            "urban",
+            "contemporary",
+            "digital-age",
+            "corporate-nyc",
+            "2010s"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "hacker",
+            "dissident",
+            "mentor",
+            "therapist",
+            "corporate-executive",
+            "mob"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "non-linear-timeline",
+            "unreliable-narrator",
+            "psychological-arc",
+            "slow-burn"
+          ],
+          "target_audience": [
+            "mature-audiences",
+            "tech-savvy",
+            "thriller-fans",
+            "adult"
+          ],
+          "detail_plot": [
+            "Elliot's-van",
+            "Elliot's-therapist",
+            "Elliot's-van",
+            "Elliot's-van"
+          ]
+        },
+        "keyword_sentence": "Mr. Robot’s dark, psychological thriller explores corporate critique, identity crisis, and rebellion through hacking, cyber‑attack, and the split personality of Elliot, set in modern New York’s urban, digital‑age landscape."
+      },
+      "duration_seconds": 266.7829477787018
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "input_data": {
+    "title": "War and Peace",
+    "overview": "A story that revolves around five aristocratic families, set during the reign of Alexander I, and centered on the love triangle between Natasha Rostova, Pierre Bezukhov, and Andrei Bolkonsky.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2016,
+    "vote_count": 168
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "War and Peace is a sprawling historical drama that chronicles the lives of several aristocratic Russian families against the backdrop of Napoleon's invasion. The series explores themes of love, loss, social upheaval, and the search for meaning amidst war and societal change. It offers a sweeping portrait of a nation in turmoil, examining the personal struggles of individuals caught in the currents of history. The narrative is characterized by its complex characters, intricate relationships, and a focus on the psychological impact of conflict. The series aims to portray the human condition with depth and nuance, showcasing both the grandeur and the tragedy of a pivotal moment in European history.",
+        "spoiler_rich_plot_summary": "The story begins in 1805, introducing the Rostov, Bolkonsky, and Bezukhov families, each grappling with their own ambitions and romantic entanglements. Natasha Rostov, a spirited young woman, finds herself caught between the stoic Andrei Bolkonsky and the awkward but kind Pierre Bezukhov. As Napoleon's forces threaten Russia, the characters are swept into the chaos of war. Pierre, seeking purpose, joins the army and experiences the horrors of battle firsthand. Andrei, a brilliant military strategist, achieves both glory and devastating loss. Natasha's youthful idealism is tested by betrayal and heartbreak. The narrative follows their journeys through the Napoleonic Wars, depicting the Battle of Austerlitz, the French invasion of Russia, and the subsequent retreat. Pierre undergoes a profound spiritual transformation, while Andrei confronts the futility of ambition. Natasha matures through hardship, ultimately finding solace and a sense of belonging. The series culminates with a depiction of Russia's recovery and the characters' reflections on the events that have shaped their lives, leaving them to contemplate the enduring impact of war and the complexities of human relationships.",
+        "categorized_keywords": {
+          "themes": [
+            "love-triangle",
+            "war-and-peace",
+            "social-class",
+            "family-dynamics",
+            "spiritual-awakening",
+            "loss-and-grief",
+            "redemption",
+            "identity-quest"
+          ],
+          "plot_and_concepts": [
+            "historical-drama",
+            "napoleonic-era",
+            "russian-aristocracy",
+            "battle-sequences",
+            "courtly-romance",
+            "social-upheaval"
+          ],
+          "mood_and_tone": [
+            "melancholy",
+            "romantic",
+            "epic",
+            "somber",
+            "reflective"
+          ],
+          "genre_and_tropes": [
+            "historical-fiction",
+            "romantic-drama",
+            "epic-scope",
+            "coming-of-age"
+          ],
+          "setting": [
+            "19th-century-russia",
+            "russian-countryside",
+            "st-petersburg",
+            "napoleonic-wars"
+          ],
+          "character_archetypes": [
+            "stoic-hero",
+            "naive-romantic",
+            "awkward-intellectual",
+            "tragic-heroine",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "generational-saga"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "ballroom-scene",
+            "military-uniform",
+            "carriage-ride",
+            "russian-estate",
+            "battlefield"
+          ],
+          "maturity_and_content": [
+            "war-violence"
+          ]
+        },
+        "keyword_sentence": "War and Peace is a sweeping romantic drama set against the backdrop of 19th-century Russia and the Napoleonic Wars, exploring themes of love, loss, and spiritual awakening within a society undergoing profound social upheaval."
+      },
+      "duration_seconds": 73.42462348937988
+    }
+  }
+}

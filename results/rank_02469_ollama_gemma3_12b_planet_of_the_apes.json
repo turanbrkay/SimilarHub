@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Planet of the Apes",
+    "overview": "Two astronauts and a sympathetic chimp friend are fugitives in a future Earth dominated by a civilization of humanoid apes. \n\nBased on the 1968 Planet of the Apes film and its sequels, which were inspired by the novel of the same name by Pierre Boulle.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Drama"
+    ],
+    "release_year": 1974,
+    "vote_count": 68
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Planet of the Apes is a science fiction action drama exploring themes of humanity, civilization, and the dangers of unchecked technological advancement. The narrative follows astronauts who crash land on a distant planet where apes have evolved to become the dominant species, relegating humans to a primitive state. The film blends action sequences with thought-provoking social commentary, questioning the nature of intelligence, morality, and the potential for societal collapse. It offers a cautionary tale about the fragility of human dominance and the importance of empathy and understanding.",
+        "spoiler_rich_plot_summary": "The film begins with astronauts George Taylor and Landon, along with their chimpanzee companion, Zira, experiencing a malfunction during space travel and crash-landing on a seemingly deserted planet. They soon discover that the planet is inhabited by a highly evolved society of apes, who have established a rigid social hierarchy with gorillas as military leaders, orangutans as lawmakers, and chimpanzees as scientists. Taylor and Landon are captured and treated as primitive animals, struggling to survive and understand the ape civilization. Taylor, demonstrating superior intelligence, eventually manages to communicate with the apes and challenges their assumptions about human inferiority. He attempts to reveal the truth about humanity's past and warn them about the potential for self-destruction, but his efforts are met with skepticism and resistance. The film culminates in a shocking revelation about the true nature of the planet and Taylor's own fate, leaving him to contemplate the cyclical nature of history and the potential for humanity's ultimate downfall.",
+        "categorized_keywords": {
+          "themes": [
+            "humanity-vs-nature",
+            "social-hierarchy",
+            "evolution",
+            "civilization-collapse",
+            "intelligence",
+            "moral-ambiguity",
+            "survival"
+          ],
+          "plot_and_concepts": [
+            "time-travel",
+            "first-contact",
+            "dystopian-society",
+            "animal-intelligence",
+            "captivity"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "thought-provoking",
+            "bleak"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "post-apocalyptic",
+            "dystopian-fiction",
+            "first-contact-story"
+          ],
+          "setting": [
+            "distant-planet",
+            "future-earth",
+            "jungle-environment"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-scientist",
+            "authoritarian-leader"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "ape-society",
+            "gorilla-soldiers",
+            "orangutan-judges",
+            "chimpanzee-scientists",
+            "spacecraft-crash"
+          ],
+          "maturity_and_content": [
+            "violence"
+          ]
+        },
+        "keyword_sentence": "Planet of the Apes is a bleak and suspenseful science fiction drama exploring themes of humanity and civilization on a distant planet dominated by an ape society, questioning the nature of intelligence and the potential for societal collapse."
+      },
+      "duration_seconds": 64.47572731971741
+    }
+  }
+}

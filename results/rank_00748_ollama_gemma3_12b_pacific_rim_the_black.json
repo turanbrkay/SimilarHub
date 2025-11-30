@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "Pacific Rim: The Black",
+    "overview": "Two siblings - an idealistic teenage boy and his naïve younger sister - are forced to pilot an abandoned Jaeger across a hostile landscape in a desperate attempt to find their missing parents.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Animation",
+      "Action & Adventure"
+    ],
+    "release_year": 2021,
+    "vote_count": 378
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Pacific Rim: The Black is an animated action series set within the established Pacific Rim universe, following the journey of two orphaned siblings piloting a Jaeger across a desolate and monster-infested landscape. The series blends action-packed mech battles with themes of family, survival, and the burden of responsibility. It explores the emotional toll of loss and the challenges of navigating a world ravaged by colossal threats, offering a visually dynamic and emotionally resonant experience for fans of the franchise and action animation enthusiasts.",
+        "spoiler_rich_plot_summary": "The series begins with Liam and Raya, two orphaned siblings, discovering an abandoned Jaeger, a black variant left behind after the Kaiju attacks. Driven by the hope of finding their missing parents, who were Jaeger pilots, they embark on a perilous journey across a monster-ridden continent. They are pursued by a shadowy organization seeking to control the Jaeger and exploit its power. As they travel, they encounter various factions, both human and Kaiju, some offering assistance and others posing significant threats. Liam, driven by a desire to honor his parents' legacy, struggles with the immense responsibility of piloting the Jaeger, while Raya grapples with the harsh realities of their situation and the moral compromises necessary for survival. Their quest leads them deeper into the mysteries surrounding the Kaiju attacks and the true nature of the Jaeger technology, revealing a complex web of secrets and betrayals that challenge their understanding of the world and their parents' fate. The siblings face increasingly difficult choices, forcing them to confront their own limitations and the potential for darkness within themselves as they strive to uncover the truth and find a path towards a semblance of hope in a shattered world.",
+        "categorized_keywords": {
+          "themes": [
+            "family-bond",
+            "survival",
+            "loss",
+            "responsibility",
+            "redemption",
+            "hope",
+            "sacrifice"
+          ],
+          "plot_and_concepts": [
+            "mech-combat",
+            "kaiju-attacks",
+            "monster-hunting",
+            "secret-organization",
+            "post-apocalyptic",
+            "found-family"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "action-packed",
+            "hopeful",
+            "somber",
+            "tense"
+          ],
+          "genre_and_tropes": [
+            "sci-fi",
+            "animation",
+            "action-adventure",
+            "giant-robots",
+            "monster-movie"
+          ],
+          "setting": [
+            "post-apocalyptic-world",
+            "alternate-timeline",
+            "pacific-rim-universe"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "sibling-dynamic",
+            "determined-protagonist",
+            "resourceful-survivor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "quest-narrative"
+          ],
+          "target_audience": [
+            "young-adult",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "black-jaeger",
+            "kaiju-remains",
+            "jaeger-piloting",
+            "monster-tracks"
+          ],
+          "maturity_and_content": [
+            "action-violence"
+          ]
+        },
+        "keyword_sentence": "Pacific Rim: The Black is a dark and action-packed animated series set in a post-apocalyptic world, following siblings on a quest to survive and uncover the truth behind giant robot battles and devastating kaiju attacks."
+      },
+      "duration_seconds": 63.36882996559143
+    }
+  }
+}

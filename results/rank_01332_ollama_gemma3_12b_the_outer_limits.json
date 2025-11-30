@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "The Outer Limits",
+    "overview": "Anthology series of composed of distinct story episodes, sometimes with a plot twist at the end, with occasional recurring story elements that were often tied together during season-finale clip shows.",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1995,
+    "vote_count": 175
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Outer Limits is a science fiction anthology series that explores thought-provoking concepts and unsettling scenarios. Each episode presents a self-contained story, often featuring moral dilemmas, technological advancements, and encounters with the unknown. The show blends elements of suspense, horror, and philosophical inquiry, creating a consistently unsettling and intellectually stimulating viewing experience. Recurring visual motifs and occasional season-ending clip shows subtly connect episodes, hinting at a larger, underlying narrative. The series is known for its strong emphasis on atmosphere and its willingness to challenge viewers' perceptions of reality.",
+        "spoiler_rich_plot_summary": "Each episode of The Outer Limits presents a unique story, often centered around a scientific discovery or encounter with an alien presence. Early episodes frequently involve scientists pushing the boundaries of their fields, leading to unforeseen and often disastrous consequences. Recurring themes include the dangers of unchecked ambition, the ethical implications of advanced technology, and the fragility of human understanding. While the stories are largely self-contained, certain characters and concepts reappear across seasons, creating a sense of interconnectedness. The series often concludes with a twist or a moment of profound realization, leaving the viewer to ponder the deeper meaning of the events that have transpired. The clip shows at the end of seasons hint at a larger, overarching narrative, suggesting that the seemingly disparate stories are part of a larger, cosmic puzzle.",
+        "categorized_keywords": {
+          "themes": [
+            "science-ethics",
+            "human-hubris",
+            "existential-dread",
+            "moral-ambiguity",
+            "unknown-threat",
+            "reality-distortion"
+          ],
+          "plot_and_concepts": [
+            "anthology-series",
+            "science-experiment",
+            "alien-encounter",
+            "time-distortion",
+            "moral-dilemma",
+            "plot-twist"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "thought-provoking",
+            "unsettling",
+            "mysterious"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "horror",
+            "anthology",
+            "philosophical-fiction"
+          ],
+          "setting": [
+            "modern-day",
+            "alternate-reality",
+            "remote-location"
+          ],
+          "character_archetypes": [
+            "brilliant-scientist",
+            "reluctant-hero",
+            "enigmatic-figure"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "self-contained-episodes"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "laboratory-setting",
+            "alien-artifact",
+            "government-coverup",
+            "clip-show"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "body-horror"
+          ]
+        },
+        "keyword_sentence": "The Outer Limits is a suspenseful science fiction anthology series that explores unsettling themes of science ethics and human hubris through self-contained episodes set in modern-day settings."
+      },
+      "duration_seconds": 59.98218870162964
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Doctor Doctor",
+    "overview": "The story of Hugh Knight, a rising heart surgeon who is gifted, charming and infallible. He is a hedonist who, due to his sheer talent, believes he can live outside the rules. His \"work hard, play harder\" philosophy is about to come back and bite him.",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "release_year": 2016,
+    "vote_count": 30
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Doctor Doctor is an Australian dramedy that follows the life of Hugh Knight, a brilliant but arrogant heart surgeon whose life takes an unexpected turn. The series blends medical drama with comedic elements, exploring themes of redemption, family, and the consequences of a self-centered lifestyle. It offers a character-driven narrative, balancing the intensity of a high-pressure medical environment with the humor of personal struggles and unexpected relationships. The show examines the complexities of human fallibility and the potential for change, even for those who believe themselves above the rules.",
+        "spoiler_rich_plot_summary": "The series begins with Hugh Knight, a renowned heart surgeon living a life of privilege and excess. His exceptional talent allows him to operate outside the boundaries of professional conduct, believing his skill protects him from consequences. However, a series of events, including a medical mishap and a subsequent investigation, forces him to relocate to a rural town as part of a deal to avoid disciplinary action. In the small town, he is forced to confront his flaws and adapt to a slower pace of life, working alongside a less sophisticated medical team and interacting with patients from diverse backgrounds. Over the course of the series, Hugh begins to re-evaluate his values and develops unexpected connections with the community, gradually learning the importance of humility and empathy. While he initially resists the change, he slowly begins to find a sense of purpose and belonging in his new environment, ultimately striving to become a better doctor and a better person.",
+        "categorized_keywords": {
+          "themes": [
+            "redemption",
+            "fallibility",
+            "family-dynamics",
+            "small-town-life",
+            "professional-ethics",
+            "second-chances"
+          ],
+          "plot_and_concepts": [
+            "medical-drama",
+            "fish-out-of-water",
+            "courtroom-drama",
+            "professional-misconduct"
+          ],
+          "mood_and_tone": [
+            "comedic",
+            "dramatic",
+            "heartwarming",
+            "quirky"
+          ],
+          "genre_and_tropes": [
+            "medical-procedural",
+            "character-driven",
+            "fish-out-of-water-story"
+          ],
+          "setting": [
+            "rural-australia",
+            "small-town",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "reluctant-hero",
+            "arrogant-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "operating-theater",
+            "medical-records",
+            "rural-clinic",
+            "patient-interactions"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Doctor Doctor is a comedic and dramatic series set in rural Australia, exploring themes of redemption and second chances as a flawed heart surgeon confronts his fallibility and finds unexpected connections in a small-town clinic."
+      },
+      "duration_seconds": 78.17226481437683
+    }
+  }
+}

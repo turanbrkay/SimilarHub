@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "Sonic Boom",
+    "overview": "The speedy blue hedgehog Sonic with sidekick Tails and pals Knuckles, Amy and Sticks tries to ward off the evil plans of Dr. Eggman, who is hellbent on taking over the world. Sonic faces regular battles with Eggman's henchmen, including loyal robots Orbot and Cubot, evil interns, and giant, robotic monsters.",
+    "genres": [
+      "Action & Adventure",
+      "Animation",
+      "Comedy",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2014,
+    "vote_count": 328
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Sonic Boom is a comedic action-adventure series centered around Sonic the Hedgehog and his friends as they defend their world from the recurring threat of Dr. Eggman. The show blends fast-paced action sequences with lighthearted humor and a colorful, cartoonish aesthetic. It emphasizes friendship, teamwork, and overcoming challenges through ingenuity and perseverance, appealing to a younger audience while retaining elements of the classic Sonic video game franchise. The series maintains a generally optimistic tone, focusing on problem-solving and celebrating the power of camaraderie.",
+        "spoiler_rich_plot_summary": "The series begins with Dr. Eggman attempting to conquer Meridian Valley, a region populated by various animal inhabitants. Sonic and his friends, including Tails, Knuckles, Amy, and Sticks, consistently thwart Eggman's schemes, which often involve elaborate robotic creations and misguided attempts to control the region. Throughout the series, Eggman's plans become increasingly ambitious, leading to larger-scale conflicts and the introduction of new robotic minions. While Eggman's ultimate goal remains world domination, his methods are frequently undermined by his own incompetence and the unexpected resilience of Sonic and his friends. The series explores the dynamics within the group, highlighting their individual strengths and weaknesses as they work together to overcome obstacles. While Eggman occasionally achieves temporary successes, Sonic and his team consistently rally to restore order and protect Meridian Valley, demonstrating the enduring power of friendship and determination. The series concludes with Eggman’s latest scheme foiled, but his threat remains, setting the stage for future conflicts.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "teamwork",
+            "good-vs-evil",
+            "perseverance",
+            "heroism",
+            "problem-solving"
+          ],
+          "plot_and_concepts": [
+            "robotics",
+            "villain-schemes",
+            "world-domination",
+            "action-comedy",
+            "sci-fi-adventure"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "humorous",
+            "optimistic",
+            "fast-paced",
+            "cartoonish"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "animation",
+            "comedy",
+            "sci-fi",
+            "found-family"
+          ],
+          "setting": [
+            "meridian-valley",
+            "fictional-world",
+            "cartoon-setting"
+          ],
+          "character_archetypes": [
+            "hero",
+            "sidekick",
+            "villain",
+            "loyal-minions",
+            "eccentric-genius"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "children",
+            "young-adults"
+          ],
+          "detail_plot": [
+            "robotic-creations",
+            "villain-lair",
+            "sonic-boost",
+            "eggman-robot",
+            "meridian-valley-landscape"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Sonic Boom is a lighthearted, action-packed animated series about friendship and heroism, following Sonic and his friends as they thwart the villainous schemes of Dr. Eggman in the vibrant landscape of Meridian Valley."
+      },
+      "duration_seconds": 68.3943498134613
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "input_data": {
+    "title": "The Tonight Show Starring Johnny Carson",
+    "overview": "The Tonight Show Starring Johnny Carson is a talk show hosted by Johnny Carson under The Tonight Show franchise from 1962 to 1992. It originally aired during late-night.\n\nFor its first ten years, Carson's Tonight Show was based in New York City with occasional trips to Burbank, California; in May 1972, the show moved permanently to Burbank, California.\n\nIn 2002, The Tonight Show Starring Johnny Carson was ranked #12 on TV Guide's 50 Greatest TV Shows of All Time.",
+    "genres": [
+      "Talk"
+    ],
+    "release_year": 1962,
+    "vote_count": 51
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Tonight Show Starring Johnny Carson is a long-running, iconic late-night talk show that defined the genre for three decades. Hosted by Johnny Carson, the show featured celebrity interviews, comedic monologues, and recurring segments, establishing a unique blend of entertainment and cultural commentary. Its move to California marked a significant shift in television production. The show's enduring legacy lies in its ability to connect with audiences and showcase the personalities of the era, setting a standard for subsequent late-night programming.",
+        "spoiler_rich_plot_summary": "The Tonight Show Starring Johnny Carson began in 1962, quickly establishing Johnny Carson as a dominant figure in late-night television. The show's format revolved around interviews with prominent figures from entertainment, politics, and other fields, interspersed with comedic bits and recurring segments like 'The Tonight Show Comedy Clips' and 'Stump the Band.' Carson's dry wit and masterful interviewing skills became hallmarks of the show, shaping the landscape of celebrity interaction and audience engagement. Over the years, the show evolved with changing cultural trends, but maintained its core appeal. Carson's retirement in 1992 marked the end of an era, leaving a void in late-night television that has been filled by subsequent hosts, but never quite replicated the unique chemistry and influence of Carson's tenure.",
+        "categorized_keywords": {
+          "themes": [
+            "celebrity-culture",
+            "comedy",
+            "conversation",
+            "american-television",
+            "cultural-impact"
+          ],
+          "plot_and_concepts": [
+            "talk-show-format",
+            "interview-segment",
+            "recurring-segments",
+            "monologue"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "conversational",
+            "witty",
+            "relaxed"
+          ],
+          "genre_and_tropes": [
+            "talk-show",
+            "late-night-television"
+          ],
+          "setting": [
+            "new-york-city",
+            "burbank-california",
+            "television-studio"
+          ],
+          "character_archetypes": [
+            "charismatic-host",
+            "celebrity-guest"
+          ],
+          "narrative_style": [
+            "serialized-appearance",
+            "episodic"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "band-performance",
+            "comedy-clips",
+            "interview-chair",
+            "stage-lighting"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Tonight Show Starring Johnny Carson, a beloved late-night talk show, established a relaxed and witty atmosphere through celebrity interviews and recurring comedic segments, shaping American television and leaving a lasting cultural impact."
+      },
+      "duration_seconds": 54.71132278442383
+    }
+  }
+}

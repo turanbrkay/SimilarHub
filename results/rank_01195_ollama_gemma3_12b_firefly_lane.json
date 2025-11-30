@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Firefly Lane",
+    "overview": "For decades, childhood best friends Kate and Tully have weathered life's storms together -- until a betrayal threatens to break them apart for good.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2021,
+    "vote_count": 204
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Firefly Lane is a drama series exploring the complex and enduring friendship between two women, Kate and Tully, spanning decades. The show delves into the ups and downs of their relationship, examining themes of ambition, loyalty, and the sacrifices made in pursuit of personal dreams. Through flashbacks and present-day narratives, the series portrays the evolution of their bond, highlighting the impact of life's challenges and the potential for betrayal. The tone is emotionally resonant, blending moments of joy and heartbreak as the series explores the nuances of female friendship and the enduring power of connection.",
+        "spoiler_rich_plot_summary": "The series begins in the 1990s, introducing young Kate and Tully as inseparable best friends. Kate, a pragmatic and responsible aspiring journalist, contrasts with Tully, a free-spirited and ambitious actress chasing stardom. Their differing paths lead to tensions and misunderstandings, particularly as Tully’s career begins to take off while Kate struggles to find her place. Flashbacks reveal pivotal moments that shape their relationship, including a significant betrayal that creates a rift between them. Years later, in the present day, Kate and Tully are estranged, and a new crisis forces them to confront their past and re-evaluate their friendship. The series explores the consequences of their choices and the possibility of reconciliation, revealing long-held secrets and the true nature of their bond. The narrative ultimately examines the enduring power of friendship, even in the face of profound disappointment and regret, and the possibility of forgiveness and renewed connection.",
+        "categorized_keywords": {
+          "themes": [
+            "female-friendship",
+            "ambition",
+            "loyalty",
+            "betrayal",
+            "forgiveness",
+            "regret",
+            "nostalgia",
+            "family-dynamics"
+          ],
+          "plot_and_concepts": [
+            "flashback-narrative",
+            "coming-of-age",
+            "career-aspirations",
+            "relationship-drama"
+          ],
+          "mood_and_tone": [
+            "emotional",
+            "melancholy",
+            "reflective",
+            "heartwarming"
+          ],
+          "genre_and_tropes": [
+            "drama",
+            "coming-of-age-story",
+            "friendship-drama"
+          ],
+          "setting": [
+            "1990s",
+            "modern-day",
+            "seattle-washington"
+          ],
+          "character_archetypes": [
+            "ambitious-protagonist",
+            "responsible-friend",
+            "free-spirited-artist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "female-audience"
+          ],
+          "detail_plot": [
+            "journalism-career",
+            "acting-career",
+            "flashback-montage",
+            "childhood-memories"
+          ],
+          "maturity_and_content": [
+            "emotional-trauma",
+            "relationship-conflict"
+          ]
+        },
+        "keyword_sentence": "Firefly Lane is an emotional drama series exploring the complexities of female friendship and career aspirations across decades, blending nostalgic flashbacks with modern-day conflicts and ultimately examining themes of loyalty, betrayal, and the enduring power of connection."
+      },
+      "duration_seconds": 64.77646064758301
+    }
+  }
+}

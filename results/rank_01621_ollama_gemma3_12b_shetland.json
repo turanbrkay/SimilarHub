@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Shetland",
+    "overview": "Created from the novels by award winning crime writer Ann Cleeves, Shetland follows DI Jimmy Perez and his team as they investigate crime within the close knit island community. In this isolated and sometimes inhospitable environment, the team have to rely on a uniquely resourceful style of policing.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2013,
+    "vote_count": 129
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Shetland is a British crime drama series set against the stark and beautiful landscapes of the Shetland Islands. The show follows DI Jimmy Perez and his team as they investigate crimes within a tight-knit island community, exploring themes of isolation, loyalty, and the complexities of rural life. The series blends procedural elements with character-driven narratives, offering a slow-burn, atmospheric viewing experience that emphasizes the impact of crime on a small, interconnected society. Shetland distinguishes itself through its realistic portrayal of policing in a remote location and its focus on the psychological toll of investigations.",
+        "spoiler_rich_plot_summary": "The series begins with DI Perez investigating the brutal murders of two young boys, a case that deeply affects the island community and exposes long-held secrets. Subsequent seasons tackle a range of crimes, from complex fraud schemes to disappearances and violent assaults, each revealing more about the island's history and the lives of its residents. Perez often finds himself grappling with personal demons and the challenges of maintaining order in a place where everyone knows everyone else. Recurring characters and storylines weave a tapestry of interconnected lives, with past events frequently resurfacing to complicate current investigations. While the series maintains a grounded realism, it explores darker aspects of human nature and the fragility of island life, often leaving Perez and his team facing difficult moral choices and confronting the consequences of their actions. The investigations frequently uncover hidden connections between seemingly disparate individuals, highlighting the intricate web of relationships within the Shetland community.",
+        "categorized_keywords": {
+          "themes": [
+            "crime-and-justice",
+            "isolation",
+            "community",
+            "loyalty",
+            "secrets",
+            "rural-life",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "police-investigation",
+            "murder-mystery",
+            "small-town-crime",
+            "serial-crime"
+          ],
+          "mood_and_tone": [
+            "atmospheric",
+            "somber",
+            "gritty",
+            "realistic"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "police-drama",
+            "mystery-thriller"
+          ],
+          "setting": [
+            "shetland-islands",
+            "remote-location",
+            "scotland",
+            "rural-setting"
+          ],
+          "character_archetypes": [
+            "detective",
+            "anti-hero",
+            "small-town-resident"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "crime-scene",
+            "police-station",
+            "island-landscape",
+            "fishing-boats"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "mature-themes"
+          ]
+        },
+        "keyword_sentence": "Set against the stark beauty of the Shetland Islands, this crime drama explores themes of isolation and loyalty as a dedicated police team investigates complex mysteries within a tight-knit rural community."
+      },
+      "duration_seconds": 63.69754433631897
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Treadstone",
+    "overview": "The Treadstone project, having created super spy Jason Bourne, turns its attention on a new protocol to develop unstoppable superhuman assassins.",
+    "genres": [
+      "Action & Adventure"
+    ],
+    "release_year": 2019,
+    "vote_count": 211
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Treadstone is an action-adventure series that expands upon the world established in the Jason Bourne films. The show explores the clandestine Treadstone program's efforts to replicate Bourne's abilities, creating a new generation of highly trained assassins. It blends espionage, action, and thriller elements, focusing on the psychological toll of manipulation and the struggle for autonomy. The series follows multiple agents as they grapple with their pasts and fight against the program's control, creating a complex web of intrigue and betrayal. Treadstone offers a fast-paced, action-oriented experience with a focus on morally ambiguous characters and a shadowy organization.",
+        "spoiler_rich_plot_summary": "The series begins with the revelation that Jason Bourne's existence exposed the Treadstone program, leading to its dismantling. However, a rogue faction within the CIA resurrects Protocol Zeus, a more advanced version of Treadstone, aiming to create even more controllable and lethal assassins. The initial episodes introduce several new agents, each with unique skills and traumatic backstories, who are unknowingly part of Zeus. As the agents begin to uncover fragments of their pasts and the manipulation they're subjected to, they start to question their purpose and rebel against their handlers. The narrative follows multiple storylines, intertwining the agents' journeys as they attempt to break free from the program's control and expose its existence. Betrayals and shifting alliances become commonplace as agents struggle to determine who they can trust. The series culminates in a confrontation between the agents and the shadowy figures orchestrating the program, with the fate of the agents and the future of the Treadstone legacy hanging in the balance. While some agents find a degree of freedom, the program's influence proves difficult to eradicate entirely, suggesting a cyclical nature to its existence.",
+        "categorized_keywords": {
+          "themes": [
+            "government-conspiracy",
+            "identity-crisis",
+            "memory-loss",
+            "mind-control",
+            "moral-ambiguity",
+            "revenge"
+          ],
+          "plot_and_concepts": [
+            "super-spy",
+            "assassins",
+            "espionage",
+            "black-ops",
+            "program-replication",
+            "amnesia"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "tense",
+            "thrilling",
+            "action-packed",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "spy-thriller",
+            "black-ops-program",
+            "enhanced-abilities"
+          ],
+          "setting": [
+            "modern-day",
+            "global-locations",
+            "cia-headquarters"
+          ],
+          "character_archetypes": [
+            "enhanced-soldier",
+            "rogue-agent",
+            "shadowy-handler",
+            "reluctant-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "multiple-protagonists"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "memory-implants",
+            "training-facility",
+            "safe-house",
+            "black-briefcase"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "intense-action"
+          ]
+        },
+        "keyword_sentence": "Treadstone is a dark and thrilling action-adventure series exploring the consequences of a clandestine program replicating Jason Bourne’s abilities, leaving its agents grappling with memory loss, identity crises, and the moral ambiguities of their existence."
+      },
+      "duration_seconds": 69.11190724372864
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Flipper",
+    "overview": "The 1995 version brought back Bud Ricks as a scientist doing marine research in Florida. The dolphin Flipper was one with whom Dr. Ricks was working. This TV show is available for online viewing on hulu in the United States and at Rogers On Demand in Canada.",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Family"
+    ],
+    "release_year": 1995,
+    "vote_count": 31
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Flipper (1995) is a family-oriented action-adventure series centered on a marine biologist and his relationship with a bottlenose dolphin. The show explores themes of friendship, environmentalism, and the importance of protecting marine life. It blends elements of drama and adventure, appealing to a broad audience with its focus on both scientific discovery and heartwarming interactions. The series emphasizes the bond between humans and animals, often incorporating storylines that highlight the challenges of conservation and the beauty of the ocean.",
+        "spoiler_rich_plot_summary": "The series follows Dr. Bud Ricks, a marine biologist working in the Florida Keys, who forms a unique bond with a dolphin named Flipper. Initially, Bud is studying Flipper as part of his research, but their relationship quickly evolves into a deep friendship. Throughout the series, Bud and his family encounter various challenges, including illegal fishing operations, pollution threats to the marine environment, and dangerous situations involving other sea creatures. Flipper often assists Bud in rescuing stranded animals, uncovering environmental crimes, and navigating perilous underwater conditions. The series explores the complexities of marine conservation and the importance of protecting vulnerable ecosystems, often featuring conflicts with individuals who prioritize profit over environmental responsibility. While the series maintains a generally optimistic tone, it acknowledges the serious threats facing marine life and the ongoing need for responsible stewardship of the ocean.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "environmentalism",
+            "conservation",
+            "family-values",
+            "marine-life",
+            "human-animal-bond"
+          ],
+          "plot_and_concepts": [
+            "marine-rescue",
+            "environmental-crime",
+            "scientific-discovery",
+            "underwater-adventure"
+          ],
+          "mood_and_tone": [
+            "optimistic",
+            "heartwarming",
+            "adventurous",
+            "family-friendly"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "family-drama",
+            "environmental-thriller",
+            "animal-companion"
+          ],
+          "setting": [
+            "florida-keys",
+            "ocean",
+            "marine-environment",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "marine-biologist",
+            "animal-companion",
+            "family-man"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "dolphin-interaction",
+            "research-vessel",
+            "coral-reef",
+            "marine-equipment"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Flipper is a heartwarming action-adventure series set in the Florida Keys, exploring themes of friendship and conservation through the bond between a marine biologist and a dolphin."
+      },
+      "duration_seconds": 74.5259358882904
+    }
+  }
+}

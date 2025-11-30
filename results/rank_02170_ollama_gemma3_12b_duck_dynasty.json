@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Duck Dynasty",
+    "overview": "Duck Dynasty is an American reality television series on A&E. It shows the lives of the Robertson family, who became wealthy from their family-operated business, Duck Commander, operated in West Monroe, Louisiana, which makes products for duck hunters, primarily the duck call named Duck Commander. The Robertson men, brothers Phil and Si, and Phil's sons Jase, Willie, and Jep, are known for their long beards. The business began in a family shed, where Phil Robertson spent 25 years making duck calls from Louisiana cedar trees. His son Willie is now the CEO of the company. The family was previously featured on the series Benelli Presents Duck Commander and its spin-off Buck Commander, which still airs on the Outdoor Channel.\n\nThe show has broken several ratings records on both A&E and cable television as a whole; the fourth season premiere drew 11.8 million viewers, the most-watched nonfiction cable telecast in history.",
+    "genres": [
+      "Reality",
+      "Comedy"
+    ],
+    "release_year": 2012,
+    "vote_count": 85
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Duck Dynasty is a reality television series offering a glimpse into the lives of the Robertson family, owners of the Duck Commander duck call business. The show blends family dynamics, entrepreneurial success, and a distinctive Southern lifestyle, characterized by the men's iconic beards. It explores themes of faith, family values, and the challenges of balancing tradition with modern business practices. The series' popularity stems from its portrayal of a seemingly wholesome and relatable family, offering a lighthearted and often humorous look at their daily lives and business ventures.",
+        "spoiler_rich_plot_summary": "The series initially introduces the Robertson family and their thriving Duck Commander business, founded by Phil Robertson and built upon his handcrafted duck calls. The narrative follows the family as they navigate the complexities of running a successful company while maintaining their close-knit relationships and deeply held religious beliefs. Willie Robertson, Phil’s son, assumes a more prominent role in the business, leading the company through periods of growth and expansion. Throughout the series, the family faces various challenges, including disagreements over business decisions, personal struggles, and the pressures of maintaining their public image. While the show largely focuses on the family's daily routines and interactions, it also touches upon their efforts to pass down their values and traditions to future generations, ensuring the continuation of the Duck Commander legacy. The series showcases the family's commitment to their faith and their efforts to remain grounded despite their newfound fame and fortune.",
+        "categorized_keywords": {
+          "themes": [
+            "family-values",
+            "faith",
+            "entrepreneurship",
+            "southern-culture",
+            "tradition",
+            "legacy"
+          ],
+          "plot_and_concepts": [
+            "family-business",
+            "reality-tv",
+            "business-growth",
+            "generational-wealth"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "humorous",
+            "feel-good"
+          ],
+          "genre_and_tropes": [
+            "reality-television",
+            "family-drama",
+            "southern-charm"
+          ],
+          "setting": [
+            "louisiana",
+            "rural-america",
+            "small-town-life"
+          ],
+          "character_archetypes": [
+            "patriarch",
+            "entrepreneur",
+            "family-man"
+          ],
+          "narrative_style": [
+            "slice-of-life",
+            "documentary-style"
+          ],
+          "target_audience": [
+            "family-audience",
+            "conservative-viewers"
+          ],
+          "detail_plot": [
+            "duck-call",
+            "long-beards",
+            "cedar-trees",
+            "family-shed"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Duck Dynasty offers a lighthearted and wholesome look at a Louisiana family’s journey as they balance faith, family values, and the challenges of running a successful duck call business rooted in southern tradition."
+      },
+      "duration_seconds": 60.791356563568115
+    }
+  }
+}

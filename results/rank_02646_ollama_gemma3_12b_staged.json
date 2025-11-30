@@ -1,0 +1,70 @@
+{
+  "input_data": {
+    "title": "Staged",
+    "overview": "David Tennant and Michael Sheen (playing themselves) were due to star in a production of 'Six Characters in Search of an Author' in the West End. The pandemic has put an end to that, but their director (Simon Evans) is determined not to let the opportunity pass them by.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2020,
+    "vote_count": 60
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Staged is a meta-comedy series that blurs the lines between reality and fiction. It follows actors David Tennant and Michael Sheen as they attempt to rehearse and perform a production of 'Six Characters in Search of an Author' during the COVID-19 pandemic, while simultaneously portraying heightened versions of themselves. The series is a playful exploration of the creative process, the challenges of remote collaboration, and the anxieties of the entertainment industry, all delivered with a self-aware and often absurd sense of humor. It's a lighthearted and charming series that offers a unique perspective on the world of theatre and celebrity.",
+        "spoiler_rich_plot_summary": "The series begins with David Tennant and Michael Sheen, along with the rest of the cast and director Simon Evans, attempting to rehearse 'Six Characters in Search of an Author' via video conferencing. As rehearsals progress, the lines between their real lives and the characters they are portraying become increasingly blurred. The actors' personal struggles, family dynamics, and professional anxieties are interwoven with the play's narrative, creating a comedic and often poignant reflection of the pandemic era. The series explores the difficulties of maintaining relationships and careers during isolation, and the unexpected ways in which art can provide solace and connection. As the production nears its (virtual) premiere, the actors confront their own insecurities and vulnerabilities, ultimately finding a sense of camaraderie and purpose through the shared experience of creating art.",
+        "categorized_keywords": {
+          "themes": [
+            "meta-narrative",
+            "isolation",
+            "creative-process",
+            "celebrity-culture",
+            "relationships",
+            "identity"
+          ],
+          "plot_and_concepts": [
+            "mockumentary",
+            "found-family",
+            "remote-collaboration",
+            "theatrical-production"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "comedic",
+            "absurdist",
+            "self-aware",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "mockumentary",
+            "meta-comedy"
+          ],
+          "setting": [
+            "modern-day",
+            "london-uk"
+          ],
+          "character_archetypes": [
+            "self-deprecating-protagonist",
+            "eccentric-director"
+          ],
+          "narrative_style": [
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "video-conference",
+            "theatrical-rehearsal",
+            "stage-set",
+            "family-home"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Staged is a lighthearted and self-aware meta-comedy series that explores the challenges of remote collaboration and the blurring lines between reality and fiction within the world of theatrical production."
+      },
+      "duration_seconds": 57.21059823036194
+    }
+  }
+}

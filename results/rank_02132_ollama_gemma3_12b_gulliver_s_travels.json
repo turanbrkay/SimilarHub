@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Gulliver's Travels",
+    "overview": "Dr. Gulliver has returned from his journey to his family after a long absence - and tells them the story of his travels.",
+    "genres": [
+      "Action & Adventure",
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "release_year": 1996,
+    "vote_count": 87
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Gulliver's Travels is a 1996 film blending action, adventure, science fiction, and drama, centered around Lemuel Gulliver's fantastical journeys to otherworldly lands. The film presents a satirical and whimsical exploration of societal norms and human nature through Gulliver's encounters with bizarre creatures and cultures. It offers a lighthearted and visually engaging experience, appealing to a broad audience with its blend of humor and spectacle. The narrative explores themes of identity, acceptance, and the absurdity of human behavior, all while maintaining a sense of playful adventure.",
+        "spoiler_rich_plot_summary": "The film begins with Dr. Lemuel Gulliver, a disillusioned architect, embarking on a voyage to escape his mundane life. He is shipwrecked and finds himself in Lilliput, a land of tiny people, where he is initially a giant and a source of both wonder and fear. Gulliver's size and strength become instrumental in resolving conflicts between the Lilliputians, but his own actions and misunderstandings also create further complications. He then travels to a land of giants, where he experiences being a minuscule figure in a vast and overwhelming world.  His subsequent journeys take him to other fantastical realms, each presenting unique challenges and revealing different facets of human nature. Ultimately, Gulliver returns home, forever changed by his experiences and seeking to reconcile his fantastical memories with the reality of his own world, sharing his tales with his family.",
+        "categorized_keywords": {
+          "themes": [
+            "identity-quest",
+            "societal-satire",
+            "acceptance",
+            "absurdity",
+            "perspective"
+          ],
+          "plot_and_concepts": [
+            "shipwreck",
+            "giantism",
+            "miniaturization",
+            "alternate-reality",
+            "travel-narrative"
+          ],
+          "mood_and_tone": [
+            "whimsical",
+            "lighthearted",
+            "adventurous",
+            "satirical"
+          ],
+          "genre_and_tropes": [
+            "adventure-film",
+            "fantasy-adventure",
+            "fish-out-of-water",
+            "travel-ogre"
+          ],
+          "setting": [
+            "alternate-timeline",
+            "fictional-kingdoms",
+            "ship"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "traveler",
+            "outsider"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "travel-narrative"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "ship",
+            "tiny-people",
+            "giant-creatures",
+            "travel-journal"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Gulliver's Travels is a lighthearted adventure film that blends fantastical journeys and satirical commentary on society through the eyes of a traveler encountering bizarre worlds and challenging his own perspective."
+      },
+      "duration_seconds": 62.81122016906738
+    }
+  }
+}

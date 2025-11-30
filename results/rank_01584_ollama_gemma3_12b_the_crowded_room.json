@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "The Crowded Room",
+    "overview": "In 1979 Manhattan, a young man is arrested for a shocking crime — and an unlikely investigator must solve the mystery behind it.",
+    "genres": [
+      "Drama",
+      "Crime",
+      "Mystery"
+    ],
+    "release_year": 2023,
+    "vote_count": 132
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Crowded Room is a psychological drama series exploring the complexities of mental illness and trauma through the lens of a criminal investigation. Set in 1979 New York City, the series follows a young man arrested for a crime and the detective tasked with uncovering the truth behind his actions. The narrative blends elements of crime procedural and psychological thriller, offering a nuanced portrayal of the protagonist's internal struggles and the impact of his past experiences. The series aims to examine the societal and personal factors that contribute to mental health challenges, offering a character-driven exploration of identity and the search for understanding.",
+        "spoiler_rich_plot_summary": "The series begins with the arrest of Danny Sullivan for a bombing incident in 1979 Manhattan. Detective Riley Flynn is assigned to the case and quickly realizes that Danny's behavior is unusual and that he may be suffering from a dissociative disorder. As Riley delves deeper into Danny's past, he uncovers a history of childhood trauma, neglect, and abuse, revealing that Danny has created multiple alternate personalities to cope with the pain. Through a series of interviews and flashbacks, Riley pieces together Danny's fragmented memories, discovering the origins of his dissociative identity disorder and the events that led to the bombing. The investigation forces Riley to confront his own personal demons and question his understanding of mental illness. As Danny's various personalities emerge, the truth behind the bombing becomes increasingly complex, blurring the lines between victim and perpetrator. The series culminates in a confrontation with Danny's past, revealing the full extent of his trauma and the impact it has had on his life and the lives of those around him. The series explores the possibility of healing and reconciliation, but leaves the ultimate resolution of Danny's condition ambiguous.",
+        "categorized_keywords": {
+          "themes": [
+            "trauma",
+            "mental-illness",
+            "identity-crisis",
+            "childhood-abuse",
+            "redemption",
+            "healing",
+            "family-dysfunction"
+          ],
+          "plot_and_concepts": [
+            "criminal-investigation",
+            "dissociative-identity-disorder",
+            "flashback",
+            "interview-format",
+            "multiple-personalities"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "suspenseful",
+            "psychological",
+            "somber",
+            "atmospheric"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "psychological-thriller",
+            "coming-of-age",
+            "mystery"
+          ],
+          "setting": [
+            "new-york-city",
+            "1970s",
+            "urban-setting"
+          ],
+          "character_archetypes": [
+            "troubled-protagonist",
+            "investigator",
+            "damaged-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "police-station",
+            "interview-room",
+            "1970s-fashion",
+            "vintage-cars"
+          ],
+          "maturity_and_content": [
+            "psychological-distress",
+            "abuse-themes"
+          ]
+        },
+        "keyword_sentence": "Set in 1970s New York City, The Crowded Room is a dark and suspenseful psychological drama exploring themes of trauma, mental illness, and identity through a criminal investigation and a non-linear timeline."
+      },
+      "duration_seconds": 72.10696077346802
+    }
+  }
+}

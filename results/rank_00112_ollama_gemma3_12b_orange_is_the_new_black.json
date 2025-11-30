@@ -1,0 +1,86 @@
+{
+  "input_data": {
+    "title": "Orange Is the New Black",
+    "overview": "A crime she committed in her youthful past sends Piper Chapman to a women's prison, where she trades her comfortable New York life for one of unexpected camaraderie and conflict in an eccentric group of fellow inmates.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2013,
+    "vote_count": 2222
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Orange Is the New Black is a darkly comedic drama series that explores the lives of women incarcerated in a fictionalized New York state prison. The show blends humor and pathos as it delves into complex themes of race, class, sexuality, and justice. Through the experiences of Piper Chapman and a diverse cast of inmates, the series offers a nuanced portrayal of the American prison system and the human stories within it. The narrative balances character-driven drama with social commentary, creating a compelling and often uncomfortable viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Piper Chapman, a privileged young woman, sentenced to fifteen months in Litchfield Penitentiary for a crime she committed a decade prior. Initially naive and out of place, Piper navigates the harsh realities of prison life, forming uneasy alliances and rivalries with her fellow inmates. As the series progresses, the show expands its focus to encompass the backstories and struggles of numerous women, revealing the systemic injustices that led them to incarceration. Flashbacks reveal the events that shaped their lives, often highlighting cycles of poverty, abuse, and discrimination. The prison itself faces financial difficulties, leading to overcrowding, understaffing, and corruption. A major turning point occurs with the arrival of new warden Joe Caputo, whose mismanagement exacerbates the existing problems. The series explores themes of friendship, loyalty, and survival as the inmates band together to face adversity. Over time, the prison descends into chaos, culminating in riots and escalating violence. While some characters find moments of redemption and connection, others face devastating consequences. The series concludes with a sense of uncertainty, leaving the fates of many characters unresolved and highlighting the enduring challenges of the criminal justice system.",
+        "categorized_keywords": {
+          "themes": [
+            "social-justice",
+            "race-relations",
+            "class-inequality",
+            "female-friendship",
+            "redemption",
+            "institutional-corruption",
+            "prison-life",
+            "identity-quest"
+          ],
+          "plot_and_concepts": [
+            "prison-drama",
+            "flashback-narrative",
+            "ensemble-cast",
+            "institutional-failure",
+            "crime-and-punishment"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "satirical",
+            "gritty",
+            "emotional",
+            "uncomfortable"
+          ],
+          "genre_and_tropes": [
+            "prison-drama",
+            "satirical-comedy",
+            "ensemble-cast",
+            "found-family"
+          ],
+          "setting": [
+            "new-york-state",
+            "modern-day",
+            "prison-environment"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "reluctant-hero",
+            "wise-mentor",
+            "morally-gray-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "flashback-narrative",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "prison-uniform",
+            "prison-yard",
+            "inmate-tattoos",
+            "prison-food",
+            "shower-scene"
+          ],
+          "maturity_and_content": [
+            "sexual-content",
+            "graphic-violence",
+            "drug-abuse",
+            "abuse-themes"
+          ]
+        },
+        "keyword_sentence": "Orange Is the New Black is a darkly comedic prison drama that explores themes of social justice and female friendship within a gritty and uncomfortable modern-day setting."
+      },
+      "duration_seconds": 73.72270774841309
+    }
+  }
+}

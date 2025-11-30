@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "The Eric Andre Show",
+    "overview": "A comedic talk show from an alternate reality featuring unstable hosts, a variety of celebrities—both real and fake—and unusual studio action.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2012,
+    "vote_count": 111
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Eric Andre Show is a surreal and chaotic talk show that defies conventional formats. It blends elements of interview, sketch comedy, and performance art, creating a deliberately uncomfortable and unpredictable viewing experience. The show's humor derives from its absurdity, its willingness to push boundaries, and its often-aggressive interaction with guests and the studio environment. It's a subversive commentary on the talk show genre itself, and a celebration of the unexpected.",
+        "spoiler_rich_plot_summary": "The show's structure is intentionally loose and unpredictable. Each episode follows a basic framework of interviews and studio segments, but these are frequently disrupted by bizarre stunts, chaotic audience participation, and unexpected intrusions. Celebrities are often subjected to uncomfortable and nonsensical questions and situations, blurring the line between performance and genuine reaction. Recurring segments involve elaborate pranks and stunts performed on unsuspecting bystanders and studio staff. The show's overall arc isn't a traditional narrative, but rather a continuous escalation of absurdity and a relentless questioning of the conventions of entertainment. The show's final episodes continue this trend, pushing the boundaries of what's acceptable in a talk show format, culminating in increasingly surreal and chaotic performances.",
+        "categorized_keywords": {
+          "themes": [
+            "absurdism",
+            "satire",
+            "anti-establishment",
+            "deconstruction",
+            "chaos",
+            "irony"
+          ],
+          "plot_and_concepts": [
+            "prank-show",
+            "improvised-comedy",
+            "performance-art",
+            "deconstructed-talk-show",
+            "surrealism"
+          ],
+          "mood_and_tone": [
+            "chaotic",
+            "uncomfortable",
+            "surreal",
+            "satirical",
+            "absurdist"
+          ],
+          "genre_and_tropes": [
+            "talk-show",
+            "sketch-comedy",
+            "prank-show",
+            "performance-art"
+          ],
+          "setting": [
+            "studio-environment",
+            "public-spaces"
+          ],
+          "character_archetypes": [
+            "unstable-host",
+            "eccentric-guest"
+          ],
+          "narrative_style": [
+            "non-linear-storytelling",
+            "improvised-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "uncomfortable-interview",
+            "studio-prank",
+            "eccentric-guest",
+            "chaotic-audience"
+          ],
+          "maturity_and_content": [
+            "crude-humor",
+            "offensive-content"
+          ]
+        },
+        "keyword_sentence": "The Eric Andre Show is a chaotic and satirical talk show that deconstructs the genre through uncomfortable interviews, absurd pranks, and a relentlessly unpredictable studio environment."
+      },
+      "duration_seconds": 58.53020358085632
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "The Amazing Race",
+    "overview": "This reality competition sees teams embark on a trek around the world to amazing destinations where they must compete in a series of challenges, some mental and some physical. Only when the tasks are completed will they learn of their next location. Teams who are the farthest behind will gradually be eliminated as the contest progresses, with the first team to arrive at the final destination winning the race and the $1 million prize.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2001,
+    "vote_count": 121
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Amazing Race is a long-running reality competition series that pits teams of two against each other in a global race. The show's premise revolves around strategic decision-making, physical endurance, and cultural adaptability as contestants navigate unfamiliar environments and complete diverse challenges. Its appeal lies in the combination of travel, competition, and the interpersonal dynamics between the racing teams, offering a blend of excitement and cultural exploration. The show's format has proven remarkably durable, consistently delivering engaging television and showcasing a wide range of destinations.",
+        "spoiler_rich_plot_summary": "Each season of The Amazing Race begins with a group of teams, often with diverse backgrounds and relationships (friends, family, couples), receiving their first clue. This clue leads them to a new location, where they face a challenge that tests their skills and teamwork. Teams must decipher clues, solve puzzles, and overcome physical obstacles, often while interacting with local cultures and customs. Throughout the race, teams are ranked based on their arrival times at checkpoints, and those lagging behind are gradually eliminated. Strategic alliances and rivalries often develop between teams, adding a layer of complexity to the competition. The final leg of the race sees the remaining teams racing to a final destination, where the first team to arrive wins the grand prize. The show consistently features unexpected twists and turns, keeping both the contestants and the audience guessing until the very end.",
+        "categorized_keywords": {
+          "themes": [
+            "competition",
+            "travel",
+            "teamwork",
+            "adventure",
+            "cultural-exchange",
+            "strategy"
+          ],
+          "plot_and_concepts": [
+            "reality-competition",
+            "global-race",
+            "checkpoint-system",
+            "elimination-format",
+            "puzzle-solving",
+            "physical-challenges"
+          ],
+          "mood_and_tone": [
+            "exciting",
+            "fast-paced",
+            "competitive",
+            "adventurous"
+          ],
+          "genre_and_tropes": [
+            "reality-tv",
+            "travel-show",
+            "competition-series"
+          ],
+          "setting": [
+            "global",
+            "international-destinations",
+            "diverse-cultures"
+          ],
+          "character_archetypes": [
+            "competitive-teams",
+            "strategic-players",
+            "resourceful-contestants"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-competition"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "clue-boxes",
+            "roadblocks",
+            "detours",
+            "pit-stop",
+            "finish-line"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Amazing Race is an exciting reality competition series that sends teams on a fast-paced global race, testing their teamwork and strategic skills as they explore diverse cultures and overcome physical challenges."
+      },
+      "duration_seconds": 61.09606170654297
+    }
+  }
+}

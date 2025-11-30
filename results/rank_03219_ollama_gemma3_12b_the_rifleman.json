@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "The Rifleman",
+    "overview": "The Rifleman is an American Western television program starring Chuck Connors as rancher Lucas McCain and Johnny Crawford as his son, Mark McCain. It was set in the 1880s in the town of North Fork, New Mexico Territory. The show was filmed in black-and-white, half-hour episodes. \"The Rifleman\" aired on ABC from September 30, 1958 to April 8, 1963 as a production of Four Star Television. It was one of the first prime time series to have a widowed parent raise a child.",
+    "genres": [
+      "Action & Adventure",
+      "Western"
+    ],
+    "release_year": 1958,
+    "vote_count": 42
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Rifleman is a classic Western series centered on a widowed rancher and his son navigating the challenges of life in the New Mexico Territory. The show blends action and adventure with a focus on family dynamics and the complexities of frontier justice. It portrays a paternal figure striving to raise his son amidst the lawlessness and moral ambiguities of the Old West, offering a blend of thrilling gunfights and heartfelt moments. The series’ enduring appeal lies in its portrayal of a strong father-son bond and the exploration of themes of responsibility and morality in a harsh environment.",
+        "spoiler_rich_plot_summary": "The series follows Lucas McCain, a skilled marksman and rancher, and his young son, Mark, as they attempt to build a life in the often-turbulent town of North Fork. Lucas, still grieving the loss of his wife, struggles to instill values of fairness and restraint in Mark while protecting him from the dangers of the frontier. The series frequently features conflicts with local outlaws, corrupt officials, and individuals seeking to exploit the town's vulnerability. Lucas often finds himself acting as a de facto lawman, using his rifle skills to defend the innocent and uphold a sense of justice. Throughout the series, Mark matures under his father's guidance, learning valuable lessons about responsibility and the complexities of right and wrong. While the series maintains a generally episodic structure, recurring antagonists and simmering tensions within the community create an underlying sense of ongoing conflict and the constant threat of violence. The father-son relationship remains the emotional core, with both characters facing personal growth and challenges as they navigate the dangers and uncertainties of the West.",
+        "categorized_keywords": {
+          "themes": [
+            "father-son-relationship",
+            "frontier-justice",
+            "moral-ambiguity",
+            "responsibility",
+            "loss-and-grief",
+            "family-values"
+          ],
+          "plot_and_concepts": [
+            "western-genre",
+            "gunfight",
+            "frontier-life",
+            "revenge",
+            "law-and-order"
+          ],
+          "mood_and_tone": [
+            "action-packed",
+            "somber",
+            "tense",
+            "nostalgic"
+          ],
+          "genre_and_tropes": [
+            "western",
+            "action-adventure",
+            "adult-supervision",
+            "vigilante-justice"
+          ],
+          "setting": [
+            "new-mexico-territory",
+            "1880s",
+            "frontier-town",
+            "american-west"
+          ],
+          "character_archetypes": [
+            "widowed-parent",
+            "skilled-marksman",
+            "growing-child",
+            "frontier-lawman"
+          ],
+          "narrative_style": [
+            "episodic-format",
+            "serialized-elements"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "rifle",
+            "horseback-riding",
+            "saloon",
+            "general-store",
+            "dusty-road"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Set in the 1880s American West, The Rifleman is a nostalgic action-adventure series exploring themes of family, responsibility, and frontier justice as a widowed rancher and his son navigate the dangers and moral ambiguities of life in a lawless territory."
+      },
+      "duration_seconds": 61.846604347229004
+    }
+  }
+}

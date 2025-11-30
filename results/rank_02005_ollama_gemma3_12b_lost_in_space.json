@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Lost in Space",
+    "overview": "The space family Robinson is sent on a five-year mission to find a new planet to colonise. The voyage is sabotaged time and again by an inept stowaway, Dr. Zachary Smith. The family's spaceship, Jupiter II, also carries a friendly robot who endures an endless stream of abuse from Dr. Smith, but is a trusted companion of young Will Robinson",
+    "genres": [
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1965,
+    "vote_count": 96
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Lost in Space is a science fiction adventure series centered on the Robinson family, pioneers selected for a mission to colonize a new planet. The series blends family drama with space exploration, featuring a recurring antagonist who consistently jeopardizes their mission. The show explores themes of resilience, adaptation, and the complexities of human relationships under extraordinary circumstances, often with a lighthearted and whimsical tone despite the perilous situation. It’s a classic example of 1960s sci-fi, emphasizing optimism and the potential for human ingenuity.",
+        "spoiler_rich_plot_summary": "The series begins with the Robinson family preparing for their pioneering mission to Alpha Centauri. However, the mission is repeatedly disrupted by the bumbling Dr. Zachary Smith, who secretly stowed away on their spacecraft, Jupiter 2. Their journey is fraught with peril as they encounter various alien creatures and navigate treacherous environments. The Robot, a sophisticated but often malfunctioning machine, becomes a vital companion to young Will Robinson, forming a unique bond. Throughout their travels, the Robinsons face numerous challenges, including resource scarcity, hostile alien encounters, and the constant threat posed by Smith's sabotage. While they strive to reach their intended destination, they often find themselves stranded on unfamiliar planets, forcing them to adapt and overcome obstacles. The series culminates in a continuous cycle of survival and exploration, with the Robinsons consistently facing new dangers and forging unexpected alliances, never quite reaching their original goal but finding purpose in their journey.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "survival",
+            "exploration",
+            "adaptation",
+            "human-ingenuity",
+            "isolation"
+          ],
+          "plot_and_concepts": [
+            "space-exploration",
+            "sabotage",
+            "alien-encounters",
+            "time-loop",
+            "found-family"
+          ],
+          "mood_and_tone": [
+            "optimistic",
+            "whimsical",
+            "adventurous",
+            "lighthearted"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "space-opera",
+            "family-adventure",
+            "retro-futurism"
+          ],
+          "setting": [
+            "outer-space",
+            "alien-planets",
+            "1960s-futurism"
+          ],
+          "character_archetypes": [
+            "pioneer",
+            "bumbling-antagonist",
+            "wise-child",
+            "loyal-companion"
+          ],
+          "narrative_style": [
+            "episodic-adventure",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "jupiter-2",
+            "robot",
+            "space-suit",
+            "alien-creature"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Lost in Space is an optimistic and adventurous science fiction series about a pioneering family navigating the perils of outer space and alien planets, often hindered by a bumbling antagonist and relying on a loyal robot companion."
+      },
+      "duration_seconds": 62.636117696762085
+    }
+  }
+}

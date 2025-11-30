@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Teen Titans",
+    "overview": "The Teen Titans are five heroes under one roof. Robin, Starfire, Raven, Cyborg, and Beast Boy live in a large tower in the shape of a T that they call Titan Tower. No secret identities. No school. Just superheroes being superheroes. They must go up against their arch nemesis, Slade, and his evil minions. What he really plans to do is unknown but one thing's for sure... he's an evil madman.",
+    "genres": [
+      "Animation",
+      "Action & Adventure"
+    ],
+    "release_year": 2003,
+    "vote_count": 1059
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Teen Titans is an animated superhero series that follows a team of young heroes as they navigate the challenges of adolescence while battling supervillains. The show blends action-packed superhero battles with comedic elements and explores themes of friendship, responsibility, and self-discovery. It offers a lighthearted and energetic viewing experience, appealing to a younger audience while retaining enough depth to engage older viewers. The series emphasizes teamwork and the importance of overcoming personal struggles to achieve a common goal, creating a positive and empowering narrative.",
+        "spoiler_rich_plot_summary": "The series begins with Robin assembling a team of young heroes – Starfire, Raven, Cyborg, and Beast Boy – to combat threats too large for individual heroes to handle. Each Titan grapples with their own personal issues: Starfire struggles to understand Earth customs and control her immense power, Raven battles her demonic heritage and emotional instability, Cyborg deals with the implications of his cybernetic enhancements, and Beast Boy learns to control his shapeshifting abilities. Throughout the series, the Titans face a recurring threat from Slade, a powerful and manipulative villain who seeks to corrupt and destroy them. Slade often targets the Titans' weaknesses, exploiting their personal struggles to undermine their teamwork and resolve. As the series progresses, the Titans confront increasingly complex challenges, forcing them to confront their own limitations and grow as individuals and as a team. The final confrontations with Slade reveal deeper connections and motivations, culminating in a climactic battle that tests the Titans' strength and resolve.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "responsibility",
+            "self-discovery",
+            "teamwork",
+            "good-vs-evil",
+            "coming-of-age"
+          ],
+          "plot_and_concepts": [
+            "superhero-team",
+            "villain-corruption",
+            "power-struggle",
+            "mentor-student",
+            "origin-story"
+          ],
+          "mood_and_tone": [
+            "action-packed",
+            "comedic",
+            "energetic",
+            "lighthearted",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "superhero",
+            "animated-series",
+            "teen-drama",
+            "found-family",
+            "origin-story"
+          ],
+          "setting": [
+            "titan-tower",
+            "modern-city",
+            "fictional-world"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "powerful-alien",
+            "cyborg",
+            "shapeshifter"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "episodic-adventure"
+          ],
+          "target_audience": [
+            "young-adult",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "titan-tower",
+            "slade's-lair",
+            "superhero-costumes",
+            "beast-boy's-transformations"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Teen Titans is an animated superhero series that blends action and comedy as a team of young heroes confronts villains and discovers the importance of friendship and responsibility in a modern city."
+      },
+      "duration_seconds": 65.28307175636292
+    }
+  }
+}

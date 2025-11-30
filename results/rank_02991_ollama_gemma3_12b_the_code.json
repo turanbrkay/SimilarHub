@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "The Code",
+    "overview": "The Code is a drama series which tells tells the story of two brothers who discover some information that those at the highest levels of political power are determined to keep secret.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2014,
+    "vote_count": 48
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Code is a crime drama series centered on two brothers who stumble upon a dangerous secret, plunging them into a world of political intrigue and powerful adversaries. The series explores themes of family loyalty, corruption, and the lengths to which those in power will go to protect their secrets. With a suspenseful tone and a focus on complex characters, The Code offers a gripping narrative about the fragility of truth and the consequences of uncovering it. The series blends elements of political thriller and crime procedural, creating a tense and engaging viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Maxime and William Ledaine, two brothers with vastly different lives, discovering a coded message left by their deceased father, a renowned judge. This message hints at a vast conspiracy involving high-ranking officials and a clandestine organization known only as 'The Code.' As they delve deeper into the mystery, they uncover evidence of corruption, blackmail, and potentially even murder. Their investigation draws the attention of powerful figures who attempt to silence them, forcing them to navigate a treacherous landscape of deceit and danger. The brothers find themselves increasingly isolated, questioning who they can trust as they unravel the truth behind their father's death and the scope of the conspiracy. The series culminates in a confrontation where the brothers must expose the truth to the public, risking their own lives in the process, and revealing the deep-seated corruption within the highest echelons of power.",
+        "categorized_keywords": {
+          "themes": [
+            "family-loyalty",
+            "corruption",
+            "political-intrigue",
+            "truth-seeking",
+            "justice",
+            "secrets"
+          ],
+          "plot_and_concepts": [
+            "coded-message",
+            "political-conspiracy",
+            "crime-investigation",
+            "whistleblower",
+            "cover-up"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "tense",
+            "dark",
+            "serious"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "political-thriller",
+            "mystery",
+            "whodunit"
+          ],
+          "setting": [
+            "france",
+            "modern-day",
+            "political-sphere"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "corrupt-official",
+            "investigative-journalist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "mystery-box"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "coded-document",
+            "government-building",
+            "courtroom",
+            "investigation-files"
+          ],
+          "maturity_and_content": [
+            "political-corruption",
+            "suspense"
+          ]
+        },
+        "keyword_sentence": "The Code is a suspenseful crime drama series set in modern-day France, exploring themes of family loyalty and political corruption as two brothers uncover a dangerous conspiracy and risk everything to expose the truth."
+      },
+      "duration_seconds": 59.779518127441406
+    }
+  }
+}

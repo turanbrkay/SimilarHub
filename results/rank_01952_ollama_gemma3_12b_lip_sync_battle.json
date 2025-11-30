@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Lip Sync Battle",
+    "overview": "Each episode features two A-list celebrities like you've never seen them before - syncing their hearts out in hysterically epic performances. Hosted by LL Cool J with colorful commentary by social media maven and supermodel co-host, Chrissy Teigen. The mic is off, the battle is on!",
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "release_year": 2015,
+    "vote_count": 100
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Lip Sync Battle is a comedic competition series where celebrities impersonate iconic musical artists in elaborate, performance-driven challenges. The show's appeal lies in its lighthearted atmosphere, the unexpected talent displayed by its participants, and the sheer spectacle of the performances. It's a family-friendly format that blends elements of game shows and musical tributes, offering a consistently entertaining and visually engaging experience. The show thrives on its playful energy and the unexpected humor derived from seeing well-known figures embrace over-the-top musical interpretations.",
+        "spoiler_rich_plot_summary": "Each episode of Lip Sync Battle follows a simple structure: two celebrity contestants are selected and tasked with preparing lip sync performances to pre-determined songs. The contestants rehearse and strategize, often incorporating costumes, props, and choreography to enhance their routines. During the live episode, each contestant performs their song, judged by a panel and the audience based on factors like creativity, stage presence, and overall entertainment value. After both performances, the judges and audience vote to determine a winner, who is declared the 'Lip Sync Battle Champion' for that episode. The show consistently features a wide range of musical genres and celebrity guests, ensuring a fresh and unpredictable dynamic each time.",
+        "categorized_keywords": {
+          "themes": [
+            "celebrity-culture",
+            "performance-art",
+            "competition",
+            "humor",
+            "music-appreciation"
+          ],
+          "plot_and_concepts": [
+            "game-show-format",
+            "lip-sync-competition",
+            "musical-parody",
+            "costume-design",
+            "audience-participation"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "playful",
+            "energetic",
+            "comedic",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "reality-competition",
+            "family-entertainment",
+            "celebrity-showcase"
+          ],
+          "setting": [
+            "television-studio",
+            "stage-performance"
+          ],
+          "character_archetypes": [
+            "celebrity-performer",
+            "game-show-host",
+            "judge"
+          ],
+          "narrative_style": [
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "costumes",
+            "stage-props",
+            "lip-sync-performance",
+            "judge's-panel"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Lip Sync Battle is a lighthearted and energetic family-entertainment show where celebrities playfully compete in lip-sync performances, showcasing costumes and stage props in a comedic celebration of music and pop culture."
+      },
+      "duration_seconds": 58.40719819068909
+    }
+  }
+}

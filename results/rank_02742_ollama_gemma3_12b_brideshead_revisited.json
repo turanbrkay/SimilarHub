@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Brideshead Revisited",
+    "overview": "Charles Ryder, an agnostic man, becomes involved with members of the Flytes, a Catholic family of aristocrats, over the course of several years between the two world wars.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 1981,
+    "vote_count": 57
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Brideshead Revisited is a poignant drama exploring themes of faith, class, and memory against the backdrop of interwar England. The series follows Charles Ryder's evolving relationship with the aristocratic Flyte family, particularly Sebastian, and their ancestral home, Brideshead. It's a study of lost innocence, the allure of tradition, and the complexities of love and faith, presented with a melancholic and nostalgic tone. The series delicately balances personal relationships with broader societal changes, offering a nuanced portrayal of a fading era.",
+        "spoiler_rich_plot_summary": "The series begins with Charles Ryder, a divorced veteran, reflecting on his past involvement with the Flyte family. He recounts his initial encounter with Sebastian Flyte and his sister, Julia, at Oxford University, where a deep and complex friendship develops. Charles is drawn into the Flyte family's opulent world, centered around the grand estate of Brideshead, a place steeped in Catholic tradition. Sebastian's struggles with alcoholism and his dependence on Charles create a turbulent dynamic, while Charles finds himself increasingly captivated by Julia's charm and beauty. As the years pass, Charles becomes entangled in the family's internal conflicts and the weight of their religious heritage. Sebastian's eventual decline and departure from Brideshead mark a significant turning point, leaving Charles and Julia to navigate their own paths. The narrative culminates in a poignant reflection on the enduring power of memory and the bittersweet nature of lost connections, with Charles returning to Brideshead decades later, now a place of spiritual significance for a new generation.",
+        "categorized_keywords": {
+          "themes": [
+            "faith-and-belief",
+            "class-and-society",
+            "memory-and-nostalgia",
+            "lost-innocence",
+            "family-dynamics",
+            "love-and-loss",
+            "spiritual-awakening"
+          ],
+          "plot_and_concepts": [
+            "aristocratic-society",
+            "generational-conflict",
+            "forbidden-love",
+            "inherited-wealth",
+            "spiritual-journey"
+          ],
+          "mood_and_tone": [
+            "melancholic",
+            "nostalgic",
+            "reflective",
+            "poignant",
+            "romantic"
+          ],
+          "genre_and_tropes": [
+            "period-drama",
+            "coming-of-age",
+            "romantic-drama",
+            "english-literature-adaptation"
+          ],
+          "setting": [
+            "interwar-england",
+            "oxford-university",
+            "english-countryside",
+            "aristocratic-estate"
+          ],
+          "character_archetypes": [
+            "brooding-aristocrat",
+            "naive-protagonist",
+            "enigmatic-figure",
+            "tragic-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "first-person-narration",
+            "flashback-structure"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "brideshead-estate",
+            "oxford-college",
+            "church-altar",
+            "family-portraits",
+            "vintage-automobile"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Brideshead Revisited is a poignant period drama exploring themes of faith, memory, and lost innocence within the world of aristocratic England, presented with a melancholic and nostalgic tone."
+      },
+      "duration_seconds": 65.60733032226562
+    }
+  }
+}

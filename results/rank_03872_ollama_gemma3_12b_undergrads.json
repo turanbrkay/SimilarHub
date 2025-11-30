@@ -1,0 +1,67 @@
+{
+  "input_data": {
+    "title": "Undergrads",
+    "overview": "Undergrads is an animated television series centered on the lives of four college undergraduate freshmen. Originally broadcast on MTV during 2001, only thirteen episodes were created. It has since been shown on Comedy Central in the United States, Teletoon in Canada, and Trouble in the United Kingdom. The show was conceived by Pete Williams, when he dropped out of college at the age of 19. Willams does most of the voices on the show. The series was produced by David McGrath.",
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "release_year": 2001,
+    "vote_count": 30
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Undergrads is an animated comedy series that satirizes the college experience through the eyes of four freshmen. The show employs a comedic style, often leaning into absurd and exaggerated scenarios to explore the challenges and social dynamics of university life. While intended for a young adult audience, the series' humor can be irreverent and occasionally crude, reflecting the often-chaotic nature of early adulthood. The short-lived nature of the series suggests a struggle to find a consistent tone and audience appeal, despite its initial premise.",
+        "spoiler_rich_plot_summary": "The series follows four freshmen – Jake, Adam, Nolan, and Ernie – as they navigate their first year of college. Each episode typically revolves around a specific social situation or challenge, such as attending parties, dealing with roommates, struggling with academics, or attempting to join clubs. The characters frequently find themselves in awkward and embarrassing situations, often due to their own impulsive decisions or misunderstandings. Recurring themes involve the characters' attempts to fit in, their evolving relationships with one another, and their struggles to define their identities outside of high school. While the series doesn't follow a grand overarching plot, individual episodes often build upon established character traits and relationships, creating a sense of continuity within the short run. The series concludes without a definitive resolution, leaving the characters' futures uncertain but hinting at the potential for continued growth and misadventures.",
+        "categorized_keywords": {
+          "themes": [
+            "coming-of-age",
+            "friendship",
+            "identity-quest",
+            "social-awkwardness",
+            "college-life"
+          ],
+          "plot_and_concepts": [
+            "satire",
+            "slice-of-life",
+            "ensemble-cast"
+          ],
+          "mood_and_tone": [
+            "absurdist",
+            "lighthearted",
+            "irreverent"
+          ],
+          "genre_and_tropes": [
+            "animated-comedy",
+            "college-comedy"
+          ],
+          "setting": [
+            "university-campus",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "awkward-protagonist",
+            "collegiate-student"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "young-adult"
+          ],
+          "detail_plot": [
+            "dorm-room",
+            "lecture-hall",
+            "student-union",
+            "party-scene"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Undergrads is a lighthearted animated comedy series that satirizes the challenges and absurdities of college life through the eyes of a group of young adults navigating friendship, identity, and social awkwardness on a modern university campus."
+      },
+      "duration_seconds": 70.24968194961548
+    }
+  }
+}

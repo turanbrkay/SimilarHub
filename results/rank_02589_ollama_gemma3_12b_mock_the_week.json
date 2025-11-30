@@ -1,0 +1,69 @@
+{
+  "input_data": {
+    "title": "Mock the Week",
+    "overview": "Mock the Week is a British topical celebrity panel game hosted by Dara Ó Briain. The game is influenced by improvised topical stand-up comedy, with several rounds requiring players to deliver answers on unexpected subjects on the spur of the moment.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2005,
+    "vote_count": 63
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Mock the Week is a British comedy panel game show that satirizes current events and political news. Hosted by Dara Ó Briain, the show features a rotating panel of comedians who engage in improvisational humor and quick-witted commentary on the week's headlines. The format blends observational comedy with game show elements, creating a fast-paced and often irreverent exploration of contemporary issues. Its appeal lies in its ability to find humor in serious topics and provide a platform for comedic improvisation. The show's longevity speaks to its consistent ability to remain relevant and entertaining.",
+        "spoiler_rich_plot_summary": "Each episode of Mock the Week revolves around a series of comedic rounds designed to poke fun at the week's news. The show typically begins with 'Newsjack,' where comedians invent fake news headlines based on a given theme. Subsequent rounds involve improvisational games where panelists react to and satirize current events, often with unexpected twists and absurd scenarios. The show's humor derives from the panelists' ability to quickly generate jokes and observations on the fly, often pushing boundaries and challenging conventional perspectives. While there isn't a traditional narrative arc, the show consistently evolves its comedic approaches and welcomes new panel members, maintaining a fresh and engaging format over its run. The show's success is rooted in its ability to consistently find humor in the ever-changing landscape of current affairs.",
+        "categorized_keywords": {
+          "themes": [
+            "satire",
+            "current-events",
+            "political-humor",
+            "improv",
+            "comedy"
+          ],
+          "plot_and_concepts": [
+            "panel-game",
+            "improvised-comedy",
+            "topical-humor",
+            "news-parody"
+          ],
+          "mood_and_tone": [
+            "irreverent",
+            "witty",
+            "fast-paced",
+            "humorous"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "panel-show",
+            "topical-comedy"
+          ],
+          "setting": [
+            "british-television",
+            "studio-setting"
+          ],
+          "character_archetypes": [
+            "comedian",
+            "panelist",
+            "host"
+          ],
+          "narrative_style": [
+            "episodic",
+            "improvised"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "news-headlines",
+            "studio-audience",
+            "comedic-sketches"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Mock the Week is a fast-paced British panel game show that uses improvised comedy to satirize current events and political news, offering a humorous and irreverent take on the week's headlines."
+      },
+      "duration_seconds": 55.82090163230896
+    }
+  }
+}

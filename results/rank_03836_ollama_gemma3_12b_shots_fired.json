@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Shots Fired",
+    "overview": "A media storm sets off when an African-American cop kills a white teenager in a small North Carolina town.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2017,
+    "vote_count": 30
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Shots Fired is a limited-run crime drama that explores the complexities of police brutality, racial tensions, and media sensationalism in a small-town American setting. The series follows two undercover officers investigating a shooting incident that sparks widespread protests and scrutiny. It delves into the perspectives of both law enforcement and the community, examining the systemic issues that contribute to mistrust and conflict. The narrative is driven by a suspenseful investigation intertwined with a broader commentary on social justice and the power of perception. The series aims to provoke thought and understanding regarding the challenges of bridging divides in a polarized society.",
+        "spoiler_rich_plot_summary": "The series begins with the shooting of a young white man by an African-American police officer, Alaric Waters, in the town of Mountain Wells, North Carolina. The incident immediately ignites a media frenzy and widespread protests, fueled by pre-existing racial tensions and distrust of law enforcement. Two undercover officers, Jesse Miller and Elijah Ford, are dispatched to investigate the shooting, tasked with uncovering the truth behind the event and restoring order. As they delve deeper, they discover a web of secrets and lies within the police department and the community, revealing a history of corruption and cover-ups. The investigation exposes the biases and prejudices that shape perceptions of the shooting, highlighting the differing narratives of the victim's family, the police force, and the protesters. The series explores the personal struggles of the officers as they confront their own beliefs and loyalties while navigating the volatile situation. Ultimately, the truth about the shooting is revealed, exposing a complex interplay of factors that contributed to the tragic event, and leaving the town grappling with the aftermath and the need for healing and reconciliation.",
+        "categorized_keywords": {
+          "themes": [
+            "racial-tension",
+            "police-brutality",
+            "social-justice",
+            "media-sensationalism",
+            "corruption",
+            "trust-erosion",
+            "community-healing"
+          ],
+          "plot_and_concepts": [
+            "undercover-operation",
+            "police-investigation",
+            "shooting-incident",
+            "media-scrutiny",
+            "cover-up"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "tense",
+            "somber",
+            "provocative"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "social-thriller",
+            "limited-series"
+          ],
+          "setting": [
+            "small-town-america",
+            "north-carolina",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "undercover-cop",
+            "corrupt-official",
+            "activist",
+            "victim's-family"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "multiple-perspectives"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "police-badge",
+            "protest-sign",
+            "crime-scene-tape",
+            "news-broadcast"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "racial-slurs",
+            "police-misconduct"
+          ]
+        },
+        "keyword_sentence": "Shots Fired is a suspenseful crime drama that explores the complexities of racial tension and police misconduct in a small North Carolina town, examining the impact of media sensationalism and the struggle for social justice."
+      },
+      "duration_seconds": 85.39053750038147
+    }
+  }
+}

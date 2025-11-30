@@ -1,0 +1,89 @@
+{
+  "input_data": {
+    "title": "House",
+    "overview": "Dr. Gregory House, a drug-addicted, unconventional, misanthropic medical genius, leads a team of diagnosticians at the fictional Princeton–Plainsboro Teaching Hospital in New Jersey.",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2004,
+    "vote_count": 5799
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "House follows the brilliant but cynical Dr. Gregory House, a diagnostician who relies on unconventional methods and a heavy reliance on painkillers to solve complex medical mysteries at Princeton‑Plainsboro. The series blends sharp, dark humor with intense, gritty drama, exploring themes of addiction, moral ambiguity, and the tension between truth and empathy. Each episode presents a self‑contained case that challenges House’s diagnostic logic while revealing deeper cracks in his relationships with colleagues and patients.",
+        "spoiler_rich_plot_summary": "The series opens with House’s arrival at Princeton‑Plainsboro as a new diagnostic team leader, immediately establishing his misanthropic personality and addiction to Vicodin. Over eight seasons, House tackles a wide array of baffling illnesses, often using unorthodox, ethically gray tactics that strain his relationships with team members like Dr. Cuddy, Dr. Wilson, and Dr. Cameron. The narrative arc follows House’s struggle with addiction, his rivalry with Wilson over loyalty and morality, and the evolving dynamics within the diagnostic team. A recurring subplot involves House’s attempts to conceal his secret, including a brief stint in a psychiatric facility and a legal battle over a patient’s death. In the final season, House faces a personal crisis after being arrested for a murder he did not commit, forcing him to confront his past and the consequences of his choices. The series concludes with House’s decision to remain at the hospital, but with a clear sense of unresolved tension and the possibility of a new path, while his team continues to navigate the complex world of modern medicine.",
+        "categorized_keywords": {
+          "themes": [
+            "addiction",
+            "misanthropy",
+            "medical-ethics",
+            "truth-vs-empathy",
+            "moral-ambiguity"
+          ],
+          "plot_and_concepts": [
+            "diagnostic-team",
+            "case-of-the-week",
+            "princeton-plainsboro",
+            "painkiller-addiction",
+            "misdiagnosis",
+            "medical-mystery",
+            "diagnostic-logic",
+            "house-quirks",
+            "diagnostic-competition"
+          ],
+          "mood_and_tone": [
+            "dark-humor",
+            "intense",
+            "gritty",
+            "satirical"
+          ],
+          "genre_and_tropes": [
+            "medical-drama",
+            "mystery",
+            "case-based",
+            "anti-hero",
+            "team-drama"
+          ],
+          "setting": [
+            "modern-usa",
+            "princeton-plainsboro",
+            "hospital",
+            "new-jersey"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "misfit-hero",
+            "diagnostic-hero",
+            "team-leader",
+            "misanthrope",
+            "addict"
+          ],
+          "narrative_style": [
+            "case-based",
+            "episodic",
+            "character-driven"
+          ],
+          "target_audience": [
+            "mature-audiences",
+            "medical-drama-fans",
+            "drama-lovers"
+          ],
+          "detail_plot": [
+            "princeton-plainsboro",
+            "diagnostic-team",
+            "operating-room",
+            "white-coat",
+            "on-call-shift",
+            "house-quirks",
+            "painkiller-addiction",
+            "case-of-the-week"
+          ]
+        },
+        "keyword_sentence": "house, a misanthropic, drug-addicted diagnostic genius, leads a diagnostic-team through dark-humorous, gritty medical mysteries at Princeton‑Plainsboro, exploring addiction, medical-ethics, and moral-ambiguity in a case-based, episodic drama."
+      },
+      "duration_seconds": 261.6055097579956
+    }
+  }
+}

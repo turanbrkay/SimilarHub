@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Lost in Austen",
+    "overview": "Modern Amanda enters through a portal in her bathroom, to join the Bennet family and affect events disastrously.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2008,
+    "vote_count": 80
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Lost in Austen is a romantic comedy series that reimagines Jane Austen's world by transporting a modern woman into the Bennet family's story. The series blends historical fiction with contemporary sensibilities, exploring themes of identity, belonging, and the complexities of love and social expectations. It offers a lighthearted and charming narrative, appealing to fans of Austen's works and those seeking a whimsical and engaging romantic adventure. The series' humor derives from the clash between modern attitudes and the rigid social structures of Regency England, creating a unique and entertaining viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Amanda, a modern woman struggling with her career and love life, unexpectedly finding herself transported into the world of Jane Austen's *Pride and Prejudice*. She arrives as a distant relative of the Bennet family, quickly disrupting their established routines and social dynamics. Amanda's modern perspectives and behaviors clash with the customs of the time, leading to humorous misunderstandings and unintended consequences. She finds herself drawn to various members of the Bennet family and their acquaintances, navigating the complexities of Regency-era courtship and social hierarchy. Throughout the series, Amanda attempts to influence events and help the Bennet sisters find happiness, but her interventions often create new challenges and complications. The series explores the potential for change and the enduring power of love, even across centuries, culminating in a resolution that acknowledges the importance of embracing one's place in the world while also recognizing the potential for connection and understanding.",
+        "categorized_keywords": {
+          "themes": [
+            "identity-quest",
+            "time-travel",
+            "social-class",
+            "family-dynamics",
+            "love-and-relationships",
+            "modernity-vs-tradition"
+          ],
+          "plot_and_concepts": [
+            "time-travel",
+            "fish-out-of-water",
+            "romantic-comedy",
+            "alternate-history",
+            "regency-era-romance"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "charming",
+            "romantic",
+            "humorous"
+          ],
+          "genre_and_tropes": [
+            "romantic-comedy",
+            "historical-fiction",
+            "fish-out-of-water",
+            "time-travel-romance"
+          ],
+          "setting": [
+            "regency-era-england",
+            "alternate-timeline",
+            "rural-england"
+          ],
+          "character_archetypes": [
+            "fish-out-of-water",
+            "reluctant-heroine",
+            "regency-era-gentleman"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "romance-fans"
+          ],
+          "detail_plot": [
+            "bathwater-portal",
+            "regency-era-ballroom",
+            "carriage-ride",
+            "manor-house",
+            "bonnet"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Lost in Austen is a lighthearted romantic comedy series that blends historical fiction with a fish-out-of-water narrative, transporting a modern woman to Regency-era England to explore themes of identity, love, and the clash between tradition and modernity."
+      },
+      "duration_seconds": 65.94070982933044
+    }
+  }
+}

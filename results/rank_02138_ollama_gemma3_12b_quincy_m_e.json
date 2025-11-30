@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Quincy, M.E.",
+    "overview": "Quincy, M.E. is an American television series from Universal Studios pert in several of the later episodes.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 1976,
+    "vote_count": 87
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Quincy, M.E. is a long-running crime drama series centered on a medical examiner who investigates suspicious deaths, often uncovering foul play and corruption. The show blends elements of police procedural and medical mystery, with Quincy's expertise in pathology driving the investigations. It explores themes of justice, morality, and the complexities of the legal system, often highlighting the flaws within it. Quincy's unconventional methods and persistent questioning of authority frequently put him at odds with law enforcement and powerful figures, creating a compelling narrative of one man's pursuit of truth.",
+        "spoiler_rich_plot_summary": "The series follows Dr. Quincy T. Fowler, the medical examiner for Los Angeles County, as he investigates deaths that are initially ruled as natural or accidental. Quincy's meticulous examination of bodies and crime scenes often reveals evidence of homicide, leading him to uncover conspiracies and expose wrongdoers. Throughout the series, Quincy confronts a wide range of criminal enterprises, from organized crime and corporate malfeasance to political corruption and personal vendettas. He frequently clashes with police detectives, particularly Lieutenant Monahan, due to his independent investigations and tendency to bypass standard procedures. While Quincy consistently seeks justice, his relentless pursuit often puts him in danger, and he faces threats from those who wish to silence him. The series concludes with Quincy continuing his work, dedicated to uncovering the truth and ensuring that justice is served, even when it means challenging powerful institutions.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "corruption",
+            "morality",
+            "truth",
+            "legal-system",
+            "medical-ethics"
+          ],
+          "plot_and_concepts": [
+            "crime-procedural",
+            "medical-mystery",
+            "investigation",
+            "forensic-science",
+            "conspiracy"
+          ],
+          "mood_and_tone": [
+            "serious",
+            "suspenseful",
+            "dramatic",
+            "somber"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "police-procedural",
+            "medical-drama",
+            "whistleblower"
+          ],
+          "setting": [
+            "los-angeles",
+            "modern-day",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "medical-examiner",
+            "detective",
+            "whistleblower",
+            "authority-figure"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "autopsy-table",
+            "crime-scene",
+            "police-badge",
+            "medical-report"
+          ],
+          "maturity_and_content": [
+            "crime-scene-details",
+            "medical-procedures"
+          ]
+        },
+        "keyword_sentence": "Quincy, M.E. is a serious crime drama series set in Los Angeles, where a dedicated medical examiner investigates suspicious deaths and exposes corruption within the legal system through meticulous forensic examinations."
+      },
+      "duration_seconds": 64.23221564292908
+    }
+  }
+}

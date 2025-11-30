@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Knight Rider",
+    "overview": "Michael Long, an undercover police officer, is shot while investigating a case and left for dead by his assailants. He is rescued by Wilton Knight, a wealthy, dying millionaire and inventor who arranges life-saving surgery, including a new face and a new identity--that of Michael Knight. Michael is then given a special computerized and indestructible car called the Knight Industries Two Thousand (nicknamed KITT), and a mission: apprehend criminals who are beyond the reach of the law. The series depicts Michael's exploits as he and KITT battle the forces of evil on behalf of the Foundation for Law and Government.",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1982,
+    "vote_count": 1123
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Knight Rider is an action-adventure series blending police procedural elements with science fiction. The show centers on Michael Knight, a man given a new identity and a technologically advanced car, KITT, to fight crime and uphold justice. It explores themes of redemption, technological responsibility, and the blurred lines between law enforcement and vigilante justice. The series offers a blend of thrilling action sequences, a charismatic lead character, and a unique partnership between a man and his car, creating a generally optimistic and entertaining viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Michael Long, an undercover police officer, being rescued from near-fatal injuries by Wilton Knight, a philanthropist and inventor. Wilton provides Michael with advanced surgery and a new identity as Michael Knight, tasking him with fighting crime with the aid of KITT, a highly advanced, self-aware automobile. Throughout the series, Michael and KITT confront various criminal organizations and corrupt individuals, often uncovering conspiracies that reach into the highest levels of government. Michael grapples with his past and the burden of his new role, while KITT develops a unique personality and a complex relationship with his human partner. While the Foundation for Law and Government provides support, Michael often finds himself operating outside the traditional legal system, leading to moral dilemmas and challenging the very definition of justice. The series explores the potential for technology to be used for good, but also acknowledges the dangers of unchecked power and the importance of human connection.",
+        "categorized_keywords": {
+          "themes": [
+            "redemption",
+            "justice",
+            "technology-ethics",
+            "vigilantism",
+            "trust",
+            "identity"
+          ],
+          "plot_and_concepts": [
+            "high-tech-vehicle",
+            "undercover-operation",
+            "crime-fighting",
+            "artificial-intelligence",
+            "conspiracy",
+            "secret-organization"
+          ],
+          "mood_and_tone": [
+            "action-packed",
+            "optimistic",
+            "adventurous",
+            "heroic",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "science-fiction",
+            "police-procedural",
+            "buddy-cop",
+            "high-concept"
+          ],
+          "setting": [
+            "modern-day",
+            "american-suburbs",
+            "mobile-setting"
+          ],
+          "character_archetypes": [
+            "hero",
+            "mentor",
+            "rogue",
+            "artificial-intelligence"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "knight-industries",
+            "kitt-car",
+            "turbo-boost",
+            "scanner-system",
+            "foundation-for-law-and-government"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Knight Rider is an action-adventure series blending science fiction and police procedural elements, following a man and his technologically advanced car as they fight crime and uphold justice in a modern American setting."
+      },
+      "duration_seconds": 63.41420793533325
+    }
+  }
+}

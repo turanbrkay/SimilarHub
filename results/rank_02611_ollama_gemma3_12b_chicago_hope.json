@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Chicago Hope",
+    "overview": "Chicago Hope is an American medical drama television series, created by David E. Kelley. It ran on CBS from September 18, 1994, to May 4, 2000. The series is set in a fictional private charity hospital in Chicago, Illinois. The show is set to return in the fall of 2013 on TVGN in reruns.",
+    "genres": [
+      "Soap",
+      "Drama"
+    ],
+    "release_year": 1994,
+    "vote_count": 62
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Chicago Hope is a medical drama series that explores the complex lives of doctors and staff at a Chicago hospital. Created by David E. Kelley, the show distinguishes itself through its focus on character relationships and ethical dilemmas within the medical field, often blending procedural elements with personal narratives. The series is known for its sharp writing, ensemble cast, and willingness to tackle challenging social and medical issues, offering a nuanced portrayal of the pressures and rewards of working in a demanding healthcare environment. The show’s blend of medical cases and interpersonal drama creates a compelling and often emotionally resonant viewing experience.",
+        "spoiler_rich_plot_summary": "Chicago Hope centers on the staff of a private charity hospital in Chicago, Illinois. The series begins with the hospital facing financial difficulties and grappling with ethical challenges in patient care. Dr. Donald Palmer, a brilliant but ethically conflicted surgeon, becomes a central figure, often navigating difficult choices between his personal beliefs and the demands of his profession. Throughout the series, various romantic relationships and professional rivalries develop among the doctors, nurses, and administrators, creating a complex web of interpersonal dynamics. The hospital faces numerous crises, including lawsuits, financial instability, and internal conflicts, forcing the staff to confront their own limitations and make difficult sacrifices. Over time, characters evolve, some leaving the hospital while others find new roles and responsibilities. The series explores themes of redemption, loss, and the enduring power of human connection amidst the challenges of the medical world, ultimately portraying a portrait of a community bound together by a shared commitment to patient care.",
+        "categorized_keywords": {
+          "themes": [
+            "medical-ethics",
+            "redemption",
+            "loss",
+            "human-connection",
+            "professional-rivalry",
+            "social-responsibility"
+          ],
+          "plot_and_concepts": [
+            "medical-procedural",
+            "courtroom-drama",
+            "ensemble-cast",
+            "financial-crisis",
+            "lawsuit"
+          ],
+          "mood_and_tone": [
+            "dramatic",
+            "emotional",
+            "somber",
+            "intense"
+          ],
+          "genre_and_tropes": [
+            "medical-drama",
+            "ensemble-cast",
+            "courtroom-drama"
+          ],
+          "setting": [
+            "chicago-illinois",
+            "modern-day",
+            "hospital-setting"
+          ],
+          "character_archetypes": [
+            "brilliant-surgeon",
+            "ethical-dilemma",
+            "ensemble-cast"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "operating-room",
+            "medical-records",
+            "hospital-administration"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Chicago Hope is a dramatic medical drama set in a Chicago hospital, exploring themes of medical ethics and human connection through a complex ensemble cast facing professional rivalries and ethical dilemmas."
+      },
+      "duration_seconds": 60.08281064033508
+    }
+  }
+}

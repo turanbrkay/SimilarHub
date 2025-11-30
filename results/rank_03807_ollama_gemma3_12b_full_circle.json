@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Full Circle",
+    "overview": "An investigation into a botched kidnapping uncovers long-held secrets connecting multiple characters and cultures in present day New York City.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2023,
+    "vote_count": 30
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Full Circle is a crime drama series centered on the unraveling of a kidnapping and its far-reaching consequences. The narrative explores themes of guilt, redemption, and the interconnectedness of seemingly disparate lives, set against the backdrop of contemporary New York City. The series blends elements of mystery and suspense with a focus on character development and the exploration of cultural and societal complexities. It offers a slow-burn, atmospheric viewing experience, emphasizing the psychological impact of events on the involved individuals and the ripple effects across their relationships.",
+        "spoiler_rich_plot_summary": "The series begins with a seemingly straightforward kidnapping in New York City, orchestrated for a substantial ransom. However, the investigation quickly reveals that the kidnapping is far more complex than initially perceived, with connections to a web of secrets and past events spanning multiple continents. As detectives delve deeper, they uncover a series of interconnected narratives involving a diverse cast of characters, each harboring their own motivations and hidden agendas. The initial crime is revealed to be linked to a larger conspiracy involving financial crimes, international smuggling, and personal betrayals. Flashbacks and shifting perspectives gradually piece together the events leading up to the kidnapping, exposing the characters' involvement in a chain of actions with devastating consequences. The investigation forces the characters to confront their past mistakes and the moral compromises they're willing to make to protect themselves and their loved ones. The series culminates in a confrontation where the truth about the kidnapping and the underlying conspiracy is exposed, leading to significant repercussions for all involved, though the full extent of justice and resolution remains ambiguous.",
+        "categorized_keywords": {
+          "themes": [
+            "guilt",
+            "redemption",
+            "secrets",
+            "conspiracy",
+            "justice",
+            "moral-ambiguity",
+            "interconnectedness"
+          ],
+          "plot_and_concepts": [
+            "kidnapping",
+            "crime-investigation",
+            "financial-crime",
+            "international-smuggling",
+            "flashbacks",
+            "shifting-perspectives"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "atmospheric",
+            "slow-burn",
+            "dark",
+            "mysterious"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "mystery",
+            "thriller",
+            "police-procedural"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day",
+            "international"
+          ],
+          "character_archetypes": [
+            "detective",
+            "conspirator",
+            "victim",
+            "moral-ambiguous-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "kidnapping-scene",
+            "police-station",
+            "interrogation-room",
+            "financial-records"
+          ],
+          "maturity_and_content": [
+            "crime",
+            "violence"
+          ]
+        },
+        "keyword_sentence": "Full Circle is a suspenseful crime drama series set in modern-day New York City, exploring themes of guilt and redemption through a complex investigation into a kidnapping and the secrets that connect a diverse cast of characters."
+      },
+      "duration_seconds": 82.30406856536865
+    }
+  }
+}

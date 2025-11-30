@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "The Prisoner",
+    "overview": "The Prisoner is a 2009 television miniseries based on the 1960s TV series The Prisoner about a man who awakens in a mysterious, picturesque village from which there is no escape and wonders who made the village and why.",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2009,
+    "vote_count": 72
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Prisoner is a psychological thriller exploring themes of identity, freedom, and control. The series follows a man who finds himself inexplicably imprisoned in a seemingly idyllic village, where he is relentlessly interrogated and manipulated by unseen forces. It blends elements of science fiction, mystery, and drama, creating a disorienting and unsettling viewing experience that questions the nature of individuality and the power of authority. The series maintains a pervasive sense of paranoia and intrigue, challenging the protagonist and the audience to decipher the truth behind his confinement.",
+        "spoiler_rich_plot_summary": "The series begins with an unnamed intelligence operative abruptly resigning from his job and waking up in a pristine village, stripped of his identity and referred to only as 'Six.' He is immediately under the watchful eye of the Village, a bureaucratic and enigmatic authority that seeks to uncover the reasons for his resignation and break his will. Throughout his captivity, Six encounters a rotating cast of characters, some seemingly helpful, others clearly adversaries, all playing a part in the Village's elaborate game. He attempts numerous escapes, each thwarted by the Village's sophisticated defenses and the manipulation of its inhabitants. As Six delves deeper into the mystery, he begins to suspect that the Village is not what it seems, and that his own past may hold the key to his imprisonment. The series culminates in a confrontation with the ultimate authority of the Village, revealing a complex web of deception and manipulation that blurs the lines between captor and captive, and raises profound questions about the nature of freedom and the cost of individuality. The ending suggests a cyclical nature to the Village's operations, implying that Six's experience may be just one iteration in a larger, ongoing process.",
+        "categorized_keywords": {
+          "themes": [
+            "identity-crisis",
+            "freedom",
+            "control",
+            "memory",
+            "deception",
+            "conformity",
+            "power",
+            "paranoia"
+          ],
+          "plot_and_concepts": [
+            "mystery",
+            "mind-control",
+            "political-thriller",
+            "prisoner-of-war",
+            "escape-attempt",
+            "government-conspiracy"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "disorienting",
+            "unsettling",
+            "paranoid",
+            "enigmatic"
+          ],
+          "genre_and_tropes": [
+            "psychological-thriller",
+            "science-fiction",
+            "mystery-drama",
+            "government-coverup"
+          ],
+          "setting": [
+            "idyllic-village",
+            "modern-day",
+            "isolated-location"
+          ],
+          "character_archetypes": [
+            "amnesiac-protagonist",
+            "enigmatic-antagonist",
+            "manipulative-authority",
+            "reluctant-ally"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "village-gates",
+            "number-six",
+            "village-uniform",
+            "interrogation-room",
+            "village-broadcast"
+          ],
+          "maturity_and_content": [
+            "psychological-manipulation"
+          ]
+        },
+        "keyword_sentence": "The Prisoner is a suspenseful psychological thriller set in an idyllic village, exploring themes of identity and freedom through a paranoid investigation of government control and manipulation."
+      },
+      "duration_seconds": 68.25187635421753
+    }
+  }
+}

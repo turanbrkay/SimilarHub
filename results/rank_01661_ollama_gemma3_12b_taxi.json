@@ -1,0 +1,70 @@
+{
+  "input_data": {
+    "title": "Taxi",
+    "overview": "Louie De Palma is a cantankerous, acerbic taxi dispatcher in New York City. He tries to maintain order over a collection of varied and strange characters who drive for him. As he bullies and insults them from the safety of his “cage,” they form a special bond among themselves, becoming friends and supporting each other through the inevitable trials and tribulations of life.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 1978,
+    "vote_count": 126
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Taxi is a character-driven dramedy series set in New York City, revolving around a group of taxi drivers and their sardonic dispatcher. The show explores themes of friendship, ambition, and the struggles of everyday life, blending humor with poignant moments of vulnerability. It offers a slice-of-life perspective on a diverse cast of characters, examining their dreams and disappointments against the backdrop of a bustling urban environment. The series is known for its realistic portrayal of working-class individuals and its ability to find humor in the face of adversity.",
+        "spoiler_rich_plot_summary": "The series begins with Louie De Palma, a bitter and cynical dispatcher, overseeing a group of aspiring actors and struggling individuals working as taxi drivers. Each driver harbors dreams of a better life, often pursuing acting careers or other ambitions while navigating the challenges of their current circumstances. Throughout the series, the drivers face personal and professional setbacks, often relying on each other for support and camaraderie. Louie, despite his abrasive personality, develops a complex relationship with the drivers, acting as both a tormentor and a reluctant protector. The drivers experience romantic relationships, career opportunities, and moments of both triumph and despair, all while maintaining a unique bond forged in the shared experience of working under Louie's watchful eye. The series explores the complexities of human connection and the enduring power of friendship in the face of adversity, culminating in a bittersweet farewell as the drivers pursue their individual paths.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "ambition",
+            "working-class-struggles",
+            "slice-of-life",
+            "bittersweet-farewell",
+            "urban-life"
+          ],
+          "plot_and_concepts": [
+            "ensemble-cast",
+            "character-driven",
+            "slice-of-life-drama"
+          ],
+          "mood_and_tone": [
+            "comedic",
+            "poignant",
+            "realistic",
+            "bittersweet"
+          ],
+          "genre_and_tropes": [
+            "dramedy",
+            "ensemble-cast",
+            "working-class-drama"
+          ],
+          "setting": [
+            "new-york-city",
+            "1970s"
+          ],
+          "character_archetypes": [
+            "cynical-mentor",
+            "aspiring-actor",
+            "working-class-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "taxi-dispatch",
+            "yellow-cab",
+            "new-york-street"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Taxi is a comedic drama series set in 1970s New York City, exploring the struggles and friendships of a group of aspiring actors and their cynical dispatcher as they navigate working-class life."
+      },
+      "duration_seconds": 61.2057101726532
+    }
+  }
+}

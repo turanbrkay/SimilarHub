@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "Inside the Actors Studio",
+    "overview": "James Lipton sits down with some of the world's most accomplished actors and directors for penetrating, fascinating interviews.",
+    "genres": [
+      "Talk"
+    ],
+    "release_year": 1994,
+    "vote_count": 42
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Inside the Actors Studio is a long-running interview series where James Lipton engages in in-depth conversations with prominent actors and directors. The show offers a unique behind-the-scenes look at the creative process, exploring acting techniques, career paths, and the personal philosophies that shape artistic expression. It's a largely conversational and reflective program, prioritizing insight and analysis over dramatic narrative. The series provides a valuable resource for aspiring actors and anyone interested in the craft of performance, offering a glimpse into the minds of celebrated figures in the entertainment industry. Its enduring appeal lies in its ability to demystify the acting profession and reveal the dedication and artistry behind the performances.",
+        "spoiler_rich_plot_summary": "The series doesn't follow a traditional plot. Each episode centers around a single interview, beginning with James Lipton's signature 'Actor's Life' segment, where he poses three questions about the interviewee's background. The bulk of the episode consists of a free-flowing conversation, often delving into the actor's most memorable roles, their approach to character development, and the challenges they're faced with in their careers. The interviews frequently touch upon the actor's personal history, influences, and the evolution of their craft. While there's no overarching narrative, each episode offers a journey into the interviewee's professional and creative life, revealing pivotal moments and shaping their artistic identity. The series concludes with Lipton's 'Private Thoughts' segment, offering a final, reflective moment with the guest.",
+        "categorized_keywords": {
+          "themes": [
+            "artistic-process",
+            "career-development",
+            "creative-inspiration",
+            "performance-craft",
+            "interview-format"
+          ],
+          "plot_and_concepts": [
+            "actor-interview",
+            "behind-the-scenes",
+            "career-reflection",
+            "method-acting"
+          ],
+          "mood_and_tone": [
+            "reflective",
+            "intellectual",
+            "conversational",
+            "insightful"
+          ],
+          "genre_and_tropes": [
+            "talk-show",
+            "interview-series",
+            "biography"
+          ],
+          "setting": [
+            "television-studio",
+            "new-york-city"
+          ],
+          "character_archetypes": [
+            "actor",
+            "director",
+            "interview-host"
+          ],
+          "narrative_style": [
+            "serialized-interview",
+            "episodic"
+          ],
+          "target_audience": [
+            "aspiring-actors",
+            "film-students",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "actors-life",
+            "private-thoughts",
+            "interview-setting"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Inside the Actors Studio is a reflective talk-show series that offers an insightful look into the artistic process and career development of celebrated actors and directors through in-depth interviews."
+      },
+      "duration_seconds": 53.94449424743652
+    }
+  }
+}

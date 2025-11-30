@@ -1,0 +1,85 @@
+{
+  "input_data": {
+    "title": "The Real Housewives of Beverly Hills",
+    "overview": "A reality series that follows some of the most affluent women in the country as they enjoy the lavish lifestyle that only Beverly Hills can provide.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2010,
+    "vote_count": 75
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Real Housewives of Beverly Hills is a reality television series offering a glimpse into the lives of affluent women residing in Beverly Hills, California. The show revolves around their social interactions, personal dramas, and extravagant lifestyles, often showcasing interpersonal conflicts and opulent displays of wealth. It blends elements of social commentary, interpersonal drama, and aspirational lifestyle content, appealing to viewers interested in observing high-society dynamics and the complexities of maintaining a public image. The series is characterized by its blend of humor, tension, and occasional emotional vulnerability, offering a voyeuristic look into a world of privilege and excess.",
+        "spoiler_rich_plot_summary": "The series premiered introducing viewers to a core group of women navigating their personal and professional lives in Beverly Hills. Early seasons focused on establishing relationships and showcasing the lavish parties and events that define their social circle. As the show progressed, interpersonal conflicts escalated, leading to dramatic confrontations and shifting alliances. Recurring themes involve navigating marriages, raising families, and maintaining a public image amidst personal struggles. Later seasons saw the introduction of new cast members, further complicating the dynamics and creating new sources of conflict. The show has documented significant life events for the cast, including divorces, business ventures, and personal tragedies, all while maintaining a focus on the drama and spectacle of their lives. While the cast has changed over the years, the core premise of observing the lives of wealthy women in Beverly Hills remains consistent, with each season bringing new challenges and revelations.",
+        "categorized_keywords": {
+          "themes": [
+            "wealth-and-status",
+            "social-dynamics",
+            "female-friendship",
+            "public-image",
+            "family-relationships",
+            "gossip-and-scandal"
+          ],
+          "plot_and_concepts": [
+            "reality-television",
+            "social-climbing",
+            "interpersonal-conflict",
+            "voyeurism",
+            "lifestyle-documentation"
+          ],
+          "mood_and_tone": [
+            "glamorous",
+            "dramatic",
+            "campy",
+            "satirical",
+            "ostentatious"
+          ],
+          "genre_and_tropes": [
+            "reality-tv",
+            "docu-series",
+            "social-drama",
+            "fish-out-of-water"
+          ],
+          "setting": [
+            "beverly-hills-california",
+            "modern-day",
+            "luxury-homes",
+            "high-society"
+          ],
+          "character_archetypes": [
+            "socialite",
+            "influencer",
+            "housewife",
+            "diva",
+            "entrepreneur"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "confessional-format"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "female-audience"
+          ],
+          "detail_plot": [
+            "designer-handbags",
+            "luxury-cars",
+            "exclusive-parties",
+            "confessional-booth",
+            "manicured-lawns"
+          ],
+          "maturity_and_content": [
+            "profanity",
+            "relationship-drama",
+            "alcohol-consumption"
+          ]
+        },
+        "keyword_sentence": "The Real Housewives of Beverly Hills offers a glamorous and dramatic look into the lives of wealthy women navigating social dynamics, maintaining a public image, and experiencing relationship drama within the exclusive setting of Beverly Hills, California."
+      },
+      "duration_seconds": 71.92821002006531
+    }
+  }
+}

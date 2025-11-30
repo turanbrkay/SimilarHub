@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "The Smurfs",
+    "overview": "Classic Saturday-morning cartoon series featuring magical blue elf-like creatures called Smurfs. The Smurfs, named for their personalities, inhabit a village of mushroom houses in an enchanted forest. These loveable creatures are led by Papa Smurf and live carefree... except for one major threat to their existance: Gargamel, an evil but inept wizard who lives in a stone-built house in the forest; and his feline companion, the equally nasty Azrael. ",
+    "genres": [
+      "Animation",
+      "Family",
+      "Sci-Fi & Fantasy",
+      "Kids"
+    ],
+    "release_year": 1981,
+    "vote_count": 435
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Smurfs is a long-running animated series centered on a community of small, blue creatures living in a hidden village. The show blends elements of fantasy, comedy, and adventure, appealing to a young audience with its colorful characters and simple morality tales. Recurring conflicts arise from the efforts of the villainous wizard Gargamel, who seeks to capture the Smurfs for his own nefarious purposes. The series explores themes of community, friendship, and overcoming adversity through lighthearted storytelling and memorable characters.",
+        "spoiler_rich_plot_summary": "The Smurfs' story revolves around their idyllic existence in a mushroom-shaped village hidden deep within an enchanted forest. Their peaceful life is constantly threatened by Gargamel, a clumsy but persistent wizard obsessed with capturing them. Each episode typically involves Gargamel devising a new scheme to trap the Smurfs, often with the assistance of his cat, Azrael. While the Smurfs frequently outwit Gargamel, his attempts create chaos and require the Smurfs to work together, often led by the wise and experienced Papa Smurf. The series explores the importance of cooperation and the strength found in unity as the Smurfs repeatedly defend their home and way of life from Gargamel's relentless pursuit. While Gargamel never truly succeeds in capturing the Smurfs, his presence ensures a constant state of playful conflict and reinforces the value of their community.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "community",
+            "good-vs-evil",
+            "cooperation",
+            "innocence",
+            "family-values"
+          ],
+          "plot_and_concepts": [
+            "monster-of-the-week",
+            "pursuit",
+            "villain-attempts",
+            "magical-creatures",
+            "hidden-village"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "playful",
+            "optimistic",
+            "innocent"
+          ],
+          "genre_and_tropes": [
+            "animated-comedy",
+            "fantasy",
+            "childrens-entertainment",
+            "classic-cartoon"
+          ],
+          "setting": [
+            "enchanted-forest",
+            "mushroom-village",
+            "fantasy-world"
+          ],
+          "character_archetypes": [
+            "wise-mentor",
+            "villain",
+            "mischievous-character",
+            "hero"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "mushroom-houses",
+            "gargamels-cat",
+            "papa-smurf",
+            "blue-creatures"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Smurfs is a lighthearted animated series about a community of blue creatures who live in a hidden village and face constant challenges from a clumsy wizard in an enchanted forest."
+      },
+      "duration_seconds": 56.81798219680786
+    }
+  }
+}

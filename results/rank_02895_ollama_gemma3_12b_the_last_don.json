@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "The Last Don",
+    "overview": "In this world power isn't everything, it's the only thing. Best selling author of Mario 'The Godfather' Puzo's blockbuster new novel comes to life in this epic saga of America's most powerful crime family.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 1997,
+    "vote_count": 51
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Last Don is a crime drama series based on Mario Puzo's novel, exploring the complexities of a powerful Italian-American mafia family navigating the shifting landscape of organized crime in America. The series delves into themes of family loyalty, ambition, and the corrupting influence of power, blending elements of classic gangster narratives with a focus on generational conflict and the challenges of maintaining tradition in a modern world. It offers a gritty and morally ambiguous portrayal of a criminal underworld, examining the personal costs of a life dedicated to illicit power and the struggle to reconcile family obligations with personal desires. The series aims to capture the epic scope and intricate character dynamics characteristic of Puzo's work, presenting a compelling and often tragic portrait of a family's rise and potential fall.",
+        "spoiler_rich_plot_summary": "The series opens with the Moretti family, led by the aging Don, attempting to transition their criminal empire into a more legitimate business. However, the Don's sons, particularly the ambitious and ruthless Dominic, resist this change, clinging to the traditional methods of organized crime. As Dominic seeks to consolidate his power, he clashes with his brothers and faces challenges from rival families and law enforcement agencies. The narrative follows the complex web of alliances, betrayals, and power struggles within the Moretti family, highlighting the sacrifices and compromises required to maintain their position. The Don's attempts to secure a future for his family are constantly undermined by Dominic's aggressive tactics and the inherent dangers of their lifestyle. The series culminates in a power struggle that threatens to tear the family apart, with devastating consequences for all involved, and a questioning of whether the legacy of the Don can truly endure.",
+        "categorized_keywords": {
+          "themes": [
+            "family-loyalty",
+            "power-corruption",
+            "generational-conflict",
+            "legacy",
+            "ambition",
+            "crime-and-punishment"
+          ],
+          "plot_and_concepts": [
+            "organized-crime",
+            "power-struggle",
+            "business-empire",
+            "crime-family",
+            "succession"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "dark",
+            "epic",
+            "tragic",
+            "tense"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "gangster-film",
+            "family-saga"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "ruthless-protagonist",
+            "aging-mentor",
+            "ambitious-heir"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "mob-boss",
+            "family-business",
+            "power-move",
+            "italian-heritage"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "crime",
+            "adult-themes"
+          ]
+        },
+        "keyword_sentence": "The Last Don is a gritty crime drama exploring themes of family loyalty and power corruption within a sprawling Italian-American crime family navigating the complexities of a modern business empire in New York City."
+      },
+      "duration_seconds": 64.46768355369568
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "MADtv",
+    "overview": "MADtv is an American sketch comedy television series originally inspired by Mad magazine. The one-hour show aired Saturday nights on Fox.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1995,
+    "vote_count": 103
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "MADtv is a fast-paced, sketch comedy series heavily influenced by Mad magazine's irreverent humor. The show relies on a rotating cast of performers to deliver a mix of pre-taped sketches and live improvisational segments. Its comedic style is characterized by absurdity, satire, and often pushing the boundaries of good taste. MADtv established itself as a significant alternative to established late-night talk shows and sitcoms, offering a more chaotic and unpredictable comedic experience.",
+        "spoiler_rich_plot_summary": "MADtv's format eschews a traditional narrative arc, instead presenting a series of unconnected sketches each episode. The show's strength lies in its ensemble cast and their ability to create memorable characters and recurring bits. Throughout its run, MADtv introduced numerous comedic talents who would later achieve mainstream success. While there's no overarching plot, the show's humor evolves over time, reflecting changing cultural trends and comedic sensibilities. Recurring characters and running gags become increasingly popular, solidifying the show's identity and fan base. The series concludes after a decade, leaving behind a legacy of irreverent and boundary-pushing comedy.",
+        "categorized_keywords": {
+          "themes": [
+            "satire",
+            "absurdity",
+            "pop-culture-parody",
+            "improv-comedy",
+            "sketch-comedy"
+          ],
+          "plot_and_concepts": [
+            "sketch-format",
+            "recurring-characters",
+            "running-gags",
+            "improv-segments"
+          ],
+          "mood_and_tone": [
+            "irreverent",
+            "fast-paced",
+            "chaotic",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "sketch-comedy",
+            "satirical-comedy",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "modern-day",
+            "studio-setting"
+          ],
+          "character_archetypes": [
+            "comedic-ensemble",
+            "satirical-characters"
+          ],
+          "narrative_style": [
+            "episodic",
+            "sketch-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "studio-audience",
+            "comedic-costumes",
+            "recurring-bits"
+          ],
+          "maturity_and_content": [
+            "crude-humor",
+            "suggestive-content"
+          ]
+        },
+        "keyword_sentence": "MADtv delivers a fast-paced, comedic experience through a sketch-format show filled with satirical characters and irreverent humor, often pushing boundaries with crude jokes and suggestive content."
+      },
+      "duration_seconds": 55.01561903953552
+    }
+  }
+}

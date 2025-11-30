@@ -1,0 +1,87 @@
+{
+  "input_data": {
+    "title": "The Wheel of Time",
+    "overview": "Follow Moiraine, a member of the shadowy and influential all-female organization called the “Aes Sedai” as she embarks on a dangerous, world-spanning journey with five young men and women. Moiraine believes one of them might be the reincarnation of an incredibly powerful individual, whom prophecies say will either save humanity or destroy it.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "release_year": 2021,
+    "vote_count": 1809
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Wheel of Time is a sprawling fantasy epic centered on a quest to identify a prophesied individual destined to either save or destroy the world. The series blends elements of high fantasy, political intrigue, and character-driven drama, exploring themes of destiny, free will, and the burden of responsibility. It follows a group of young people as they navigate a world steeped in ancient magic and threatened by a rising darkness, forcing them to confront their own identities and the weight of their potential. The series offers a grand scope and intricate world-building, appealing to fans of classic fantasy while maintaining a contemporary sensibility.",
+        "spoiler_rich_plot_summary": "The story begins in a remote village where Moiraine Damodred, an Aes Sedai, discovers that one of five young villagers is the Dragon Reborn, destined to either save the world from the Dark One or destroy it. She takes them on a perilous journey to the White Tower, encountering various factions and dangers along the way. As they travel, the group learns more about their individual powers and the prophecies surrounding them, facing betrayals and losses that test their bonds. Rand al'Thor, initially reluctant, grapples with the possibility that he is the Dragon Reborn, while others like Egwene and Perrin develop their own magical abilities. The group is pursued by Darkfriends and Trollocs, servants of the Dark One, and must confront the growing threat to the world. Throughout their journey, they encounter powerful allies and formidable enemies, uncovering secrets about the history of the world and the true nature of the forces at play. The series culminates in a confrontation with the Shadow, where the fate of the world hangs in the balance, forcing the characters to make difficult choices and confront their deepest fears.",
+        "categorized_keywords": {
+          "themes": [
+            "destiny",
+            "free-will",
+            "good-vs-evil",
+            "power-and-corruption",
+            "sacrifice",
+            "identity-quest"
+          ],
+          "plot_and_concepts": [
+            "prophecy",
+            "chosen-one",
+            "magic-system",
+            "political-intrigue",
+            "ancient-order",
+            "dark-lord"
+          ],
+          "mood_and_tone": [
+            "epic",
+            "dark",
+            "mysterious",
+            "hopeful",
+            "serious"
+          ],
+          "genre_and_tropes": [
+            "high-fantasy",
+            "quest-narrative",
+            "coming-of-age",
+            "found-family",
+            "magic-academy"
+          ],
+          "setting": [
+            "medieval-fantasy",
+            "alternate-world",
+            "vast-landscape",
+            "ancient-ruins"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "powerful-sorceress",
+            "loyal-warrior",
+            "dark-antagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "world-building"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "fantasy-fans"
+          ],
+          "detail_plot": [
+            "aes-sedai",
+            "dark-one",
+            "trollocs",
+            "one-power",
+            "dragon-reborn"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "magic-combat"
+          ]
+        },
+        "keyword_sentence": "The Wheel of Time is an epic fantasy series exploring themes of destiny and power as a group of young people embark on a perilous quest to confront a dark lord and fulfill an ancient prophecy."
+      },
+      "duration_seconds": 78.01791548728943
+    }
+  }
+}

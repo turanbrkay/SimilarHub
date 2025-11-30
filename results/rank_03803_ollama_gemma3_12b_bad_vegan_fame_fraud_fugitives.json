@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "Bad Vegan: Fame. Fraud. Fugitives.",
+    "overview": "After marrying a mysterious man who claimed he could make her dog immortal, a celebrated vegan restaurateur finds her life veering off the rails.",
+    "genres": [
+      "Documentary",
+      "Crime"
+    ],
+    "release_year": 2022,
+    "vote_count": 30
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Bad Vegan: Fame. Fraud. Fugitives. is a docuseries that explores the bizarre and unsettling story of Sarma Melngailis, a successful vegan restaurateur whose life spiraled into chaos after she married Anthony Strangis, a man who manipulated her into transferring millions of dollars. The series blends elements of true crime, financial fraud, and psychological manipulation, examining the dynamics of control and the allure of false promises. It delves into the complexities of Melngailis's personality and the circumstances that led her to trust Strangis, ultimately questioning the nature of belief and the vulnerability of even seemingly strong individuals. The series offers a cautionary tale about the dangers of unchecked trust and the potential for exploitation within relationships.",
+        "spoiler_rich_plot_summary": "The series begins by introducing Sarma Melngailis, a celebrated vegan restaurateur who built a thriving business, Pure Food and Wine, in New York City. Her life takes a dramatic turn when she meets Anthony Strangis, who initially presents himself as a spiritual guide and claims he can heal her dog. He gradually manipulates her, demanding increasingly large sums of money under the guise of protecting her and her dog. Sarma, increasingly isolated and under Anthony’s influence, begins transferring significant funds from her restaurant's accounts. As the financial discrepancies become more apparent, Sarma and Anthony flee New York, leading authorities on a cross-country chase. The series reveals the extent of Anthony’s deception, including his history of gambling debts and his manipulation of Sarma’s trust. Ultimately, they are apprehended, and Sarma faces legal consequences for her actions, while the series explores the aftermath of the scandal and the impact on those involved.",
+        "categorized_keywords": {
+          "themes": [
+            "financial-fraud",
+            "manipulation",
+            "trust",
+            "control",
+            "deception",
+            "vulnerability",
+            "isolation"
+          ],
+          "plot_and_concepts": [
+            "true-crime",
+            "cross-country-chase",
+            "spiritual-manipulation",
+            "gambling-debt"
+          ],
+          "mood_and_tone": [
+            "unsettling",
+            "cautionary",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "true-crime"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day",
+            "cross-country"
+          ],
+          "character_archetypes": [
+            "manipulator",
+            "vulnerable-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "vegan-restaurant",
+            "cross-country-flight",
+            "financial-records"
+          ],
+          "maturity_and_content": [
+            "financial-crime"
+          ]
+        },
+        "keyword_sentence": "Bad Vegan: Fame. Fraud. Fugitives. is a suspenseful true-crime documentary exploring themes of manipulation and financial fraud, set against the backdrop of a vegan restaurant in New York City and a cross-country flight from justice."
+      },
+      "duration_seconds": 74.97403168678284
+    }
+  }
+}

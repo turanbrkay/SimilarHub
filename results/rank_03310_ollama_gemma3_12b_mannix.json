@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Mannix",
+    "overview": "Mannix is an American television detective series that ran from 1967 through 1975 on CBS. Created by Richard Levinson and William Link and developed by executive producer Bruce Geller, the title character, Joe Mannix, is a private investigator. He is played by Mike Connors. Mannix was the last series produced by Desilu Productions.",
+    "genres": [
+      "Action & Adventure",
+      "Crime",
+      "Mystery",
+      "Drama"
+    ],
+    "release_year": 1967,
+    "vote_count": 40
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Mannix is a classic American detective series blending action, crime, and mystery elements. The show follows the investigations of private investigator Joe Mannix, navigating complex cases and often confronting powerful adversaries. Known for its stylish visuals and suspenseful plots, Mannix offers a compelling mix of procedural elements and character-driven drama, reflecting the sensibilities of late 1960s and 1970s television. The series distinguishes itself through its blend of action sequences and intricate mysteries, appealing to audiences seeking both thrilling action and engaging storytelling.",
+        "spoiler_rich_plot_summary": "The series begins with Joe Mannix working for the advertising agency Dawson-Neely. After a case involving a client's death, Mannix leaves the agency and establishes his own private investigation business. Throughout the series, Mannix takes on a wide range of cases, from missing persons to corporate espionage, often uncovering conspiracies and confronting dangerous criminals. He frequently finds himself at odds with powerful figures and organizations, leading to perilous situations and intense confrontations. As the series progresses, Mannix's personal life remains largely separate from his professional endeavors, although he occasionally encounters recurring characters and develops complex relationships with those involved in his cases. The show maintains a consistent narrative structure, with each episode presenting a self-contained mystery while contributing to a larger sense of Mannix's ongoing struggle against corruption and injustice.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "corruption",
+            "redemption",
+            "moral-ambiguity",
+            "private-investigation"
+          ],
+          "plot_and_concepts": [
+            "crime-procedural",
+            "mystery",
+            "conspiracy",
+            "missing-person",
+            "corporate-espionage"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "noir",
+            "gritty",
+            "serious"
+          ],
+          "genre_and_tropes": [
+            "detective-series",
+            "crime-drama",
+            "private-eye"
+          ],
+          "setting": [
+            "1960s-setting",
+            "1970s-setting",
+            "urban-setting"
+          ],
+          "character_archetypes": [
+            "private-eye",
+            "moral-protagonist",
+            "anti-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "private-investigation",
+            "office-building",
+            "city-streets",
+            "police-station"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Mannix is a suspenseful crime drama series set in the 1960s and 70s, following a private investigator as he navigates a world of corruption and mystery while upholding a personal code of justice."
+      },
+      "duration_seconds": 54.16093111038208
+    }
+  }
+}

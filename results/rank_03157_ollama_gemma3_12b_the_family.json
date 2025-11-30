@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "The Family",
+    "overview": "This thriller follows the return of a politician’s young son who was presumed dead after disappearing over a decade earlier. As the mysterious young man is welcomed back into his family, suspicions emerge — is he really who he says he is?",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2016,
+    "vote_count": 43
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Family is a suspenseful drama centered around a politician's family grappling with the unexpected return of their long-lost son. The series explores themes of identity, deception, and the fragility of family bonds, creating a tense atmosphere of uncertainty and paranoia. As the prodigal son reintegrates into their lives, unsettling secrets and hidden agendas begin to surface, challenging the family's perception of reality and forcing them to confront uncomfortable truths. The series blends elements of mystery and thriller, offering a compelling narrative driven by character dynamics and a pervasive sense of unease.",
+        "spoiler_rich_plot_summary": "The series begins with the shocking return of Adam, the presumed-dead son of politician Joseph Flynn. Welcomed back by his parents, Joseph and Isabella, and younger sister, Julie, Adam’s return is initially celebrated, but quickly becomes shadowed by inconsistencies and unsettling behavior. As Adam attempts to reconnect with his family, it becomes apparent that he is not entirely forthcoming about his past and the circumstances of his disappearance. Joseph, a powerful and ambitious politician, struggles to reconcile his public image with the potential scandal surrounding his son’s return. Isabella, Adam’s mother, becomes increasingly suspicious of his true identity, noticing subtle differences in his personality and memories. Julie, the younger sister, is initially thrilled to have her brother back but also experiences moments of discomfort and doubt. Throughout the series, flashbacks reveal fragmented memories of Adam’s childhood and the events leading up to his disappearance, hinting at a larger conspiracy and a hidden truth about his past. As the investigation into Adam’s return intensifies, it becomes clear that someone is manipulating events from the shadows, and the family must confront the possibility that the son they thought they knew is not who he claims to be, and that his return is part of a larger, more sinister plan.",
+        "categorized_keywords": {
+          "themes": [
+            "family-secrets",
+            "identity-crisis",
+            "deception",
+            "paranoia",
+            "redemption",
+            "political-intrigue"
+          ],
+          "plot_and_concepts": [
+            "missing-person",
+            "amnesia",
+            "false-identity",
+            "political-thriller",
+            "conspiracy"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "tense",
+            "mysterious"
+          ],
+          "genre_and_tropes": [
+            "thriller",
+            "mystery",
+            "drama",
+            "family-drama"
+          ],
+          "setting": [
+            "modern-day",
+            "suburban-setting",
+            "political-arena"
+          ],
+          "character_archetypes": [
+            "politician",
+            "reluctant-hero",
+            "enigmatic-stranger",
+            "concerned-mother",
+            "ambitious-father"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "flashbacks",
+            "mystery-box"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "family-portrait",
+            "political-rally",
+            "flashback-sequence",
+            "missing-photo"
+          ],
+          "maturity_and_content": [
+            "emotional-manipulation"
+          ]
+        },
+        "keyword_sentence": "This suspenseful drama explores themes of family secrets and political intrigue, following a family’s unsettling experience with the return of a long-lost son shrouded in mystery and deception."
+      },
+      "duration_seconds": 68.08546662330627
+    }
+  }
+}

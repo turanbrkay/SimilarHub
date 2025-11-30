@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Lost Ollie",
+    "overview": "A patchwork rabbit with floppy ears and fuzzy memories embarks on an epic quest to find his best friend — the young boy he desperately loves.",
+    "genres": [
+      "Animation",
+      "Family",
+      "Drama"
+    ],
+    "release_year": 2022,
+    "vote_count": 53
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Lost Ollie is a heartwarming animated drama that blends fantastical adventure with poignant themes of friendship, loss, and belonging. The series follows a beloved toy rabbit as he journeys through a series of interconnected stories, encountering diverse characters and navigating complex emotional landscapes. It explores the power of imagination, the importance of connection, and the enduring nature of love, offering a visually stunning and emotionally resonant experience for audiences of all ages. The series balances whimsical storytelling with moments of genuine emotional depth, creating a unique and captivating narrative.",
+        "spoiler_rich_plot_summary": "The story begins with Ollie, a patchwork rabbit created by a young boy named Billy, being separated from him during a family trip. Driven by his love for Billy and his fading memories, Ollie embarks on a quest to find him. His journey takes him through various interconnected stories, each featuring different characters and exploring themes of loss, hope, and the power of human connection. He encounters a diverse cast of individuals, some helpful, others hindering his progress, each leaving a lasting impact on his understanding of the world and his bond with Billy. As Ollie travels, he pieces together fragments of his past and the circumstances of his separation from Billy, revealing a more complex and bittersweet narrative than initially apparent. The series culminates in a poignant reunion, highlighting the enduring power of love and the importance of cherishing the bonds that shape our lives, while also acknowledging the inevitable passage of time and the bittersweet nature of memory.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "loss",
+            "memory",
+            "belonging",
+            "love",
+            "family",
+            "hope",
+            "cherishing-bonds"
+          ],
+          "plot_and_concepts": [
+            "quest",
+            "coming-of-age",
+            "interconnected-stories",
+            "lost-and-found",
+            "emotional-journey"
+          ],
+          "mood_and_tone": [
+            "heartwarming",
+            "poignant",
+            "whimsical",
+            "bittersweet",
+            "hopeful"
+          ],
+          "genre_and_tropes": [
+            "animated-drama",
+            "family-adventure",
+            "coming-of-age-story",
+            "found-family"
+          ],
+          "setting": [
+            "modern-day",
+            "diverse-locations",
+            "emotional-landscape"
+          ],
+          "character_archetypes": [
+            "lovable-toy",
+            "lost-child",
+            "compassionate-strangers"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-adventure"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "patchwork-rabbit",
+            "floppy-ears",
+            "fading-memories",
+            "lost-toy"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Lost Ollie is a heartwarming animated drama that follows a beloved patchwork rabbit on a poignant quest through diverse locations, exploring themes of friendship, loss, and the enduring power of love."
+      },
+      "duration_seconds": 59.90353965759277
+    }
+  }
+}

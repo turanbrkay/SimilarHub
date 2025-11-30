@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Downton Abbey",
+    "overview": "A chronicle of the lives of the aristocratic Crawley family and their servants in the post-Edwardian era—with great events in history having an effect on their lives and on the British social hierarchy.\n\n",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2010,
+    "vote_count": 855
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Downton Abbey is a historical drama series that explores the lives of an aristocratic family and their domestic staff in early 20th-century England. The series intricately weaves together the personal dramas of the wealthy Crawley family with the struggles and triumphs of the servants who maintain their estate. It examines themes of class, duty, tradition, and social change against the backdrop of significant historical events like World War I and the Spanish Flu pandemic. The show offers a blend of upstairs-downstairs dynamics, romantic entanglements, and a poignant reflection on a changing era.",
+        "spoiler_rich_plot_summary": "The series begins in 1912, introducing the Crawley family and their staff at Downton Abbey. A near-disaster involving a car accident and the death of the heir to the estate sets in motion a chain of events that will profoundly impact the family's future. World War I disrupts the established order, sending many of the male characters to the front lines and forcing the women to take on new responsibilities. The war's aftermath brings economic hardship and social upheaval, challenging the traditional hierarchies of Downton Abbey. Throughout the years, the series follows the romantic relationships and personal growth of the Crawley family members and their servants, including Mary, Edith, and Violet, as well as Anna, Bates, and Thomas. The series explores themes of inheritance, scandal, and the changing roles of women in society. Later seasons see the family navigating the post-war era, the rise of new technologies, and the changing social landscape, ultimately leading to a new generation taking charge of Downton Abbey and securing its future.",
+        "categorized_keywords": {
+          "themes": [
+            "class-conflict",
+            "social-change",
+            "family-legacy",
+            "duty-and-honor",
+            "romantic-entanglements",
+            "inheritance",
+            "tradition",
+            "grief"
+          ],
+          "plot_and_concepts": [
+            "upstairs-downstairs",
+            "historical-drama",
+            "inherited-estate",
+            "war-time-romance",
+            "social-mobility"
+          ],
+          "mood_and_tone": [
+            "melancholy",
+            "romantic",
+            "dramatic",
+            "nostalgic"
+          ],
+          "genre_and_tropes": [
+            "period-drama",
+            "historical-fiction",
+            "romantic-drama",
+            "family-saga"
+          ],
+          "setting": [
+            "england",
+            "early-20th-century",
+            "aristocratic-estate",
+            "rural-england"
+          ],
+          "character_archetypes": [
+            "aristocrat",
+            "servant",
+            "matriarch",
+            "romantic-lead",
+            "scheming-villain"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "generational-saga"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "manor-house",
+            "formal-garden",
+            "carriage",
+            "dinner-party",
+            "servants-quarters"
+          ],
+          "maturity_and_content": [
+            "social-inequality"
+          ]
+        },
+        "keyword_sentence": "Downton Abbey is a nostalgic and dramatic period drama that explores themes of class conflict and family legacy within the lives of an aristocratic family and their servants in early 20th-century England."
+      },
+      "duration_seconds": 71.32029938697815
+    }
+  }
+}

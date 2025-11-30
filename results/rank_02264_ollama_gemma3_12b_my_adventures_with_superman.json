@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "My Adventures with Superman",
+    "overview": "Twenty-somethings Clark Kent, the bright and driven Lois Lane, and their best friend Jimmy Olsen begin to discover who they are and everything they can accomplish together as an investigative reporting team at the Daily Planet.",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2023,
+    "vote_count": 79
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "My Adventures with Superman reimagines the classic Superman origin story with a focus on the early years of Clark Kent, Lois Lane, and Jimmy Olsen as they navigate their careers and discover their heroic potential. The series blends action-adventure with elements of science fiction and fantasy, offering a lighthearted and optimistic tone while exploring themes of friendship, self-discovery, and the responsibility that comes with extraordinary abilities. It's a coming-of-age story set against the backdrop of a vibrant and evolving Metropolis, appealing to a younger audience while retaining the core values of the Superman mythos.",
+        "spoiler_rich_plot_summary": "The series begins with Clark Kent arriving in Metropolis and quickly befriending Lois Lane and Jimmy Olsen. Lois, an ambitious reporter, is determined to make a name for herself at the Daily Planet, while Jimmy aspires to be a photojournalist. Clark, still learning to control his powers, struggles to balance his normal life with his burgeoning heroic identity. As they investigate strange occurrences and uncover a conspiracy involving Lex Luthor and his experiments, the trio gradually pieces together the truth about Clark's origins and the threat he represents to the world. Luthor's schemes escalate, forcing Clark to embrace his destiny as Superman and confront the challenges of protecting Metropolis and its inhabitants. The series follows their individual and collective growth as they face increasingly complex threats and solidify their roles as heroes.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "self-discovery",
+            "coming-of-age",
+            "heroism",
+            "responsibility",
+            "justice"
+          ],
+          "plot_and_concepts": [
+            "superhero-origin",
+            "investigative-journalism",
+            "conspiracy",
+            "secret-identity",
+            "scientific-experiment"
+          ],
+          "mood_and_tone": [
+            "optimistic",
+            "lighthearted",
+            "adventurous",
+            "humorous"
+          ],
+          "genre_and_tropes": [
+            "superhero-action",
+            "coming-of-age-story",
+            "found-family",
+            "mystery"
+          ],
+          "setting": [
+            "metropolis-city",
+            "modern-day",
+            "alternate-timeline"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "ambitious-reporter",
+            "loyal-friend"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult"
+          ],
+          "detail_plot": [
+            "daily-planet",
+            "superman-suit",
+            "lexcorp-tower"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "My Adventures with Superman is a lighthearted and adventurous young-adult series that follows a trio of friends as they discover their heroic potential and navigate the challenges of self-discovery in the vibrant city of Metropolis."
+      },
+      "duration_seconds": 59.51636815071106
+    }
+  }
+}

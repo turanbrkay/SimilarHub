@@ -1,0 +1,70 @@
+{
+  "input_data": {
+    "title": "Galactica 1980",
+    "overview": "30 years after the original Battlestar Galactica series. Upon reaching Earth, the inhabitants of the renegade starfleet take action when they realize earthlings aren't advanced enough to help battle the Cylons.",
+    "genres": [
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1980,
+    "vote_count": 70
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Galactica 1980 serves as a sequel to the original Battlestar Galactica, depicting the arrival of the Galactica fleet on Earth three decades after their initial departure. The series explores themes of technological dependence, societal progress, and the enduring threat of external conflict. It blends science fiction action with commentary on Earth's unpreparedness for interstellar warfare, presenting a narrative that examines the challenges of integrating advanced technology into a less developed society. The tone is generally optimistic, though tinged with the anxieties of a world facing an existential threat, and it aims to bridge the gap between the original series and a contemporary audience.",
+        "spoiler_rich_plot_summary": "Following their long journey, the survivors of the Galactica fleet finally reach Earth. However, they quickly discover that Earth's technological advancement has stagnated, and the planet is ill-equipped to defend itself against the Cylons, who are still relentlessly pursuing them. The Galactica crew attempts to share their advanced technology and military strategies with Earth's governments, but encounters resistance and skepticism due to political divisions and a reluctance to embrace radical change. As the Cylons launch a renewed assault, the Galactica fleet must work alongside Earth's forces, training them and providing crucial support while simultaneously dealing with internal conflicts and the challenges of adapting to a new environment. The series culminates in a large-scale battle where the combined forces of Galactica and Earth must confront the Cylons, ultimately securing a fragile peace but leaving the future uncertain.",
+        "categorized_keywords": {
+          "themes": [
+            "technological-dependence",
+            "societal-progress",
+            "external-conflict",
+            "political-division",
+            "fragile-peace"
+          ],
+          "plot_and_concepts": [
+            "space-opera",
+            "military-training",
+            "alien-invasion",
+            "technological-transfer"
+          ],
+          "mood_and_tone": [
+            "optimistic",
+            "anxious",
+            "action-oriented"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "space-exploration",
+            "military-drama"
+          ],
+          "setting": [
+            "earth",
+            "space",
+            "1980s"
+          ],
+          "character_archetypes": [
+            "military-leader",
+            "reluctant-hero",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "cylons",
+            "battlestar-galactica",
+            "space-ships",
+            "military-base"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Galactica 1980 is a science-fiction space opera set on Earth in the 1980s, exploring themes of technological dependence and external conflict as a fleet of survivors attempts to prepare a less advanced world for an ongoing alien invasion."
+      },
+      "duration_seconds": 60.19218420982361
+    }
+  }
+}

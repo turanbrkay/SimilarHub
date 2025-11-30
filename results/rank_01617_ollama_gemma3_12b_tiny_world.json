@@ -1,0 +1,68 @@
+{
+  "input_data": {
+    "title": "Tiny World",
+    "overview": "This docuseries showcases nature's lesser-known tiny heroes. Spotlighting small creatures and the extraordinary things they do to survive, each episode is filled with surprising stories and spectacular cinematography.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2020,
+    "vote_count": 129
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Tiny World is a visually stunning nature documentary series that focuses on the lives of small creatures, revealing their resilience and ingenuity in a world often dominated by larger animals. The series employs macro-cinematography to bring viewers intimately close to these tiny heroes, highlighting their struggles for survival and showcasing the beauty of the natural world from a unique perspective. It offers a blend of scientific observation and compelling storytelling, appealing to audiences interested in nature, wildlife, and visually captivating experiences. The series emphasizes the interconnectedness of ecosystems and the importance of even the smallest creatures within them.",
+        "spoiler_rich_plot_summary": "Each episode of Tiny World explores a different habitat and the miniature dramas unfolding within it. Viewers witness the intricate behaviors of insects, spiders, and other small animals as they navigate challenges like finding food, avoiding predators, and raising their young. The series often focuses on specific narratives, following individual creatures or small groups as they face adversity and demonstrate remarkable adaptability. While the series doesn't have a traditional overarching plot, each episode builds a sense of wonder and appreciation for the complexity of the natural world, revealing the constant struggle for survival and the delicate balance of ecosystems. The cinematography consistently emphasizes the scale of these creatures relative to their environment, creating a sense of intimacy and highlighting their often-overlooked importance.",
+        "categorized_keywords": {
+          "themes": [
+            "nature-survival",
+            "ecosystem-balance",
+            "miniature-world",
+            "animal-behavior",
+            "resilience"
+          ],
+          "plot_and_concepts": [
+            "macro-cinematography",
+            "wildlife-documentary",
+            "close-up-photography",
+            "animal-narrative"
+          ],
+          "mood_and_tone": [
+            "awe-inspiring",
+            "peaceful",
+            "educational",
+            "observational"
+          ],
+          "genre_and_tropes": [
+            "nature-documentary",
+            "wildlife-photography"
+          ],
+          "setting": [
+            "natural-habitats",
+            "micro-ecosystems"
+          ],
+          "character_archetypes": [
+            "resilient-creature",
+            "adaptable-animal"
+          ],
+          "narrative_style": [
+            "observational-storytelling"
+          ],
+          "target_audience": [
+            "family-audience",
+            "nature-lovers"
+          ],
+          "detail_plot": [
+            "macro-lens",
+            "insect-close-up",
+            "spider-web",
+            "leaf-habitat"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Tiny World offers a peaceful and awe-inspiring look at the miniature world of resilient creatures, showcasing the beauty of natural habitats through observational storytelling and macro-cinematography."
+      },
+      "duration_seconds": 56.99290108680725
+    }
+  }
+}

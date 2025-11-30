@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Trial by Media",
+    "overview": "In this true crime docuseries, some of the most dramatic trials of all time are examined with an emphasis on how the media may have impacted verdicts.",
+    "genres": [
+      "Documentary",
+      "Crime"
+    ],
+    "release_year": 2020,
+    "vote_count": 29
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Trial by Media is a documentary series that explores the intersection of high-profile trials and media coverage. Each episode examines a different case, analyzing how sensationalized reporting, public opinion, and the relentless pursuit of ratings may have influenced the legal proceedings and ultimately, the outcomes. The series delves into the ethical considerations of media's power and its potential to sway juries and shape perceptions of guilt and innocence. It offers a critical perspective on the role of journalism in the justice system and the potential for bias and manipulation. The series is structured around case studies, featuring interviews with legal experts, journalists, and individuals connected to the trials.",
+        "spoiler_rich_plot_summary": "The series examines several landmark trials, beginning with the Lindbergh kidnapping case and progressing through events like the Rodney King riots and the O.J. Simpson trial. Each episode meticulously reconstructs the legal proceedings while simultaneously detailing the media frenzy that surrounded them. The series highlights how media coverage often prioritized sensationalism and emotional narratives over factual accuracy, creating a distorted public perception of the defendants and the evidence. It demonstrates how the constant barrage of information, often biased or incomplete, can impact jury selection, influence witness testimony, and ultimately, contribute to verdicts that may not be solely based on legal merit. The series concludes by suggesting that the relationship between media and the justice system remains complex and requires ongoing scrutiny to ensure fairness and accountability.",
+        "categorized_keywords": {
+          "themes": [
+            "media-influence",
+            "justice-system",
+            "public-perception",
+            "ethics",
+            "accountability",
+            "legal-bias"
+          ],
+          "plot_and_concepts": [
+            "true-crime",
+            "documentary-series",
+            "case-study",
+            "trial-coverage"
+          ],
+          "mood_and_tone": [
+            "analytical",
+            "critical",
+            "investigative"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "crime-procedural"
+          ],
+          "setting": [
+            "united-states",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "journalist",
+            "legal-expert",
+            "defendant"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "investigative-journalism"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "courtroom-scene",
+            "news-broadcast",
+            "police-investigation",
+            "jury-selection"
+          ],
+          "maturity_and_content": [
+            "legal-proceedings",
+            "sensitive-topics"
+          ]
+        },
+        "keyword_sentence": "This documentary series critically examines how media coverage has shaped high-profile legal cases, influencing public perception and raising ethical questions about the justice system's fairness."
+      },
+      "duration_seconds": 70.60457825660706
+    }
+  }
+}

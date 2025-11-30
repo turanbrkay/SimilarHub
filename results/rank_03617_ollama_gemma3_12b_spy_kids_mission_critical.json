@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Spy Kids: Mission Critical",
+    "overview": "In this animated spinoff series, Juni and Carmen Cortez must battle the evil organization S.W.A.M.P. -- without the help of their super-spy parents.",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Kids"
+    ],
+    "release_year": 2018,
+    "vote_count": 33
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Spy Kids: Mission Critical is an animated action-adventure series geared towards a younger audience, serving as a spinoff of the Spy Kids film franchise. The show follows Juni and Carmen Cortez as they navigate espionage missions while their parents are unavailable. It blends comedic elements with action sequences, emphasizing themes of family, responsibility, and resourcefulness. The series aims to provide a lighthearted and engaging experience for children, showcasing the challenges and rewards of being a young spy.",
+        "spoiler_rich_plot_summary": "The series begins with Juni and Carmen Cortez facing a new threat: S.W.A.M.P., a shadowy organization determined to disrupt global peace. With their parents mysteriously absent, the siblings must step up and take on the mantle of spies, utilizing their unique skills and gadgets to thwart S.W.A.M.P.'s schemes. Throughout the series, they encounter various quirky villains and allies, each presenting new challenges and forcing them to grow as spies and as a family. The siblings learn to rely on each other and their own ingenuity to overcome obstacles, often uncovering deeper conspiracies related to S.W.A.M.P.'s origins and the reasons behind their parents' absence. While the siblings initially struggle with the weight of their responsibilities, they ultimately embrace their roles as protectors, demonstrating the importance of teamwork and perseverance in the face of danger. The series culminates in a confrontation with the leader of S.W.A.M.P., revealing a personal connection to the Cortez family and setting the stage for future missions.",
+        "categorized_keywords": {
+          "themes": [
+            "family-loyalty",
+            "responsibility",
+            "resourcefulness",
+            "coming-of-age",
+            "teamwork"
+          ],
+          "plot_and_concepts": [
+            "spy-thriller",
+            "secret-organization",
+            "gadget-based",
+            "mystery",
+            "heist"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "comedic",
+            "action-packed",
+            "adventurous"
+          ],
+          "genre_and_tropes": [
+            "animated-series",
+            "kids-adventure",
+            "spy-genre",
+            "found-family"
+          ],
+          "setting": [
+            "modern-day",
+            "global-locations"
+          ],
+          "character_archetypes": [
+            "young-hero",
+            "sibling-dynamic",
+            "mentor-figure"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-adventure"
+          ],
+          "target_audience": [
+            "kids",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "spy-gadgets",
+            "secret-headquarters",
+            "villain-lair"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Spy Kids: Mission Critical is a lighthearted animated series for kids and families, following young spies as they navigate thrilling adventures and uncover secrets while embracing themes of family loyalty and resourcefulness."
+      },
+      "duration_seconds": 82.42666840553284
+    }
+  }
+}

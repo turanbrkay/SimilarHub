@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "The Passage",
+    "overview": "A post-apocalyptic story about a botched U.S. government experiment that turns a group of death row inmates into highly infectious vampires, and an orphan girl who might be the only person able to stop the ensuing crisis.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Drama"
+    ],
+    "release_year": 2019,
+    "vote_count": 314
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Passage is a post-apocalyptic drama series centered on a failed government experiment that unleashes a viral outbreak, transforming inmates into vampires. The narrative follows a young girl believed to hold the key to stopping the crisis, alongside a former FBI agent grappling with his past involvement in the project. The series blends elements of science fiction, action, and suspense, exploring themes of sacrifice, redemption, and the consequences of unchecked scientific ambition. It offers a dark and intense viewing experience, punctuated by action sequences and emotional character arcs.",
+        "spoiler_rich_plot_summary": "The series begins with a flashback to 1996, detailing Project Noah, a government initiative to create super-soldiers using a mysterious virus derived from ancient cave paintings. Death row inmates are subjected to the virus, transforming them into powerful, vampiric beings known as the virals. In the present day, a young orphan named Amy Bellafonte is revealed to be immune to the virus and potentially holds the key to stopping the impending apocalypse. Former FBI agent Sean Rycoff, haunted by his past involvement in Project Noah, is tasked with protecting Amy while confronting the consequences of his actions. As the virals spread and threaten to overwhelm society, Rycoff and a team of specialists race against time to understand Amy's abilities and find a way to neutralize the virus. The narrative explores the moral complexities of the experiment, the sacrifices made by those involved, and the desperate fight for survival against an overwhelming threat. Amy's true nature and connection to the virus become increasingly important as the series progresses, revealing a deeper, more complex history tied to the origins of the virus itself. The fight for survival leads to difficult choices and significant losses, ultimately shaping the future of what remains of humanity.",
+        "categorized_keywords": {
+          "themes": [
+            "sacrifice",
+            "redemption",
+            "scientific-ambition",
+            "survival",
+            "moral-complexity",
+            "loss",
+            "hope"
+          ],
+          "plot_and_concepts": [
+            "post-apocalyptic",
+            "viral-outbreak",
+            "super-soldier-program",
+            "vampire-politics",
+            "government-conspiracy",
+            "time-flashback"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "intense",
+            "suspenseful",
+            "grim",
+            "action-packed"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "action-adventure",
+            "drama",
+            "found-family",
+            "government-cover-up"
+          ],
+          "setting": [
+            "post-apocalyptic-america",
+            "modern-day",
+            "government-laboratory"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "haunted-protagonist",
+            "innocent-child",
+            "moral-grey-antagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "flashback-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "viral-strain",
+            "government-facility",
+            "death-row-inmates",
+            "ancient-cave-paintings"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "body-horror"
+          ]
+        },
+        "keyword_sentence": "The Passage is a dark and intense science-fiction drama series set in a post-apocalyptic America, exploring themes of sacrifice and redemption as a viral outbreak transforms death row inmates and a young girl holds the key to humanity's survival."
+      },
+      "duration_seconds": 69.32594704627991
+    }
+  }
+}

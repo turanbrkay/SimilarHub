@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "My So-Called Life",
+    "overview": "The life of a 15 year-old high school student, whose angst-ridden journey through adolescence, friendship, parents, and life teaches her what it means to grow up.",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "release_year": 1994,
+    "vote_count": 112
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "My So-Called Life is a coming-of-age drama that explores the complexities of adolescence through the eyes of Angela Chase. The series blends humor and pathos, portraying the awkwardness, confusion, and emotional intensity of teenage life with remarkable honesty and sensitivity. It delves into themes of identity, family dynamics, and the search for belonging, resonating with viewers through its relatable characters and authentic portrayal of the teenage experience. The show's impact lies in its willingness to confront difficult topics and its nuanced depiction of a young woman navigating the challenges of growing up.",
+        "spoiler_rich_plot_summary": "The series follows Angela Chase as she begins her sophomore year at McKinley High School. Initially struggling with feelings of isolation and a sense of not belonging, Angela gradually forms close friendships with Dawn Summers and Jordan Franks. Throughout the first season, Angela grapples with her parents' strained marriage, her burgeoning sexuality, and her complicated relationship with her English teacher, Mr. Buhman. She experiences the joys and heartbreaks of first love, navigating the complexities of romantic relationships and the pain of rejection. As the series progresses, Angela confronts deeper issues related to her family history and her own identity, leading to moments of profound self-discovery and emotional growth. While the series was abruptly cancelled, the narrative arc leaves Angela poised on the cusp of adulthood, having gained a greater understanding of herself and the world around her, though with many unresolved issues lingering.",
+        "categorized_keywords": {
+          "themes": [
+            "adolescence",
+            "identity-quest",
+            "family-dynamics",
+            "first-love",
+            "social-isolation",
+            "self-discovery"
+          ],
+          "plot_and_concepts": [
+            "coming-of-age",
+            "teen-drama",
+            "high-school-life"
+          ],
+          "mood_and_tone": [
+            "melancholy",
+            "realistic",
+            "sensitive",
+            "angsty"
+          ],
+          "genre_and_tropes": [
+            "teen-drama",
+            "slice-of-life"
+          ],
+          "setting": [
+            "1990s",
+            "suburban-america",
+            "high-school"
+          ],
+          "character_archetypes": [
+            "angsty-teenager",
+            "wise-friend",
+            "disapproving-parent"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "character-driven"
+          ],
+          "target_audience": [
+            "young-adult",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "school-lockers",
+            "vinyl-records",
+            "corduroy-jacket",
+            "spiral-notebook"
+          ],
+          "maturity_and_content": [
+            "emotional-trauma",
+            "parental-conflict"
+          ]
+        },
+        "keyword_sentence": "My So-Called Life portrays a sensitive and realistic coming-of-age story set in 1990s suburban America, exploring themes of adolescence, identity, and family dynamics through the eyes of an angsty teenager."
+      },
+      "duration_seconds": 62.90019416809082
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Casualty",
+    "overview": "Drama series about the staff and patients at Holby City Hospital's emergency department, charting the ups and downs in their personal and professional lives.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 1986,
+    "vote_count": 68
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Casualty is a long-running British medical drama series that focuses on the lives of doctors, nurses, and patients within the emergency department of Holby City Hospital. The show explores the emotional and professional challenges faced by the medical staff as they deal with a constant stream of trauma and crisis. Known for its realistic portrayal of emergency medicine and its focus on character development, Casualty blends medical procedural elements with interpersonal drama, offering a grounded and often poignant look at the human experience within a high-pressure environment. The series consistently examines themes of resilience, compassion, and the complexities of healthcare.",
+        "spoiler_rich_plot_summary": "Casualty debuted in 1986, initially focusing on a small team of doctors and nurses navigating the daily realities of a busy emergency room. Early seasons established the core characters and their relationships, showcasing the demanding nature of their work and the personal sacrifices they make. As the series progressed, the hospital underwent numerous changes, including staff turnover, departmental restructuring, and technological advancements. Recurring storylines involved complex medical cases, personal tragedies, and professional conflicts, often exploring ethical dilemmas and the impact of healthcare on individuals and families. Over the decades, characters have faced career setbacks, romantic entanglements, and devastating losses, shaping the evolving landscape of Holby City Hospital. While the series maintains a focus on medical emergencies, it also delves into the personal lives of the staff, revealing their vulnerabilities and triumphs. The show has consistently addressed contemporary social issues through its storylines, reflecting the changing face of British society and the challenges faced by the National Health Service.",
+        "categorized_keywords": {
+          "themes": [
+            "medical-ethics",
+            "compassion",
+            "resilience",
+            "loss",
+            "family",
+            "duty",
+            "sacrifice"
+          ],
+          "plot_and_concepts": [
+            "medical-procedural",
+            "emergency-medicine",
+            "hospital-drama",
+            "staff-relationships",
+            "patient-stories"
+          ],
+          "mood_and_tone": [
+            "realistic",
+            "poignant",
+            "emotional",
+            "grounded"
+          ],
+          "genre_and_tropes": [
+            "medical-drama",
+            "procedural-drama",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "uk",
+            "hospital-setting",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "dedicated-doctor",
+            "compassionate-nurse",
+            "experienced-paramedic"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "ambulance",
+            "operating-theater",
+            "icu-unit",
+            "medical-records",
+            "x-ray-machine"
+          ],
+          "maturity_and_content": [
+            "medical-trauma",
+            "bereavement"
+          ]
+        },
+        "keyword_sentence": "Casualty is a long-running British medical drama series that realistically portrays the emotional and professional lives of hospital staff as they navigate challenging medical cases and personal struggles within a modern-day hospital setting."
+      },
+      "duration_seconds": 63.06673717498779
+    }
+  }
+}

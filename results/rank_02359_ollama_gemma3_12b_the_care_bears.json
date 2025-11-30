@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "The Care Bears",
+    "overview": "The Care Bears live in a faraway place up in the clouds called Care-a-Lot. They travel around the world on Missions in Caring, whilst evil villains such as Professor Coldheart and Lord No Heart, try to thwart their plans.",
+    "genres": [
+      "Kids",
+      "Animation",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1985,
+    "vote_count": 74
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Care Bears is a children's animated series centered around a group of cuddly bears with unique symbols on their bellies, each representing a positive emotion or virtue. Living in the whimsical cloud-realm of Care-a-Lot, the bears embark on missions to spread caring and kindness throughout the world, often confronting villains who seek to spread negativity. The series emphasizes themes of friendship, empathy, and the power of positive emotions, offering a gentle and heartwarming experience for young viewers. Its blend of fantasy and gentle moral lessons makes it a classic in children's entertainment.",
+        "spoiler_rich_plot_summary": "The series initially introduces the Care Bears and their home, Care-a-Lot, a place filled with rainbows and caring energy. Professor Coldheart, a recurring antagonist, frequently attempts to steal the Caring Cloud, the source of Care-a-Lot's power, to spread gloom and despair across the world. The Care Bears, aided by their cousins and various human children, consistently thwart his plans, restoring balance and promoting kindness. Throughout the series, new Care Bears are introduced, each with their own unique abilities and caring missions. Lord No Heart emerges as another significant threat, further complicating the Care Bears' efforts to maintain harmony. The overarching narrative revolves around the ongoing battle between caring and negativity, with the Care Bears serving as beacons of hope and compassion.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "empathy",
+            "kindness",
+            "positive-emotions",
+            "caring",
+            "optimism",
+            "good-vs-evil"
+          ],
+          "plot_and_concepts": [
+            "magical-realm",
+            "mission-based",
+            "villain-encounter",
+            "caring-cloud",
+            "transformation"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "heartwarming",
+            "gentle",
+            "optimistic",
+            "playful"
+          ],
+          "genre_and_tropes": [
+            "childrens-animation",
+            "fantasy",
+            "found-family",
+            "magical-creatures"
+          ],
+          "setting": [
+            "cloud-realm",
+            "care-a-lot",
+            "whimsical-world"
+          ],
+          "character_archetypes": [
+            "caring-hero",
+            "wholesome-mentor",
+            "villainous-antagonist"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "young-children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "caring-bear-belly-badges",
+            "rainbow-bridge",
+            "professor-coldheart-lair",
+            "caring-starlight"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Care Bears, a group of lovable bears living in a whimsical cloud-realm, spread kindness and caring throughout the world, battling negativity and promoting friendship in a heartwarming and optimistic children's animation."
+      },
+      "duration_seconds": 64.37795352935791
+    }
+  }
+}

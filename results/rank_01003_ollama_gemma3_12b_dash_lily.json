@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Dash & Lily",
+    "overview": "A whirlwind holiday romance builds as cynical Dash and optimistic Lily trade dares, dreams, and desires in the notebook they pass back and forth at locations all across New York City.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2020,
+    "vote_count": 256
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Dash & Lily is a charming romantic comedy series centered around two teenagers, Dash and Lily, who connect through a notebook filled with dares and heartfelt messages left at various locations throughout New York City. The series explores themes of connection, vulnerability, and self-discovery as the pair navigate their differences and gradually fall for each other. It offers a lighthearted and festive viewing experience, blending humor with moments of genuine emotional depth, and showcasing the magic of the holiday season.",
+        "spoiler_rich_plot_summary": "The series begins with Lily, an optimistic and artistic girl, leaving a notebook filled with dares and personal reflections in a New York City bookstore, hoping to connect with someone. Dash, a cynical and brooding teenager, discovers the notebook and responds with his own challenges and thoughts, initiating a playful and increasingly intimate exchange. Through the dares, they learn about each other's lives, families, and past experiences, revealing vulnerabilities and hidden depths. As they continue to interact through the notebook, they begin to seek each other out in person, leading to awkward encounters and growing feelings. However, secrets and misunderstandings threaten to derail their budding romance, forcing them to confront their own insecurities and the complexities of their families. Ultimately, they must learn to trust each other and overcome obstacles to find a lasting connection.",
+        "categorized_keywords": {
+          "themes": [
+            "holiday-romance",
+            "self-discovery",
+            "connection",
+            "vulnerability",
+            "family-dynamics",
+            "optimism",
+            "cynicism"
+          ],
+          "plot_and_concepts": [
+            "dare-game",
+            "notebook-exchange",
+            "romantic-comedy",
+            "coming-of-age"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "festive",
+            "romantic"
+          ],
+          "genre_and_tropes": [
+            "teen-romance",
+            "holiday-film",
+            "opposites-attract"
+          ],
+          "setting": [
+            "new-york-city",
+            "christmas-season"
+          ],
+          "character_archetypes": [
+            "optimistic-protagonist",
+            "brooding-protagonist",
+            "artistic-teenager"
+          ],
+          "narrative_style": [
+            "serialized-story"
+          ],
+          "target_audience": [
+            "young-adult",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "notebook",
+            "christmas-lights",
+            "new-york-bookstore",
+            "holiday-decorations"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Dash & Lily is a lighthearted and festive romantic comedy series set in New York City during the Christmas season, exploring themes of connection and self-discovery through a charming notebook exchange between an optimistic and a brooding teenager."
+      },
+      "duration_seconds": 53.419257164001465
+    }
+  }
+}

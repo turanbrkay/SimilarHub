@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Them",
+    "overview": "A limited anthology series that explores terror in America.",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2021,
+    "vote_count": 284
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Them is an anthology horror series that uses historical settings to explore themes of racial terror and societal trauma in America. Each season focuses on a different story and time period, examining the psychological and emotional toll of systemic oppression and the enduring legacy of violence. The series blends elements of horror, drama, and social commentary, creating a disturbing and unsettling viewing experience that challenges audiences to confront uncomfortable truths about American history. Its anthology format allows for diverse narratives and perspectives, while maintaining a consistent tone of dread and suspense. The series aims to provoke reflection on the ongoing impact of racial injustice and the complexities of the American experience.",
+        "spoiler_rich_plot_summary": "The inaugural season of Them is set in 1953 and follows the Emory family – a Black family who escapes racial prejudice in North Carolina to seek a seemingly better life in Compton, California. Initially, they appear to have achieved the American Dream, but their newfound peace is shattered by a relentless campaign of terror orchestrated by their white neighbors. The family faces escalating acts of vandalism, psychological manipulation, and outright violence, designed to drive them out of their home. As the attacks intensify, the family's fragile sense of security unravels, and they are forced to confront the deep-seated racism and hatred that permeates their new community. The mother, Livia, grapples with her own past traumas and increasingly erratic behavior, blurring the lines between reality and delusion. The series culminates in a harrowing confrontation, revealing the full extent of the community's malice and the devastating consequences of racial prejudice. The Emory family's pursuit of a better life becomes a tragic illustration of the enduring challenges faced by Black Americans in the mid-20th century.",
+        "categorized_keywords": {
+          "themes": [
+            "racial-terror",
+            "social-trauma",
+            "family-dynamics",
+            "american-dream",
+            "psychological-horror",
+            "identity-crisis",
+            "historical-injustice"
+          ],
+          "plot_and_concepts": [
+            "anthology-series",
+            "home-invasion",
+            "psychological-manipulation",
+            "revenge-plot",
+            "historical-drama"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "suspenseful",
+            "disturbing",
+            "unsettling",
+            "oppressive"
+          ],
+          "genre_and_tropes": [
+            "horror",
+            "drama",
+            "social-commentary",
+            "historical-fiction"
+          ],
+          "setting": [
+            "1950s-america",
+            "california",
+            "suburban-setting"
+          ],
+          "character_archetypes": [
+            "oppressed-family",
+            "tormented-mother",
+            "bigoted-neighbor",
+            "reluctant-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "anthology-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "suburban-house",
+            "hate-letters",
+            "vandalism",
+            "police-car",
+            "family-portrait"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "racial-slurs",
+            "psychological-abuse"
+          ]
+        },
+        "keyword_sentence": "Them is a dark and unsettling anthology series that explores the enduring legacy of racial terror and social trauma within a historical American setting, using psychological horror to examine the struggles of a family seeking a better life."
+      },
+      "duration_seconds": 67.31577944755554
+    }
+  }
+}

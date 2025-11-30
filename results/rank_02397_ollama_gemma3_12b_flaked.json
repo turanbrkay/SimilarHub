@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Flaked",
+    "overview": "In his funky California beach enclave, Chip's the go-to guy for personal insights. But he isn't quite as enlightened when it comes to his own baggage.",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "release_year": 2016,
+    "vote_count": 71
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Flaked is a dramedy series exploring themes of identity, self-deception, and the search for meaning within a seemingly idyllic California setting. The show follows Chip, a man who presents himself as a spiritual guru to his community, while secretly grappling with his own flaws and insecurities. It blends comedic elements with moments of genuine emotional depth, examining the complexities of human connection and the challenges of maintaining a facade. The series offers a nuanced portrayal of a man struggling to reconcile his public persona with his private struggles, ultimately questioning the authenticity of self-help culture and the pursuit of enlightenment.",
+        "spoiler_rich_plot_summary": "The series begins with Chip, a charismatic figure in Venice Beach, California, who leads a support group and cultivates an image of wisdom and serenity. However, his carefully constructed persona begins to unravel as his past indiscretions and ongoing struggles with addiction resurface. His relationship with his best friend, Lloyd, is tested as Chip's lies and manipulations are exposed. A romantic entanglement with a new arrival, Caroline, further complicates matters, forcing Chip to confront the consequences of his actions. As his carefully built world begins to crumble, Chip's attempts to maintain control become increasingly desperate, leading to a confrontation with his past and a reckoning with the truth about himself. The series culminates in a dramatic unraveling of Chip's facade, leaving his community and himself to grapple with the fallout of his deception.",
+        "categorized_keywords": {
+          "themes": [
+            "self-deception",
+            "identity-crisis",
+            "redemption",
+            "addiction",
+            "authenticity",
+            "spiritual-seeking",
+            "male-friendship"
+          ],
+          "plot_and_concepts": [
+            "support-group",
+            "false-guru",
+            "romantic-entanglement",
+            "fall-from-grace",
+            "confessional-narrative"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "somber",
+            "melancholy",
+            "satirical"
+          ],
+          "genre_and_tropes": [
+            "dramedy",
+            "satirical-comedy",
+            "character-driven",
+            "slice-of-life"
+          ],
+          "setting": [
+            "venice-beach",
+            "california",
+            "coastal-setting",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "conflicted-protagonist",
+            "best-friend",
+            "romantic-interest"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "support-group-meeting",
+            "beach-setting",
+            "surfboard",
+            "coffee-shop"
+          ],
+          "maturity_and_content": [
+            "substance-abuse",
+            "sexual-content"
+          ]
+        },
+        "keyword_sentence": "Flaked is a darkly comic dramedy set in coastal California, exploring themes of self-deception and addiction as a conflicted protagonist struggles to maintain a false image of enlightenment."
+      },
+      "duration_seconds": 63.51622748374939
+    }
+  }
+}

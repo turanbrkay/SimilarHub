@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "My Cat from Hell",
+    "overview": "From cats that break up relationships to violent felines that put their owners in the hospital, cat behaviorist Jackson Galaxy has seen it all. Follow Jackson as he brings his unique understanding of cats to desperate families on the verge of giving up on their furry companions.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2011,
+    "vote_count": 33
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "My Cat from Hell is a reality television series that follows cat behaviorist Jackson Galaxy as he assists families struggling with problematic feline behavior. The show blends elements of animal behavior science with a human-interest format, offering both practical advice for viewers and a glimpse into the complex relationships between humans and their pets. It explores the underlying causes of cat misbehavior, ranging from anxiety and boredom to territorial disputes, and provides solutions to restore harmony within the household. The series appeals to cat owners seeking guidance and offers a lighthearted, often humorous, look at the challenges of pet ownership.",
+        "spoiler_rich_plot_summary": "Each episode of My Cat from Hell typically begins with a family describing the behavioral issues they are experiencing with their cat, which can range from aggression and scratching to excessive meowing and destructive habits. Jackson Galaxy then assesses the cat's environment, observing its interactions with the family and other pets. He identifies the root causes of the behavior, which often stem from a lack of stimulation, anxiety, or territorial issues. Jackson then implements a tailored plan, which may involve environmental modifications, behavioral training techniques, and dietary changes. The series follows the implementation of these strategies, showcasing the gradual improvement in the cat's behavior and the renewed sense of peace within the family. While specific cases vary, the overarching narrative arc involves the restoration of balance and understanding between humans and their feline companions.",
+        "categorized_keywords": {
+          "themes": [
+            "animal-behavior",
+            "human-animal-bond",
+            "family-relationships",
+            "problem-solving",
+            "pet-ownership"
+          ],
+          "plot_and_concepts": [
+            "reality-tv",
+            "animal-rescue",
+            "behavioral-modification",
+            "expert-advice"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "humorous",
+            "informative",
+            "positive"
+          ],
+          "genre_and_tropes": [
+            "reality-tv",
+            "animal-show",
+            "expert-advice"
+          ],
+          "setting": [
+            "domestic-setting",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "expert",
+            "animal-behaviorist",
+            "family"
+          ],
+          "narrative_style": [
+            "episodic",
+            "case-study"
+          ],
+          "target_audience": [
+            "pet-owners",
+            "animal-lovers"
+          ],
+          "detail_plot": [
+            "cat-toys",
+            "scratching-post",
+            "cat-carrier",
+            "feline-behavior"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "My Cat from Hell is a lighthearted reality television show that explores the challenges of pet ownership and offers expert advice on feline behavior within the domestic setting."
+      },
+      "duration_seconds": 70.18054008483887
+    }
+  }
+}

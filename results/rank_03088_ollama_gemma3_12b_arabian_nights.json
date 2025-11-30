@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Arabian Nights",
+    "overview": "Targeted for assassination by his first wife and his evil brother, a young sultan must marry by the next full moon or he will lose his kingdom. His uncertainty over his newfound bride causes her to stall the sultan with a series of fantastic stories to ease the tension and stall her impending execution.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Family"
+    ],
+    "release_year": 2000,
+    "vote_count": 45
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Arabian Nights is a visually stunning action-adventure film blending live-action with CGI animation, drawing inspiration from the classic Middle Eastern folktales. The narrative centers on a young sultan facing a desperate situation, complicated by political intrigue and a unique marital arrangement. The film explores themes of trust, deception, and the power of storytelling, offering a fantastical and action-packed experience suitable for a family audience. Its unique blend of practical effects and digital animation creates a vibrant and memorable cinematic world.",
+        "spoiler_rich_plot_summary": "The film opens with Prince Shahzaman, heir to the throne, discovering a plot by his vengeful first wife, Princess Kamar, and his power-hungry brother, Prince Kush. To save his kingdom, Shahzaman must marry by the next full moon or forfeit his crown. He chooses a bride from a group of veiled women, unaware that he has selected Princess Kamar’s sister, Princess Shazadi. Shazadi, fearing execution, stalls the marriage by recounting a series of elaborate and fantastical tales, each designed to entertain and delay her fate. These stories, brought to life through stunning CGI, feature djinn, mythical creatures, and perilous adventures. As the stories unfold, Shahzaman becomes increasingly captivated by Shazadi’s wit and imagination, and begins to question the motives of his first wife and brother. The film culminates in a confrontation where the truth is revealed, and Shahzaman must choose between his kingdom and his heart, ultimately leading to a resolution that balances justice and compassion.",
+        "categorized_keywords": {
+          "themes": [
+            "trust-betrayal",
+            "political-intrigue",
+            "fate-destiny",
+            "redemption",
+            "power-corruption",
+            "storytelling-magic"
+          ],
+          "plot_and_concepts": [
+            "arranged-marriage",
+            "stall-for-time",
+            "folktales",
+            "djinn",
+            "revenge-plot",
+            "political-conspiracy"
+          ],
+          "mood_and_tone": [
+            "fantastical",
+            "adventurous",
+            "suspenseful",
+            "whimsical",
+            "epic"
+          ],
+          "genre_and_tropes": [
+            "fantasy-adventure",
+            "middle-eastern-mythology",
+            "epic-quest",
+            "found-family"
+          ],
+          "setting": [
+            "middle-east",
+            "ancient-kingdom",
+            "fantastical-realm"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "scheming-villain",
+            "wise-woman",
+            "scheming-prince"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "frame-story"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "veiled-bride",
+            "flying-carpet",
+            "magic-lamp",
+            "flying-creatures",
+            "royal-palace"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Arabian Nights is a fantastical and adventurous film set in an ancient kingdom, where political intrigue and the power of storytelling intertwine to create an epic quest filled with magic and danger for a family audience."
+      },
+      "duration_seconds": 65.55827450752258
+    }
+  }
+}

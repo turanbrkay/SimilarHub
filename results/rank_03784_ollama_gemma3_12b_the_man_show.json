@@ -1,0 +1,67 @@
+{
+  "input_data": {
+    "title": "The Man Show",
+    "overview": "The Man Show is an American comedy television show on Comedy Central. It was created in 1999 by its two original co-hosts, Jimmy Kimmel and Adam Carolla, and their executive producer Daniel Kellison.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1999,
+    "vote_count": 31
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Man Show is a comedic talk show that emerged in 1999, initially hosted by Jimmy Kimmel and Adam Carolla. The show's premise revolves around male-oriented humor, featuring discussions, games, and segments designed to appeal to a male audience. It established a casual, conversational style, often pushing boundaries with its content. While initially popular, the show's format and humor have aged, reflecting the comedic landscape of the late 1990s and early 2000s. The show's legacy lies in its influence on subsequent male-focused talk shows and its role in shaping a particular brand of comedic irreverence.",
+        "spoiler_rich_plot_summary": "The Man Show began with Jimmy Kimmel and Adam Carolla as the primary hosts, engaging in discussions about masculinity, relationships, and pop culture. The show's format was largely improvisational, with segments often evolving organically from the hosts' banter. Recurring features included games, stunts, and interviews with celebrities. As the show progressed, Kimmel departed, and several other hosts rotated through the role, each bringing their own comedic style. The show's humor often involved pushing boundaries and exploring taboo subjects, reflecting a particular comedic sensibility of the era. While the show didn't have a traditional narrative arc, it evolved over its run, adapting to changing comedic trends and audience preferences. The show concluded its run after several seasons, leaving behind a legacy of irreverent male-focused humor.",
+        "categorized_keywords": {
+          "themes": [
+            "masculinity",
+            "humor",
+            "pop-culture",
+            "relationships",
+            "friendship"
+          ],
+          "plot_and_concepts": [
+            "talk-show",
+            "improvised-comedy",
+            "games",
+            "stunts",
+            "interviews"
+          ],
+          "mood_and_tone": [
+            "irreverent",
+            "casual",
+            "comedic",
+            "lighthearted"
+          ],
+          "genre_and_tropes": [
+            "talk-show",
+            "male-comedy"
+          ],
+          "setting": [
+            "studio-setting",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "comedian",
+            "host"
+          ],
+          "narrative_style": [
+            "episodic",
+            "improvised"
+          ],
+          "target_audience": [
+            "male-viewers"
+          ],
+          "detail_plot": [
+            "studio-audience",
+            "comedic-segments"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Man Show delivered lighthearted, male-focused comedy through improvised segments and casual banter in a studio setting."
+      },
+      "duration_seconds": 63.94656538963318
+    }
+  }
+}

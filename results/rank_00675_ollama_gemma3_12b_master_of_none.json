@@ -1,0 +1,69 @@
+{
+  "input_data": {
+    "title": "Master of None",
+    "overview": "30-year-old New York actor Dev takes on such pillars of maturity as the first big job, a serious relationship, and busting sex offenders on the subway.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2015,
+    "vote_count": 423
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Master of None is a comedy-drama series that follows the life of Dev, a 30-year-old actor navigating the complexities of modern life in New York City. The show blends observational humor with poignant explorations of relationships, career aspirations, and cultural identity. It eschews traditional sitcom tropes, opting for a more episodic and character-driven narrative style. The series is notable for its naturalistic dialogue, its willingness to tackle sensitive topics, and its innovative use of visual techniques. Ultimately, it's a thoughtful and often funny examination of what it means to grow up in the 21st century.",
+        "spoiler_rich_plot_summary": "The series begins with Dev, an actor with limited success, attempting to secure a role in a commercial. This initial struggle sets the tone for his ongoing quest for professional fulfillment and personal growth. Throughout the first season, Dev explores various relationships, both romantic and platonic, often with awkward and humorous results. He grapples with his career ambitions, his family's expectations, and his own insecurities. The second season shifts focus, dedicating an entire episode to Dev's childhood and his parents' immigration story, providing crucial context for his present-day struggles. Later seasons delve deeper into Dev's personal life, including his marriage and his evolving understanding of his identity and his place in the world. The series concludes with Dev and his wife embracing parenthood, signifying a new chapter in their lives and a continued journey of self-discovery.",
+        "categorized_keywords": {
+          "themes": [
+            "identity-quest",
+            "relationships",
+            "career-ambition",
+            "family-dynamics",
+            "cultural-identity",
+            "modern-life"
+          ],
+          "plot_and_concepts": [
+            "episodic-storytelling",
+            "slice-of-life",
+            "observational-comedy"
+          ],
+          "mood_and_tone": [
+            "comedic",
+            "poignant",
+            "naturalistic",
+            "thoughtful"
+          ],
+          "genre_and_tropes": [
+            "comedy-drama",
+            "slice-of-life",
+            "found-family"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "everyman"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-storytelling"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "subway-car",
+            "casting-call",
+            "family-dinner"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Master of None is a comedic drama series set in modern-day New York City, exploring themes of identity, relationships, and career ambition through a thoughtful and naturalistic slice-of-life narrative."
+      },
+      "duration_seconds": 57.29422950744629
+    }
+  }
+}

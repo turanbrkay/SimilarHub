@@ -1,0 +1,85 @@
+{
+  "input_data": {
+    "title": "Alfred Hitchcock Presents",
+    "overview": "A television anthology series hosted by Alfred Hitchcock featuring dramas, thrillers, and mysteries.",
+    "genres": [
+      "Mystery",
+      "Drama",
+      "Crime"
+    ],
+    "release_year": 1955,
+    "vote_count": 182
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Alfred Hitchcock Presents is a pioneering anthology series that showcases a diverse range of suspenseful and often darkly comedic stories. Hosted by the iconic Alfred Hitchcock, each episode presents a self-contained narrative exploring themes of paranoia, deception, and the unsettling underbelly of everyday life. The series blends elements of mystery, crime, and psychological drama, creating a consistently unsettling and engaging viewing experience. Hitchcock's presence as host adds a layer of playful menace, guiding the audience through the twists and turns of each story with his signature wit and style. The show's enduring appeal lies in its ability to deliver expertly crafted suspense and explore the darker aspects of human nature.",
+        "spoiler_rich_plot_summary": "Each episode of Alfred Hitchcock Presents tells a unique and self-contained story, meaning there is no overarching narrative or continuing plotline. The stories frequently revolve around ordinary individuals finding themselves in extraordinary and dangerous circumstances. Common themes include mistaken identity, blackmail, revenge, and the consequences of greed. Many episodes feature unexpected twists and turns, often subverting audience expectations and leaving a lingering sense of unease. While the series doesn's have a traditional ending, the recurring motif is the exploration of human flaws and the unsettling realization that appearances can be deceiving. The stories often conclude with a sense of moral ambiguity, leaving the viewer to ponder the complexities of human behavior and the fragility of trust. Hitchcock's presence as host underscores the unsettling nature of the narratives, often providing ironic commentary on the events unfolding.",
+        "categorized_keywords": {
+          "themes": [
+            "deception",
+            "paranoia",
+            "revenge",
+            "moral-ambiguity",
+            "suspense",
+            "irony",
+            "fate",
+            "justice"
+          ],
+          "plot_and_concepts": [
+            "anthology-series",
+            "mystery",
+            "crime",
+            "blackmail",
+            "mistaken-identity",
+            "twist-ending",
+            "red-herring"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "darkly-comic",
+            "unsettling",
+            "eerie",
+            "noir"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "mystery-drama",
+            "noir-fiction",
+            "anthology-drama"
+          ],
+          "setting": [
+            "1950s-america",
+            "urban-setting",
+            "domestic-setting"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "victim",
+            "manipulator",
+            "ordinary-person"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "self-contained-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "shadowy-figure",
+            "telephone-call",
+            "locked-room",
+            "unexpected-visitor"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "psychological-themes"
+          ]
+        },
+        "keyword_sentence": "Alfred Hitchcock Presents is a suspenseful anthology series set in 1950s America, exploring themes of deception and paranoia through darkly comic mystery dramas with unexpected twists and unsettling psychological themes."
+      },
+      "duration_seconds": 63.94286274909973
+    }
+  }
+}

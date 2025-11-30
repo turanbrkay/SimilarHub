@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Baymax!",
+    "overview": "Return to the fantastical city of San Fransokyo where the affable, inflatable, inimitable healthcare companion robot, Baymax, sets out to do what he was programmed to do: help others.",
+    "genres": [
+      "Animation",
+      "Family"
+    ],
+    "release_year": 2022,
+    "vote_count": 202
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Baymax! is a heartwarming animated series that revisits the world of San Fransokyo, focusing on the titular healthcare companion robot's efforts to assist the city's residents. The series blends humor and gentle life lessons as Baymax navigates various situations, offering support and demonstrating the importance of empathy and connection. It's a family-friendly show that emphasizes kindness and problem-solving, maintaining the charm and optimism of the original film while expanding the scope of Baymax's interactions with the community. The series offers a comforting and uplifting viewing experience, suitable for audiences of all ages.",
+        "spoiler_rich_plot_summary": "The series follows Baymax as he embarks on a series of missions to help the citizens of San Fransokyo, often encountering unique and quirky individuals facing personal challenges. Each episode typically involves Baymax identifying a need within the community, analyzing the situation, and devising a plan to provide assistance, often with the help of Hiro Hamada and the rest of the Big Hero 6 team. While Baymax's methods are often unconventional and lead to humorous misunderstandings, his genuine desire to help consistently shines through. The overarching narrative explores themes of community, responsibility, and the evolving relationship between technology and human connection, showcasing Baymax's growth as he learns to better understand and respond to the complexities of human emotions and needs. The series concludes with Baymax solidifying his role as a beloved and essential part of San Fransokyo, demonstrating the power of compassion and the importance of looking out for one another.",
+        "categorized_keywords": {
+          "themes": [
+            "compassion",
+            "community",
+            "friendship",
+            "healthcare",
+            "problem-solving",
+            "empathy"
+          ],
+          "plot_and_concepts": [
+            "healthcare-robot",
+            "problem-solving",
+            "community-service",
+            "inflatable-robot"
+          ],
+          "mood_and_tone": [
+            "heartwarming",
+            "optimistic",
+            "lighthearted",
+            "gentle",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "family-comedy",
+            "slice-of-life",
+            "animated-comedy"
+          ],
+          "setting": [
+            "san-fransokyo",
+            "futuristic-city",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "healthcare-companion",
+            "reluctant-hero",
+            "innocent-protagonist"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "inflatable-suit",
+            "healthcare-scan",
+            "robot-design"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Baymax! is a heartwarming and lighthearted animated series set in the futuristic city of San Fransokyo, where a compassionate healthcare robot strives to help others and embodies the importance of community and empathy."
+      },
+      "duration_seconds": 60.89113140106201
+    }
+  }
+}

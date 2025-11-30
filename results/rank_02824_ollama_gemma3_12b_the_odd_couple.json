@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "The Odd Couple",
+    "overview": "Felix and Oscar are two divorced men. Felix is neat and tidy while Oscar is sloppy and casual. They share a Manhattan apartment, and their different lifestyles inevitably lead to conflicts.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1970,
+    "vote_count": 54
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Odd Couple is a classic sitcom centered on the comedic clash between two divorced men, Felix Unger and Oscar Madison, who are forced to share an apartment. The series explores the humorous consequences of their drastically different personalities and lifestyles, highlighting the challenges of cohabitation and the unexpected bonds that can form between unlikely companions. With its focus on character-driven comedy and relatable relationship dynamics, The Odd Couple offers a lighthearted and enduring portrayal of friendship and compromise.",
+        "spoiler_rich_plot_summary": "Felix Unger, a meticulous and neurotic divorcee, finds himself without a place to live after his wife asks him to leave. His old college roommate, Oscar Madison, a slobbish and carefree bachelor, reluctantly offers him a room in his spacious Manhattan apartment. The series follows their daily interactions, which are consistently fraught with conflict due to their opposing habits and personalities. Felix's obsessive cleanliness clashes with Oscar's chaotic lifestyle, leading to a constant stream of misunderstandings and comedic mishaps. Throughout the series, they navigate romantic entanglements, social gatherings, and professional challenges, often relying on each other for support despite their frequent disagreements. While their relationship remains turbulent, a genuine friendship develops, demonstrating the power of acceptance and the importance of finding common ground even amidst significant differences. The series concludes with both men finding a degree of personal growth and a deeper appreciation for their unconventional bond.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "cohabitation",
+            "compromise",
+            "divorce",
+            "male-bonding",
+            "opposites-attract"
+          ],
+          "plot_and_concepts": [
+            "buddy-comedy",
+            "fish-out-of-water",
+            "sitcom-format",
+            "roommate-comedy"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "humorous",
+            "wholesome",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "romantic-comedy",
+            "classic-tv"
+          ],
+          "setting": [
+            "new-york-city",
+            "manhattan-apartment",
+            "1970s"
+          ],
+          "character_archetypes": [
+            "neat-freak",
+            "slacker",
+            "neurotic-character",
+            "easygoing-character"
+          ],
+          "narrative_style": [
+            "episodic-format",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "poker-game",
+            "messy-apartment",
+            "cleanliness-obsession",
+            "manhattan-brownstone"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Odd Couple is a lighthearted sitcom set in 1970s New York City, exploring the humorous challenges of friendship and cohabitation between a meticulous neat-freak and a carefree slacker."
+      },
+      "duration_seconds": 58.69287085533142
+    }
+  }
+}

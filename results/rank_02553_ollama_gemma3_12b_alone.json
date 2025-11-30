@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Alone",
+    "overview": "Hardcore survivalists are put by themselves in the Vancouver Island wilderness, without camera crews, teams, or producers – on a single mission to stay alive for as long as possible.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2015,
+    "vote_count": 64
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Alone is a reality television series that places survivalists in a remote wilderness setting, stripping away the typical production support found in most survival shows. The premise focuses on the psychological and physical endurance of individuals facing extreme isolation and environmental challenges. The series explores themes of self-reliance, resilience, and the human relationship with nature, offering a raw and often unsettling portrayal of survival. It distinguishes itself through its minimalist approach, emphasizing the contestants' internal struggles and the unforgiving power of the natural world. The show's appeal lies in its suspenseful nature and the opportunity to witness the limits of human capability.",
+        "spoiler_rich_plot_summary": "Each season of Alone begins with a group of survivalists dropped off in a challenging wilderness location, typically Vancouver Island, British Columbia. They are provided with a limited selection of gear and must then attempt to survive for as long as possible, documenting their experiences through cameras attached to their person. The 'plot' revolves around the gradual depletion of resources, the onset of injuries and illnesses, and the psychological toll of prolonged isolation. Contestants face constant threats from the environment, including harsh weather, dangerous wildlife, and the scarcity of food. As time passes, the contestants' strategies evolve, and they often encounter setbacks that force them to adapt or tap into reserves of ingenuity. The series culminates when contestants tap out, citing physical or mental exhaustion, or when the predetermined time limit expires. The last person remaining is declared the winner, a testament to their survival skills and mental fortitude.",
+        "categorized_keywords": {
+          "themes": [
+            "survival",
+            "isolation",
+            "resilience",
+            "self-reliance",
+            "human-nature",
+            "mental-fortitude"
+          ],
+          "plot_and_concepts": [
+            "survival-challenge",
+            "elimination-format",
+            "wilderness-exploration"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "gritty",
+            "unflinching",
+            "isolated"
+          ],
+          "genre_and_tropes": [
+            "reality-tv",
+            "survival-show",
+            "contest-format"
+          ],
+          "setting": [
+            "vancouver-island",
+            "wilderness",
+            "remote-location",
+            "pacific-northwest"
+          ],
+          "character_archetypes": [
+            "survivalist",
+            "lone-wolf",
+            "outdoor-expert"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "contest-format"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "outdoor-enthusiasts"
+          ],
+          "detail_plot": [
+            "survival-kit",
+            "camera-equipment",
+            "wilderness-terrain",
+            "fishing-gear",
+            "shelter-building"
+          ],
+          "maturity_and_content": [
+            "graphic-injuries",
+            "animal-death"
+          ]
+        },
+        "keyword_sentence": "Alone is a suspenseful reality television series that explores themes of survival, isolation, and resilience as contestants test their self-reliance in the unforgiving wilderness of Vancouver Island."
+      },
+      "duration_seconds": 64.0932879447937
+    }
+  }
+}

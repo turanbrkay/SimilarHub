@@ -1,0 +1,70 @@
+{
+  "input_data": {
+    "title": "Muppet Babies",
+    "overview": "The Muppet Babies (Kermit, Piggy, Gonzo, Fozzy and company) live in a large nursery watched over by Nanny. The babies have active imaginations, and often embark upon adventures into imaginary worlds.",
+    "genres": [
+      "Animation",
+      "Kids"
+    ],
+    "release_year": 1984,
+    "vote_count": 103
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Muppet Babies is a charming animated series aimed at preschool audiences, showcasing the imaginative play of Kermit, Piggy, Gonzo, Fozzy, and their friends under the care of Nanny. The show blends gentle humor with creative storytelling, transporting viewers to fantastical worlds born from the babies' playful minds. It emphasizes friendship, cooperation, and the power of imagination, offering a comforting and whimsical viewing experience for young children and nostalgic adults alike. The series' enduring appeal lies in its simple premise and the timeless appeal of the Muppets.",
+        "spoiler_rich_plot_summary": "The series revolves around the daily routines and imaginative games of the Muppet Babies. Each episode typically begins with the babies gathering in the nursery, where they engage in a shared activity or discuss a topic that sparks their imaginations. Nanny, their caretaker, provides a supportive and nurturing environment, often participating in their games or offering gentle guidance. The babies then embark on imaginative adventures, transforming the nursery into a pirate ship, a jungle, or a spaceship, among other fantastical settings. These adventures are driven by their playful interactions and the power of their collective imagination. While conflicts may arise during these games, they are always resolved through cooperation and understanding, reinforcing the importance of friendship and empathy. The series maintains a consistent tone and structure throughout its run, focusing on the joys of childhood and the magic of make-believe, without significant overarching plot developments or dramatic resolutions.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "imagination",
+            "childhood",
+            "make-believe",
+            "cooperation",
+            "nurturing"
+          ],
+          "plot_and_concepts": [
+            "imaginative-play",
+            "day-in-the-life",
+            "preschool-setting"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "lighthearted",
+            "gentle",
+            "playful"
+          ],
+          "genre_and_tropes": [
+            "childrens-animation",
+            "slice-of-life",
+            "found-family"
+          ],
+          "setting": [
+            "nursery-setting",
+            "imaginary-worlds"
+          ],
+          "character_archetypes": [
+            "innocent-child",
+            "nurturing-caregiver"
+          ],
+          "narrative_style": [
+            "episodic-storytelling"
+          ],
+          "target_audience": [
+            "preschool-audience",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "nursery-decor",
+            "toy-animals",
+            "coloring-books",
+            "play-clothes"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Muppet Babies is a lighthearted and wholesome children's animation series that celebrates the power of imagination and friendship through the playful adventures of a group of adorable characters in a nurturing nursery setting."
+      },
+      "duration_seconds": 59.77497363090515
+    }
+  }
+}

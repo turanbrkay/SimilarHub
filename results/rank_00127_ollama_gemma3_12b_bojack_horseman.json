@@ -1,0 +1,90 @@
+{
+  "input_data": {
+    "title": "BoJack Horseman",
+    "overview": "Meet the most beloved sitcom horse of the 90s - 20 years later. BoJack Horseman was the star of the hit TV show \"Horsin' Around,\" but today he's washed up, living in Hollywood, complaining about everything, and wearing colorful sweaters.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2014,
+    "vote_count": 2083
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "BoJack Horseman is an animated comedy-drama series that explores the complexities of fame, depression, and addiction through the lens of a washed-up sitcom star. The show blends absurdist humor with poignant character studies, examining the consequences of past actions and the challenges of personal growth. It's a darkly comedic exploration of Hollywood's superficiality and the enduring search for meaning and connection. The series is notable for its unflinching portrayal of mental health struggles and its willingness to challenge conventional sitcom tropes.",
+        "spoiler_rich_plot_summary": "The series begins with BoJack Horseman, a former star of the 1990s sitcom 'Horsin' Around,' reluctantly agreeing to be the subject of a tell-all biography written by journalist Diane Nguyen. As BoJack confronts his past and the reasons behind his current state of disillusionment, he grapples with unresolved trauma, substance abuse, and a pattern of self-destructive behavior. The biography's publication sparks a series of events that force BoJack to confront his relationships with his ex-girlfriend Princess Carolyn, his former rival Mr. Peanutbutter, and his human friend Todd Chavez. Throughout the series, BoJack attempts to find happiness and redemption, often sabotaging his own efforts and hurting those around him. He experiences periods of professional success, including a stint on a new sitcom, but these are consistently overshadowed by his personal struggles. The series culminates in a confrontation with BoJack's past, forcing him to acknowledge his responsibility for his actions and consider a path toward genuine change, though the ultimate resolution remains ambiguous, reflecting the ongoing nature of personal growth and the difficulty of escaping one's past.",
+        "categorized_keywords": {
+          "themes": [
+            "fame-and-fortune",
+            "depression",
+            "addiction",
+            "redemption",
+            "regret",
+            "identity-crisis",
+            "generational-trauma",
+            "hollywood-culture"
+          ],
+          "plot_and_concepts": [
+            "satirical-comedy",
+            "tell-all-biography",
+            "rehabilitation",
+            "found-family",
+            "time-travel",
+            "alternate-timeline"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "melancholy",
+            "absurdist",
+            "satirical",
+            "cynical"
+          ],
+          "genre_and_tropes": [
+            "animated-comedy",
+            "satirical-drama",
+            "coming-of-age",
+            "anti-hero",
+            "tragicomedy"
+          ],
+          "setting": [
+            "hollywood-california",
+            "modern-day",
+            "alternate-timeline"
+          ],
+          "character_archetypes": [
+            "washed-up-celebrity",
+            "struggling-artist",
+            "ambitious-agent",
+            "naive-optimist",
+            "eccentric-sidekick"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "horsin-around-sitcom",
+            "hollywood-bowl",
+            "pink-roses",
+            "peach-sorbet",
+            "secret-ocean-house"
+          ],
+          "maturity_and_content": [
+            "substance-abuse",
+            "sexual-content",
+            "graphic-violence",
+            "emotional-abuse"
+          ]
+        },
+        "keyword_sentence": "BoJack Horseman is a darkly comedic and melancholic animated series that satirically explores themes of fame, addiction, and redemption within the superficial landscape of Hollywood, ultimately examining the challenges of personal growth and the enduring search for meaning."
+      },
+      "duration_seconds": 76.58442568778992
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "Adam Ruins Everything",
+    "overview": "Host Adam Conover employs a combination of comedy, history and science to dispel widespread misconceptions about everything we take for granted.",
+    "genres": [
+      "Comedy",
+      "Documentary"
+    ],
+    "release_year": 2015,
+    "vote_count": 78
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Adam Ruins Everything is a comedic documentary series that deconstructs common beliefs and practices, revealing the often-surprising realities behind them. Hosted by Adam Conover, the show blends humor with factual information, challenging viewers to reconsider their assumptions about everyday life. The series' tone is lighthearted and engaging, making complex topics accessible and entertaining. It's a show that encourages critical thinking and offers a unique blend of education and amusement.",
+        "spoiler_rich_plot_summary": "Each episode of Adam Ruins Everything focuses on a specific topic, such as weddings, coffee, or pizza, and systematically dismantles popular myths and misconceptions surrounding it. Adam, often with the assistance of a guest expert, presents evidence and arguments to expose the flaws in conventional wisdom. The show's format typically involves a playful debate, where Adam attempts to 'ruin' the guest's beliefs, leading to humorous and informative exchanges. While there isn't a central narrative arc, the series consistently reinforces the importance of questioning assumptions and seeking evidence-based understanding. The show concludes each episode by offering alternative perspectives and encouraging viewers to adopt more informed practices.",
+        "categorized_keywords": {
+          "themes": [
+            "critical-thinking",
+            "misconceptions",
+            "evidence-based",
+            "knowledge-seeking",
+            "challenging-assumptions"
+          ],
+          "plot_and_concepts": [
+            "deconstruction",
+            "myth-busting",
+            "educational-comedy",
+            "debate-format"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "humorous",
+            "informative",
+            "engaging"
+          ],
+          "genre_and_tropes": [
+            "mockumentary",
+            "educational-entertainment",
+            "comedy-documentary"
+          ],
+          "setting": [
+            "modern-day",
+            "various-locations"
+          ],
+          "character_archetypes": [
+            "skeptic",
+            "expert",
+            "host"
+          ],
+          "narrative_style": [
+            "episodic",
+            "themed-episodes"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "general-audience"
+          ],
+          "detail_plot": [
+            "infographics",
+            "expert-interviews",
+            "comedic-sketches"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Adam Ruins Everything is a lighthearted and engaging comedy documentary series that uses humor and expert interviews to challenge common misconceptions and encourage critical thinking about everyday life."
+      },
+      "duration_seconds": 51.6502890586853
+    }
+  }
+}

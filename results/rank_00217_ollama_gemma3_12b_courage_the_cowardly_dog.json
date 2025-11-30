@@ -1,0 +1,86 @@
+{
+  "input_data": {
+    "title": "Courage the Cowardly Dog",
+    "overview": "The bizarre misadventures of a cowardly dog named Courage and his elderly owners in a farmhouse in Nowhere, Kansas.",
+    "genres": [
+      "Family",
+      "Sci-Fi & Fantasy",
+      "Animation",
+      "Comedy"
+    ],
+    "release_year": 1999,
+    "vote_count": 1340
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Courage the Cowardly Dog is an animated series blending absurdist comedy, psychological horror, and heartfelt family dynamics. The show follows Courage, a small dog adopted by an elderly couple, as he repeatedly confronts bizarre and terrifying supernatural threats in their isolated farmhouse. While ostensibly a children's show, it explores themes of fear, responsibility, and the importance of facing adversity, often with unsettling imagery and surreal storytelling. The series' unique blend of humor and horror creates a distinctive and memorable viewing experience, appealing to both children and adults.",
+        "spoiler_rich_plot_summary": "The series revolves around Courage, Muriel and Eustace Bagge, who live in the middle of Nowhere, Kansas. Their seemingly peaceful existence is constantly disrupted by a relentless stream of monstrous creatures and bizarre phenomena. Each episode typically presents a new threat, ranging from simple, comical antagonists to deeply unsettling and psychologically disturbing entities. Courage, despite his name, consistently rises to the occasion, using his wits and bravery to protect his owners, often at great personal cost. Throughout the series, hints are dropped about the Bagges' mysterious past and the true nature of Nowhere, suggesting a deeper, more sinister reality beneath the surface of their everyday lives. While the specific threats vary wildly, a recurring theme is the underlying sense of dread and the feeling that the Bagges are trapped in a cycle of fear and survival. The series concludes with a sense of unresolved mystery, leaving the audience to ponder the true nature of Courage's world and the fate of the Bagges.",
+        "categorized_keywords": {
+          "themes": [
+            "fear",
+            "courage",
+            "family-loyalty",
+            "isolation",
+            "responsibility",
+            "supernatural",
+            "absurdism"
+          ],
+          "plot_and_concepts": [
+            "monster-of-the-week",
+            "psychological-horror",
+            "surrealism",
+            "small-town-mystery",
+            "alternate-reality"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "unsettling",
+            "whimsical",
+            "eerie",
+            "absurdist"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "comedy",
+            "sci-fi",
+            "fantasy",
+            "family-audience"
+          ],
+          "setting": [
+            "rural-america",
+            "middle-america",
+            "alternate-timeline",
+            "isolated-farmhouse"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "elderly-couple",
+            "cowardly-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "isolated-farmhouse",
+            "eustace-bagge",
+            "muriel-bagge",
+            "nowhere-kansas",
+            "monster-truck"
+          ],
+          "maturity_and_content": [
+            "surreal-imagery",
+            "mild-horror"
+          ]
+        },
+        "keyword_sentence": "Courage the Cowardly Dog is a darkly comic animated series that explores themes of fear and responsibility through surreal and unsettling adventures in the isolated setting of rural America."
+      },
+      "duration_seconds": 65.12539315223694
+    }
+  }
+}

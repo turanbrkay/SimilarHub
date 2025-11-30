@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "The Bullwinkle Show",
+    "overview": "A variety show, with the main feature being the serialized adventures of the two title characters, the anthropomorphic moose Bullwinkle and flying squirrel Rocky. The main adversaries in most of their adventures are the Russian-like spies Boris Badenov and Natasha Fatale. Supporting segments include Dudley Do-Right, Peabody's Improbable History, and Fractured Fairy Tales, among others.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "release_year": 1959,
+    "vote_count": 45
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Bullwinkle Show is a classic animated variety show blending serialized comedic adventures with recurring sketch segments. Centered around the escapades of Moose and Squirrel, the series utilizes slapstick humor and witty satire, often poking fun at Cold War anxieties through exaggerated caricatures. The show’s appeal lies in its family-friendly nature, clever writing, and memorable characters, establishing a legacy as a cornerstone of American animation. It’s a lighthearted and consistently entertaining program, perfect for audiences of all ages.",
+        "spoiler_rich_plot_summary": "The series primarily follows the ongoing rivalry between Moose and Squirrel and the bumbling spies Boris Badenov and Natasha Fatale. Each serialized adventure typically involves Boris and Natasha attempting to carry out a nefarious scheme, often involving elaborate disguises and convoluted plans, which Moose and Squirrel must thwart. These schemes frequently target the United States, and the duo's attempts to succeed are consistently undermined by their own incompetence and the intervention of the heroic Mountie, Dudley Do-Right. Recurring segments like 'Peabody's Improbable History' and 'Fractured Fairy Tales' provide comedic relief and further enrich the show's whimsical world. While the overarching conflict remains consistent, each episode presents a fresh and inventive challenge for the heroes and villains, culminating in humorous resolutions and reaffirming the triumph of good over evil. The show’s episodic nature means that while there’s a continuous narrative thread, there are no major, permanent character changes or dramatic shifts in the status quo.",
+        "categorized_keywords": {
+          "themes": [
+            "good-vs-evil",
+            "friendship",
+            "patriotism",
+            "satire",
+            "comedy"
+          ],
+          "plot_and_concepts": [
+            "spy-parody",
+            "serialized-story",
+            "sketch-comedy",
+            "disguise",
+            "slapstick-humor"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "silly"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "family-comedy",
+            "parody",
+            "classic-cartoon"
+          ],
+          "setting": [
+            "canada",
+            "cold-war-era",
+            "animated-world"
+          ],
+          "character_archetypes": [
+            "heroic-mountie",
+            "bumbling-villains",
+            "anthropomorphic-animals"
+          ],
+          "narrative_style": [
+            "episodic",
+            "sketch-format",
+            "serialized-segments"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "mountie-hat",
+            "flying-squirrel",
+            "russian-accent",
+            "animated-forest"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Bullwinkle Show is a lighthearted and comedic animated series that satirizes Cold War anxieties through the episodic adventures of heroic animals and bumbling spies, offering wholesome entertainment for the whole family."
+      },
+      "duration_seconds": 58.746946811676025
+    }
+  }
+}

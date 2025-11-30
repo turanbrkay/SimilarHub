@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Masada",
+    "overview": "A Roman general leads the epic 1st-century siege of Masada, the mountain fortress where more than 900 Jews made a heroic stand against 5,000 Roman soldiers.",
+    "genres": [
+      "Drama",
+      "Action & Adventure"
+    ],
+    "release_year": 1981,
+    "vote_count": 45
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Masada is a historical drama centered on the Roman siege of the ancient Jewish fortress. The series explores themes of resistance, faith, and the cost of freedom against overwhelming odds. It blends action and adventure with a focus on the psychological and moral dilemmas faced by both the Jewish defenders and the Roman forces. The narrative emphasizes the clash of cultures and the enduring human spirit in the face of annihilation, offering a visually striking and emotionally charged depiction of a pivotal moment in history.",
+        "spoiler_rich_plot_summary": "The series begins with a depiction of the Roman Empire's expansion into Judea and the subsequent Jewish revolt. A small group of Jewish rebels, led by the charismatic Judah Ben-Gurion, escapes the Roman advance and finds refuge atop the mountain fortress of Masada. As the Romans, commanded by Flavius Silva, relentlessly close in, the defenders face dwindling resources and internal conflicts. Silva, initially seeking a peaceful surrender, becomes increasingly determined to capture Masada, employing innovative siege tactics and engineering marvels. The Jewish defenders, facing inevitable defeat, debate whether to fight to the death or attempt a desperate escape. Ultimately, they choose defiance, preparing for a final stand against the Roman legions. The series culminates in a dramatic and tragic finale as the Romans breach the fortress walls, leading to a mass suicide among the Jewish defenders to avoid capture and slavery, solidifying their legacy as symbols of resistance.",
+        "categorized_keywords": {
+          "themes": [
+            "resistance",
+            "faith",
+            "freedom",
+            "sacrifice",
+            "cultural-clash",
+            "defiance",
+            "legacy"
+          ],
+          "plot_and_concepts": [
+            "siege-warfare",
+            "historical-drama",
+            "mass-suicide",
+            "roman-empire",
+            "jewish-revolt"
+          ],
+          "mood_and_tone": [
+            "epic",
+            "tragic",
+            "somber",
+            "heroic"
+          ],
+          "genre_and_tropes": [
+            "historical-epic",
+            "war-drama",
+            "underdog-story"
+          ],
+          "setting": [
+            "ancient-judea",
+            "masada-fortress",
+            "1st-century"
+          ],
+          "character_archetypes": [
+            "charismatic-leader",
+            "ruthless-general",
+            "zealous-defender"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "historical-account"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "roman-siege-engine",
+            "masada-fortress-walls",
+            "jewish-scrolls",
+            "roman-legionaries"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "suicide-themes"
+          ]
+        },
+        "keyword_sentence": "Masada is a tragic and epic historical drama depicting a desperate Jewish resistance against the Roman Empire, culminating in a somber act of defiance and sacrifice atop a formidable fortress."
+      },
+      "duration_seconds": 60.21153140068054
+    }
+  }
+}

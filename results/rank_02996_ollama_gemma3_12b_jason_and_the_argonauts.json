@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Jason and the Argonauts",
+    "overview": "At a young age, Jason witnesses the brutal deposement and murder of his father at the hands of his uncle Pelias. Twenty years later, Jason returns home to claim his rightful place as king, but Pelias orders him to be executed, and in order to save himself Jason is forced to go on a dangerous quest to find the legendary Golden Fleece. So Jason gathers a motley crew of men and sets sail on the Argos.",
+    "genres": [
+      "Family",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2000,
+    "vote_count": 48
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Jason and the Argonauts is a family-friendly action-adventure film blending elements of Greek mythology with science fiction and fantasy. The story follows Jason's journey to reclaim his birthright, encountering mythical creatures and facing perilous challenges along the way. The film emphasizes themes of courage, loyalty, and the importance of perseverance in the face of adversity, offering a visually engaging and broadly appealing narrative for audiences of all ages. It's a classic hero's journey, updated with modern special effects and a sense of wonder.",
+        "spoiler_rich_plot_summary": "The film begins with the young Jason witnessing the murder of his father, King Aegeus, orchestrated by his uncle Pelias. Twenty years later, Jason returns to his homeland, only to be tasked by Pelias with the seemingly impossible quest of retrieving the Golden Fleece, a symbol of power and kingship. To succeed, Jason must assemble a crew of heroes, the Argonauts, and sail on the Argo to Colchis. Along the way, they face numerous trials, battling harpies, sirens, and other mythical beasts. In Colchis, Jason encounters Medea, the princess and sorceress who possesses the knowledge to obtain the Golden Fleece. Medea aids Jason, using her magic to overcome the challenges set by King Aeetes, including a fire-breathing dragon guarding the Fleece. Jason retrieves the Golden Fleece, but his journey back is fraught with peril, as he and Medea are pursued by Aeetes and his forces. Ultimately, Jason secures the Fleece, paving the way for him to claim his rightful place as king, though the consequences of his actions and Medea's involvement remain complex.",
+        "categorized_keywords": {
+          "themes": [
+            "hero-quest",
+            "loyalty",
+            "courage",
+            "family-betrayal",
+            "redemption",
+            "fate-vs-free-will"
+          ],
+          "plot_and_concepts": [
+            "mythological-quest",
+            "ship-voyage",
+            "magical-artifacts",
+            "hero-journey",
+            "ancient-prophecy"
+          ],
+          "mood_and_tone": [
+            "adventurous",
+            "wholesome",
+            "epic",
+            "fantastical"
+          ],
+          "genre_and_tropes": [
+            "greek-mythology",
+            "action-adventure",
+            "found-family",
+            "heroic-fantasy"
+          ],
+          "setting": [
+            "ancient-greece",
+            "mythical-kingdoms",
+            "coastal-voyage"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "sorceress",
+            "treacherous-uncle"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "argo-ship",
+            "golden-fleece",
+            "dragon-guardian",
+            "mythical-creatures"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Jason and the Argonauts is a family-friendly action-adventure film set in ancient Greece, following a hero's quest filled with mythical creatures and perilous voyages as he seeks to reclaim his birthright and fulfill an ancient prophecy."
+      },
+      "duration_seconds": 66.15799307823181
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Broadchurch",
+    "overview": "The murder of a young boy in a small coastal town brings a media frenzy, which threatens to tear the community apart.",
+    "genres": "Crime, Drama, Mystery",
+    "release_year": 2013,
+    "vote_count": 702
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Broadchurch is a British crime drama that explores the devastating impact of a murder on a close-knit coastal community. The series focuses on two detectives investigating the crime while also examining the ripple effects on the victim's family, friends, and the town's residents. With a somber tone and a focus on character development, Broadchurch delves into themes of grief, suspicion, and the fragility of trust. The series is notable for its atmospheric setting and its nuanced portrayal of the psychological toll of tragedy.",
+        "spoiler_rich_plot_summary": "The series begins with the discovery of the body of Danny Latimer, a young boy, on a beach in the seemingly idyllic town of Broadchurch. Detectives Alec Hardy and Ellie Miller are assigned to the case, which quickly attracts intense media scrutiny. As the investigation progresses, suspicion falls on various townspeople, revealing long-held secrets and simmering resentments. The initial focus on potential suspects gradually shifts as the detectives uncover a complex web of relationships and hidden motives. The investigation exposes the vulnerabilities of the community and the devastating impact of the crime on the victim's parents, Beth and Joe Latimer, and the wider town. The series culminates in the identification of the killer, revealing a shocking truth about the town's dark underbelly and the consequences of past actions. The aftermath of the trial and sentencing explores the long-term effects of the tragedy on the community and the families involved, highlighting the challenges of healing and rebuilding trust.",
+        "categorized_keywords": {
+          "themes": [
+            "grief",
+            "loss",
+            "community",
+            "secrets",
+            "justice",
+            "trust",
+            "family-dynamics",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "murder-mystery",
+            "police-investigation",
+            "small-town-secrets",
+            "media-scrutiny",
+            "false-accusations"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "suspenseful",
+            "melancholy",
+            "atmospheric",
+            "tense"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "whodunit",
+            "slow-burn",
+            "british-drama"
+          ],
+          "setting": [
+            "coastal-town",
+            "england",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "detective",
+            "grieving-parent",
+            "small-town-villain",
+            "reluctant-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "coastal-beach",
+            "police-tape",
+            "courtroom",
+            "news-cameras",
+            "small-town-pub"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "emotional-distress"
+          ]
+        },
+        "keyword_sentence": "Broadchurch is a somber British drama that explores themes of grief and loss within a close-knit coastal community, unraveling a murder mystery through a tense police investigation and revealing long-held secrets."
+      },
+      "duration_seconds": 122.51241087913513
+    }
+  }
+}

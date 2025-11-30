@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "Katy Keene",
+    "overview": "A group of aspiring artists living in New York City try to make their dreams come true.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2020,
+    "vote_count": 262
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Katy Keene is a vibrant, character-driven dramedy series set in New York City, following the lives of young artists pursuing their dreams in the fashion and music industries. The show blends elements of aspirational storytelling with comedic moments, exploring themes of friendship, ambition, and self-discovery. It offers a lighthearted and optimistic portrayal of chasing dreams, navigating relationships, and finding your place in a bustling urban environment. While dealing with relatable struggles, the series maintains a generally upbeat tone and emphasizes the importance of community and support systems.",
+        "spoiler_rich_plot_summary": "The series begins with Katy Keene, a fashion student working as a personal shopper, struggling to make ends meet while dreaming of launching her own fashion brand. She shares an apartment with her best friend, Iris, an aspiring singer, and their lives intertwine with a diverse group of friends including Joe, a filmmaker, and Piper, a singer. Throughout the first season, Katy faces challenges in her career, including financial setbacks and creative disagreements. She navigates romantic relationships, often balancing her ambitions with personal connections. Iris pursues her music career, encountering both successes and disappointments. The series explores the complexities of friendship as the characters support each other through various trials. As the characters progress, they confront personal demons and make difficult choices that shape their futures, ultimately striving to achieve their individual goals while maintaining their bonds of friendship and community. The series concludes with each character taking significant steps towards their dreams, leaving the audience with a sense of hope and possibility.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "ambition",
+            "self-discovery",
+            "community",
+            "pursuit-of-dreams",
+            "fashion",
+            "music"
+          ],
+          "plot_and_concepts": [
+            "coming-of-age",
+            "ensemble-cast",
+            "aspirational-storytelling"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "optimistic",
+            "vibrant",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "dramedy",
+            "coming-of-age-story",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "aspiring-artist",
+            "best-friends",
+            "supportive-community"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult"
+          ],
+          "detail_plot": [
+            "fashion-design",
+            "music-career",
+            "apartment-living",
+            "personal-shopping"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Katy Keene is a lighthearted dramedy series set in modern-day New York City, following a group of aspiring artists as they pursue their dreams of fashion and music while navigating the challenges of friendship and self-discovery."
+      },
+      "duration_seconds": 58.363468170166016
+    }
+  }
+}

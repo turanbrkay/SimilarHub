@@ -1,0 +1,66 @@
+{
+  "input_data": {
+    "title": "Eek! The Cat",
+    "overview": "Eek! The Cat is a Canadian-American animated series, created by Savage Steve Holland and Bill Kopp and produced by Fox Kids and Savage Studios with animation by Nelvana, that ran from 1992 to 1997.",
+    "genres": [
+      "Animation"
+    ],
+    "release_year": 1992,
+    "vote_count": 85
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Eek! The Cat is a comedic animated series centered around a perpetually anxious house cat named Eek who must navigate the challenges of suburban life and the disapproval of his owner, Annabelle. The show blends slapstick humor with quirky character interactions and a lighthearted, family-friendly tone. Eek's constant fear and awkward attempts to fit in provide the foundation for much of the show's humor, creating a consistently silly and entertaining experience for younger audiences. The series relies heavily on visual gags and absurd situations, making it a classic example of 1990s animated comedy.",
+        "spoiler_rich_plot_summary": "The series follows Eek, a cat who is adopted by a young girl named Annabelle. Eek's existence is complicated by Sondra, Annabelle's older sister, who despises cats and constantly tries to get rid of him. Throughout the series, Eek attempts to prove his worth to Annabelle and avoid Sondra's schemes, often leading to chaotic and humorous situations. Recurring plotlines involve Eek's attempts to befriend other animals, navigate the complexities of family dynamics, and generally avoid being discovered as a cat living in a human household. While the series doesn't have a grand overarching narrative, it consistently explores themes of acceptance, friendship, and the challenges of being different, culminating in a generally positive and heartwarming conclusion where Eek finds his place within the family.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "acceptance",
+            "friendship",
+            "being-different",
+            "anxiety"
+          ],
+          "plot_and_concepts": [
+            "slapstick-comedy",
+            "animal-humor",
+            "domestic-life"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "animated-comedy",
+            "family-audience"
+          ],
+          "setting": [
+            "suburban-life",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "anxious-protagonist",
+            "older-sister",
+            "young-girl"
+          ],
+          "narrative_style": [
+            "episodic-format"
+          ],
+          "target_audience": [
+            "children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "cat-antics",
+            "older-sister-rivalry",
+            "house-setting"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Eek! The Cat is a lighthearted animated comedy series that explores themes of family dynamics and acceptance through the antics of an anxious cat navigating suburban life."
+      },
+      "duration_seconds": 58.67049837112427
+    }
+  }
+}

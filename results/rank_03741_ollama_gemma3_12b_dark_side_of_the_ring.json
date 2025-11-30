@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Dark Side of the Ring",
+    "overview": "Finding truth at the intersection of fantasy and reality in the veiled world of professional wrestling.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2019,
+    "vote_count": 31
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Dark Side of the Ring is a documentary series that delves into the darker, often tragic, and sometimes controversial aspects of professional wrestling history. It explores the physical and psychological toll the sport takes on its performers, examining injuries, substance abuse, and the pressures of maintaining a larger-than-life persona. The series blends archival footage, interviews with wrestlers, promoters, and family members, creating a complex portrait of a unique and often brutal form of entertainment. It aims to provide a more nuanced understanding of the wrestling world beyond the spectacle, revealing the human cost behind the performance. The series is known for its unflinching look at sensitive topics and its commitment to uncovering untold stories.",
+        "spoiler_rich_plot_summary": "The series unfolds as a chronological exploration of wrestling history, focusing on incidents and individuals that highlight the darker side of the industry. Early seasons examine the tragic circumstances surrounding the deaths of wrestlers like Owen Hart, whose fatal fall during a live event is meticulously reconstructed, and Curt 'Dangerous' Hennig, whose struggles with substance abuse and health issues ultimately led to his death. Subsequent episodes delve into the controversies surrounding wrestlers like Chris Benoit, whose double murder-suicide shocked the wrestling world, and the impact of concussions and long-term health consequences on performers. The series doesn't shy away from exploring the exploitative practices of some promoters and the pressures faced by wrestlers to perform through pain and injury. Later seasons broaden the scope, examining lesser-known incidents and the ongoing efforts to improve safety and awareness within the wrestling community. The series consistently reveals the complex interplay of ambition, physical risk, and personal tragedy that defines the world of professional wrestling.",
+        "categorized_keywords": {
+          "themes": [
+            "risk-vs-reward",
+            "physical-trauma",
+            "exploitation",
+            "legacy",
+            "mental-health",
+            "performance-pressure"
+          ],
+          "plot_and_concepts": [
+            "investigative-documentary",
+            "oral-history",
+            "true-crime",
+            "wrestling-history",
+            "concussion-protocol"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "reflective",
+            "unflinching",
+            "tragic",
+            "nostalgic"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "sports-documentary",
+            "investigative-journalism"
+          ],
+          "setting": [
+            "professional-wrestling",
+            "north-america",
+            "stage-performance"
+          ],
+          "character_archetypes": [
+            "athlete",
+            "performer",
+            "promoter",
+            "investigator"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "interview-driven",
+            "archival-footage"
+          ],
+          "target_audience": [
+            "sports-fans",
+            "wrestling-fans",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "wrestling-ring",
+            "promo-segment",
+            "kayfabe",
+            "title-belt",
+            "steel-cage"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "substance-abuse",
+            "emotional-distress"
+          ]
+        },
+        "keyword_sentence": "Dark Side of the Ring is a somber documentary series that investigates the physical and psychological toll of professional wrestling, revealing a world of risk, exploitation, and tragic consequences for those who perform within its spectacle."
+      },
+      "duration_seconds": 88.86303377151489
+    }
+  }
+}

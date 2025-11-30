@@ -1,0 +1,70 @@
+{
+  "input_data": {
+    "title": "Cooking With Paris",
+    "overview": "Paris Hilton can cook...kind of. And she’s turning the traditional cooking show upside down. She’s not a trained chef and she’s not trying to be. With the help of her celebrity friends, she navigates new ingredients, new recipes and exotic kitchen appliances.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2021,
+    "vote_count": 50
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Cooking With Paris is a reality series that subverts the traditional cooking show format by featuring Paris Hilton, who openly admits to being an inexperienced cook. The show leans into a playful, self-aware tone, embracing chaos and humor as Hilton and her celebrity guests attempt to follow recipes and experiment with kitchen gadgets. It's a lighthearted and visually vibrant series designed for entertainment rather than culinary instruction, appealing to fans of celebrity culture and those seeking a comedic take on the cooking genre. The show's charm lies in its embrace of imperfection and its celebration of a unique brand of celebrity-driven silliness.",
+        "spoiler_rich_plot_summary": "The series follows Paris Hilton as she embarks on a journey to learn how to cook, with each episode featuring a new recipe and a guest celebrity. While Hilton often struggles with the technical aspects of cooking, she approaches each challenge with enthusiasm and a willingness to experiment. The show's format revolves around the humorous contrast between Hilton's lack of culinary expertise and the often-elaborate recipes she attempts. Guest appearances from various celebrities add to the show's lighthearted and chaotic atmosphere, as they participate in the cooking process and contribute to the overall comedic effect. The series doesn't follow a traditional narrative arc, but rather presents a collection of self-contained cooking adventures, each with its own set of challenges and laughs. The show concludes with Paris and her guest celebrating their (often imperfect) creations, reinforcing the theme of embracing imperfection and having fun in the kitchen.",
+        "categorized_keywords": {
+          "themes": [
+            "celebrity-culture",
+            "self-discovery",
+            "humor",
+            "friendship",
+            "embracing-imperfection"
+          ],
+          "plot_and_concepts": [
+            "cooking-competition",
+            "celebrity-guest-stars",
+            "recipe-based-episodes",
+            "parody-genre"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "comedic",
+            "playful",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "reality-television",
+            "cooking-show",
+            "celebrity-parody"
+          ],
+          "setting": [
+            "modern-kitchen",
+            "luxury-lifestyle"
+          ],
+          "character_archetypes": [
+            "celebrity-personality",
+            "reluctant-participant"
+          ],
+          "narrative_style": [
+            "episodic-format",
+            "slice-of-life"
+          ],
+          "target_audience": [
+            "young-adults",
+            "fans-of-celebrity-culture"
+          ],
+          "detail_plot": [
+            "kitchen-gadgets",
+            "recipe-cards",
+            "celebrity-outfits",
+            "signature-cocktails"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Cooking With Paris is a lighthearted reality series that playfully parodies the cooking show genre, embracing humor and celebrity culture as Paris Hilton and her guests navigate recipes and kitchen gadgets in a luxury lifestyle setting."
+      },
+      "duration_seconds": 68.76596283912659
+    }
+  }
+}

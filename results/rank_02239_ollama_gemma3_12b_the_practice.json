@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "The Practice",
+    "overview": "A provocative legal drama focused on young associates at a bare-bones Boston firm and their scrappy boss, Bobby Donnell. The show's forte is its storylines about “people who walk a moral tightrope.”",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 1997,
+    "vote_count": 81
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Practice is a legal drama that distinguishes itself through its focus on the ethical complexities faced by young lawyers and their unconventional boss. The series explores the moral ambiguities of the legal system, often presenting cases where the 'right' answer is far from clear. Its gritty realism and focus on character development, rather than sensational courtroom theatrics, create a compelling and thought-provoking viewing experience. The show's strength lies in its ability to portray the human cost of legal battles and the compromises individuals make in pursuit of justice. It's a character-driven drama that examines the gray areas of morality and the challenges of upholding principles in a flawed system.",
+        "spoiler_rich_plot_summary": "The series initially centers on Bobby Donnell, a former prosecutor who runs a small, struggling law firm in Boston. The firm takes on cases that larger firms often reject, frequently representing clients who are marginalized or facing difficult circumstances. Early seasons establish the firm's unconventional methods and Bobby's willingness to bend the rules to achieve what he believes is a just outcome. As the series progresses, the firm expands, bringing in new associates who grapple with their own moral dilemmas and the pressures of the legal profession. Relationships between the lawyers evolve, marked by both camaraderie and conflict as they navigate the complexities of their cases and their personal lives. Later seasons introduce significant shifts in the firm's structure and Bobby's personal life, forcing him to confront his past and re-evaluate his approach to justice. The series culminates in a resolution that addresses the long-standing ethical questions that have defined the firm's journey, leaving a lasting impact on the characters and the audience.",
+        "categorized_keywords": {
+          "themes": [
+            "legal-ethics",
+            "moral-ambiguity",
+            "justice-system",
+            "redemption",
+            "professional-integrity",
+            "social-responsibility"
+          ],
+          "plot_and_concepts": [
+            "courtroom-drama",
+            "legal-thriller",
+            "serialized-story",
+            "procedural-drama"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "realistic",
+            "thought-provoking",
+            "somber"
+          ],
+          "genre_and_tropes": [
+            "legal-drama",
+            "procedural-drama",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "boston-massachusetts",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "mentor",
+            "moral-protagonist",
+            "young-adult"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "courtroom-scene",
+            "legal-brief",
+            "police-investigation",
+            "law-office"
+          ],
+          "maturity_and_content": [
+            "legal-themes",
+            "adult-language"
+          ]
+        },
+        "keyword_sentence": "The Practice is a gritty and realistic legal drama that explores the moral ambiguities of the justice system through the experiences of young lawyers and their unconventional boss in modern-day Boston."
+      },
+      "duration_seconds": 65.0433452129364
+    }
+  }
+}

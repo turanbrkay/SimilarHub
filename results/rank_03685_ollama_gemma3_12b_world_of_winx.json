@@ -1,0 +1,69 @@
+{
+  "input_data": {
+    "title": "World of Winx",
+    "overview": "The Winx travel all over the world searching for talent for WOW. and preventing the mysterious talent thief from kidnapping them.",
+    "genres": [
+      "Animation",
+      "Action & Adventure"
+    ],
+    "release_year": 2016,
+    "vote_count": 32
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "World of Winx is a vibrant animated series blending action, adventure, and magical elements. The show follows a group of fairies as they navigate challenges, protect talent, and confront a mysterious threat. It emphasizes themes of friendship, responsibility, and self-discovery within a fantastical setting. The series aims to deliver a lighthearted and engaging experience for a younger audience, with a focus on teamwork and overcoming obstacles.",
+        "spoiler_rich_plot_summary": "The series begins with the Winx fairies, Bloom, Stella, Flora, Musa, Tecna, and Aisha, attending Alfea, a prestigious magic school. However, their studies are disrupted by a series of talent thefts, where skilled individuals are mysteriously disappearing. The Winx soon discover that a shadowy figure is behind these thefts, seeking to harness the stolen talents for nefarious purposes. As they investigate, they uncover a complex conspiracy involving rival factions and ancient magic. The Winx travel across various locations, encountering new allies and facing formidable adversaries. They must learn to master their powers and work together to stop the talent thief and restore balance to the magical world. Throughout their journey, the fairies confront personal challenges and grow as individuals, ultimately strengthening their bond and preparing for a final confrontation with the antagonist.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "responsibility",
+            "self-discovery",
+            "teamwork",
+            "good-vs-evil"
+          ],
+          "plot_and_concepts": [
+            "talent-theft",
+            "magic-school",
+            "conspiracy",
+            "rival-factions"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "adventurous",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "action-adventure",
+            "magic",
+            "found-family"
+          ],
+          "setting": [
+            "fantasy-world",
+            "magic-school"
+          ],
+          "character_archetypes": [
+            "heroine",
+            "magical-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult"
+          ],
+          "detail_plot": [
+            "fairy-wings",
+            "magic-wand",
+            "spellbook"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "World of Winx is a lighthearted animated series about a group of young fairies who must work together to protect talent and overcome challenges in a magical fantasy world."
+      },
+      "duration_seconds": 61.773818254470825
+    }
+  }
+}

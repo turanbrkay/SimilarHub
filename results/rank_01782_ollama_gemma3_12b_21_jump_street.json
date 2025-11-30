@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "21 Jump Street",
+    "overview": "21 Jump Street revolves around a group of young cops who would use their youthful appearance to go undercover and solve crimes involving teenagers and young adults.",
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Drama"
+    ],
+    "release_year": 1987,
+    "vote_count": 114
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "21 Jump Street is a police procedural drama series that blends crime-solving with a focus on adolescent issues and social commentary. The show follows a specialized unit of young officers who go undercover in high schools and other environments frequented by teenagers, tackling issues ranging from drug dealing to gang violence. Its unique premise allows for exploration of generational divides and the challenges faced by young people, while maintaining a suspenseful and engaging crime narrative. The series aims to be both entertaining and thought-provoking, offering a glimpse into the lives of both the officers and the teenagers they interact with.",
+        "spoiler_rich_plot_summary": "The series begins with the formation of a specialized police unit, comprised of young officers, designed to infiltrate and solve crimes within the teenage population. Initially, the officers face skepticism and resistance from both their colleagues and the students they are tasked to protect. Early cases involve petty theft and drug use, gradually escalating to more serious crimes like gang activity and violence. As the series progresses, the officers develop a deeper understanding of the social and economic factors that contribute to teenage delinquency. Relationships between the officers and the students become complex, blurring the lines between law enforcement and personal connection. Throughout the series, the officers confront moral dilemmas and personal challenges, forcing them to question their roles and responsibilities. While the series maintains a focus on crime-solving, it also explores themes of identity, belonging, and the difficulties of growing up.",
+        "categorized_keywords": {
+          "themes": [
+            "growing-up",
+            "identity-quest",
+            "social-justice",
+            "generational-divide",
+            "law-enforcement",
+            "youth-culture"
+          ],
+          "plot_and_concepts": [
+            "undercover-operation",
+            "police-investigation",
+            "crime-procedural",
+            "teen-drama",
+            "social-commentary"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "realistic",
+            "thought-provoking",
+            "gritty"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "teen-drama",
+            "police-drama",
+            "undercover-story"
+          ],
+          "setting": [
+            "high-school",
+            "modern-day",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "youthful-protagonist",
+            "moral-ambiguity"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "police-uniform",
+            "high-school-hallway",
+            "undercover-identity",
+            "police-car"
+          ],
+          "maturity_and_content": [
+            "substance-abuse",
+            "violence"
+          ]
+        },
+        "keyword_sentence": "21 Jump Street is a suspenseful police drama series that explores themes of growing up and social justice through the lens of young officers working undercover in high schools and urban environments."
+      },
+      "duration_seconds": 64.31695199012756
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "The Astronauts",
+    "overview": "Five kids accidentally launch aboard a spacecraft meant to intercept a mysterious asteroid in space. With no proper training and a malfunctioning onboard AI, the kids must work together to find their way back home.",
+    "genres": [
+      "Family",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2020,
+    "vote_count": 58
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Astronauts is a family-friendly science fiction series centered on a group of teenagers who unexpectedly find themselves adrift in space. The show blends elements of adventure, comedy, and coming-of-age narratives as the young protagonists grapple with the challenges of survival and the complexities of their relationships while navigating the vastness of space. It explores themes of teamwork, responsibility, and the importance of friendship against a backdrop of technological malfunction and the unknown dangers of the cosmos. The series aims to provide an engaging and optimistic viewing experience for a younger audience, emphasizing the power of resilience and ingenuity.",
+        "spoiler_rich_plot_summary": "The series begins with five teenagers – Riley, Jasmine, Ethan, Sabina, and Alan – inadvertently launched into space aboard a spacecraft designed to intercept a mysterious asteroid. Initially, the situation is comedic as they struggle to understand the controls and deal with the lack of adult supervision. However, the reality of their predicament quickly sets in as they realize the spacecraft's AI, known as ECHO, is malfunctioning and their communication with Earth is limited. As they journey through space, they encounter various challenges, including asteroid fields, equipment failures, and the psychological strain of isolation. They discover that the asteroid they were meant to intercept holds a significant secret, hinting at a larger, more complex mission than they initially understood. Throughout their journey, the teenagers confront personal conflicts and learn to rely on each other, developing strong bonds of friendship and leadership. The series culminates in a confrontation with the true nature of the asteroid and a desperate attempt to return home, facing difficult choices that test their courage and commitment to one another.",
+        "categorized_keywords": {
+          "themes": [
+            "teamwork",
+            "friendship",
+            "coming-of-age",
+            "responsibility",
+            "space-exploration",
+            "survival"
+          ],
+          "plot_and_concepts": [
+            "accidental-launch",
+            "malfunctioning-ai",
+            "spacecraft-mishap",
+            "asteroid-mission",
+            "mystery-asteroid"
+          ],
+          "mood_and_tone": [
+            "optimistic",
+            "adventurous",
+            "lighthearted",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "family-adventure",
+            "coming-of-age-story",
+            "found-family"
+          ],
+          "setting": [
+            "outer-space",
+            "spacecraft",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "teenager-protagonist",
+            "resourceful-teen",
+            "reluctant-leader"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "spacecraft-control-panel",
+            "malfunctioning-ai-interface",
+            "asteroid-field",
+            "space-suit"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Astronauts is a lighthearted science-fiction adventure series about a group of teenagers who unexpectedly find themselves navigating the challenges of space exploration and forging strong bonds of friendship while facing a malfunctioning AI and the mysteries of an asteroid."
+      },
+      "duration_seconds": 64.84912133216858
+    }
+  }
+}

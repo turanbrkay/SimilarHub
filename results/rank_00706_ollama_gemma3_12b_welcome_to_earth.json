@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Welcome to Earth",
+    "overview": "Will Smith whose curiosity and wonder is positively infectious—is guided by National Geographic Explorers traveling to different corners of the world to get up close and personal with the weirdest, most unusual, dangerous and thrilling spectacles of the planet.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2021,
+    "vote_count": 401
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Welcome to Earth is a documentary series hosted by Will Smith, showcasing diverse and often extraordinary natural phenomena and wildlife across the globe. Guided by National Geographic Explorers, the series blends adventure, education, and a sense of wonder, offering viewers a visually stunning and informative journey through Earth's most captivating landscapes. The tone is optimistic and celebratory, emphasizing the beauty and fragility of the planet while highlighting the expertise of the explorers. It aims to inspire appreciation for the natural world and promote conservation efforts. The series provides a unique blend of personal exploration and scientific insight, making it accessible to a broad audience.",
+        "spoiler_rich_plot_summary": "The series follows Will Smith as he travels to various locations, each episode focusing on a specific biome or natural wonder. He participates in expeditions to observe unique animal behaviors, explores volcanic landscapes, and dives into deep ocean environments. Throughout his journeys, Smith interacts with National Geographic Explorers who share their knowledge and expertise, explaining the science behind the phenomena he witnesses. The series highlights the challenges faced by these explorers, including environmental threats and the impact of climate change. While not a narrative in the traditional sense, the overarching theme is the interconnectedness of Earth's ecosystems and the importance of protecting them for future generations. The series culminates in a broader appreciation for the planet’s biodiversity and the ongoing efforts to preserve it.",
+        "categorized_keywords": {
+          "themes": [
+            "environmental-conservation",
+            "exploration",
+            "discovery",
+            "human-connection",
+            "natural-beauty",
+            "scientific-advancement"
+          ],
+          "plot_and_concepts": [
+            "documentary-format",
+            "expedition-narrative",
+            "wildlife-photography",
+            "scientific-explanation"
+          ],
+          "mood_and_tone": [
+            "optimistic",
+            "inspiring",
+            "educational",
+            "awe-inspiring",
+            "celebratory"
+          ],
+          "genre_and_tropes": [
+            "nature-documentary",
+            "travel-adventure",
+            "educational-programming"
+          ],
+          "setting": [
+            "global-locations",
+            "diverse-ecosystems",
+            "remote-wilderness",
+            "underwater-environments"
+          ],
+          "character_archetypes": [
+            "charismatic-host",
+            "expert-guide",
+            "dedicated-explorer"
+          ],
+          "narrative_style": [
+            "episodic-structure",
+            "observational-style"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers",
+            "nature-enthusiasts"
+          ],
+          "detail_plot": [
+            "volcanic-landscape",
+            "underwater-coral-reef",
+            "wildlife-migration",
+            "national-geographic-logo",
+            "will-smith-signature"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Welcome to Earth is an inspiring nature documentary series that follows Will Smith on a global exploration of diverse ecosystems, celebrating the planet’s beauty and highlighting the importance of environmental conservation through expert guidance and breathtaking visuals."
+      },
+      "duration_seconds": 57.35141396522522
+    }
+  }
+}

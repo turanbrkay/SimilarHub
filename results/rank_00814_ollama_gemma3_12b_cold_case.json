@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "Cold Case",
+    "overview": "The Philadelphia homicide squad's lone female detective finds her calling when she is assigned cases that have never been solved. Detective Lilly Rush combines her natural instincts with the updated technology available today to bring about justice for all the victims she can.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2003,
+    "vote_count": 335
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Cold Case is a procedural drama centered on a Philadelphia detective who reopens unsolved murder cases, offering a unique blend of crime investigation and emotional exploration. The series examines the impact of time on both the victims' families and the detectives working the cases, highlighting the enduring nature of grief and the pursuit of justice. It combines elements of police procedural with a focus on character development and the complexities of human relationships, offering a somber yet ultimately hopeful narrative about closure and redemption. The show's focus on cold cases allows for a broader exploration of societal issues and the evolution of investigative techniques.",
+        "spoiler_rich_plot_summary": "The series begins with Detective Lilly Rush, a skilled but somewhat troubled officer, being assigned to the Cold Case Unit. Initially, she approaches the cases with a detached professionalism, but as she delves deeper into the decades-old mysteries, she becomes increasingly invested in the victims and their families. Each episode typically focuses on a different unsolved case, revealing new evidence and uncovering long-buried secrets. As Lilly works through the backlog, she confronts the personal demons of the original investigators and witnesses, often uncovering corruption and systemic failures that contributed to the initial lack of resolution. Throughout the series, Lilly develops a strong rapport with her colleagues, particularly Lieutenant Chris Redfield, and forms a unique bond with the families of the victims, offering them a renewed sense of hope and closure. While many cases are solved, some remain frustratingly elusive, highlighting the limitations of even the most dedicated investigators. The series explores the ethical dilemmas of reopening old wounds and the potential for disrupting fragile peace, while ultimately championing the pursuit of justice, no matter how long it takes.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "grief",
+            "redemption",
+            "closure",
+            "family-ties",
+            "loss",
+            "memory"
+          ],
+          "plot_and_concepts": [
+            "police-investigation",
+            "cold-case",
+            "unsolved-mystery",
+            "serial-investigation",
+            "backlog-cases"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "reflective",
+            "melancholy",
+            "hopeful",
+            "introspective"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "police-drama",
+            "mystery",
+            "unsolved-cases"
+          ],
+          "setting": [
+            "philadelphia-city",
+            "modern-day",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "detective",
+            "lead-investigator",
+            "police-lieutenant",
+            "grieving-family"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format",
+            "case-of-the-week"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "crime-scene",
+            "police-badge",
+            "evidence-locker",
+            "case-file",
+            "interview-room"
+          ],
+          "maturity_and_content": [
+            "crime-violence",
+            "emotional-trauma"
+          ]
+        },
+        "keyword_sentence": "Cold Case is a somber police drama set in Philadelphia, where a dedicated detective reopens decades-old mysteries, exploring themes of grief, justice, and the enduring power of memory through a serialized investigation of unsolved crimes."
+      },
+      "duration_seconds": 69.01931500434875
+    }
+  }
+}

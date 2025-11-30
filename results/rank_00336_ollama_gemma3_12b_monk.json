@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Monk",
+    "overview": "Adrian Monk was once a rising star with the San Francisco Police Department, legendary for using unconventional means to solve the department's most baffling cases. But after the tragic (and still unsolved) murder of his wife Trudy, he developed an extreme case of obsessive-compulsive disorder. Now working as a private consultant, Monk continues to investigate cases in the most unconventional ways.",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2002,
+    "vote_count": 897
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Monk is a comedic crime drama centered on Adrian Monk, a brilliant but troubled detective grappling with severe obsessive-compulsive disorder. The series blends humor with genuine pathos as Monk's unique methods, driven by his compulsions, help solve complex cases while he simultaneously struggles with the unresolved trauma of his wife's murder. The show explores themes of grief, redemption, and the power of unconventional thinking, offering a lighthearted yet emotionally resonant viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Adrian Monk, a former SFPD detective, living as a recluse following the unsolved murder of his wife, Trudy. He is reluctantly drawn back into police work as a consultant, assisting Captain Stottlemeyer and Lieutenant Disher with cases. Monk's methods are unorthodox, often driven by his compulsions and anxieties, but consistently yield results. Throughout the series, Monk confronts various suspects and red herrings in his quest to find Trudy's killer, uncovering a web of secrets and conspiracies within the police department and beyond. While he solves numerous cases, the mystery of Trudy's death remains a constant source of pain and drives his actions. As the series progresses, Monk slowly begins to heal and reconnect with the world, forming bonds with his colleagues and finding a renewed sense of purpose.",
+        "categorized_keywords": {
+          "themes": [
+            "grief",
+            "redemption",
+            "mental-health",
+            "justice",
+            "healing",
+            "obsession"
+          ],
+          "plot_and_concepts": [
+            "crime-solving",
+            "police-procedural",
+            "unsolved-mystery",
+            "consultant-detective",
+            "serial-investigation"
+          ],
+          "mood_and_tone": [
+            "comedic",
+            "wholesome",
+            "lighthearted",
+            "quirky",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "sitcom",
+            "found-family",
+            "odd-couple"
+          ],
+          "setting": [
+            "san-francisco",
+            "modern-day",
+            "urban-setting"
+          ],
+          "character_archetypes": [
+            "eccentric-detective",
+            "reluctant-hero",
+            "supportive-colleague",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "compulsions",
+            "police-badge",
+            "san-francisco-skyline",
+            "cleaning-supplies",
+            "checklist"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Monk is a lighthearted crime procedural set in San Francisco, exploring themes of grief and redemption through the eyes of an eccentric detective whose unique compulsions help him solve mysteries and find healing."
+      },
+      "duration_seconds": 62.494040966033936
+    }
+  }
+}

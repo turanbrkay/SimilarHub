@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "The Shield",
+    "overview": "The story of an inner-city Los Angeles police precinct where some of the cops aren't above breaking the rules or working against their associates to both keep the streets safe and their self-interests intact.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Action & Adventure"
+    ],
+    "release_year": 2002,
+    "vote_count": 622
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Shield is a gritty police procedural drama that explores the blurred lines between law enforcement and criminality. Set in the fictional Farmington district of Los Angeles, the series follows a Strike Team operating under a morally ambiguous captain, Vic Mackey, who uses unorthodox and often illegal methods to maintain order. The show delves into themes of corruption, loyalty, and the psychological toll of operating outside the legal system, offering a complex and often unsettling portrayal of police work and its consequences. Its raw realism and complex characters distinguish it from more conventional crime dramas.",
+        "spoiler_rich_plot_summary": "The series begins with the formation of the Strike Team, led by Vic Mackey, who orchestrates a drug bust to gain favor with the department and secure funding for the unit. Early seasons focus on the team's efforts to control the Farmington district, often resorting to intimidation, bribery, and violence. Mackey’s past and his connections to criminal elements are gradually revealed, creating a constant threat of exposure and internal conflict. As the series progresses, the Strike Team faces increasing scrutiny from internal affairs and rival gangs, leading to betrayals and shifting alliances. The team’s methods become increasingly desperate, and the personal lives of the officers are deeply affected by the constant pressure and moral compromises. Later seasons see the team attempting to reform and distance themselves from their past actions, but the consequences of their earlier choices continue to haunt them, culminating in a tense and uncertain future for the unit and its members.",
+        "categorized_keywords": {
+          "themes": [
+            "corruption",
+            "police-brutality",
+            "moral-ambiguity",
+            "loyalty",
+            "redemption",
+            "power",
+            "justice"
+          ],
+          "plot_and_concepts": [
+            "police-procedural",
+            "undercover-operation",
+            "gang-war",
+            "internal-affairs",
+            "organized-crime"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "dark",
+            "tense",
+            "realistic",
+            "noir"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "police-thriller",
+            "ensemble-cast",
+            "anti-hero"
+          ],
+          "setting": [
+            "los-angeles",
+            "inner-city",
+            "farmington"
+          ],
+          "character_archetypes": [
+            "corrupt-cop",
+            "anti-hero",
+            "moral-grey-protagonist",
+            "ruthless-leader"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "farmington-district",
+            "strike-team",
+            "police-badge",
+            "wiretap",
+            "confidential-file"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "substance-abuse",
+            "sexual-content"
+          ]
+        },
+        "keyword_sentence": "Set in a gritty Los Angeles district, The Shield explores themes of corruption and moral ambiguity through the actions of a morally compromised police strike team, delivering a tense and realistic crime drama for adult viewers."
+      },
+      "duration_seconds": 58.446638107299805
+    }
+  }
+}

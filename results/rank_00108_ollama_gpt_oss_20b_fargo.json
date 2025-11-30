@@ -1,0 +1,96 @@
+{
+  "input_data": {
+    "title": "Fargo",
+    "overview": "A close-knit anthology series dealing with stories involving malice, violence and murder based in and around Minnesota.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2014,
+    "vote_count": 2278
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Fargo is a darkly comic crime drama that follows a series of interconnected murders and moral dilemmas in the Midwest. Each season presents a new cast of flawed characters whose choices spiral into violence and chaos. The show blends noir sensibilities with a satirical edge, using deadpan humor to offset the grim stakes. Themes of family loyalty, power struggles, and the thin line between right and wrong recur throughout. The narrative oscillates between small-town charm and brutal brutality, offering a tense, character-driven experience. Viewers are drawn into a world where ordinary people become complicit in extraordinary crime.",
+        "spoiler_rich_plot_summary": "Season one opens in Bemidji, where a timid insurance salesman, Lester Nygaard, is drawn into a crime spree after a chance encounter with a charismatic drifter, Lorne Malvo. Malvo manipulates Lester into committing a series of murders, including the killing of a local police officer, which sets off a chain of violence that culminates in a shootout at a diner and the death of Malvo. Season two shifts focus to the Stussy brothers, Emmit and Ray, whose bitter rivalry over a lucrative paper company leads to a hit-and-run, a murder, and a series of retaliatory killings that end with Emmit’s death and Ray’s imprisonment. Season three follows a new set of characters in the 1970s, where a corrupt sheriff, Ed Blum, and a young deputy, Lou Solverson, become entangled in a drug smuggling ring that spirals into a violent turf war, ultimately resulting in the sheriff’s death and the deputy’s rise to power. Season four returns to the present, centering on a crime syndicate that controls the Midwest’s drug trade; the season explores the rise of a new criminal mastermind, the downfall of a corrupt police chief, and the eventual collapse of the syndicate, leaving the region in a state of uneasy peace. Across all seasons, the series weaves intricate plots of deception, betrayal, and moral compromise, while maintaining a distinct blend of humor and horror that keeps viewers on edge.",
+        "categorized_keywords": {
+          "themes": [
+            "family-loyalty",
+            "moral-ambiguity",
+            "power-struggle",
+            "crime-and-consequence",
+            "identity-quest",
+            "violence"
+          ],
+          "plot_and_concepts": [
+            "anthology-structure",
+            "crime-procedural",
+            "murder-mystery",
+            "small-town-violence",
+            "law-enforcement-investigation",
+            "black-humor",
+            "psychological-thriller"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "grim",
+            "suspenseful",
+            "deadpan",
+            "macabre"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "anthology-series",
+            "dark-humor",
+            "small-town-violence",
+            "neo-noir"
+          ],
+          "setting": [
+            "minnesota",
+            "north-dakota",
+            "midwest",
+            "modern-day",
+            "small-town"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "reluctant-hero",
+            "villain",
+            "law-enforcement",
+            "family-man",
+            "psychopath"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "anthology-structure"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "car-robbery",
+            "police-briefing",
+            "murder-setup",
+            "taxi-ride",
+            "cabin-attack",
+            "frozen-water",
+            "snowy-forest",
+            "cabin-escape",
+            "police-boat",
+            "fargo-bridge"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "sexual-content",
+            "substance-abuse",
+            "abuse-themes"
+          ]
+        },
+        "keyword_sentence": "Fargo blends darkly comic crime drama with a bleak Midwestern setting, exploring themes of family loyalty, moral ambiguity, and the consequences of violence."
+      },
+      "duration_seconds": 179.14765787124634
+    }
+  }
+}

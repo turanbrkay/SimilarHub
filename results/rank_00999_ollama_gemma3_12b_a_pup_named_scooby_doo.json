@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "A Pup Named Scooby-Doo",
+    "overview": "The world's favorite chicken-hearted canine, as a puppy? That's right! And the old gang is back with him. Shaggy, Daphne, Velma, and Freddy are all here as gangly kids — goofing off, solving kid-size mysteries, and having run-ins with ghouls, ghosts, and goblins.",
+    "genres": [
+      "Animation",
+      "Mystery",
+      "Comedy",
+      "Family",
+      "Kids"
+    ],
+    "release_year": 1988,
+    "vote_count": 258
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "A Pup Named Scooby-Doo is a lighthearted animated series that reimagines the classic Scooby-Doo franchise by depicting the characters during their childhood. The show blends comedic elements with age-appropriate mysteries, targeting a younger audience with familiar characters and a gentle, playful tone. It retains the core dynamic of the original series – a group of friends solving mysteries with the help of a talking dog – but simplifies the narratives and emphasizes the humor of the characters' youthful antics. The series offers a nostalgic and accessible entry point for younger viewers while appealing to fans of the original franchise.",
+        "spoiler_rich_plot_summary": "The series follows Shaggy, Scooby, Fred, Daphne, and Velma as children, navigating the challenges of growing up while simultaneously encountering various spooky situations. Each episode typically involves a new mystery, often centered around local legends or folklore. The gang uses their combined skills – Fred's leadership, Daphne's athleticism, Velma's intellect, Shaggy's appetite, and Scooby's cowardice – to uncover the truth behind the supernatural occurrences. While the mysteries are generally resolved through clever deduction and humorous chases, the series explores themes of friendship, courage, and overcoming fears. The overarching narrative involves the characters maturing and learning to rely on each other, facing increasingly complex challenges, and ultimately solidifying their bond as a team. The series maintains a consistent tone of lighthearted adventure, with no permanent character changes or dramatic plot twists.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "courage",
+            "mystery-solving",
+            "childhood",
+            "teamwork"
+          ],
+          "plot_and_concepts": [
+            "monster-of-the-week",
+            "mystery-adventure",
+            "talking-animal",
+            "chase-sequences"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "playful"
+          ],
+          "genre_and_tropes": [
+            "animated-comedy",
+            "family-entertainment",
+            "kids-adventure"
+          ],
+          "setting": [
+            "small-town-usa",
+            "childhood-memories"
+          ],
+          "character_archetypes": [
+            "cowardly-sidekick",
+            "intelligent-detective",
+            "athletic-heroine",
+            "leader-figure",
+            "goofy-friend"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "young-children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "mystery-machine",
+            "talking-dog",
+            "scary-costumes",
+            "trap-sequences"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "A Pup Named Scooby-Doo is a lighthearted animated series for young children and families, following a group of friends and their talking dog as they solve age-appropriate mysteries in a small-town setting."
+      },
+      "duration_seconds": 59.69343376159668
+    }
+  }
+}

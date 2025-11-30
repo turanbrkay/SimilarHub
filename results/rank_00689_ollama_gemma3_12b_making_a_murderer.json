@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Making a Murderer",
+    "overview": "Filmed over 10 years, this real-life thriller follows a DNA exoneree who, while exposing police corruption, becomes a suspect in a grisly new crime.",
+    "genres": [
+      "Documentary",
+      "Crime"
+    ],
+    "release_year": 2015,
+    "vote_count": 414
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Making a Murderer is a documentary series that explores the complexities of the American justice system through the lens of a real-life case. Filmed over a decade, the series follows Steven Avery, a man who was exonerated after serving 18 years in prison, and subsequently becomes a suspect in a murder investigation. The series raises questions about police misconduct, prosecutorial overreach, and the potential for wrongful convictions, creating a suspenseful and unsettling viewing experience. It blends elements of true crime, legal drama, and investigative journalism, prompting viewers to question the fairness and impartiality of the legal process.",
+        "spoiler_rich_plot_summary": "The series begins with the release of Steven Avery after DNA evidence clears him of a sexual assault conviction. He then sues Manitowoc County for wrongful imprisonment, receiving a substantial settlement. Shortly after, Avery and his nephew, Brendan Dassey, become suspects in the disappearance and murder of Teresa Halbach, a young woman who visited Avery’s salvage yard. Avery is arrested and charged with murder, and the documentary chronicles his subsequent trial and conviction. Dassey, who has intellectual disabilities, is also arrested and interrogated, and his confession becomes a central point of contention. The series follows Avery’s appeals process, highlighting legal challenges and raising questions about the integrity of the investigation. While Avery is initially granted a new trial, the documentary concludes with him remaining incarcerated, leaving the ultimate resolution of the case uncertain and prompting ongoing debate about the fairness of the legal proceedings.",
+        "categorized_keywords": {
+          "themes": [
+            "false-imprisonment",
+            "police-corruption",
+            "legal-injustice",
+            "wrongful-conviction",
+            "systemic-bias",
+            "family-loyalty"
+          ],
+          "plot_and_concepts": [
+            "true-crime",
+            "investigative-documentary",
+            "confessions",
+            "appeals-process",
+            "legal-proceedings"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "unsettling",
+            "grim",
+            "cynical"
+          ],
+          "genre_and_tropes": [
+            "crime-documentary",
+            "legal-thriller",
+            "investigative-journalism"
+          ],
+          "setting": [
+            "wisconsin",
+            "small-town-america",
+            "courtroom"
+          ],
+          "character_archetypes": [
+            "wrongfully-accused",
+            "corrupt-official",
+            "reluctant-witness"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "long-form-documentary"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "true-crime-fans"
+          ],
+          "detail_plot": [
+            "salvage-yard",
+            "interrogation-room",
+            "courtroom-scene",
+            "police-evidence"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "police-brutality",
+            "interrogation-coercion"
+          ]
+        },
+        "keyword_sentence": "Making a Murderer is a suspenseful true-crime documentary series that explores themes of false imprisonment and legal injustice within the unsettling backdrop of small-town Wisconsin, raising questions about police corruption and the potential for wrongful convictions."
+      },
+      "duration_seconds": 61.250601291656494
+    }
+  }
+}

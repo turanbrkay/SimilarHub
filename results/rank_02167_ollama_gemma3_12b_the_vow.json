@@ -1,0 +1,85 @@
+{
+  "input_data": {
+    "title": "The Vow",
+    "overview": "The docuseries follows people deeply involved in the group NXIVM — which is faced with various charges, including sex trafficking and racketeering conspiracy — over the course of several years.",
+    "genres": [
+      "Documentary",
+      "Crime"
+    ],
+    "release_year": 2020,
+    "vote_count": 85
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Vow is a documentary series that delves into the inner workings of NXIVM, a controversial self-help organization that ultimately faced serious criminal charges. Through interviews and recovered materials, the series explores the recruitment process, the group's hierarchical structure, and the experiences of individuals who became entangled in its complex and manipulative environment. It examines themes of power, control, and the psychological vulnerabilities that can lead people to join and remain within questionable groups. The series offers a chilling look at the potential for abuse within seemingly benign self-improvement programs and the challenges of escaping such environments.",
+        "spoiler_rich_plot_summary": "The series begins by introducing NXIVM as a self-help organization founded by Keith Raniere, initially presented as a charismatic leader offering personal growth workshops. It follows several individuals who joined NXIVM, detailing their experiences with the organization's increasingly bizarre and demanding practices. As the series progresses, it reveals the existence of DOS, a secret sub-group within NXIVM where women were branded with Keith Raniere's initials and subjected to coercive control and emotional manipulation. The documentary exposes the hierarchical structure of DOS, where women were ranked and pressured to recruit others. The series chronicles the gradual unraveling of NXIVM as investigations by journalists and law enforcement agencies uncover the extent of Raniere's criminal activities, including sex trafficking and racketeering conspiracy. It follows the legal proceedings against Raniere and other key figures within the organization, culminating in their convictions. The series also explores the aftermath for former members, as they grapple with the trauma of their experiences and attempt to rebuild their lives.",
+        "categorized_keywords": {
+          "themes": [
+            "cult-dynamics",
+            "power-abuse",
+            "coercive-control",
+            "manipulation",
+            "trauma",
+            "redemption",
+            "deception",
+            "identity-loss"
+          ],
+          "plot_and_concepts": [
+            "true-crime",
+            "investigative-journalism",
+            "legal-proceedings",
+            "secret-society",
+            "brainwashing",
+            "sex-trafficking",
+            "racketeering"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "suspenseful",
+            "disturbing",
+            "unsettling",
+            "serious"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "true-crime",
+            "investigative-documentary"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "manipulative-leader",
+            "victim",
+            "investigator",
+            "cult-member"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "investigative-report"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "nxivm-branding",
+            "dos-society",
+            "keith-raniere",
+            "courtroom-scene",
+            "secret-documents"
+          ],
+          "maturity_and_content": [
+            "sexual-content",
+            "graphic-violence",
+            "abuse-themes",
+            "manipulation"
+          ]
+        },
+        "keyword_sentence": "The Vow is a disturbing true-crime documentary series that investigates the manipulative dynamics and coercive control within the NXIVM cult, exposing themes of abuse and deception through legal proceedings and the personal accounts of former members."
+      },
+      "duration_seconds": 70.86106586456299
+    }
+  }
+}

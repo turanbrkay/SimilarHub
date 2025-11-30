@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "The Grand Tour",
+    "overview": "Jeremy Clarkson, Richard Hammond and James May are back with a show about adventure, excitement and friendship... as long as you accept that the people you call friends are also the ones you find extremely annoying. Sometimes it's even a show about cars. Follow them on their global adventure.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2016,
+    "vote_count": 608
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Grand Tour is a travel and motoring reality series following the dynamic trio of Jeremy Clarkson, Richard Hammond, and James May. The show blends high-octane driving challenges with comedic banter and exploration of diverse locations worldwide. It's a celebration of adventure, friendship, and the occasional automotive mishap, delivered with a distinctly irreverent and self-aware tone. The series thrives on the presenters' established chemistry and their willingness to push boundaries, both on and off the road, offering a lighthearted and entertaining experience for viewers.",
+        "spoiler_rich_plot_summary": "The series begins with the trio embarking on a specially-built 'tent' that travels the globe, allowing them to film in various locations. Each episode typically features a 'conversation street' segment where they discuss current events and automotive news, followed by a driving challenge or expedition. Over the seasons, they're seen tackling ambitious driving feats, from racing across Mongolia in classic cars to building electric vehicles. The show's format evolves, incorporating more elaborate set pieces and special guests, while maintaining the core dynamic of the presenters' often-combative but ultimately supportive relationship. While individual challenges and locations change, the underlying narrative remains consistent: a group of friends exploring the world and sharing their experiences with humor and a touch of chaos.",
+        "categorized_keywords": {
+          "themes": [
+            "adventure",
+            "friendship",
+            "travel",
+            "humor",
+            "automotive-culture"
+          ],
+          "plot_and_concepts": [
+            "road-trip",
+            "automotive-challenge",
+            "conversation-segment",
+            "global-exploration"
+          ],
+          "mood_and_tone": [
+            "comedic",
+            "lighthearted",
+            "irreverent",
+            "energetic"
+          ],
+          "genre_and_tropes": [
+            "reality-tv",
+            "travel-show",
+            "automotive-entertainment"
+          ],
+          "setting": [
+            "global",
+            "various-locations",
+            "automotive-environment"
+          ],
+          "character_archetypes": [
+            "comedic-personality",
+            "adventurer",
+            "car-enthusiast"
+          ],
+          "narrative_style": [
+            "episodic",
+            "travel-log",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "car-enthusiasts"
+          ],
+          "detail_plot": [
+            "grand-tour-tent",
+            "conversation-street",
+            "classic-cars",
+            "electric-vehicles"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Grand Tour is a lighthearted reality show where three comedic personalities embark on a global adventure, blending automotive challenges with irreverent humor and a celebration of friendship."
+      },
+      "duration_seconds": 53.95485782623291
+    }
+  }
+}

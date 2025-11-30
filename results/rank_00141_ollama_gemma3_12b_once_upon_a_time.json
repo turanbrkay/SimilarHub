@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Once Upon a Time",
+    "overview": "There is a town in Maine where every story book character you've ever known is trapped between two worlds, victims of a powerful curse. Only one knows the truth and only one can break the spell.\n\nEmma Swan is a 28-year-old bail bonds collector who has been supporting herself since she was abandoned as a baby. Things change for her when her son Henry, whom she abandoned years ago, finds her and asks for her help explaining that she is from a different world where she is Snow White's missing daughter.",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2011,
+    "vote_count": 1948
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Once Upon a Time is a fantasy drama series that blends fairy tale archetypes with a contemporary mystery. The show explores themes of family, sacrifice, and the power of belief as characters from classic stories are trapped in a cursed town, their fates intertwined with a woman named Emma Swan. The series combines elements of serialized storytelling with episodic adventures, creating a narrative that appeals to both children and adults. It offers a mix of heartwarming moments and darker, more complex storylines, examining the blurred lines between good and evil and the enduring power of hope.",
+        "spoiler_rich_plot_summary": "The series begins in Storybrooke, Maine, a town where the residents are unaware that they are actually characters from classic fairy tales, trapped under a curse cast by the Evil Queen. Emma Swan, a bail bonds collector, is brought to Storybrooke by her son, Henry, who believes she is the savior destined to break the curse. As Emma adjusts to her role and begins to uncover the truth about Storybrooke, she confronts the Evil Queen and her machinations. The curse is eventually broken, revealing the true identities of the townspeople and unleashing a wave of challenges as the fairytale characters navigate the modern world. Throughout the series, new fairytale realms are introduced, and Emma faces increasingly powerful adversaries, including the Wicked Witch of the West and Peter Pan. The series explores the complexities of family relationships, particularly Emma’s relationship with her birth parents, Snow White and Prince Charming, and her growing bond with Henry. As the series progresses, the boundaries between the fairytale world and the real world become increasingly blurred, leading to epic battles and profound sacrifices. Ultimately, Emma embraces her destiny as the true heir to the throne of the Enchanted Forest, and the series concludes with a sense of hope and the promise of a brighter future for all.",
+        "categorized_keywords": {
+          "themes": [
+            "family-loyalty",
+            "good-vs-evil",
+            "redemption",
+            "sacrifice",
+            "hope",
+            "identity-quest"
+          ],
+          "plot_and_concepts": [
+            "cursed-town",
+            "alternate-reality",
+            "chosen-one",
+            "time-travel",
+            "fairytale-retelling"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "darkly-comic",
+            "hopeful",
+            "mysterious"
+          ],
+          "genre_and_tropes": [
+            "fantasy-drama",
+            "found-family",
+            "chosen-one-narrative",
+            "magic",
+            "supernatural"
+          ],
+          "setting": [
+            "modern-day",
+            "enchanted-forest",
+            "small-town-america",
+            "alternate-timeline"
+          ],
+          "character_archetypes": [
+            "chosen-one",
+            "evil-queen",
+            "reluctant-hero",
+            "wise-mentor",
+            "prince-charming"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "mythology-inspired"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "magic-mirror",
+            "cursed-apple",
+            "enchanted-forest",
+            "storybrooke-maine",
+            "dark-one-curse"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Once Upon a Time weaves together fairytale retellings and a modern mystery, exploring themes of family and sacrifice within a cursed town where hope and magic intertwine."
+      },
+      "duration_seconds": 72.94567584991455
+    }
+  }
+}

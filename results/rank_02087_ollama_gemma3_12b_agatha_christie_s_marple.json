@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Agatha Christie's Marple",
+    "overview": "The adventures of Miss Jane Marple, an elderly spinster living in the quiet little village of St Mary Mead. During her many visits to friends and relatives in other villages, Miss Marple often stumbles upon mysterious murders which she helps solve. Although the police are sometimes reluctant to accept Miss Marple's help, her reputation and unparalleled powers of observation eventually win them over.",
+    "genres": [
+      "Drama",
+      "Crime",
+      "Mystery"
+    ],
+    "release_year": 2004,
+    "vote_count": 90
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Agatha Christie's Marple is a British television series adapting the celebrated author's Miss Marple novels. The show follows the observant spinster, Jane Marple, as she unravels mysteries within seemingly tranquil villages. It blends classic British drama with intricate crime narratives, relying on character-driven suspense and clever deductions rather than action-packed sequences. The series offers a comforting yet intellectually stimulating viewing experience, appealing to fans of traditional mysteries and character-driven storytelling. Miss Marple's ability to see patterns and connections others miss provides a unique perspective on human nature and the darkness that can lurk beneath a veneer of respectability.",
+        "spoiler_rich_plot_summary": "The series begins with Miss Marple residing in St. Mary Mead, a village seemingly untouched by the troubles of the wider world. However, her quiet life is frequently disrupted by visits to friends and relatives in other locations, each visit coinciding with a new and perplexing murder. Miss Marple, often underestimated due to her age and unassuming demeanor, quietly observes the inhabitants and their relationships, drawing parallels between the present crime and past events she has witnessed. She often clashes with local police, who initially dismiss her insights, but gradually come to respect her keen intellect and ability to uncover the truth. As the series progresses, Miss Marple confronts a variety of suspects, from wealthy landowners to seemingly innocent villagers, each harboring secrets and motives. The investigations often reveal complex family dynamics, long-held grudges, and hidden desires, ultimately leading to the exposure of the perpetrator and the restoration of order within the community. While Miss Marple consistently solves the crimes, the underlying themes of human fallibility and the fragility of appearances remain constant.",
+        "categorized_keywords": {
+          "themes": [
+            "deception",
+            "social-class",
+            "human-nature",
+            "justice",
+            "appearances-vs-reality",
+            "small-town-secrets"
+          ],
+          "plot_and_concepts": [
+            "whodunit",
+            "crime-investigation",
+            "detective-fiction",
+            "red-herring",
+            "misdirection"
+          ],
+          "mood_and_tone": [
+            "cozy-mystery",
+            "suspenseful",
+            "gentle",
+            "observational"
+          ],
+          "genre_and_tropes": [
+            "british-drama",
+            "crime-procedural",
+            "detective-series",
+            "whodunit-mystery"
+          ],
+          "setting": [
+            "british-countryside",
+            "english-villages",
+            "post-war-britain"
+          ],
+          "character_archetypes": [
+            "elderly-detective",
+            "observant-character",
+            "unassuming-heroine",
+            "local-police"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "fans-of-mystery"
+          ],
+          "detail_plot": [
+            "country-estate",
+            "village-fete",
+            "local-pub",
+            "police-station",
+            "tea-party"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Agatha Christie's Marple offers a gentle and suspenseful British drama, where an observant elderly detective unravels intricate mysteries within seemingly tranquil English villages, exposing the dark secrets that lie beneath the surface of a close-knit community."
+      },
+      "duration_seconds": 71.3417181968689
+    }
+  }
+}

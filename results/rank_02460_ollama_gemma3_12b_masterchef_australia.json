@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "MasterChef Australia",
+    "overview": "MasterChef Australia is a Logie Award-winning Australian competitive cooking game show based on the original British MasterChef. It is produced by Shine Australia and screens on Network Ten. Restaurateur and chef Gary Mehigan, chef George Calombaris and food critic Matt Preston serve as the show's main judges. Journalist Sarah Wilson hosted the first series, however her role was dropped at the end of the series.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2009,
+    "vote_count": 68
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "MasterChef Australia is a reality television competition showcasing amateur cooks vying for culinary excellence. The series combines intense challenges, creative cooking, and expert judging, creating a high-pressure environment where contestants push their skills to the limit. It blends elements of cooking competition, personal narrative, and aspirational lifestyle content, appealing to a broad audience interested in food, cooking, and human drama. The show emphasizes creativity, technical skill, and the pursuit of a professional culinary career.",
+        "spoiler_rich_plot_summary": "The series begins with a large pool of hopeful amateur cooks who undergo initial auditions and mystery box challenges to narrow down the field. The remaining contestants then face a series of progressively difficult cooking challenges, including team-based competitions, pressure tests, and themed cooking tasks. Throughout the competition, contestants are eliminated based on their performance, with the judges providing critiques and guidance. The show often features guest chef appearances and unique culinary experiences. As the competition intensifies, alliances and rivalries develop among the contestants. The final few contestants compete in a high-stakes finale, where one cook is crowned the MasterChef Australia, receiving a prize package and the opportunity to pursue their culinary dreams.",
+        "categorized_keywords": {
+          "themes": [
+            "cooking-competition",
+            "culinary-ambition",
+            "personal-growth",
+            "pressure",
+            "teamwork",
+            "competition"
+          ],
+          "plot_and_concepts": [
+            "cooking-challenges",
+            "mystery-box",
+            "pressure-test",
+            "elimination",
+            "guest-chef"
+          ],
+          "mood_and_tone": [
+            "competitive",
+            "high-stakes",
+            "inspiring",
+            "tense"
+          ],
+          "genre_and_tropes": [
+            "reality-tv",
+            "cooking-show",
+            "competition-series"
+          ],
+          "setting": [
+            "australia",
+            "professional-kitchen"
+          ],
+          "character_archetypes": [
+            "aspiring-chef",
+            "seasoned-judge",
+            "competitive-personality"
+          ],
+          "narrative_style": [
+            "elimination-format",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "food-lovers",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "cooking-station",
+            "judges-panel",
+            "mystery-box",
+            "signature-dish"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "MasterChef Australia is a competitive reality television series showcasing aspiring chefs in Australia, facing high-stakes cooking challenges and striving for culinary ambition under the scrutiny of seasoned judges."
+      },
+      "duration_seconds": 52.683215856552124
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "The Muppet Show",
+    "overview": "Go behind the curtains as Kermit the Frog and his muppet friends struggle to put on a weekly variety show.",
+    "genres": [
+      "Kids",
+      "Comedy",
+      "Family"
+    ],
+    "release_year": 1976,
+    "vote_count": 247
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Muppet Show is a whimsical variety show centered around Kermit the Frog's attempts to manage a chaotic ensemble of Muppet performers. The series blends comedy, music, and slapstick humor, often featuring celebrity guest stars interacting with the Muppets in absurd and endearing situations. It's a celebration of creativity, friendship, and the joy of performance, appealing to audiences of all ages with its lighthearted tone and universal themes of collaboration and acceptance. The show's enduring charm lies in its ability to find humor in the everyday struggles of putting on a show, while also showcasing the power of imagination and the importance of embracing individuality.",
+        "spoiler_rich_plot_summary": "Each episode of The Muppet Show follows a similar structure: Kermit attempts to organize the show, often encountering resistance from the other Muppets, particularly Miss Piggy's diva antics and Fozzie Bear's consistently unsuccessful jokes. Guest stars are introduced, often initially bewildered by the Muppets' antics but eventually drawn into the chaotic fun. While there isn't a continuous overarching plot, recurring themes emerge, such as Miss Piggy's pursuit of stardom, Gonzo's eccentric and often dangerous stunts, and the ongoing attempts to keep the show running smoothly despite the constant mayhem. The series culminates in a final episode that acknowledges the end of the run, with the Muppets expressing bittersweet feelings about saying goodbye to the show and their audience, but also hinting at the enduring power of their friendship and the memories they're leaving behind.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "creativity",
+            "performance",
+            "acceptance",
+            "nostalgia",
+            "celebration"
+          ],
+          "plot_and_concepts": [
+            "variety-show",
+            "guest-star-appearance",
+            "slapstick-comedy",
+            "ensemble-cast",
+            "behind-the-scenes"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "joyful",
+            "absurd",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "comedy",
+            "family-entertainment",
+            "musical-comedy",
+            "satire"
+          ],
+          "setting": [
+            "theatre-stage",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "diva",
+            "eccentric-performer",
+            "straight-man",
+            "optimistic-leader"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-elements"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "kermit-frog",
+            "miss-piggy",
+            "fozzie-bear",
+            "gonzo",
+            "theatre-curtain"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Muppet Show is a lighthearted and joyful family-entertainment series set on a theatre stage, celebrating friendship and creativity through absurd comedy and memorable guest star appearances."
+      },
+      "duration_seconds": 56.94072222709656
+    }
+  }
+}

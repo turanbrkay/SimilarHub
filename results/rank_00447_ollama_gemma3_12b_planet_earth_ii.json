@@ -1,0 +1,70 @@
+{
+  "input_data": {
+    "title": "Planet Earth II",
+    "overview": "David Attenborough presents a documentary series exploring how animals meet the challenges of surviving in the most iconic habitats on earth.",
+    "genres": "Documentary",
+    "release_year": 2016,
+    "vote_count": 687
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Planet Earth II is a visually stunning nature documentary series that showcases the remarkable adaptations of animals across diverse habitats. Narrated by David Attenborough, the series emphasizes the challenges faced by wildlife in a rapidly changing world, highlighting both their resilience and vulnerability. Through breathtaking cinematography and insightful commentary, the series aims to inspire a deeper appreciation for the natural world and the importance of conservation efforts. The series blends scientific observation with emotional storytelling, creating a compelling and immersive viewing experience. It offers a profound look at the interconnectedness of life and the beauty of our planet.",
+        "spoiler_rich_plot_summary": "The series is structured around six distinct habitats: islands, mountains, deserts, grasslands, forests, and jungles. Each episode explores the unique challenges and opportunities presented by these environments, focusing on the animals that have evolved to thrive within them. Viewers witness incredible feats of survival, from the agile climbing of mountain goats to the cunning hunting strategies of desert predators. The series demonstrates how animals adapt to extreme conditions, showcasing their physical and behavioral traits. While the series doesn's follow a traditional narrative arc, it subtly underscores the impact of human activity on these habitats, hinting at the precariousness of the animals' existence and the need for protection. The final episodes emphasize the importance of conservation and the potential for a sustainable future for both wildlife and humanity.",
+        "categorized_keywords": {
+          "themes": [
+            "nature-conservation",
+            "animal-adaptation",
+            "environmental-awareness",
+            "biodiversity",
+            "survival"
+          ],
+          "plot_and_concepts": [
+            "documentary-format",
+            "habitats-exploration",
+            "wildlife-photography",
+            "animal-behavior"
+          ],
+          "mood_and_tone": [
+            "awe-inspiring",
+            "informative",
+            "serene",
+            "observational"
+          ],
+          "genre_and_tropes": [
+            "nature-documentary",
+            "wildlife-film"
+          ],
+          "setting": [
+            "islands",
+            "mountains",
+            "deserts",
+            "grasslands",
+            "forests",
+            "jungles",
+            "modern-era"
+          ],
+          "character_archetypes": [
+            "naturalist-narrator"
+          ],
+          "narrative_style": [
+            "episodic-structure"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "aerial-footage",
+            "close-up-shots",
+            "time-lapse-photography",
+            "animal-migration"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Planet Earth II is an awe-inspiring nature documentary series that explores the remarkable adaptations of animals across diverse habitats, highlighting the importance of environmental awareness and conservation efforts."
+      },
+      "duration_seconds": 99.04186987876892
+    }
+  }
+}

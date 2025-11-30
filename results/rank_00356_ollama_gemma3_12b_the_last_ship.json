@@ -1,0 +1,86 @@
+{
+  "input_data": {
+    "title": "The Last Ship",
+    "overview": "Their mission is simple: Find a cure. Stop the virus. Save the world. When a global pandemic wipes out eighty percent of the planet's population, the crew of a lone naval destroyer must find a way to pull humanity from the brink of extinction.",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2014,
+    "vote_count": 853
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Last Ship is a post-apocalyptic action drama centered on the crew of a U.S. Navy destroyer who, while on a routine mission, find themselves the only hope for humanity after a devastating global pandemic. The series blends elements of military procedural, disaster thriller, and medical drama, exploring themes of leadership, sacrifice, and the moral complexities of survival. The narrative follows the crew as they navigate the challenges of rebuilding society while searching for a cure and confronting various threats, both human and viral. The show offers a suspenseful and often intense viewing experience, punctuated by moments of hope and camaraderie amidst widespread devastation.",
+        "spoiler_rich_plot_summary": "The series begins with a deadly virus, known as the Red Flu, rapidly spreading across the globe, wiping out the vast majority of the population. The USS Nathan James, under the command of Navy Commander Tom Chandler, is deployed on a routine mission and avoids the initial outbreak. Upon returning home, they discover a world ravaged by the pandemic. Dr. Rachel Scott, a virologist, joins the crew and they begin a desperate search for a cure, following clues left by the deceased scientist who initially developed the virus. Their journey takes them across the globe, encountering pockets of survivors, hostile factions vying for power, and remnants of the old world's infrastructure. Chandler struggles with the weight of leadership and his personal history, while Scott grapples with the ethical implications of her work. As they progress, they uncover a conspiracy surrounding the virus's origins and the involvement of shadowy organizations. The crew faces numerous challenges, including battling rogue nations, confronting bio-engineered threats, and making difficult choices to protect the remaining population. The search for a cure leads to confrontations with those who seek to exploit the chaos for their own gain, ultimately forcing the crew to confront the true nature of humanity and the sacrifices required to rebuild a shattered world. The series culminates in a final confrontation with the forces behind the pandemic, offering a glimmer of hope for the future but leaving the long-term consequences of the disaster uncertain.",
+        "categorized_keywords": {
+          "themes": [
+            "survival",
+            "leadership",
+            "sacrifice",
+            "moral-ambiguity",
+            "rebuilding-society",
+            "disease-outbreak",
+            "conspiracy"
+          ],
+          "plot_and_concepts": [
+            "disease-cure",
+            "post-apocalyptic",
+            "military-operation",
+            "global-pandemic",
+            "bio-terrorism",
+            "conspiracy-theory"
+          ],
+          "mood_and_tone": [
+            "tense",
+            "suspenseful",
+            "hopeful",
+            "grim",
+            "action-oriented"
+          ],
+          "genre_and_tropes": [
+            "military-procedural",
+            "disaster-thriller",
+            "medical-drama",
+            "found-family",
+            "action-adventure"
+          ],
+          "setting": [
+            "global",
+            "naval-ship",
+            "post-apocalyptic-world",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "brilliant-scientist",
+            "military-commander",
+            "loyal-crew"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "naval-ship",
+            "disease-sample",
+            "medical-lab",
+            "military-uniform",
+            "disease-outbreak"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "medical-horror"
+          ]
+        },
+        "keyword_sentence": "Amidst a global pandemic and the collapse of civilization, the crew of a naval ship must navigate moral ambiguities and military operations to find a cure and rebuild society, facing tense and suspenseful challenges in a post-apocalyptic world."
+      },
+      "duration_seconds": 80.33096599578857
+    }
+  }
+}

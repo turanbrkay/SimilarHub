@@ -1,0 +1,69 @@
+{
+  "input_data": {
+    "title": "My Two Dads",
+    "overview": "My Two Dads is an American sitcom that starred Staci Keanan, Paul Reiser and Greg Evigan. It aired on NBC from 1987 to 1990 and was produced by Michael Jacobs Productions in association with Tri-Star Television and distributed by TeleVentures.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1987,
+    "vote_count": 39
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "My Two Dads is a family sitcom that explores the unconventional dynamics of a single mother raising two fathers. The series blends humor with heartwarming moments as it navigates the challenges and joys of a blended family. It offers a lighthearted and optimistic portrayal of acceptance, love, and the evolving definition of family in the late 1980s. The show's appeal lies in its ability to find comedy within everyday situations while promoting a message of inclusivity and understanding. It's a feel-good sitcom designed for broad family audiences.",
+        "spoiler_rich_plot_summary": "The series begins with Elizabeth Santelli, a young widow, unexpectedly finding herself with two men vying for her attention and the role of father to her young daughter, Nicole. Paul Reiser portrays Arthur Sipowicz, a cardiologist, and Greg Evigan plays Bob Gelman, a Hollywood screenwriter. Initially, the situation is rife with comedic misunderstandings and awkward encounters as the three attempt to adjust to their new living arrangement. Over the course of the series, Arthur and Bob develop a genuine friendship, learning to co-parent and support Elizabeth through various personal and professional challenges. While romantic relationships with Elizabeth remain a recurring theme, the core of the show focuses on the evolving bond between the three characters and the creation of a unique and loving family unit. The series concludes with a sense of stability and contentment, showcasing the enduring strength of their unconventional family.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "parenthood",
+            "friendship",
+            "acceptance",
+            "love",
+            "non-traditional-family"
+          ],
+          "plot_and_concepts": [
+            "blended-family",
+            "sitcom-formula",
+            "romantic-comedy"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "optimistic",
+            "feel-good"
+          ],
+          "genre_and_tropes": [
+            "family-sitcom",
+            "romantic-comedy",
+            "found-family"
+          ],
+          "setting": [
+            "1980s",
+            "los-angeles-california"
+          ],
+          "character_archetypes": [
+            "single-mother",
+            "reluctant-hero",
+            "quirky-friend"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "family-home",
+            "childhood-memories",
+            "parent-child-relationship"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "My Two Dads is a lighthearted family sitcom set in 1980s Los Angeles, exploring the heartwarming dynamics of a single mother and her two fathers as they navigate parenthood and friendship in an unconventional family."
+      },
+      "duration_seconds": 53.14886832237244
+    }
+  }
+}

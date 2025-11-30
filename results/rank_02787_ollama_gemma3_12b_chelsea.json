@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "Chelsea",
+    "overview": "It's not her first talk show, but it is a first of its kind. Ideas, people and places that fascinate her, all in her unique style.",
+    "genres": [
+      "Talk"
+    ],
+    "release_year": 2016,
+    "vote_count": 55
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Chelsea is a talk show hosted by Chelsea Handler, distinguished by its conversational, often irreverent, and politically charged discussions. The show blends interviews with celebrities, politicians, and experts, alongside Handler's signature comedic commentary and personal anecdotes. It aims to explore a wide range of topics, from current events and pop culture to social issues and personal experiences, fostering a relaxed and engaging atmosphere for both the host and the audience. The show's format prioritizes spontaneity and genuine connection over traditional talk show conventions, creating a unique and often unpredictable viewing experience.",
+        "spoiler_rich_plot_summary": "Chelsea's format eschews a traditional narrative arc, instead opting for a series of episodic conversations. Each episode centers around a theme or guest, allowing Handler to explore diverse topics and perspectives. Recurring segments often involve Handler's travel experiences and interactions with various individuals, providing a glimpse into her personal life and worldview. While there isn't a central plot to follow, the show develops a sense of continuity through Handler's evolving opinions and relationships with frequent guests. The show's overall trajectory reflects Handler's ongoing engagement with contemporary issues and her willingness to challenge conventional norms, offering a consistently thought-provoking and entertaining platform for dialogue.",
+        "categorized_keywords": {
+          "themes": [
+            "political-commentary",
+            "pop-culture",
+            "social-issues",
+            "personal-anecdotes",
+            "feminism",
+            "satire"
+          ],
+          "plot_and_concepts": [
+            "interview-format",
+            "travel-segment",
+            "monologue",
+            "panel-discussion"
+          ],
+          "mood_and_tone": [
+            "irreverent",
+            "comedic",
+            "candid",
+            "conversational",
+            "satirical"
+          ],
+          "genre_and_tropes": [
+            "talk-show",
+            "political-satire",
+            "celebrity-interview"
+          ],
+          "setting": [
+            "studio-setting",
+            "travel-locations"
+          ],
+          "character_archetypes": [
+            "candid-host",
+            "opinionated-personality"
+          ],
+          "narrative_style": [
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "studio-audience",
+            "interview-chair",
+            "microphone"
+          ],
+          "maturity_and_content": [
+            "adult-language",
+            "political-humor"
+          ]
+        },
+        "keyword_sentence": "Chelsea is a candid talk show that blends celebrity interviews, political commentary, and personal anecdotes with an irreverent and comedic tone, offering adult viewers a unique perspective on pop culture and social issues."
+      },
+      "duration_seconds": 48.96171808242798
+    }
+  }
+}

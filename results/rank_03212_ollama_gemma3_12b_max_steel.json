@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Max Steel",
+    "overview": "Max Steel is a science fiction–comedy, CGI–animated series. It is a re-imagining of its predecessor of the same name, as well as being based on the Mattel action-figure also of the same name. Max Steel premiered on March 25, 2013 on Disney XD.",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2013,
+    "vote_count": 42
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Max Steel is a CGI-animated series blending action and adventure with science fiction and comedy. The show follows a teenager who merges with an alien nanomite to become a super-powered hero, battling threats to protect the world. It targets a younger audience with its fast-paced action sequences and humorous tone, exploring themes of responsibility, teamwork, and embracing one's unique abilities. The series emphasizes a balance between thrilling action and lighthearted character interactions, creating an engaging experience for fans of superhero narratives.",
+        "spoiler_rich_plot_summary": "The series begins with Max Steel, a skilled but somewhat reckless teenager, stumbling upon N-Tec, a secretive organization developing advanced technology. During an accident, he merges with Steel, an alien nanomite, granting him extraordinary powers and transforming him into Max Steel. He is then recruited by N-Tec to combat threats posed by Dr. Tox, a former N-Tec scientist who seeks to exploit advanced technology for his own nefarious purposes. Throughout the series, Max and his friend Washington navigate complex missions, facing off against Dr. Tox’s increasingly dangerous schemes and uncovering secrets about N-Tec’s past. As Max’s powers grow, he grapples with the responsibility that comes with them, learning to control his abilities and work alongside Washington and other allies. The overarching narrative involves a constant struggle against Dr. Tox’s attempts to destabilize the world and expose N-Tec’s covert operations, culminating in a final confrontation where Max must fully embrace his role as a protector.",
+        "categorized_keywords": {
+          "themes": [
+            "responsibility",
+            "teamwork",
+            "self-discovery",
+            "good-vs-evil",
+            "technology-ethics"
+          ],
+          "plot_and_concepts": [
+            "nanotechnology",
+            "superhero-origin",
+            "secret-organization",
+            "sci-fi-action",
+            "villain-redemption"
+          ],
+          "mood_and_tone": [
+            "action-packed",
+            "humorous",
+            "optimistic",
+            "adventurous",
+            "lighthearted"
+          ],
+          "genre_and_tropes": [
+            "sci-fi",
+            "action-adventure",
+            "superhero",
+            "coming-of-age",
+            "found-family"
+          ],
+          "setting": [
+            "modern-day",
+            "urban-environment",
+            "secret-lab",
+            "technological-future"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "loyal-friend",
+            "genius-inventor",
+            "antagonist-scientist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-adventure",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult",
+            "children"
+          ],
+          "detail_plot": [
+            "nanomite-fusion",
+            "super-suit",
+            "secret-base",
+            "high-tech-gadgets",
+            "villain-lair"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Max Steel is an action-packed, animated series blending science fiction and superhero tropes, following a young hero who embraces his extraordinary abilities to protect the world alongside his loyal friends."
+      },
+      "duration_seconds": 59.61437368392944
+    }
+  }
+}

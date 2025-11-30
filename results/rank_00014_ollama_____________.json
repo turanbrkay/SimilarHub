@@ -1,0 +1,100 @@
+{
+  "input_data": {
+    "title": "The Simpsons",
+    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+    "genres": [
+      "Family",
+      "Animation",
+      "Comedy"
+    ],
+    "release_year": 1989,
+    "vote_count": 9136
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Simpsons is a long‑running animated sitcom that lampoons American culture through the everyday misadventures of a dysfunctional family in the fictional town of Springfield. Its humor blends sharp political and media satire with absurd, often meta‑referential gags that have become cultural touchstones. Over three decades the series has evolved from simple domestic sketches to complex, serialized storylines while maintaining a core focus on family dynamics, generational conflict, and social critique. The show’s irreverent tone and iconic characters have cemented it as a pop‑culture icon that appeals to both children and adults.",
+        "spoiler_rich_plot_summary": "The series debuted in 1989 with the episode \"Simpsons Roasting on an Open Fire,\" establishing the Simpson family—Homer, Marge, Bart, Lisa, and Maggie—as a microcosm of American suburbia. Each episode typically follows a self‑contained narrative that satirizes a particular aspect of society, from politics and media to consumerism and education, often featuring guest stars and recurring characters such as Mr. Burns, Ned Flanders, and Sideshow Bob. Over the years the show has introduced long‑running story arcs, such as Homer’s career changes, Bart’s rebellious schemes, Lisa’s activism, and Marge’s relationship with her mother, while also exploring fantastical episodes like time‑travel, dream‑worlds, and apocalyptic scenarios. The narrative remains episodic, with occasional serialized threads, and the series continues to air new episodes, so no definitive conclusion exists yet.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "political-satire",
+            "media-satire",
+            "consumerism",
+            "generational-conflict",
+            "absurdity",
+            "cultural-critique",
+            "social-issues"
+          ],
+          "plot_and_concepts": [
+            "animated-sitcom",
+            "family-structure",
+            "parody",
+            "guest-star-episodes",
+            "running-gag",
+            "meta-humor",
+            "cultural-references",
+            "cartoon-logic"
+          ],
+          "mood_and_tone": [
+            "satirical",
+            "humorous",
+            "irreverent",
+            "quirky",
+            "cynical",
+            "absurd"
+          ],
+          "genre_and_tropes": [
+            "animated-comedy",
+            "family-comedy",
+            "parody",
+            "running-gag",
+            "cultural-spotlight",
+            "cynical-humor"
+          ],
+          "setting": [
+            "small-town-america",
+            "modern-america",
+            "springfield"
+          ],
+          "character_archetypes": [
+            "everyman",
+            "dumb-hero",
+            "overbearing-parent",
+            "rebellious-teen",
+            "intellectual",
+            "toddler",
+            "villain-guest"
+          ],
+          "narrative_style": [
+            "episodic",
+            "anthology-like",
+            "serialized-threads",
+            "non-linear-occasionally"
+          ],
+          "target_audience": [
+            "family-friendly",
+            "mature-audiences",
+            "animation-lovers",
+            "pop-culture-enthusiasts"
+          ],
+          "detail_plot": [
+            "couch-gag",
+            "krusty-cookies",
+            "homer-beer",
+            "lisa-saxophone",
+            "barney-king",
+            "sideshow-bob",
+            "maggie-pacifier",
+            "springfield-nuclear-plant",
+            "marge-mother",
+            "krusty-krust",
+            "fox-fox"
+          ]
+        },
+        "keyword_sentence": "The Simpsons is a satirical, animated family comedy set in a small-town America, featuring iconic characters like Homer, Marge, Bart, Lisa, and Maggie, with recurring gags such as the couch gag and Krusty’s cookies, and it blends political and media satire with absurd humor and cultural critique."
+      },
+      "duration_seconds": 145.1251986026764
+    }
+  }
+}

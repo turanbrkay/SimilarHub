@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Jane Eyre",
+    "overview": "Charlotte Bronte's classic about an orphan girl who grows up to become a governess in a gloomy manor in Yorkshire, where she falls in love with the mysterious Edward Rochester.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2006,
+    "vote_count": 111
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Jane Eyre (2006) is a British television adaptation of Charlotte Brontë's iconic novel, exploring themes of social class, gender inequality, and the search for personal fulfillment. The series follows the titular character's journey from a difficult childhood to a position as a governess, where she confronts societal constraints and navigates a complex romantic relationship. It blends elements of Gothic romance, period drama, and coming-of-age narratives, offering a poignant and emotionally resonant portrayal of a woman striving for independence and love in a restrictive era. The series is characterized by its atmospheric visuals, strong performances, and faithful adaptation of the source material.",
+        "spoiler_rich_plot_summary": "The series begins with Jane Eyre's unhappy childhood, marked by neglect and abuse at the hands of her aunt and cousins. She is eventually sent to Lowood School, a harsh charitable institution where she endures further hardship but also finds friendship and education. Upon leaving Lowood, Jane secures a position as a governess at Thornfield Hall, where she meets the enigmatic Mr. Rochester. A passionate and unconventional romance blossoms between them, but Jane discovers a dark secret: Rochester is already married to a woman, Bertha Mason, who is confined to the attic. Devastated, Jane flees Thornfield, finding refuge with the Rivers family, where she learns of a substantial inheritance. Torn between her feelings for Rochester and her sense of duty, she ultimately returns to Thornfield, only to find it ravaged by fire and Bertha Mason dead. Rochester, severely injured, is now a shadow of his former self, and Jane, finally free to choose, accepts his hand in marriage, finding a measure of happiness and equality.",
+        "categorized_keywords": {
+          "themes": [
+            "social-class",
+            "gender-inequality",
+            "personal-fulfillment",
+            "love-and-loss",
+            "redemption",
+            "female-empowerment",
+            "moral-conflict"
+          ],
+          "plot_and_concepts": [
+            "gothic-romance",
+            "coming-of-age",
+            "secret-marriage",
+            "inheritance",
+            "fire-and-destruction"
+          ],
+          "mood_and_tone": [
+            "melancholy",
+            "atmospheric",
+            "romantic",
+            "somber",
+            "poignant"
+          ],
+          "genre_and_tropes": [
+            "period-drama",
+            "gothic-novel",
+            "romantic-drama",
+            "bildungsroman"
+          ],
+          "setting": [
+            "19th-century-england",
+            "yorkshire-moorland",
+            "manor-house"
+          ],
+          "character_archetypes": [
+            "orphan",
+            "governess",
+            "brooding-hero",
+            "madwoman-in-the-attic",
+            "moral-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "first-person-narration"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "lowood-school",
+            "thornfield-hall",
+            "yorkshire-moor",
+            "attic-window",
+            "rivers-family"
+          ],
+          "maturity_and_content": [
+            "emotional-abuse",
+            "madness",
+            "marital-secrets"
+          ]
+        },
+        "keyword_sentence": "Jane Eyre is a poignant period drama exploring themes of female empowerment and social class within a gothic romance setting, characterized by a melancholy tone and a brooding hero confronting marital secrets."
+      },
+      "duration_seconds": 71.92210650444031
+    }
+  }
+}

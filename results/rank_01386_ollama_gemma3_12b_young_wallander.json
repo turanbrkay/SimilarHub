@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Young Wallander",
+    "overview": "An incendiary hate crime stirs civil unrest, fast-tracking rookie cop Kurt Wallander to detective in this origin story for the popular character.",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Crime"
+    ],
+    "release_year": 2020,
+    "vote_count": 165
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Young Wallander is a crime drama series that serves as an origin story for the iconic Swedish detective. The series explores the early career of Kurt Wallander as he navigates the complexities of police work and grapples with personal demons while investigating a series of disturbing crimes. It blends procedural elements with a focus on the psychological toll of law enforcement, set against the backdrop of a contemporary Swedish society facing social unrest and prejudice. The series aims to portray a more grounded and realistic depiction of police work, emphasizing the emotional and moral challenges faced by officers.",
+        "spoiler_rich_plot_summary": "The series begins with a racially motivated hate crime that ignites tensions within the community and places rookie detective Kurt Wallander on the fast track to a high-profile case. Wallander, still grappling with the loss of his parents and struggling to connect with his daughter, finds himself investigating a complex web of suspects and motives. As he delves deeper into the case, he uncovers a network of organized crime and societal prejudice that challenges his understanding of justice. The investigation forces Wallander to confront his own biases and limitations, pushing him to the brink of burnout. Throughout the series, Wallander's personal struggles intertwine with the unfolding mystery, revealing the profound impact of his work on his mental and emotional well-being. The series culminates in a confrontation with the perpetrators, leaving Wallander questioning the true cost of justice and the future of his career.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "prejudice",
+            "loss",
+            "family-dynamics",
+            "police-corruption",
+            "social-unrest"
+          ],
+          "plot_and_concepts": [
+            "hate-crime",
+            "police-investigation",
+            "serial-crime",
+            "organized-crime"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "gritty",
+            "suspenseful",
+            "somber"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "police-drama",
+            "mystery",
+            "slow-burn"
+          ],
+          "setting": [
+            "sweden",
+            "modern-day",
+            "small-town"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "troubled-detective",
+            "moral-ambiguity"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "crime-scene",
+            "police-station",
+            "interrogation-room"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "Young Wallander is a dark and gritty crime drama set in modern-day Sweden, exploring themes of justice, prejudice, and loss through the eyes of a troubled detective navigating a complex police investigation."
+      },
+      "duration_seconds": 58.8465256690979
+    }
+  }
+}

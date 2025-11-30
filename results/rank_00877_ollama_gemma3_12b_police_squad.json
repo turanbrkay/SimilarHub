@@ -1,0 +1,70 @@
+{
+  "input_data": {
+    "title": "Police Squad!",
+    "overview": "In this cult parody of cop dramas, replete with farce and sight gags, Lieutenant Frank Drebin and his fellow officers from Police Squad bungle their way though crime investigations.",
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "release_year": 1982,
+    "vote_count": 304
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Police Squad! is a groundbreaking television parody that deconstructs the tropes and conventions of police procedural dramas. The series employs slapstick humor, absurd situations, and self-aware commentary to satirize the genre's earnestness and formulaic storytelling. Its innovative use of fourth-wall breaks and unreliable narration creates a uniquely comedic and subversive viewing experience, influencing countless comedy shows that followed. The show's short run belies its lasting impact on comedic television.",
+        "spoiler_rich_plot_summary": "Each episode of Police Squad! follows Lieutenant Frank Drebin and his team as they investigate a new crime, typically a seemingly straightforward case that quickly spirals into a chaotic and ridiculous series of events. The investigations are characterized by misinterpretations, accidental discoveries, and a general lack of competence from the police force. Drebin's attempts to solve the cases are constantly undermined by his own blundering and the bizarre behavior of those around him. The show frequently breaks the fourth wall, with characters directly addressing the audience and commenting on the absurdity of the situation. While each episode presents a new case, a larger, overarching mystery involving a recurring villain slowly unfolds, adding a layer of intrigue beneath the comedic chaos. The series concludes with the promise of further investigations, though the overarching plot remains unresolved due to the show's premature cancellation.",
+        "categorized_keywords": {
+          "themes": [
+            "satire",
+            "parody",
+            "absurdism",
+            "law-enforcement",
+            "incompetence"
+          ],
+          "plot_and_concepts": [
+            "police-procedural",
+            "fourth-wall-break",
+            "mystery",
+            "recurring-villain"
+          ],
+          "mood_and_tone": [
+            "slapstick",
+            "wholesome",
+            "lighthearted",
+            "surreal"
+          ],
+          "genre_and_tropes": [
+            "comedy",
+            "crime",
+            "parody"
+          ],
+          "setting": [
+            "modern-day",
+            "urban-setting"
+          ],
+          "character_archetypes": [
+            "bumbling-hero",
+            "incompetent-authority"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "police-car",
+            "interrogation-room",
+            "crime-scene",
+            "detective-hat"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Police Squad! is a lighthearted comedy series that satirizes the conventions of police procedurals through slapstick humor and fourth-wall breaks, creating a uniquely absurd and entertaining viewing experience."
+      },
+      "duration_seconds": 58.912208795547485
+    }
+  }
+}

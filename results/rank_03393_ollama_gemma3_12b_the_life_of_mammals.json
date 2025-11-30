@@ -1,0 +1,70 @@
+{
+  "input_data": {
+    "title": "The Life of Mammals",
+    "overview": "David Attenborough presents a nature documentary series looking at why mammals are the most successful creatures on the planet.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2002,
+    "vote_count": 38
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Life of Mammals is a nature documentary series presented by David Attenborough, exploring the evolutionary success and diverse behaviors of mammals across the globe. Through stunning visuals and Attenborough's insightful narration, the series delves into the adaptations, social structures, and ecological roles of various mammalian species. It aims to showcase the remarkable resilience and complexity of these creatures, highlighting their importance within the planet's ecosystems. The series combines scientific rigor with accessible storytelling, appealing to a broad audience interested in natural history and wildlife conservation. It emphasizes the interconnectedness of life and the challenges facing mammalian populations in a changing world.",
+        "spoiler_rich_plot_summary": "The series follows a chronological exploration of mammalian evolution, beginning with their origins and tracing their diversification across different habitats. Each episode focuses on a specific aspect of mammalian life, such as their hunting strategies, communication methods, and parental care. The series showcases a wide range of environments, from tropical rainforests to arctic tundra, demonstrating how mammals have adapted to survive in diverse conditions. Throughout the series, Attenborough highlights the impact of human activity on mammalian populations, emphasizing the need for conservation efforts to protect these vulnerable species. The narrative progresses through various ecological challenges and triumphs, illustrating the ongoing struggle for survival and the remarkable ability of mammals to adapt and thrive.",
+        "categorized_keywords": {
+          "themes": [
+            "natural-history",
+            "evolution",
+            "adaptation",
+            "conservation",
+            "biodiversity",
+            "ecosystems"
+          ],
+          "plot_and_concepts": [
+            "wildlife-documentary",
+            "scientific-exploration",
+            "behavioral-studies",
+            "ecological-relationships"
+          ],
+          "mood_and_tone": [
+            "informative",
+            "awe-inspiring",
+            "observational",
+            "respectful"
+          ],
+          "genre_and_tropes": [
+            "nature-documentary",
+            "wildlife-photography"
+          ],
+          "setting": [
+            "global",
+            "diverse-habitats",
+            "natural-world"
+          ],
+          "character_archetypes": [
+            "naturalist",
+            "observer"
+          ],
+          "narrative_style": [
+            "serialized-exploration"
+          ],
+          "target_audience": [
+            "general-audience",
+            "nature-enthusiasts"
+          ],
+          "detail_plot": [
+            "animal-behavior",
+            "wildlife-footage",
+            "geographic-locations",
+            "mammalian-species"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Life of Mammals is an informative and awe-inspiring nature documentary series that explores the evolution, adaptation, and diverse behaviors of mammals across global ecosystems, highlighting the importance of conservation and the wonders of the natural world."
+      },
+      "duration_seconds": 50.57727289199829
+    }
+  }
+}

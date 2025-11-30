@@ -1,0 +1,103 @@
+{
+  "input_data": {
+    "title": "Breaking Bad",
+    "overview": "When Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "release_year": 2008,
+    "vote_count": 12398
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Breaking Bad follows former chemistry teacher Walter White as he transforms from a meek family man into a ruthless drug kingpin, driven by a cancer diagnosis and a desperate need to secure his family's future. The series blends intense crime drama with psychological depth, exploring themes of morality, identity, and power in a stark, gritty New Mexico setting. Walter’s evolution into the alter ego Heisenberg is marked by escalating violence, moral compromise, and a relentless pursuit of control. The narrative arc culminates in a dramatic showdown that forces the characters to confront the consequences of their choices.",
+        "spoiler_rich_plot_summary": "Walter White, a high school chemistry teacher in Albuquerque, is diagnosed with terminal lung cancer. He partners with former student Jesse Pinkman to produce and sell methamphetamine, using his chemistry expertise to create a high‑purity product. Over the course of the series, Walter’s criminal enterprise expands, involving a mobile lab in an RV, a partnership with drug dealer Gustavo Fring, and a series of violent confrontations with rival dealers and law enforcement. Walter’s moral decline is mirrored by the deterioration of his marriage to Skyler and the strained relationship with his son, Flynn. Jesse struggles with guilt and addiction, ultimately becoming a reluctant partner and later a victim of Walter’s manipulation. As the drug empire grows, Walter’s alter ego, Heisenberg, asserts dominance, leading to betrayals, killings, and a series of escalating conflicts. The final season sees Walter confronting his former partners, including a showdown with the cartel and a final act of self‑sacrifice that results in his death, while Jesse escapes to a new life. The series ends with the aftermath of Walter’s actions reshaping the lives of those around him.",
+        "categorized_keywords": {
+          "themes": [
+            "moral-decadence",
+            "identity-crisis",
+            "family-sacrifice",
+            "power-hunger",
+            "corruption",
+            "fate",
+            "violence",
+            "ambition"
+          ],
+          "plot_and_concepts": [
+            "meth-cooking",
+            "drug-trafficking",
+            "chemistry",
+            "criminal-entrepreneur",
+            "double-life",
+            "law-enforcement",
+            "fugitive",
+            "betrayal",
+            "heisenberg-identity",
+            "car-wash-operations"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "gritty",
+            "intense",
+            "psychological",
+            "tension",
+            "drama",
+            "violence"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "anti-hero",
+            "cat-and-mouse",
+            "ruthless-entrepreneur",
+            "family-estrangement",
+            "revenge",
+            "redemption-failure"
+          ],
+          "setting": [
+            "modern-new-mexico",
+            "albuquerque",
+            "desert",
+            "high-school",
+            "hospital"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "mentor",
+            "sidekick",
+            "villain",
+            "supportive-spouse",
+            "loyal-partner",
+            "law-guardian"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "character-driven",
+            "slow-burn",
+            "linear"
+          ],
+          "target_audience": [
+            "mature-audiences",
+            "crime-drama-fans",
+            "adult"
+          ],
+          "detail_plot": [
+            "blue-meth",
+            "rv-lab",
+            "cobalt-blue",
+            "car-wash",
+            "heisenberg-hood",
+            "desert-encounters",
+            "family-legacy",
+            "jessie-guilt",
+            "gusto-fring-operations",
+            "final-showdown"
+          ]
+        },
+        "keyword_sentence": "Breaking Bad is a dark, gritty crime drama about a chemistry teacher turned drug kingpin, exploring moral decadence, identity crisis, and family sacrifice through a serialized, character-driven narrative set in modern Albuquerque, where blue meth, RV labs, and relentless power hunger define its intense, violent tone."
+      },
+      "duration_seconds": 127.85353350639343
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Edge of Darkness",
+    "overview": "Yorkshire detective Ronald Craven is haunted by the murder of his daughter and begins his own investigation into her death.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 1985,
+    "vote_count": 35
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Edge of Darkness is a bleak and atmospheric British crime drama exploring themes of grief, corruption, and the erosion of trust within institutions. Set against the backdrop of a rural Yorkshire landscape, the series follows a detective's descent into a conspiracy surrounding his daughter's murder. The narrative blends elements of police procedural with psychological thriller, creating a sense of pervasive dread and paranoia. The show's strength lies in its slow-burn pacing, its nuanced character portrayals, and its unflinching examination of the dark side of human nature.",
+        "spoiler_rich_plot_summary": "The series begins with Detective Ronald Craven grappling with the recent death of his daughter, Emma. While the official investigation concludes her death was a suicide, Craven is convinced there's more to the story. His relentless pursuit of the truth leads him to uncover a clandestine research project involving a pharmaceutical company, Marsh Farm Chemicals, and a government agency. As he delves deeper, he discovers that Emma was involved in the project, which is secretly exploring the effects of a chemical compound on the local population. Craven's investigation exposes a web of deceit and cover-ups, implicating powerful figures within the police force and government. He faces increasing resistance and threats as he gets closer to the truth, and his own sanity begins to unravel under the immense pressure. The series culminates in a confrontation where the full extent of the conspiracy is revealed, and Craven must make a difficult choice to expose the truth, even if it means risking his own life and reputation.",
+        "categorized_keywords": {
+          "themes": [
+            "grief",
+            "corruption",
+            "conspiracy",
+            "loss",
+            "revenge",
+            "moral-ambiguity",
+            "institutional-decay"
+          ],
+          "plot_and_concepts": [
+            "police-investigation",
+            "murder-mystery",
+            "conspiracy-thriller",
+            "scientific-experiment",
+            "cover-up"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "bleak",
+            "paranoid",
+            "suspenseful",
+            "atmospheric"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "police-procedural",
+            "thriller",
+            "slow-burn"
+          ],
+          "setting": [
+            "yorkshire",
+            "rural-england",
+            "1980s"
+          ],
+          "character_archetypes": [
+            "grieving-father",
+            "reluctant-hero",
+            "corrupt-official",
+            "enigmatic-scientist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "slow-burn",
+            "mystery"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "rural-landscape",
+            "police-station",
+            "laboratory",
+            "chemical-compound",
+            "farm-chemicals"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "A grieving detective’s relentless pursuit of truth in rural England exposes a dark conspiracy involving scientific experimentation and institutional corruption, creating a bleak and suspenseful crime drama."
+      },
+      "duration_seconds": 59.18011260032654
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "The Jetsons",
+    "overview": "Meet George Jetson and his quirky family: wife Jane, son Elroy and daughter Judy. Living in the automated, push-button world of the future hasn't made life any easier for the harried husband and father, who gets into one comical misadventure after another!",
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "release_year": 1962,
+    "vote_count": 388
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Jetsons is a classic animated sitcom that offers a whimsical and optimistic vision of the future. Centered around the Jetson family and their automated home, the series explores themes of family, technology, and consumerism through comedic situations. The show's lighthearted tone and futuristic setting provide a nostalgic and entertaining experience, appealing to audiences of all ages. While seemingly simple, The Jetsons subtly satirizes modern society and its reliance on convenience and automation.",
+        "spoiler_rich_plot_summary": "The series follows George Jetson, a well-meaning but often hapless employee at Spacely Sprockets, and his family in Orbit City, 100 years in the future. George's daily life is filled with comical mishaps stemming from malfunctioning technology and his attempts to navigate the complexities of futuristic living. His children, Elroy and Judy, frequently encounter adventures with their robotic dog, Astro, and their friends. Recurring plotlines involve George's struggles to maintain his job, his interactions with the eccentric Mr. Spacely, and the family's attempts to adapt to the ever-changing landscape of their technologically advanced world. While the show largely avoids overarching narratives, individual episodes often feature humorous explorations of futuristic concepts and social commentary, culminating in a generally positive outlook on the potential of technological progress.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "optimism",
+            "consumerism",
+            "technology-reliance",
+            "future-society"
+          ],
+          "plot_and_concepts": [
+            "futuristic-setting",
+            "robotic-companions",
+            "automated-living",
+            "workplace-comedy"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "optimistic",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "animated-comedy",
+            "futurism",
+            "slice-of-life"
+          ],
+          "setting": [
+            "orbit-city",
+            "future-city",
+            "space-age"
+          ],
+          "character_archetypes": [
+            "hapless-father",
+            "quirky-family",
+            "eccentric-boss"
+          ],
+          "narrative_style": [
+            "episodic-storytelling",
+            "sitcom-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "flying-car",
+            "robotic-maid",
+            "automated-home",
+            "space-dog"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Jetsons presents a lighthearted and optimistic vision of a futuristic society, where a quirky family navigates the challenges and absurdities of automated living in a whimsical space-age setting."
+      },
+      "duration_seconds": 53.26263070106506
+    }
+  }
+}

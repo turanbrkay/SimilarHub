@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "Life on Mars",
+    "overview": "A detective chief inspector from 2006 is investigating a serial killer when he is knocked over by a speeding car. Waking up, he finds himself mysteriously transported back in time to 1973. Initially struggling to come to terms with his situation, he has to come to terms with the old-fashioned technology and attitude of the day, while figuring out how he came to be trapped in the past.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2006,
+    "vote_count": 226
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Life on Mars is a British crime drama series that blends police procedural elements with a science fiction premise. The show follows a modern-day detective who mysteriously finds himself transported back to 1973, forcing him to adapt to a vastly different era of policing and societal norms. It explores themes of identity, memory, and the nature of reality, while maintaining a darkly comedic tone and a suspenseful atmosphere. The series is notable for its exploration of cultural clashes and its ambiguous narrative structure, leaving the audience questioning the protagonist's true situation until the very end.",
+        "spoiler_rich_plot_summary": "The series begins with Detective Inspector Sam Tyler, a cynical and ambitious officer in 2006, investigating a serial killer case. After a near-fatal car accident, he awakens in a 1973 police station, assigned to work under the gruff and traditional Detective Chief Inspector Gene Hunt. Initially believing he is suffering from amnesia or is part of an elaborate sting operation, Sam struggles to reconcile his modern sensibilities with the outdated methods and attitudes of the 1970s. He forms a complex and often adversarial relationship with Hunt and Sergeant Ray Chambers, navigating the political landscape of the Manchester CID while attempting to solve crimes and uncover the truth about his predicament. As the series progresses, Sam's memories of his life in 2006 become increasingly fragmented, and he begins to question the reality of his situation. The nature of his time travel remains ambiguous, with hints of alternate realities and psychological manipulation. The series culminates in a confrontation that forces Sam to confront the possibility that his entire existence is a construct, leaving his ultimate fate uncertain.",
+        "categorized_keywords": {
+          "themes": [
+            "time-travel",
+            "identity-crisis",
+            "memory-loss",
+            "reality-questioning",
+            "police-corruption",
+            "cultural-clash",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "police-procedural",
+            "alternate-reality",
+            "mystery-box",
+            "serial-killer",
+            "amnesia"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "suspenseful",
+            "gritty",
+            "nostalgic"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "science-fiction",
+            "time-loop",
+            "fish-out-of-water"
+          ],
+          "setting": [
+            "1970s-britain",
+            "manchester-england",
+            "alternate-timeline"
+          ],
+          "character_archetypes": [
+            "cynical-detective",
+            "gruff-mentor",
+            "reluctant-hero",
+            "old-school-cop"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "non-linear-timeline",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "1970s-police-car",
+            "vintage-radio",
+            "manchester-cid",
+            "vinyl-records",
+            "bell-bottom-jeans"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "strong-language"
+          ]
+        },
+        "keyword_sentence": "Life on Mars is a darkly comic crime drama set in 1970s Britain, exploring themes of identity and reality as a modern detective grapples with time travel and a gritty, old-school police force."
+      },
+      "duration_seconds": 70.09170484542847
+    }
+  }
+}

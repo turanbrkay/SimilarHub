@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "The West Wing",
+    "overview": "The West Wing provides a glimpse into presidential politics in the nation's capital as it tells the stories of the members of a fictional presidential administration. These interesting characters have humor and dedication that touches the heart while the politics that they discuss touch on everyday life.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 1999,
+    "vote_count": 409
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The West Wing offers a detailed and often idealistic portrayal of the inner workings of the American presidency. The series focuses on the lives and careers of the White House staff, exploring the complexities of policy-making, political maneuvering, and personal relationships within a high-pressure environment. Known for its rapid-fire dialogue, intelligent writing, and ensemble cast, the show blends political drama with moments of humor and genuine human connection, offering a nuanced look at the challenges and rewards of public service. It's a character-driven drama that emphasizes the importance of integrity and the constant struggle to balance ideals with the realities of power.",
+        "spoiler_rich_plot_summary": "The series begins with the unexpected death of President Bartlet's father, forcing him to confront his own mortality and the potential for a political crisis. As President Bartlet navigates his first term, the series explores a wide range of policy issues, from healthcare reform to national security. Key staff members, including Deputy Chief of Staff Josh Lyman, Communications Director C.J. Cregg, and National Security Advisor Sandy Berger, face their own personal and professional challenges, often clashing with each other and with the press. Throughout the series, the administration deals with various political scandals and international crises, testing their commitment to their ideals. As the series progresses, the focus shifts to the upcoming presidential election, with the team grappling with the decision of whether or not President Bartlet will seek a third term, ultimately leading to a transition of power and the introduction of a new administration.",
+        "categorized_keywords": {
+          "themes": [
+            "political-power",
+            "ethics",
+            "public-service",
+            "integrity",
+            "leadership",
+            "responsibility",
+            "legacy"
+          ],
+          "plot_and_concepts": [
+            "political-intrigue",
+            "crisis-management",
+            "policy-making",
+            "election-cycle",
+            "staff-dynamics"
+          ],
+          "mood_and_tone": [
+            "intelligent",
+            "optimistic",
+            "fast-paced",
+            "serious",
+            "hopeful"
+          ],
+          "genre_and_tropes": [
+            "political-drama",
+            "ensemble-cast",
+            "white-house-politics"
+          ],
+          "setting": [
+            "washington-dc",
+            "white-house",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "idealistic-leader",
+            "pragmatic-advisor",
+            "dedicated-staffer",
+            "ambitious-politician"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "situation-room",
+            "press-briefing",
+            "cabinet-meeting",
+            "roosevelt-room"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The West Wing is an intelligent and optimistic political drama set in the White House, exploring themes of leadership, ethics, and public service through a fast-paced narrative and a dedicated ensemble cast."
+      },
+      "duration_seconds": 53.95154404640198
+    }
+  }
+}

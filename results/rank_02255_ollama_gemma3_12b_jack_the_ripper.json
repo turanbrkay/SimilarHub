@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "Jack the Ripper",
+    "overview": "Jack the Ripper is a 1988 two-part television film/miniseries portraying a fictionalized account of the hunt for Jack the Ripper, the unidentified serial killer responsible for the Whitechapel murders of 1888. The series coincided with the 100th anniversary of the murders.",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Crime"
+    ],
+    "release_year": 1988,
+    "vote_count": 80
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Jack the Ripper is a historical crime drama miniseries that dramatizes the infamous 1888 Whitechapel murders. The series blends elements of police procedural and historical fiction, focusing on the investigation and the social context surrounding the crimes. It aims to recreate the atmosphere of Victorian London and explore the psychological impact of the murders on both the victims and the investigators. The series is characterized by its dark and suspenseful tone, and its exploration of themes of fear, social inequality, and the nature of evil. It offers a glimpse into a pivotal moment in criminal history, examining the challenges of early forensic investigation and the societal anxieties of the era.",
+        "spoiler_rich_plot_summary": "The miniseries follows the investigation into the brutal murders of several women in London's Whitechapel district in 1888. Scotland Yard, led by Detective Inspector Frederick Abberline, struggles to identify the killer, who becomes known as Jack the Ripper. The series portrays the grim realities of Victorian London, highlighting the poverty and desperation that fueled the crimes. As the investigation progresses, various suspects are considered, and the public becomes increasingly gripped by fear and speculation. The series explores the social and political climate of the time, revealing the prejudices and inequalities that contributed to the vulnerability of the victims. While the true identity of Jack the Ripper remains a mystery, the series culminates in a dramatic confrontation, suggesting a possible suspect but ultimately leaving the case unresolved, reflecting the historical ambiguity surrounding the real-life killer.",
+        "categorized_keywords": {
+          "themes": [
+            "crime",
+            "fear",
+            "social-inequality",
+            "mystery",
+            "historical-context",
+            "police-investigation",
+            "urban-poverty"
+          ],
+          "plot_and_concepts": [
+            "serial-killer",
+            "police-procedural",
+            "historical-drama",
+            "investigative-journalism",
+            "true-crime"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "suspenseful",
+            "grim",
+            "atmospheric",
+            "eerie"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "historical-fiction",
+            "true-crime",
+            "mystery-thriller"
+          ],
+          "setting": [
+            "victorian-london",
+            "19th-century",
+            "whitechapel-district"
+          ],
+          "character_archetypes": [
+            "detective",
+            "victim",
+            "suspect",
+            "police-inspector"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "investigative-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "gaslight",
+            "horse-drawn-carriage",
+            "police-hat",
+            "crime-scene",
+            "london-fog"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "sexual-content",
+            "disturbing-imagery"
+          ]
+        },
+        "keyword_sentence": "Set in the grim and atmospheric streets of Victorian London, Jack the Ripper is a dark crime drama that explores themes of fear, social inequality, and the chilling reality of a serial killer investigation."
+      },
+      "duration_seconds": 66.04140615463257
+    }
+  }
+}

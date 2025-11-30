@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Great Expectations",
+    "overview": "The life of an orphan is changed by the providential intervention of a mysterious benefactor.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2011,
+    "vote_count": 80
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Great Expectations is a period drama that follows the journey of an orphan, Pip, as he navigates social class, ambition, and the complexities of human relationships. The series explores themes of morality, guilt, and the corrupting influence of wealth, set against a backdrop of Victorian England. It blends elements of coming-of-age narratives with a gothic atmosphere and a focus on character development, offering a poignant reflection on the pursuit of happiness and the true meaning of expectation.",
+        "spoiler_rich_plot_summary": "The story begins with young Pip's encounter with an escaped convict, Abel Magwitch, an event that shapes his future in unexpected ways. He is subsequently invited to the home of the wealthy Miss Havisham, where he develops a deep infatuation with her adopted daughter, Estella, who is raised to break men's hearts. A mysterious benefactor provides Pip with the opportunity to become a gentleman in London, leading him to believe Miss Havisham is his patron. As Pip ascends in society, he becomes increasingly ashamed of his humble origins and neglects his loyal friend, Joe Gargery. The truth of his benefactor's identity is eventually revealed: it is Abel Magwitch, the convict he aided as a boy, who made his fortune in Australia. Magwitch's past and Pip's involvement in concealing it lead to tragic consequences, including his recapture and eventual death. Pip learns a harsh lesson about the superficiality of wealth and the importance of genuine human connection, ultimately finding redemption through his renewed appreciation for his true friends and family.",
+        "categorized_keywords": {
+          "themes": [
+            "social-class",
+            "ambition",
+            "redemption",
+            "guilt",
+            "morality",
+            "expectation",
+            "loyalty",
+            "friendship"
+          ],
+          "plot_and_concepts": [
+            "coming-of-age",
+            "secret-identity",
+            "unrequited-love",
+            "inheritance",
+            "crime-and-punishment"
+          ],
+          "mood_and_tone": [
+            "melancholy",
+            "poignant",
+            "gothic",
+            "romantic",
+            "somber"
+          ],
+          "genre_and_tropes": [
+            "period-drama",
+            "romantic-drama",
+            "coming-of-age-story",
+            "bildungsroman"
+          ],
+          "setting": [
+            "victorian-england",
+            "rural-england",
+            "london-england"
+          ],
+          "character_archetypes": [
+            "orphan",
+            "unreliable-narrator",
+            "wealthy-patron",
+            "femme-fatale",
+            "loyal-friend"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "first-person-narration"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "marsh-countryside",
+            "great-expectations-manor",
+            "london-streets",
+            "prison-ship"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Great Expectations is a poignant period drama set in Victorian England, exploring themes of social class, ambition, and redemption through the coming-of-age journey of an orphan grappling with unrequited love and the corrupting influence of wealth."
+      },
+      "duration_seconds": 66.43583512306213
+    }
+  }
+}

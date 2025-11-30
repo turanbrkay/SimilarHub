@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Chappelle's Show",
+    "overview": "Dave Chappelle's singular point of view is unleashed through a combination of laidback stand-up and street-smart sketches.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2003,
+    "vote_count": 316
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Chappelle's Show is a groundbreaking sketch comedy series known for its satirical and often provocative commentary on race, politics, and pop culture. Dave Chappelle's unique comedic voice and willingness to tackle sensitive topics with both humor and insight set it apart from traditional sitcoms. The show's blend of observational humor, absurdist sketches, and musical interludes created a distinctive and influential comedic landscape. While seemingly lighthearted, the series consistently challenges societal norms and explores complex issues through a comedic lens, offering a thought-provoking and often uncomfortable viewing experience. Its impact on comedy and popular culture remains significant.",
+        "spoiler_rich_plot_summary": "The series revolves around Dave Chappelle and Justin Stone, who create a television show featuring a variety of sketches designed to satirize American culture. Each episode typically features a mix of pre-recorded sketches, musical performances, and Dave Chappelle's stand-up commentary. Recurring characters and sketches, such as 'Rick James,' 'Clayton Berry,' and 'Monk,' become iconic representations of the show's satirical approach. The series frequently parodies racial stereotypes, political figures, and celebrity culture, often pushing boundaries and sparking controversy. While the show's initial run was cut short due to creative differences and contractual disputes, its legacy as a pivotal moment in comedy history remains intact, with its sketches continuing to be referenced and reinterpreted.",
+        "categorized_keywords": {
+          "themes": [
+            "satire",
+            "race-relations",
+            "social-commentary",
+            "pop-culture",
+            "identity",
+            "black-humor"
+          ],
+          "plot_and_concepts": [
+            "sketch-comedy",
+            "parody",
+            "recurring-characters",
+            "musical-interludes",
+            "mockumentary"
+          ],
+          "mood_and_tone": [
+            "absurdist",
+            "provocative",
+            "irreverent",
+            "darkly-comic",
+            "satirical"
+          ],
+          "genre_and_tropes": [
+            "comedy",
+            "sketch-comedy",
+            "mockumentary",
+            "satire"
+          ],
+          "setting": [
+            "modern-day",
+            "new-york-city"
+          ],
+          "character_archetypes": [
+            "comedian",
+            "satirist",
+            "anti-hero"
+          ],
+          "narrative_style": [
+            "episodic",
+            "sketch-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "rick-james-character",
+            "clayton-berry-character",
+            "monk-character",
+            "comedic-dance"
+          ],
+          "maturity_and_content": [
+            "offensive-humor",
+            "racial-themes",
+            "sexual-content"
+          ]
+        },
+        "keyword_sentence": "Chappelle's Show is a groundbreaking sketch comedy series that uses satire and absurdist humor to explore race relations and pop culture through a provocative and irreverent lens."
+      },
+      "duration_seconds": 58.9358184337616
+    }
+  }
+}

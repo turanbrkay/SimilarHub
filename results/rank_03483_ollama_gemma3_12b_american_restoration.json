@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "American Restoration",
+    "overview": "American Restoration is an American reality television series airing on the History channel. Produced by Leftfield Pictures, the series is recorded in Las Vegas, Nevada, where it chronicles the daily activities at Rick's Restorations, an antique restoration shop, with its owner Rick Dale, his staff, and teenage son, as they restore various vintage items to their original condition.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2010,
+    "vote_count": 36
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "American Restoration is a reality television series that follows the daily operations of Rick's Restorations, a shop specializing in the restoration of vintage and antique items. The show offers a glimpse into the intricate process of bringing old objects back to their original condition, showcasing the skills and expertise of Rick Dale and his team. It blends elements of craftsmanship, history, and entrepreneurship, appealing to viewers interested in restoration techniques and the stories behind the objects. The series focuses on the challenges and rewards of preserving history through meticulous restoration work, offering a generally lighthearted and engaging viewing experience.",
+        "spoiler_rich_plot_summary": "The series primarily revolves around the restoration projects undertaken at Rick's Restorations. Each episode typically features several different items brought in for repair, ranging from classic cars and arcade games to vintage signs and furniture. The team faces various challenges, including sourcing rare parts, dealing with complex mechanical issues, and preserving the original aesthetic of the items. While there isn't a traditional narrative arc, the show highlights the evolution of restoration techniques and the increasing demand for preserving historical artifacts. The series demonstrates the dedication required to maintain a successful restoration business and the satisfaction of seeing a piece of history brought back to life, culminating in the final reveal of the restored item.",
+        "categorized_keywords": {
+          "themes": [
+            "craftsmanship",
+            "history-preservation",
+            "entrepreneurship",
+            "vintage-culture"
+          ],
+          "plot_and_concepts": [
+            "restoration-process",
+            "vintage-items",
+            "mechanical-repair",
+            "antique-collecting"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "informative",
+            "nostalgic",
+            "engaging"
+          ],
+          "genre_and_tropes": [
+            "reality-tv",
+            "restoration-show",
+            "behind-the-scenes"
+          ],
+          "setting": [
+            "las-vegas-nevada",
+            "antique-shop",
+            "workshop"
+          ],
+          "character_archetypes": [
+            "skilled-craftsman",
+            "business-owner",
+            "family-business"
+          ],
+          "narrative_style": [
+            "episodic",
+            "case-study"
+          ],
+          "target_audience": [
+            "history-buffs",
+            "diy-enthusiasts"
+          ],
+          "detail_plot": [
+            "vintage-cars",
+            "arcade-games",
+            "antique-furniture",
+            "restoration-tools"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "American Restoration offers a lighthearted and engaging look at the craftsmanship and history preservation involved in restoring vintage items within a family-run business in Las Vegas."
+      },
+      "duration_seconds": 50.53837299346924
+    }
+  }
+}

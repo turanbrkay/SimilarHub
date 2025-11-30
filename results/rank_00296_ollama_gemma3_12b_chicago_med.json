@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Chicago Med",
+    "overview": "An emotional thrill ride through the day-to-day chaos of the city's most explosive hospital and the courageous team of doctors who hold it together. They will tackle unique new cases inspired by topical events, forging fiery relationships in the pulse-pounding pandemonium of the emergency room.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2015,
+    "vote_count": 1006
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Chicago Med is a medical drama series that follows the lives of doctors and nurses working in a bustling Chicago hospital. The show emphasizes the emotional toll of emergency medicine, exploring complex patient cases and the personal struggles of the medical staff. It blends procedural elements with character-driven narratives, focusing on the challenges of saving lives amidst personal and professional conflicts. The series aims to provide a realistic portrayal of the high-pressure environment of a trauma center, highlighting both the triumphs and tragedies that occur within its walls. Recurring themes include the ethical dilemmas faced by medical professionals and the importance of teamwork in crisis situations.",
+        "spoiler_rich_plot_summary": "Chicago Med begins with the hospital facing numerous challenges, including financial instability and staffing shortages. Dr. Daniel Charles, the hospital's psychiatrist, struggles to balance his professional duties with his personal life, particularly concerning his son. Dr. Natalie Manning grapples with the complexities of motherhood and her career, while Dr. Phillip Wright confronts his own demons and professional ambitions. As the series progresses, the doctors face increasingly difficult cases, often involving complex medical conditions and challenging ethical decisions. Relationships between the staff evolve, with romances blossoming and rivalries intensifying. The hospital undergoes significant changes, including mergers and leadership transitions, impacting the doctors' careers and the overall patient care. Over time, characters confront personal tragedies and professional setbacks, leading to significant character development and shifts in the hospital's direction. While the hospital strives to provide the best possible care, it also faces external pressures and internal conflicts that threaten its stability and the well-being of its staff.",
+        "categorized_keywords": {
+          "themes": [
+            "medical-ethics",
+            "family-dynamics",
+            "professional-sacrifice",
+            "crisis-management",
+            "personal-growth",
+            "teamwork"
+          ],
+          "plot_and_concepts": [
+            "medical-procedural",
+            "trauma-care",
+            "emergency-medicine",
+            "hospital-drama",
+            "patient-cases"
+          ],
+          "mood_and_tone": [
+            "intense",
+            "emotional",
+            "realistic",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "medical-drama",
+            "procedural-drama",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "chicago-city",
+            "modern-day",
+            "hospital-setting"
+          ],
+          "character_archetypes": [
+            "dedicated-doctor",
+            "compassionate-nurse",
+            "experienced-surgeon",
+            "struggling-parent"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-cases"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "operating-room",
+            "emergency-room",
+            "icu-unit",
+            "medical-charts",
+            "patient-beds"
+          ],
+          "maturity_and_content": [
+            "medical-procedures",
+            "graphic-violence"
+          ]
+        },
+        "keyword_sentence": "Chicago Med portrays the intense and emotional realities of emergency medicine within a bustling Chicago hospital, exploring the dedication of medical professionals and the challenges they face while providing care to patients in crisis."
+      },
+      "duration_seconds": 61.19388270378113
+    }
+  }
+}

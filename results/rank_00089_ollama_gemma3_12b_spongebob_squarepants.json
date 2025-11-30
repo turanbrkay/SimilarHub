@@ -1,0 +1,86 @@
+{
+  "input_data": {
+    "title": "SpongeBob SquarePants",
+    "overview": "Deep down in the Pacific Ocean in the subterranean city of Bikini Bottom lives a square yellow sponge named SpongeBob SquarePants. SpongeBob lives in a pineapple with his pet snail, Gary, loves his job as a fry cook at the Krusty Krab, and has a knack for getting into all kinds of trouble without really trying. When he's not getting on the nerves of his cranky next door neighbor Squidward, SpongeBob can usually be found smack in the middle of all sorts of strange situations with his best buddy, the simple yet lovable starfish, Patrick, or his thrill-seeking surfer-girl squirrel pal, Sandy Cheeks.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1999,
+    "vote_count": 2747
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "SpongeBob SquarePants is a vibrant and comedic animated series centered on the whimsical adventures of a sea sponge and his friends in the underwater city of Bikini Bottom. The show blends absurdist humor with heartwarming themes of friendship and optimism, appealing to both children and adults. Its surreal and often nonsensical scenarios create a unique comedic landscape, while its focus on character relationships provides a grounding emotional core. The series explores themes of perseverance, acceptance, and the importance of finding joy in everyday life, all wrapped in a visually engaging and endlessly creative package.",
+        "spoiler_rich_plot_summary": "The series begins with SpongeBob's enthusiastic pursuit of a promotion to manager at the Krusty Krab, a position currently held by the miserly Mr. Krabs. His attempts are consistently thwarted by his neighbor, Squidward, who despises SpongeBob's relentless optimism and the chaos he brings. Throughout the series, SpongeBob and Patrick embark on countless misadventures, often involving schemes to earn money or impress their friends. Recurring conflicts arise from Mr. Krabs's greed, Squidward's cynicism, and the occasional threat to Bikini Bottom, such as Plankton's persistent attempts to steal the Krabby Patty secret formula. While the series largely maintains a lighthearted tone, underlying themes of ambition, frustration, and the search for meaning are explored through the characters' interactions and experiences. The show's episodic nature allows for a constant stream of new and bizarre situations, but the core relationships and character dynamics remain consistent, providing a sense of familiarity and comfort for viewers.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "optimism",
+            "perseverance",
+            "acceptance",
+            "absurdism",
+            "underwater-life"
+          ],
+          "plot_and_concepts": [
+            "episodic-storytelling",
+            "slapstick-comedy",
+            "secret-formula",
+            "rivalry",
+            "underwater-adventure"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "surreal",
+            "comedic",
+            "playful"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "comedy",
+            "family-audience",
+            "slice-of-life",
+            "cartoon-humor"
+          ],
+          "setting": [
+            "bikini-bottom",
+            "pacific-ocean",
+            "underwater-city",
+            "fictional-location",
+            "marine-environment"
+          ],
+          "character_archetypes": [
+            "optimistic-protagonist",
+            "cranky-neighbor",
+            "simple-friend",
+            "greedy-employer",
+            "eccentric-scientist"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "humorous-narrative",
+            "character-driven"
+          ],
+          "target_audience": [
+            "children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "krabby-patty",
+            "pineapple-house",
+            "krusty-krab",
+            "jellyfish-net",
+            "gary-snail"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "SpongeBob SquarePants is a lighthearted and comedic animated series set in the vibrant underwater city of Bikini Bottom, celebrating friendship, optimism, and the joy of embracing the absurd."
+      },
+      "duration_seconds": 76.969393491745
+    }
+  }
+}

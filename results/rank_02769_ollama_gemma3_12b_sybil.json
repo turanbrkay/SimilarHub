@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Sybil",
+    "overview": "A young woman whose childhood was so harrowing to her that she developed at least 13 different personalities.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 1976,
+    "vote_count": 56
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Sybil is a psychological drama exploring the complexities of Dissociative Identity Disorder (DID), formerly known as Multiple Personality Disorder. The series follows a young woman's journey to uncover and integrate her fragmented personalities, revealing a history of severe childhood trauma. It delves into the psychological impact of abuse and the challenges of healing and self-discovery, offering a sensitive portrayal of mental illness and the resilience of the human spirit. The series blends elements of psychological thriller and character study, creating a compelling narrative about identity, memory, and the search for wholeness. It aims to foster understanding and empathy for individuals struggling with complex mental health conditions.",
+        "spoiler_rich_plot_summary": "The series begins with Sybil Dorsett, a young woman experiencing increasingly bizarre and unsettling episodes. She seeks psychiatric help, and through hypnosis and therapy, begins to uncover the existence of multiple distinct personalities, each with their own memories, skills, and emotional states. As the therapeutic process unfolds, the origins of these personalities are revealed to be rooted in a deeply traumatic childhood marked by severe physical, emotional, and sexual abuse at the hands of her mother. Each personality emerges as a coping mechanism developed to survive these horrific experiences. The series follows the painstaking effort to integrate these personalities, a process fraught with setbacks and emotional turmoil. Flashbacks reveal the individual traumas that shaped each personality, and the audience witnesses the gradual piecing together of Sybil's fragmented past. The series culminates in a confrontation with the mother, forcing Sybil to confront the source of her trauma and ultimately begin the long road toward healing and a more unified sense of self. While the integration is challenging, the series suggests a hopeful future where Sybil can live a more stable and fulfilling life.",
+        "categorized_keywords": {
+          "themes": [
+            "childhood-trauma",
+            "identity-crisis",
+            "mental-illness",
+            "abuse-recovery",
+            "memory-loss",
+            "self-discovery",
+            "family-dysfunction"
+          ],
+          "plot_and_concepts": [
+            "multiple-personality-disorder",
+            "hypnosis",
+            "psychotherapy",
+            "flashback-narrative",
+            "childhood-abuse"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "somber",
+            "psychological",
+            "emotional",
+            "sensitive"
+          ],
+          "genre_and_tropes": [
+            "psychological-drama",
+            "character-study",
+            "true-story-adaptation"
+          ],
+          "setting": [
+            "1970s",
+            "suburban-america",
+            "therapy-office"
+          ],
+          "character_archetypes": [
+            "traumatized-victim",
+            "compassionate-therapist",
+            "abusive-parent"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "flashback-structure"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "therapy-session",
+            "childhood-memory",
+            "hypnosis-session"
+          ],
+          "maturity_and_content": [
+            "sexual-abuse",
+            "childhood-trauma",
+            "emotional-distress"
+          ]
+        },
+        "keyword_sentence": "Sybil is a somber psychological drama exploring the devastating effects of childhood trauma and the complex journey of a young woman grappling with multiple personalities and seeking healing through therapy."
+      },
+      "duration_seconds": 67.51088905334473
+    }
+  }
+}

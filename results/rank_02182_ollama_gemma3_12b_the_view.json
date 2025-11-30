@@ -1,0 +1,69 @@
+{
+  "input_data": {
+    "title": "The View",
+    "overview": "ABC Daytime's morning chatfest, currently featuring Whoopi Goldberg, Joy Behar, Sunny Hostin, Meghan McCain, and Abby Huntsman, discussing the most exciting events of the day. Hot topics in the news, the best experts in their field, celebrity interviews and general entertainment are all part of The View.",
+    "genres": [
+      "Talk"
+    ],
+    "release_year": 1997,
+    "vote_count": 85
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The View is a long-running daytime talk show featuring a panel of women discussing current events, conducting interviews, and engaging in lighthearted banter. The show's format relies on diverse perspectives and often sparks debate among the hosts and their audience. It aims to provide a blend of news analysis, celebrity interaction, and entertainment, catering to a broad daytime television audience. The show's longevity is a testament to its ability to adapt to changing social and political landscapes while maintaining a consistent, accessible format.",
+        "spoiler_rich_plot_summary": "The View's narrative arc is less about a traditional plot and more about the evolution of its panel and the changing cultural landscape it reflects. The show began with a core group of hosts, and over the years, numerous changes in the panel have occurred, each bringing new dynamics and perspectives. These shifts often mirror broader societal changes and political events, with discussions frequently revolving around significant news stories, celebrity controversies, and social movements. While there isn't a central conflict to resolve, the show's ongoing 'plot' involves navigating the complexities of public opinion, maintaining audience engagement, and adapting to the ever-changing media environment. The show's longevity is a testament to its ability to remain relevant despite constant shifts in the cultural conversation.",
+        "categorized_keywords": {
+          "themes": [
+            "current-events",
+            "social-commentary",
+            "female-perspective",
+            "public-opinion",
+            "media-influence"
+          ],
+          "plot_and_concepts": [
+            "panel-discussion",
+            "interview-format",
+            "talk-show-structure"
+          ],
+          "mood_and_tone": [
+            "conversational",
+            "lighthearted",
+            "opinionated",
+            "sometimes-controversial"
+          ],
+          "genre_and_tropes": [
+            "talk-show",
+            "daytime-television",
+            "panel-show"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "opinionated-personality",
+            "media-figure"
+          ],
+          "narrative_style": [
+            "serialized-discussion",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "female-audience"
+          ],
+          "detail_plot": [
+            "studio-set",
+            "panel-table",
+            "microphone",
+            "guest-chair"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The View offers a conversational and sometimes controversial look at current events through the perspectives of a panel of women, reflecting a dynamic and evolving media landscape."
+      },
+      "duration_seconds": 56.214274168014526
+    }
+  }
+}

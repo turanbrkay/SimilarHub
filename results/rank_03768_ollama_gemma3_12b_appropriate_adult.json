@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Appropriate Adult",
+    "overview": "The extraordinary story of Gloucester housewife Janet Leach who played a key role in the uncovering of the crimes of Fred and Rosemary West.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2011,
+    "vote_count": 31
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Appropriate Adult is a British crime drama that explores the complex relationship between a social worker and a man suspected of horrific crimes. The series delves into the psychological impact of such investigations on all involved, examining themes of responsibility, manipulation, and the blurred lines between professional duty and personal involvement. It offers a somber and unsettling portrayal of a true crime case, focusing on the emotional toll it takes on those tasked with uncovering the truth. The series is notable for its nuanced character development and its avoidance of sensationalism, instead opting for a more psychologically driven narrative.",
+        "spoiler_rich_plot_summary": "The series centers on Janet Leach, a Gloucester social worker, who becomes involved in an investigation into Fred and Rosemary West, a seemingly ordinary couple suspected of heinous crimes. Initially, Janet is assigned to monitor Fred West, following a court order. As the investigation progresses, Janet's role expands, and she begins to uncover disturbing evidence that implicates the Wests in a series of murders. Her involvement becomes increasingly fraught with danger and emotional distress as she grapples with the horrific nature of the crimes and the manipulative tactics employed by Fred West. The investigation reveals a web of deceit and abuse, exposing the vulnerabilities of victims and the challenges faced by those tasked with protecting them. The series culminates in the arrest and trial of Fred West, leaving Janet to confront the lasting impact of her involvement in the case and the psychological scars it has left behind.",
+        "categorized_keywords": {
+          "themes": [
+            "true-crime",
+            "social-responsibility",
+            "psychological-trauma",
+            "manipulation",
+            "abuse-of-power",
+            "moral-ambiguity"
+          ],
+          "plot_and_concepts": [
+            "police-investigation",
+            "courtroom-drama",
+            "serial-crime",
+            "social-work"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "unsettling",
+            "suspenseful",
+            "dark"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "true-crime-drama"
+          ],
+          "setting": [
+            "gloucester-england",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "social-worker",
+            "suspect",
+            "reluctant-hero"
+          ],
+          "narrative_style": [
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "social-services-records",
+            "police-station",
+            "courtroom"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "sexual-abuse",
+            "child-abuse"
+          ]
+        },
+        "keyword_sentence": "Appropriate Adult is a somber and suspenseful British crime drama that explores the psychological trauma and moral ambiguities faced by a social worker investigating a true crime case in modern-day Gloucester."
+      },
+      "duration_seconds": 76.90951180458069
+    }
+  }
+}

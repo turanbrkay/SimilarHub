@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Chasing Life",
+    "overview": "April, an aspiring journalist, is balancing her ambitious career with her family and a new office romance. In an unexpected twist of fate, April learns that she has leukemia.",
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "release_year": 2014,
+    "vote_count": 47
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Chasing Life is a drama series that follows April, a young woman navigating her career aspirations and family relationships while unexpectedly facing a leukemia diagnosis. The show explores themes of ambition, responsibility, and the fragility of life, blending family dynamics with a medical drama narrative. It aims to offer a realistic portrayal of a young woman's journey through a challenging personal crisis, balancing emotional depth with relatable everyday struggles. The series emphasizes the importance of human connection and finding strength in adversity, offering a poignant and ultimately hopeful perspective on facing difficult circumstances.",
+        "spoiler_rich_plot_summary": "The series begins with April, a budding journalist, striving to establish her career while maintaining close ties with her family and embarking on a new romantic relationship with Greg. Her seemingly ordinary life is dramatically altered when she receives a leukemia diagnosis. The initial episodes focus on April's struggle to process the news, balance treatment with her professional ambitions, and navigate the emotional impact on her family and friends. As April undergoes chemotherapy and faces the physical and emotional toll of her illness, she re-evaluates her priorities and strengthens her relationships. The series explores the complexities of her family dynamics, particularly her relationship with her father, and the challenges of maintaining a romantic connection while battling a serious illness. Throughout the series, April confronts difficult choices regarding her career, her personal life, and her future, ultimately demonstrating resilience and finding strength in the support of those around her. While the series acknowledges the gravity of her situation, it also emphasizes the importance of living life to the fullest and appreciating the moments of joy and connection.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "illness-and-recovery",
+            "career-ambition",
+            "loss-and-grief",
+            "hope-and-resilience",
+            "romantic-relationships"
+          ],
+          "plot_and_concepts": [
+            "medical-drama",
+            "coming-of-age",
+            "office-romance",
+            "family-secrets"
+          ],
+          "mood_and_tone": [
+            "emotional",
+            "poignant",
+            "hopeful",
+            "realistic"
+          ],
+          "genre_and_tropes": [
+            "drama",
+            "coming-of-age-story",
+            "medical-procedural"
+          ],
+          "setting": [
+            "modern-day",
+            "urban-setting"
+          ],
+          "character_archetypes": [
+            "ambitious-protagonist",
+            "supportive-family",
+            "romantic-interest"
+          ],
+          "narrative_style": [
+            "serialized-story"
+          ],
+          "target_audience": [
+            "young-adult",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "hospital-setting",
+            "chemotherapy-treatment",
+            "newspaper-office",
+            "family-home"
+          ],
+          "maturity_and_content": [
+            "medical-themes",
+            "emotional-distress"
+          ]
+        },
+        "keyword_sentence": "Chasing Life is an emotional drama series that explores themes of family, ambition, and resilience as a young woman navigates a leukemia diagnosis and strives to live life to the fullest in a modern urban setting."
+      },
+      "duration_seconds": 64.46766471862793
+    }
+  }
+}

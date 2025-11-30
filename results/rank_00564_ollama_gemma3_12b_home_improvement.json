@@ -1,0 +1,70 @@
+{
+  "input_data": {
+    "title": "Home Improvement",
+    "overview": "The daily trials and tribulations of handyman Tim Taylor, a TV show host raising three boys with help from his loyal co-host, domineering wife, and unseen neighbor.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1991,
+    "vote_count": 534
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Home Improvement is a sitcom centered on the everyday challenges faced by a family man, Tim Taylor, a television personality known for his home improvement show. The series blends physical comedy with relatable family dynamics, exploring themes of masculinity, parenting, and marriage through a humorous lens. It offers a lighthearted and often chaotic portrayal of suburban life, relying on slapstick humor and heartwarming moments to create a broadly appealing and comforting viewing experience. The show's enduring popularity stems from its ability to tap into universal experiences of family, work, and the pursuit of a 'perfect' home.",
+        "spoiler_rich_plot_summary": "The series begins with Tim Taylor, the host of the popular home improvement show 'Tool Time,' struggling to balance his career with his responsibilities as a husband and father to three sons. His wife, Jill, often serves as the voice of reason, attempting to temper Tim's impulsive nature and guide their family. The show follows their attempts to navigate the complexities of raising children, dealing with marital disagreements, and maintaining a successful television career. Throughout the series, Tim's relationship with his unseen neighbor, Wilson, provides a source of wisdom and often humorous commentary on the Taylor family's antics. As the series progresses, the children grow older, facing their own challenges and contributing to the evolving family dynamic. While Tim's career experiences occasional setbacks and triumphs, the core of the show remains focused on the enduring bonds of family and the humorous realities of suburban life, culminating in a generally positive and stable family portrait.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "masculinity",
+            "marriage",
+            "parenting",
+            "suburban-life",
+            "work-life-balance"
+          ],
+          "plot_and_concepts": [
+            "sitcom",
+            "physical-comedy",
+            "neighbor-relationship",
+            "home-improvement"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "humorous",
+            "wholesome",
+            "chaotic"
+          ],
+          "genre_and_tropes": [
+            "family-sitcom",
+            "slapstick-comedy",
+            "suburban-comedy"
+          ],
+          "setting": [
+            "suburban-usa",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "family-man",
+            "voice-of-reason",
+            "wise-neighbor"
+          ],
+          "narrative_style": [
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "tool-time-set",
+            "wilson-mailbox",
+            "power-tools",
+            "three-sons"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Home Improvement is a lighthearted family sitcom set in suburban America, exploring the humorous challenges of marriage, parenting, and work-life balance through the antics of a well-meaning but often clumsy father and his supportive family."
+      },
+      "duration_seconds": 54.510597467422485
+    }
+  }
+}

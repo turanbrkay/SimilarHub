@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Fantastic Four",
+    "overview": "When Reed Richards, Sue and Johnny Storm and pilot Ben Grimm take a premature space flight on a new shuttle, they find themselves massively bombarded with cosmic radiation. Barely managing to re-enter and land safely, the quartet find themselves forever transformed with superpowers. Deciding to use these new powers to help people, they form the Fantastic Four, a superhero team dedicated to the protection of Earth from menaces like the Latverian King Dr. Doom and Galactus, the planet consumer.",
+    "genres": [
+      "Action & Adventure",
+      "Animation",
+      "Kids"
+    ],
+    "release_year": 1994,
+    "vote_count": 59
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Fantastic Four is a superhero animated series centered on a team of individuals granted extraordinary abilities after a cosmic accident. The show blends action-adventure with comedic elements, exploring themes of family, responsibility, and the challenges of using power for good. The series follows the team as they confront various threats, both terrestrial and cosmic, while navigating interpersonal dynamics and the complexities of their transformed lives. It's a lighthearted and accessible entry point into the Marvel superhero universe, geared towards a younger audience but with enough action and intrigue to entertain older viewers.",
+        "spoiler_rich_plot_summary": "The series begins with Reed Richards, Sue Storm, Johnny Storm, and Ben Grimm embarking on an unauthorized space flight, resulting in their exposure to cosmic rays and subsequent transformation into the Fantastic Four. Reed gains elasticity, Sue develops invisibility and force fields, Johnny becomes the Human Torch with fiery abilities, and Ben transforms into the rocky Thing. Initially struggling to control their powers and adjust to their new forms, the team gradually learns to work together, establishing a base of operations and adopting the moniker 'Fantastic Four.' Throughout the series, they face recurring adversaries such as the villainous Dr. Doom, who seeks to conquer Latveria and challenge their heroic endeavors. They also encounter cosmic entities like Galactus, a planet-consuming force, requiring the team to unite and utilize their combined powers to protect Earth from annihilation. The series explores the evolving relationships within the team, highlighting their familial bond and the sacrifices they make to uphold their commitment to safeguarding humanity.",
+        "categorized_keywords": {
+          "themes": [
+            "family-bond",
+            "responsibility",
+            "power-and-corruption",
+            "heroism",
+            "sacrifice"
+          ],
+          "plot_and_concepts": [
+            "superhero-team",
+            "cosmic-radiation",
+            "villain-origin",
+            "planet-consumption",
+            "scientific-discovery"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "action-adventure",
+            "comedic",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "superhero-action",
+            "found-family",
+            "origin-story",
+            "team-dynamics"
+          ],
+          "setting": [
+            "marvel-universe",
+            "earth",
+            "latveria",
+            "outer-space"
+          ],
+          "character_archetypes": [
+            "brilliant-scientist",
+            "invisible-woman",
+            "fiery-hero",
+            "rocky-hero",
+            "villainous-tyrant"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-adventure"
+          ],
+          "target_audience": [
+            "kids",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "fantastic-four-hq",
+            "human-torch-flame",
+            "thing-rocky-form",
+            "reed-richards-stretches",
+            "dr-doom-armor"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Fantastic Four is a lighthearted and action-packed superhero series about a family-bound team who gain extraordinary powers after a cosmic accident and must use their abilities to protect Earth from various threats."
+      },
+      "duration_seconds": 64.03816938400269
+    }
+  }
+}

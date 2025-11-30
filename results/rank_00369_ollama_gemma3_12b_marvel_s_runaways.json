@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Marvel's Runaways",
+    "overview": "Every teenager thinks their parents are evil. What if you found out they actually were? Six diverse teenagers who can barely stand each other must unite against a common foe – their parents.",
+    "genres": [
+      "Action & Adventure",
+      "Crime",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2017,
+    "vote_count": 818
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Marvel's Runaways is a teen drama series centered on a group of adolescents who discover their parents are part of a sinister organization called The Pride. The series blends superhero action with coming-of-age themes, exploring identity, loyalty, and rebellion as the teens navigate their newfound powers and the complex relationships with their families. It offers a mix of suspense, humor, and emotional depth, appealing to audiences interested in both superhero narratives and character-driven stories. The show emphasizes the challenges of confronting authority and finding strength in unexpected alliances.",
+        "spoiler_rich_plot_summary": "The series begins with six teenagers – Alex, Chase, Karolina, Molly, Nico, and Gert – attending a private school and preparing for a ritualistic event hosted by their parents. During the event, they uncover a shocking truth: their parents are members of The Pride, a powerful organization involved in a dangerous and unethical project. Disgusted and betrayed, the teens escape and band together to uncover the truth about The Pride and stop their plans. They discover that their parents are attempting to harness a cosmic entity for their own nefarious purposes. As they investigate, the teens develop their own emerging superpowers, each tied to their parent's involvement with The Pride. They face constant threats from their parents and other members of The Pride, while also struggling with internal conflicts and the challenges of forming a found family. The series culminates in a confrontation with The Pride, where the teens must use their combined powers and newfound understanding of their heritage to defeat them and prevent a catastrophic event. While they manage to disrupt The Pride's immediate plans, the underlying threat remains, hinting at future conflicts and the ongoing struggle to define their identities and purpose.",
+        "categorized_keywords": {
+          "themes": [
+            "found-family",
+            "rebellion",
+            "identity-quest",
+            "betrayal",
+            "coming-of-age",
+            "parental-conflict",
+            "moral-ambiguity"
+          ],
+          "plot_and_concepts": [
+            "superhero-action",
+            "cosmic-threat",
+            "secret-society",
+            "inherited-powers",
+            "found-family-dynamic",
+            "teen-drama"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "darkly-comic",
+            "emotional",
+            "action-packed"
+          ],
+          "genre_and_tropes": [
+            "teen-drama",
+            "superhero-genre",
+            "found-family-trope",
+            "coming-of-age-story"
+          ],
+          "setting": [
+            "modern-day",
+            "los-angeles",
+            "private-school"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "anti-hero",
+            "wise-mentor",
+            "morally-gray-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult"
+          ],
+          "detail_plot": [
+            "private-school",
+            "cosmic-entity",
+            "pride-ritual",
+            "inherited-powers"
+          ],
+          "maturity_and_content": [
+            "violence"
+          ]
+        },
+        "keyword_sentence": "Marvel's Runaways is a suspenseful teen drama series blending superhero action and a found-family dynamic as a group of young adults rebel against their parents’ sinister organization and confront a cosmic threat."
+      },
+      "duration_seconds": 66.18014359474182
+    }
+  }
+}

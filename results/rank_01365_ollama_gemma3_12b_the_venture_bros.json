@@ -1,0 +1,86 @@
+{
+  "input_data": {
+    "title": "The Venture Bros.",
+    "overview": "Hank and Dean Venture, with their father Doctor Venture and faithful bodyguard Brock Samson, go on wild adventures facing megalomaniacs, zombies, and suspicious ninjas, all for the glory of adventure. Or something like that.",
+    "genres": [
+      "Comedy",
+      "Animation",
+      "Action & Adventure"
+    ],
+    "release_year": 2004,
+    "vote_count": 169
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Venture Bros. is a darkly comedic animated series that satirizes adventure tropes and superhero narratives. Following the hapless Hank and Dean Venture, and their stoic bodyguard Brock Samson, the show blends action, absurdist humor, and surprisingly poignant character development. It operates as a deconstruction of classic adventure serials, poking fun at the genre's conventions while simultaneously embracing its inherent appeal. The series balances over-the-top action sequences with moments of genuine emotional depth, creating a unique and consistently entertaining viewing experience.",
+        "spoiler_rich_plot_summary": "The series initially establishes Hank and Dean Venture as bumbling aspiring heroes, trained by their eccentric and disgraced scientist father, Dr. Thaddeus 'Rusty' Venture. Their early adventures are largely comedic mishaps, often involving bizarre villains and Rusty's attempts to regain his scientific reputation. As the series progresses, a complex and overarching narrative emerges, revealing a network of shadowy organizations, including the League of Evil, and exploring the Venture family's troubled past. Brock Samson's backstory is gradually unveiled, showcasing his own history of violence and trauma. The Ventures face increasingly dangerous threats, often involving rival scientists and their creations. The series culminates in a major confrontation with the League of Evil, forcing the Ventures to confront their own shortcomings and the consequences of their father's actions. While the Ventures ultimately strive to be heroes, their journey is marked by constant failure and the realization that heroism is far more complicated than they initially believed.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dysfunction",
+            "heroism-vs-failure",
+            "identity-quest",
+            "legacy",
+            "parody",
+            "coming-of-age"
+          ],
+          "plot_and_concepts": [
+            "superhero-parody",
+            "spy-thriller",
+            "revenge",
+            "secret-identity",
+            "conspiracy"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "satirical",
+            "absurdist",
+            "witty",
+            "ironic"
+          ],
+          "genre_and_tropes": [
+            "adult-animation",
+            "action-comedy",
+            "spy-fi",
+            "found-family",
+            "deconstruction"
+          ],
+          "setting": [
+            "modern-day",
+            "suburban-setting",
+            "alternate-reality"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "bumbling-protagonist",
+            "stoic-bodyguard",
+            "eccentric-scientist",
+            "villain-with-a-point"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "slow-burn"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "venture-compound",
+            "league-of-evil",
+            "brock-samson-suit",
+            "rusty-ventures-lab",
+            "venture-mobile"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "sexual-content",
+            "strong-language"
+          ]
+        },
+        "keyword_sentence": "The Venture Bros. is a darkly comic adult animation series that satirizes superhero tropes and explores themes of family dysfunction and the challenges of heroism through the misadventures of two hapless brothers and their eccentric father."
+      },
+      "duration_seconds": 66.94665694236755
+    }
+  }
+}

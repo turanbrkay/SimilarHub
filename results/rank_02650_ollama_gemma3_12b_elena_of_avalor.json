@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Elena of Avalor",
+    "overview": "The story of a brave teenager who has saved her kingdom from an evil sorceress and must now learn to rule as a crown princess until she’s old enough to be queen.",
+    "genres": [
+      "Animation",
+      "Kids"
+    ],
+    "release_year": 2016,
+    "vote_count": 60
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Elena of Avalor is a Disney Channel animated series geared towards a young audience, blending fairytale elements with Latin American cultural influences. The show follows Elena, a young princess who must learn the responsibilities of leadership while navigating the challenges of ruling a kingdom and embracing her heritage. It emphasizes themes of family, courage, and the importance of cultural identity, presented in a lighthearted and adventurous format. The series aims to entertain while subtly promoting positive values and celebrating diversity.",
+        "spoiler_rich_plot_summary": "The series begins with Elena, having defeated the evil sorceress Shur, being too young to ascend to the throne. She is magically aged to a teenage form, allowing her to begin her training as princess. Throughout the series, Elena faces numerous challenges, including political intrigue, magical threats, and personal growth. She learns from her parents, the King and Queen, and receives guidance from her abuela, a wise and powerful matriarch. Elena's journey involves mastering her magical abilities, understanding the complexities of leadership, and forging strong bonds with her friends and allies. She confronts various antagonists who seek to exploit her kingdom or undermine her rule, often requiring her to make difficult choices and learn from her mistakes. As Elena matures, she gradually prepares to take on the full responsibilities of the crown, ultimately demonstrating her readiness to become queen and lead Avalor into a prosperous future.",
+        "categorized_keywords": {
+          "themes": [
+            "family-loyalty",
+            "courage",
+            "cultural-identity",
+            "leadership",
+            "responsibility",
+            "magic",
+            "friendship"
+          ],
+          "plot_and_concepts": [
+            "coming-of-age",
+            "kingdom-building",
+            "magical-quest",
+            "political-intrigue"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "lighthearted",
+            "adventurous",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "fairytale",
+            "coming-of-age-story",
+            "princess-story",
+            "animated-series"
+          ],
+          "setting": [
+            "fantasy-kingdom",
+            "latin-america",
+            "magical-realm"
+          ],
+          "character_archetypes": [
+            "brave-heroine",
+            "wise-mentor",
+            "powerful-matriarch",
+            "loyal-friend"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-adventure"
+          ],
+          "target_audience": [
+            "kids",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "castle-walls",
+            "royal-crest",
+            "magic-amulet",
+            "royal-ballroom"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Elena of Avalor is a lighthearted and adventurous animated series celebrating cultural identity and family loyalty as a brave heroine learns the responsibilities of leadership in a magical fantasy kingdom."
+      },
+      "duration_seconds": 59.00878143310547
+    }
+  }
+}

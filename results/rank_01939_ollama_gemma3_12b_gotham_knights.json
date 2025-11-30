@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Gotham Knights",
+    "overview": "In the aftermath of Bruce Wayne's murder, his rebellious adopted son forges an unlikely alliance with the children of Batman's enemies when they are all framed for killing the Caped Crusader.",
+    "genres": [
+      "Action & Adventure",
+      "Drama"
+    ],
+    "release_year": 2023,
+    "vote_count": 101
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Gotham Knights explores the aftermath of Batman's death, focusing on a group of young individuals connected to his enemies who must clear their names and confront a larger conspiracy. The series blends superhero action with a crime drama, examining themes of legacy, redemption, and the burden of responsibility. It offers a darker, more grounded take on the Batman universe, focusing on the next generation of heroes and villains struggling to define their place in a city without its protector. The narrative emphasizes complex relationships and moral ambiguities as the characters grapple with their pasts and forge an uncertain future.",
+        "spoiler_rich_plot_summary": "Following the shocking death of Bruce Wayne, his adopted son, Turner Hayes, finds himself framed for the murder alongside a group of other young people, each with ties to Batman's rogues' gallery. These include Harper Row, son of a former police commissioner, and Cullen Rowson, son of a notorious criminal. As they attempt to clear their names, they discover a larger conspiracy at play, orchestrated by a mysterious figure manipulating events from the shadows. The group reluctantly forms an alliance, utilizing their unique skills and knowledge to uncover the truth and expose the true killer. Throughout their investigation, they confront their own personal demons and the legacies of their parents, often blurring the lines between hero and villain. The series explores the challenges of inheriting a complicated legacy and the struggle to define one's own identity in a city steeped in darkness and corruption. As they delve deeper into the conspiracy, they uncover secrets about Bruce Wayne's past and the true nature of his crusade, ultimately forcing them to confront the question of whether they can truly honor his memory.",
+        "categorized_keywords": {
+          "themes": [
+            "legacy",
+            "redemption",
+            "identity-quest",
+            "moral-ambiguity",
+            "justice",
+            "family-dynamics",
+            "corruption"
+          ],
+          "plot_and_concepts": [
+            "crime-procedural",
+            "conspiracy-thriller",
+            "inherited-legacy",
+            "false-accusation",
+            "vigilante-justice"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "gritty",
+            "suspenseful",
+            "action-oriented"
+          ],
+          "genre_and_tropes": [
+            "superhero-action",
+            "crime-drama",
+            "found-family",
+            "revenge-plot"
+          ],
+          "setting": [
+            "gotham-city",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "anti-hero",
+            "morally-gray-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult"
+          ],
+          "detail_plot": [
+            "bat-signal",
+            "gotham-cityscape",
+            "police-station",
+            "underground-lair"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "crime-themes"
+          ]
+        },
+        "keyword_sentence": "Set in the dark and gritty landscape of Gotham City, Gotham Knights explores themes of legacy and redemption as a group of young heroes grapple with a conspiracy and navigate a world of moral ambiguity."
+      },
+      "duration_seconds": 67.63577651977539
+    }
+  }
+}

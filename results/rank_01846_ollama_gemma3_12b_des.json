@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Des",
+    "overview": "The story of one of the most infamous cases in UK criminal history, that of serial killer Dennis Nilsen. Told through the prism of three men, the series explores the personal and professional consequences of coming into contact with a man like Nilsen.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2020,
+    "vote_count": 108
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Des is a British crime drama series that delves into the investigation and aftermath of the Dennis Nilsen serial killer case. The series distinguishes itself by focusing on the psychological impact on the detectives involved, rather than sensationalizing the crimes themselves. Through a grounded and character-driven approach, Des explores the complexities of law enforcement, the burden of confronting evil, and the long-term consequences for those who come into contact with such darkness. The series maintains a somber and unsettling tone, prioritizing realism and psychological depth over stylistic flourishes.",
+        "spoiler_rich_plot_summary": "The series centers on the investigation led by DCI Peter Gunn and his team, who initially struggle to connect a series of disappearances to Dennis Nilsen. As the evidence slowly mounts, the detectives grapple with the horrific nature of Nilsen’s crimes and the realization that they are dealing with a man who meticulously covered his tracks. The investigation takes a significant toll on Gunn and his team, particularly DS Colin Sutton, who becomes increasingly consumed by the case and struggles to maintain a sense of normalcy. The series explores the ethical dilemmas faced by the detectives as they confront the psychological manipulation employed by Nilsen and the challenges of building a case against a man who presents himself as unassuming. The series culminates in Nilsen’s arrest and subsequent trial, highlighting the profound impact the case has on the lives of those involved, both professionally and personally, and the long shadow it casts over the community.",
+        "categorized_keywords": {
+          "themes": [
+            "true-crime",
+            "serial-killers",
+            "police-investigation",
+            "psychological-impact",
+            "moral-ambiguity",
+            "justice-system",
+            "trauma"
+          ],
+          "plot_and_concepts": [
+            "cold-case",
+            "police-procedural",
+            "investigative-drama",
+            "true-crime-adaptation"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "somber",
+            "unsettling",
+            "realistic",
+            "grim"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "police-procedural",
+            "true-crime"
+          ],
+          "setting": [
+            "uk",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "detective",
+            "serial-killer",
+            "reluctant-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "investigative-drama"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "police-station",
+            "interrogation-room",
+            "crime-scene",
+            "case-files"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "disturbing-themes"
+          ]
+        },
+        "keyword_sentence": "Des is a dark and unsettling British crime drama that explores the psychological impact of a true-crime investigation into a serial killer, revealing the toll on the detectives and the community."
+      },
+      "duration_seconds": 62.58958053588867
+    }
+  }
+}

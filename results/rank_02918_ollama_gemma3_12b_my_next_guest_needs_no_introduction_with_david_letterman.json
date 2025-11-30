@@ -1,0 +1,67 @@
+{
+  "input_data": {
+    "title": "My Next Guest Needs No Introduction With David Letterman",
+    "overview": "TV legend David Letterman teams up with fascinating global figures for in-depth interviews and curiosity-fueled excursions in this monthly talk show.",
+    "genres": [
+      "Talk"
+    ],
+    "release_year": 2018,
+    "vote_count": 50
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "My Next Guest Needs No Introduction With David Letterman is a monthly talk show that offers a refreshing departure from traditional interview formats. Hosted by David Letterman, the series prioritizes genuine curiosity and in-depth conversations with a diverse range of guests, often venturing beyond the studio for unique experiences. The show's relaxed and conversational tone fosters a sense of intimacy and allows for unexpected moments of humor and insight. It's a celebration of human connection and a platform for exploring diverse perspectives.",
+        "spoiler_rich_plot_summary": "The series operates without a traditional narrative arc, instead focusing on individual episodes centered around a single guest. Each episode begins with a standard interview segment where Letterman engages in conversation, delving into the guest's career, personal life, and perspectives on the world. A key element is the 'excursion,' where Letterman and the guest venture out to explore a location or activity related to the guest's interests or background. These excursions often lead to spontaneous and revealing moments, showcasing a more personal side of both the host and the guest. The show's format allows for a wide range of experiences, from exploring a musician's recording studio to visiting a chef's farm, always prioritizing authentic connection and discovery over scripted events. The series concludes with a sense of shared experience and a deeper understanding of the guest’s world.",
+        "categorized_keywords": {
+          "themes": [
+            "conversation",
+            "discovery",
+            "human-connection",
+            "curiosity",
+            "celebrity-culture"
+          ],
+          "plot_and_concepts": [
+            "interview-format",
+            "excursion",
+            "one-on-one-conversation"
+          ],
+          "mood_and_tone": [
+            "relaxed",
+            "conversational",
+            "intimate",
+            "humorous"
+          ],
+          "genre_and_tropes": [
+            "talk-show",
+            "celebrity-interview"
+          ],
+          "setting": [
+            "studio-setting",
+            "various-locations"
+          ],
+          "character_archetypes": [
+            "iconic-host",
+            "celebrity-guest"
+          ],
+          "narrative_style": [
+            "episodic",
+            "portrait-study"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "fans-of-talk-shows"
+          ],
+          "detail_plot": [
+            "interview-setup",
+            "excursion-location",
+            "conversation-topics"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "My Next Guest Needs No Introduction With David Letterman is a relaxed and intimate talk show that celebrates human connection through candid conversations and curious excursions with iconic guests."
+      },
+      "duration_seconds": 63.32070732116699
+    }
+  }
+}

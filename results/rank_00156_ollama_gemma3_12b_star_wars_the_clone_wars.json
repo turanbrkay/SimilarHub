@@ -1,0 +1,88 @@
+{
+  "input_data": {
+    "title": "Star Wars: The Clone Wars",
+    "overview": "Yoda, Obi-Wan Kenobi, Anakin Skywalker, Mace Windu and other Jedi Knights lead the Grand Army of the Republic against the droid army of the Separatists.",
+    "genres": [
+      "Action & Adventure",
+      "Animation",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2008,
+    "vote_count": 1767
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Star Wars: The Clone Wars serves as a bridge between Episodes II and III of the Star Wars saga, detailing the events of the titular conflict. The series expands upon the established universe, exploring the perspectives of both Republic and Separatist forces, and delving into the development of key characters like Anakin Skywalker and Ahsoka Tano. It blends action-packed space battles with character-driven narratives, examining themes of duty, morality, and the complexities of war. The series offers a more nuanced portrayal of the Jedi Order and the political landscape of the galaxy, ultimately contributing to the tragic events that lead to the rise of the Empire.",
+        "spoiler_rich_plot_summary": "The series begins with the Separatist movement gaining momentum, led by Count Dooku and General Grievous, threatening the Republic. Jedi Knights are dispatched to various battlefronts, often alongside clone troopers, forming a formidable fighting force. Anakin Skywalker, under the tutelage of Obi-Wan Kenobi, struggles with his emotions and growing power, setting him on a path towards the dark side. A young Padawan, Ahsoka Tano, is assigned to Anakin, and their relationship evolves as she faces challenges and makes difficult choices. Throughout the conflict, the series explores the motivations of key Separatist figures, revealing their connections to the larger political machinations at play. The war takes a heavy toll on both sides, leading to significant losses and shifting alliances. As the Clone Wars progress, Anakin's growing attachment to Padmé Amidala and his increasing frustration with the Jedi Council further erode his moral compass. The series culminates in events that directly foreshadow the rise of Darth Vader and the fall of the Republic, leaving a galaxy on the brink of a devastating civil war.",
+        "categorized_keywords": {
+          "themes": [
+            "war-and-conflict",
+            "duty-and-honor",
+            "redemption",
+            "loss-and-grief",
+            "political-intrigue",
+            "moral-ambiguity",
+            "friendship",
+            "coming-of-age"
+          ],
+          "plot_and_concepts": [
+            "galactic-war",
+            "clone-army",
+            "droid-army",
+            "lightsaber-duels",
+            "political-conspiracy",
+            "force-powers",
+            "military-strategy"
+          ],
+          "mood_and_tone": [
+            "epic",
+            "action-packed",
+            "somber",
+            "hopeful",
+            "tragic"
+          ],
+          "genre_and_tropes": [
+            "space-opera",
+            "military-sci-fi",
+            "coming-of-age-story",
+            "hero-journey"
+          ],
+          "setting": [
+            "space",
+            "galactic-republic",
+            "coruscant",
+            "various-planets"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "fallen-hero",
+            "rogue",
+            "loyal-companion"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "lightsaber",
+            "clone-trooper-armor",
+            "republic-gunship",
+            "separatist-droid",
+            "jedi-temple"
+          ],
+          "maturity_and_content": [
+            "violence"
+          ]
+        },
+        "keyword_sentence": "Star Wars: The Clone Wars depicts an epic galactic war between the Republic and the Separatists, exploring themes of duty, loss, and the moral complexities of conflict through the journeys of Jedi Knights and clone troopers."
+      },
+      "duration_seconds": 81.41756963729858
+    }
+  }
+}

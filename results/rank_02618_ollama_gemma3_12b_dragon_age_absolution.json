@@ -1,0 +1,86 @@
+{
+  "input_data": {
+    "title": "Dragon Age: Absolution",
+    "overview": "With great power at stake, a group of rebel mages and thieves goes head-to-head against a sinister force possessing a dangerous artifact.",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2022,
+    "vote_count": 61
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Dragon Age: Absolution is an animated action-adventure series set within the established Dragon Age universe. The series blends elements of fantasy, science fiction, and heist narratives, following a band of rebels as they confront a powerful antagonist seeking to exploit a dangerous artifact. The tone is generally dark and suspenseful, exploring themes of rebellion, sacrifice, and the corrupting influence of power. The series offers a visually dynamic and narratively complex experience, appealing to fans of the franchise and those seeking a mature fantasy adventure.",
+        "spoiler_rich_plot_summary": "The series begins with a desperate rebellion brewing against a tyrannical regime controlling the magical energies of Thedas. A group of skilled mages and thieves, led by a disgraced former Templar, are tasked with retrieving a powerful artifact known as the Orb of Annihilation, which could potentially destabilize the entire continent. Their mission is complicated by internal conflicts within the rebel group and the relentless pursuit of a shadowy figure known only as the 'Architect,' who seeks to harness the Orb's power for his own nefarious purposes. As the rebels delve deeper into their quest, they uncover a conspiracy that reaches the highest echelons of power, forcing them to confront not only external enemies but also their own pasts and loyalties. The Architect's true identity is gradually revealed, exposing a connection to the rebellion's origins and a devastating plan to reshape Thedas. The final confrontation involves a desperate struggle to prevent the Architect from unleashing the Orb's full potential, resulting in significant losses and a reshaping of the political landscape, though the ultimate fate of the Orb and the Architect remains uncertain, leaving the future of Thedas in precarious balance.",
+        "categorized_keywords": {
+          "themes": [
+            "rebellion",
+            "sacrifice",
+            "corruption",
+            "power-struggle",
+            "fate-vs-free-will",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "artifact-quest",
+            "heist-narrative",
+            "political-intrigue",
+            "conspiracy",
+            "time-manipulation"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "suspenseful",
+            "action-packed",
+            "gritty",
+            "epic"
+          ],
+          "genre_and_tropes": [
+            "fantasy",
+            "science-fiction",
+            "action-adventure",
+            "found-family",
+            "underdog-story"
+          ],
+          "setting": [
+            "thedas",
+            "alternate-timeline",
+            "medieval-fantasy",
+            "urban-fantasy"
+          ],
+          "character_archetypes": [
+            "disgraced-hero",
+            "reluctant-leader",
+            "anti-hero",
+            "mentor-figure",
+            "shadowy-villain"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "orb-of-annihilation",
+            "temple-ruins",
+            "shadow-realm",
+            "ancient-prophecy",
+            "rebel-hideout"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "political-tension"
+          ]
+        },
+        "keyword_sentence": "Dragon Age: Absolution is a dark and suspenseful animated series blending fantasy and science fiction elements as a group of rebels confronts a shadowy villain in a desperate quest to prevent a devastating political upheaval within the world of Thedas."
+      },
+      "duration_seconds": 72.58190035820007
+    }
+  }
+}

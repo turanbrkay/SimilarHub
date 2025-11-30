@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "Deadloch",
+    "overview": "Two vastly different female detectives are thrown together to solve the murder of a local man in the sleepy seaside hamlet of Deadloch.",
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "release_year": 2023,
+    "vote_count": 42
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Deadloch is a darkly comedic crime series that blends the procedural elements of a police investigation with the quirky charm of a small-town setting. The show follows two detectives with contrasting personalities and approaches as they navigate a murder case in a seemingly idyllic coastal community. The series explores themes of partnership, prejudice, and the unsettling undercurrents that can exist beneath a veneer of tranquility, offering a wry and observant commentary on human nature and the complexities of law enforcement.",
+        "spoiler_rich_plot_summary": "The series begins with the discovery of a man's body in the picturesque seaside town of Deadloch, a place known for its tourism and tranquility. Sergeant Hana Mars investigates the crime, but her methods clash with those of Detective Albie Fillbrick, who is assigned to work alongside her. As they delve deeper into the investigation, they uncover a web of secrets and lies within the community, revealing that the victim was more connected to the town than initially believed. The detectives face resistance from locals who are reluctant to cooperate, and they must overcome their own personal biases and professional differences to uncover the truth. The investigation leads them to explore the town's history, its social dynamics, and the hidden motivations of its residents, ultimately exposing a complex and unsettling truth about the seemingly peaceful community. The series culminates in the identification of the killer and the unraveling of a conspiracy that shakes the foundations of Deadloch.",
+        "categorized_keywords": {
+          "themes": [
+            "small-town-secrets",
+            "police-partnership",
+            "social-prejudice",
+            "crime-investigation",
+            "community-dynamics"
+          ],
+          "plot_and_concepts": [
+            "murder-mystery",
+            "crime-procedural",
+            "fish-out-of-water",
+            "small-town-crime"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "quirky",
+            "satirical",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "crime-comedy",
+            "police-procedural",
+            "small-town-mystery"
+          ],
+          "setting": [
+            "coastal-town",
+            "australia",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "contrasting-detectives",
+            "fish-out-of-water-protagonist",
+            "local-resident"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "coastal-hamlet",
+            "police-station",
+            "crime-scene",
+            "local-pub"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Deadloch is a darkly comedic crime series set in a picturesque Australian coastal town, where two contrasting detectives investigate a murder mystery and uncover unsettling secrets within a seemingly tranquil community."
+      },
+      "duration_seconds": 54.87906050682068
+    }
+  }
+}

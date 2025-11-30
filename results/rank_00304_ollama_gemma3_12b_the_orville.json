@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "The Orville",
+    "overview": "Follow the crew of the not-so-functional exploratory ship in the Earth's interstellar fleet, 400 years in the future.",
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2017,
+    "vote_count": 975
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Orville is a science fiction series that blends comedic elements with dramatic storytelling, drawing inspiration from classic Star Trek while forging its own identity. The show follows the crew of a mid-level exploratory vessel as they encounter new worlds, navigate complex ethical dilemmas, and grapple with personal struggles. It balances lighthearted humor with poignant character development and thought-provoking explorations of humanity's place in the universe. The series aims to evoke a sense of wonder and optimism while also acknowledging the challenges of interstellar exploration and the complexities of human relationships.",
+        "spoiler_rich_plot_summary": "The series begins with the USS Orville embarking on its maiden voyage, tasked with exploring uncharted territories and encountering new civilizations. Early seasons focus on establishing the crew dynamics and showcasing the ship's often-chaotic operations, highlighting the contrast between Captain Ed Mercer's desire for professionalism and the crew's tendency towards mishaps. As the series progresses, the Orville encounters various threats, including hostile alien races and temporal anomalies, forcing the crew to confront difficult choices and make sacrifices. Relationships evolve, both romantic and platonic, with characters facing personal growth and unexpected betrayals. Later seasons delve deeper into the political landscape of the Planetary Union, exploring themes of war, diplomacy, and the consequences of interstellar conflict. The overarching narrative arc involves the crew’s ongoing efforts to uphold the values of the Union while confronting the moral ambiguities of their mission and the ever-present possibility of galactic war.",
+        "categorized_keywords": {
+          "themes": [
+            "exploration",
+            "humanity",
+            "ethics",
+            "family-loyalty",
+            "duty",
+            "redemption",
+            "political-intrigue"
+          ],
+          "plot_and_concepts": [
+            "space-exploration",
+            "first-contact",
+            "time-travel",
+            "moral-dilemmas",
+            "galactic-war"
+          ],
+          "mood_and_tone": [
+            "comedic",
+            "optimistic",
+            "thoughtful",
+            "lighthearted",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "space-opera",
+            "found-family",
+            "ensemble-cast",
+            "slow-burn-romance"
+          ],
+          "setting": [
+            "space",
+            "future",
+            "alternate-timeline",
+            "galactic-federation"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "moral-gray-protagonist",
+            "optimistic-leader"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "episodic-adventure"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "uss-orville",
+            "planetary-union",
+            "starship-bridge",
+            "holodeck",
+            "medical-bay"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Orville is a comedic science fiction series set in the future, exploring themes of humanity, ethics, and space exploration through the adventures of a found-family crew aboard a starship."
+      },
+      "duration_seconds": 61.047701835632324
+    }
+  }
+}

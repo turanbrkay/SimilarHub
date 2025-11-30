@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Room 104",
+    "overview": "An anthology series set in a single hotel room, where every guest who comes to stay reveals a unique set of circumstances and quirks.",
+    "genres": [
+      "Mystery",
+      "Drama",
+      "Comedy"
+    ],
+    "release_year": 2017,
+    "vote_count": 113
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Room 104 is a unique anthology series centered around a single hotel room, offering a constantly shifting narrative landscape with each new guest. The show blends elements of mystery, drama, and comedy, exploring a wide range of human experiences and eccentricities within a confined setting. Its episodic nature allows for experimentation with tone and genre, creating a surreal and often darkly humorous exploration of the mundane and the bizarre. The series thrives on its unpredictability, offering viewers a fresh and often unsettling perspective on everyday life.",
+        "spoiler_rich_plot_summary": "Each episode of Room 104 presents a completely self-contained story, focusing on different guests who occupy room 104 of a motel. The narratives range from lighthearted comedic situations to intense dramatic explorations of personal struggles and unusual circumstances. Some episodes delve into the past of the hotel staff, revealing their own secrets and motivations. Recurring characters occasionally appear in different episodes, adding a subtle connective tissue between seemingly disparate stories. The series avoids a traditional overarching plot, instead focusing on the individual journeys of its guests and the unsettling atmosphere of the motel itself. The ending of each episode is abrupt and unexpected, leaving a lasting impression on the viewer and highlighting the transient nature of human connection.",
+        "categorized_keywords": {
+          "themes": [
+            "transience",
+            "isolation",
+            "human-condition",
+            "identity",
+            "absurdity",
+            "social-commentary"
+          ],
+          "plot_and_concepts": [
+            "anthology-series",
+            "mystery",
+            "dark-comedy",
+            "slice-of-life",
+            "character-study"
+          ],
+          "mood_and_tone": [
+            "surreal",
+            "unsettling",
+            "quirky",
+            "darkly-comic",
+            "absurdist"
+          ],
+          "genre_and_tropes": [
+            "anthology",
+            "character-driven",
+            "slice-of-life",
+            "found-family"
+          ],
+          "setting": [
+            "motel",
+            "hotel-room",
+            "american-midwest"
+          ],
+          "character_archetypes": [
+            "eccentric",
+            "outsider",
+            "wanderer"
+          ],
+          "narrative_style": [
+            "episodic",
+            "self-contained",
+            "non-linear"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "hotel-lobby",
+            "worn-furniture",
+            "motel-sign",
+            "key-card"
+          ],
+          "maturity_and_content": [
+            "mature-themes",
+            "sexual-content",
+            "drug-use"
+          ]
+        },
+        "keyword_sentence": "Room 104 is a darkly comic anthology series exploring the human condition through a collection of unsettling and often absurd stories set within the confines of a single motel room."
+      },
+      "duration_seconds": 61.402366638183594
+    }
+  }
+}

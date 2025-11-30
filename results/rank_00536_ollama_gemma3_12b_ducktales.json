@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "DuckTales",
+    "overview": "Scrooge McDuck finds his hands full at home when nephews Huey, Dewey and Louie move to Duckburg. Joined by their loyal pals Launchpad McQuack, Gyro Gearloose and Mrs. Beakley, the DuckTales gang never fails to deliver a wealth of adventure. Get ready for a fortune of fun with DuckTales!",
+    "genres": [
+      "Family",
+      "Animation",
+      "Mystery",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1987,
+    "vote_count": 574
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "DuckTales is a lighthearted animated adventure series centered around the wealthy Scrooge McDuck and his three nephews, Huey, Dewey, and Louie. The show blends elements of family dynamics, treasure hunting, and whimsical fantasy, offering a blend of comedic and action-packed storytelling. Recurring themes of family, loyalty, and the pursuit of wealth are explored through exciting global expeditions and encounters with eccentric characters. The series appeals to a broad audience with its accessible humor and engaging narratives, creating a nostalgic and entertaining experience.",
+        "spoiler_rich_plot_summary": "The series initially follows Scrooge McDuck, a notoriously miserly duck, as he reluctantly takes in his three nephews, Huey, Dewey, and Louie, after their parents' disappearance. The nephews quickly disrupt Scrooge's carefully controlled life, leading to comedic clashes and unexpected adventures. Throughout the series, the boys and Scrooge embark on numerous treasure hunts across the globe, uncovering ancient mysteries and battling various adversaries, often linked to Scrooge's past. Recurring plotlines involve the search for lost relatives, the unraveling of family secrets, and the occasional confrontation with villains seeking to exploit Scrooge's wealth or knowledge. The boys gradually learn valuable lessons about family, friendship, and the importance of generosity, while Scrooge slowly softens his heart and embraces a more paternal role. While the mystery surrounding their parents' disappearance remains a central thread, the series focuses primarily on the adventures and character development of the core group, culminating in a sense of familial unity and shared experiences.",
+        "categorized_keywords": {
+          "themes": [
+            "family-loyalty",
+            "greed",
+            "adventure",
+            "treasure",
+            "redemption",
+            "friendship"
+          ],
+          "plot_and_concepts": [
+            "treasure-hunt",
+            "mystery",
+            "time-travel",
+            "lost-relatives",
+            "secret-identity"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "optimistic",
+            "adventurous"
+          ],
+          "genre_and_tropes": [
+            "family-comedy",
+            "adventure-comedy",
+            "found-family",
+            "coming-of-age"
+          ],
+          "setting": [
+            "duckburg",
+            "global-locations",
+            "alternate-timeline"
+          ],
+          "character_archetypes": [
+            "miser",
+            "reluctant-hero",
+            "mischievous-child",
+            "loyal-sidekick"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-adventure"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "money-bags",
+            "flying-duck",
+            "treasure-map",
+            "gyro-gearloose-lab"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "DuckTales is a lighthearted family-comedy series about a miserly duck and his nephews who embark on global treasure hunts, blending adventure and humor with themes of family loyalty and the pursuit of wealth."
+      },
+      "duration_seconds": 60.42233061790466
+    }
+  }
+}

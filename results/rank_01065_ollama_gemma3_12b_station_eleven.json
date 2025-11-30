@@ -1,0 +1,88 @@
+{
+  "input_data": {
+    "title": "Station Eleven",
+    "overview": "A post apocalyptic saga spanning multiple timelines telling the stories of survivors of a devastating flu as they attempt to rebuild and reimagine the world anew while holding on to the best of what's been lost.",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Mystery"
+    ],
+    "release_year": 2021,
+    "vote_count": 237
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Station Eleven is a post-apocalyptic drama that explores the resilience of art and human connection in the face of unimaginable loss. The series interweaves multiple timelines, depicting the world before, during, and after a devastating flu pandemic. It's a character-driven story focused on the survivors' attempts to rebuild society and find meaning amidst the ruins, emphasizing the importance of creativity, memory, and the enduring power of storytelling. The tone is melancholic yet hopeful, blending elements of mystery and science fiction with a deeply human core.",
+        "spoiler_rich_plot_summary": "The series begins in the days leading up to the Georgia Flu pandemic, focusing on actor Arthur Leander's final performance and the lives of those connected to him, including Kirsten Raymonde, a young girl who becomes a pivotal figure in the post-apocalyptic world. As the flu rapidly spreads, decimating the global population, the narrative shifts to twenty years later, where Kirsten is part of the Traveling Symphony, a group of actors and musicians who perform Shakespeare for scattered settlements. Their journey is threatened by a mysterious Prophet, a charismatic and dangerous figure who believes the pandemic was a cleansing event and seeks to control the remaining communities. The series explores the origins of the Prophet and his connection to Arthur Leander, revealing a complex web of relationships and shared trauma. Through flashbacks, we witness the initial collapse of society and the struggles of various survivor groups, including the Children of the Corn and the Severn City Airport community. Ultimately, the series culminates in a confrontation between the Traveling Symphony and the Prophet, highlighting the importance of art, memory, and human connection in rebuilding a shattered world. The survivors grapple with the legacy of the past and strive to create a future where creativity and compassion can flourish.",
+        "categorized_keywords": {
+          "themes": [
+            "loss-and-grief",
+            "art-and-creativity",
+            "memory-and-legacy",
+            "human-connection",
+            "post-apocalyptic-society",
+            "redemption",
+            "hope-and-resilience"
+          ],
+          "plot_and_concepts": [
+            "time-shifting-narrative",
+            "post-pandemic-world",
+            "traveling-troupe",
+            "cult-leadership",
+            "found-family",
+            "apocalyptic-event"
+          ],
+          "mood_and_tone": [
+            "melancholic",
+            "hopeful",
+            "atmospheric",
+            "reflective",
+            "somber"
+          ],
+          "genre_and_tropes": [
+            "post-apocalyptic",
+            "science-fiction",
+            "drama",
+            "mystery",
+            "literary-adaptation"
+          ],
+          "setting": [
+            "north-america",
+            "post-apocalyptic-world",
+            "small-town-communities",
+            "alternate-timeline"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "charismatic-leader",
+            "artist",
+            "survivor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "non-linear-timeline",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "shakespearean-plays",
+            "traveling-wagon",
+            "graphic-novels",
+            "airport-terminal",
+            "prophet's-compound"
+          ],
+          "maturity_and_content": [
+            "grief-themes",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "Station Eleven is a melancholic and hopeful drama exploring themes of loss, art, and human connection in a post-apocalyptic world, where a traveling troupe of artists strives to rebuild society and preserve memory amidst the ruins of a devastating pandemic."
+      },
+      "duration_seconds": 74.02971720695496
+    }
+  }
+}

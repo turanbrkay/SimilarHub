@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "The Outer Limits",
+    "overview": "The Outer Limits is an anthology tv series of self-contained sci-fi-horror stories, sometimes with a plot twist at the end.",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1963,
+    "vote_count": 120
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Outer Limits is a classic anthology series presenting standalone science fiction and horror stories, often exploring philosophical and moral dilemmas through fantastical scenarios. Each episode features new characters and settings, maintaining a sense of mystery and suspense. The show's hallmark is its unpredictable nature, frequently culminating in surprising plot twists that challenge viewers' expectations. Its episodic format allows for a wide range of thematic explorations, from the dangers of unchecked scientific advancement to the fragility of human perception. The series blends elements of science fiction, horror, and psychological thriller, creating a consistently unsettling and thought-provoking viewing experience.",
+        "spoiler_rich_plot_summary": "Each episode of The Outer Limits presents a completely new story, typically involving a scientific anomaly, alien encounter, or technological breakthrough that goes horribly wrong. The narratives often begin with a seemingly straightforward premise, gradually revealing a darker, more complex reality. Characters frequently find themselves confronting existential threats, moral quandaries, and the limitations of human understanding. While the specific details vary wildly from episode to episode, a common thread is the exploration of the unintended consequences of scientific ambition and the potential for technology to be used for destructive purposes. The stories often conclude with a twist ending, leaving the viewer to ponder the deeper implications of the events that have transpired. The anthology format allows for a broad range of scenarios, from encounters with hostile extraterrestrial beings to the unraveling of reality itself, always maintaining a sense of unease and suspense.",
+        "categorized_keywords": {
+          "themes": [
+            "science-vs-ethics",
+            "existential-dread",
+            "human-fallibility",
+            "moral-ambiguity",
+            "fear-of-the-unknown",
+            "scientific-hubris"
+          ],
+          "plot_and_concepts": [
+            "anthology-series",
+            "science-fiction",
+            "horror",
+            "plot-twist",
+            "alien-encounter",
+            "technological-anomaly"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "mysterious",
+            "unsettling",
+            "thought-provoking"
+          ],
+          "genre_and_tropes": [
+            "science-fiction-horror",
+            "anthology-format",
+            "philosophical-sci-fi"
+          ],
+          "setting": [
+            "alternate-reality",
+            "modern-day",
+            "small-town-america"
+          ],
+          "character_archetypes": [
+            "scientist",
+            "ordinary-citizen",
+            "enigmatic-figure"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "self-contained-episodes"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "laboratory-equipment",
+            "alien-artifact",
+            "government-facility",
+            "strange-phenomenon"
+          ],
+          "maturity_and_content": [
+            "suspense",
+            "psychological-horror"
+          ]
+        },
+        "keyword_sentence": "The Outer Limits is a suspenseful anthology series that explores dark and unsettling themes of science versus ethics through self-contained episodes, often featuring strange phenomena and challenging adult viewers to confront the fear of the unknown."
+      },
+      "duration_seconds": 65.74937391281128
+    }
+  }
+}

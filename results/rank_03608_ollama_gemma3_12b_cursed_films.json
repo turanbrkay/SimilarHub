@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Cursed Films",
+    "overview": "A documentary series exploring the myths and legends behind some of Hollywood’s notoriously “cursed” horror film productions. From plane accidents and bombings during the making of The Omen, to the rumored use of real human skeletons on the set of Poltergeist, these stories are legendary amongst film fans and filmmakers alike. But where does the truth lie?",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2020,
+    "vote_count": 33
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Cursed Films is a documentary series that delves into the folklore and urban legends surrounding troubled film productions, particularly within the horror genre. The series examines the purported misfortunes – accidents, deaths, and other disasters – that have plagued these films, exploring the intersection of superstition, coincidence, and the demanding nature of filmmaking. It aims to separate fact from fiction, investigating the stories behind the myths and considering the psychological impact of these narratives on both cast and crew, and audiences. The series offers a blend of historical investigation and cultural analysis, examining how these stories become ingrained in popular culture.",
+        "spoiler_rich_plot_summary": "Each episode of Cursed Films focuses on a different film production, beginning with an introduction to the film itself and its initial reception. The series then meticulously recounts the events that led to the film's reputation for being cursed, often detailing accidents, unexplained deaths, and financial setbacks. Interviews with film historians, cast and crew members, and paranormal investigators are interwoven to provide multiple perspectives on the events. The series explores the potential explanations for these misfortunes, ranging from genuine supernatural occurrences to the power of suggestion and the tendency to attribute meaning to random events. While the series doesn't definitively prove or disprove the existence of curses, it examines the lasting impact of these stories on the films' legacies and the broader film industry, demonstrating how these narratives can shape a film's perception and influence its cultural significance. The series concludes by considering the role of these stories in perpetuating the myth and the enduring fascination with the idea of cursed films.",
+        "categorized_keywords": {
+          "themes": [
+            "superstition",
+            "film-history",
+            "paranormal",
+            "urban-legends",
+            "coincidence",
+            "film-production",
+            "cultural-impact"
+          ],
+          "plot_and_concepts": [
+            "documentary-series",
+            "investigative-journalism",
+            "film-mythology",
+            "true-crime",
+            "folklore"
+          ],
+          "mood_and_tone": [
+            "mysterious",
+            "intriguing",
+            "analytical",
+            "skeptical"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "horror-film",
+            "true-story"
+          ],
+          "setting": [
+            "hollywood",
+            "film-industry"
+          ],
+          "character_archetypes": [
+            "film-historian",
+            "paranormal-investigator"
+          ],
+          "narrative_style": [
+            "investigative",
+            "chronological"
+          ],
+          "target_audience": [
+            "film-fans",
+            "horror-enthusiasts"
+          ],
+          "detail_plot": [
+            "plane-crash",
+            "film-set",
+            "human-skeletons",
+            "bombing"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Cursed Films is an intriguing documentary series that investigates the myths and legends surrounding troubled horror film productions, exploring the intersection of superstition, film history, and the enduring fascination with unexplained events within the Hollywood film industry."
+      },
+      "duration_seconds": 56.40356922149658
+    }
+  }
+}

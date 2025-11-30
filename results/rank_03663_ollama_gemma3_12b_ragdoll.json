@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Ragdoll",
+    "overview": "Detectives look to untangle the case of the Ragdoll Killer, who has killed six people and sewn their bodies into the shape of one grotesque body nicknamed the Ragdoll.",
+    "genres": [
+      "Mystery",
+      "Crime"
+    ],
+    "release_year": 2021,
+    "vote_count": 32
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Ragdoll is a British crime thriller series that plunges into the dark and unsettling world of a police investigation. The series follows a detective grappling with personal trauma as he and his team attempt to decipher the cryptic messages left by a serial killer who constructs his victims into a macabre sculpture. The show blends elements of psychological suspense with procedural crime drama, creating a tense and disturbing atmosphere. It explores themes of trauma, obsession, and the blurred lines between victim and perpetrator, offering a bleak and unsettling viewing experience.",
+        "spoiler_rich_plot_summary": "The series centers on Detective Inspector William Raphaelson, a man haunted by a traumatic past, who is reluctantly drawn back into active duty to investigate a series of bizarre murders. The killer, dubbed the 'Ragdoll Killer,' meticulously stages his victims, sewing their bodies into the shape of a grotesque doll. Each crime scene is accompanied by a series of taunting messages and puzzles directed at the detectives. As the investigation progresses, the team discovers a disturbing connection between the killer's actions and William's own past, suggesting a personal link that complicates the case. The killer’s methods become increasingly elaborate and psychologically manipulative, forcing the detectives to confront their own vulnerabilities and biases. The investigation reveals a complex web of interconnected characters, each harboring secrets and motivations that contribute to the unfolding mystery. The killer’s identity remains elusive, and the detectives must race against time to prevent further deaths and unravel the killer's twisted game, ultimately confronting a shocking truth about the origins of the violence.",
+        "categorized_keywords": {
+          "themes": [
+            "trauma",
+            "obsession",
+            "psychological-manipulation",
+            "identity-crisis",
+            "revenge",
+            "grief"
+          ],
+          "plot_and_concepts": [
+            "serial-killer",
+            "police-investigation",
+            "crime-procedural",
+            "puzzle-solving",
+            "cat-and-mouse"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "suspenseful",
+            "disturbing",
+            "bleak",
+            "tense"
+          ],
+          "genre_and_tropes": [
+            "crime-thriller",
+            "psychological-thriller",
+            "serial-killer-genre"
+          ],
+          "setting": [
+            "modern-day",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "haunted-detective",
+            "morally-gray-protagonist",
+            "enigmatic-villain"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "ragdoll-sculpture",
+            "taunting-messages",
+            "crime-scene-puzzle"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "disturbing-imagery"
+          ]
+        },
+        "keyword_sentence": "Ragdoll is a dark and suspenseful crime thriller series that explores themes of trauma and obsession as a haunted detective and his team unravel a series of disturbing murders orchestrated by a serial killer in a modern urban environment."
+      },
+      "duration_seconds": 74.92292952537537
+    }
+  }
+}

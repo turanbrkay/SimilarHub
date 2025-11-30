@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Beverly Hills, 90210",
+    "overview": "Follow the lives of a group of teenagers living in the upscale, star-studded community of Beverly Hills, California and attending the fictitious West Beverly Hills High School and, subsequently, the fictitious California University after graduation.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 1990,
+    "vote_count": 646
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Beverly Hills, 90210 is a teen drama series that explores the lives, loves, and challenges of a group of affluent high school students in Beverly Hills, California. The show focuses on themes of friendship, family, social status, and navigating adolescence amidst privilege. It blends coming-of-age narratives with storylines addressing contemporary social issues, offering a glimpse into the lives of teenagers grappling with identity, relationships, and the pressures of a high-profile environment. The series established a template for teen dramas that followed, focusing on relatable struggles within a glamorous setting.",
+        "spoiler_rich_plot_summary": "The series begins with Brandon Walsh and his family relocating from the Midwest to Beverly Hills, where he and his siblings, Brenda, Dylan, and Kelly, must navigate a new social landscape at West Beverly Hills High. Brandon quickly befriends Dylan, a rebellious and enigmatic figure, while Kelly finds herself drawn to the popular and wealthy Dylan. Brenda, meanwhile, develops a complex relationship with David Silver, a shy and awkward classmate. Throughout the series, the core group faces numerous challenges, including romantic entanglements, family conflicts, and academic pressures. Key storylines involve Kelly's struggles with anorexia, Dylan's troubled past and involvement with criminal activity, and Brenda's complicated relationship with her brother, Brandon. As the characters mature, they confront issues such as drug abuse, teen pregnancy, and the responsibilities of adulthood. The series culminates with the characters graduating from high school and embarking on their college years, leaving behind the familiar setting of Beverly Hills and facing new opportunities and uncertainties.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "family-dynamics",
+            "social-status",
+            "coming-of-age",
+            "identity-quest",
+            "first-love",
+            "privilege",
+            "adolescence"
+          ],
+          "plot_and_concepts": [
+            "teen-drama",
+            "high-school-setting",
+            "romantic-relationships",
+            "social-issues",
+            "family-secrets"
+          ],
+          "mood_and_tone": [
+            "melodramatic",
+            "nostalgic",
+            "emotional",
+            "aspirational"
+          ],
+          "genre_and_tropes": [
+            "teen-drama",
+            "coming-of-age",
+            "high-school-romance",
+            "affluence"
+          ],
+          "setting": [
+            "beverly-hills-california",
+            "modern-day",
+            "affluent-community"
+          ],
+          "character_archetypes": [
+            "rebellious-teen",
+            "popular-girl",
+            "new-kid",
+            "troubled-youth"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "teenagers",
+            "young-adults"
+          ],
+          "detail_plot": [
+            "high-school-hallways",
+            "prom-night",
+            "sports-car",
+            "shopping-mall",
+            "beach-house"
+          ],
+          "maturity_and_content": [
+            "teen-pregnancy",
+            "drug-abuse"
+          ]
+        },
+        "keyword_sentence": "Beverly Hills, 90210 is a nostalgic teen drama series exploring themes of friendship, family, and identity as a group of young adults navigate the challenges of adolescence within an affluent California community."
+      },
+      "duration_seconds": 62.56535220146179
+    }
+  }
+}

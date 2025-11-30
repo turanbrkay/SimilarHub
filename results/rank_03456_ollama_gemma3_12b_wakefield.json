@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Wakefield",
+    "overview": "Nikhil Katira is a psychiatric nurse working at Wakefield, a facility perched on the edge of Australia's spectacular Blue Mountains. There's one problem - while his patients are getting better, he's getting worse.",
+    "genres": [
+      "Mystery",
+      "Drama"
+    ],
+    "release_year": 2021,
+    "vote_count": 36
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Wakefield is a psychological drama series centered on a psychiatric nurse whose own mental health deteriorates as he witnesses the recoveries of his patients. The show explores themes of empathy, guilt, and the blurred lines between caregiver and patient, utilizing a suspenseful atmosphere and a non-linear narrative structure. It delves into the complexities of the human psyche and the potential for darkness within seemingly ordinary individuals, offering a character-driven exploration of trauma and redemption. The series blends elements of mystery and drama, creating a tense and unsettling viewing experience.",
+        "spoiler_rich_plot_summary": "The series introduces Nikhil Katira, a psychiatric nurse at Wakefield, a remote mental health facility. Initially presented as a compassionate and dedicated professional, Nikhil's own mental state begins to unravel as he observes the progress of his patients. Flashbacks reveal a traumatic event in his past, hinting at the source of his internal struggles. As Nikhil's grip on reality loosens, he becomes increasingly entangled in the lives of his patients, blurring the boundaries between his professional role and personal involvement. The narrative jumps between the present and the past, gradually revealing the details of Nikhil’s past trauma and its impact on his current behavior. The series explores the ethical dilemmas faced by mental health professionals and the potential for personal demons to sabotage even the most well-intentioned individuals. The ending reveals the full extent of Nikhil's past and the consequences of his actions, leaving the audience to question the nature of guilt, forgiveness, and the possibility of true healing.",
+        "categorized_keywords": {
+          "themes": [
+            "mental-health",
+            "guilt",
+            "redemption",
+            "trauma",
+            "empathy",
+            "moral-ambiguity",
+            "caregiver-burnout"
+          ],
+          "plot_and_concepts": [
+            "flashbacks",
+            "non-linear-narrative",
+            "psychological-thriller",
+            "moral-dilemma",
+            "patient-therapist-relationship"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "unsettling",
+            "introspective",
+            "melancholy"
+          ],
+          "genre_and_tropes": [
+            "psychological-drama",
+            "mystery",
+            "character-driven",
+            "slow-burn"
+          ],
+          "setting": [
+            "australia",
+            "blue-mountains",
+            "mental-health-facility",
+            "remote-location"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "morally-gray-protagonist",
+            "traumatized-individual",
+            "compassionate-caregiver"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "patient-records",
+            "therapy-session",
+            "flashback-sequence",
+            "medication-dispensing"
+          ],
+          "maturity_and_content": [
+            "mental-health-themes",
+            "emotional-distress"
+          ]
+        },
+        "keyword_sentence": "Wakefield is a dark and suspenseful psychological drama set in the remote Australian Blue Mountains, exploring themes of trauma, guilt, and redemption through the unraveling of a compassionate caregiver’s mental health."
+      },
+      "duration_seconds": 61.2340567111969
+    }
+  }
+}

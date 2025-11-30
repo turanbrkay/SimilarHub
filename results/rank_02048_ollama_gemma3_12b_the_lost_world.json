@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "The Lost World",
+    "overview": "Early 20th-century adventurers find themselves fighting for survival after their hot-air balloon crashes into a remote part of the Amazon, stranding them on a prehistoric plateau.",
+    "genres": [
+      "Action & Adventure",
+      "Drama"
+    ],
+    "release_year": 1999,
+    "vote_count": 93
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Lost World is an action-adventure drama set in a remote, prehistoric plateau within the Amazon rainforest. The series follows a group of explorers who crash-land and must contend with dangerous dinosaurs and the challenges of survival. It blends elements of classic adventure storytelling with a focus on the fragility of human existence against the backdrop of a lost world. The narrative explores themes of scientific discovery, the ethics of intervention, and the primal struggle for dominance. The tone is suspenseful and often perilous, emphasizing the constant threat posed by the environment and its inhabitants.",
+        "spoiler_rich_plot_summary": "The series begins with a team of explorers, led by a driven paleontologist, embarking on an expedition to locate a rumored lost world. A catastrophic hot-air balloon crash leaves them stranded on a remote plateau teeming with dinosaurs, previously thought extinct. The initial focus is on survival, as the team struggles to secure resources and evade the various prehistoric creatures. As they delve deeper into the plateau, they discover a complex ecosystem and evidence of a previous human presence, hinting at a darker history. Conflicts arise within the group, driven by differing scientific agendas and the psychological toll of their isolation. The paleontologist's ambition to study the dinosaurs clashes with the concerns of others who prioritize escape and preservation. The series culminates in a confrontation with the plateau's dominant predator, forcing the survivors to make difficult choices about their future and the fate of the lost world. The survivors eventually manage to signal for rescue, but the experience leaves a lasting impact, raising questions about the responsibility of humanity in the face of such extraordinary discoveries.",
+        "categorized_keywords": {
+          "themes": [
+            "survival",
+            "scientific-discovery",
+            "human-vs-nature",
+            "ethics-of-intervention",
+            "lost-civilization",
+            "greed",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "lost-world",
+            "dinosaurs",
+            "expedition",
+            "hot-air-balloon",
+            "survival-story",
+            "scientific-ambition"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "perilous",
+            "adventurous",
+            "isolated",
+            "tense"
+          ],
+          "genre_and_tropes": [
+            "adventure-story",
+            "action-adventure",
+            "survival-thriller",
+            "lost-world-trope"
+          ],
+          "setting": [
+            "amazon-rainforest",
+            "remote-plateau",
+            "prehistoric-era",
+            "lost-world"
+          ],
+          "character_archetypes": [
+            "driven-scientist",
+            "resourceful-explorer",
+            "skeptical-leader",
+            "ambitious-researcher"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "hot-air-balloon",
+            "dinosaurs",
+            "jungle-terrain",
+            "research-equipment",
+            "ancient-ruins"
+          ],
+          "maturity_and_content": [
+            "graphic-violence"
+          ]
+        },
+        "keyword_sentence": "Stranded in a prehistoric Amazon plateau, a team of explorers battles dinosaurs and their own ambitions in a suspenseful adventure that explores the fragility of human existence against the backdrop of a lost world."
+      },
+      "duration_seconds": 69.51798820495605
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Wisdom of the Crowd",
+    "overview": "A tech innovator creates a cutting-edge crowd-sourcing hub to solve his own daughter's murder, as well as revolutionizing crime solving in San Francisco.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2017,
+    "vote_count": 39
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Wisdom of the Crowd is a crime drama series exploring the potential and pitfalls of harnessing collective intelligence to solve crimes. The series blends procedural elements with a technological premise, examining themes of justice, privacy, and the ethical implications of relying on anonymous online communities. It offers a suspenseful narrative with a focus on character dynamics and the evolving relationship between law enforcement and citizen participation. The show’s tone is generally dark and investigative, punctuated by moments of hope and the complexities of human interaction.",
+        "spoiler_rich_plot_summary": "The series begins with Jeffery Ashton, a tech innovator, creating a platform called 'Allizone' after his daughter, Mia, is murdered. Allizone allows users to anonymously submit tips and insights on unsolved crimes, effectively crowdsourcing investigative power. Initially, Allizone proves remarkably successful, helping solve numerous cases and gaining widespread popularity. However, the platform quickly attracts malicious actors and individuals seeking to manipulate the system for their own purposes. Ashton finds himself grappling with the unintended consequences of his creation, as Allizone's anonymity shields criminals and exposes vulnerabilities within the justice system. The investigation into Mia's murder becomes intertwined with the broader challenges of managing Allizone, forcing Ashton to confront uncomfortable truths about the nature of justice and the limits of technology. As the series progresses, the lines between investigator and investigated blur, and Ashton must navigate a complex web of deception and betrayal to uncover the truth behind his daughter's death and the dark underbelly of his own creation. The series culminates in a confrontation that reveals the true extent of the conspiracy and the profound impact of Allizone on the lives of those involved.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "privacy",
+            "technology-ethics",
+            "grief",
+            "revenge",
+            "corruption",
+            "vigilantism"
+          ],
+          "plot_and_concepts": [
+            "crime-procedural",
+            "crowdsourcing",
+            "anonymous-tips",
+            "online-community",
+            "police-investigation",
+            "serial-killer"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "investigative",
+            "tense"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "techno-thriller",
+            "found-family"
+          ],
+          "setting": [
+            "san-francisco",
+            "modern-day",
+            "online-platform"
+          ],
+          "character_archetypes": [
+            "grieving-father",
+            "tech-innovator",
+            "police-detective",
+            "corrupt-official"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "online-forum",
+            "anonymous-profile",
+            "police-badge",
+            "security-camera"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "Wisdom of the Crowd is a suspenseful crime drama set in modern-day San Francisco, exploring the dark side of technology and justice as a grieving father uses crowdsourcing to solve his daughter’s murder and expose corruption within the system."
+      },
+      "duration_seconds": 61.0494384765625
+    }
+  }
+}

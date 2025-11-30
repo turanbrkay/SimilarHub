@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Game Shakers",
+    "overview": "A live-action sitcom about two 12-year-old girls who start a multi-million-dollar gaming company and take on rap superstar Double G as a business partner.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2015,
+    "vote_count": 100
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Game Shakers is a Nickelodeon sitcom centered on two young entrepreneurs who launch a successful video game company. The series blends comedic elements with business-themed storylines, exploring themes of friendship, creativity, and the challenges of running a company. It targets a younger audience with its lighthearted tone and focus on relatable adolescent experiences, often incorporating slapstick humor and exaggerated situations. The show's premise revolves around the dynamic between the two girls, their business partner, and the quirky employees they hire, creating a consistently upbeat and entertaining viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Harper and Blake Ketch, two twelve-year-old girls, creating a wildly popular mobile game called 'Boggle Blaze' while still in middle school. Their success attracts the attention of Tripp Micelli, a famous rapper known as Double G, who offers to become their business partner. They establish Game Shakers, a company dedicated to creating innovative and engaging video games. Throughout the series, Harper and Blake navigate the complexities of running a business, dealing with rival companies, and managing the eccentric personalities of their employees. They face numerous challenges, including creative differences, financial setbacks, and attempts to sabotage their success. The girls consistently rely on their friendship and ingenuity to overcome obstacles and maintain their position as leaders in the gaming industry, while also learning valuable lessons about responsibility and teamwork. The show explores the ups and downs of entrepreneurship, showcasing both the excitement of success and the difficulties of maintaining a thriving business.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "entrepreneurship",
+            "creativity",
+            "teamwork",
+            "business-challenges",
+            "coming-of-age"
+          ],
+          "plot_and_concepts": [
+            "mobile-gaming",
+            "business-partnership",
+            "rivalry",
+            "creative-process",
+            "start-up-culture"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "comedic",
+            "upbeat",
+            "slapstick-humor"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "teen-comedy",
+            "business-comedy"
+          ],
+          "setting": [
+            "modern-day",
+            "los-angeles"
+          ],
+          "character_archetypes": [
+            "entrepreneur",
+            "teenager",
+            "rapper",
+            "eccentric-employee"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "mobile-game",
+            "gaming-company",
+            "rap-music",
+            "business-deal"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Game Shakers is a lighthearted teen comedy series about two young entrepreneurs who navigate the challenges of running a gaming company while learning about friendship and creativity in a modern Los Angeles setting."
+      },
+      "duration_seconds": 63.01437783241272
+    }
+  }
+}

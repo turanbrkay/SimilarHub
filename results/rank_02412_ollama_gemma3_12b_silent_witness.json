@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Silent Witness",
+    "overview": "Silent Witness is a British crime thriller series focusing on a team of forensic pathology experts and their investigations into various crimes.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 1996,
+    "vote_count": 71
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Silent Witness is a long-running British crime drama that centers on a team of forensic pathologists as they investigate complex and often disturbing crimes. The series blends procedural elements with a focus on the scientific process and the emotional toll it takes on the investigators. Known for its realistic portrayal of forensic science and its exploration of ethical dilemmas, Silent Witness offers a suspenseful and often dark examination of crime and its impact on society. The show's strength lies in its ability to maintain a consistent tone and compelling characters across numerous seasons, offering a blend of intellectual rigor and human drama.",
+        "spoiler_rich_plot_summary": "The series initially follows Dr. Thomas Chamberlain and Dr. Emma Boyle as they work at the Royle Family Forensic Science Unit. Early seasons establish their professional relationship and their dedication to uncovering the truth behind violent crimes. As the series progresses, the team expands, introducing new pathologists and investigators, each bringing their own expertise and personal struggles to the cases. Recurring themes involve the ethical boundaries of forensic science, the impact of trauma on the investigators, and the complexities of the legal system. Over the years, the team faces numerous challenges, including personal tragedies, professional betrayals, and the constant pressure of solving increasingly intricate cases. While individual cases often resolve, overarching storylines explore the long-term consequences of their work and the evolving landscape of forensic science, with characters confronting moral compromises and the weight of their discoveries. The series consistently portrays the dedication and sacrifices required to pursue justice, even when it means confronting uncomfortable truths and risking personal safety.",
+        "categorized_keywords": {
+          "themes": [
+            "forensic-science",
+            "justice",
+            "ethics",
+            "trauma",
+            "loss",
+            "truth",
+            "corruption"
+          ],
+          "plot_and_concepts": [
+            "crime-investigation",
+            "police-procedural",
+            "forensic-pathology",
+            "serial-crime",
+            "legal-thriller"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "suspenseful",
+            "serious",
+            "realistic",
+            "somber"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "british-tv",
+            "procedural-drama"
+          ],
+          "setting": [
+            "modern-day",
+            "uk",
+            "forensic-lab"
+          ],
+          "character_archetypes": [
+            "forensic-pathologist",
+            "detective",
+            "investigator",
+            "moral-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-crime",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "autopsy-room",
+            "crime-scene",
+            "evidence-collection",
+            "forensic-report"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "crime-themes"
+          ]
+        },
+        "keyword_sentence": "Silent Witness is a dark and suspenseful British crime drama that explores the complexities of forensic science and the ethical dilemmas faced by investigators as they pursue justice in a world of crime and loss."
+      },
+      "duration_seconds": 91.89235162734985
+    }
+  }
+}

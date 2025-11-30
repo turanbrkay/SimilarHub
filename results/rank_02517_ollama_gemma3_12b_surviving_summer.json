@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Surviving Summer",
+    "overview": "Rebellious Brooklyn teen Summer Torres is sent to live with family friends in the tiny town of Shorehaven on the Great Ocean Road, Victoria, AUS. Despite her best efforts, Summer falls in love with the town, the people and the surf.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2022,
+    "vote_count": 65
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Surviving Summer is a coming-of-age drama series centered on a young woman's forced relocation from Brooklyn to a small coastal town in Australia. The series explores themes of redemption, belonging, and the challenges of personal growth as Summer navigates a new environment and confronts her past mistakes. It blends elements of teen drama with a focus on community and the restorative power of nature, offering a generally optimistic and heartwarming narrative experience. The series examines the complexities of family, friendship, and finding one's place in the world, all set against the backdrop of a picturesque Australian coastline.",
+        "spoiler_rich_plot_summary": "Summer Torres, a teenager facing consequences for her rebellious behavior, is sent to Shorehaven, a quiet coastal town in Australia, to live with her mother's friends. Initially resistant to the change and determined to return to her old life, Summer clashes with the town's residents and struggles to adapt to the slower pace and close-knit community. However, she gradually finds herself drawn to the beauty of the Great Ocean Road and the warmth of the locals, particularly through her growing interest in surfing and a budding romance with a local boy. As Summer integrates into the community, she uncovers secrets and confronts her own past, ultimately learning valuable lessons about responsibility, forgiveness, and the importance of human connection. The series follows her journey of self-discovery as she embraces her new life and works to make amends for her past actions, ultimately finding a sense of belonging and purpose in Shorehaven.",
+        "categorized_keywords": {
+          "themes": [
+            "redemption",
+            "coming-of-age",
+            "family-dynamics",
+            "forgiveness",
+            "self-discovery",
+            "belonging",
+            "second-chances"
+          ],
+          "plot_and_concepts": [
+            "teen-drama",
+            "fish-out-of-water",
+            "romantic-relationship",
+            "community-building"
+          ],
+          "mood_and_tone": [
+            "heartwarming",
+            "optimistic",
+            "lighthearted",
+            "melancholy"
+          ],
+          "genre_and_tropes": [
+            "teen-drama",
+            "coming-of-age-story",
+            "small-town-life",
+            "romantic-comedy"
+          ],
+          "setting": [
+            "australia",
+            "great-ocean-road",
+            "coastal-town",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "rebellious-teen",
+            "wise-mentor",
+            "local-boy",
+            "supportive-friend"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult"
+          ],
+          "detail_plot": [
+            "surfing",
+            "beach-house",
+            "local-cafe",
+            "surfboard"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Surviving Summer is a heartwarming teen drama set on the Australian Great Ocean Road, exploring themes of redemption and belonging as a rebellious girl finds second chances and discovers the power of community."
+      },
+      "duration_seconds": 62.339158058166504
+    }
+  }
+}

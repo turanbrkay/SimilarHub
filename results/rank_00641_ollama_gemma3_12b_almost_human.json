@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Almost Human",
+    "overview": "The year is 2048. By mandate, every cop must partner with a robot. Detective John Kennex returns to work after waking up from a 17-month coma. As he adjusts to working with his new partner, Dorian, a discontinued android with unexpected emotional responses, John also must learn to get along with his new colleagues.",
+    "genres": [
+      "Drama",
+      "Crime",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "release_year": 2013,
+    "vote_count": 448
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Almost Human is a science fiction crime drama set in a futuristic Los Angeles where human police officers are mandated to partner with androids. The series explores themes of partnership, prejudice, and what it means to be human through the evolving relationship between a troubled detective and his unconventional android partner. It blends procedural elements with a focus on character development and a darkly comedic tone, offering a blend of action, suspense, and philosophical inquiry into the nature of consciousness and societal integration.",
+        "spoiler_rich_plot_summary": "The series begins with Detective John Kennex returning to duty after a traumatic experience that led him to reject android partners. He is forced to work with Dorian, an obsolete android model known for his emotional instability and unconventional behavior. Initially resistant, Kennex gradually develops a complex relationship with Dorian, learning to appreciate his unique perspective and unconventional methods. Throughout the first season, they investigate various crimes, often encountering prejudice and resistance from both human and android colleagues. The series delves into the societal implications of android integration, exploring themes of discrimination, exploitation, and the blurring lines between human and machine. As the season progresses, Kennex confronts his past trauma and begins to heal through his partnership with Dorian, while also uncovering a larger conspiracy involving the development and deployment of advanced android technology. The series explores the ethical dilemmas surrounding artificial intelligence and the potential consequences of unchecked technological advancement, culminating in a confrontation that challenges the established order and forces Kennex to question his own beliefs.",
+        "categorized_keywords": {
+          "themes": [
+            "partnership",
+            "prejudice",
+            "artificial-intelligence",
+            "humanity",
+            "redemption",
+            "social-integration",
+            "ethics"
+          ],
+          "plot_and_concepts": [
+            "crime-procedural",
+            "futuristic-setting",
+            "android-integration",
+            "conspiracy",
+            "police-investigation"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "suspenseful",
+            "gritty",
+            "action-oriented"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "crime-drama",
+            "buddy-cop",
+            "futuristic-noir"
+          ],
+          "setting": [
+            "los-angeles",
+            "futuristic-city",
+            "2048"
+          ],
+          "character_archetypes": [
+            "troubled-detective",
+            "unconventional-partner",
+            "reluctant-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "android-partner",
+            "futuristic-police-department",
+            "advanced-technology",
+            "police-badge"
+          ],
+          "maturity_and_content": [
+            "violence"
+          ]
+        },
+        "keyword_sentence": "Set in a gritty, futuristic Los Angeles, Almost Human explores themes of partnership and prejudice through the darkly comic relationship between a troubled detective and his unconventional android partner, blending crime procedural elements with a suspenseful examination of artificial intelligence and its impact on humanity."
+      },
+      "duration_seconds": 73.05137825012207
+    }
+  }
+}

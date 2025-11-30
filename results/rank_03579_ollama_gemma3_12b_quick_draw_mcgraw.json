@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Quick Draw McGraw",
+    "overview": "The Quick Draw McGraw Show is the third cartoon television production created by Hanna-Barbera, starring an anthropomorphic cartoon horse named Quick Draw McGraw",
+    "genres": [
+      "Kids",
+      "Animation",
+      "Comedy",
+      "Crime",
+      "Western",
+      "Action & Adventure"
+    ],
+    "release_year": 1959,
+    "vote_count": 34
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Quick Draw McGraw is a classic Hanna-Barbera cartoon series blending Western, comedy, and action elements. The show centers on a fast-drawing cowboy who consistently outwits villains with his incredible speed and wit. It's a lighthearted and slapstick-driven series aimed at a young audience, characterized by its absurd humor and memorable catchphrases. The show's episodic nature and simple premise contribute to its enduring appeal as a staple of children's animation.",
+        "spoiler_rich_plot_summary": "The series follows Quick Draw McGraw, a cowboy known for his lightning-fast reflexes and ability to draw his gun before anyone else can. Each episode typically involves McGraw encountering a new set of antagonists, often including the bumbling villains Hangin' Ned and Noisy Ned, who attempt various schemes to rob banks or cause mischief. McGraw consistently foils their plans through a combination of quick thinking, slapstick humor, and his signature ability to draw his gun faster than anyone else. While the show doesn't feature a continuous overarching narrative, recurring characters and running gags contribute to a sense of familiarity and comedic continuity. The show concludes with McGraw triumphing over his adversaries, often leaving them humiliated and defeated, reinforcing the theme of good prevailing over evil in a humorous and accessible way.",
+        "categorized_keywords": {
+          "themes": [
+            "good-vs-evil",
+            "humor",
+            "friendship",
+            "western-life"
+          ],
+          "plot_and_concepts": [
+            "slapstick-comedy",
+            "fast-draw",
+            "western-genre",
+            "crime-solving"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "playful"
+          ],
+          "genre_and_tropes": [
+            "western-comedy",
+            "cartoon-comedy",
+            "animal-protagonist"
+          ],
+          "setting": [
+            "american-west",
+            "frontier-town"
+          ],
+          "character_archetypes": [
+            "heroic-protagonist",
+            "bumbling-villain",
+            "animal-character"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "gag-driven"
+          ],
+          "target_audience": [
+            "children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "cowboy-hat",
+            "six-shooter",
+            "horse-sidekick",
+            "western-saloon"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Quick Draw McGraw is a lighthearted and comedic cartoon series set in the American West, where a heroic cowboy and his horse sidekick consistently outwit bumbling villains through fast-drawing and playful antics."
+      },
+      "duration_seconds": 50.96719479560852
+    }
+  }
+}

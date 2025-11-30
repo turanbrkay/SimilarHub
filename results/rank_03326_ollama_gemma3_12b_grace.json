@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Grace",
+    "overview": "Brighton based Detective Superintendent Roy Grace is a hard-working police officer who has given his life to the job, but his career is currently at rock bottom. He’s fixated by the disappearance of his beloved wife, Sandy, and running enquiries into long forgotten cold cases with little prospect of success. Following another reprimand for his unorthodox police methods, Grace is walking a career tightrope and risks being moved from the job he loves most.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2021,
+    "vote_count": 39
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Grace is a British crime drama series centered on a troubled detective superintendent grappling with personal loss and professional stagnation. The show blends procedural elements with a character-driven narrative, exploring themes of grief, guilt, and the complexities of police work. It offers a somber and atmospheric viewing experience, characterized by its focus on psychological realism and the emotional toll of investigating dark crimes. The series explores the intersection of a detective's personal struggles and his dedication to solving cases, creating a compelling and often melancholic portrait of a man on the edge.",
+        "spoiler_rich_plot_summary": "The series follows Detective Superintendent Roy Grace as he navigates a career crisis while haunted by the disappearance of his wife, Sandy, years prior. Each season typically presents a new, complex case that Grace must solve, often intertwined with his ongoing investigation into Sandy's vanishing. These cases frequently expose the underbelly of Brighton, revealing secrets and lies that impact both the victims and the community. As Grace delves deeper into these investigations, he confronts his own demons and the lingering pain of Sandy's absence, often finding parallels between the cases he investigates and his personal tragedy. While pursuing justice for others, Grace's unorthodox methods and relentless pursuit of truth often put him at odds with his superiors, jeopardizing his career and exposing him to danger. The overarching narrative arc revolves around Grace's determination to uncover the truth about Sandy's disappearance, a quest that leads him down a perilous path filled with unexpected twists and betrayals.",
+        "categorized_keywords": {
+          "themes": [
+            "grief",
+            "guilt",
+            "loss",
+            "redemption",
+            "justice",
+            "police-work",
+            "family-loyalty"
+          ],
+          "plot_and_concepts": [
+            "crime-procedural",
+            "missing-person",
+            "cold-case",
+            "serial-investigation"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "melancholic",
+            "atmospheric",
+            "dark"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "police-procedural",
+            "noir"
+          ],
+          "setting": [
+            "brighton-city",
+            "modern-day",
+            "coastal-town"
+          ],
+          "character_archetypes": [
+            "troubled-detective",
+            "reluctant-hero",
+            "morally-gray-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "case-of-the-week"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "police-station",
+            "crime-scene",
+            "interrogation-room",
+            "coastal-setting"
+          ],
+          "maturity_and_content": [
+            "crime-violence"
+          ]
+        },
+        "keyword_sentence": "Grace is a somber crime drama series set in Brighton, exploring themes of grief and justice through the eyes of a troubled detective grappling with personal loss and dedicated to solving complex cases."
+      },
+      "duration_seconds": 56.62932729721069
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "General Hospital",
+    "overview": "Families, friends, enemies and lovers experience life-changing events in the large upstate New York city of Port Charles, which has a busy hospital, upscale hotel, cozy diner and dangerous waterfront frequented by the criminal underworld.",
+    "genres": [
+      "Soap"
+    ],
+    "release_year": 1963,
+    "vote_count": 196
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "General Hospital is a long-running American soap opera centered around the lives of patients, doctors, nurses, and their families connected to the General Hospital in Port Charles, New York. The series explores complex relationships, professional challenges within the medical field, and intertwines them with ongoing dramatic storylines involving romance, betrayal, and occasionally, criminal activity. Known for its longevity and evolving cast, General Hospital consistently delivers a blend of melodrama, medical drama, and ongoing character arcs, appealing to a dedicated audience seeking familiar faces and evolving narratives.",
+        "spoiler_rich_plot_summary": "General Hospital debuted in 1963, initially focusing on the hospital staff and patients. Over the decades, the show has expanded to include numerous interconnected families and businesses within Port Charles. Recurring storylines involve complex romantic entanglements, often spanning generations and involving multiple characters simultaneously. Characters frequently face personal crises, professional setbacks, and legal battles, often intertwined with the criminal underworld operating within the city. Numerous characters have experienced amnesia, false identities, and shocking revelations about their past, leading to dramatic shifts in relationships and power dynamics. While the hospital remains a central location, storylines frequently extend to surrounding businesses, estates, and even international locations, creating a sprawling and interconnected narrative web. The show has consistently reinvented itself, introducing new characters, storylines, and even time jumps to maintain audience engagement, while still honoring its long-standing traditions and legacy.",
+        "categorized_keywords": {
+          "themes": [
+            "family-drama",
+            "romantic-relationships",
+            "medical-ethics",
+            "social-class",
+            "redemption",
+            "betrayal",
+            "secrets-and-lies"
+          ],
+          "plot_and_concepts": [
+            "soap-opera",
+            "medical-drama",
+            "amnesia",
+            "false-identity",
+            "time-jumps",
+            "criminal-underworld"
+          ],
+          "mood_and_tone": [
+            "melodramatic",
+            "emotional",
+            "romantic",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "soap-opera",
+            "medical-drama",
+            "generational-saga",
+            "love-triangle"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day",
+            "hospital-setting",
+            "port-charles"
+          ],
+          "character_archetypes": [
+            "doctor",
+            "nurse",
+            "business-tycoon",
+            "villain",
+            "reluctant-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "generational-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "hospital-beds",
+            "operating-room",
+            "courtroom",
+            "diner",
+            "waterfront"
+          ],
+          "maturity_and_content": [
+            "romantic-content",
+            "emotional-manipulation"
+          ]
+        },
+        "keyword_sentence": "General Hospital is a long-running soap opera set in Port Charles, New York, exploring complex family dramas and romantic relationships within a medical setting, often intertwined with secrets and betrayals across generations."
+      },
+      "duration_seconds": 64.51984977722168
+    }
+  }
+}

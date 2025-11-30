@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "Dr. Phil",
+    "overview": "Using the power of television, Dr. Phil McGraw presents compelling stories about real people with a variety of emotional and behavioral problems, stripping away the shame and embarrassment that too often keep people from seeking help. Its a show that is suppose to help people with their problems and to find a solution on live TV .",
+    "genres": [
+      "Talk"
+    ],
+    "release_year": 2002,
+    "vote_count": 58
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Dr. Phil is a long-running daytime talk show featuring Dr. Phil McGraw addressing a range of personal and relational issues. The show's format revolves around interviews with individuals facing challenges, often involving family dynamics, addiction, or behavioral problems. Dr. Phil employs a direct and confrontational approach, aiming to uncover underlying causes and offer practical solutions. The show's popularity stems from its accessibility and the perceived authenticity of the issues presented, offering viewers a glimpse into real-life struggles and potential pathways to resolution. While often criticized for its sensationalism, Dr. Phil maintains a dedicated audience seeking guidance and relatable narratives.",
+        "spoiler_rich_plot_summary": "Each episode of Dr. Phil typically focuses on a specific individual or family facing a particular problem. The show begins with an introduction to the situation, often highlighting the emotional distress and dysfunction involved. Dr. Phil then engages in a series of interviews, probing for root causes and challenging the individuals to confront their behaviors. Throughout the episode, Dr. Phil introduces strategies and techniques aimed at fostering change, often involving family members and support systems. While the show aims to provide solutions, the effectiveness of these interventions is often debated, and follow-up episodes occasionally reveal ongoing struggles. The overarching narrative arc of the series is the ongoing exploration of human relationships and the complexities of personal growth, with each episode presenting a new case study in the pursuit of resolution.",
+        "categorized_keywords": {
+          "themes": [
+            "relationships",
+            "personal-growth",
+            "family-dynamics",
+            "addiction",
+            "mental-health",
+            "communication"
+          ],
+          "plot_and_concepts": [
+            "talk-show-format",
+            "intervention",
+            "problem-solving",
+            "expert-advice"
+          ],
+          "mood_and_tone": [
+            "confrontational",
+            "emotional",
+            "serious",
+            "hopeful"
+          ],
+          "genre_and_tropes": [
+            "reality-television",
+            "self-help"
+          ],
+          "setting": [
+            "television-studio",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "expert",
+            "participant",
+            "family-member"
+          ],
+          "narrative_style": [
+            "episodic",
+            "case-study"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "interview-room",
+            "confessional",
+            "family-table"
+          ],
+          "maturity_and_content": [
+            "emotional-distress",
+            "sensitive-topics"
+          ]
+        },
+        "keyword_sentence": "Dr. Phil explores sensitive topics related to relationships and personal growth through a confrontational talk-show format, offering expert advice and case studies for adult viewers."
+      },
+      "duration_seconds": 55.854623317718506
+    }
+  }
+}

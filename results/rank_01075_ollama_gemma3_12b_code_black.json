@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Code Black",
+    "overview": "Inspired by the award-winning documentary, this medical drama is set in the busiest and most notorious ER in the nation where the extraordinary staff confront a challenged system in order to protect their ideals and the patients who need them the most.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2015,
+    "vote_count": 235
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Code Black is a medical drama inspired by a documentary, offering a visceral and intense portrayal of emergency room medicine. Set in a chaotic and under-resourced hospital, the series explores the dedication and sacrifices of the medical staff as they navigate life-or-death situations and systemic challenges. The show blends procedural elements with character-driven narratives, examining the personal and professional toll of working in a high-pressure environment. It aims to provide a realistic depiction of the medical field, highlighting both the triumphs and the frustrations of providing care under duress. The series emphasizes the importance of compassion and resilience in the face of overwhelming odds.",
+        "spoiler_rich_plot_summary": "The series begins with Dr. Leona 'Leo' Maxwell, a brilliant but unconventional surgeon, joining the staff of Angels Gate, a Los Angeles hospital known for its extreme patient volume and limited resources. Initially clashing with the established hierarchy, Leo quickly becomes a vital part of the team, advocating for innovative approaches to patient care and challenging the status quo. Throughout the series, the doctors face a constant influx of trauma cases, ranging from mass casualty events to individual emergencies, forcing them to make difficult decisions under immense pressure. Relationships evolve as the team confronts personal and professional crises, with romantic entanglements and rivalries adding complexity to the dynamic. Recurring storylines involve systemic issues within the hospital, including funding shortages and bureaucratic obstacles, which threaten the quality of patient care. As the series progresses, characters grapple with the emotional and psychological impact of their work, leading to moments of burnout, self-doubt, and ultimately, a renewed commitment to their calling. The hospital faces numerous challenges, including staffing shortages and the threat of closure, but the doctors consistently rally together to overcome these obstacles and provide care to those in need. The series culminates in a renewed sense of purpose and a strengthened bond among the medical team, who remain dedicated to their mission of providing exceptional care in a demanding environment.",
+        "categorized_keywords": {
+          "themes": [
+            "medical-ethics",
+            "compassion",
+            "sacrifice",
+            "professional-duty",
+            "systemic-inequality",
+            "resilience"
+          ],
+          "plot_and_concepts": [
+            "medical-procedural",
+            "trauma-medicine",
+            "mass-casualty-events",
+            "understaffing",
+            "hospital-administration"
+          ],
+          "mood_and_tone": [
+            "intense",
+            "urgent",
+            "realistic",
+            "emotional",
+            "somber"
+          ],
+          "genre_and_tropes": [
+            "medical-drama",
+            "procedural-drama",
+            "found-family",
+            "workplace-drama"
+          ],
+          "setting": [
+            "los-angeles",
+            "emergency-room",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "dedicated-doctor",
+            "maverick-surgeon",
+            "compassionate-nurse",
+            "experienced-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "trauma-bay",
+            "operating-room",
+            "icu-unit",
+            "medical-charts"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "medical-gore"
+          ]
+        },
+        "keyword_sentence": "Code Black delivers an intense and realistic medical drama, set in a bustling Los Angeles emergency room, where dedicated doctors and nurses confront systemic challenges and graphic injuries while demonstrating compassion and resilience in a demanding workplace."
+      },
+      "duration_seconds": 70.90525960922241
+    }
+  }
+}

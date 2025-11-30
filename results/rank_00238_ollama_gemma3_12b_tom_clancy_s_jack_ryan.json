@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "Tom Clancy's Jack Ryan",
+    "overview": "When CIA analyst Jack Ryan stumbles upon a suspicious series of bank transfers his search for answers pulls him from the safety of his desk job and catapults him into a deadly game of cat and mouse throughout Europe and the Middle East, with a rising terrorist figurehead preparing for a massive attack against the US and her allies.",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "War & Politics"
+    ],
+    "release_year": 2018,
+    "vote_count": 1241
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Tom Clancy's Jack Ryan is a contemporary espionage thriller series that blends the grounded realism of Clancy's novels with a modern action-adventure format. The show follows a brilliant CIA analyst who is thrust into the field, uncovering a complex web of international conspiracies and terrorist plots. It explores themes of duty, sacrifice, and the moral ambiguities of intelligence work, offering a suspenseful and character-driven narrative with a focus on geopolitical tensions and the human cost of conflict. The series balances intricate plotting with intense action sequences, appealing to fans of both political thrillers and action-adventure stories.",
+        "spoiler_rich_plot_summary": "The series begins with CIA analyst Jack Ryan discovering a pattern of suspicious financial transactions that lead him to suspect a larger terrorist plot. Despite his reluctance, he's drawn into the field by his superiors, including James Greer, and partners with a field operative, initially Hanley Ramsey, to investigate. Their investigation leads them across Europe and the Middle East, uncovering a plot orchestrated by a shadowy figure known as Suleiman, a former doctor turned radical extremist. As Jack delves deeper, he uncovers Suleiman’s connection to a series of attacks and his plans for a devastating assault on the United States. Throughout the initial seasons, Jack grapples with the consequences of his actions, facing personal and professional challenges as he attempts to thwart Suleiman's plans. Greer serves as a mentor and confidant, guiding Jack while navigating the complexities of the CIA's internal politics. Later seasons introduce new threats and expand the scope of the conflict, with Jack confronting adversaries both foreign and domestic, and confronting the moral compromises inherent in his role. The series explores the ripple effects of these conflicts on Jack's family and personal life, highlighting the sacrifices required to protect national security.",
+        "categorized_keywords": {
+          "themes": [
+            "national-security",
+            "duty-and-sacrifice",
+            "moral-ambiguity",
+            "political-intrigue",
+            "family-dynamics",
+            "terrorism",
+            "geopolitical-conflict"
+          ],
+          "plot_and_concepts": [
+            "espionage-thriller",
+            "financial-crime",
+            "terrorism-plot",
+            "international-conspiracy",
+            "cat-and-mouse-game",
+            "political-thriller"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "tense",
+            "serious",
+            "grounded",
+            "realistic"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "political-thriller",
+            "spy-drama",
+            "found-family"
+          ],
+          "setting": [
+            "europe",
+            "middle-east",
+            "washington-dc",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "intelligence-analyst",
+            "field-operative"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "financial-transactions",
+            "cia-headquarters",
+            "field-operations",
+            "intelligence-briefing"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "political-tension"
+          ]
+        },
+        "keyword_sentence": "Tom Clancy's Jack Ryan is a suspenseful and grounded political thriller series that follows a reluctant hero as he navigates a world of international conspiracies, terrorism plots, and moral ambiguities while confronting the complexities of national security and geopolitical conflict."
+      },
+      "duration_seconds": 70.09282851219177
+    }
+  }
+}

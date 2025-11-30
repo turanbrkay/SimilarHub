@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "Jake and the Fatman",
+    "overview": "Jake and the Fatman is a television crime drama starring William Conrad as prosecutor J. L. \"Fatman\" McCabe and Joe Penny as investigator Jake Styles.\n\nThe series ran on CBS for five seasons from 1987 to 1992. Diagnosis: Murder was a spin-off of this series.",
+    "genres": [
+      "Drama",
+      "Crime",
+      "Action & Adventure"
+    ],
+    "release_year": 1987,
+    "vote_count": 41
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Jake and the Fatman is a legal crime drama that blends courtroom proceedings with action-oriented investigations. The series centers on a district attorney, nicknamed 'The Fatman' due to his size, and his younger, more physically adept investigator as they tackle complex cases, often involving corruption and danger. The show's appeal lies in its combination of legal intrigue, suspenseful action sequences, and the dynamic between the two contrasting leads. It offers a procedural format with a focus on character relationships and the exploration of moral ambiguities within the justice system.",
+        "spoiler_rich_plot_summary": "The series begins with Jake Styles, a former police officer, joining forces with District Attorney J.L. McCabe, a brilliant but overweight prosecutor known as 'The Fatman.' Each episode typically revolves around a new case that McCabe is prosecuting, with Jake providing crucial investigative support, often involving physical confrontations and undercover work. As the series progresses, the duo encounters increasingly dangerous adversaries, including corrupt officials and organized crime figures. Recurring themes involve the challenges of upholding justice in a flawed system and the personal sacrifices required to do so. While the cases are largely self-contained, overarching storylines emerge, hinting at deeper conspiracies and personal connections between the characters and their enemies. The series concludes with the resolution of several long-standing conflicts, leaving the future of the partnership uncertain but hopeful.",
+        "categorized_keywords": {
+          "themes": [
+            "justice-system",
+            "corruption",
+            "partnership",
+            "moral-ambiguity",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "courtroom-drama",
+            "police-investigation",
+            "crime-procedural",
+            "undercover-work"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "serious",
+            "action-oriented"
+          ],
+          "genre_and_tropes": [
+            "buddy-cop",
+            "legal-thriller"
+          ],
+          "setting": [
+            "modern-day",
+            "urban-setting"
+          ],
+          "character_archetypes": [
+            "gruff-mentor",
+            "reluctant-hero",
+            "skilled-investigator"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "courtroom-scene",
+            "police-car",
+            "suspect-interrogation",
+            "evidence-gathering"
+          ],
+          "maturity_and_content": [
+            "violence"
+          ]
+        },
+        "keyword_sentence": "Jake and the Fatman is a serious, action-oriented courtroom drama that follows a skilled investigator and his gruff mentor as they navigate the complexities of the justice system and confront corruption in a modern urban setting."
+      },
+      "duration_seconds": 51.85700869560242
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Scooby-Doo!: Behind the Scenes",
+    "overview": "A series of eight shorts that aired on Cartoon Network during commercial breaks in the 25 Hours of Doo marathon in 1998.",
+    "genres": [
+      "Family",
+      "Animation",
+      "Action & Adventure",
+      "Kids",
+      "Comedy",
+      "Mystery"
+    ],
+    "release_year": 1998,
+    "vote_count": 34
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Scooby-Doo!: Behind the Scenes is a series of short, comedic animated segments designed to offer a playful glimpse into the production of the classic Scooby-Doo franchise. These shorts, originally aired during a special television event, blend humor with behind-the-scenes glimpses, appealing to both long-time fans and younger audiences. The series maintains the franchise's signature blend of mystery, slapstick comedy, and lighthearted adventure, offering a brief but entertaining look at the creative process behind the beloved cartoon.",
+        "spoiler_rich_plot_summary": "The shorts primarily focus on the Scooby-Doo production crew and their humorous struggles to create new episodes. They often depict the voice actors improvising lines, animators facing comical mishaps, and writers brainstorming outlandish monster designs. While the shorts don't feature traditional mystery plots, they playfully parody the tropes of the franchise, showcasing the absurdity of monster hunting and the challenges of bringing a cartoon to life. The shorts conclude with a celebration of the Scooby-Doo legacy and a thank you to the fans, reinforcing the franchise's enduring appeal.",
+        "categorized_keywords": {
+          "themes": [
+            "behind-the-scenes",
+            "friendship",
+            "comedy",
+            "nostalgia",
+            "teamwork"
+          ],
+          "plot_and_concepts": [
+            "parody",
+            "monster-hunting",
+            "cartoon-production"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "humorous",
+            "wholesome",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "comedy",
+            "family-audience",
+            "mystery"
+          ],
+          "setting": [
+            "cartoon-studio",
+            "1990s"
+          ],
+          "character_archetypes": [
+            "comedic-relief",
+            "team-dynamic"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "short-form"
+          ],
+          "target_audience": [
+            "family-audience",
+            "kids"
+          ],
+          "detail_plot": [
+            "animation-cels",
+            "voice-recording",
+            "monster-design"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "This lighthearted animated series offers a humorous and nostalgic glimpse behind the scenes of the beloved Scooby-Doo franchise, celebrating friendship and the joys of cartoon production for a family audience."
+      },
+      "duration_seconds": 46.52759599685669
+    }
+  }
+}

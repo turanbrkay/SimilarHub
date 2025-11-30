@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Holby City",
+    "overview": "Drama series about life on the wards of Holby City Hospital, following the highs and lows of the staff and patients.",
+    "genres": [
+      "Soap",
+      "Drama"
+    ],
+    "release_year": 1999,
+    "vote_count": 37
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Holby City is a long-running British medical drama series that offers a sustained look at the personal and professional lives of hospital staff. The show explores complex medical cases alongside the interpersonal relationships and emotional struggles of doctors, nurses, and other healthcare professionals. Known for its realistic portrayal of hospital life and its focus on character development, Holby City provides a blend of medical procedural elements and ongoing relationship dynamics, creating a consistently engaging and often emotionally resonant viewing experience. The series delves into ethical dilemmas, personal sacrifices, and the challenges of working in a high-pressure environment.",
+        "spoiler_rich_plot_summary": "Holby City premiered focusing on the staff of Holby General, following its split from Casualty. Early seasons established core characters and explored the challenges of running a major hospital. Over the years, the series has followed numerous doctors and nurses through career advancements, personal tragedies, and romantic entanglements. Recurring storylines have involved medical scandals, financial crises threatening the hospital's future, and the impact of major events on the staff and patients. Characters have faced professional setbacks, ethical dilemmas, and personal losses, often leading to dramatic shifts in their lives and relationships. The series has seen numerous staff departures and arrivals, each bringing new dynamics and storylines to the hospital. Later seasons have explored more complex medical cases and delved deeper into the personal lives of the characters, showcasing the long-term consequences of their choices and the enduring bonds formed within the hospital environment. The series concluded after 23 years, marking the end of an era for the Holby City community.",
+        "categorized_keywords": {
+          "themes": [
+            "medical-ethics",
+            "professional-sacrifice",
+            "interpersonal-relationships",
+            "career-development",
+            "hospital-life",
+            "emotional-resilience"
+          ],
+          "plot_and_concepts": [
+            "medical-procedural",
+            "hospital-administration",
+            "medical-scandal",
+            "career-arc",
+            "romantic-relationships"
+          ],
+          "mood_and_tone": [
+            "melodramatic",
+            "emotional",
+            "realistic",
+            "tense"
+          ],
+          "genre_and_tropes": [
+            "medical-drama",
+            "soap-opera",
+            "ensemble-cast",
+            "workplace-drama"
+          ],
+          "setting": [
+            "hospital-setting",
+            "modern-day",
+            "uk"
+          ],
+          "character_archetypes": [
+            "dedicated-doctor",
+            "compassionate-nurse",
+            "ambitious-surgeon",
+            "experienced-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "long-running-series"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "operating-theater",
+            "icu-unit",
+            "emergency-room",
+            "patient-records",
+            "medical-charts"
+          ],
+          "maturity_and_content": [
+            "medical-procedures",
+            "emotional-distress"
+          ]
+        },
+        "keyword_sentence": "Holby City is a long-running British medical drama that explores the emotional and professional lives of hospital staff through a blend of realistic medical procedures and interpersonal relationships within a hospital setting."
+      },
+      "duration_seconds": 59.40618085861206
+    }
+  }
+}

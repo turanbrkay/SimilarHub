@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Phil of the Future",
+    "overview": "Meet the Diffy family, a futuristic family from the year 2121. When the eccentric dad, Lloyd, rents a time machine for their family vacation, everyone is excited. But then something goes wrong. Their time machine malfunctions and they are thrown out of the space/time continuum in the year 2004.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Comedy",
+      "Family",
+      "Kids"
+    ],
+    "release_year": 2004,
+    "vote_count": 54
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Phil of the Future is a family-oriented comedy series centered on a family displaced from the 22nd century who must navigate the challenges of adapting to life in 2004. The show blends science fiction elements with a lighthearted, often whimsical tone, exploring themes of family, belonging, and cultural differences. It aims to provide a humorous and heartwarming experience for younger audiences, showcasing the importance of embracing change and finding common ground despite vast differences in background and technology. The series relies on situational comedy arising from the family's futuristic knowledge clashing with the mundane realities of early 21st-century suburban life.",
+        "spoiler_rich_plot_summary": "The series begins with the Diffy family – Phil, his parents Lloyd and Keely, and his younger sister Lilah – accidentally stranded in 2004 after a mishap with their rented time machine. They are taken in by Marty Crane, a kind-hearted widower who becomes their guardian. Phil, the teenage son, struggles to adjust to a world without advanced technology and futuristic conveniences, while his parents attempt to maintain a low profile and repair their time machine. Throughout the series, Phil develops friendships with Marty's granddaughter, Deborah, and her friends, experiencing typical teenage milestones while concealing his true origins. The family faces numerous challenges, including attempts by government agencies to locate them and the constant threat of their past catching up with them. While they work towards repairing the time machine, they also learn valuable lessons about family, friendship, and the importance of appreciating the present moment. The series concludes with the Diffy family finally repairing their time machine and preparing to return to their own time, having made lasting connections and leaving a positive impact on the lives of those they met in 2004.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "cultural-clash",
+            "adaptation",
+            "belonging",
+            "friendship",
+            "time-travel"
+          ],
+          "plot_and_concepts": [
+            "fish-out-of-water",
+            "time-travel",
+            "secret-identity",
+            "found-family"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "family-comedy",
+            "sci-fi-comedy",
+            "fish-out-of-water",
+            "coming-of-age"
+          ],
+          "setting": [
+            "suburban-usa",
+            "2004",
+            "future-city"
+          ],
+          "character_archetypes": [
+            "eccentric-father",
+            "teenager",
+            "kind-guardian",
+            "supportive-mother"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "family-audience",
+            "kids",
+            "young-adults"
+          ],
+          "detail_plot": [
+            "time-machine",
+            "futuristic-technology",
+            "suburban-house",
+            "school-setting"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Phil of the Future is a lighthearted family comedy series about a futuristic family stranded in 2004, exploring themes of adaptation and belonging through a fish-out-of-water narrative and showcasing the importance of friendship and family in a suburban setting."
+      },
+      "duration_seconds": 63.25822854042053
+    }
+  }
+}

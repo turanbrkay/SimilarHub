@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "Simon & Simon",
+    "overview": "Simon & Simon is an American detective television series that originally ran from November 24, 1981 to January 21, 1989. The series was broadcast on CBS and starred Gerald McRaney and Jameson Parker as two brothers who run a private detective agency together.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 1981,
+    "vote_count": 71
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Simon & Simon is a detective drama series centered on two brothers, Rick and Leo Simon, who operate a private investigation agency. The show blends procedural elements with a focus on the brothers' complex relationship and differing approaches to their cases. It explores themes of family loyalty, morality, and justice within the backdrop of crime and intrigue. The series offers a mix of suspenseful investigations and character-driven storytelling, appealing to audiences interested in both crime solving and interpersonal dynamics.",
+        "spoiler_rich_plot_summary": "The series begins with Rick Simon, a seasoned and somewhat cynical detective, reluctantly partnering with his younger brother, Leo, a more idealistic and less experienced investigator. Their differing methodologies often lead to conflict, but they ultimately rely on each other to solve cases ranging from infidelity and corporate espionage to murder and political corruption. Throughout the series, the brothers confront personal demons and professional challenges, navigating a world of deceit and danger. Recurring antagonists and complex cases test their bond and force them to confront uncomfortable truths about themselves and their city. While the brothers experience professional successes, their personal lives are often strained by the demands of their work and the secrets they uncover, leading to moments of doubt and reconciliation as they strive to maintain their partnership and uphold their sense of justice.",
+        "categorized_keywords": {
+          "themes": [
+            "family-loyalty",
+            "justice",
+            "morality",
+            "brotherhood",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "private-investigation",
+            "crime-solving",
+            "mystery",
+            "espionage",
+            "police-procedural"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dramatic",
+            "serious",
+            "intriguing"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "buddy-cop",
+            "detective-series"
+          ],
+          "setting": [
+            "modern-day",
+            "urban-setting"
+          ],
+          "character_archetypes": [
+            "cynical-detective",
+            "idealistic-detective",
+            "older-brother",
+            "younger-brother"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "detective-agency",
+            "case-files",
+            "surveillance-equipment"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Simon & Simon is a dramatic crime series exploring themes of family loyalty and justice through the lens of two brothers operating a private detective agency in a modern urban setting."
+      },
+      "duration_seconds": 70.55957317352295
+    }
+  }
+}

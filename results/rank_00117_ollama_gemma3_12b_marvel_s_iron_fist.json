@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Marvel's Iron Fist",
+    "overview": "Danny Rand resurfaces 15 years after being presumed dead. Now, with the power of the Iron Fist, he seeks to reclaim his past and fulfill his destiny.",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2017,
+    "vote_count": 2179
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Marvel's Iron Fist follows Danny Rand, a martial arts master who returns to New York City after a fifteen-year journey to seek vengeance and protect the mystical Iron Fist. The series blends action, fantasy, and drama, exploring themes of legacy, responsibility, and the struggle to balance personal growth with the burdens of power. It delves into the complexities of family, both biological and chosen, and examines the consequences of unchecked ambition and the importance of confronting one's past. The show offers a visually dynamic experience with intense fight sequences and a narrative focused on self-discovery and the fight against corruption.",
+        "spoiler_rich_plot_summary": "The series begins with Danny Rand’s return to New York City after years of training in K’un-Lun, a hidden city where he earned the power of the Iron Fist. He seeks out his presumed-dead father, Wendell Rand, and confronts the corruption that has taken root in Rand Enterprises, the family business. As Danny attempts to reclaim his birthright and protect the city, he uncovers a conspiracy involving the Meachum brothers, Davos and Ward, who also seek the Iron Fist. Davos, fueled by a sense of entitlement and resentment, challenges Danny’s claim to the power, leading to a series of intense battles. Throughout the series, Danny grapples with the responsibility of the Iron Fist, facing moral dilemmas and confronting his own flaws. He forms alliances with Colleen Wing and other allies, battling various threats to K’un-Lun and New York. The conflict culminates in a final showdown where Danny must overcome his personal demons and defeat Davos to secure his place as the Iron Fist and protect the city from further harm.",
+        "categorized_keywords": {
+          "themes": [
+            "legacy",
+            "responsibility",
+            "corruption",
+            "redemption",
+            "family-loyalty",
+            "self-discovery",
+            "inner-conflict"
+          ],
+          "plot_and_concepts": [
+            "martial-arts",
+            "superhero-action",
+            "mystical-powers",
+            "corporate-intrigue",
+            "revenge",
+            "found-family"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "action-oriented",
+            "serious",
+            "introspective"
+          ],
+          "genre_and_tropes": [
+            "superhero",
+            "martial-arts-film",
+            "crime-drama",
+            "origin-story"
+          ],
+          "setting": [
+            "new-york-city",
+            "k-un-lun",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "antagonist-sibling",
+            "wise-mentor",
+            "skilled-fighter"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "origin-story"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "iron-fist",
+            "k-un-lun-city",
+            "rand-enterprises",
+            "martial-arts-training"
+          ],
+          "maturity_and_content": [
+            "violence"
+          ]
+        },
+        "keyword_sentence": "Marvel’s Iron Fist is a dark and action-oriented superhero series set in New York City and the mystical city of K’un-Lun, exploring themes of legacy and responsibility as Danny Rand confronts corruption and strives to fulfill his destiny as a skilled martial artist."
+      },
+      "duration_seconds": 72.85068416595459
+    }
+  }
+}

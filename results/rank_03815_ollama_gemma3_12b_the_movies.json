@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "The Movies",
+    "overview": "Explore American cinema through the decades and the cultural, societal and political shifts that framed its evolution.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2019,
+    "vote_count": 30
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Movies is a documentary series that examines the history of American cinema, connecting the evolution of filmmaking with broader cultural and societal changes. Through archival footage and insightful commentary, the series explores how movies have reflected and shaped American identity across different eras. It offers a comprehensive look at the industry's technical innovations, artistic movements, and the impact of political and social events on the stories told on screen. The series aims to provide a nuanced understanding of the relationship between film and American culture, highlighting both the artistic achievements and the problematic aspects of Hollywood's past.",
+        "spoiler_rich_plot_summary": "The Movies traces the development of American cinema from its earliest days through the studio era, the rise of independent film, and into the modern blockbuster landscape. The series initially focuses on the technological advancements that defined early filmmaking, showcasing the transition from silent films to the introduction of sound and color. It then delves into the Golden Age of Hollywood, examining the studio system and the star power that dominated the industry. The documentary explores the challenges faced by filmmakers during periods of social and political upheaval, such as the Great Depression and the Vietnam War, and how these events influenced the types of stories being told. Later episodes examine the rise of independent cinema and the shift towards more diverse voices and perspectives. The series concludes by reflecting on the current state of the film industry and its ongoing evolution in the digital age, acknowledging both the opportunities and the challenges that lie ahead.",
+        "categorized_keywords": {
+          "themes": [
+            "film-history",
+            "cultural-impact",
+            "social-commentary",
+            "technological-innovation",
+            "american-identity"
+          ],
+          "plot_and_concepts": [
+            "documentary-film",
+            "archival-footage",
+            "film-criticism",
+            "studio-system",
+            "blockbuster-era"
+          ],
+          "mood_and_tone": [
+            "reflective",
+            "informative",
+            "analytical",
+            "historical"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "historical-documentary",
+            "film-studies"
+          ],
+          "setting": [
+            "hollywood",
+            "american-cinema",
+            "20th-century",
+            "modern-era"
+          ],
+          "character_archetypes": [
+            "film-director",
+            "actor",
+            "film-producer",
+            "film-critic"
+          ],
+          "narrative_style": [
+            "chronological-narrative",
+            "analytical-structure"
+          ],
+          "target_audience": [
+            "film-enthusiasts",
+            "history-buffs",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "silent-film",
+            "golden-age-hollywood",
+            "film-reel",
+            "studio-lot",
+            "film-poster"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Movies is a reflective documentary series that explores the history of American cinema, connecting its evolution to broader cultural shifts and technological innovations within the context of Hollywood and the 20th century."
+      },
+      "duration_seconds": 74.34468102455139
+    }
+  }
+}

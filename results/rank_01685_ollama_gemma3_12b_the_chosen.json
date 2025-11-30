@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "The Chosen",
+    "overview": "The life of Christ through the eyes of those who encountered him called The Chosen.",
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "release_year": 2019,
+    "vote_count": 123
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Chosen is a historical drama series that reimagines the life of Jesus Christ, focusing on the perspectives of his followers and those who interacted with him. The series aims to portray a relatable and human depiction of Christ, emphasizing his teachings and the impact they had on the people around him. It blends elements of faith-based storytelling with a focus on character development and interpersonal relationships, offering a narrative that appeals to both religious and secular audiences. The series explores themes of faith, sacrifice, and the challenges of following a revolutionary message in a politically charged environment, creating a compelling and emotionally resonant experience.",
+        "spoiler_rich_plot_summary": "The series begins with the early ministry of Jesus, depicting his birth and upbringing before focusing on his recruitment of the twelve disciples. We see the struggles and doubts of these men as they grapple with the implications of following a charismatic teacher who claims to be the Messiah. The narrative follows their journeys as they witness Jesus perform miracles, teach profound lessons, and challenge the established religious authorities. As Jesus's popularity grows, so does the opposition from the Pharisees and other influential figures who see him as a threat to their power. The series explores the political intrigue and social unrest of the time, highlighting the challenges faced by Jesus and his followers as they attempt to spread their message of love and forgiveness. The disciples face personal trials and betrayals, questioning their faith and their commitment to Jesus. The narrative builds towards the inevitable confrontation with the Roman Empire and the escalating tensions that will lead to a pivotal moment in history, though the series avoids depicting the full scope of the Passion and focuses on the human drama surrounding it.",
+        "categorized_keywords": {
+          "themes": [
+            "faith-and-belief",
+            "sacrifice",
+            "redemption",
+            "divine-intervention",
+            "social-justice",
+            "love-and-compassion",
+            "political-oppression"
+          ],
+          "plot_and_concepts": [
+            "biblical-narrative",
+            "historical-drama",
+            "miracles",
+            "prophecy",
+            "discipleship",
+            "political-intrigue"
+          ],
+          "mood_and_tone": [
+            "spiritual",
+            "hopeful",
+            "inspiring",
+            "somber",
+            "reflective"
+          ],
+          "genre_and_tropes": [
+            "historical-fiction",
+            "faith-based-drama",
+            "coming-of-age",
+            "found-family"
+          ],
+          "setting": [
+            "ancient-palestine",
+            "first-century",
+            "judea"
+          ],
+          "character_archetypes": [
+            "prophet",
+            "disciple",
+            "pharisee",
+            "messiah",
+            "reluctant-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "healing-touch",
+            "parable",
+            "crowd-gathering",
+            "wilderness-journey"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Chosen portrays a deeply spiritual and inspiring historical drama set in ancient Palestine, exploring themes of faith, sacrifice, and the challenges faced by those who follow a revolutionary message of love and compassion."
+      },
+      "duration_seconds": 69.03607892990112
+    }
+  }
+}

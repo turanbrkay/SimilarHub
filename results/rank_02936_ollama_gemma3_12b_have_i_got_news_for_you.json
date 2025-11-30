@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "Have I Got News for You",
+    "overview": "Hilarious, totally-irreverent, near-slanderous political quiz show, based mainly on news stories from the last week or so, that leaves no party, personality or action unscathed in pursuit of laughs.",
+    "genres": [
+      "Comedy",
+      "News"
+    ],
+    "release_year": 1990,
+    "vote_count": 50
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Have I Got News for You is a long-running British satirical quiz show that lampoons current events and political figures. The show's humor derives from its irreverent commentary, quick wit, and willingness to poke fun at all sides of the political spectrum. Its format revolves around two teams of comedians and celebrities answering questions based on recent news headlines, often with improvised responses and playful banter. The show's enduring appeal lies in its ability to provide a humorous and often biting perspective on the ever-changing landscape of British politics and media.",
+        "spoiler_rich_plot_summary": "The show's premise remains consistent throughout its run: two teams, captained by different comedians, compete to answer questions derived from the week's news. The questions are posed by a host, and the teams' responses are often as important as the correct answers themselves, frequently involving topical jokes and satirical observations. Over the years, the show has featured a rotating cast of comedians and guest appearances from politicians and public figures, each contributing to the show's evolving comedic style. While there are no overarching plotlines or character arcs, the show's humor is deeply rooted in the political climate of the time, reflecting the changing dynamics of British society and the ongoing controversies within the political arena. The show's longevity is a testament to its ability to remain relevant and entertaining, consistently providing a humorous outlet for audiences to process and react to the news.",
+        "categorized_keywords": {
+          "themes": [
+            "satire",
+            "political-commentary",
+            "current-events",
+            "humor",
+            "media-criticism"
+          ],
+          "plot_and_concepts": [
+            "quiz-show",
+            "news-based",
+            "improvised-comedy",
+            "panel-show"
+          ],
+          "mood_and_tone": [
+            "irreverent",
+            "witty",
+            "satirical",
+            "lighthearted"
+          ],
+          "genre_and_tropes": [
+            "comedy",
+            "news",
+            "panel-show"
+          ],
+          "setting": [
+            "british-television",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "comedian",
+            "celebrity-guest",
+            "news-host"
+          ],
+          "narrative_style": [
+            "episodic",
+            "weekly-format"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "news-followers"
+          ],
+          "detail_plot": [
+            "news-headlines",
+            "quiz-questions",
+            "panel-discussion"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Have I Got News for You is a lighthearted British comedy show that satirizes current events and political figures through a weekly panel discussion format."
+      },
+      "duration_seconds": 53.33349061012268
+    }
+  }
+}

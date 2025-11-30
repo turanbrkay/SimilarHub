@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Arnold",
+    "overview": "This intimate docuseries follows Arnold Schwarzenegger's multifaceted life and career, from bodybuilding champ to Hollywood icon to politician.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2023,
+    "vote_count": 124
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Arnold is a documentary series offering a comprehensive look at the life and career of Arnold Schwarzenegger. It explores his journey from a young bodybuilder to a global movie star and, ultimately, to the California governor's office. The series blends archival footage with present-day interviews, providing insights into Schwarzenegger's personal struggles, professional triumphs, and the complex legacy he leaves behind. It's a portrait of ambition, reinvention, and the pursuit of the American dream, examining both the extraordinary achievements and the controversies that have marked his path. The series aims to provide a nuanced understanding of a man who has consistently defied expectations and reshaped popular culture.",
+        "spoiler_rich_plot_summary": "The series begins by chronicling Arnold's early life in Austria, highlighting his challenging relationship with his father and his relentless pursuit of bodybuilding. His move to the United States marks a pivotal moment, as he quickly rises to prominence in the world of competitive weightlifting, culminating in multiple Mr. Universe and Mr. Olympia titles. The documentary then follows his transition to Hollywood, where he leverages his physique and charisma to become a blockbuster action star, starring in films like 'The Terminator' and 'Predator.' Schwarzenegger's political aspirations are explored, detailing his successful campaign for Governor of California and the challenges he faced during his time in office. The series doesn't shy away from addressing controversies surrounding his personal life and political decisions, offering a candid look at the complexities of his public persona. Ultimately, the documentary portrays a man who has consistently reinvented himself, navigating the worlds of athletics, entertainment, and politics with remarkable tenacity.",
+        "categorized_keywords": {
+          "themes": [
+            "ambition",
+            "reinvention",
+            "american-dream",
+            "legacy",
+            "public-image",
+            "father-son-relationship"
+          ],
+          "plot_and_concepts": [
+            "biography",
+            "documentary-film",
+            "political-career",
+            "bodybuilding",
+            "hollywood-success"
+          ],
+          "mood_and_tone": [
+            "inspirational",
+            "reflective",
+            "candid",
+            "celebratory"
+          ],
+          "genre_and_tropes": [
+            "biopic",
+            "sports-documentary",
+            "political-drama"
+          ],
+          "setting": [
+            "austria",
+            "united-states",
+            "hollywood",
+            "california"
+          ],
+          "character_archetypes": [
+            "self-made-man",
+            "global-icon",
+            "politician"
+          ],
+          "narrative_style": [
+            "chronological-narrative",
+            "interview-driven"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "sports-fans",
+            "film-enthusiasts"
+          ],
+          "detail_plot": [
+            "mr-olympia",
+            "terminator-film",
+            "governors-mansion",
+            "bodybuilding-routine"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Arnold is an inspirational documentary series chronicling the journey of a bodybuilding champion who transformed into a Hollywood icon and politician, reflecting on ambition, reinvention, and the complexities of a global legacy."
+      },
+      "duration_seconds": 66.00786232948303
+    }
+  }
+}

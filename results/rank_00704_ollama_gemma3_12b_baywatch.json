@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Baywatch",
+    "overview": "Join the Baywatch lifeguards on their thrilling adventures filled with beautiful beaches and those iconic red swimsuits.",
+    "genres": [
+      "Action & Adventure",
+      "Drama"
+    ],
+    "release_year": 1989,
+    "vote_count": 403
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Baywatch is a long-running action drama series centered around the lifeguards of Los Angeles County. The show blends action sequences, dramatic rescues, and interpersonal relationships against the backdrop of sunny beaches. While ostensibly about lifeguarding, the series often incorporates crime and personal struggles, appealing to a broad audience with its blend of action, romance, and aspirational lifestyle. The show's emphasis on physical fitness and attractive actors contributed significantly to its popularity and cultural impact.",
+        "spoiler_rich_plot_summary": "Baywatch initially focuses on Mitch Buchannon, a seasoned lifeguard dedicated to protecting the beaches of Los Angeles County. The series introduces a rotating cast of new recruits, each bringing their own personal dramas and skills to the team. Early seasons establish the core team dynamic and showcase their heroic rescues, often involving dangerous marine life, reckless boaters, and criminal activity encroaching on the coastline. As the series progresses, storylines become increasingly complex, exploring themes of family, loyalty, and sacrifice. Characters face personal challenges, including relationship conflicts, professional setbacks, and confrontations with dangerous criminals. While the show maintains its focus on lifeguarding, it also delves into more serious issues, such as drug trafficking and environmental concerns. Over time, the team expands, and new threats emerge, requiring the lifeguards to constantly adapt and evolve their skills to protect the community. The series concludes with the team facing a significant threat that tests their abilities and strengthens their bond, ultimately reaffirming their commitment to safeguarding the beaches and the people they serve.",
+        "categorized_keywords": {
+          "themes": [
+            "heroism",
+            "community",
+            "sacrifice",
+            "friendship",
+            "environmentalism",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "rescue-operation",
+            "crime-investigation",
+            "police-procedural",
+            "beach-setting",
+            "undercover-operation"
+          ],
+          "mood_and_tone": [
+            "optimistic",
+            "action-packed",
+            "lighthearted",
+            "dramatic",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "action-drama",
+            "beach-movie",
+            "found-family",
+            "ensemble-cast",
+            "slow-burn-romance"
+          ],
+          "setting": [
+            "los-angeles-county",
+            "california-coast",
+            "beach-setting",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "hero",
+            "mentor",
+            "vigilante",
+            "athletic-protagonist",
+            "strong-female-lead"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "red-swimsuit",
+            "lifeguard-tower",
+            "rescue-buoy",
+            "jet-ski",
+            "beach-patrol"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Baywatch is an action-drama series set on the California coast, showcasing heroic lifeguards and their community as they confront danger and personal struggles with optimism and a lighthearted spirit."
+      },
+      "duration_seconds": 61.270870208740234
+    }
+  }
+}

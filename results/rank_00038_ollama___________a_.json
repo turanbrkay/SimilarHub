@@ -1,0 +1,95 @@
+{
+  "input_data": {
+    "title": "Prison Break",
+    "overview": "Due to a political conspiracy, an innocent man is sent to death row and his only hope is his brother, who makes it his mission to deliberately get himself sent to the same prison in order to break the both of them out, from the inside out.",
+    "genres": [
+      "Action & Adventure",
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2005,
+    "vote_count": 4508
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Prison Break follows the desperate plan of a mastermind brother to infiltrate a maximum‑security prison and liberate his wrongly convicted sibling, weaving a high‑stakes tale of loyalty, conspiracy, and relentless pursuit. The series blends gritty, suspenseful action with sharp character dynamics, as the brothers navigate a labyrinth of guards, law‑enforcement agents, and political intrigue. Themes of freedom, sacrifice, and corruption surface against the stark backdrop of a federal penitentiary, while the narrative maintains a fast‑paced, serialized rhythm that keeps viewers on edge.",
+        "spoiler_rich_plot_summary": "In the first season, Michael Scofield deliberately commits a crime to be incarcerated at Fox River State Penitentiary, where his brother Lincoln Burrows is on death row for a murder he did not commit. Michael designs an intricate escape plan that relies on a tunnel he has mapped out over years, while coordinating with inmates and exploiting corrupt prison staff. As the escape unfolds, the brothers evade a relentless FBI investigation led by Agent Alexander Mahone, uncovering a widespread political conspiracy that implicates high‑level officials. Subsequent seasons expand the conspiracy to a national scale, with Michael and Lincoln evading capture across multiple prisons, forming alliances with other inmates and using elaborate disguises. In season five, Michael sacrifices himself to protect his brother and expose the conspiracy, ultimately leading to the conviction of the corrupt officials. The series concludes with Lincoln assuming a new identity and continuing to fight for justice, while Michael’s legacy endures as a symbol of brotherhood and resistance.",
+        "categorized_keywords": {
+          "themes": [
+            "brotherhood",
+            "conspiracy",
+            "freedom",
+            "justice",
+            "betrayal",
+            "loyalty",
+            "sacrifice",
+            "corruption"
+          ],
+          "plot_and_concepts": [
+            "prison-escape",
+            "tunnel",
+            "escape-plan",
+            "fbi-investigation",
+            "conspiracy",
+            "death-row",
+            "prisoner",
+            "law-enforcement",
+            "mastermind",
+            "cell-block"
+          ],
+          "mood_and_tone": [
+            "tense",
+            "gritty",
+            "suspenseful",
+            "action-packed",
+            "dramatic"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "crime-drama",
+            "thriller",
+            "conspiracy-thriller",
+            "family-drama",
+            "heist",
+            "escape",
+            "revenge"
+          ],
+          "setting": [
+            "prison",
+            "modern-usa",
+            "federal-prison"
+          ],
+          "character_archetypes": [
+            "brother",
+            "anti-hero",
+            "prisoner",
+            "law-enforcement",
+            "mastermind",
+            "fbi-agent"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "fast-paced"
+          ],
+          "target_audience": [
+            "mature-audiences",
+            "action-fans",
+            "crime-drama-fans"
+          ],
+          "detail_plot": [
+            "tunnel",
+            "cell-block",
+            "prison-guard",
+            "handcuffs",
+            "keycard",
+            "escape-plan",
+            "fbi-briefing"
+          ]
+        },
+        "keyword_sentence": "Prison Break is a tense, action-packed serialized crime drama centered on brotherhood, conspiracy, and a daring prison escape that hinges on a complex tunnel and escape plan, exploring themes of loyalty, sacrifice, and corruption."
+      },
+      "duration_seconds": 176.13340139389038
+    }
+  }
+}

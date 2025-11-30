@@ -1,0 +1,91 @@
+{
+  "input_data": {
+    "title": "Tales of the Walking Dead",
+    "overview": "Six original one-hour standalone episodes focused on both new and established characters within the walker apocalypse. Each episode has its own distinct tone and point of view — but the stakes are high in each story, pushing new, indelible characters with relentless, life-threatening choices and situations. We get to see the apocalypse through different eyes, discovering more worlds, mythos, and mysteries of the Walking Dead.",
+    "genres": [
+      "Drama",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2022,
+    "vote_count": 93
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Tales of the Walking Dead is an anthology series expanding the universe of The Walking Dead, presenting self-contained stories centered on new and returning characters navigating the zombie apocalypse. Each episode explores distinct perspectives and tones, offering a fresh look at the established world while maintaining the core themes of survival, morality, and human connection in the face of overwhelming adversity. The series aims to provide a more intimate and varied exploration of the post-apocalyptic landscape, delving into the personal struggles and choices of individuals caught in extraordinary circumstances. It offers a blend of action, drama, and suspense, appealing to fans of the franchise while also providing a more accessible entry point for new viewers.",
+        "spoiler_rich_plot_summary": "The series begins with introductions to several distinct characters, each facing unique challenges within the walker-infested world. One story follows a lone traveler attempting to rebuild a life while confronting past traumas and the constant threat of danger. Another focuses on a group struggling to establish a community, grappling with internal conflicts and external pressures from rival factions. As the series progresses, these individual narratives intertwine, revealing connections and shared experiences across the broader landscape. Characters are forced to make difficult choices, often with devastating consequences, testing their moral compass and pushing them to their limits. While the anthology format prevents a single overarching plot, recurring themes of loss, redemption, and the enduring strength of the human spirit emerge, demonstrating the cyclical nature of survival and the constant struggle to rebuild in a shattered world. The series concludes with each story reaching a resolution, leaving the audience with a sense of the ongoing struggle and the enduring legacy of the apocalypse.",
+        "categorized_keywords": {
+          "themes": [
+            "survival",
+            "loss",
+            "redemption",
+            "moral-ambiguity",
+            "human-connection",
+            "post-apocalyptic-society",
+            "isolation",
+            "hope"
+          ],
+          "plot_and_concepts": [
+            "anthology-series",
+            "zombie-apocalypse",
+            "walker-threat",
+            "moral-dilemmas",
+            "faction-conflict",
+            "isolated-survival"
+          ],
+          "mood_and_tone": [
+            "grim",
+            "suspenseful",
+            "dark",
+            "tense",
+            "hopeful"
+          ],
+          "genre_and_tropes": [
+            "post-apocalyptic",
+            "horror",
+            "drama",
+            "action-thriller",
+            "anthology"
+          ],
+          "setting": [
+            "post-apocalyptic-america",
+            "rural-america",
+            "walker-infested-landscape"
+          ],
+          "character_archetypes": [
+            "lone-survivor",
+            "moral-protagonist",
+            "anti-hero",
+            "leader",
+            "villain"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "standalone-episodes",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "horror-fans",
+            "drama-viewers"
+          ],
+          "detail_plot": [
+            "walker-herd",
+            "makeshift-weapons",
+            "abandoned-vehicles",
+            "barricaded-settlements",
+            "makeshift-shelters"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "zombie-gore",
+            "intense-peril"
+          ]
+        },
+        "keyword_sentence": "Tales of the Walking Dead explores the grim realities of survival in a walker-infested America through a series of standalone episodes, delving into the moral ambiguities and intense peril faced by diverse characters as they navigate a post-apocalyptic world."
+      },
+      "duration_seconds": 74.54005527496338
+    }
+  }
+}

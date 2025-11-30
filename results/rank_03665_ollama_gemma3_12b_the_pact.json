@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "The Pact",
+    "overview": "Anna, Nancy, Louie and Cat have had enough of their tyrannical young boss Jack Evans, and make a drunken snap decision at a work function that has shocking repercussions.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2021,
+    "vote_count": 32
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Pact is a British crime drama centered on four friends who, after a moment of impulsive action, find themselves entangled in a web of secrets and lies. The series explores themes of guilt, loyalty, and the consequences of one's choices, set against a backdrop of a close-knit community. It blends elements of mystery and suspense with character-driven drama, creating a tense and emotionally resonant viewing experience. The narrative unfolds with a deliberate pace, gradually revealing the complexities of the characters and the motivations behind their actions, ultimately questioning the nature of truth and the lengths people will go to protect themselves.",
+        "spoiler_rich_plot_summary": "The series begins with Anna, Nancy, Louie, and Cat, four friends working for a local supermarket, who, after a particularly frustrating work event, make a rash decision involving their young and demanding boss, Jack Evans. Initially, the event seems like a momentary lapse in judgment, but the repercussions quickly escalate as the friends find themselves bound by a pact of silence. As the police investigation into Jack’s disappearance intensifies, the friends struggle to maintain their facade, each grappling with their own guilt and fear. The investigation reveals a complex history between the friends and Jack, exposing long-held resentments and hidden connections. As the truth slowly emerges, the friends are forced to confront their own roles in the events and the devastating impact their actions have had on their lives and the community. The series culminates in a tense confrontation where the full extent of the friends' involvement is revealed, leading to significant consequences for all involved and shattering the foundations of their relationships.",
+        "categorized_keywords": {
+          "themes": [
+            "guilt",
+            "loyalty",
+            "secrets",
+            "lies",
+            "consequences",
+            "friendship",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "crime-investigation",
+            "mystery",
+            "pact-of-silence",
+            "whodunit",
+            "small-town-secrets"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "tense",
+            "dark",
+            "atmospheric"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "mystery-thriller",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "modern-day",
+            "small-town",
+            "uk"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "morally-gray-protagonist",
+            "close-knit-friends"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "slow-burn"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "supermarket",
+            "police-investigation",
+            "workplace-drama"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "emotional-distress"
+          ]
+        },
+        "keyword_sentence": "The Pact is a suspenseful British crime drama that explores themes of guilt and loyalty as four friends grapple with the consequences of a rash decision in a close-knit community."
+      },
+      "duration_seconds": 74.9500412940979
+    }
+  }
+}

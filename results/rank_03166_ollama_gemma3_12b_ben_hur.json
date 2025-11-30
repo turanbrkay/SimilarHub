@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Ben Hur",
+    "overview": "The struggle between the Roman Empire and its rebellious conquest Judaea, and two best friends caught in a terrible moment in history.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2010,
+    "vote_count": 43
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Ben Hur is a historical drama centered on themes of betrayal, revenge, and redemption against the backdrop of the Roman occupation of Judea. The series explores the complexities of friendship and loyalty as two men find themselves on opposing sides of a political and religious conflict. The narrative blends action sequences with introspective character development, examining the personal cost of war and the enduring power of faith. It offers a sweeping, epic scope, portraying a tumultuous period in history through the lens of individual struggles and grand political machinations. The tone is generally somber and dramatic, emphasizing the weight of moral choices and the consequences of violence.",
+        "spoiler_rich_plot_summary": "The story begins with Judah Ben-Hur and his childhood friend Messala Corvino, both promising young men in Jerusalem. Their bond is tested when Messala joins the Roman army, leading to a growing rift between them. Judah becomes embroiled in a rebellion against Roman rule, and is subsequently betrayed by Messala, leading to his unjust imprisonment and the separation of his family. After years of hardship and slavery, Judah escapes and builds a successful career as a chariot racer, using his winnings to fund the rebellion against the Romans. The conflict escalates, leading to a devastating battle between the Roman legions and the Jewish rebels. Judah confronts Messala in a dramatic chariot race, a symbolic representation of their fractured friendship and the larger conflict. The story culminates with a focus on spiritual themes, highlighting the importance of forgiveness and the transformative power of faith, as Judah witnesses a miraculous event that reshapes his understanding of the world and his place within it.",
+        "categorized_keywords": {
+          "themes": [
+            "betrayal",
+            "revenge",
+            "redemption",
+            "friendship",
+            "loyalty",
+            "faith",
+            "forgiveness",
+            "social-justice",
+            "political-conflict"
+          ],
+          "plot_and_concepts": [
+            "chariot-race",
+            "roman-empire",
+            "political-rebellion",
+            "slave-escape",
+            "epic-quest"
+          ],
+          "mood_and_tone": [
+            "dramatic",
+            "somber",
+            "epic",
+            "introspective"
+          ],
+          "genre_and_tropes": [
+            "historical-drama",
+            "epic-film",
+            "revenge-story",
+            "found-family"
+          ],
+          "setting": [
+            "jerusalem",
+            "ancient-world",
+            "roman-province"
+          ],
+          "character_archetypes": [
+            "betrayed-hero",
+            "antagonist",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "chariot",
+            "roman-legion",
+            "slave-labor",
+            "desert-landscape"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "slavery-themes"
+          ]
+        },
+        "keyword_sentence": "Set in ancient Jerusalem, Ben Hur is a dramatic historical saga exploring themes of betrayal, revenge, and redemption amidst a sweeping political conflict and the enduring power of faith."
+      },
+      "duration_seconds": 64.08807277679443
+    }
+  }
+}

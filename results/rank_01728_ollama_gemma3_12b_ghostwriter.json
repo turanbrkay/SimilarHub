@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Ghostwriter",
+    "overview": "When a ghost haunts a neighborhood bookstore and starts releasing fictional characters into the real world, four kids must team up to solve an exciting mystery surrounding the ghost’s unfinished business.",
+    "genres": [
+      "Kids",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "release_year": 2019,
+    "vote_count": 119
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Ghostwriter is a children's series blending science fiction, fantasy, and action-adventure elements. The show centers on a group of young protagonists who must unravel a mystery involving a ghost and the fictional characters it inadvertently releases into their world. It explores themes of friendship, courage, and the power of storytelling, offering a lighthearted and engaging narrative suitable for a younger audience. The series combines elements of mystery and adventure with a focus on teamwork and problem-solving, creating a fun and imaginative experience.",
+        "spoiler_rich_plot_summary": "The series begins with the arrival of a ghost haunting a local bookstore, which inadvertently starts releasing characters from unfinished stories into the real world. Four kids – Eddie, Piper, Will, and Kat – discover the phenomenon and band together to investigate. They quickly realize that the ghost, known as Ghostwriter, is tied to a long-lost author and a collection of unfinished manuscripts. As the fictional characters wreak havoc in their town, the kids must decipher clues hidden within the manuscripts to understand Ghostwriter’s past and the reason for the chaotic releases. They encounter various challenges and learn about the author’s personal struggles, which are reflected in the stories. Through their investigation, the kids uncover a deeper connection between the author’s life and the characters being released, ultimately working to help Ghostwriter find closure and resolve the unfinished business that binds him to the bookstore. The series culminates in a confrontation with the source of the disruption, allowing Ghostwriter to finally move on and the kids to appreciate the power and responsibility that comes with storytelling.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "courage",
+            "storytelling",
+            "mystery",
+            "responsibility",
+            "closure"
+          ],
+          "plot_and_concepts": [
+            "ghost-story",
+            "unfinished-business",
+            "alternate-reality",
+            "mystery-solving",
+            "fictional-characters"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "imaginative",
+            "adventurous",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "kids-adventure",
+            "sci-fi-fantasy",
+            "found-family",
+            "mystery-procedural"
+          ],
+          "setting": [
+            "small-town",
+            "bookstore",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "loyal-friend"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "unfinished-manuscript",
+            "ghostly-figure",
+            "fictional-characters",
+            "bookstore-setting"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Ghostwriter is a lighthearted and imaginative kids' adventure series that blends sci-fi and fantasy elements to explore themes of friendship, courage, and the power of storytelling within a small-town setting."
+      },
+      "duration_seconds": 65.27929973602295
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Tremors",
+    "overview": "Tremors: The Series is a television spin-off of the Tremors franchise. Originally airing out of order on the Sci-Fi Channel, it was later aired in its proper sequence on the G4 Network.",
+    "genres": [
+      "Comedy",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2003,
+    "vote_count": 31
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Tremors: The Series is a comedic science fiction adventure series that expands upon the established world of the Tremors film franchise. Following a group of individuals living in the isolated desert community of Perfection, Nevada, the series blends creature feature horror with lighthearted humor and character-driven storytelling. The show explores themes of survival, community, and adaptation as the residents face recurring threats from subterranean monsters known as Graboids. While maintaining a sense of fun and escapism, the series also examines the challenges of living in a remote and dangerous environment, fostering a unique blend of action, comedy, and heartwarming relationships.",
+        "spoiler_rich_plot_summary": "The series begins with a new group of residents arriving in Perfection, Nevada, a town plagued by the recurring threat of Graboids – giant, subterranean creatures that hunt by sensing vibrations. Initially, the newcomers are unaware of the danger, but quickly learn to adapt and fight alongside the established community. Over the seasons, the group faces increasingly complex Graboid threats, including new species and evolved forms. The series explores the history of Perfection and the reasons why the Graboids are drawn to the area, revealing a deeper connection to the land. Relationships develop and evolve among the residents, forming a close-knit community bound by their shared experiences. While the constant threat of the Graboids remains, the series culminates in a resolution where the residents find a way to manage the creatures and secure the future of Perfection, though the underlying danger remains a constant presence.",
+        "categorized_keywords": {
+          "themes": [
+            "survival",
+            "community",
+            "adaptation",
+            "isolation",
+            "monster-hunting",
+            "small-town-life"
+          ],
+          "plot_and_concepts": [
+            "monster-movie",
+            "creature-feature",
+            "underground-threat",
+            "monster-of-the-week",
+            "sequel-series"
+          ],
+          "mood_and_tone": [
+            "comedic",
+            "lighthearted",
+            "action-adventure",
+            "humorous",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "sci-fi",
+            "comedy",
+            "action",
+            "found-family",
+            "monster-movie"
+          ],
+          "setting": [
+            "desert-landscape",
+            "remote-town",
+            "nevada",
+            "underground-caves"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "resourceful-survivor",
+            "eccentric-townsfolk"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "graboid",
+            "underground-tunnel",
+            "seismic-activity",
+            "town-meeting",
+            "mining-equipment"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Tremors: The Series is a comedic sci-fi adventure set in a remote Nevada town, where a resourceful community faces recurring threats from subterranean monsters and forges a found-family dynamic through shared survival."
+      },
+      "duration_seconds": 80.24159264564514
+    }
+  }
+}

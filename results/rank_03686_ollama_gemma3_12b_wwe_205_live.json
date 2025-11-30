@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "WWE 205 Live",
+    "overview": "WWE's division of Cruiserweight's battle it out to decide who is the greatest wrestler under 205lbs.",
+    "genres": [
+      "Action & Adventure",
+      "Drama"
+    ],
+    "release_year": 2016,
+    "vote_count": 32
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "WWE 205 Live is a weekly professional wrestling show featuring cruiserweight competitors, wrestlers who weigh under 205 pounds. The series focuses on high-flying action, technical wrestling, and character-driven storylines within a competitive environment. It aims to showcase athleticism and in-ring skill, often incorporating elements of sports entertainment and dramatic storytelling to engage viewers. The show emphasizes individual rivalries and the pursuit of championship titles, creating a dynamic and evolving landscape of competition.",
+        "spoiler_rich_plot_summary": "WWE 205 Live debuted as a spin-off from Monday Night Raw, initially showcasing cruiserweight matches. Early storylines revolved around the Cruiserweight Championship, with competitors like Rich Swann rising to prominence. The show evolved to include factions and more complex narratives, such as the introduction of The Singh Brothers and their association with TJP. Later seasons saw the rise of new stars and the continuation of championship pursuits, with various wrestlers vying for the title and engaging in intense rivalries. The show's format has shifted over time, incorporating different match types and storylines to maintain viewer interest, ultimately showcasing the ongoing evolution of the cruiserweight division within WWE.",
+        "categorized_keywords": {
+          "themes": [
+            "competition",
+            "athleticism",
+            "championship",
+            "rivalry",
+            "sportsmanship"
+          ],
+          "plot_and_concepts": [
+            "professional-wrestling",
+            "sports-entertainment",
+            "championship-pursuit",
+            "faction-politics"
+          ],
+          "mood_and_tone": [
+            "energetic",
+            "competitive",
+            "dramatic"
+          ],
+          "genre_and_tropes": [
+            "sports-drama",
+            "action-sports",
+            "underdog-story"
+          ],
+          "setting": [
+            "wrestling-ring",
+            "modern-day",
+            "sports-arena"
+          ],
+          "character_archetypes": [
+            "underdog",
+            "champion",
+            "heel",
+            "face"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "weekly-format"
+          ],
+          "target_audience": [
+            "sports-fans",
+            "wrestling-fans",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "championship-belt",
+            "ring-ropes",
+            "signature-move",
+            "entrance-music"
+          ],
+          "maturity_and_content": [
+            "staged-violence"
+          ]
+        },
+        "keyword_sentence": "WWE 205 Live delivers an energetic and competitive weekly format showcasing athleticism and championship pursuits within the world of professional wrestling."
+      },
+      "duration_seconds": 67.06174945831299
+    }
+  }
+}

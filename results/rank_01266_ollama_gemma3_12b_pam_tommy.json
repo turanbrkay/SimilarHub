@@ -1,0 +1,85 @@
+{
+  "input_data": {
+    "title": "Pam & Tommy",
+    "overview": "This comedic series takes on the true story behind the release of the first ever viral video in history — the sex tape of Pamela Anderson and Tommy Lee.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2022,
+    "vote_count": 187
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Pam & Tommy is a comedic drama series that explores the scandalous true story of a stolen sex tape featuring Pamela Anderson and Tommy Lee. The series delves into the impact of the incident on their lives and careers, examining themes of privacy, exploitation, and the burgeoning digital age. Through a darkly comedic lens, the show examines the media frenzy and the personal toll of having one's most intimate moments exposed to the world, while also exploring the perspectives of those involved in the theft and distribution of the tape. The series blends humor and pathos, offering a complex portrait of a defining moment in internet history.",
+        "spoiler_rich_plot_summary": "The series begins in 1994, focusing on the whirlwind romance and subsequent marriage of actress Pamela Anderson and Mötley Crüe drummer Tommy Lee. Their newfound happiness is shattered when a disgruntled former employee, Rand Gauthier, steals a home video containing intimate moments between them. Gauthier, along with his business partner, secretly distributes the tape, which quickly becomes a viral sensation, marking the dawn of the internet's capacity for widespread dissemination of private content. The series follows Pamela and Tommy's desperate attempts to reclaim their privacy and pursue legal action against those responsible, while simultaneously navigating the intense media scrutiny and public judgment. As the tape spreads, their careers and personal lives are irrevocably damaged, forcing them to confront the long-term consequences of the theft and the evolving landscape of digital privacy. The narrative also explores the perspectives of the individuals involved in the theft and distribution, revealing their motivations and the ripple effects of their actions. Ultimately, the series portrays a complex and nuanced portrayal of a pivotal moment in internet history, highlighting the vulnerability of individuals in the digital age and the enduring impact of a single, stolen video.",
+        "categorized_keywords": {
+          "themes": [
+            "privacy",
+            "exploitation",
+            "internet-culture",
+            "celebrity-culture",
+            "media-frenzy",
+            "legal-battles",
+            "revenge",
+            "public-shame"
+          ],
+          "plot_and_concepts": [
+            "true-crime",
+            "viral-video",
+            "sex-tape",
+            "heist",
+            "courtroom-drama",
+            "media-scandal"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "satirical",
+            "sensational",
+            "cynical",
+            "provocative"
+          ],
+          "genre_and_tropes": [
+            "biographical-drama",
+            "true-story",
+            "tabloid-drama",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "1990s",
+            "los-angeles",
+            "hollywood"
+          ],
+          "character_archetypes": [
+            "celebrity",
+            "rock-star",
+            "disgruntled-employee",
+            "opportunist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "multiple-perspectives"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "home-video",
+            "courtroom",
+            "press-conference",
+            "mötley-crüe",
+            "baywatch"
+          ],
+          "maturity_and_content": [
+            "sexual-content",
+            "graphic-violence",
+            "drug-use"
+          ]
+        },
+        "keyword_sentence": "Pam & Tommy is a darkly comic biographical drama series exploring the exploitation and media frenzy surrounding a stolen sex tape, set against the backdrop of 1990s Hollywood and the dawn of internet culture."
+      },
+      "duration_seconds": 70.1332426071167
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Blockbuster",
+    "overview": "In this feel-good workplace comedy, the staff at the last surviving Blockbuster video store tries to keep the business afloat.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2022,
+    "vote_count": 84
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Blockbuster is a lighthearted workplace comedy centered around the employees of the last Blockbuster video store. The series explores themes of community, nostalgia, and the challenges of adapting to a rapidly changing world. With a focus on character relationships and quirky humor, it offers a feel-good viewing experience that celebrates the enduring appeal of analog entertainment in a digital age. The show balances comedic situations with moments of genuine heart, portraying a group of individuals striving to maintain a sense of belonging and purpose.",
+        "spoiler_rich_plot_summary": "The series begins with the Blockbuster store facing imminent closure due to dwindling business and competition from streaming services. Eliza, the store manager, and her team – Carlos, Hannah, and Percy – rally together to find creative ways to keep the store open and revitalize its appeal. They experiment with themed nights, loyalty programs, and community events, often with hilarious and unexpected results. Throughout the first season, the employees grapple with personal struggles and professional setbacks, while also forming strong bonds with each other and the store's loyal customers. The series explores the challenges of maintaining a sense of identity and purpose in a world that has largely moved on, and the importance of human connection in an increasingly digital landscape. While the future of the store remains uncertain, the employees find joy and meaning in their shared experiences and the unique community they're building.",
+        "categorized_keywords": {
+          "themes": [
+            "nostalgia",
+            "community",
+            "adaptability",
+            "small-business",
+            "found-family",
+            "workplace-relationships"
+          ],
+          "plot_and_concepts": [
+            "workplace-comedy",
+            "small-business-struggle",
+            "customer-service",
+            "community-building"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "feel-good",
+            "optimistic",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "workplace-comedy",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "video-store",
+            "small-town-usa",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "optimistic-leader",
+            "quirky-employee",
+            "loyal-friend"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-comedy"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "video-cassettes",
+            "rental-agreement",
+            "popcorn-machine",
+            "employee-uniform"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Blockbuster is a lighthearted workplace comedy set in the last surviving video store, exploring themes of community and nostalgia as a quirky ensemble cast strives to keep the business afloat."
+      },
+      "duration_seconds": 62.271987199783325
+    }
+  }
+}

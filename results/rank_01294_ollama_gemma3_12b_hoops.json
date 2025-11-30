@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Hoops",
+    "overview": "A foul-mouthed high school basketball coach is sure he'll hit the big leagues if he can only turn his terrible team around. Good luck with that.",
+    "genres": [
+      "Comedy",
+      "Animation"
+    ],
+    "release_year": 2020,
+    "vote_count": 182
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Hoops is an animated comedy series centered on a relentlessly optimistic but abrasive basketball coach who believes he's destined for NBA stardom. The show satirizes the world of competitive youth sports, exploring themes of ambition, disappointment, and the pursuit of dreams. It blends humor with surprisingly poignant moments, examining the impact of relentless pressure on young athletes and the flawed individuals who guide them. The series offers a comedic yet insightful look at the often-absurd realities of chasing a seemingly unattainable goal.",
+        "spoiler_rich_plot_summary": "The series follows Ben Hopkins, a former basketball player who, despite lacking the talent or experience, is convinced he's destined for the NBA. He takes a coaching position at a struggling high school, determined to turn the team into a championship contender. Ben's unconventional and often inappropriate coaching methods clash with the school administration, the players' families, and the players themselves. Throughout the series, Ben's relentless pursuit of his dream leads to numerous setbacks and embarrassing situations, forcing him to confront his own shortcomings and the unrealistic nature of his ambitions. While he attempts to mold the team into a winning force, the players grapple with their own personal struggles and the pressures of competition. The series explores the complexities of relationships, the importance of teamwork, and the ultimate realization that success isn't always defined by wins and losses.",
+        "categorized_keywords": {
+          "themes": [
+            "ambition",
+            "disappointment",
+            "pursuit-of-dreams",
+            "teamwork",
+            "failure",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "sports-comedy",
+            "coming-of-age",
+            "underdog-story",
+            "rivalry"
+          ],
+          "mood_and_tone": [
+            "satirical",
+            "humorous",
+            "lighthearted",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "sports-comedy",
+            "animated-sitcom",
+            "fish-out-of-water"
+          ],
+          "setting": [
+            "high-school",
+            "modern-day",
+            "american-suburbs"
+          ],
+          "character_archetypes": [
+            "flawed-protagonist",
+            "optimistic-coach",
+            "reluctant-hero",
+            "teenager"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "basketball-court",
+            "locker-room",
+            "school-bus",
+            "basketball-uniform"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Hoops is a lighthearted animated comedy series that satirically explores the pursuit of dreams and the challenges of teamwork within the world of high school basketball."
+      },
+      "duration_seconds": 57.799638986587524
+    }
+  }
+}

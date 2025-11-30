@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "The Charlie Brown and Snoopy Show",
+    "overview": "Your favorite Peanuts stories come to life in this animated television series. With short sketches featuring these classic and much-loved characters, it's easy to, as the opening song suggests, “have a party with Charlie Brown and Snoopy.”",
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "release_year": 1983,
+    "vote_count": 120
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Charlie Brown and Snoopy Show is a lighthearted animated series based on the beloved Peanuts comic strip. It presents a collection of short, episodic stories centered around Charlie Brown's perpetual struggles, Snoopy's whimsical adventures, and the endearing relationships between the characters. The show maintains a gentle, comedic tone, emphasizing themes of friendship, perseverance, and finding joy in simple pleasures. It's a nostalgic and comforting series, appealing to audiences of all ages with its familiar characters and heartwarming stories.",
+        "spoiler_rich_plot_summary": "The series doesn't follow a continuous narrative but rather presents a series of self-contained vignettes. Charlie Brown frequently attempts to fly a kite, play baseball, or win the affection of the Little Red-Haired Girl, often encountering comical setbacks and disappointments. Snoopy, meanwhile, embarks on elaborate fantasies, often portraying himself as a World War I Flying Ace or a famous author. Recurring elements include Lucy's psychiatric booth, where she dispenses unsolicited advice, and Linus's unwavering attachment to his security blanket. While individual stories may involve minor conflicts or challenges, the overall arc focuses on the characters learning to cope with adversity and appreciating the value of friendship and acceptance. The series concludes with a sense of enduring optimism and the promise of more simple joys to come.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "perseverance",
+            "acceptance",
+            "optimism",
+            "childhood-innocence"
+          ],
+          "plot_and_concepts": [
+            "short-sketches",
+            "episodic-storytelling",
+            "fantasy-sequences"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "nostalgic",
+            "gentle-humor"
+          ],
+          "genre_and_tropes": [
+            "slice-of-life",
+            "childrens-comedy",
+            "animated-comedy"
+          ],
+          "setting": [
+            "suburban-neighborhood",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "lovable-loser",
+            "whimsical-sidekick",
+            "quirky-friend"
+          ],
+          "narrative_style": [
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "kite-flying",
+            "baseball-game",
+            "lucys-booth",
+            "linus-blanket",
+            "snoopys-doghouse"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Charlie Brown and Snoopy Show is a lighthearted animated series that celebrates childhood innocence and enduring friendship through a collection of gentle, episodic stories set in a familiar suburban neighborhood."
+      },
+      "duration_seconds": 60.59455871582031
+    }
+  }
+}

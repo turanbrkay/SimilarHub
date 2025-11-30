@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "A Killer Uncaged",
+    "overview": "In this crime docuseries spinoff, a convict is paroled 30 years after being sentenced to death for murder. Then he makes a stunning confession.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2020,
+    "vote_count": 41
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "A Killer Uncaged is a documentary series that explores the complexities of guilt, redemption, and the justice system through the lens of a convicted murderer's parole and subsequent confession. The series blends true crime elements with a focus on psychological profiling and the long-term impact of incarceration on both the individual and their victims' families. It aims to provide a nuanced perspective on a notorious crime, examining the factors that led to the initial conviction and the motivations behind the delayed confession. The series maintains a somber tone, prioritizing factual accuracy and emotional sensitivity.",
+        "spoiler_rich_plot_summary": "The series centers around the case of a man initially sentenced to death for a brutal murder decades prior. After serving a lengthy prison sentence, he is granted parole, marking a significant moment for all involved. However, the narrative takes a dramatic turn when the convict unexpectedly comes forward with a stunning confession, revealing previously unknown details about the crime. The series meticulously reconstructs the original investigation, highlighting inconsistencies and unanswered questions that were present at the time. It then contrasts this initial account with the convict’s new testimony, prompting a reevaluation of the evidence and the circumstances surrounding the case. The series explores the motivations behind the delayed confession, delving into the convict’s psychological state and the potential impact on the victim’s family. It examines the legal and ethical implications of the new information, questioning whether a retrial or further investigation is warranted.",
+        "categorized_keywords": {
+          "themes": [
+            "true-crime",
+            "guilt",
+            "redemption",
+            "justice-system",
+            "delayed-confession",
+            "psychological-impact",
+            "second-chances"
+          ],
+          "plot_and_concepts": [
+            "true-crime",
+            "confession",
+            "parole",
+            "cold-case",
+            "reinvestigation",
+            "legal-proceedings"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "investigative",
+            "suspenseful",
+            "reflective"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "true-crime",
+            "investigative-journalism"
+          ],
+          "setting": [
+            "prison",
+            "courtroom",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "convicted-murderer",
+            "victim's-family",
+            "investigator",
+            "legal-professional"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "investigative-report"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "prison-cell",
+            "court-transcript",
+            "police-evidence",
+            "victim's-photo"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "legal-proceedings"
+          ]
+        },
+        "keyword_sentence": "A Killer Uncaged is a somber documentary series that investigates the complexities of guilt and the justice system through the delayed confession of a convicted murderer, prompting a reevaluation of a decades-old crime."
+      },
+      "duration_seconds": 57.12282919883728
+    }
+  }
+}

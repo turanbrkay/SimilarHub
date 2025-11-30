@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Green Eggs and Ham",
+    "overview": "Guy-Am-I, an inventor, and his friend Sam-I-Am go on a cross-country trip that would test the limits of their friendship. As they learn to try new things, they find out what adventure brings.",
+    "genres": [
+      "Kids",
+      "Family",
+      "Animation",
+      "Comedy",
+      "Action & Adventure"
+    ],
+    "release_year": 2019,
+    "vote_count": 51
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Green Eggs and Ham is a vibrant animated series geared towards a young audience, blending comedic elements with action and adventure. The show follows Guy-Am-I and Sam-I-Am as they embark on a journey of self-discovery and friendship, encountering various challenges and learning to embrace new experiences. It emphasizes themes of perseverance, acceptance, and the importance of trying new things, all wrapped in a visually appealing and energetic package. The series aims to entertain while subtly promoting positive values and encouraging exploration.",
+        "spoiler_rich_plot_summary": "The series begins with Guy-Am-I, a somewhat reluctant inventor, and his friend Sam-I-Am setting off on a cross-country trip. Initially, Guy-Am-I is resistant to new experiences, particularly when it comes to food, famously refusing to try green eggs and ham. Throughout their journey, they encounter a colorful cast of characters and face numerous obstacles, from navigating treacherous landscapes to outsmarting mischievous adversaries. As they progress, Guy-Am-I gradually learns to overcome his fears and embrace the unknown, realizing that new experiences can be rewarding and that friendship can help him grow. The journey tests their bond, but ultimately strengthens their friendship as they learn to appreciate each other's strengths and support each other through difficult times. The series culminates in a celebration of their shared experiences and a renewed appreciation for the value of trying new things.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "adventure",
+            "self-discovery",
+            "perseverance",
+            "acceptance",
+            "trying-new-things"
+          ],
+          "plot_and_concepts": [
+            "road-trip",
+            "invention",
+            "problem-solving",
+            "chase-sequence"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "lighthearted",
+            "energetic",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "kids-animation",
+            "family-entertainment",
+            "coming-of-age",
+            "found-family"
+          ],
+          "setting": [
+            "cross-country",
+            "modern-day",
+            "whimsical-locations"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "loyal-friend",
+            "inventor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-adventure"
+          ],
+          "target_audience": [
+            "young-children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "green-eggs",
+            "ham",
+            "invented-vehicle",
+            "map"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Green Eggs and Ham is a lighthearted and energetic kids' animation series about friendship and adventure, following two characters as they embark on a cross-country road trip filled with whimsical locations and the importance of trying new things."
+      },
+      "duration_seconds": 56.949596881866455
+    }
+  }
+}

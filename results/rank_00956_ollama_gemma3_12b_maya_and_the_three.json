@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Maya and the Three",
+    "overview": "A spirited princess with the heart of a warrior embarks on a mission to fulfill an ancient prophecy and save humanity from the wrath of vengeful gods.",
+    "genres": [
+      "Animation",
+      "Family",
+      "Action & Adventure",
+      "Comedy"
+    ],
+    "release_year": 2021,
+    "vote_count": 276
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Maya and the Three is a vibrant animated series blending action, adventure, and comedy within a rich fantasy world inspired by Mesoamerican cultures. The story follows a young princess destined to fulfill a prophecy, navigating political intrigue, mythical creatures, and personal growth. The series offers a lighthearted yet engaging narrative, appealing to a family audience with its colorful visuals, dynamic characters, and themes of courage, responsibility, and the importance of heritage.",
+        "spoiler_rich_plot_summary": "The series begins with Princess Maya, living a sheltered life unaware of her true heritage and the prophecy surrounding her. When her father, the emperor, is betrayed and the realm is plunged into chaos, Maya is forced to flee and discover her connection to the ancient gods. She is tasked with finding three legendary warriors – Rico, Zeno, and Kael – to help her restore balance and defeat the malevolent sorcerer Citlalic, who seeks to unleash the wrath of the gods upon the land. Along her journey, Maya confronts personal challenges, learns about her family's history, and develops a strong bond with her companions. The quest involves navigating treacherous landscapes, battling formidable enemies, and uncovering secrets that threaten to shatter the foundations of her world. As Maya embraces her destiny, she must confront Citlalic and ultimately decide the fate of her people, facing difficult choices that test her courage and resolve.",
+        "categorized_keywords": {
+          "themes": [
+            "destiny",
+            "courage",
+            "family-loyalty",
+            "responsibility",
+            "heritage",
+            "good-vs-evil"
+          ],
+          "plot_and_concepts": [
+            "prophecy",
+            "chosen-one",
+            "quest",
+            "ancient-magic",
+            "political-intrigue"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "adventurous",
+            "wholesome",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "animated-series",
+            "fantasy-adventure",
+            "coming-of-age",
+            "found-family"
+          ],
+          "setting": [
+            "fantasy-world",
+            "mesoamerican-inspired",
+            "ancient-civilization"
+          ],
+          "character_archetypes": [
+            "princess",
+            "warrior",
+            "reluctant-hero",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "ancient-temple",
+            "ceremonial-mask",
+            "mythical-creature",
+            "royal-palace"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Inspired by Mesoamerican cultures, Maya and the Three is a lighthearted animated series following a spirited princess on a quest to fulfill a prophecy and embrace her destiny, facing challenges with the help of newfound companions."
+      },
+      "duration_seconds": 57.080241203308105
+    }
+  }
+}

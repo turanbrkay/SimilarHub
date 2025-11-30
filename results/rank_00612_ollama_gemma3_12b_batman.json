@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Batman",
+    "overview": "Wealthy entrepreneur Bruce Wayne and his ward Dick Grayson lead a double life: they are actually crime fighting duo Batman and Robin. A secret Batpole in the Wayne mansion leads to the Batcave, where Police Commissioner Gordon often calls with the latest emergency threatening Gotham City. Racing to the scene of the crime in the Batmobile, Batman and Robin must (with the help of their trusty Bat-utility-belt) thwart the efforts of a variety of master criminals, including The Riddler, The Joker, Catwoman, and The Penguin.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Comedy",
+      "Action & Adventure"
+    ],
+    "release_year": 1966,
+    "vote_count": 473
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "This series presents a highly stylized and comedic take on the Batman mythos, blending superhero action with broad humor and campy theatrics. Bruce Wayne and Dick Grayson, as Batman and Robin, combat a colorful rogues' gallery of villains, relying on gadgets and teamwork to protect Gotham City. The show's lighthearted tone and exaggerated performances create a unique and entertaining experience, appealing to a family audience with its blend of action, comedy, and iconic imagery.",
+        "spoiler_rich_plot_summary": "The series follows Bruce Wayne, a wealthy philanthropist, and his adopted son Dick Grayson, who secretly operate as Batman and Robin. Each episode typically involves a new criminal scheme orchestrated by one of Batman's recurring adversaries, such as The Joker, The Penguin, or Catwoman. These villains often engage in elaborate and theatrical plots, frequently involving riddles, traps, and disguises. Batman and Robin, utilizing their advanced technology and detective skills, work to unravel the villains' plans and bring them to justice, often with the assistance of Police Commissioner Gordon. While each episode presents a self-contained mystery, there are occasional recurring themes and character arcs, particularly concerning the development of Robin's skills and the ongoing battle against Gotham's criminal underworld. The series culminates in a grand finale where Batman and Robin confront a coalition of their most formidable foes, ultimately thwarting their plans and restoring order to the city.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "family-bond",
+            "good-vs-evil",
+            "crime-fighting",
+            "detective-work"
+          ],
+          "plot_and_concepts": [
+            "superhero-action",
+            "detective-mystery",
+            "rogues-gallery",
+            "gadget-based",
+            "crime-solving"
+          ],
+          "mood_and_tone": [
+            "campy",
+            "comedic",
+            "lighthearted",
+            "wholesome",
+            "theatrical"
+          ],
+          "genre_and_tropes": [
+            "superhero-genre",
+            "buddy-cop",
+            "crime-procedural",
+            "satirical",
+            "pulp-adventure"
+          ],
+          "setting": [
+            "gotham-city",
+            "modern-day",
+            "wayne-mansion"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "sidekick",
+            "eccentric-villain",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "episodic-format",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "batmobile",
+            "batpole",
+            "batcave",
+            "bat-utility-belt",
+            "bat-signal"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "This lighthearted and comedic series blends superhero action and detective mysteries in the vibrant setting of Gotham City, following Batman and Robin as they combat a colorful rogues' gallery of villains with the help of their iconic gadgets and a strong family bond."
+      },
+      "duration_seconds": 55.58229875564575
+    }
+  }
+}

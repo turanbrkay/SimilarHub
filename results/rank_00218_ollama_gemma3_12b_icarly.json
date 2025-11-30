@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "iCarly",
+    "overview": "Watch Carly, Sam, and Freddie, as they try to balance their everyday 8th grade lives with their newfound fame managing and starring in the most awesome show on the web.",
+    "genres": [
+      "Comedy",
+      "Family",
+      "Kids"
+    ],
+    "release_year": 2007,
+    "vote_count": 1337
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "iCarly is a lighthearted comedy series centered on a teenager and her friends who create and star in a popular web show. The series blends elements of sitcom and mockumentary, exploring themes of friendship, creativity, and navigating the challenges of online fame. It offers a wholesome and optimistic viewing experience, appealing to a younger audience with its relatable characters and humorous situations. The show's success lies in its ability to capture the spirit of early internet culture and the excitement of creating content for a global audience.",
+        "spoiler_rich_plot_summary": "The series begins with Carly Shay, a teenager living with her older brother Spencer, a struggling artist, in Seattle. After their quirky and tech-savvy friend Freddie Benson records a video of Carly singing, it becomes an instant viral sensation. Recognizing the potential, Carly, along with Spencer and Freddie, launch 'iCarly,' a web show broadcast from their apartment. As 'iCarly' gains popularity, the trio faces various challenges, including dealing with demanding fans, navigating romantic interests, and managing the pressures of online fame. Spencer's eccentric art often leads to chaotic and comedic situations, while Freddie's technical expertise keeps the show running smoothly. Throughout the series, Carly and her friends encounter a colorful cast of recurring characters, including Sam Puckett, a rebellious and mischievous girl who eventually joins the 'iCarly' team. The show explores the evolving dynamics between the core group as they mature and face new experiences, ultimately solidifying their bond and celebrating their shared passion for creating content.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "family",
+            "online-fame",
+            "creativity",
+            "growing-up",
+            "internet-culture"
+          ],
+          "plot_and_concepts": [
+            "web-show",
+            "viral-video",
+            "mockumentary",
+            "sitcom",
+            "found-family"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "optimistic",
+            "humorous"
+          ],
+          "genre_and_tropes": [
+            "teen-comedy",
+            "family-sitcom",
+            "found-family",
+            "coming-of-age"
+          ],
+          "setting": [
+            "seattle",
+            "modern-day",
+            "apartment-living"
+          ],
+          "character_archetypes": [
+            "teenager",
+            "quirky-sibling",
+            "tech-savvy-friend",
+            "rebellious-friend"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "kids",
+            "family-audience",
+            "young-adults"
+          ],
+          "detail_plot": [
+            "webcam",
+            "apartment-set",
+            "viral-video",
+            "studio-lights"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "iCarly is a lighthearted family sitcom that follows a group of teenagers as they navigate the challenges of creating a popular web show and growing up together in a modern Seattle apartment."
+      },
+      "duration_seconds": 60.57188177108765
+    }
+  }
+}

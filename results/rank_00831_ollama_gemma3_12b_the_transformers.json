@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "The Transformers",
+    "overview": "The Transformers is the first animated television series in the Transformers franchise. The series depicts a war among giant robots that can transform into vehicles and other objects.",
+    "genres": [
+      "Animation",
+      "Kids",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1984,
+    "vote_count": 327
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Transformers is a foundational animated series centered on a sprawling conflict between two factions of sentient robots: the heroic Autobots and the villainous Decepticons. The series blends action-adventure with science fiction and fantasy elements, appealing to a young audience while exploring themes of freedom, tyranny, and the importance of teamwork. The narrative follows the Autobots' struggle to protect Earth from the Decepticons' quest for power, showcasing transforming vehicles and dynamic battles. The show established a lasting franchise and remains a significant touchstone in animated storytelling.",
+        "spoiler_rich_plot_summary": "The series begins with the Autobots, led by Optimus Prime, fleeing their dying planet Cybertron, pursued by the Decepticons under the command of Megatron. They crash-land on Earth, where they engage in a protracted war, attempting to secure energy sources and prevent the Decepticons from exploiting Earth's resources. Throughout the series, new Autobots and Decepticons are introduced, each with unique abilities and motivations. The conflict escalates with the discovery of ancient Cybertronian technology on Earth, leading to increasingly destructive battles. While the Autobots consistently strive to protect humanity, the Decepticons relentlessly pursue domination, causing widespread chaos and destruction. The series culminates in a final confrontation where the fate of Earth and Cybertron hangs in the balance, with both sides facing significant losses and strategic shifts.",
+        "categorized_keywords": {
+          "themes": [
+            "good-vs-evil",
+            "freedom",
+            "tyranny",
+            "teamwork",
+            "sacrifice",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "robot-transformation",
+            "alien-invasion",
+            "war-story",
+            "cybernetics",
+            "ancient-technology"
+          ],
+          "mood_and_tone": [
+            "action-packed",
+            "heroic",
+            "tense",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "sci-fi",
+            "action-adventure",
+            "mecha",
+            "found-family"
+          ],
+          "setting": [
+            "earth",
+            "cybertron",
+            "space"
+          ],
+          "character_archetypes": [
+            "heroic-leader",
+            "villainous-dictator",
+            "loyal-companion",
+            "reformed-villain"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "kids",
+            "young-adults"
+          ],
+          "detail_plot": [
+            "transformers-vehicles",
+            "autobot-emblem",
+            "decepticon-symbol",
+            "matrix-of-leadership"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Transformers is an action-packed animated series depicting a heroic battle between two factions of robots on Earth and Cybertron, exploring themes of freedom and sacrifice within a sci-fi setting."
+      },
+      "duration_seconds": 60.176194190979004
+    }
+  }
+}

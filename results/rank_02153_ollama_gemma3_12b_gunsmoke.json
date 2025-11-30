@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Gunsmoke",
+    "overview": "Gunsmoke is an American radio and television Western drama series created by director Norman MacDonnell and writer John Meston. The stories take place in and around Dodge City, Kansas, during the settlement of the American West. The central character is lawman Marshal Matt Dillon, played by William Conrad on radio and James Arness on television.",
+    "genres": [
+      "Western",
+      "Action & Adventure"
+    ],
+    "release_year": 1955,
+    "vote_count": 86
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Gunsmoke is a long-running Western drama series centered on the moral complexities of frontier justice. The show follows Marshal Matt Dillon as he navigates the challenges of maintaining order in Dodge City, Kansas, confronting outlaws, settlers, and the harsh realities of the American West. Known for its realistic portrayal of the era and its focus on character development, Gunsmoke explores themes of duty, honor, and the difficult choices faced by those tasked with upholding the law in a lawless land. The series blends action and drama, offering a nuanced perspective on the settling of the American frontier.",
+        "spoiler_rich_plot_summary": "The series begins with Marshal Matt Dillon arriving in Dodge City, tasked with bringing order to a town rife with violence and lawlessness. He quickly establishes himself as a figure of authority, facing constant threats from cattle rustlers, stagecoach robbers, and vengeful individuals seeking retribution. Throughout the series, Dillon grapples with the moral ambiguities of his position, often forced to make difficult choices that blur the lines between justice and vengeance. Recurring characters include Doc Adams, the town physician, and Kitty Russell, a saloon owner who provides Dillon with companionship and a sense of normalcy. As the series progresses, Dodge City evolves from a rough-and-tumble frontier town to a more established community, reflecting the broader changes occurring across the American West. While Dillon consistently strives to uphold the law, he encounters numerous betrayals and losses, forcing him to confront the enduring nature of human conflict and the limitations of his own power. The series concludes with Dillon reflecting on his years of service, acknowledging the sacrifices he has made and the enduring challenges of maintaining peace in a volatile world.",
+        "categorized_keywords": {
+          "themes": [
+            "frontier-justice",
+            "duty-and-honor",
+            "moral-ambiguity",
+            "law-and-order",
+            "sacrifice",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "western-drama",
+            "lawman-procedural",
+            "cattle-rustling",
+            "stagecoach-robbery",
+            "frontier-settlement"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "realistic",
+            "somber",
+            "melancholy"
+          ],
+          "genre_and_tropes": [
+            "western",
+            "procedural-drama",
+            "small-town-setting"
+          ],
+          "setting": [
+            "dodge-city-kansas",
+            "american-west",
+            "frontier-town",
+            "19th-century"
+          ],
+          "character_archetypes": [
+            "stoic-hero",
+            "lawman",
+            "doctor",
+            "saloon-owner"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "sheriffs-hat",
+            "horses",
+            "saloon",
+            "stagecoach",
+            "cattle"
+          ],
+          "maturity_and_content": [
+            "gun-violence"
+          ]
+        },
+        "keyword_sentence": "Gunsmoke portrays a stoic lawman’s struggle to maintain order and justice in the gritty, realistic setting of Dodge City, Kansas, during the challenging era of frontier settlement."
+      },
+      "duration_seconds": 68.54868268966675
+    }
+  }
+}

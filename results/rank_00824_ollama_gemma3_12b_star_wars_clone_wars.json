@@ -1,0 +1,87 @@
+{
+  "input_data": {
+    "title": "Star Wars: Clone Wars",
+    "overview": "This Emmy Award-winning series recounts the events and battles of the Galactic Republic’s last major war - the Clone Wars. Jedi Master Obi-Wan Kenobi leads an assault on the planet Muunilinst, home of the Intergalactic Banking Clan; his Padawan, Anakin Skywalker, is appointed by Supreme Chancellor Palpatine to lead the Republic’s space forces. Meanwhile, Separatist leader and Sith Lord Count Dooku takes in Force-sensitive gladiator Asajj Ventress as his Sith apprentice, and tasks her with eliminating Skywalker.",
+    "genres": [
+      "Action & Adventure",
+      "Animation",
+      "Sci-Fi & Fantasy",
+      "Kids"
+    ],
+    "release_year": 2003,
+    "vote_count": 331
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Star Wars: The Clone Wars is an animated series serving as a bridge between Episodes II and III of the Star Wars saga. It explores the events of the Clone Wars, a galaxy-wide conflict, through the perspectives of both Jedi and Separatist forces. The series delves into character development, showcasing the growth of Anakin Skywalker and Obi-Wan Kenobi while introducing new characters and expanding upon existing lore. It blends action-packed battles with moments of political intrigue and emotional depth, appealing to both long-time fans and newcomers to the Star Wars universe. The show’s animation style and episodic structure allow for a broad range of storytelling possibilities, from large-scale military campaigns to smaller, character-driven narratives.",
+        "spoiler_rich_plot_summary": "The series begins with the outbreak of the Clone Wars, a conflict between the Galactic Republic and the Separatist Alliance. Jedi Knights, including Obi-Wan Kenobi and Anakin Skywalker, are tasked with leading the Republic’s forces against the Separatists, led by Count Dooku. Throughout the war, Anakin struggles with his emotions and the dark side of the Force, increasingly questioning the Jedi Order's teachings and growing closer to Palpatine. Obi-Wan mentors Anakin, attempting to guide him on the path of the Jedi, but Anakin’s impulsiveness and ambition often lead to conflict. The Separatists, meanwhile, cultivate new talents like Asajj Ventress, who serves as a Sith apprentice to Count Dooku. As the war progresses, the Republic’s political machinations become increasingly apparent, with Palpatine consolidating his power and manipulating events to his advantage. Key characters like Ahsoka Tano, Anakin’s Padawan, experience significant growth and face difficult choices that challenge their loyalties. The series culminates in events that directly contribute to the rise of the Empire, with Anakin’s fall to the dark side and the dissolution of the Jedi Order.",
+        "categorized_keywords": {
+          "themes": [
+            "war-and-conflict",
+            "duty-and-loyalty",
+            "redemption",
+            "corruption",
+            "friendship",
+            "loss-and-grief",
+            "political-intrigue"
+          ],
+          "plot_and_concepts": [
+            "galactic-war",
+            "jedi-order",
+            "sith-lord",
+            "clone-army",
+            "political-manipulation",
+            "force-powers"
+          ],
+          "mood_and_tone": [
+            "action-packed",
+            "somber",
+            "epic",
+            "hopeful",
+            "tragic"
+          ],
+          "genre_and_tropes": [
+            "space-opera",
+            "action-adventure",
+            "found-family",
+            "coming-of-age"
+          ],
+          "setting": [
+            "galaxy-far-far-away",
+            "space-battle",
+            "coruscant",
+            "alternate-timeline"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "fallen-hero",
+            "dark-apprentice"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "lightsaber-duel",
+            "starship-battle",
+            "jedi-temple",
+            "clone-trooper-armor",
+            "republic-gunship"
+          ],
+          "maturity_and_content": [
+            "graphic-violence"
+          ]
+        },
+        "keyword_sentence": "Star Wars: The Clone Wars is an action-packed space opera that explores themes of war, loyalty, and corruption through the journeys of Jedi Knights and clone troopers amidst a sprawling galactic conflict."
+      },
+      "duration_seconds": 76.08302617073059
+    }
+  }
+}

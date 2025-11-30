@@ -1,0 +1,63 @@
+{
+  "input_data": {
+    "title": "60 Minutes",
+    "overview": "America's popular television News magazine in which an ever changing team of CBS News correspondents contribute segments ranging from hard news coverage to politics to lifestyle and pop culture.",
+    "genres": [
+      "News"
+    ],
+    "release_year": 1968,
+    "vote_count": 56
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "60 Minutes is a long-running and highly influential American news magazine program known for its in-depth investigative reporting and interviews. The show consistently tackles complex issues, ranging from political scandals to social injustices, often holding powerful institutions and individuals accountable. Its format typically features multiple segments, each exploring a different topic with a focus on uncovering hidden truths and presenting diverse perspectives. The program's longevity and impact stem from its commitment to rigorous journalism and its ability to connect with a broad audience through compelling storytelling.",
+        "spoiler_rich_plot_summary": "60 Minutes doesn't follow a traditional narrative arc. Instead, each episode presents a series of independent investigations and interviews. Early seasons established the show's reputation for uncovering political corruption and corporate malfeasance, often leading to significant legal and social consequences. Over the decades, the program has consistently tackled controversial topics, from exposing government secrets to profiling influential figures. While there isn't a central plot, recurring themes of accountability and the pursuit of truth have shaped the show's overall trajectory, demonstrating the power of investigative journalism to effect change. The program continues to evolve, adapting to new technologies and addressing contemporary issues, maintaining its position as a cornerstone of American news broadcasting.",
+        "categorized_keywords": {
+          "themes": [
+            "investigative-journalism",
+            "accountability",
+            "truth-seeking",
+            "political-corruption",
+            "social-justice"
+          ],
+          "plot_and_concepts": [
+            "interview-format",
+            "investigative-reporting",
+            "news-magazine"
+          ],
+          "mood_and_tone": [
+            "serious",
+            "objective",
+            "analytical"
+          ],
+          "genre_and_tropes": [
+            "news-program",
+            "documentary-style"
+          ],
+          "setting": [
+            "united-states",
+            "global-affairs"
+          ],
+          "character_archetypes": [],
+          "narrative_style": [
+            "episodic",
+            "serialized-segments"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "informed-citizens"
+          ],
+          "detail_plot": [
+            "interview-room",
+            "document-evidence",
+            "news-archive"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "As a long-running news magazine, 60 Minutes delivers serious investigative journalism focused on accountability and truth-seeking within the United States and across global affairs."
+      },
+      "duration_seconds": 46.08889722824097
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "input_data": {
+    "title": "Firefly",
+    "overview": "In the year 2517, after the arrival of humans in a new star system, follow the adventures of the renegade crew of Serenity, a \"Firefly-class\" spaceship. The ensemble cast portrays the nine characters who live on Serenity.",
+    "genres": [
+      "Drama",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2002,
+    "vote_count": 1830
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Firefly is a space western drama that blends action, adventure, and science fiction elements within a unique frontier setting. The series follows a ragtag crew aboard the spaceship Serenity as they navigate the fringes of a newly colonized star system, taking on odd jobs and evading authorities. It explores themes of freedom, loyalty, and survival against a backdrop of political oppression and corporate greed. The show's strength lies in its well-developed characters and their complex relationships, creating a compelling narrative about found family and the struggle for independence.",
+        "spoiler_rich_plot_summary": "The series begins with the crew of Serenity, a Firefly-class transport ship, struggling to make ends meet in the aftermath of the Unification War, where the Independents lost to the Alliance. Captain Malcolm Reynolds, a former soldier, leads a diverse group including Zoe Washburne, his capable second-in-command; Kaylee Frye, the ship's mechanic; Jayne Cobb, a mercenary; River Tam, a young woman with mysterious abilities; Simon Tam, her protective brother; Inara Serra, a Companion; Shepherd Book, a man with a hidden past; and Hoban 'Wash' Washburne, the pilot. Early episodes focus on the crew taking on various jobs, often skirting the law and encountering dangerous situations. As the series progresses, the crew becomes entangled in the Alliance's efforts to track down River Tam, who is a fugitive due to her past as a government experiment. The crew's attempts to protect River and Simon lead them into conflict with powerful figures within the Alliance, revealing a larger conspiracy. The series culminates in a desperate flight from the Alliance, with the crew facing overwhelming odds and making difficult choices to ensure their survival and protect River. The fate of the crew and the future of Serenity remain uncertain, leaving the audience with a sense of unresolved tension and a desire for more.",
+        "categorized_keywords": {
+          "themes": [
+            "freedom",
+            "loyalty",
+            "survival",
+            "found-family",
+            "political-oppression",
+            "corporate-greed",
+            "redemption",
+            "justice"
+          ],
+          "plot_and_concepts": [
+            "space-western",
+            "fugitive-plot",
+            "political-thriller",
+            "smuggling",
+            "bounty-hunting",
+            "government-conspiracy"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "hopeful",
+            "melancholy",
+            "action-packed",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "space-opera",
+            "western",
+            "ensemble-cast",
+            "found-family",
+            "ragtag-crew"
+          ],
+          "setting": [
+            "space",
+            "frontier",
+            "alternate-timeline",
+            "new-star-system"
+          ],
+          "character_archetypes": [
+            "renegade",
+            "skilled-pilot",
+            "loyal-companion",
+            "mercenary",
+            "mysterious-figure"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "firefly-class-ship",
+            "serenity-ship",
+            "companion-profession",
+            "renegade-uniform",
+            "alliance-ship"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "Firefly is a gritty space western drama that explores themes of freedom and loyalty as a ragtag crew navigates a dangerous frontier, facing political oppression and corporate greed aboard their ship, Serenity."
+      },
+      "duration_seconds": 82.68292140960693
+    }
+  }
+}

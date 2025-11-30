@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "The Rise of the Nazi Party",
+    "overview": null,
+    "genres": [
+      "Documentary",
+      "War & Politics"
+    ],
+    "release_year": 2013,
+    "vote_count": 55
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Rise of the Nazi Party is a documentary series examining the historical context, political maneuvering, and social factors that enabled the rise of the Nazi Party in Germany. Through archival footage, expert interviews, and analysis of propaganda, the series explores the complex interplay of economic hardship, nationalistic sentiment, and political opportunism that led to the party's ascent to power. It aims to provide a nuanced understanding of a pivotal moment in history, highlighting the dangers of extremism and the fragility of democratic institutions. The documentary emphasizes the importance of critical thinking and vigilance in safeguarding against the recurrence of such events. It is a somber and intellectually demanding exploration of a dark chapter in human history.",
+        "spoiler_rich_plot_summary": "The documentary traces the origins of the Nazi Party from its inception following World War I, focusing on the disillusionment and economic instability that gripped Germany. It details the early struggles of Adolf Hitler and the party's attempts to gain traction through rallies, propaganda, and exploiting popular discontent. The series examines the party's gradual shift from a fringe movement to a significant political force, highlighting key moments such as the Beer Hall Putsch and the subsequent legal maneuvering that allowed Hitler to re-enter the political arena. The documentary then follows the party's strategic exploitation of the Great Depression, capitalizing on widespread unemployment and social unrest to gain support. It details the skillful use of propaganda and the manipulation of public opinion, culminating in Hitler's appointment as Chancellor in 1933. The series then explores the consolidation of Nazi power, the suppression of dissent, and the systematic dismantling of democratic institutions, ultimately leading to the outbreak of World War II and the horrors of the Holocaust.",
+        "categorized_keywords": {
+          "themes": [
+            "political-extremism",
+            "nationalism",
+            "propaganda",
+            "historical-analysis",
+            "social-unrest",
+            "economic-instability",
+            "authoritarianism",
+            "dehumanization"
+          ],
+          "plot_and_concepts": [
+            "rise-to-power",
+            "political-maneuvering",
+            "historical-context",
+            "propaganda-techniques",
+            "totalitarianism"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "serious",
+            "analytical",
+            "reflective"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "historical-drama",
+            "political-thriller"
+          ],
+          "setting": [
+            "germany",
+            "1920s",
+            "1930s",
+            "weimar-republic"
+          ],
+          "character_archetypes": [
+            "political-leader",
+            "ideologue",
+            "victim",
+            "opportunist"
+          ],
+          "narrative_style": [
+            "chronological-narrative",
+            "analytical-exposition"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "history-students"
+          ],
+          "detail_plot": [
+            "nazi-rallies",
+            "propaganda-posters",
+            "reichstag-building",
+            "swastika-symbol",
+            "concentration-camps"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "political-oppression",
+            "historical-trauma"
+          ]
+        },
+        "keyword_sentence": "The Rise of the Nazi Party is a somber documentary series that analyzes the historical context and political maneuvering that enabled the rise of a totalitarian regime in Germany, exploring themes of nationalism, propaganda, and the dangers of unchecked political extremism."
+      },
+      "duration_seconds": 63.435667514801025
+    }
+  }
+}

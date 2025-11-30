@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "That '90s Show",
+    "overview": "Hello, Wisconsin! It's 1995 and Leia Forman, daughter of Eric and Donna, is visiting her grandparents for the summer where she bonds with a new generation of Point Place kids under the watchful eye of Kitty and the stern glare of Red. Sex, drugs and rock 'n roll never dies, it just changes clothes.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2023,
+    "vote_count": 102
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "That '90s Show is a comedic continuation of the beloved '70s sitcom 'That '70s Show,' transporting viewers to 1995 and introducing a new generation of teenagers navigating adolescence in the same Wisconsin town. The series aims to recapture the nostalgic charm and family dynamics of its predecessor while updating the humor and cultural references for a modern audience. It explores themes of generational differences, familial bonds, and the challenges of growing up, all wrapped in a lighthearted and comedic package. The show relies heavily on callbacks and familiar faces, creating a sense of continuity and appealing to long-time fans while also offering a fresh perspective for new viewers.",
+        "spoiler_rich_plot_summary": "The series begins with Leia Forman, Eric and Donna’s daughter, spending the summer with her grandparents, Kitty and Red. Leia quickly befriends a group of teenagers in Point Place, including Gwen, Nate, Ozzie, and Nikki. The summer unfolds with typical teenage antics – awkward crushes, rebellious moments, and explorations of identity. Red's stern parenting style clashes with the more relaxed attitudes of the new generation, leading to humorous conflicts and lessons learned. Gwen, in particular, challenges Leia's worldview and encourages her to step outside her comfort zone. Throughout the season, Leia grapples with her parents' legacy and attempts to forge her own path, while the group of friends navigate the complexities of adolescence and first loves. The season culminates in a summer-ending celebration, leaving the audience anticipating the challenges and triumphs that await the characters in the future.",
+        "categorized_keywords": {
+          "themes": [
+            "generational-differences",
+            "family-bonds",
+            "coming-of-age",
+            "nostalgia",
+            "friendship",
+            "identity-quest"
+          ],
+          "plot_and_concepts": [
+            "sitcom",
+            "sequel",
+            "teen-comedy",
+            "small-town-life",
+            "rebellious-teenagers"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "humorous",
+            "nostalgic",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "teen-comedy",
+            "family-comedy",
+            "coming-of-age-story"
+          ],
+          "setting": [
+            "wisconsin",
+            "1990s",
+            "small-town-usa"
+          ],
+          "character_archetypes": [
+            "stern-parent",
+            "rebellious-teenager",
+            "wise-grandparent",
+            "awkward-teenager"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "grandparents-house",
+            "small-town-square",
+            "vintage-clothing",
+            "90s-music"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "That '90s Show is a lighthearted and nostalgic family comedy that follows a new generation of teenagers in a small Wisconsin town, exploring themes of friendship, identity, and generational differences while embracing the charm of the 1990s."
+      },
+      "duration_seconds": 67.74061465263367
+    }
+  }
+}

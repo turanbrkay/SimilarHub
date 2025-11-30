@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Manhunt",
+    "overview": "Inspired by actual events, this true crime anthology series takes a deep dive into the dark, twisted minds of terrorists and follows the brave souls who hunt them down.",
+    "genres": [
+      "Crime",
+      "Mystery"
+    ],
+    "release_year": 2017,
+    "vote_count": 364
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Manhunt is a true crime anthology series that explores the psychology of terrorists and the investigators tasked with pursuing them. Each season focuses on a different case, offering a detailed examination of the events leading up to a crime and the subsequent manhunt. The series blends procedural elements with psychological profiling, aiming to provide a nuanced understanding of both the perpetrators and the individuals dedicated to bringing them to justice. It offers a suspenseful and often unsettling viewing experience, delving into the complexities of human motivation and the consequences of extremist actions. The series aims to be a gripping exploration of real-world events, highlighting the dedication and risks involved in counter-terrorism efforts.",
+        "spoiler_rich_plot_summary": "The first season of Manhunt centers on the aftermath of the 1993 World Trade Center bombing and the subsequent search for Ramzi Yousef, the mastermind behind the attack. The series meticulously details the investigation, showcasing the FBI's efforts to track down Yousef and his accomplices, while also delving into the backgrounds and motivations of the perpetrators. The investigation spans multiple countries and involves a complex web of informants and undercover operations. The season culminates in Yousef's capture and subsequent trial, revealing the extensive planning and resources required to execute such a devastating act of terrorism. Subsequent seasons, each focusing on a different case, follow a similar structure, exploring the events leading up to a terrorist act, the ensuing manhunt, and the eventual apprehension of those responsible, always emphasizing the human cost and the intricate details of the investigations.",
+        "categorized_keywords": {
+          "themes": [
+            "terrorism",
+            "justice",
+            "investigation",
+            "psychological-profile",
+            "human-cost",
+            "political-extremism"
+          ],
+          "plot_and_concepts": [
+            "true-crime",
+            "manhunt",
+            "anthology-series",
+            "undercover-operation",
+            "international-crime"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "serious",
+            "intense"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "true-crime",
+            "political-thriller"
+          ],
+          "setting": [
+            "new-york-city",
+            "international"
+          ],
+          "character_archetypes": [
+            "investigator",
+            "terrorist",
+            "informant"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "anthology"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "fbi-investigation",
+            "surveillance-footage",
+            "interrogation-room",
+            "bomb-making"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "political-tension"
+          ]
+        },
+        "keyword_sentence": "Manhunt is a dark and suspenseful true-crime anthology series that explores the intense investigations and political extremism surrounding acts of terrorism, offering a serious look at the human cost and complex motivations behind these events."
+      },
+      "duration_seconds": 57.23958730697632
+    }
+  }
+}

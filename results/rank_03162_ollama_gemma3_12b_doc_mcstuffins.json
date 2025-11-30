@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Doc McStuffins",
+    "overview": "A young African-American girl aspires to be a doctor like her mom.",
+    "genres": [
+      "Animation",
+      "Kids",
+      "Family"
+    ],
+    "release_year": 2012,
+    "vote_count": 43
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Doc McStuffins is a charming animated series geared towards young children, centered around a budding young doctor who fixes broken toys. The show blends imaginative play with gentle lessons about caring for others, problem-solving, and embracing a nurturing role. It fosters empathy and encourages children to explore their own potential for kindness and healing, presented in a bright, colorful, and accessible format. The series promotes positive values and offers a comforting and reassuring viewing experience for preschoolers.",
+        "spoiler_rich_plot_summary": "The series follows Dottie 'Doc' McStuffins, a young girl who runs a clinic for her toys. Each episode typically begins with a toy arriving at Doc's clinic, exhibiting a malfunction or ailment. Doc, with the help of her toy friends – Stuffy, Lambie, Hallie, and Chunyep – diagnoses the problem and then 'fixes' it through a playful and imaginative process. These 'repairs' often involve singing, dancing, and explaining the toy's function in a way that children can understand. While the show doesn't have a grand overarching narrative, recurring themes involve learning about different professions, understanding emotions, and the importance of friendship. The toys themselves remain constant companions, and the clinic serves as a safe and comforting space for both Doc and her patients. The series concludes with Doc reinforcing the importance of caring for others and celebrating the joy of helping.",
+        "categorized_keywords": {
+          "themes": [
+            "healing",
+            "friendship",
+            "empathy",
+            "caring",
+            "problem-solving",
+            "imagination",
+            "nurturing"
+          ],
+          "plot_and_concepts": [
+            "toy-repair",
+            "clinic-setting",
+            "role-playing",
+            "medical-play"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "optimistic",
+            "gentle",
+            "playful"
+          ],
+          "genre_and_tropes": [
+            "childrens-animation",
+            "educational-tv",
+            "found-family"
+          ],
+          "setting": [
+            "domestic-setting",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "aspiring-doctor",
+            "loyal-friend",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "monster-of-the-week"
+          ],
+          "target_audience": [
+            "preschoolers",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "toy-clinic",
+            "medical-kit",
+            "stuffy-bear",
+            "lambie-sheep"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Doc McStuffins is a gentle and optimistic children's animation that fosters empathy and imagination through the playful world of a young girl and her toy patients in a comforting clinic setting."
+      },
+      "duration_seconds": 56.64521145820618
+    }
+  }
+}

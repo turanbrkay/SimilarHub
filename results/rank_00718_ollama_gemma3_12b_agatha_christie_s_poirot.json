@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Agatha Christie's Poirot",
+    "overview": "From England to Egypt, accompanied by his elegant and trustworthy sidekicks, the intelligent yet eccentrically-refined Belgian detective Hercule Poirot pits his wits against a collection of first class deceptions.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 1989,
+    "vote_count": 392
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Agatha Christie's Poirot is a meticulously crafted television series adapting the celebrated detective novels of Agatha Christie. The show excels in recreating the atmosphere of the interwar period, blending classic mystery with a touch of elegance and humor. Hercule Poirot, with his distinctive mannerisms and 'little grey cells,' investigates a range of complex crimes, often within lavish settings and among a cast of suspicious characters. The series offers a satisfying blend of intellectual puzzle-solving and character-driven drama, appealing to fans of classic mysteries and period pieces.",
+        "spoiler_rich_plot_summary": "The series follows the investigations of Hercule Poirot, beginning with 'The Mysterious Affair at Styles' and continuing through numerous adaptations of Christie's novels. Poirot's methods involve careful observation, psychological profiling, and a relentless pursuit of logic, often uncovering hidden motives and unexpected connections among suspects. Early cases establish Poirot's reputation and introduce his loyal companion, Captain Hastings, and his insightful friend, Miss Lemon. As the series progresses, Poirot confronts increasingly elaborate schemes, often involving blackmail, inheritance disputes, and international intrigue. He travels extensively, from the English countryside to the exotic locales of Egypt and the Middle East, encountering a diverse range of individuals and navigating complex social dynamics. While Poirot consistently solves the crimes, the cases often reveal the darker side of human nature and the fragility of appearances. The series maintains a consistent narrative structure, with each episode presenting a self-contained mystery that showcases Poirot's deductive brilliance, while also developing the recurring characters and exploring broader themes of justice and morality.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "deception",
+            "morality",
+            "class-conflict",
+            "human-nature",
+            "order-vs-chaos"
+          ],
+          "plot_and_concepts": [
+            "locked-room-mystery",
+            "whodunit",
+            "detective-fiction",
+            "red-herring",
+            "false-witness",
+            "inheritance-dispute"
+          ],
+          "mood_and_tone": [
+            "elegant",
+            "atmospheric",
+            "intellectual",
+            "suspenseful",
+            "period-drama"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "detective-fiction",
+            "golden-age-mystery",
+            "period-piece"
+          ],
+          "setting": [
+            "england",
+            "1920s",
+            "egypt",
+            "middle-east",
+            "aristocracy"
+          ],
+          "character_archetypes": [
+            "eccentric-detective",
+            "loyal-companion",
+            "aristocrat",
+            "suspect"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "mystery-fans"
+          ],
+          "detail_plot": [
+            "mustache",
+            "little-grey-cells",
+            "aristocratic-mansion",
+            "train-carriage",
+            "vintage-clothing"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Agatha Christie's Poirot is an elegant and atmospheric period drama that follows a brilliant, eccentric detective as he unravels complex mysteries of deception and morality within the world of British aristocracy."
+      },
+      "duration_seconds": 61.381638526916504
+    }
+  }
+}

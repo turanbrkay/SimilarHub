@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "Life",
+    "overview": "David Attenborough looks at the extraordinary ends to which animals and plants go in order to survive. Featuring epic spectacles, amazing TV firsts and examples of new wildlife behaviour.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2009,
+    "vote_count": 308
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Life is a nature documentary series that explores the remarkable strategies animals and plants employ to survive. Narrated by David Attenborough, the series showcases a wide range of environments and behaviors, often revealing previously unseen aspects of the natural world. It blends stunning visuals with scientific insights, offering a compelling look at the challenges and triumphs of life on Earth. The series emphasizes the constant struggle for survival and the incredible adaptations that allow species to thrive. Ultimately, it aims to inspire awe and appreciation for the complexity and fragility of the planet's ecosystems.",
+        "spoiler_rich_plot_summary": "The series unfolds as a chronological exploration of the natural world, beginning with the challenges of reproduction and continuing through the various stages of life. Each episode focuses on specific environments, such as rainforests, oceans, and deserts, highlighting the unique survival tactics employed by the inhabitants. Viewers witness dramatic hunts, fierce territorial battles, and ingenious methods for finding food and shelter. The series demonstrates the constant interplay between predator and prey, and the delicate balance of ecosystems. Throughout the series, Attenborough’s narration provides context and insight into the scientific principles at play, revealing the remarkable resilience and adaptability of life in the face of adversity. The overarching narrative emphasizes the interconnectedness of all living things and the importance of conservation efforts to protect these fragile environments.",
+        "categorized_keywords": {
+          "themes": [
+            "survival",
+            "adaptation",
+            "ecosystems",
+            "conservation",
+            "natural-world",
+            "predator-prey"
+          ],
+          "plot_and_concepts": [
+            "documentary-format",
+            "wildlife-behavior",
+            "scientific-exploration",
+            "chronological-narrative"
+          ],
+          "mood_and_tone": [
+            "awe-inspiring",
+            "informative",
+            "observational",
+            "educational"
+          ],
+          "genre_and_tropes": [
+            "nature-documentary",
+            "wildlife-photography"
+          ],
+          "setting": [
+            "rainforests",
+            "oceans",
+            "deserts",
+            "natural-habitats",
+            "earth"
+          ],
+          "character_archetypes": [
+            "naturalist",
+            "narrator"
+          ],
+          "narrative_style": [
+            "serialized-story"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "animal-migration",
+            "hunting-techniques",
+            "territorial-battles",
+            "natural-habitats"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Life is an awe-inspiring nature documentary series that explores the remarkable survival strategies of animals and plants across diverse ecosystems, narrated by David Attenborough and emphasizing the importance of conservation."
+      },
+      "duration_seconds": 52.710845947265625
+    }
+  }
+}

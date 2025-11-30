@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "Yellowstone",
+    "overview": "Follow the violent world of the Dutton family, who controls the largest contiguous ranch in the United States. Led by their patriarch John Dutton, the family defends their property against constant attack by land developers, an Indian reservation, and America’s first National Park.",
+    "genres": [
+      "Western",
+      "Drama"
+    ],
+    "release_year": 2018,
+    "vote_count": 1768
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Yellowstone is a sprawling Western drama centered on the Dutton family's fight to protect their vast ranch from encroaching development, Native American claims, and the National Park Service. The series blends elements of family saga, political thriller, and crime drama, exploring themes of land ownership, legacy, and the clash between tradition and progress. Its tone is often gritty and morally ambiguous, showcasing the lengths to which the Duttons will go to maintain their power and way of life. The show offers a compelling look at the complexities of rural America and the enduring power of family bonds, even amidst conflict and violence.",
+        "spoiler_rich_plot_summary": "The series begins with John Dutton, the aging patriarch of the Yellowstone Ranch, facing mounting pressure from all sides. Land developers seek to expand into the ranch's territory, the nearby Broken Rock Reservation asserts ancestral claims, and the National Park Service aims to increase park boundaries, all threatening the Duttons' control. John's children – Kayce, Beth, and Jamie – each grapple with their own personal struggles and conflicting loyalties, often complicating the family's efforts to maintain their dominance. Kayce, a former Navy SEAL, struggles to reconcile his military past with his family's ranching life, while Beth, a ruthless businesswoman, acts as John's enforcer, fiercely protecting the family's interests. Jamie, an ambitious lawyer, navigates the treacherous world of politics, often caught between his family's desires and his own aspirations. As the seasons progress, alliances shift, betrayals surface, and the Duttons engage in increasingly desperate measures to secure their legacy, leading to escalating conflicts and profound consequences for all involved. The series culminates in a tense standoff, with the Duttons' future hanging in the balance as they fight to retain control of the Yellowstone Ranch.",
+        "categorized_keywords": {
+          "themes": [
+            "family-legacy",
+            "land-ownership",
+            "power-struggle",
+            "rural-america",
+            "generational-conflict",
+            "environmental-conservation"
+          ],
+          "plot_and_concepts": [
+            "ranching-life",
+            "political-intrigue",
+            "crime-drama",
+            "western-genre",
+            "land-disputes",
+            "native-american-claims"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "morally-ambiguous",
+            "tense",
+            "violent",
+            "melancholy"
+          ],
+          "genre_and_tropes": [
+            "western",
+            "family-saga",
+            "crime-procedural",
+            "political-thriller"
+          ],
+          "setting": [
+            "montana",
+            "yellowstone-ranch",
+            "rural-america",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "patriarch",
+            "ruthless-businesswoman",
+            "former-military",
+            "ambitious-lawyer"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "cattle-brand",
+            "horses",
+            "sheriffs-hat",
+            "ranch-house",
+            "helicopter"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "substance-abuse",
+            "strong-language"
+          ]
+        },
+        "keyword_sentence": "Yellowstone is a gritty and morally ambiguous Western drama exploring themes of family legacy and power struggles amidst the vast landscapes of rural America, where a powerful family fights to protect their ranching life and way of life."
+      },
+      "duration_seconds": 77.18853974342346
+    }
+  }
+}

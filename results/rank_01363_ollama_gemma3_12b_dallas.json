@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Dallas",
+    "overview": "The world's first mega-soap, and one of the most popular ever produced, Dallas had it all. Beautiful women, expensive cars, and men playing Monopoly with real buildings. Famous for one of the best cliffhangers in TV history, as the world asked \"Who shot J.R.?\" A slow-burner to begin with, Dallas hit its stride in the 2nd season, with long storylines and expert character development. Dallas ruled the airwaves in the 1980's.",
+    "genres": [
+      "Soap",
+      "Drama"
+    ],
+    "release_year": 1978,
+    "vote_count": 170
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Dallas is a long-running American soap opera centered on the wealthy Ewing family and their oil empire in Dallas, Texas. The series explores themes of ambition, betrayal, and family loyalty within a backdrop of corporate intrigue and lavish lifestyles. Known for its dramatic plot twists and iconic cliffhangers, particularly the infamous 'Who shot J.R.?' storyline, Dallas captivated audiences throughout the 1980s and beyond, establishing a benchmark for the genre. The show's focus on power struggles and complex relationships creates a compelling, if sometimes melodramatic, viewing experience.",
+        "spoiler_rich_plot_summary": "Dallas initially introduces viewers to the Ewing family, led by patriarch J.R. Ewing, a ruthless and ambitious businessman. The early seasons establish the family dynamics, showcasing the rivalry between J.R. and his brother, Bobby, and the struggles of J.R.'s ex-wife, Victoria. As the series progresses, the focus shifts to J.R.'s increasingly questionable business practices and personal relationships, leading to numerous betrayals and schemes. The 'Who shot J.R.?' storyline in the mid-1980s becomes a cultural phenomenon, with multiple characters harboring motives to harm him. J.R. survives, and the series continues to explore the fallout from the shooting and the ongoing power struggles within the Ewing family. Later seasons introduce new characters and storylines, including J.R.'s children and their own ambitions, further complicating the family dynamics and business dealings. The series concludes with a resolution to the ongoing conflicts, leaving the Ewing family's future uncertain but their legacy firmly established.",
+        "categorized_keywords": {
+          "themes": [
+            "family-loyalty",
+            "greed",
+            "betrayal",
+            "power",
+            "revenge",
+            "ambition",
+            "legacy"
+          ],
+          "plot_and_concepts": [
+            "corporate-intrigue",
+            "oil-boom",
+            "cliffhanger",
+            "business-rivalry",
+            "soap-opera-drama"
+          ],
+          "mood_and_tone": [
+            "melodramatic",
+            "glamorous",
+            "tense",
+            "scheming"
+          ],
+          "genre_and_tropes": [
+            "soap-opera",
+            "family-drama",
+            "wealthy-families",
+            "power-struggle"
+          ],
+          "setting": [
+            "dallas-texas",
+            "1980s",
+            "modern-day",
+            "texas-oil-fields"
+          ],
+          "character_archetypes": [
+            "ruthless-businessman",
+            "patriarch",
+            "scheming-villain",
+            "family-rivals"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "long-running-series"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "ewing-ranch",
+            "oil-well",
+            "luxury-cars",
+            "power-suits",
+            "boardroom"
+          ],
+          "maturity_and_content": [
+            "affair",
+            "corporate-corruption"
+          ]
+        },
+        "keyword_sentence": "Dallas is a long-running soap opera exploring themes of family loyalty and corporate intrigue within the glamorous world of a wealthy Texas family, known for its dramatic power struggles and iconic cliffhangers."
+      },
+      "duration_seconds": 67.85742402076721
+    }
+  }
+}

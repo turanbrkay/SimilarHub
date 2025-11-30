@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "The Resident",
+    "overview": "A tough, brilliant senior resident guides an idealistic young doctor through his first day, pulling back the curtain on what really happens, both good and bad, in modern-day medicine.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2018,
+    "vote_count": 1152
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Resident is a medical drama that offers a cynical and realistic portrayal of the healthcare system. The series follows a seasoned, jaded senior resident who mentors a naive young doctor, exposing him to the harsh realities and ethical compromises often encountered in modern medicine. It blends procedural elements with character-driven narratives, exploring themes of ambition, morality, and the human cost of providing care. The show aims to be both entertaining and thought-provoking, offering a critical look at the challenges faced by medical professionals.",
+        "spoiler_rich_plot_summary": "The series begins with Devon Praetorius, a cynical and highly skilled senior resident, reluctantly mentoring Miles Corbett-Wallace, an idealistic and eager young doctor. Miles quickly discovers that the hospital is rife with bureaucratic red tape, financial pressures, and ethical shortcuts. He witnesses firsthand how patient care is often secondary to profit margins and the ambitions of hospital administrators. Throughout the seasons, Miles grapples with the moral implications of his work, often clashing with Devon's pragmatic approach. The series explores the personal lives of the doctors, revealing their own struggles and vulnerabilities. Relationships form and dissolve amidst the demanding environment, and characters face professional setbacks and personal tragedies. Recurring storylines involve hospital politics, medical malpractice, and the impact of systemic issues on patient outcomes. While Miles attempts to maintain his idealism, he is gradually forced to confront the compromises necessary to navigate the complex world of modern medicine, ultimately blurring the lines between right and wrong.",
+        "categorized_keywords": {
+          "themes": [
+            "medical-ethics",
+            "ambition",
+            "idealism",
+            "corruption",
+            "patient-care",
+            "moral-compromise",
+            "professional-burnout"
+          ],
+          "plot_and_concepts": [
+            "medical-procedural",
+            "mentor-student-relationship",
+            "hospital-politics",
+            "medical-malpractice",
+            "patient-advocacy"
+          ],
+          "mood_and_tone": [
+            "cynical",
+            "realistic",
+            "tense",
+            "dramatic",
+            "somber"
+          ],
+          "genre_and_tropes": [
+            "medical-drama",
+            "procedural-drama",
+            "found-family",
+            "slow-burn-romance"
+          ],
+          "setting": [
+            "modern-day",
+            "hospital-setting",
+            "atlanta-georgia"
+          ],
+          "character_archetypes": [
+            "cynical-mentor",
+            "idealistic-protagonist",
+            "ambitious-administrator",
+            "compassionate-doctor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "operating-room",
+            "patient-charts",
+            "icu-unit",
+            "hospital-lobby"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "medical-procedures"
+          ]
+        },
+        "keyword_sentence": "The Resident is a dramatic medical series that explores the complex realities of modern healthcare through the cynical mentorship of a seasoned doctor and the idealism of a young protégé, revealing the ethical compromises and systemic challenges within a bustling hospital environment."
+      },
+      "duration_seconds": 63.763983964920044
+    }
+  }
+}

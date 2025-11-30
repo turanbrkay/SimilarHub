@@ -1,0 +1,86 @@
+{
+  "input_data": {
+    "title": "Steven Universe",
+    "overview": "A young boy takes his mother's place in a group of gemstone-based beings, and must learn to control his powers.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Action & Adventure",
+      "Family",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2013,
+    "vote_count": 1051
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Steven Universe is a coming-of-age animated series that blends comedic elements with heartfelt explorations of family, identity, and responsibility. The show follows a young boy, Steven, who is half-human and half-Gem, a race of magical beings. As he grows, he must learn to control his powers and navigate the complexities of his unique heritage while protecting Earth alongside the Crystal Gems. The series is notable for its nuanced character development, its exploration of complex themes like trauma and forgiveness, and its innovative musical style.",
+        "spoiler_rich_plot_summary": "The series begins with Steven living with the Crystal Gems – Garnet, Amethyst, and Pearl – who are tasked with protecting Earth from threats. As Steven matures, he discovers more about his mother's legacy as Rose Quartz and the history of the Gem Homeworld, uncovering a deep conflict between the Crystal Gems and the Gem Empire. Steven's powers grow, and he begins to understand the immense responsibility that comes with them, often confronting difficult truths about his family and the sacrifices made to protect Earth. Throughout the series, Steven grapples with his identity, learning to reconcile his human and Gem sides. He confronts the consequences of Rose Quartz's actions and the pain she caused, ultimately striving to heal the wounds of the past and forge a more peaceful future for both humans and Gems. The series culminates in a confrontation with powerful Gem forces, where Steven must embrace his full potential and make difficult choices to save everyone he cares about, leading to a resolution that emphasizes unity and understanding.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "identity-quest",
+            "responsibility",
+            "healing",
+            "redemption",
+            "sacrifice",
+            "acceptance",
+            "found-family"
+          ],
+          "plot_and_concepts": [
+            "magical-powers",
+            "alternate-dimensions",
+            "ancient-history",
+            "war-and-peace",
+            "coming-of-age",
+            "gem-homeworld"
+          ],
+          "mood_and_tone": [
+            "heartwarming",
+            "optimistic",
+            "emotional",
+            "wholesome",
+            "hopeful"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "coming-of-age",
+            "magical-realism",
+            "superhero-action",
+            "musical-comedy"
+          ],
+          "setting": [
+            "earth",
+            "beach-city",
+            "gem-homeworld"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "protector",
+            "reformed-villain"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "gem-fusion",
+            "crystal-gem",
+            "rose-quartz",
+            "Steven's-shield",
+            "beach-house"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Steven Universe is a heartwarming animated series that explores themes of family, identity, and responsibility through the journey of a young boy learning to control his magical powers and protect Earth alongside a group of Gemstone beings."
+      },
+      "duration_seconds": 62.09461522102356
+    }
+  }
+}

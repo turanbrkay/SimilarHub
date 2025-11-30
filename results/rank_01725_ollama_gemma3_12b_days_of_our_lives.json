@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Days of Our Lives",
+    "overview": "The Horton and Brady broods endure the romantic trials of life in Salem, a Midwestern hamlet filled with evil geniuses, star-crossed lovers and a rich family history.",
+    "genres": [
+      "Soap",
+      "Drama"
+    ],
+    "release_year": 1965,
+    "vote_count": 120
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Days of Our Lives is a long-running American soap opera centered on the interconnected lives of several families in the fictional town of Salem. The series explores complex relationships, romantic entanglements, and dramatic conflicts, often involving secrets, betrayals, and unexpected twists. Known for its multigenerational storylines and recurring characters, the show offers a blend of melodrama, romance, and occasional mystery, appealing to viewers interested in ongoing, character-driven narratives and the exploration of family dynamics.",
+        "spoiler_rich_plot_summary": "The series initially focuses on the Horton and Brady families, charting their personal and professional lives. Early storylines involve romantic rivalries, business dealings, and the introduction of key characters who become central figures throughout the show's history. As the years progress, the show expands its scope, introducing new families and storylines that often involve amnesia, mistaken identities, and dramatic reveals about characters' pasts. Recurring plot devices include characters returning from presumed deaths, long-lost relatives appearing, and elaborate schemes involving characters vying for power and influence. Over decades, the show has explored numerous romantic relationships, marriages, and divorces, often with unexpected consequences. While the core families remain central, the show has consistently reinvented itself with new generations of characters and storylines, ensuring its longevity and appeal to a broad audience. The series has also incorporated elements of mystery and suspense, with occasional storylines involving criminal activity and investigations.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "romantic-relationships",
+            "secrets-and-lies",
+            "redemption",
+            "betrayal",
+            "generational-conflicts"
+          ],
+          "plot_and_concepts": [
+            "amnesia",
+            "mistaken-identity",
+            "long-lost-relatives",
+            "revenge-plot",
+            "soap-opera-tropes"
+          ],
+          "mood_and_tone": [
+            "melodramatic",
+            "romantic",
+            "suspenseful",
+            "emotional"
+          ],
+          "genre_and_tropes": [
+            "soap-opera",
+            "drama",
+            "romantic-drama",
+            "generational-saga"
+          ],
+          "setting": [
+            "small-town-usa",
+            "modern-day",
+            "fictional-town"
+          ],
+          "character_archetypes": [
+            "matriarch",
+            "patriarch",
+            "villain",
+            "hero",
+            "romantic-lead"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "generational-narrative",
+            "ongoing-storylines"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "family-manor",
+            "hospital-setting",
+            "town-square",
+            "recurring-characters"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Days of Our Lives is a long-running soap opera drama exploring the complex romantic and familial relationships of several generations within a small town, filled with secrets, betrayals, and recurring characters."
+      },
+      "duration_seconds": 64.34824275970459
+    }
+  }
+}

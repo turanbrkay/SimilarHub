@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "The Exorcist",
+    "overview": "Follow the lives of two very different priests tackling one family’s case of terrifying demonic possession.",
+    "genres": [
+      "Mystery",
+      "Drama"
+    ],
+    "release_year": 2016,
+    "vote_count": 637
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Exorcist (2016) is a horror drama series that serves as a direct sequel to the original 1973 film. It explores themes of faith, family, and the battle against unimaginable evil, following two priests grappling with a disturbing case of demonic possession. The series blends psychological horror with supernatural elements, creating a suspenseful and unsettling atmosphere. It delves into the personal struggles of its characters as they confront the darkness within themselves and the world around them, offering a complex and emotionally charged narrative.",
+        "spoiler_rich_plot_summary": "The series begins with Father Tomas Garras, a Venezuelan priest haunted by a past exorcism gone wrong, and Father Marcus Brennan, a newly ordained priest with a mysterious past, investigating a series of disturbing events in Chicago. The investigation leads them to the Rance family, whose young daughter, Angela, exhibits increasingly bizarre and terrifying behavior, ultimately revealing her to be possessed by a powerful demon named Pazuzu. As the priests attempt to exorcise Angela, they uncover a larger conspiracy involving a cult dedicated to Pazuzu and a lineage of possession stretching back centuries. Father Tomas's past trauma resurfaces, complicating the exorcism and threatening his faith. Father Marcus's own secrets are gradually revealed, connecting him to the demonic forces at play. The series culminates in a confrontation with Pazuzu, testing the priests' faith and pushing them to their limits, with significant consequences for the Rance family and the priests themselves.",
+        "categorized_keywords": {
+          "themes": [
+            "faith-and-doubt",
+            "family-dynamics",
+            "good-vs-evil",
+            "redemption",
+            "loss-and-grief",
+            "demonology"
+          ],
+          "plot_and_concepts": [
+            "demonic-possession",
+            "exorcism",
+            "cult-activity",
+            "generational-curse",
+            "supernatural-horror"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "suspenseful",
+            "creepy",
+            "disturbing",
+            "intense"
+          ],
+          "genre_and_tropes": [
+            "horror",
+            "supernatural",
+            "drama",
+            "mystery",
+            "religious-horror"
+          ],
+          "setting": [
+            "chicago-city",
+            "modern-day",
+            "religious-institution"
+          ],
+          "character_archetypes": [
+            "troubled-priest",
+            "reluctant-hero",
+            "possessed-child",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "mystery-driven"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "exorcism-ritual",
+            "possessed-child",
+            "religious-symbols",
+            "demon-manifestations"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "disturbing-imagery",
+            "religious-themes"
+          ]
+        },
+        "keyword_sentence": "The Exorcist is a dark and suspenseful horror drama series exploring themes of faith and family as two priests confront a terrifying case of demonic possession in modern-day Chicago."
+      },
+      "duration_seconds": 59.19536113739014
+    }
+  }
+}

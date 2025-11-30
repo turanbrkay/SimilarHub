@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "The Book of Boba Fett",
+    "overview": "Legendary bounty hunter Boba Fett and mercenary Fennec Shand must navigate the galaxy’s underworld when they return to the sands of Tatooine to stake their claim on the territory once ruled by Jabba the Hutt and his crime syndicate.",
+    "genres": [
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2021,
+    "vote_count": 2223
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Book of Boba Fett is a Star Wars spin-off series that explores the character's transition from bounty hunter to crime lord on Tatooine. The series blends elements of a crime drama with the established science-fantasy world, focusing on Boba Fett's attempts to establish order and respect within the criminal underworld, often clashing with established power structures and facing challenges from rival factions. It examines themes of redemption, legacy, and the complexities of power, offering a gritty and morally ambiguous perspective within the broader Star Wars narrative. The series features action-packed sequences and expands upon the lore of Tatooine and its inhabitants.",
+        "spoiler_rich_plot_summary": "Following his escape from the Sarlacc pit, Boba Fett, along with Fennec Shand, arrives on Tatooine with the intention of taking over Jabba the Hutt’s criminal empire. Initially, they attempt to rule through negotiation and offering aid to the people, but quickly find themselves facing resistance from various factions vying for control. They encounter challenges from the Pyke Syndicate, a ruthless drug cartel, and must forge alliances with other groups, including the Tusken Raiders, to survive. Boba’s journey involves learning the ways of the Tusken Raiders, gaining their respect, and ultimately integrating their fighting techniques into his own. The series explores the complexities of leadership and the difficult choices required to maintain power in a lawless environment. The narrative culminates in a large-scale conflict where Boba and Fennec must defend their territory and solidify their position as rulers of Tatooine, facing significant losses and ultimately demonstrating a commitment to a more just and equitable rule.",
+        "categorized_keywords": {
+          "themes": [
+            "redemption",
+            "legacy",
+            "power",
+            "justice",
+            "crime-and-punishment",
+            "leadership",
+            "cultural-identity"
+          ],
+          "plot_and_concepts": [
+            "crime-drama",
+            "gang-war",
+            "underworld",
+            "power-struggle",
+            "found-family",
+            "mentor-student"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "dark",
+            "action-packed",
+            "serious",
+            "somber"
+          ],
+          "genre_and_tropes": [
+            "science-fantasy",
+            "western",
+            "crime-procedural",
+            "anti-hero"
+          ],
+          "setting": [
+            "tatooine",
+            "desert-planet",
+            "space-western",
+            "star-wars-universe"
+          ],
+          "character_archetypes": [
+            "crime-lord",
+            "mercenary",
+            "mentor",
+            "protector"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "sarlacc-pit",
+            "tusken-raider-armor",
+            "jabba-palace",
+            "boba-fett-helmet",
+            "fett-speeder"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "drug-use"
+          ]
+        },
+        "keyword_sentence": "Set on the desert planet Tatooine within the Star Wars universe, The Book of Boba Fett explores themes of redemption and power through a gritty crime drama, following a former bounty hunter’s journey to become a reluctant crime lord."
+      },
+      "duration_seconds": 72.87711358070374
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "input_data": {
+    "title": "Beyond Stranger Things",
+    "overview": "Secrets from the \"Stranger Things 2\" universe are revealed as cast and guests discuss the latest episodes with host Jim Rash. Caution: spoilers ahead!",
+    "genres": [
+      "Talk"
+    ],
+    "release_year": 2017,
+    "vote_count": 92
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Beyond Stranger Things is a talk show offering behind-the-scenes insights and discussions about the popular Stranger Things series. Hosted by Jim Rash, the show delves into the creative process, character development, and narrative complexities of the show, providing fans with a deeper understanding of the universe and its creators. It's a conversational format, relying on cast interviews and commentary to explore the show's themes and appeal. The show caters to a dedicated fanbase seeking more than just the on-screen experience, offering a more intimate look at the production and storytelling behind the series.",
+        "spoiler_rich_plot_summary": "Beyond Stranger Things primarily functions as a post-episode discussion and analysis show, meaning its narrative arc is tied directly to the unfolding events of Stranger Things. Each episode features cast members and creators dissecting the latest developments, revealing insights into character motivations, plot twists, and the overall direction of the story. Discussions often revolve around the mysteries of the Upside Down, the government experiments, and the evolving relationships between the core group of characters. While the show doesn't present a new narrative itself, it unpacks and expands upon the existing plot, offering explanations and foreshadowing that enrich the viewing experience for dedicated fans. The show's progression mirrors the unfolding mysteries of Stranger Things, with each episode providing new layers of understanding and speculation about the overarching narrative.",
+        "categorized_keywords": {
+          "themes": [
+            "fan-community",
+            "behind-the-scenes",
+            "creative-process",
+            "mystery",
+            "nostalgia"
+          ],
+          "plot_and_concepts": [
+            "post-episode-discussion",
+            "cast-interviews",
+            "narrative-analysis"
+          ],
+          "mood_and_tone": [
+            "conversational",
+            "insightful",
+            "enthusiastic"
+          ],
+          "genre_and_tropes": [
+            "talk-show",
+            "behind-the-scenes-content"
+          ],
+          "setting": [
+            "television-studio",
+            "upside-down-universe"
+          ],
+          "character_archetypes": [
+            "host",
+            "actor",
+            "creator"
+          ],
+          "narrative_style": [
+            "episodic",
+            "discussion-based"
+          ],
+          "target_audience": [
+            "fans",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "jim-rash",
+            "upside-down-set",
+            "episode-analysis"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Beyond Stranger Things offers fans an insightful and enthusiastic look behind the scenes of the popular series, exploring the creative process and unraveling the mysteries of the Upside Down through cast interviews and episode analysis."
+      },
+      "duration_seconds": 55.757752656936646
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Explained",
+    "overview": "This documentary series, made in partnership with Vox, explain some of the world's current trends, from politics, to science to pop culture.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2018,
+    "vote_count": 89
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Explained is a documentary series that utilizes animation and expert interviews to explore a wide range of complex topics, from economics and technology to psychology and culture. The series aims to demystify these subjects, making them accessible to a broad audience through clear explanations and engaging visuals. Its format emphasizes concise storytelling and a focus on underlying causes and consequences, offering a unique blend of education and entertainment. The series' approachable style and diverse subject matter have made it a popular choice for those seeking to understand the world around them.",
+        "spoiler_rich_plot_summary": "Each episode of Explained tackles a distinct subject, presenting a narrative arc that typically begins with an introduction to the phenomenon or issue. The series then delves into its historical context, scientific principles, or social implications, often featuring interviews with leading experts in the field. The narrative progresses by examining the various factors that contribute to the issue, exploring its impact on individuals and society, and occasionally offering potential solutions or future scenarios. While the series doesn't follow a traditional plot, each episode builds a comprehensive understanding of its subject, culminating in a clear and concise explanation of its significance. The series consistently avoids sensationalism, instead opting for a balanced and informative approach to complex topics, and often reveals surprising connections between seemingly disparate areas of knowledge.",
+        "categorized_keywords": {
+          "themes": [
+            "knowledge-sharing",
+            "global-issues",
+            "scientific-explanation",
+            "cultural-analysis",
+            "social-impact"
+          ],
+          "plot_and_concepts": [
+            "documentary-format",
+            "animated-explanation",
+            "expert-interviews",
+            "cause-and-effect",
+            "investigative-journalism"
+          ],
+          "mood_and_tone": [
+            "informative",
+            "analytical",
+            "thought-provoking",
+            "accessible",
+            "neutral"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "educational-content",
+            "non-fiction",
+            "explanatory-journalism"
+          ],
+          "setting": [
+            "global",
+            "modern-era"
+          ],
+          "character_archetypes": [
+            "expert-witness",
+            "knowledge-bearer"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "general-audience"
+          ],
+          "detail_plot": [
+            "animated-graphics",
+            "data-visualization",
+            "talking-head-interview",
+            "map-overlays"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Explained is an accessible documentary series that uses animated graphics and expert interviews to explore a wide range of global issues, offering a thought-provoking and informative look at the world around us."
+      },
+      "duration_seconds": 59.0454740524292
+    }
+  }
+}

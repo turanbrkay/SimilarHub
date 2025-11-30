@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Salem's Lot",
+    "overview": "Ben Mears has returned to his hometown to write a book about the supposedly haunted Marsten House. When people around the Marsten House start dying mysteriously, Mears discovers that the owner of the mansion is actually a vampire who is turning them into an army of undead slaves.",
+    "genres": [
+      "Mystery"
+    ],
+    "release_year": 1979,
+    "vote_count": 400
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Salem's Lot is a chilling adaptation of Stephen King's novel, blending horror and mystery within a small-town setting. The series explores themes of community, faith, and the insidious nature of evil as a seemingly ordinary town is gradually consumed by a vampire's influence. It establishes a pervasive atmosphere of dread and paranoia, relying on suspense and psychological horror rather than excessive gore. The narrative follows a writer's return to his hometown, uncovering a dark secret that threatens to destroy everything he holds dear, examining the fragility of human connection in the face of supernatural terror.",
+        "spoiler_rich_plot_summary": "The story begins with Ben Mears returning to his childhood home of Jerusalem's Lot, Maine, intending to confront his past and write about the infamous Marsten House. As he settles in, a series of unsettling events begin to plague the town: people disappear, livestock die mysteriously, and a sinister antique dealer, Kurt Barlow, arrives and establishes himself in the Marsten House. Ben, along with a local schoolteacher, Matt Coulson, begin to suspect that something supernatural is at play. They uncover a history of dark events tied to the house and realize that Barlow is a powerful vampire who is systematically turning the townspeople into undead creatures. The vampire’s influence spreads, creating a growing army of the undead that terrorizes the community. Ben and Matt, along with a few other brave residents, must confront Barlow and his growing legion to save Jerusalem's Lot, facing immense danger and personal loss as they fight to restore the town to its former state. The final confrontation involves a desperate attempt to destroy Barlow and his creatures, leaving the town forever scarred by the events.",
+        "categorized_keywords": {
+          "themes": [
+            "good-vs-evil",
+            "small-town-horror",
+            "loss-of-innocence",
+            "supernatural-evil",
+            "faith-and-doubt",
+            "community-decay"
+          ],
+          "plot_and_concepts": [
+            "vampire-lore",
+            "undead-army",
+            "small-town-mystery",
+            "supernatural-transformation",
+            "ancient-evil"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "suspenseful",
+            "creepy",
+            "paranoid",
+            "gothic-horror"
+          ],
+          "genre_and_tropes": [
+            "horror",
+            "mystery",
+            "supernatural-thriller",
+            "small-town-horror"
+          ],
+          "setting": [
+            "new-england",
+            "small-town-usa",
+            "1970s"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "enigmatic-villain"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "slow-burn"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "marsten-house",
+            "antique-shop",
+            "undead-victims",
+            "vampire-fangs"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "body-horror"
+          ]
+        },
+        "keyword_sentence": "Set in a seemingly idyllic New England town, Salem's Lot delivers a chilling supernatural thriller exploring themes of good versus evil and the insidious decay of community through the lens of classic vampire lore."
+      },
+      "duration_seconds": 63.797882318496704
+    }
+  }
+}

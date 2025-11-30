@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "The Powerpuff Girls",
+    "overview": "Three colorful, sugarcoated kids trying to juggle school and save the world before bedtime.",
+    "genres": [
+      "Comedy",
+      "Animation",
+      "Action & Adventure",
+      "Kids"
+    ],
+    "release_year": 2016,
+    "vote_count": 63
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Powerpuff Girls is a vibrant and energetic animated series centered on three young girls with extraordinary powers who dedicate their lives to protecting their city from a colorful array of villains. The show blends comedic elements with action-packed sequences, appealing to a young audience while maintaining a playful and lighthearted tone. It explores themes of teamwork, responsibility, and the challenges of balancing personal lives with heroic duties, all wrapped in a visually appealing and whimsical package. The series offers a mix of episodic adventures and recurring character dynamics, creating a consistently entertaining and engaging experience.",
+        "spoiler_rich_plot_summary": "The series begins with Blossom, Bubbles, and Buttercup, created by Professor Utonium as an attempt to create the perfect little girl. A chemical X accidentally added to the mixture grants them superpowers. They quickly adopt the role of protectors of Townsville, battling villains like Mojo Jojo, Him, and the Gangreen Gang. Throughout the series, the girls face increasingly complex threats, often confronting the consequences of their actions and learning valuable lessons about friendship and sacrifice. Recurring conflicts involve Mojo Jojo's elaborate schemes to conquer Townsville and the girls' ongoing struggle to maintain a semblance of a normal childhood amidst their heroic responsibilities. While they consistently thwart evil, the series hints at deeper, unresolved issues surrounding their creation and the Professor's past, adding layers of emotional depth to their adventures. The girls grapple with the pressures of being superheroes while trying to navigate the challenges of growing up, ultimately reinforcing the importance of family and teamwork.",
+        "categorized_keywords": {
+          "themes": [
+            "teamwork",
+            "responsibility",
+            "family-loyalty",
+            "growing-up",
+            "good-vs-evil",
+            "saving-the-world"
+          ],
+          "plot_and_concepts": [
+            "superhero-action",
+            "monster-of-the-week",
+            "villain-origin",
+            "chemical-accident",
+            "city-protection"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "energetic",
+            "comedic",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "superhero-genre",
+            "found-family",
+            "childrens-comedy",
+            "action-comedy"
+          ],
+          "setting": [
+            "townsville",
+            "modern-day",
+            "fictional-city"
+          ],
+          "character_archetypes": [
+            "superhero",
+            "genius-inventor",
+            "villain-mastermind",
+            "reluctant-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "chemical-x",
+            "professor-utoniums-lab",
+            "mojo-jojos-lair",
+            "powerpuff-girls-tower",
+            "townsville-skyline"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Powerpuff Girls is a lighthearted and energetic animated series about three superhero sisters who protect their city while navigating the challenges of growing up and balancing heroic duties with family loyalty."
+      },
+      "duration_seconds": 64.11227560043335
+    }
+  }
+}

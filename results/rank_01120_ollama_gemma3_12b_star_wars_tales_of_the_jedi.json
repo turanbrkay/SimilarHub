@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Star Wars: Tales of the Jedi",
+    "overview": "Journey into the lives of two distinctly different Jedi from the prequel era – Ahsoka Tano and Count Dooku. Each will be put to the test as they make choices that will define their destinies.",
+    "genres": [
+      "Animation",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2022,
+    "vote_count": 221
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Star Wars: Tales of the Jedi is an animated anthology series exploring the formative years of two iconic characters, Ahsoka Tano and Count Dooku. The series delves into their individual journeys, showcasing pivotal moments and decisions that shaped their paths within the Star Wars galaxy. Through distinct narratives, it aims to provide deeper insight into their motivations and the complex political and philosophical landscape of the prequel era. The series blends action, drama, and philosophical exploration, offering a more intimate look at the Jedi Order and the events leading up to the Clone Wars.",
+        "spoiler_rich_plot_summary": "The series is structured as a collection of episodes, each focusing on either Ahsoka Tano or Count Dooku. Ahsoka’s episodes trace her early training under Anakin Skywalker and Obi-Wan Kenobi, showcasing her rebellious nature and growing skills as a Padawan. We see her grapple with the rigid structure of the Jedi Order and witness her developing empathy for those outside its influence. Count Dooku’s episodes chronicle his rise from a respected Jedi Master to a disillusioned Sith Lord. We observe his growing dissatisfaction with the Republic’s corruption and the Jedi Order’s complacency, ultimately leading him to embrace the dark side and join forces with Darth Sidious. The narratives explore the personal struggles and moral compromises that drive these characters, culminating in their divergent paths and the tragic consequences for the galaxy.",
+        "categorized_keywords": {
+          "themes": [
+            "jedi-order",
+            "dark-side",
+            "redemption",
+            "moral-compromise",
+            "political-corruption",
+            "destiny",
+            "mentor-student"
+          ],
+          "plot_and_concepts": [
+            "animated-anthology",
+            "prequel-era",
+            "sith-lord",
+            "clone-wars",
+            "force-powers"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "reflective",
+            "dramatic",
+            "philosophical"
+          ],
+          "genre_and_tropes": [
+            "space-opera",
+            "coming-of-age",
+            "political-thriller",
+            "lightsaber-duels"
+          ],
+          "setting": [
+            "star-wars-galaxy",
+            "coruscant",
+            "jedi-temple"
+          ],
+          "character_archetypes": [
+            "padawan",
+            "jedi-master",
+            "fallen-hero",
+            "mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "anthology-series"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "lightsaber",
+            "jedi-robes",
+            "force-lightning",
+            "republic-senate"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Star Wars: Tales of the Jedi is a somber and dramatic animated series exploring the destinies of two iconic characters as they navigate the political corruption and moral compromises within the Jedi Order and the rise of the dark side in a galaxy far, far away."
+      },
+      "duration_seconds": 62.75555610656738
+    }
+  }
+}

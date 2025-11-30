@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Myth & Mogul: John DeLorean",
+    "overview": "In the automotive world, John DeLorean rose from engineer to executive to icon. But under the hood of his self-created legend lies darkness and deceit.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2021,
+    "vote_count": 31
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Myth & Mogul: John DeLorean is a documentary series exploring the life and career of the controversial automotive executive John DeLorean. The series examines his rise to prominence, his innovative designs, and the eventual downfall caused by financial troubles and legal issues. It delves into the complex persona of DeLorean, portraying him as both a visionary and a flawed individual, and investigates the myths and realities surrounding his legacy. The documentary aims to separate fact from fiction, revealing the darker aspects of his ambition and the consequences of his actions. Ultimately, it's a cautionary tale about the perils of unchecked ambition and the fragility of reputation.",
+        "spoiler_rich_plot_summary": "The series begins by charting John DeLorean's early career, showcasing his innovative designs and rapid ascent within General Motors. He's portrayed as a charismatic and ambitious engineer who challenged the established norms of the automotive industry. His creation of the Pontiac GTO, a muscle car that revolutionized the market, establishes him as a rising star. However, his desire for greater autonomy and financial independence leads him to leave GM and found his own company, DeLorean Motor Company. The series details the ambitious plan to create the DMC-12, a stainless steel sports car intended to be accessible to the masses. Despite initial excitement and pre-orders, the company struggles with financial difficulties and production delays. The narrative then shifts to the infamous drug trafficking allegations that engulfed DeLorean, leading to his arrest and a highly publicized trial. While he was acquitted of the primary charges, the scandal irreparably damaged his reputation and ultimately led to the collapse of his company. The documentary concludes by examining the enduring fascination with DeLorean and the ongoing debate surrounding his legacy, questioning whether he was a visionary genius or a reckless fraud.",
+        "categorized_keywords": {
+          "themes": [
+            "ambition",
+            "legacy",
+            "corporate-greed",
+            "fall-from-grace",
+            "innovation",
+            "american-dream",
+            "reputation"
+          ],
+          "plot_and_concepts": [
+            "corporate-takeover",
+            "financial-scandal",
+            "drug-trafficking",
+            "stainless-steel-car",
+            "muscle-car-era",
+            "product-launch"
+          ],
+          "mood_and_tone": [
+            "cautionary",
+            "investigative",
+            "somber",
+            "reflective"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "biography",
+            "true-crime",
+            "business-drama"
+          ],
+          "setting": [
+            "detroit-michigan",
+            "1970s",
+            "1980s",
+            "automotive-industry"
+          ],
+          "character_archetypes": [
+            "visionary",
+            "anti-hero",
+            "corporate-executive",
+            "fallen-hero"
+          ],
+          "narrative_style": [
+            "chronological-narrative",
+            "investigative-journalism"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "business-enthusiasts"
+          ],
+          "detail_plot": [
+            "dmc-12",
+            "stainless-steel-body",
+            "pontiac-gto",
+            "courtroom-scene",
+            "factory-floor"
+          ],
+          "maturity_and_content": [
+            "legal-proceedings",
+            "financial-risk"
+          ]
+        },
+        "keyword_sentence": "Myth & Mogul: John DeLorean is a somber documentary exploring the rise and fall of a visionary automotive executive, examining themes of ambition, corporate greed, and the fragility of legacy within the backdrop of the American automotive industry."
+      },
+      "duration_seconds": 93.2660710811615
+    }
+  }
+}

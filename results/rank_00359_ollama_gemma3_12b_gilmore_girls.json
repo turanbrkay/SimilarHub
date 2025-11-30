@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Gilmore Girls",
+    "overview": "Set in the charming town of Stars Hollow, Connecticut, the series follows the captivating lives of Lorelai and Rory Gilmore, a mother/daughter pair who have a relationship most people only dream of.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2000,
+    "vote_count": 848
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Gilmore Girls is a heartwarming dramedy centered on the close-knit relationship between Lorelai, a young single mother, and her daughter Rory. Set in the quirky, picturesque town of Stars Hollow, the series explores themes of family, ambition, and belonging, blending witty dialogue with poignant emotional moments. The show's fast-paced conversations and charming setting create a comforting and engaging viewing experience, appealing to audiences seeking a blend of humor and heartfelt drama. It's a story about navigating life's challenges while cherishing the bonds that matter most.",
+        "spoiler_rich_plot_summary": "The series begins with Lorelai, who ran away from her wealthy parents as a teenager to raise Rory on her own, seeking financial assistance to send Rory to a prestigious private school, Chilton. This re-engagement with her parents, Emily and Richard, forms a central dynamic, fraught with tension and generational differences but ultimately rooted in love. Rory excels at Chilton and later attends Yale, pursuing her dream of becoming a journalist. Throughout the series, both Lorelai and Rory navigate romantic relationships, career aspirations, and personal growth, often facing obstacles and making difficult choices. Lorelai's relationship with Luke, the diner owner, is a slow-burn romance, while Rory's experiences with various boyfriends shape her understanding of love and commitment. The series culminates with Rory facing a career crossroads and Lorelai finally solidifying her relationship with Luke, suggesting a hopeful future for both mother and daughter.",
+        "categorized_keywords": {
+          "themes": [
+            "mother-daughter-relationship",
+            "family-dynamics",
+            "ambition",
+            "small-town-life",
+            "class-differences",
+            "growing-up",
+            "romantic-relationships",
+            "finding-yourself"
+          ],
+          "plot_and_concepts": [
+            "coming-of-age",
+            "romantic-comedy",
+            "generational-conflict",
+            "small-town-charm",
+            "financial-aid"
+          ],
+          "mood_and_tone": [
+            "heartwarming",
+            "witty",
+            "optimistic",
+            "charming",
+            "nostalgic"
+          ],
+          "genre_and_tropes": [
+            "dramedy",
+            "romantic-comedy",
+            "small-town-drama",
+            "coming-of-age-story"
+          ],
+          "setting": [
+            "connecticut",
+            "small-town-usa",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "single-mother",
+            "overachieving-daughter",
+            "wealthy-parents",
+            "quirky-townspeople"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "diner",
+            "town-square",
+            "ivy-league-university",
+            "friday-night-dinner"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Gilmore Girls is a heartwarming dramedy set in a charming Connecticut town, exploring themes of family, ambition, and romantic relationships through the close-knit bond between a single mother and her overachieving daughter."
+      },
+      "duration_seconds": 68.90533876419067
+    }
+  }
+}

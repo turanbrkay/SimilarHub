@@ -1,0 +1,87 @@
+{
+  "input_data": {
+    "title": "Cowboy Bebop",
+    "overview": "Long on style and perpetually short on cash, bounty hunters Spike, Jet and Faye trawl the solar system looking for jobs. But can they outrun Spike's past?",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Crime"
+    ],
+    "release_year": 2021,
+    "vote_count": 336
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Cowboy Bebop is a stylish space western following a group of bounty hunters, or 'cowboys,' as they navigate a futuristic solar system. The series blends action, crime, and philosophical themes with a jazzy soundtrack and a melancholic tone. Each episode often functions as a self-contained adventure, while a larger narrative explores the characters' troubled pasts and their attempts to escape them. The show's episodic structure and focus on individual character arcs create a unique blend of action and introspection, offering a visually striking and emotionally resonant experience.",
+        "spoiler_rich_plot_summary": "The series follows Spike Spiegel, a former hitman with a mysterious past, as he reluctantly joins forces with ex-cop Jet Black and con artist Faye Valentine to form a bounty hunting team. Their initial adventures are largely episodic, as they chase down criminals across various planets and moons. As the series progresses, fragments of Spike's past begin to surface, revealing a complex relationship with a criminal syndicate and a lost love named Julia. Faye's own history as an amnesiac is gradually uncovered, revealing a connection to the same syndicate and a desperate search for her identity. Jet's past as a police officer and his struggles with authority also come into focus. The overarching narrative explores themes of regret, redemption, and the difficulty of escaping one's past, culminating in confrontations with figures from Spike and Faye's past, and ultimately leading to a tragic reckoning with the consequences of their choices.",
+        "categorized_keywords": {
+          "themes": [
+            "regret",
+            "redemption",
+            "past-haunting",
+            "identity-quest",
+            "found-family",
+            "existentialism"
+          ],
+          "plot_and_concepts": [
+            "bounty-hunting",
+            "space-western",
+            "crime-procedural",
+            "amnesia",
+            "criminal-syndicate",
+            "revenge"
+          ],
+          "mood_and_tone": [
+            "melancholic",
+            "stylish",
+            "noir",
+            "cool",
+            "reflective"
+          ],
+          "genre_and_tropes": [
+            "sci-fi",
+            "western",
+            "crime",
+            "space-opera",
+            "episodic-format"
+          ],
+          "setting": [
+            "space",
+            "future",
+            "solar-system",
+            "cyberpunk"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "reluctant-hero",
+            "femme-fatale",
+            "ex-cop",
+            "con-artist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format",
+            "character-driven"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "spaceship-interior",
+            "bounty-poster",
+            "jazz-club",
+            "laser-weapon",
+            "cybernetic-augmentation"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "Cowboy Bebop is a stylish space western that follows a group of bounty hunters as they confront their troubled pasts and search for redemption across a futuristic solar system, blending crime, action, and melancholic reflection."
+      },
+      "duration_seconds": 66.91253852844238
+    }
+  }
+}

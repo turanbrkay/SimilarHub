@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "The Politician",
+    "overview": "Payton has known since childhood that he's going to be president. First he'll have to navigate the most treacherous political landscape: high school.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2019,
+    "vote_count": 168
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Ryan Murphy's 'The Politician' is a darkly comedic satire that follows Payton Hobart's ruthless ambition to become student body president and, eventually, the President of the United States. The series blends elements of coming-of-age drama with sharp political commentary, exploring themes of privilege, manipulation, and the corrupting influence of power. Through exaggerated characters and absurd situations, the show critiques the superficiality of American politics and the lengths people will go to achieve their goals. It's a provocative and often unsettling exploration of ambition and the dark side of the American dream.",
+        "spoiler_rich_plot_summary": "The series begins with Payton Hobart, a meticulously planned and ambitious high school student, already strategizing his path to the presidency. He manipulates his way to the top of the student body, leveraging the tragic death of a popular classmate to gain sympathy and control. His carefully constructed facade begins to crack as he navigates a complex web of relationships and hidden agendas. Payton's ambition leads him to Barrows University, where he becomes entangled with a charismatic but deeply troubled student, signaling a shift in his political trajectory. He becomes involved in a dangerous and unsettling situation surrounding Astrid, a student with a dark secret, forcing him to confront the consequences of his actions and the true cost of power. The series culminates in a shocking revelation about Astrid’s past and Payton’s own complicity, leaving his future uncertain and questioning the very foundations of his political aspirations.",
+        "categorized_keywords": {
+          "themes": [
+            "ambition",
+            "power-corrupts",
+            "social-class",
+            "identity-crisis",
+            "manipulation",
+            "privilege",
+            "mortality"
+          ],
+          "plot_and_concepts": [
+            "coming-of-age",
+            "political-satire",
+            "dark-comedy",
+            "mystery",
+            "revenge"
+          ],
+          "mood_and_tone": [
+            "satirical",
+            "darkly-comic",
+            "absurdist",
+            "unsettling"
+          ],
+          "genre_and_tropes": [
+            "teen-drama",
+            "political-thriller",
+            "black-comedy"
+          ],
+          "setting": [
+            "new-england",
+            "high-school",
+            "university-campus"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "privileged-elite",
+            "tragic-victim",
+            "manipulative-leader"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "student-body-election",
+            "campaign-trail",
+            "university-dorm",
+            "campaign-headquarters"
+          ],
+          "maturity_and_content": [
+            "sexual-content",
+            "graphic-violence",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "A darkly comedic satire, 'The Politician' explores the corrupting influence of ambition and privilege within the world of high school and university, revealing a satirical and unsettling commentary on the pursuit of power."
+      },
+      "duration_seconds": 64.13831496238708
+    }
+  }
+}

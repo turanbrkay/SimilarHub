@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Hanna",
+    "overview": "This thriller and coming-of-age drama follows the journey of an extraordinary young girl as she evades the relentless pursuit of an off-book CIA agent and tries to unearth the truth behind who she is. Based on the 2011 Joe Wright film.",
+    "genres": "Action & Adventure, Drama",
+    "release_year": 2019,
+    "vote_count": 719
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Hanna is a thriller series that blends coming-of-age elements with espionage and action. The story centers on a young woman with extraordinary abilities who is relentlessly hunted by a shadowy organization. The series explores themes of identity, freedom, and the consequences of a life lived in the shadows, offering a suspenseful and emotionally resonant experience. It combines elements of a survival story with a deeper exploration of morality and the nature of control. The narrative unfolds with a sense of urgency and intrigue, keeping the audience engaged in Hanna's desperate fight for survival and the search for her true origins.",
+        "spoiler_rich_plot_summary": "The series begins with Hanna, a teenage girl raised in the forests of Eastern Europe by her father, Erik, who has trained her to be an exceptional fighter. Their isolated existence is shattered when Hanna's presence is detected by a clandestine CIA program led by the ruthless Marissa Wiegler. Erik sacrifices himself to allow Hanna to escape, setting her on a journey to uncover the truth about her creation and the purpose behind her extraordinary abilities. As Hanna travels across Europe, she encounters various allies and adversaries, including a sympathetic intelligence agent, Julian Keller, who attempts to protect her from Wiegler's relentless pursuit. Through a series of flashbacks, the audience learns about Project Hanna, a covert operation to create genetically engineered assassins. Hanna discovers that she is not merely a weapon but a product of a complex web of lies and betrayals, involving scientists, intelligence agencies, and powerful individuals with hidden agendas. The series culminates in a confrontation between Hanna and Wiegler, revealing the full extent of the conspiracy and the true nature of Hanna's purpose. While she manages to evade capture and expose some of the truth, the underlying forces at play suggest that her fight for freedom is far from over, and new threats emerge, hinting at a continuation of her journey.",
+        "categorized_keywords": {
+          "themes": [
+            "identity-quest",
+            "freedom",
+            "genetic-engineering",
+            "moral-ambiguity",
+            "parental-sacrifice",
+            "government-conspiracy"
+          ],
+          "plot_and_concepts": [
+            "espionage",
+            "chase-narrative",
+            "found-family",
+            "flashback-structure",
+            "government-program"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "action-packed",
+            "thrilling"
+          ],
+          "genre_and_tropes": [
+            "thriller",
+            "coming-of-age",
+            "action-adventure",
+            "spy-thriller"
+          ],
+          "setting": [
+            "europe",
+            "forests",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "ruthless-villain",
+            "protective-father",
+            "sympathetic-ally"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-adventure"
+          ],
+          "target_audience": [
+            "young-adult",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "forest-setting",
+            "cia-agent",
+            "genetic-experiment",
+            "flashback-sequence",
+            "escape-route"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "suspense"
+          ]
+        },
+        "keyword_sentence": "Hanna is a suspenseful thriller series that follows a young woman’s journey of self-discovery as she evades a relentless government conspiracy and fights for her freedom in a modern-day European landscape."
+      },
+      "duration_seconds": 114.22120904922485
+    }
+  }
+}

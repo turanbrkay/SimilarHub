@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Interrogation",
+    "overview": "Based on a true story that spanned more than 30 years in which a young man was charged and convicted of brutally murdering his mother. Each episode is structured around an interrogation taken directly from the real police case files, with the goal of turning the viewer into a detective.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "release_year": 2020,
+    "vote_count": 33
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Interrogation is a crime drama series that presents a unique procedural format, reconstructing a decades-old murder case through raw interrogation transcripts. The show eschews traditional narrative structure, immersing the viewer directly into the investigative process and challenging them to act as detectives alongside the investigators. Its focus on the psychological complexities of interrogation and the ambiguities of truth creates a suspenseful and intellectually engaging experience. The series explores themes of justice, memory, and the fallibility of human perception, offering a stark and unsettling portrayal of a true crime investigation.",
+        "spoiler_rich_plot_summary": "The series centers on the investigation of a young man accused of murdering his mother, a case that remained unsolved for years. Each episode unfolds as a series of interrogations, meticulously recreated from the original police case files. As the interrogations progress, conflicting accounts and inconsistencies emerge, blurring the lines between guilt and innocence. The series reveals the evolution of the investigation, showcasing the shifting perspectives of the detectives and the suspect. The series explores the impact of the case on the community and the families involved, highlighting the long-lasting consequences of the crime. The investigation ultimately leads to a conviction, but the series leaves the viewer questioning the certainty of the outcome and the complexities of the justice system.",
+        "categorized_keywords": {
+          "themes": [
+            "true-crime",
+            "justice",
+            "memory",
+            "perception",
+            "guilt",
+            "innocence",
+            "fallibility"
+          ],
+          "plot_and_concepts": [
+            "interrogation",
+            "cold-case",
+            "procedural-drama",
+            "investigative-journalism"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "unsettling",
+            "intense"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "true-crime-genre",
+            "legal-procedural"
+          ],
+          "setting": [
+            "modern-day",
+            "courtroom",
+            "police-station"
+          ],
+          "character_archetypes": [
+            "detective",
+            "suspect",
+            "investigator"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "interrogation-room",
+            "police-files",
+            "courtroom-scene"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "abuse-themes"
+          ]
+        },
+        "keyword_sentence": "Interrogation is a dark and suspenseful crime drama series that immerses viewers in a decades-old investigation through raw interrogation transcripts, exploring themes of justice, memory, and the fallibility of human perception."
+      },
+      "duration_seconds": 52.427520990371704
+    }
+  }
+}

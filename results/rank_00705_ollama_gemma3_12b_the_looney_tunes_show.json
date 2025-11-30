@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "The Looney Tunes Show",
+    "overview": "Bugs Bunny, Daffy Duck and the rest of the “Looney Tunes” characters are back with more adventures for a new generation of viewers. The animated series features roommates Bugs and Daffy moving out of the woods and into the suburbs, interacting with their neighbors, who happen to be other \"Looney Tunes\" favorites -- including Sylvester, Tweety, Porky Pig and Foghorn Leghorn.",
+    "genres": [
+      "Family",
+      "Animation",
+      "Comedy"
+    ],
+    "release_year": 2011,
+    "vote_count": 402
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Looney Tunes Show reimagines the classic cartoon characters, transplanting them into a suburban setting and focusing on their everyday lives and relationships. The series blends slapstick humor with more character-driven comedy, appealing to both longtime fans and a younger audience. It maintains the core Looney Tunes spirit of chaotic fun while introducing relatable situations and a more modern sensibility. The show's lighthearted tone and focus on friendship and family make it a consistently entertaining and accessible experience.",
+        "spoiler_rich_plot_summary": "The series begins with Bugs Bunny and Daffy Duck moving into a suburban home, quickly establishing a dynamic of playful rivalry and unexpected friendship. They navigate the challenges of suburban life, encountering various neighbors including Porky Pig, Sylvester, and Tweety. Recurring storylines involve their attempts to start businesses, deal with neighborhood conflicts, and generally cause humorous mayhem. Sylvester's relentless pursuit of Tweety and Porky's often-anxious reactions to Bugs and Daffy's antics provide consistent comedic elements. Throughout the series, the characters learn to appreciate their differences and rely on each other, solidifying their bond as a found family. While individual episodes often feature self-contained plots, overarching themes of friendship, acceptance, and embracing individuality are explored throughout the show’s run.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "family-found",
+            "acceptance",
+            "humor",
+            "individuality"
+          ],
+          "plot_and_concepts": [
+            "slapstick-comedy",
+            "found-family",
+            "business-ventures",
+            "neighborly-conflicts"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "playful"
+          ],
+          "genre_and_tropes": [
+            "animated-comedy",
+            "family-comedy",
+            "slapstick"
+          ],
+          "setting": [
+            "suburban-setting",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "trickster",
+            "anxious-character",
+            "pursuer"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "cartoon-physics",
+            "animated-characters",
+            "suburban-house"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Looney Tunes Show is a lighthearted animated comedy series that follows Bugs Bunny and Daffy Duck as they navigate suburban life and embrace the joys of friendship and family in a world of cartoon physics and playful antics."
+      },
+      "duration_seconds": 51.37392568588257
+    }
+  }
+}

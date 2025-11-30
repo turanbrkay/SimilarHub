@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Noah's Ark",
+    "overview": "In the Biblical story from Genesis, God floods the world as Noah rescues his family and the animals in a gigantic ark.",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Family"
+    ],
+    "release_year": 1999,
+    "vote_count": 30
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Noah's Ark is a sweeping historical adventure film based on the biblical story of Noah. The film blends action and drama, focusing on themes of faith, sacrifice, and the struggle to maintain hope amidst overwhelming destruction. It portrays a visually stunning depiction of a global flood and the challenges faced by Noah and his family as they attempt to save the world's animal population. The film explores the complexities of divine will and the moral dilemmas faced by those tasked with carrying out a monumental and devastating mission, offering a spectacle of faith and survival.",
+        "spoiler_rich_plot_summary": "The film opens with a depiction of a flourishing world, but one marred by humanity's corruption and disregard for nature. Noah, a righteous man, receives a divine vision from God, foretelling a catastrophic flood that will cleanse the Earth. Guided by this vision, Noah begins constructing a massive ark, a task met with skepticism and opposition from his community. As the floodwaters rise, Noah and his family, along with a vast collection of animals, are sealed within the ark, enduring a perilous journey through the raging waters. The film portrays the internal conflicts within Noah's family as they grapple with the enormity of the destruction and the loss of the world they knew. After the flood subsides, Noah faces the challenge of repopulating the Earth and establishing a new beginning for humanity, wrestling with the responsibility of rebuilding a world scarred by divine judgment.",
+        "categorized_keywords": {
+          "themes": [
+            "faith",
+            "divine-judgment",
+            "sacrifice",
+            "redemption",
+            "survival",
+            "family-loyalty",
+            "environmentalism"
+          ],
+          "plot_and_concepts": [
+            "biblical-story",
+            "global-flood",
+            "ark-construction",
+            "animal-rescue",
+            "moral-dilemma"
+          ],
+          "mood_and_tone": [
+            "epic",
+            "somber",
+            "hopeful",
+            "dramatic",
+            "visually-stunning"
+          ],
+          "genre_and_tropes": [
+            "historical-epic",
+            "disaster-movie",
+            "family-adventure"
+          ],
+          "setting": [
+            "ancient-middle-east",
+            "pre-flood-earth"
+          ],
+          "character_archetypes": [
+            "righteous-hero",
+            "divinely-chosen",
+            "family-man"
+          ],
+          "narrative_style": [
+            "serialized-story"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "ark-design",
+            "animal-pairs",
+            "floodwaters",
+            "dove-release"
+          ],
+          "maturity_and_content": [
+            "violence"
+          ]
+        },
+        "keyword_sentence": "Based on the biblical story, Noah's Ark is a visually stunning and dramatic family adventure that explores themes of faith, sacrifice, and survival amidst a catastrophic global flood."
+      },
+      "duration_seconds": 76.81284666061401
+    }
+  }
+}

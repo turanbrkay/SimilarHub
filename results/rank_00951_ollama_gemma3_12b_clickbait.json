@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Clickbait",
+    "overview": "When family man Nick Brewer is abducted in a crime with a sinister online twist, those closest to him race to uncover who is behind it and why.",
+    "genres": [
+      "Drama",
+      "Crime",
+      "Mystery"
+    ],
+    "release_year": 2021,
+    "vote_count": 278
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Clickbait is a thriller series centered on the exploitation of online virality and its devastating real-world consequences. The narrative explores themes of family, guilt, and the dark side of internet culture, blending crime procedural elements with a suspenseful and emotionally charged atmosphere. The series examines the lengths people will go to for justice and the ethical dilemmas surrounding online exposure and accountability. It offers a fast-paced, unsettling viewing experience, driven by a central mystery and complex character relationships.",
+        "spoiler_rich_plot_summary": "The series begins with the shocking discovery of a video online depicting Nick Brewer's apparent murder. The video quickly goes viral, and Nick's family – his wife, daughter, and son – are thrust into a desperate race against time to uncover the truth behind his abduction. As they investigate, they discover that Nick had a hidden past, involving a humanitarian mission gone wrong and a connection to a group of online vigilantes known as 'The Jumpsuit Murders,' who target individuals they deem responsible for heinous crimes. The family uncovers a web of secrets and lies, revealing that Nick himself may have been involved in morally ambiguous actions. The investigation leads them across continents, exposing a network of individuals complicit in the plot. Ultimately, the truth behind Nick's abduction is revealed to be a complex scheme orchestrated by multiple parties, each with their own motivations for seeking revenge or achieving a twisted form of justice. The series culminates in a confrontation that forces the family to confront their own complicity and the devastating impact of their actions.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "revenge",
+            "online-vigilantism",
+            "guilt",
+            "redemption",
+            "internet-culture",
+            "moral-ambiguity"
+          ],
+          "plot_and_concepts": [
+            "crime-procedural",
+            "online-mystery",
+            "viral-video",
+            "kidnapping",
+            "vigilante-justice"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "tense",
+            "unsettling"
+          ],
+          "genre_and_tropes": [
+            "crime-thriller",
+            "mystery",
+            "procedural-drama"
+          ],
+          "setting": [
+            "modern-day",
+            "global-locations"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "grieving-family",
+            "morally-gray-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "viral-video",
+            "kidnapping-scene",
+            "online-forum",
+            "passport",
+            "security-camera"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "emotional-distress"
+          ]
+        },
+        "keyword_sentence": "Clickbait is a suspenseful crime thriller exploring the dark consequences of online virality and the lengths to which families will go to uncover the truth behind a shocking kidnapping."
+      },
+      "duration_seconds": 60.22848105430603
+    }
+  }
+}

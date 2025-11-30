@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "The Challenge",
+    "overview": "Each Challenge pits numerous cast members from past seasons of reality shows against each other, dividing them into two separate teams according to different criteria, such as gender, which show they first appeared on, whether or not they're veterans or rookies on the show, etc. The two teams compete in numerous missions in order to win prizes and advance in the overall game.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 1998,
+    "vote_count": 55
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Challenge is a long-running reality competition series that pits contestants from various reality shows against each other in a series of physical and mental challenges. The show's premise revolves around strategic alliances, intense rivalries, and the constant shifting of power dynamics as contestants vie for a grand prize. Known for its demanding challenges and dramatic interpersonal relationships, The Challenge offers a blend of athleticism, strategy, and entertainment, appealing to fans of competition-based reality television. The show's longevity is testament to its ability to adapt and maintain viewer engagement through evolving formats and cast member dynamics.",
+        "spoiler_rich_plot_summary": "The Challenge begins with a large group of contestants, often drawn from shows like Survivor, Big Brother, and Are You The One?, being divided into two teams based on a predetermined criteria. Each season features a series of challenges, ranging from physical endurance tests to strategic puzzles, with the winning team earning rewards and the losing team facing potential eliminations. Throughout the competition, alliances form and dissolve as contestants attempt to navigate the complex social landscape and secure their place in the final. Eliminations are often fraught with tension and betrayal, as contestants are forced to vote each other out. The final challenge sees the remaining contestants competing for a substantial cash prize, with the ultimate winner determined by their performance and strategic maneuvering throughout the season. Recurring themes involve the formation of strong bonds between contestants, the inevitable clashes of personalities, and the constant pressure to outwit and outlast the competition.",
+        "categorized_keywords": {
+          "themes": [
+            "competition",
+            "strategy",
+            "rivalry",
+            "alliance",
+            "survival",
+            "social-dynamics"
+          ],
+          "plot_and_concepts": [
+            "elimination-rounds",
+            "physical-challenges",
+            "mental-challenges",
+            "team-based-competition",
+            "strategic-voting"
+          ],
+          "mood_and_tone": [
+            "competitive",
+            "dramatic",
+            "tense",
+            "exciting"
+          ],
+          "genre_and_tropes": [
+            "reality-competition",
+            "game-show",
+            "social-experiment"
+          ],
+          "setting": [
+            "international-locations",
+            "tropical-setting",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "veteran-contestant",
+            "rookie-contestant",
+            "social-strategist",
+            "physical-powerhouse"
+          ],
+          "narrative_style": [
+            "episodic-competition",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "young-adults",
+            "reality-tv-fans"
+          ],
+          "detail_plot": [
+            "elimination-ceremony",
+            "challenge-win",
+            "prize-money",
+            "team-flag"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Challenge is a reality competition series where contestants from various shows battle through physical and mental challenges, forming strategic alliances and rivalries in a tense and exciting environment."
+      },
+      "duration_seconds": 56.25222563743591
+    }
+  }
+}

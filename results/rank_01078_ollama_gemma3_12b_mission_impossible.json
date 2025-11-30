@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Mission: Impossible",
+    "overview": "Mission: Impossible is an American television series that was created and initially produced by Bruce Geller. It chronicles the missions of a team of secret government agents known as the Impossible Missions Force. In the first season, the team is led by Dan Briggs, played by Steven Hill; Jim Phelps, played by Peter Graves, takes charge for the remaining seasons. A hallmark of the series shows Briggs or Phelps receiving his instructions on a recording that then self-destructs, followed by the theme music composed by Lalo Schifrin.\n\nThe series aired on the CBS network from September 1966 to March 1973, then returned to television for two seasons on ABC, from 1988 to 1990, retaining only Graves in the cast. It later inspired a popular series of theatrical motion pictures starring Tom Cruise, beginning in 1996.",
+    "genres": [
+      "Action & Adventure",
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 1966,
+    "vote_count": 235
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Mission: Impossible is a long-running action-adventure television series centered on a clandestine team of government agents undertaking perilous and seemingly impossible assignments. The show blends elements of crime, drama, and mystery, emphasizing intricate plots, disguises, and technological gadgetry. A key feature is the self-destructing message delivery system, adding to the suspense and intrigue. The series established a template for espionage thrillers and has inspired numerous adaptations, most notably a successful film franchise.",
+        "spoiler_rich_plot_summary": "The series initially follows Dan Briggs as the leader of the Impossible Missions Force (IMF), a highly specialized team tasked with preventing global crises. Each mission involves elaborate schemes, often requiring the team to infiltrate enemy organizations under false identities. Briggs's leadership is marked by a commitment to justice and a willingness to take risks, but also by personal sacrifices and betrayals within the team. Following Briggs's departure, Jim Phelps assumes command, continuing the IMF's dangerous work. The team faces a constant stream of adversaries, ranging from rogue nations to criminal syndicates, and must rely on their skills and ingenuity to overcome seemingly insurmountable obstacles. Throughout the series, the IMF encounters shifting alliances, double-crosses, and the ever-present threat of exposure, leading to dramatic consequences for the team and their mission. The later seasons on ABC continue the pattern of high-stakes espionage, with Phelps leading the team through increasingly complex and perilous assignments, often confronting personal demons and challenging the very nature of loyalty and trust.",
+        "categorized_keywords": {
+          "themes": [
+            "espionage",
+            "loyalty",
+            "betrayal",
+            "justice",
+            "sacrifice",
+            "international-relations"
+          ],
+          "plot_and_concepts": [
+            "secret-agents",
+            "disguise",
+            "infiltration",
+            "self-destructing-message",
+            "international-crime",
+            "counter-intelligence"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "thrilling",
+            "tense",
+            "action-packed"
+          ],
+          "genre_and_tropes": [
+            "spy-thriller",
+            "action-adventure",
+            "crime-procedural",
+            "government-conspiracy"
+          ],
+          "setting": [
+            "international-locations",
+            "cold-war-era",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "secret-agent",
+            "mastermind",
+            "double-agent",
+            "reluctant-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "self-destructing-tape",
+            "disguise-kit",
+            "secret-headquarters",
+            "escape-pod"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Mission: Impossible is a suspenseful action-adventure series centered on a team of secret agents undertaking perilous international missions, often involving disguise and infiltration, and exploring themes of loyalty and betrayal."
+      },
+      "duration_seconds": 62.34939479827881
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Ms. Marvel",
+    "overview": "A great student, avid gamer, and voracious fan-fic scribe, Kamala Khan has a special affinity for superheroes, particularly Captain Marvel. However, she struggles to fit in at home and at school — that is, until she gets superpowers like the heroes she’s always looked up to. Life is easier with superpowers, right?",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Comedy"
+    ],
+    "release_year": 2022,
+    "vote_count": 922
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Ms. Marvel is a coming-of-age superhero series blending teenage anxieties with vibrant cultural representation and a fresh take on the Marvel Cinematic Universe. The series follows Kamala Khan, a Pakistani-American teenager who discovers she has superpowers, forcing her to navigate newfound responsibility while grappling with identity, family expectations, and the complexities of her community. It's a lighthearted and optimistic series, balancing action and humor with heartfelt explorations of self-discovery and belonging, appealing to a young adult audience.",
+        "spoiler_rich_plot_summary": "The series begins with Kamala Khan, a Pakistani-American teenager in Jersey City, struggling to find her place. Her obsession with superheroes, particularly Captain Marvel, fuels her imagination and desire for something more. During a celebration of Eid, Kamala accidentally activates ancient bangle, granting her polymorphic superpowers. Initially, she uses her powers to help her community and gain recognition, adopting the superhero identity of Ms. Marvel. Her actions draw the attention of Damage Control and Ayesha, mother of Kamala’s potential nemesis, who seeks to reclaim the bangle. As Kamala investigates the bangle's origins, she uncovers a connection to her family history and a hidden legacy tied to the Noor dimension. She learns that her ancestors were protectors of this dimension, and the bangle is a key to accessing its power. Kamala's actions inadvertently trigger a conflict between the Noor dimension and the Red Daggers, a group sworn to protect it. Ultimately, Kamala embraces her heritage and her role as a protector, accepting a new destiny that intertwines her personal journey with the fate of the Noor dimension, leading to a significant shift in her identity and powers.",
+        "categorized_keywords": {
+          "themes": [
+            "identity-discovery",
+            "family-expectations",
+            "cultural-heritage",
+            "coming-of-age",
+            "responsibility",
+            "belonging"
+          ],
+          "plot_and_concepts": [
+            "superhero-origin",
+            "ancient-artifacts",
+            "dimensional-travel",
+            "legacy",
+            "secret-identity"
+          ],
+          "mood_and_tone": [
+            "optimistic",
+            "lighthearted",
+            "wholesome",
+            "energetic",
+            "youthful"
+          ],
+          "genre_and_tropes": [
+            "teen-drama",
+            "superhero-action",
+            "coming-of-age-story",
+            "found-family",
+            "cultural-representation"
+          ],
+          "setting": [
+            "jersey-city",
+            "pakistani-american-culture",
+            "modern-day",
+            "noor-dimension"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "teenager",
+            "family-member",
+            "mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "bangle",
+            "eid-celebration",
+            "noor-dimension",
+            "damage-control",
+            "superhero-costume"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Ms. Marvel is a lighthearted and energetic young-adult series exploring themes of identity and cultural heritage through the superhero origin story of a Pakistani-American teenager discovering her place in a world of family expectations and newfound responsibility."
+      },
+      "duration_seconds": 70.07372260093689
+    }
+  }
+}

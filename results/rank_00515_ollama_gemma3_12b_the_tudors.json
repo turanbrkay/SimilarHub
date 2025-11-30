@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "The Tudors",
+    "overview": "The Tudors is a history-based drama series following the young, vibrant King Henry VIII, a competitive and lustful monarch who navigates the intrigues of the English court and the human heart with equal vigor and justifiable suspicion.",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "release_year": 2007,
+    "vote_count": 606
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Tudors is a historical drama series centered on the reign of King Henry VIII, portraying his personal and political life with a focus on his marriages, power struggles, and the broader context of the English Reformation. The series blends elements of romance, political intrigue, and courtly drama, offering a visually rich and often scandalous depiction of Tudor England. It explores themes of ambition, faith, and the complexities of power, while showcasing the lavish lifestyle and dangerous games of the royal court. The show aims to capture the dynamism and volatility of a pivotal era in English history, albeit with a degree of historical license.",
+        "spoiler_rich_plot_summary": "The series begins with Henry VIII’s ascension to the throne following the death of his father, King Henry VII. Initially portrayed as a young, idealistic ruler, Henry’s reign quickly becomes defined by his desire for a male heir and his frustration with his first wife, Catherine of Aragon. His pursuit of annulment leads to a clash with the Catholic Church and ultimately results in the English Reformation, establishing the Church of England with Henry as its head. Throughout his reign, Henry marries multiple times, each union marked by political maneuvering, personal desires, and ultimately, tragedy. His relationships with Anne Boleyn, Jane Seymour, Anne of Cleves, Catherine Howard, and Catherine Parr shape the course of English history and reveal the ruthless nature of the Tudor court. The series chronicles the rise and fall of influential figures within Henry’s court, highlighting the constant threat of betrayal and the precariousness of power. As Henry ages, his health deteriorates, and his reign becomes increasingly tyrannical, culminating in a legacy of religious upheaval and political instability.",
+        "categorized_keywords": {
+          "themes": [
+            "power-struggle",
+            "religious-upheaval",
+            "marriage-and-divorce",
+            "ambition",
+            "betrayal",
+            "legacy",
+            "faith"
+          ],
+          "plot_and_concepts": [
+            "royal-court",
+            "political-intrigue",
+            "historical-drama",
+            "succession-crisis",
+            "reformation"
+          ],
+          "mood_and_tone": [
+            "opulent",
+            "scandalous",
+            "dramatic",
+            "somber",
+            "romantic"
+          ],
+          "genre_and_tropes": [
+            "historical-fiction",
+            "courtly-romance",
+            "political-thriller",
+            "royal-family-drama"
+          ],
+          "setting": [
+            "16th-century-england",
+            "london-city",
+            "royal-palace",
+            "english-court"
+          ],
+          "character_archetypes": [
+            "ruthless-monarch",
+            "scheming-advisor",
+            "tragic-queen",
+            "ambitious-courtier"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "royal-crest",
+            "execution-block",
+            "throne-room",
+            "wedding-ceremony",
+            "royal-portrait"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "sexual-content",
+            "political-deception"
+          ]
+        },
+        "keyword_sentence": "The Tudors is a dramatic historical fiction series set in 16th-century England, exploring themes of power, betrayal, and religious upheaval within the opulent and scandalous world of the royal court."
+      },
+      "duration_seconds": 76.35588026046753
+    }
+  }
+}

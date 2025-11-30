@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "Teen Mom 2",
+    "overview": "Jenelle, Chelsea, Kailyn, and Leah are four young women navigating complicated lives. It's not always easy being a young mom.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2011,
+    "vote_count": 58
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Teen Mom 2 follows the lives of several young mothers as they grapple with the challenges of parenthood, relationships, and personal growth. The series offers a raw and often dramatic portrayal of their experiences, exploring themes of responsibility, ambition, and the complexities of family dynamics. While rooted in reality, the show frequently delves into interpersonal conflicts and emotional turmoil, providing a voyeuristic glimpse into the lives of these individuals. The series blends elements of documentary and personal drama, offering a sometimes-controversial look at modern motherhood.",
+        "spoiler_rich_plot_summary": "The series initially focuses on Jenelle Evans, Chelsea Houska, Kailyn Lowry, and Leah Messer, each facing unique struggles as young mothers. Jenelle's storyline is marked by tumultuous relationships, legal battles, and shifting custody arrangements. Chelsea navigates the challenges of co-parenting and building a stable family life while pursuing her own ambitions. Kailyn experiences multiple marriages and divorces, dealing with the complexities of blended families and personal growth. Leah faces ongoing struggles with addiction and custody issues, attempting to regain control of her life and maintain a connection with her children. Over the seasons, the women experience significant life changes, including career advancements, relationship breakdowns, and evolving family structures. While the series showcases moments of joy and triumph, it also confronts the harsh realities of poverty, addiction, and the constant scrutiny of public attention. The women's journeys are often intertwined, with their personal struggles impacting one another and shaping the overall narrative of the show.",
+        "categorized_keywords": {
+          "themes": [
+            "parenthood",
+            "family-dynamics",
+            "personal-growth",
+            "responsibility",
+            "addiction",
+            "poverty",
+            "public-scrutiny"
+          ],
+          "plot_and_concepts": [
+            "reality-tv",
+            "courtroom-drama",
+            "custody-battle",
+            "relationship-drama"
+          ],
+          "mood_and_tone": [
+            "dramatic",
+            "emotional",
+            "voyeuristic",
+            "raw"
+          ],
+          "genre_and_tropes": [
+            "reality-tv",
+            "docu-series"
+          ],
+          "setting": [
+            "modern-day",
+            "suburban-america"
+          ],
+          "character_archetypes": [
+            "young-mother",
+            "struggling-parent"
+          ],
+          "narrative_style": [
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "child-custody-hearing",
+            "family-court",
+            "social-media-controversy"
+          ],
+          "maturity_and_content": [
+            "relationship-issues",
+            "legal-battles"
+          ]
+        },
+        "keyword_sentence": "Teen Mom 2 offers a dramatic and emotional look at the lives of young mothers navigating parenthood, relationships, and legal battles in modern-day America."
+      },
+      "duration_seconds": 60.02540183067322
+    }
+  }
+}

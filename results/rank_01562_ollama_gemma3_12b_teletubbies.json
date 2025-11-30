@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "Teletubbies",
+    "overview": "Pre-school fun, fantasy and education with colourful rotund characters Tinky Winky, Dipsy, Laa-Laa and Po in a magical land called Teletubbyland.",
+    "genres": [
+      "Family",
+      "Kids"
+    ],
+    "release_year": 1997,
+    "vote_count": 135
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Teletubbies is a British children's television series designed for very young viewers. The show features four brightly colored, antenna-sporting creatures, the Teletubbies, who interact with each other and their environment in a simple, repetitive, and visually stimulating manner. It emphasizes gentle play, exploration, and social interaction, aiming to entertain and subtly educate preschoolers. The series' unique aesthetic and minimalist narrative have made it a cultural phenomenon, though its unconventional style has also drawn criticism.",
+        "spoiler_rich_plot_summary": "The series revolves around the daily lives of Tinky Winky, Dipsy, Laa-Laa, and Po, who reside in a grassy landscape known as Teletubbyland. Each episode typically begins with the Teletubbies emerging from their respective hills, engaging in playful activities like bouncing, rolling, and interacting with the iconic Tubbytronic Superdome. The Tubbytronic Superdome dispenses Tubby Custard, a treat that fuels their playtime. Throughout the episodes, they encounter various objects and creatures, often reacting with curiosity and delight. The Noo-noo, a vacuum cleaner, cleans up messes and occasionally interacts with the Teletubbies. The series concludes with the Teletubbies returning to their hills, signaling the end of the day and the beginning of the next episode, maintaining a cyclical and predictable structure.",
+        "categorized_keywords": {
+          "themes": [
+            "childhood-innocence",
+            "friendship",
+            "play",
+            "exploration",
+            "imagination"
+          ],
+          "plot_and_concepts": [
+            "repetitive-narrative",
+            "circular-plot",
+            "nonsense-humor"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "gentle",
+            "playful",
+            "bright"
+          ],
+          "genre_and_tropes": [
+            "preschool-tv",
+            "educational-tv",
+            "nonsense-genre"
+          ],
+          "setting": [
+            "pastoral-setting",
+            "fantasy-world",
+            "teletubbyland"
+          ],
+          "character_archetypes": [
+            "innocent-protagonist",
+            "childlike-character"
+          ],
+          "narrative_style": [
+            "episodic-format",
+            "minimalist-narrative"
+          ],
+          "target_audience": [
+            "preschoolers",
+            "young-children"
+          ],
+          "detail_plot": [
+            "tubbytronic-superdome",
+            "tubby-custard",
+            "noo-noo",
+            "antenna"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Teletubbies is a gentle and playful preschool television series set in a bright fantasy world, emphasizing friendship, exploration, and the joys of childhood through a repetitive and minimalist narrative."
+      },
+      "duration_seconds": 59.66049408912659
+    }
+  }
+}

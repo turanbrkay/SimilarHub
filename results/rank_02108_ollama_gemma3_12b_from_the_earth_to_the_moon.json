@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "From the Earth to the Moon",
+    "overview": "The story of the United States' space program, from its beginnings in 1961 to the final moon mission in 1972.",
+    "genres": [
+      "Action & Adventure",
+      "Drama"
+    ],
+    "release_year": 1998,
+    "vote_count": 89
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "From the Earth to the Moon is a historical drama miniseries chronicling the United States' ambitious space program during the late 1960s and early 1970s. The series blends meticulous historical detail with compelling character studies, exploring the dedication, ingenuity, and personal sacrifices involved in achieving the monumental goal of landing a man on the moon. It portrays the technical challenges, political pressures, and human drama behind the Apollo missions, offering a nuanced perspective on a pivotal moment in human history. The series aims to capture the spirit of innovation and the collaborative effort that defined the era.",
+        "spoiler_rich_plot_summary": "The miniseries begins in 1961, following President Kennedy's challenge to land a man on the moon before the end of the decade. It traces the early days of NASA, showcasing the recruitment and training of the Mercury Seven astronauts and the subsequent Gemini program. The narrative then focuses on the Apollo program, detailing the development of the Saturn V rocket and the construction of the lunar module. Key missions, including Apollo 11, are depicted with a focus on the astronauts' experiences and the ground control teams' efforts. The series explores the personal lives of the astronauts and their families, highlighting the emotional toll of the dangerous missions. As the program progresses, the series examines the shifting political landscape and the growing public skepticism surrounding the cost and purpose of the space program. The final missions are portrayed as a culmination of years of effort, but also as a reflection on the changing priorities of the nation. The series concludes with the final Apollo mission, Apollo 17, and a look at the legacy of the program.",
+        "categorized_keywords": {
+          "themes": [
+            "scientific-achievement",
+            "national-pride",
+            "cold-war",
+            "human-ambition",
+            "sacrifice",
+            "teamwork",
+            "exploration"
+          ],
+          "plot_and_concepts": [
+            "space-race",
+            "historical-drama",
+            "rocket-science",
+            "mission-control",
+            "apollo-program"
+          ],
+          "mood_and_tone": [
+            "inspiring",
+            "patriotic",
+            "tense",
+            "optimistic",
+            "reflective"
+          ],
+          "genre_and_tropes": [
+            "historical-fiction",
+            "biographical-drama",
+            "technological-innovation"
+          ],
+          "setting": [
+            "1960s",
+            "1970s",
+            "united-states",
+            "kennedy-space-center",
+            "moon"
+          ],
+          "character_archetypes": [
+            "brilliant-engineer",
+            "courageous-astronaut",
+            "dedicated-scientist",
+            "visionary-leader"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "documentary-style"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "history-buffs"
+          ],
+          "detail_plot": [
+            "saturn-v-rocket",
+            "apollo-capsule",
+            "lunar-module",
+            "mission-patches",
+            "american-flag-on-moon"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "From the Earth to the Moon is an inspiring historical drama chronicling the United States’ ambitious space program during the Cold War, showcasing the dedication and technological innovation required to achieve the monumental goal of landing a man on the moon."
+      },
+      "duration_seconds": 69.68590497970581
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Alias Grace",
+    "overview": "Based on the true story of Grace Marks, a housemaid and immigrant from Ireland who was imprisoned in 1843, perhaps wrongly, for the murder of her employer Thomas Kinnear. Grace claims to have no memory of the murder yet the facts are irrefutable. A decade after, Dr. Simon Jordan tries to help Grace recall her past.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2017,
+    "vote_count": 233
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Alias Grace is a historical crime drama that explores themes of memory, identity, and social class through the lens of a young Irish immigrant accused of murder. The series blends elements of psychological thriller and gothic mystery, creating a somber and unsettling atmosphere as a doctor attempts to unravel the truth behind Grace Marks's past. The narrative is driven by ambiguity and unreliable narration, prompting viewers to question the nature of guilt and innocence. The series examines the societal pressures and prejudices that shaped Grace's life and the complexities of the legal system in 19th-century Canada.",
+        "spoiler_rich_plot_summary": "The series begins with Grace Marks, a young Irish immigrant working as a housemaid in Upper Canada, imprisoned for the murders of her employer, Thomas Kinnear, and his housekeeper, Nancy Montgomery. A decade later, Dr. Simon Jordan, a physician interested in mental illness and hypnotism, is commissioned to investigate Grace's memories in an attempt to determine her culpability. As Dr. Jordan delves into Grace’s past through hypnosis and interviews with those who knew her, a complex picture emerges of a vulnerable young woman caught in a web of secrets and manipulation. Flashbacks reveal Grace's difficult childhood in Ireland, her journey to Canada, and her employment at Kinnear House, where she develops a close, and potentially romantic, relationship with Nancy Montgomery. The investigation uncovers a history of abuse, betrayal, and suppressed trauma, blurring the lines between Grace’s innocence and her possible involvement in the murders. While Dr. Jordan believes Grace is a victim of circumstance and possibly hypnotically influenced, others, including the local authorities, remain convinced of her guilt. The series culminates in a poignant and ambiguous conclusion, leaving the audience to question whether Grace is a manipulative killer or a tragically innocent pawn in a larger, more sinister game, and whether her memories are truly her own.",
+        "categorized_keywords": {
+          "themes": [
+            "memory-loss",
+            "identity-quest",
+            "social-class",
+            "innocence",
+            "guilt",
+            "trauma",
+            "abuse",
+            "manipulation"
+          ],
+          "plot_and_concepts": [
+            "historical-drama",
+            "true-crime",
+            "hypnosis",
+            "unreliable-narrator",
+            "investigation",
+            "gothic-mystery"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "suspenseful",
+            "unsettling",
+            "melancholy"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "historical-fiction",
+            "psychological-thriller"
+          ],
+          "setting": [
+            "19th-century",
+            "canada",
+            "rural-setting"
+          ],
+          "character_archetypes": [
+            "unreliable-protagonist",
+            "wise-mentor",
+            "victim"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "flashbacks"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "hypnosis-session",
+            "rural-house",
+            "courtroom-scene",
+            "diary-entry"
+          ],
+          "maturity_and_content": [
+            "abuse-themes",
+            "sexual-content"
+          ]
+        },
+        "keyword_sentence": "Alias Grace is a somber and suspenseful historical drama that explores themes of memory, guilt, and abuse through the investigation of a young Irish immigrant’s possible involvement in a series of murders in 19th-century Canada."
+      },
+      "duration_seconds": 70.30207872390747
+    }
+  }
+}

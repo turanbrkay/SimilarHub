@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Hunter Street",
+    "overview": "Sleuthy foster siblings Max, Tess, Sal, Anika, and Daniel Hunter find new quests, more mysteries, and even new Hunter sibs!",
+    "genres": [
+      "Family",
+      "Action & Adventure",
+      "Comedy",
+      "Kids",
+      "Mystery"
+    ],
+    "release_year": 2017,
+    "vote_count": 32
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Hunter Street is a family-friendly action-adventure series centered around a group of foster siblings who solve mysteries and embark on quests. The show blends elements of comedy, action, and mystery, appealing to a younger audience with its fast-paced plots and focus on sibling relationships. The series emphasizes teamwork, problem-solving, and the importance of family, even when that family is unconventional. Each episode typically presents a new challenge or puzzle for the siblings to overcome, fostering a sense of excitement and discovery. The show’s lighthearted tone and focus on positive values make it an engaging and entertaining experience for viewers.",
+        "spoiler_rich_plot_summary": "The series begins with Max, Tess, Sal, Anika, and Daniel Hunter living in foster care, constantly moving from one temporary home to another. They quickly discover they possess a unique ability to uncover secrets and solve mysteries, often stumbling upon clues related to larger conspiracies. As the series progresses, the Hunter siblings encounter new foster siblings, expanding their team and increasing their capabilities. They investigate various cases, ranging from stolen artifacts to uncovering hidden identities, often facing off against recurring antagonists who seek to exploit the siblings' abilities. The Hunters consistently work to expose corruption and injustice, using their skills to help those in need. Throughout their adventures, the siblings strengthen their bond and learn to rely on each other, ultimately forming a close-knit, unconventional family unit despite their constantly changing living situations. The overarching narrative involves a search for their birth parents and a deeper understanding of their own unique abilities.",
+        "categorized_keywords": {
+          "themes": [
+            "family-loyalty",
+            "sibling-bond",
+            "mystery-solving",
+            "justice",
+            "found-family",
+            "adventure"
+          ],
+          "plot_and_concepts": [
+            "mystery-investigation",
+            "treasure-hunt",
+            "conspiracy",
+            "secret-identity",
+            "heist"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "adventurous",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "family-adventure",
+            "kids-mystery",
+            "found-family",
+            "treasure-hunt"
+          ],
+          "setting": [
+            "modern-day",
+            "urban-environment",
+            "various-locations"
+          ],
+          "character_archetypes": [
+            "resourceful-protagonist",
+            "loyal-sibling",
+            "clever-detective"
+          ],
+          "narrative_style": [
+            "episodic-adventure",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "kids",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "secret-passages",
+            "coded-messages",
+            "hidden-clues",
+            "map"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Hunter Street is a lighthearted family-adventure series where resourceful siblings solve mysteries and uncover secrets in a modern urban environment, emphasizing the importance of loyalty and found-family bonds."
+      },
+      "duration_seconds": 75.70643925666809
+    }
+  }
+}

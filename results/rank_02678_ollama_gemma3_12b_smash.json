@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Smash",
+    "overview": "A songwriting duo tries to create a hit with a Broadway musical based on the life of Marilyn Monroe.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2012,
+    "vote_count": 59
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Smash is a drama series centered on the creation of a new Broadway musical. The show explores the collaborative process, the personal sacrifices involved in artistic endeavors, and the pressures of the entertainment industry. It interweaves the creative journey of the musical's development with the personal lives of the writers, composers, actors, and producers, examining themes of ambition, love, and the pursuit of dreams. The series blends elements of drama and musical theater, offering a glimpse behind the curtain of a high-stakes artistic production.",
+        "spoiler_rich_plot_summary": "The series begins with a workshop for a new musical, 'Bombshell,' based on the life of Marilyn Monroe. Julia and Tom, a songwriting duo, are tasked with creating the music, while Karen and Ivy compete for the lead role of Marilyn. As the musical progresses through rehearsals and previews, personal and professional conflicts arise within the creative team and among the cast. Julia and Tom's relationship is tested by the pressures of the project and their own ambitions. Karen and Ivy's rivalry intensifies, impacting their performances and personal lives. The show faces numerous setbacks, including creative disagreements, financial difficulties, and critical reviews. Throughout the process, characters grapple with their own insecurities, past traumas, and the compromises necessary to achieve their goals. The musical ultimately premieres, but the outcome is bittersweet, revealing the complex realities of success and the toll it takes on those involved. Relationships evolve and dissolve, leaving a lasting impact on the characters’ lives, and the future of the musical remains uncertain.",
+        "categorized_keywords": {
+          "themes": [
+            "ambition",
+            "creative-process",
+            "relationships",
+            "sacrifice",
+            "fame",
+            "artistic-integrity"
+          ],
+          "plot_and_concepts": [
+            "broadway-musical",
+            "behind-the-scenes",
+            "creative-collaboration",
+            "casting-drama",
+            "premiere-night"
+          ],
+          "mood_and_tone": [
+            "dramatic",
+            "emotional",
+            "tense",
+            "hopeful"
+          ],
+          "genre_and_tropes": [
+            "drama",
+            "musical-theater",
+            "ensemble-cast",
+            "romantic-relationships"
+          ],
+          "setting": [
+            "new-york-city",
+            "broadway",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "aspiring-artist",
+            "driven-composer",
+            "rival-actresses",
+            "ambitious-producer"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "musical-numbers",
+            "rehearsal-room",
+            "opening-night",
+            "marilyn-monroe-biography"
+          ],
+          "maturity_and_content": [
+            "relationship-issues",
+            "career-pressure"
+          ]
+        },
+        "keyword_sentence": "Smash is a dramatic series set in modern-day New York City, exploring the creative process and complex relationships surrounding the production of a Broadway musical about Marilyn Monroe."
+      },
+      "duration_seconds": 61.728679180145264
+    }
+  }
+}

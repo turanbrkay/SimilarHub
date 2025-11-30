@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "The All-New Super Friends Hour",
+    "overview": "The All-New Super Friends Hour is an American animated television series about a team of superheroes which ran from September 10, 1977, to September 2, 1978, on ABC. It was produced by Hanna-Barbera and is based on the Justice League and associated comic book characters published by DC Comics.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Animation"
+    ],
+    "release_year": 1977,
+    "vote_count": 85
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The All-New Super Friends Hour is a classic animated series aimed at a younger audience, showcasing a team of DC Comics superheroes battling a recurring threat of villains. The show emphasizes teamwork, friendship, and the importance of using superpowers responsibly. It's a lighthearted and optimistic adventure series, characteristic of 1970s Saturday morning cartoons, designed to entertain and inspire children with heroic ideals. The series blends action and humor, creating a generally positive and accessible viewing experience. It serves as a foundational introduction to the DC universe for many viewers.",
+        "spoiler_rich_plot_summary": "The series revolves around a core group of superheroes – Superman, Batman, Wonder Woman, Aquaman, Flash, and Green Arrow – who are repeatedly confronted by a coalition of villains led by Lex Luthor, Gorilla Grodd, and Darkseid. Each episode typically presents a new crisis threatening the world, requiring the Super Friends to combine their unique abilities to overcome the challenge. The villains often employ elaborate schemes and advanced technology, pushing the heroes to their limits. While the series doesn't feature a continuous overarching narrative, recurring themes of good versus evil and the importance of unity are consistently explored. The Super Friends face numerous threats, but ultimately prevail, reinforcing the message that even the most formidable adversaries can be defeated through cooperation and courage. The series concludes with the Super Friends successfully thwarting the villains' latest plan, maintaining the status quo of heroic vigilance.",
+        "categorized_keywords": {
+          "themes": [
+            "good-vs-evil",
+            "teamwork",
+            "friendship",
+            "heroism",
+            "responsibility",
+            "justice"
+          ],
+          "plot_and_concepts": [
+            "superhero-team",
+            "villain-coalition",
+            "world-threat",
+            "crisis-response",
+            "monster-of-the-week"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "optimistic",
+            "wholesome",
+            "adventurous"
+          ],
+          "genre_and_tropes": [
+            "superhero-action",
+            "animated-series",
+            "childrens-entertainment"
+          ],
+          "setting": [
+            "generic-city",
+            "earth",
+            "fictional-world"
+          ],
+          "character_archetypes": [
+            "superhero",
+            "villain",
+            "mentor"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "serialized-elements"
+          ],
+          "target_audience": [
+            "children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "superhero-costumes",
+            "batcave",
+            "flying-vehicles",
+            "villain-lair"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The All-New Super Friends Hour is a lighthearted and optimistic animated series for children, showcasing a team of superheroes battling villains and emphasizing the importance of teamwork and heroic responsibility."
+      },
+      "duration_seconds": 60.18007183074951
+    }
+  }
+}

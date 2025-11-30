@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Day Break",
+    "overview": "Today Detective Brett Hopper will be accused of shooting state attorney Alberto Garza. He will offer his rock solid alibi. He will realize he's been framed. And he will run. Then, he will wake up and start the day over again.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Action & Adventure"
+    ],
+    "release_year": 2006,
+    "vote_count": 80
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Day Break is a science fiction drama centered on a detective trapped in a time loop, forced to relive the same day while attempting to uncover a conspiracy that frames him for a crime. The series blends elements of crime procedural, action thriller, and philosophical exploration, creating a suspenseful and thought-provoking narrative. The show explores themes of justice, identity, and the burden of knowledge, as the protagonist struggles to break free from the repeating cycle and expose the truth. The series maintains a tense atmosphere, driven by the protagonist's desperate attempts to alter events and the constant threat of the loop resetting.",
+        "spoiler_rich_plot_summary": "The series begins with Detective Brett Hopper seemingly shooting and killing State Attorney Alberto Garza. Hopper provides an alibi, but evidence mounts against him, leading to his arrest. However, he abruptly wakes up to find himself reliving the same day. Initially disoriented, Hopper realizes he's trapped in a time loop, forced to repeat the same events. He begins experimenting, attempting to change the outcome of the day and clear his name. As he investigates, he uncovers a complex conspiracy involving powerful figures within the city, who are manipulating events to frame him. Through repeated iterations of the day, Hopper gathers clues, identifies key players in the conspiracy, and attempts to expose their plot. He forms alliances with some individuals who become aware of the loop, while others remain oblivious to his predicament. The conspiracy deepens, revealing a larger scheme that threatens the entire city. Brett must unravel the truth and break the loop before he is permanently trapped or the conspiracy succeeds in its ultimate goal, which involves more than just framing him for murder.",
+        "categorized_keywords": {
+          "themes": [
+            "time-loop",
+            "justice",
+            "identity",
+            "conspiracy",
+            "redemption",
+            "memory",
+            "fate"
+          ],
+          "plot_and_concepts": [
+            "time-travel",
+            "crime-procedural",
+            "police-investigation",
+            "political-thriller",
+            "framed-for-crime"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "tense",
+            "dark",
+            "mysterious"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "action-thriller",
+            "crime-drama",
+            "mystery"
+          ],
+          "setting": [
+            "modern-day",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "detective",
+            "anti-hero",
+            "corrupt-official"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "looping-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "police-badge",
+            "crime-scene",
+            "courtroom",
+            "city-scape"
+          ],
+          "maturity_and_content": [
+            "violence"
+          ]
+        },
+        "keyword_sentence": "Trapped in a repeating cycle, a detective must unravel a conspiracy and clear his name in this suspenseful science fiction drama that explores themes of justice, identity, and the burden of knowledge."
+      },
+      "duration_seconds": 63.37956786155701
+    }
+  }
+}

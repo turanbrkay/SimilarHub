@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Willow",
+    "overview": "Many years after the events of the original film, legendary sorcerer Willow leads a group of misfit heroes on a dangerous rescue mission through a world beyond their wildest imaginations.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Drama"
+    ],
+    "release_year": 2022,
+    "vote_count": 307
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Willow is a continuation of the original 1988 film, blending familiar fantasy elements with a modern sensibility. The series follows Willow Rosenberg as he navigates a new generation of magical threats and guides a group of young heroes on a perilous journey. It explores themes of responsibility, mentorship, and the enduring power of hope in the face of darkness, offering a mix of action, adventure, and emotional depth. The series aims to recapture the charm of the original while expanding the world and introducing fresh characters and storylines.",
+        "spoiler_rich_plot_summary": "The series picks up years after the events of the first film, with Willow now a respected but somewhat reluctant hero. He is drawn back into a world of magic and danger when a new threat emerges – a mysterious and powerful sorceress named Zara, who seeks to unleash an ancient evil upon the land. Zara's actions force Willow to confront his past failures and train a new generation of heroes, including a young woman named Elora, who possesses a hidden connection to Zara. As the group journeys across treacherous landscapes, they encounter various magical creatures and face formidable challenges, uncovering secrets about Zara's motivations and the true nature of the looming darkness. The heroes must learn to trust each other and harness their unique abilities to stand against Zara and prevent her from unleashing chaos upon the realm. The journey tests their courage and forces them to make difficult choices, ultimately leading to a confrontation that will determine the fate of the world.",
+        "categorized_keywords": {
+          "themes": [
+            "responsibility",
+            "mentorship",
+            "hope",
+            "good-vs-evil",
+            "coming-of-age",
+            "friendship"
+          ],
+          "plot_and_concepts": [
+            "magic-system",
+            "prophecy",
+            "ancient-evil",
+            "rescue-mission",
+            "hidden-powers"
+          ],
+          "mood_and_tone": [
+            "adventurous",
+            "hopeful",
+            "epic",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "fantasy",
+            "coming-of-age",
+            "hero-journey",
+            "found-family"
+          ],
+          "setting": [
+            "fantasy-world",
+            "magical-forest",
+            "ancient-ruins"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "young-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "magic-wand",
+            "ancient-scroll",
+            "magical-creatures"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Willow is an adventurous fantasy series that follows a reluctant hero and his companions as they embark on a perilous journey to confront an ancient evil and protect a magical world."
+      },
+      "duration_seconds": 56.88332676887512
+    }
+  }
+}

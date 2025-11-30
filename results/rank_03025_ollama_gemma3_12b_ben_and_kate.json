@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "Ben and Kate",
+    "overview": "Ben and Kate are a pair of odd-couple siblings - one, a responsible single mom; the other, an exuberant dreamer - who reunite to help raise Kate's daughter.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2012,
+    "vote_count": 47
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Ben and Kate is a sitcom centered on the unlikely reunion of two siblings, a pragmatic single mother and her free-spirited brother. The series explores the challenges and comedic moments that arise as they navigate co-parenting and rediscover their familial bond. With a lighthearted tone and focus on character dynamics, the show offers a familiar yet refreshing take on family relationships and the complexities of modern life. It blends elements of situational comedy with a heartwarming exploration of personal growth and acceptance.",
+        "spoiler_rich_plot_summary": "The series begins with Kate, a single mother struggling to balance work and raising her daughter, Bailey. Her brother, Ben, a perpetually optimistic and somewhat immature dreamer, unexpectedly moves in to help. Initially, their contrasting personalities and parenting styles clash, leading to numerous comedic misunderstandings and frustrating situations. As they spend more time together, they begin to understand and appreciate each other's perspectives, leading to a gradual strengthening of their sibling relationship. Throughout the series, they encounter various personal and professional challenges, often relying on each other for support and guidance. While their differences remain a source of humor, they ultimately learn to embrace their unique qualities and build a stronger, more loving family unit. The show explores themes of forgiveness, second chances, and the enduring power of familial love, culminating in a sense of stability and shared purpose for both siblings.",
+        "categorized_keywords": {
+          "themes": [
+            "family-relationships",
+            "sibling-bond",
+            "second-chances",
+            "personal-growth",
+            "co-parenting",
+            "acceptance"
+          ],
+          "plot_and_concepts": [
+            "odd-couple-dynamic",
+            "situational-comedy",
+            "family-dynamics"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "family-comedy",
+            "found-family"
+          ],
+          "setting": [
+            "modern-day",
+            "suburban-home"
+          ],
+          "character_archetypes": [
+            "responsible-parent",
+            "free-spirited-sibling",
+            "optimistic-dreamer"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "family-dinner",
+            "childhood-memories",
+            "sibling-rivalry",
+            "parenting-struggles"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Ben and Kate is a lighthearted family comedy exploring the challenges and heartwarming moments that arise when a responsible single mother and her free-spirited brother reunite to navigate co-parenting and rediscover their sibling bond."
+      },
+      "duration_seconds": 57.749913454055786
+    }
+  }
+}

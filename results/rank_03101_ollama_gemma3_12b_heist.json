@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Heist",
+    "overview": "Millions in stolen cash. Missing luxury bourbon. Watch ordinary people almost get away with these extraordinary heists in this true crime series.",
+    "genres": [
+      "Documentary",
+      "Crime"
+    ],
+    "release_year": 2021,
+    "vote_count": 44
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Heist is a documentary series that explores real-life criminal enterprises, focusing on the meticulous planning and execution of audacious thefts. The series blends investigative journalism with a cinematic style, examining the motivations of both the perpetrators and the investigators. It delves into the complexities of the crimes, highlighting the human element behind the headlines and offering a glimpse into the world of high-stakes heists. The tone is suspenseful and analytical, examining the psychology and logistics of these extraordinary events. Ultimately, the series aims to unravel the intricate details of these crimes and the people involved.",
+        "spoiler_rich_plot_summary": "The series chronicles several distinct heists, each presented as a self-contained narrative. The first case focuses on a brazen theft of millions of dollars in cash from a secure facility, detailing the elaborate planning and the near-flawless execution that initially baffled authorities. Subsequent episodes examine other high-value targets, including a sophisticated operation to steal a collection of rare and expensive bourbon. Each heist is presented with interviews from law enforcement, former associates of the criminals, and sometimes, the perpetrators themselves. The series explores the aftermath of these crimes, detailing the investigations, the pursuit of the suspects, and the eventual outcomes – whether through capture, conviction, or continued evasion. While the series doesn't reveal the ultimate fates of all involved, it consistently emphasizes the risks and consequences associated with such criminal endeavors, highlighting the intricate web of planning, deception, and chance that defines these extraordinary events.",
+        "categorized_keywords": {
+          "themes": [
+            "crime",
+            "greed",
+            "risk",
+            "deception",
+            "justice",
+            "consequences"
+          ],
+          "plot_and_concepts": [
+            "true-crime",
+            "heist",
+            "investigation",
+            "planning",
+            "execution",
+            "police-procedural"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "analytical",
+            "serious",
+            "criminological"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "crime-procedural",
+            "investigative-journalism"
+          ],
+          "setting": [
+            "modern-day",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "criminal",
+            "investigator",
+            "mastermind"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "investigative-report"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "security-cameras",
+            "vault",
+            "police-evidence",
+            "surveillance-footage"
+          ],
+          "maturity_and_content": [
+            "crime",
+            "theft"
+          ]
+        },
+        "keyword_sentence": "Heist is a suspenseful documentary series that explores the planning and execution of real-life crimes, offering an analytical look at the risks, consequences, and intricate details of modern-day theft."
+      },
+      "duration_seconds": 61.53864812850952
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "input_data": {
+    "title": "That Mitchell and Webb Look",
+    "overview": "A comedy sketch show featuring David Mitchell and Robert Webb.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2006,
+    "vote_count": 81
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "That Mitchell and Webb Look is a British comedy sketch show starring David Mitchell and Robert Webb. The series is characterized by its surreal and often absurd humor, frequently satirizing everyday situations and societal norms through a variety of short, self-contained sketches. The show's strength lies in its clever writing, sharp wit, and the comedic chemistry between Mitchell and Webb, who often play multiple roles within each sketch. It offers a consistently funny and intellectually stimulating viewing experience, appealing to audiences who appreciate dry humor and unconventional comedic structures.",
+        "spoiler_rich_plot_summary": "The show doesn't follow a traditional narrative arc, but rather presents a series of unconnected sketches, each exploring a different scenario or concept. Recurring themes involve awkward social interactions, bureaucratic absurdities, and the anxieties of modern life. Many sketches parody historical events or genres, such as Westerns, science fiction, and period dramas, often subverting expectations and highlighting the inherent ridiculousness of the tropes. While there's no overarching plot, certain recurring characters and visual gags appear across different sketches, creating a subtle sense of continuity and rewarding attentive viewers. The show's final episodes continue in this vein, offering a final collection of surreal and satirical vignettes without resolving any particular storyline.",
+        "categorized_keywords": {
+          "themes": [
+            "satire",
+            "absurdity",
+            "social-commentary",
+            "awkwardness",
+            "bureaucracy"
+          ],
+          "plot_and_concepts": [
+            "sketch-comedy",
+            "parody",
+            "genre-bending",
+            "mockumentary"
+          ],
+          "mood_and_tone": [
+            "dry-humor",
+            "surreal",
+            "ironic",
+            "deadpan"
+          ],
+          "genre_and_tropes": [
+            "british-comedy",
+            "sketch-show",
+            "mock-history"
+          ],
+          "setting": [
+            "modern-day",
+            "british-culture"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "everyman"
+          ],
+          "narrative_style": [
+            "episodic",
+            "anthology"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "mock-western-saloon",
+            "bureaucratic-forms",
+            "historical-costumes"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "That Mitchell and Webb Look is a British sketch comedy show known for its dry humor and surreal parodies of everyday life and historical tropes."
+      },
+      "duration_seconds": 52.55985379219055
+    }
+  }
+}

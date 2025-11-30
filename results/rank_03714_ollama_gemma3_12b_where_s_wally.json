@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Where's Wally?",
+    "overview": "With the help of his magic walking stick, Wally and his dog Woof travel through space and time or to far off magical lands, solving mysteries and lending a helping hand wherever they can.",
+    "genres": [
+      "Action & Adventure",
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "release_year": 1991,
+    "vote_count": 32
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Where's Wally? is a lighthearted, animated series geared towards a family audience, blending action, adventure, and comedy. The show follows Wally and his dog Woof as they journey through various fantastical locations, often involving problem-solving and acts of kindness. Its episodic nature and focus on whimsical settings create a consistently cheerful and engaging viewing experience, emphasizing friendship and helping others. The series' charm lies in its vibrant animation and the simple, positive messages it conveys.",
+        "spoiler_rich_plot_summary": "The series primarily follows a structure where Wally and Woof receive a request for help, often delivered through a magical communication device. This leads them to a new and unique location, ranging from prehistoric jungles to futuristic cities and even alternate dimensions. Each episode presents a self-contained mystery or challenge that Wally and Woof must overcome, utilizing Wally's walking stick and their combined ingenuity. While the series doesn's have a central overarching narrative, recurring characters and locations occasionally appear, hinting at a larger, interconnected world. Wally and Woof consistently demonstrate a commitment to helping those in need, often resolving conflicts through compassion and understanding rather than direct confrontation. The series concludes with Wally and Woof moving on to their next adventure, leaving a positive impact on the people and places they've visited.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "helping-others",
+            "adventure",
+            "problem-solving",
+            "kindness"
+          ],
+          "plot_and_concepts": [
+            "episodic-format",
+            "magical-travel",
+            "mystery",
+            "quest"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "optimistic",
+            "cheerful"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "animated-comedy",
+            "family-entertainment"
+          ],
+          "setting": [
+            "fantasy-worlds",
+            "alternate-dimensions",
+            "historical-locations",
+            "futuristic-cities"
+          ],
+          "character_archetypes": [
+            "helpful-protagonist",
+            "loyal-companion",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "episodic-storytelling"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "magic-walking-stick",
+            "woof-the-dog",
+            "magical-communication-device"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Where's Wally? is a lighthearted animated series that follows a helpful protagonist and his loyal companion as they embark on magical adventures, solving mysteries and spreading kindness across fantastical worlds."
+      },
+      "duration_seconds": 66.31545495986938
+    }
+  }
+}

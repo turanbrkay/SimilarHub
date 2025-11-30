@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Boy Meets World",
+    "overview": "The coming of age events and everyday life-lessons of Cory Matthews, a Philadelphian who grows up from a young boy to a married man.",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "release_year": 1993,
+    "vote_count": 450
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Boy Meets World is a coming-of-age sitcom that follows Cory Matthews as he navigates the challenges of childhood, adolescence, and young adulthood. The series blends humor with heartfelt lessons about family, friendship, and responsibility, exploring universal themes of growing up and finding one's place in the world. Through Cory's experiences, the show examines the importance of education, the complexities of relationships, and the enduring influence of mentors and role models. It offers a nostalgic and optimistic portrayal of personal growth and the pursuit of happiness.",
+        "spoiler_rich_plot_summary": "The series begins with Cory, his younger sister Topanga, and their group of friends attending John F. Kennedy High School. Cory's relationship with Topanga Lawrence evolves from childhood friendship to a romantic partnership, a central arc throughout the series. As Cory matures, he faces typical teenage trials: navigating school, dealing with peer pressure, and striving for academic success. He is guided by his wise and supportive parents, Alan and Amy, and his eccentric but well-meaning teacher, Mr. Feeny, who serves as a constant source of advice and encouragement. Throughout the series, Cory and his friends encounter various challenges, including romantic entanglements, academic setbacks, and family conflicts. As they progress through high school and eventually college, they learn valuable lessons about themselves and the world around them. The series culminates with Cory and Topanga preparing to embark on their future together, having grown significantly from the naive children they once were. While the series explores the ups and downs of adolescence, it ultimately emphasizes the importance of family, friendship, and the pursuit of personal growth.",
+        "categorized_keywords": {
+          "themes": [
+            "coming-of-age",
+            "family-values",
+            "friendship",
+            "education",
+            "responsibility",
+            "personal-growth"
+          ],
+          "plot_and_concepts": [
+            "high-school-drama",
+            "romantic-comedy",
+            "mentor-student-relationship",
+            "growing-pains"
+          ],
+          "mood_and_tone": [
+            "nostalgic",
+            "heartwarming",
+            "optimistic",
+            "lighthearted"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "teen-drama",
+            "found-family"
+          ],
+          "setting": [
+            "suburban-america",
+            "high-school",
+            "college-campus"
+          ],
+          "character_archetypes": [
+            "naive-protagonist",
+            "wise-mentor",
+            "supportive-parents",
+            "eccentric-teacher"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "school-locker",
+            "family-dinner",
+            "mr-feeny's-advice",
+            "school-bus"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Boy Meets World is a nostalgic and heartwarming sitcom that explores the challenges of growing up in suburban America, emphasizing the importance of family, friendship, and the guidance of a wise mentor."
+      },
+      "duration_seconds": 73.12368392944336
+    }
+  }
+}

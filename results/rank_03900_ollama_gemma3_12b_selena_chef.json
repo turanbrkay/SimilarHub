@@ -1,0 +1,69 @@
+{
+  "input_data": {
+    "title": "Selena + Chef",
+    "overview": "Since social distancing at home, Selena Gomez has been spending more time in the kitchen than she ever imagined. But despite her many talents, it remains to be seen if cooking is one of them. In each episode, Selena will be joined remotely by a different master chef.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2020,
+    "vote_count": 29
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Selena + Chef is a reality television series that follows singer Selena Gomez as she attempts to learn to cook under the remote guidance of renowned chefs. The show blends humor and genuine learning as Gomez navigates culinary challenges, often with amusing results. It's a lighthearted exploration of skill acquisition, the complexities of cooking, and the joy of shared experiences, even when separated by distance. The series offers a feel-good atmosphere and a relatable portrayal of learning new skills, appealing to a broad audience.",
+        "spoiler_rich_plot_summary": "The series begins with Selena Gomez, confined to her home due to social distancing, expressing a desire to improve her cooking abilities. Each episode features a different celebrity chef who virtually instructs her on a specific dish or culinary technique. Selena's initial attempts are often fraught with comical mishaps and unexpected challenges, highlighting her lack of experience. As the series progresses, she gradually improves her skills, demonstrating a willingness to learn and a growing appreciation for the art of cooking. While she doesn't become a master chef, she gains confidence and a deeper understanding of the culinary world, culminating in a final episode where she prepares a meal for her family and friends, showcasing her journey of growth and self-discovery.",
+        "categorized_keywords": {
+          "themes": [
+            "learning-curve",
+            "self-discovery",
+            "family-connection",
+            "celebrity-culture",
+            "food-appreciation"
+          ],
+          "plot_and_concepts": [
+            "remote-learning",
+            "cooking-challenge",
+            "celebrity-mentorship",
+            "social-distancing"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "humorous",
+            "feel-good",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "reality-tv",
+            "cooking-show",
+            "celebrity-guest"
+          ],
+          "setting": [
+            "modern-day",
+            "domestic-setting"
+          ],
+          "character_archetypes": [
+            "reluctant-learner",
+            "celebrity-mentor"
+          ],
+          "narrative_style": [
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "cooking-utensils",
+            "recipe-book",
+            "virtual-screen",
+            "kitchen-counter"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Selena + Chef is a lighthearted reality show that follows Selena Gomez's humorous journey of learning to cook with the remote guidance of celebrity chefs, offering a feel-good experience for family audiences."
+      },
+      "duration_seconds": 68.86470103263855
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "The Jerry Springer Show",
+    "overview": "The Jerry Springer Show is a syndicated television tabloid talk show hosted by Jerry Springer, a former politician, broadcast in the United States and other countries. It is videotaped at the Stamford Media Center in Stamford, Connecticut and is distributed by NBC Universal Television Distribution, although it is not currently broadcast on any NBC-owned stations.",
+    "genres": [
+      "Talk"
+    ],
+    "release_year": 1991,
+    "vote_count": 44
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Jerry Springer Show is a long-running tabloid talk show known for its sensationalized and often confrontational content. The show's premise revolves around exploring interpersonal conflicts and relationship dramas, frequently involving shocking revelations and emotional outbursts. While initially presenting itself as a platform for resolving disputes, it quickly evolved into a spectacle of human drama, capitalizing on audience voyeurism and the desire for vicarious thrills. The show's impact on popular culture is undeniable, contributing to the normalization of public displays of emotion and the blurring of lines between entertainment and reality. Its format has been widely imitated, solidifying its place as a significant, albeit controversial, force in television history.",
+        "spoiler_rich_plot_summary": "The Jerry Springer Show's format typically involves guests revealing secrets, accusations, and dramatic life events to each other, often accompanied by heated arguments and physical altercations. Episodes frequently feature unexpected paternity reveals, infidelity scandals, and confrontations over romantic relationships. The show's producers often curate guests and storylines to maximize emotional impact and audience engagement, leading to carefully constructed narratives of interpersonal conflict. While ostensibly offering a space for resolution, the show often amplifies drama and sensationalism, leaving many conflicts unresolved and perpetuating cycles of emotional turmoil. The show's longevity is a testament to its ability to consistently deliver shocking and entertaining content, even as societal attitudes towards such displays of personal drama have evolved.",
+        "categorized_keywords": {
+          "themes": [
+            "relationship-drama",
+            "voyeurism",
+            "sensationalism",
+            "public-shame",
+            "interpersonal-conflict",
+            "tabloid-culture"
+          ],
+          "plot_and_concepts": [
+            "talk-show-format",
+            "reveal-secrets",
+            "confrontation",
+            "emotional-outbursts",
+            "relationship-scandals"
+          ],
+          "mood_and_tone": [
+            "shocking",
+            "controversial",
+            "dramatic",
+            "unpredictable",
+            "exploitative"
+          ],
+          "genre_and_tropes": [
+            "tabloid-talk-show",
+            "reality-tv",
+            "human-interest-story"
+          ],
+          "setting": [
+            "television-studio",
+            "connecticut"
+          ],
+          "character_archetypes": [
+            "conflicted-guests",
+            "host-mediator"
+          ],
+          "narrative_style": [
+            "serialized-episodes",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "confetti-cannon",
+            "reveal-stage",
+            "host-chair",
+            "audience-seating"
+          ],
+          "maturity_and_content": [
+            "graphic-arguments",
+            "sexual-content",
+            "emotional-distress"
+          ]
+        },
+        "keyword_sentence": "The Jerry Springer Show captivated audiences for decades with its shocking portrayals of relationship drama and sensationalized conflicts, solidifying its place as a controversial and influential force in tabloid television culture."
+      },
+      "duration_seconds": 63.202431201934814
+    }
+  }
+}

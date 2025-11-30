@@ -1,0 +1,85 @@
+{
+  "input_data": {
+    "title": "The Sopranos",
+    "overview": "The story of New Jersey-based Italian-American mobster Tony Soprano and the difficulties he faces as he tries to balance the conflicting requirements of his home life and the criminal organization he heads. Those difficulties are often highlighted through his ongoing professional relationship with psychiatrist Jennifer Melfi. The show features Tony's family members and Mafia associates in prominent roles and story arcs, most notably his wife Carmela and his cousin and protégé Christopher Moltisanti.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 1999,
+    "vote_count": 2292
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Sopranos follows New Jersey mob boss Tony Soprano as he juggles the demands of his criminal empire with the expectations of his family life. The series blends gritty crime drama with intimate psychological exploration, often using therapy sessions to reveal Tony’s inner conflicts. Themes of loyalty, power, and moral ambiguity permeate the narrative, creating a tense, darkly comic tone that reflects the absurdity of everyday mob existence. The show’s ensemble cast and serialized storytelling allow for deep character development and a realistic portrayal of organized crime. Viewers experience a complex emotional journey that oscillates between domestic tenderness and violent ruthlessness.",
+        "spoiler_rich_plot_summary": "At the series start, Tony Soprano is introduced as a respected capo who begins seeing psychiatrist Dr. Jennifer Melfi to cope with panic attacks, setting up a recurring therapeutic dynamic that exposes his vulnerabilities. Over the seasons, Tony’s leadership is challenged by internal betrayals, such as the murder of his close associate Paulie Gualtieri and the eventual death of his protégé Christopher Moltisanti, whose drug addiction and ambition create a tragic arc. The FBI’s investigation intensifies, culminating in a tense confrontation where Tony’s brother and a rival crew threaten his position. Throughout, Tony’s marriage to Carmela is strained by his infidelities and the moral compromises of his business, while his children grapple with the family’s criminal legacy. The series concludes with an ambiguous, sudden cut to black during a family dinner, leaving Tony’s fate and the future of his organization unresolved, a hallmark of the show’s open-ended storytelling.",
+        "categorized_keywords": {
+          "themes": [
+            "family-loyalty",
+            "power-ambition",
+            "psychological-therapy",
+            "moral-ambiguity",
+            "corruption",
+            "grief"
+          ],
+          "plot_and_concepts": [
+            "mob-organization",
+            "family-dynamics",
+            "therapeutic-relationship",
+            "fbi-investigation",
+            "betrayal",
+            "drug-addiction"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "gritty",
+            "intense"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "family-drama",
+            "psychological-drama",
+            "organized-crime",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "new-jersey",
+            "modern-day",
+            "american-urban"
+          ],
+          "character_archetypes": [
+            "mob-boss",
+            "psychiatrist",
+            "wife",
+            "protégé",
+            "underboss",
+            "family-man"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "character-driven"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "therapy-room",
+            "fbi-briefing",
+            "carmela-dinner",
+            "taxi-ride",
+            "cigarette-smoking"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "sexual-content",
+            "drug-use",
+            "substance-abuse",
+            "family-violence"
+          ]
+        },
+        "keyword_sentence": "The Sopranos is a gritty, character-driven crime drama set in modern-day New Jersey that explores the moral ambiguity of a mob boss balancing family loyalty and power ambition while confronting psychological turmoil."
+      },
+      "duration_seconds": 161.09074878692627
+    }
+  }
+}

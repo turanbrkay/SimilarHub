@@ -1,0 +1,70 @@
+{
+  "input_data": {
+    "title": "The Masked Singer",
+    "overview": "Celebrities compete in a singing competition with one major twist: each singer is shrouded from head to toe in an elaborate costume, complete with full face mask to conceal his or her identity. One singer will be eliminated each week, ultimately revealing his or her true identity.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2019,
+    "vote_count": 94
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Masked Singer is a reality singing competition that distinguishes itself through a unique premise: contestants perform in elaborate costumes and masks, concealing their identities from the audience and a panel of celebrity judges. The show blends elements of musical performance, deduction, and audience engagement, creating a lighthearted and often surprising viewing experience. Its appeal lies in the mystery surrounding the performers and the entertainment value of guessing their identities, fostering a playful atmosphere and broad audience appeal. The show's success hinges on the creativity of the costumes and the unexpected talent of the masked singers.",
+        "spoiler_rich_plot_summary": "Each season of The Masked Singer follows a similar structure. A group of celebrities, each hidden behind an elaborate costume and mask, compete in a singing competition. The panel of judges attempts to guess the identities of the masked singers based on their vocal performances and clues provided throughout the show. Each week, the judges deliberate and the audience votes to eliminate one singer, who is then unmasked and revealed. The competition continues until only one masked singer remains, who is crowned the winner. The clues are often misleading or double-meaning, adding to the challenge of identification and the entertainment value for both the judges and the audience. The identities of the celebrities are kept secret until their elimination, creating a significant reveal moment that drives viewership. The show's format allows for a wide range of celebrity participants, from singers and actors to athletes and comedians, ensuring a fresh and unpredictable competition each season.",
+        "categorized_keywords": {
+          "themes": [
+            "celebrity-culture",
+            "mystery",
+            "performance",
+            "competition",
+            "guessing-game"
+          ],
+          "plot_and_concepts": [
+            "hidden-identity",
+            "singing-competition",
+            "elimination-format",
+            "clue-based-guessing"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "playful",
+            "surprising",
+            "entertaining"
+          ],
+          "genre_and_tropes": [
+            "reality-television",
+            "singing-show",
+            "guessing-game-trope"
+          ],
+          "setting": [
+            "stage-performance",
+            "television-studio"
+          ],
+          "character_archetypes": [
+            "celebrity-contestant",
+            "judging-panel"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "elimination-based"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "elaborate-costumes",
+            "full-face-mask",
+            "judging-panel",
+            "voting-system"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Masked Singer is a lighthearted reality competition where celebrities perform in elaborate costumes and masks, creating a surprising guessing game for the judges and audience alike."
+      },
+      "duration_seconds": 59.75334048271179
+    }
+  }
+}

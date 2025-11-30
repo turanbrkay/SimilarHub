@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "My Name Is Earl",
+    "overview": "When petty criminal Earl Hickey wins the lottery, he sets off on a quest to repair his questionable karma.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2005,
+    "vote_count": 868
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "My Name Is Earl is a comedic exploration of redemption and second chances. The series follows Earl Hickey, a small-time criminal who, after winning the lottery, decides to right the wrongs he's committed throughout his life, using a list he's compiled. The show blends situational comedy with a surprisingly heartfelt examination of family, responsibility, and the potential for personal growth. It offers a lighthearted yet poignant look at the consequences of one's actions and the possibility of transformation, often punctuated by quirky characters and absurd situations.",
+        "spoiler_rich_plot_summary": "The series begins with Earl Hickey, a lovable but irresponsible man living a life of petty crime in Poppie's Pizza. After winning the lottery, he discovers a list he created years ago detailing all the bad things he's done. Driven by a newfound sense of purpose, Earl embarks on a quest to rectify these wrongs, attempting to make amends for his past mistakes. He is accompanied by his brother Randy, a scheming and often unreliable figure, and Joy Turner, a motel maid who becomes a significant influence in Earl's journey. Throughout the series, Earl confronts individuals he's wronged, often leading to humorous and chaotic encounters. He grapples with the complexities of forgiveness, both from others and from himself, while also navigating the challenges of family dynamics and the unexpected consequences of his actions. While Earl makes progress in righting his wrongs, his journey is far from straightforward, and he frequently encounters setbacks and unexpected complications, ultimately demonstrating that true redemption is a lifelong process.",
+        "categorized_keywords": {
+          "themes": [
+            "redemption",
+            "karma",
+            "family-dynamics",
+            "second-chances",
+            "responsibility",
+            "forgiveness"
+          ],
+          "plot_and_concepts": [
+            "list-based-quest",
+            "sitcom-redemption-arc",
+            "fish-out-of-water",
+            "small-town-life"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "found-family",
+            "feel-good-comedy"
+          ],
+          "setting": [
+            "small-town-usa",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "reluctant-hero",
+            "quirky-sidekick",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-comedy"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "list-of-wrongs",
+            "poppies-pizza",
+            "lottery-ticket",
+            "motel-room"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "My Name Is Earl is a lighthearted and optimistic sitcom about a small-town man’s quest for redemption as he attempts to right the wrongs of his past, offering a feel-good exploration of family dynamics and second chances."
+      },
+      "duration_seconds": 68.45728778839111
+    }
+  }
+}

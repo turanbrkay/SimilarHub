@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Salem's Lot",
+    "overview": "A dark terror has come to the picture-perfect town of Jerusalem's Lot, and it's up to a writer with a haunted past to uncover the horror that has taken over the town.",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2004,
+    "vote_count": 142
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Salem's Lot is a supernatural drama series that reimagines Stephen King's classic novel. The show explores themes of faith, community, and the insidious nature of evil as a seemingly idyllic town is slowly consumed by a vampire presence. It blends elements of horror, mystery, and psychological thriller, creating a suspenseful atmosphere and examining the fragility of human connection in the face of overwhelming darkness. The series focuses on the unraveling of a community and the personal struggles of those who attempt to confront the encroaching evil.",
+        "spoiler_rich_plot_summary": "The series begins with Ben Mears returning to Jerusalem's Lot, Maine, his childhood home, seeking solace and inspiration for his writing. He quickly discovers that the town is not as peaceful as it appears. A series of unexplained disappearances and unsettling events plague the community, coinciding with the arrival of Kurt Barlow, a mysterious European antiques dealer. As Ben investigates, he uncovers a dark secret: Barlow is a vampire, and he is systematically turning the townspeople into his undead servants. Alongside a local priest, Father Callahan, and a young boy named Mark, Ben attempts to expose Barlow and stop the vampire's reign of terror. The investigation reveals a long history of supernatural occurrences in the town, hinting at a deeper, more sinister force at play. As the vampire's influence spreads, the town descends into chaos, and the remaining residents must confront their deepest fears and make difficult choices to survive. The struggle becomes increasingly desperate as the line between the living and the dead blurs, and the fate of Jerusalem's Lot hangs in the balance.",
+        "categorized_keywords": {
+          "themes": [
+            "supernatural-horror",
+            "faith-and-doubt",
+            "small-town-secrets",
+            "loss-of-innocence",
+            "good-versus-evil",
+            "community-decay"
+          ],
+          "plot_and_concepts": [
+            "vampire-lore",
+            "mystery-investigation",
+            "supernatural-curse",
+            "small-town-horror",
+            "transformation-horror"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "suspenseful",
+            "eerie",
+            "gothic",
+            "creepy"
+          ],
+          "genre_and_tropes": [
+            "horror-drama",
+            "mystery-thriller",
+            "supernatural-fiction",
+            "small-town-mystery"
+          ],
+          "setting": [
+            "maine",
+            "small-town-usa",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "tormented-protagonist",
+            "enigmatic-villain"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "mystery-driven"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "antique-shop",
+            "church-bell",
+            "abandoned-house",
+            "town-square",
+            "vampire-fangs"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "horror-themes"
+          ]
+        },
+        "keyword_sentence": "Set in a seemingly peaceful Maine town, Salem's Lot is a dark and suspenseful horror drama that explores themes of faith, loss, and the insidious nature of evil as a community is terrorized by a vampire presence."
+      },
+      "duration_seconds": 70.96775507926941
+    }
+  }
+}

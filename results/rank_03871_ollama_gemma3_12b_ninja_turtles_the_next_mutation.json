@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Ninja Turtles: The Next Mutation",
+    "overview": "Everyone's favorite teenage mutants are back in live action to fight crime with help from a new ninja turtle -- a female named Venus De Milo.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Comedy",
+      "Kids"
+    ],
+    "release_year": 1997,
+    "vote_count": 30
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Ninja Turtles: The Next Mutation is a live-action television series that reimagines the classic Teenage Mutant Ninja Turtles franchise. Blending action, comedy, and elements of science fiction and fantasy, the show introduces a new turtle, Venus, to the established team. The series aims to appeal to a younger audience while retaining the core themes of family, teamwork, and fighting for justice. It features a vibrant visual style and a focus on martial arts action, though it received mixed reviews for its deviations from the source material and perceived shift in tone.",
+        "spoiler_rich_plot_summary": "The series begins with the discovery of Venus de Milo, a female turtle who possesses ninja skills and a connection to the Turtles' master, Splinter. She is brought to New York City and joins Leonardo, Donatello, Michelangelo, and Raphael in their fight against the Foot Clan, led by the sinister Shredder. Throughout the series, the Turtles face various challenges, including internal conflicts within the team and the introduction of new villains and allies. Venus struggles to find her place among the established Turtles, leading to moments of tension and growth. The Shredder consistently poses a significant threat, orchestrating elaborate schemes to undermine the Turtles and seize control of the city. The series culminates in a final confrontation where the Turtles must unite to defeat the Shredder and protect New York City, solidifying Venus's place as a valued member of the team.",
+        "categorized_keywords": {
+          "themes": [
+            "family-loyalty",
+            "teamwork",
+            "justice",
+            "acceptance",
+            "coming-of-age"
+          ],
+          "plot_and_concepts": [
+            "martial-arts",
+            "mutation",
+            "crime-fighting",
+            "secret-identity",
+            "villain-scheme"
+          ],
+          "mood_and_tone": [
+            "action-adventure",
+            "lighthearted",
+            "comedic",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "superhero-action",
+            "found-family",
+            "monster-of-the-week",
+            "teen-drama"
+          ],
+          "setting": [
+            "new-york-city",
+            "urban-environment",
+            "sewer-lair"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "skilled-warrior",
+            "new-recruit"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "kids",
+            "young-adults"
+          ],
+          "detail_plot": [
+            "ninja-weapon",
+            "sewer-system",
+            "foot-clan",
+            "pizza-parlor",
+            "mutant-creature"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Ninja Turtles: The Next Mutation is a lighthearted action-adventure series set in New York City, where a team of mutant turtles fights crime and embraces a new recruit, Venus, while upholding themes of family loyalty and teamwork."
+      },
+      "duration_seconds": 77.63661432266235
+    }
+  }
+}

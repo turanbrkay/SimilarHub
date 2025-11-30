@@ -1,0 +1,90 @@
+{
+  "input_data": {
+    "title": "Masters of Horror",
+    "overview": "An anthology series written and directed by the most famous names in horror.",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Crime",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2005,
+    "vote_count": 249
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Masters of Horror is an anthology series presenting a diverse range of horror stories, each crafted by a different acclaimed director and writer. The show's strength lies in its ability to explore various subgenres of horror, from psychological thrillers to supernatural tales, often with a focus on mature themes and unsettling narratives. The anthology format allows for experimentation and a consistently unpredictable viewing experience, appealing to fans of classic horror and those seeking more sophisticated scares. While each episode stands alone, a shared commitment to quality and a willingness to push boundaries define the series' overall tone.",
+        "spoiler_rich_plot_summary": "Masters of Horror distinguishes itself through its episodic nature, with each installment presenting a self-contained story. The series frequently delves into dark and disturbing subject matter, exploring themes of morality, societal decay, and the fragility of the human psyche. Stories range from tales of supernatural possession and vengeful spirits to explorations of psychological trauma and the consequences of unchecked ambition. While the directors and writers vary, a common thread is the willingness to challenge viewers with unsettling imagery and ambiguous endings, often leaving a lingering sense of unease long after the credits roll. The anthology format allows for a wide range of narrative styles and tones, ensuring that no two episodes are alike, and that the series consistently offers fresh and challenging horror experiences. The series concludes without a unifying narrative arc, instead maintaining its focus on individual, impactful stories.",
+        "categorized_keywords": {
+          "themes": [
+            "darkness",
+            "supernatural",
+            "morality",
+            "psychological-horror",
+            "revenge",
+            "isolation",
+            "fear",
+            "loss"
+          ],
+          "plot_and_concepts": [
+            "anthology-series",
+            "short-story",
+            "supernatural-horror",
+            "psychological-thriller",
+            "revenge-plot",
+            "moral-ambiguity"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "suspenseful",
+            "creepy",
+            "disturbing",
+            "unsettling",
+            "gothic"
+          ],
+          "genre_and_tropes": [
+            "horror",
+            "anthology",
+            "gothic-horror",
+            "psychological-horror",
+            "supernatural-thriller"
+          ],
+          "setting": [
+            "modern-day",
+            "small-town-america",
+            "isolated-locations"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "victim",
+            "tormentor",
+            "outsider"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "standalone-episode",
+            "short-form"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "isolated-house",
+            "creepy-doll",
+            "abandoned-building",
+            "dark-forest",
+            "old-photograph"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "sexual-content",
+            "disturbing-imagery"
+          ]
+        },
+        "keyword_sentence": "Masters of Horror delivers unsettling and graphic tales of darkness and psychological horror, exploring mature themes through standalone episodes aimed at adult viewers."
+      },
+      "duration_seconds": 58.28603649139404
+    }
+  }
+}

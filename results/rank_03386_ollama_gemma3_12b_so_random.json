@@ -1,0 +1,70 @@
+{
+  "input_data": {
+    "title": "So Random!",
+    "overview": "\"So Random\" has the biggest cast, the biggest stars, and the biggest laughs on Disney Channel! Nothing is off limits in this all new musical sketch comedy. Each episode features original skits, songs and parodies with celebrity guest stars like Tony Hawk, Mitchel Musso and Selena Gomez!",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2011,
+    "vote_count": 38
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "So Random is a fast-paced, sketch comedy series aimed at a young audience. The show utilizes a large ensemble cast and frequent celebrity guest appearances to deliver a mix of original songs, parodies, and comedic skits. Its appeal lies in its lighthearted, irreverent humor and its embrace of pop culture trends. The series prioritizes broad comedic appeal over complex narratives, offering a consistently upbeat and energetic viewing experience.",
+        "spoiler_rich_plot_summary": "The series doesn't follow a traditional narrative arc. Each episode presents a collection of unrelated sketches, songs, and parodies, often centered around current trends and pop culture references. Recurring characters and running gags emerge organically from the improvisational nature of the show. While there's no overarching plot, the ensemble cast develops a sense of camaraderie and playful rivalry throughout the series, contributing to the show's overall comedic dynamic. The show concludes with a final episode that celebrates the cast's journey and offers a fond farewell to the audience.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "pop-culture",
+            "celebrity-humor",
+            "improvisation",
+            "youth-comedy"
+          ],
+          "plot_and_concepts": [
+            "sketch-comedy",
+            "musical-comedy",
+            "parody",
+            "ensemble-cast"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "energetic",
+            "silly"
+          ],
+          "genre_and_tropes": [
+            "teen-comedy",
+            "musical-comedy",
+            "sketch-comedy"
+          ],
+          "setting": [
+            "modern-day",
+            "studio-setting"
+          ],
+          "character_archetypes": [
+            "ensemble-cast",
+            "youthful-protagonists"
+          ],
+          "narrative_style": [
+            "episodic",
+            "sketch-format"
+          ],
+          "target_audience": [
+            "young-adult",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "studio-stage",
+            "costume-changes",
+            "musical-numbers",
+            "celebrity-cameos"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "So Random delivers lighthearted, energetic sketch comedy for a young audience, blending musical numbers and celebrity cameos with a focus on friendship and pop-culture references."
+      },
+      "duration_seconds": 46.197270154953
+    }
+  }
+}

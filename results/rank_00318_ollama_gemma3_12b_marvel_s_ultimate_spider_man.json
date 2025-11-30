@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Marvel's Ultimate Spider-Man",
+    "overview": "While being trained by S.H.I.E.L.D., Spider-Man battles evil with a new team of teen colleagues.",
+    "genres": [
+      "Kids",
+      "Action & Adventure",
+      "Animation",
+      "Comedy"
+    ],
+    "release_year": 2012,
+    "vote_count": 932
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Marvel's Ultimate Spider-Man is a lighthearted, animated series aimed at a younger audience, blending superhero action with comedic elements. The show follows Peter Parker as he balances his high school life with his responsibilities as Spider-Man, often under the guidance of S.H.I.E.L.D. and alongside a rotating team of teenage allies. It's a family-friendly adventure that emphasizes teamwork and the challenges of growing up while fighting crime, drawing heavily on the broader Marvel universe for both villains and supporting characters. The series prioritizes action and humor over complex narratives, offering a consistently entertaining experience for younger viewers and fans of the Marvel franchise.",
+        "spoiler_rich_plot_summary": "The series begins with Peter Parker being recruited by S.H.I.E.L.D. and receiving training from Nick Fury, who recognizes his potential as a superhero. He assembles a team of young heroes, including Nova, Ironheart, Power Man, and White Tiger, forming the 'Spider-Team' to tackle threats too large for him to handle alone. Throughout the series, the team faces a recurring cast of iconic Marvel villains, such as Doctor Octopus, the Green Goblin, and Venom, often dealing with their own personal struggles alongside the larger threats. The overarching narrative involves Peter's continued development as a hero, learning to rely on his team and confront increasingly complex challenges. Later seasons introduce more significant threats, including Kang the Conqueror, who manipulates events across time, forcing the Spider-Team to confront their past and future selves. While the series maintains a generally optimistic tone, it explores themes of responsibility, sacrifice, and the importance of friendship as the young heroes mature and face increasingly dangerous situations. The final arc sees the team facing a combined threat from multiple villains, culminating in a climactic battle that tests their skills and their bonds.",
+        "categorized_keywords": {
+          "themes": [
+            "coming-of-age",
+            "teamwork",
+            "responsibility",
+            "friendship",
+            "heroism",
+            "sacrifice"
+          ],
+          "plot_and_concepts": [
+            "superhero-team",
+            "time-travel",
+            "alternate-timeline",
+            "villain-team-up",
+            "mentor-student-relationship"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "comedic",
+            "action-packed",
+            "optimistic",
+            "family-friendly"
+          ],
+          "genre_and_tropes": [
+            "superhero-action",
+            "teen-adventure",
+            "found-family",
+            "coming-of-age-story"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day",
+            "marvel-universe"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "teen-sidekick",
+            "superhero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "episodic-adventure"
+          ],
+          "target_audience": [
+            "kids",
+            "young-adults"
+          ],
+          "detail_plot": [
+            "spider-suit",
+            "nick-fury",
+            "shield-headquarters",
+            "spider-team-hq"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Marvel's Ultimate Spider-Man is a lighthearted, action-packed series for kids and young adults, following a team of teen heroes as they navigate coming-of-age challenges and fight villains within the expansive Marvel universe."
+      },
+      "duration_seconds": 114.46855139732361
+    }
+  }
+}

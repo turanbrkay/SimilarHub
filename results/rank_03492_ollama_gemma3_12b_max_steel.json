@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "Max Steel",
+    "overview": "A teenage boy with accidental body enhancements fights the enemies of peace as a super-powered secret agent.",
+    "genres": [
+      "Animation"
+    ],
+    "release_year": 2000,
+    "vote_count": 36
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Max Steel is an animated action series centered on a teenager who gains extraordinary abilities and becomes a covert operative. The show blends elements of superhero action, science fiction, and adventure, targeting a younger audience with its fast-paced action sequences and themes of teamwork and responsibility. The narrative explores the challenges of balancing a normal life with a secret identity and the moral implications of wielding immense power. The series emphasizes the importance of friendship and overcoming adversity through collaboration and ingenuity.",
+        "spoiler_rich_plot_summary": "The series begins with Max Steel, a seemingly ordinary teenager, accidentally merging with Steel, an alien technology, granting him superhuman strength, speed, and the ability to manipulate energy. He is recruited by N-Tec, a clandestine organization dedicated to protecting the world from threats, and paired with Washington, a seasoned operative who serves as his mentor and guide. Throughout the series, Max and Washington confront a recurring antagonist, Dr. Malthus, who seeks to exploit Steel's power for his own nefarious purposes. They face numerous challenges, battling rogue agents, advanced weaponry, and environmental disasters, all while struggling to maintain their secret identities and navigate the complexities of their partnership. As the series progresses, Max grapples with the ethical implications of his abilities and the potential for misuse, ultimately striving to use his powers for the greater good and safeguard the world from escalating dangers. The final arc sees a confrontation with a more powerful iteration of Dr. Malthus, requiring Max to fully embrace his abilities and work alongside Washington and other allies to prevent a global catastrophe.",
+        "categorized_keywords": {
+          "themes": [
+            "responsibility",
+            "teamwork",
+            "identity-quest",
+            "good-vs-evil",
+            "coming-of-age"
+          ],
+          "plot_and_concepts": [
+            "superhero-action",
+            "secret-identity",
+            "advanced-technology",
+            "espionage",
+            "environmental-disaster"
+          ],
+          "mood_and_tone": [
+            "action-packed",
+            "adventurous",
+            "lighthearted"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "teen-adventure",
+            "sci-fi",
+            "found-family"
+          ],
+          "setting": [
+            "modern-day",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "mentor",
+            "villain"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "young-adult"
+          ],
+          "detail_plot": [
+            "steel-augmentation",
+            "n-tec-headquarters",
+            "dr-malthus-lair",
+            "advanced-weaponry"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Max Steel is an animated teen adventure series that blends superhero action and advanced technology with themes of responsibility and teamwork, set in a modern urban environment."
+      },
+      "duration_seconds": 54.59042406082153
+    }
+  }
+}

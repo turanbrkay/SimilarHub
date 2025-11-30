@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Danger Mouse",
+    "overview": "Danger Mouse, the world's greatest secret agent, and his side-kick Penfold work to foil the evil schemes of Baron Greenback.",
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "release_year": 1981,
+    "vote_count": 55
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Danger Mouse is a British animated comedy series that follows the adventures of a secret agent and his loyal sidekick as they thwart the plans of a recurring villain. The show blends elements of spy fiction with slapstick humor and absurdist situations, creating a lighthearted and entertaining experience for audiences of all ages. Its episodic nature and reliance on comedic timing make it a classic example of children's animation with broad appeal. The series consistently balances action and humor, creating a unique and enduring charm.",
+        "spoiler_rich_plot_summary": "The series revolves around Danger Mouse, a highly skilled secret agent working for the Department of Dangerous Missions (DDM). He is constantly battling Baron Greenback, a villainous mastermind with a penchant for elaborate schemes and a network of henchmen, including the formidable Professor Strangelove. Each episode typically presents a new threat to the world, requiring Danger Mouse and Penfold to embark on a mission filled with perilous situations and comical mishaps. While the specific plots vary, the underlying conflict between good and evil remains constant, with Danger Mouse consistently emerging victorious, albeit often through a combination of skill and sheer luck. Baron Greenback's plans are frequently thwarted by Danger Mouse's quick thinking and Penfold's unintentional assistance, leading to a recurring cycle of villainy and heroic intervention. The series maintains a consistent tone, with Baron Greenback's schemes always being ultimately foiled, ensuring a satisfying resolution to each episode.",
+        "categorized_keywords": {
+          "themes": [
+            "good-vs-evil",
+            "heroism",
+            "friendship",
+            "loyalty",
+            "adventure"
+          ],
+          "plot_and_concepts": [
+            "secret-agent",
+            "villainous-plot",
+            "spy-gadgets",
+            "mission-based",
+            "comedic-conflict"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "absurdist",
+            "playful"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "comedy",
+            "spy-fiction",
+            "childrens-entertainment",
+            "slapstick-humor"
+          ],
+          "setting": [
+            "fictional-world",
+            "modern-day",
+            "secret-headquarters"
+          ],
+          "character_archetypes": [
+            "hero",
+            "sidekick",
+            "villain",
+            "mad-scientist"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-elements"
+          ],
+          "target_audience": [
+            "children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "secret-agent-gadgets",
+            "baron-greenbacks-lair",
+            "ddm-headquarters",
+            "penfolds-clumsiness"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Danger Mouse is a lighthearted and comedic animated series that follows a heroic secret agent and his loyal sidekick as they thwart the villainous plots of Baron Greenback in a world of playful adventure."
+      },
+      "duration_seconds": 55.440699338912964
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "The Librarians",
+    "overview": "A group of librarians set off on adventures in an effort to save mysterious, ancient artifacts. Based on the series of \"The Librarian\" movies.",
+    "genres": [
+      "Action & Adventure"
+    ],
+    "release_year": 2014,
+    "vote_count": 395
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Librarians is an action-adventure series centered around a team of librarians tasked with protecting powerful magical artifacts and battling supernatural threats. Blending elements of fantasy, mystery, and humor, the show follows their globe-trotting escapades as they uncover ancient secrets and confront formidable foes. The series emphasizes teamwork, found-family dynamics, and the importance of knowledge and literacy in a world of darkness. It offers a lighthearted and engaging viewing experience, appealing to fans of adventure stories and fantastical narratives.",
+        "spoiler_rich_plot_summary": "The series begins with Eve Baird, a skilled thief, being recruited by the titular Librarians, a secret society dedicated to safeguarding magical artifacts. Led by the current Librarian, Flynn Carsen, the team includes Jacob Stone, a master of martial arts, and Cassandra Cillian, a brilliant but socially awkward Egyptologist. Their initial missions involve recovering stolen artifacts and thwarting the plans of a shadowy organization known as the Serpents Hand, led by the enigmatic Dogen. As the Librarians delve deeper into their purpose, they uncover a prophecy foretelling a great darkness and the return of a powerful, ancient evil. The team expands with new members, each possessing unique skills and backgrounds, as they confront increasingly dangerous threats and unravel the mysteries of their own pasts. Throughout their adventures, they face betrayals, losses, and personal challenges, ultimately forging unbreakable bonds and preparing for a final confrontation with the forces threatening to plunge the world into chaos. The series culminates in a battle against a resurrected ancient power, where the Librarians must utilize their combined knowledge and abilities to save humanity.",
+        "categorized_keywords": {
+          "themes": [
+            "knowledge-is-power",
+            "found-family",
+            "good-vs-evil",
+            "ancient-prophecy",
+            "teamwork",
+            "fate-and-destiny"
+          ],
+          "plot_and_concepts": [
+            "artifact-hunt",
+            "secret-society",
+            "monster-of-the-week",
+            "ancient-magic",
+            "time-travel",
+            "mythology"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "adventurous",
+            "humorous",
+            "optimistic",
+            "fast-paced"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "urban-fantasy",
+            "monster-hunting",
+            "treasure-hunt",
+            "secret-agent"
+          ],
+          "setting": [
+            "global-locations",
+            "modern-day",
+            "libraries",
+            "ancient-ruins"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "skilled-fighter",
+            "brilliant-scholar",
+            "enigmatic-villain"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "episodic-adventure"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "magical-artifacts",
+            "secret-passages",
+            "ancient-scrolls",
+            "hidden-symbols",
+            "library-archives"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Librarians is a lighthearted action-adventure series that follows a team of heroes as they protect magical artifacts and battle ancient evils across the globe, emphasizing the power of knowledge and the importance of found-family bonds."
+      },
+      "duration_seconds": 64.15925765037537
+    }
+  }
+}

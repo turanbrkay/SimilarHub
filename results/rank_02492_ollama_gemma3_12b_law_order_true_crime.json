@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Law & Order True Crime",
+    "overview": "An anthology series that delves into the players, the crime and the media circus, detailing the day-to-day battles of the trial and unveiling the shocking truth of what really went down when the cameras stopped rolling.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2017,
+    "vote_count": 66
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Law & Order True Crime is an anthology series that reconstructs real-life criminal cases, focusing on the legal proceedings and the individuals involved – from investigators and lawyers to witnesses and the accused. The show aims to provide a nuanced portrayal of the justice system, exploring the complexities of evidence, testimony, and the media's influence on public perception. It distinguishes itself from the established Law & Order franchise by prioritizing a single, extended case and delving into the human stories behind the headlines. The series offers a procedural drama with a focus on character development and a critical examination of the legal process.",
+        "spoiler_rich_plot_summary": "The first season of Law & Order True Crime centers on the 1986 murder of Betsy Van Landingham, a prominent Dallas socialite. The narrative follows the investigation led by Dallas County Assistant District Attorney, Tom D'Amico, and his team as they pursue Warren Ferguson, a suspect with a history of petty crimes. The investigation is complicated by political pressures and the involvement of a powerful family. As the case progresses, the series explores the challenges of gathering evidence, the ethical dilemmas faced by law enforcement, and the impact of the trial on the community. The legal team works to build a case against Ferguson, navigating legal hurdles and public scrutiny. The series culminates in a trial where the prosecution attempts to prove Ferguson's guilt beyond a reasonable doubt, revealing the intricacies of the legal system and the human cost of a high-profile crime.",
+        "categorized_keywords": {
+          "themes": [
+            "justice-system",
+            "true-crime",
+            "legal-ethics",
+            "political-corruption",
+            "media-influence",
+            "social-class"
+          ],
+          "plot_and_concepts": [
+            "anthology-series",
+            "courtroom-drama",
+            "police-investigation",
+            "true-crime-investigation"
+          ],
+          "mood_and_tone": [
+            "procedural",
+            "serious",
+            "suspenseful",
+            "realistic"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "legal-drama"
+          ],
+          "setting": [
+            "dallas-texas",
+            "1980s"
+          ],
+          "character_archetypes": [
+            "prosecutor",
+            "defense-attorney",
+            "police-detective",
+            "suspect"
+          ],
+          "narrative_style": [
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "courtroom-scene",
+            "police-evidence",
+            "witness-testimony"
+          ],
+          "maturity_and_content": [
+            "legal-proceedings",
+            "crime-scene"
+          ]
+        },
+        "keyword_sentence": "Law & Order True Crime is a serious and suspenseful procedural drama that explores the complexities of the justice system and the impact of media influence through a realistic portrayal of a true crime investigation in 1980s Dallas, Texas."
+      },
+      "duration_seconds": 61.50196814537048
+    }
+  }
+}

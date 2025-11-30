@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Top Chef",
+    "overview": "An American reality competition show in which chefs compete against each other in culinary challenges and are judged by a panel of professional chefs and other notables from the food and wine industry with one or more contestants eliminated in each episode.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2006,
+    "vote_count": 43
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Top Chef is a reality competition series showcasing aspiring chefs vying for culinary supremacy. Each season features a new cast of contestants facing rigorous challenges designed to test their skills, creativity, and ability to perform under pressure. The show blends elements of cooking competition, business acumen, and personal drama, offering viewers a glimpse into the high-stakes world of professional kitchens. Judges evaluate the chefs' dishes based on taste, presentation, and technique, ultimately deciding who will be eliminated each week. The series emphasizes both technical mastery and innovative culinary concepts, appealing to food enthusiasts and aspiring chefs alike.",
+        "spoiler_rich_plot_summary": "Each season of Top Chef begins with a group of talented chefs competing in a series of challenges, ranging from quickfires that test basic skills to elimination challenges that demand complex dishes and creative concepts. The chefs are frequently tasked with incorporating unusual ingredients, working with limited resources, or adapting to unexpected twists. Throughout the competition, alliances and rivalries form as the chefs navigate the intense pressure and strive to impress the judges. The judges, a panel of renowned chefs and culinary experts, provide critiques and ultimately decide which chef will be eliminated each week. As the competition progresses, the remaining chefs face increasingly difficult challenges, culminating in a final cook-off between the top contenders. The winner is crowned Top Chef and receives a significant prize, including recognition and opportunities within the culinary world. While specific challenges and chef personalities vary each season, the core structure of the competition remains consistent.",
+        "categorized_keywords": {
+          "themes": [
+            "competition",
+            "culinary-excellence",
+            "professional-growth",
+            "pressure",
+            "innovation",
+            "ambition"
+          ],
+          "plot_and_concepts": [
+            "cooking-competition",
+            "elimination-challenge",
+            "quickfire-challenge",
+            "mystery-ingredient",
+            "restaurant-concept",
+            "judging-panel"
+          ],
+          "mood_and_tone": [
+            "tense",
+            "competitive",
+            "inspiring",
+            "high-stakes"
+          ],
+          "genre_and_tropes": [
+            "reality-tv",
+            "cooking-show",
+            "competition-series"
+          ],
+          "setting": [
+            "professional-kitchen",
+            "restaurant-industry",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "aspiring-chef",
+            "expert-judge",
+            "competitive-personality"
+          ],
+          "narrative_style": [
+            "elimination-format",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "food-enthusiasts",
+            "cooking-fans"
+          ],
+          "detail_plot": [
+            "plating-presentation",
+            "chef's-table",
+            "judges-deliberation",
+            "elimination-ceremony"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Top Chef is a tense and competitive reality series showcasing aspiring chefs striving for culinary excellence in the high-stakes world of professional kitchens."
+      },
+      "duration_seconds": 60.490561723709106
+    }
+  }
+}

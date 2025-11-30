@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "The Real Adventures of Jonny Quest",
+    "overview": "The Real Adventures of Jonny Quest is an American animated action-adventure television series.",
+    "genres": [
+      "Action & Adventure",
+      "Animation"
+    ],
+    "release_year": 1996,
+    "vote_count": 34
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Real Adventures of Jonny Quest is a reboot of the classic animated series, blending action, adventure, and a touch of mystery. Following the exploits of a young boy and his friends as they travel the globe with his adoptive father, a renowned scientist, the series emphasizes teamwork, problem-solving, and the excitement of exploring new cultures and encountering unusual phenomena. The show maintains a lighthearted tone while exploring themes of family, friendship, and the pursuit of knowledge, appealing to a broad audience with its dynamic characters and thrilling escapades.",
+        "spoiler_rich_plot_summary": "The series follows Jonny Quest, a young boy raised by Dr. Jonathan Quest, a brilliant but often distracted scientist. Accompanied by his loyal friends Hadji Singh, Race Bannon, and Jenny Blake, Jonny travels the world, often encountering dangerous situations and uncovering ancient secrets. Throughout their adventures, they face a recurring threat from villains like Slinkman, who seeks to exploit Dr. Quest’s inventions for nefarious purposes. The group consistently works together to overcome these challenges, learning valuable lessons about trust, responsibility, and the importance of using their skills for good. As the series progresses, the characters confront personal struggles and develop deeper bonds, ultimately demonstrating the strength of their unconventional family unit and their commitment to protecting the world from harm. While the specific threats vary from episode to episode, a larger narrative arc hints at a shadowy organization seeking to control Dr. Quest’s research, creating a constant underlying tension throughout their travels.",
+        "categorized_keywords": {
+          "themes": [
+            "family-loyalty",
+            "friendship",
+            "adventure",
+            "discovery",
+            "trust",
+            "responsibility"
+          ],
+          "plot_and_concepts": [
+            "espionage",
+            "scientific-discovery",
+            "treasure-hunt",
+            "ancient-mysteries",
+            "world-travel"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "optimistic",
+            "exciting",
+            "adventurous"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "animation",
+            "found-family",
+            "coming-of-age"
+          ],
+          "setting": [
+            "global-travel",
+            "modern-day",
+            "various-locations"
+          ],
+          "character_archetypes": [
+            "young-hero",
+            "mentor",
+            "loyal-friend",
+            "skilled-agent"
+          ],
+          "narrative_style": [
+            "episodic-adventure",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "high-tech-gadgets",
+            "secret-base",
+            "flying-jet",
+            "ancient-ruins"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Real Adventures of Jonny Quest is a lighthearted action-adventure animation series about a young hero and his friends who travel the globe, uncovering ancient mysteries and facing thrilling challenges with a strong emphasis on family loyalty and discovery."
+      },
+      "duration_seconds": 56.287184953689575
+    }
+  }
+}

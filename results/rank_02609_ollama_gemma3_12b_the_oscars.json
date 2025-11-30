@@ -1,0 +1,70 @@
+{
+  "input_data": {
+    "title": "The Oscars",
+    "overview": "An annual American awards ceremony honoring cinematic achievements in the film industry. The various category winners are awarded a copy of a statuette, officially the Academy Award of Merit, that is better known by its nickname Oscar.",
+    "genres": null,
+    "release_year": 1953,
+    "vote_count": 62
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Oscars represent the pinnacle of recognition within the American film industry, serving as an annual celebration of cinematic excellence. The ceremony acknowledges achievements across various categories, culminating in the presentation of the iconic Academy Award statuette. While intended to honor artistic merit, the event also functions as a significant cultural spectacle, drawing immense media attention and influencing public perception of film. The Oscars blend artistic appreciation with commercial interests, often sparking debate about the criteria for success and the evolving landscape of filmmaking.",
+        "spoiler_rich_plot_summary": "The first televised Academy Awards ceremony took place in 1953, marking a shift towards broader public engagement with the film industry. Each year, nominees are selected by the Academy of Motion Picture Arts and Sciences, representing a diverse range of professionals in film. The ceremony itself unfolds as a carefully orchestrated event, with presenters announcing the winners in each category. Throughout the decades, the Oscars have reflected the changing trends in cinema, showcasing both groundbreaking innovations and enduring classics. The event has also been punctuated by memorable moments of triumph, controversy, and heartfelt acceptance speeches, solidifying its place as a cornerstone of American cultural history. The awards consistently highlight the year's most impactful films, influencing box office success and critical acclaim for years to come.",
+        "categorized_keywords": {
+          "themes": [
+            "artistic-recognition",
+            "cultural-impact",
+            "film-industry",
+            "celebration",
+            "excellence",
+            "commercial-interests"
+          ],
+          "plot_and_concepts": [
+            "awards-ceremony",
+            "nomination-process",
+            "acceptance-speech",
+            "film-history"
+          ],
+          "mood_and_tone": [
+            "formal",
+            "glamorous",
+            "festive",
+            "anticipatory"
+          ],
+          "genre_and_tropes": [
+            "ceremony",
+            "pageantry",
+            "red-carpet-event"
+          ],
+          "setting": [
+            "hollywood",
+            "united-states",
+            "modern-era"
+          ],
+          "character_archetypes": [
+            "actor",
+            "director",
+            "producer"
+          ],
+          "narrative_style": [
+            "chronological-account"
+          ],
+          "target_audience": [
+            "film-enthusiasts",
+            "general-public"
+          ],
+          "detail_plot": [
+            "academy-award-statue",
+            "red-carpet",
+            "nominee-list",
+            "acceptance-speech"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Oscars, a glamorous and formal ceremony held annually in Hollywood, celebrate artistic recognition and cultural impact within the American film industry, drawing a wide audience and shaping perceptions of cinematic excellence."
+      },
+      "duration_seconds": 54.289212465286255
+    }
+  }
+}

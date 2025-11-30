@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Top Boy",
+    "overview": "Two seasoned drug dealers return to the gritty street of London, but their pursuit of money and power is threatened by a young and ruthless hustler.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2019,
+    "vote_count": 83
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Top Boy is a gritty crime drama series set in the Summerhouse estate of London, exploring the complexities of drug dealing, gang violence, and the cyclical nature of poverty. The series offers a stark and realistic portrayal of urban life, focusing on the characters' struggles for survival and the moral compromises they make. It examines themes of loyalty, ambition, and the impact of systemic inequality on individuals and communities, offering a compelling and often bleak narrative experience.",
+        "spoiler_rich_plot_summary": "The series initially focuses on Dushane Hill and Sully, two established drug dealers attempting to maintain their dominance in the Summerhouse estate. Their operation is challenged by the arrival of a younger, more aggressive dealer, Aaron 'Sundance' Ellis, who quickly gains popularity and threatens their control. As the series progresses, the power dynamics shift, leading to betrayals, violence, and escalating tensions between rival gangs. Dushane and Sully navigate a complex web of alliances and conflicts, struggling to protect their territory and maintain their position in the criminal underworld. The series explores the personal lives of the main characters, revealing their vulnerabilities and the toll that their lifestyle takes on their relationships. As the series concludes, the characters face uncertain futures, with the consequences of their actions reverberating throughout the community. The cycle of violence and poverty continues, leaving the audience to contemplate the long-term impact of their choices.",
+        "categorized_keywords": {
+          "themes": [
+            "crime",
+            "poverty",
+            "loyalty",
+            "betrayal",
+            "survival",
+            "ambition",
+            "social-inequality",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "drug-trade",
+            "gang-violence",
+            "criminal-underworld",
+            "power-struggle",
+            "revenge"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "dark",
+            "realistic",
+            "tense",
+            "bleak"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "urban-drama",
+            "gangster-film",
+            "serialized-story"
+          ],
+          "setting": [
+            "london",
+            "urban-estate",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "criminal-mastermind",
+            "young-hustler",
+            "morally-gray-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "drug-dealing",
+            "estate-housing",
+            "mobile-phone",
+            "police-raid"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "drug-abuse",
+            "profanity"
+          ]
+        },
+        "keyword_sentence": "Set in the gritty urban landscape of London, Top Boy is a dark and realistic crime drama exploring themes of poverty, loyalty, and survival within a complex criminal underworld."
+      },
+      "duration_seconds": 61.21241235733032
+    }
+  }
+}

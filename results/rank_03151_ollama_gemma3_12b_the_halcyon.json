@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "The Halcyon",
+    "overview": "The story of a bustling and glamorous five star hotel at the centre of London society and a world at war.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2017,
+    "vote_count": 43
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Halcyon is a historical drama series set in a luxurious London hotel during the tumultuous years of World War II. The series explores the lives of the hotel staff and guests, showcasing the complexities of British society amidst wartime upheaval. It blends elements of social commentary, romance, and suspense, offering a glimpse into a world of privilege and resilience. The narrative examines themes of class, duty, and the human cost of conflict, portraying a microcosm of a nation grappling with profound change. The show's tone is both elegant and poignant, capturing the glamour of the era while acknowledging the underlying anxieties and sacrifices of the time.",
+        "spoiler_rich_plot_summary": "The series opens in 1940, introducing viewers to the opulent Halcyon Hotel and its diverse staff, led by the ambitious General Manager, Richard Garland. As London faces the Blitz, the hotel becomes a refuge for both high-society guests and those seeking solace from the war. Throughout the first season, Richard navigates the challenges of maintaining the hotel's reputation while dealing with personal and professional crises, including a complex relationship with his wife, Millie. The narrative weaves together multiple storylines, exploring the lives of various characters, from the charming but secretive French guest, Étienne, to the loyal housekeeper, Phyllis. As the war progresses, secrets are revealed, alliances shift, and the characters are forced to confront difficult choices that test their loyalties and values. The second season delves deeper into the characters' pasts and explores the long-term consequences of their actions, revealing hidden connections and unexpected betrayals. The series culminates in a poignant reflection on the enduring spirit of the human connection and the resilience of a nation facing adversity, leaving a lasting impression of a time of both great loss and enduring hope.",
+        "categorized_keywords": {
+          "themes": [
+            "wartime-resilience",
+            "social-class",
+            "duty-and-honor",
+            "secrets-and-lies",
+            "lost-hope",
+            "human-connection"
+          ],
+          "plot_and_concepts": [
+            "historical-drama",
+            "wartime-refuge",
+            "social-commentary",
+            "mystery",
+            "romantic-entanglements"
+          ],
+          "mood_and_tone": [
+            "poignant",
+            "elegant",
+            "suspenseful",
+            "melancholy"
+          ],
+          "genre_and_tropes": [
+            "historical-fiction",
+            "period-drama",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "london-england",
+            "1940s",
+            "wartime-britain",
+            "luxury-hotel"
+          ],
+          "character_archetypes": [
+            "ambitious-manager",
+            "loyal-housekeeper",
+            "secretive-guest"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "luxury-hotel",
+            "wartime-rationing",
+            "black-market",
+            "air-raid-shelter"
+          ],
+          "maturity_and_content": [
+            "adult-themes",
+            "wartime-tragedy"
+          ]
+        },
+        "keyword_sentence": "Set in a luxurious London hotel during World War II, The Halcyon explores themes of resilience, social class, and wartime tragedy through a poignant and elegant ensemble cast."
+      },
+      "duration_seconds": 64.86705017089844
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Dinosaurs",
+    "overview": "Dinosaurs follows the life of a family of dinosaurs, living in a modern world. They have TV's, fridges, microwaves, and every modern convenience.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Comedy",
+      "Family"
+    ],
+    "release_year": 1991,
+    "vote_count": 889
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Dinosaurs is a sitcom that blends science fiction and family comedy, presenting a world where dinosaurs have evolved alongside humans and are experiencing the challenges of modern suburban life. The show utilizes a satirical lens to explore universal themes of family dynamics, parenting, and societal pressures, often through humorous and absurd situations. Its unique premise allows for commentary on human behavior and values, while maintaining a lighthearted and accessible tone suitable for a family audience. The show's enduring appeal lies in its ability to find humor and relatability within a fantastical scenario.",
+        "spoiler_rich_plot_summary": "The series centers on the Taylor family, led by patriarch Earl, a well-meaning but often misguided father, and his wife Fran, the pragmatic and often exasperated matriarch. Their children, Robbie, Charlene, and Nicky, navigate the typical trials and tribulations of childhood, all while living in a world populated by dinosaurs. Throughout the series, the Taylors encounter various social and personal conflicts, ranging from schoolyard squabbles to marital disagreements. The show explores the complexities of parenting, the importance of family bonds, and the challenges of adapting to a rapidly changing world. While the dinosaurs themselves are a constant presence, the core narrative focuses on the human experience, using the prehistoric setting as a backdrop for relatable stories about love, loss, and the pursuit of happiness. The series concludes with a poignant and bittersweet farewell, leaving the audience to contemplate the fragility of life and the enduring power of family.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "parenting",
+            "societal-pressure",
+            "modern-life",
+            "environmental-awareness",
+            "extinction"
+          ],
+          "plot_and_concepts": [
+            "alternate-timeline",
+            "satire",
+            "fish-out-of-water",
+            "sitcom-format"
+          ],
+          "mood_and_tone": [
+            "humorous",
+            "lighthearted",
+            "wholesome",
+            "absurdist"
+          ],
+          "genre_and_tropes": [
+            "sci-fi-comedy",
+            "family-sitcom",
+            "found-family"
+          ],
+          "setting": [
+            "modern-day",
+            "suburban-setting",
+            "alternate-timeline"
+          ],
+          "character_archetypes": [
+            "patriarch",
+            "matriarch",
+            "teenager",
+            "child"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "family-home",
+            "television-set",
+            "kitchen-appliances",
+            "school-bus"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Dinosaurs is a lighthearted family sitcom set in an alternate timeline where dinosaurs coexist with humans, offering a humorous exploration of modern life and the enduring importance of family dynamics."
+      },
+      "duration_seconds": 61.11371374130249
+    }
+  }
+}

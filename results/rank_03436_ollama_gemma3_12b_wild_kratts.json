@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "Wild Kratts",
+    "overview": "The adventures of Chris and Martin Kratt as they encounter incredible wild animals, combining science education with fun and adventure as the duo travels to animal habitats around the globe.",
+    "genres": [
+      "Family",
+      "Animation",
+      "Comedy"
+    ],
+    "release_year": 2011,
+    "vote_count": 37
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Wild Kratts is an animated children's series that blends adventure, comedy, and science education. Following the adventures of Chris and Martin Kratt, the show explores diverse animal habitats and ecosystems around the world. Through engaging storytelling and vibrant animation, it aims to teach young viewers about wildlife conservation and the importance of understanding the natural world. The series fosters a sense of wonder and encourages environmental stewardship in a fun and accessible format.",
+        "spoiler_rich_plot_summary": "The series follows Chris and Martin Kratt as they travel the globe, encountering a wide variety of animals and ecosystems. Each episode typically begins with a new animal or habitat being introduced, often accompanied by a challenge or problem that the Kratt brothers must solve. They utilize 'Creature Power Suits,' which allow them to temporarily mimic the abilities of the animals they study. Throughout their adventures, they face off against recurring antagonists like Zach Varmitech, who seeks to exploit animals for profit, and Donita Donata, a poacher obsessed with capturing animals for her circus. The brothers consistently work to protect animals and their habitats, often rescuing them from danger and educating others about the importance of conservation. While the series maintains a lighthearted tone, it subtly addresses serious environmental issues and promotes responsible interaction with wildlife.",
+        "categorized_keywords": {
+          "themes": [
+            "animal-conservation",
+            "environmental-education",
+            "brotherhood",
+            "exploration",
+            "adventure"
+          ],
+          "plot_and_concepts": [
+            "creature-power-suits",
+            "animal-mimicry",
+            "scientific-discovery",
+            "habitat-protection",
+            "villain-pursuit"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "lighthearted",
+            "educational",
+            "optimistic",
+            "playful"
+          ],
+          "genre_and_tropes": [
+            "childrens-tv",
+            "adventure-comedy",
+            "educational-tv",
+            "found-family",
+            "animal-adventure"
+          ],
+          "setting": [
+            "global-habitats",
+            "wildlife-reserves",
+            "rainforests",
+            "oceans",
+            "arctic-regions"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "eccentric-villain",
+            "enthusiastic-protagonist",
+            "animal-expert"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format",
+            "adventure-of-the-week"
+          ],
+          "target_audience": [
+            "young-children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "creature-power-suit",
+            "animal-habitat",
+            "zach-varmitech",
+            "donita-donata",
+            "wildlife-rescue"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Wild Kratts is a lighthearted and educational children's series that follows two brothers on global adventures, exploring diverse animal habitats and promoting wildlife conservation through playful storytelling and scientific discovery."
+      },
+      "duration_seconds": 59.09228801727295
+    }
+  }
+}

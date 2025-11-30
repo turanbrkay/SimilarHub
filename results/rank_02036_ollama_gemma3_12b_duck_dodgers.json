@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Duck Dodgers",
+    "overview": "Duck Dodgers is an American animated television series, based on the 1953 theatrical cartoon short Duck Dodgers in the 24½th Century, produced by Warner Bros.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2003,
+    "vote_count": 94
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Duck Dodgers is a comedic animated series set in the 24th century, drawing heavily on classic Warner Bros. cartoons. The show blends slapstick humor, science fiction tropes, and absurdist situations, creating a fast-paced and irreverent viewing experience. It satirizes space exploration and military adventures, often subverting expectations with its chaotic and unpredictable nature. The series appeals to fans of classic animation and those seeking lighthearted, silly entertainment.",
+        "spoiler_rich_plot_summary": "The series follows Duck Dodgers, a hapless and often incompetent space traveler, as he represents Earth in various intergalactic conflicts. He is constantly paired with the intelligent and capable Peter Potamus and the perpetually frustrated Quack Up Duck, forming a dysfunctional team tasked with defending Earth from alien threats. Throughout the series, Dodgers's blundering often leads to unexpected and hilarious outcomes, frequently undermining his intended missions. Recurring antagonists include the Martian Emperor and his various henchmen, who consistently attempt to conquer Earth. While Dodgers's actions are often disastrous, he inadvertently manages to save the day through sheer luck and the efforts of his teammates, highlighting the absurdity of heroism and the unpredictable nature of space exploration. The show's episodic format allows for a constant stream of new alien encounters and bizarre scenarios, ensuring a consistently chaotic and comedic narrative.",
+        "categorized_keywords": {
+          "themes": [
+            "absurdism",
+            "space-exploration",
+            "heroism",
+            "satire",
+            "comedy"
+          ],
+          "plot_and_concepts": [
+            "sci-fi-comedy",
+            "episodic-format",
+            "space-opera",
+            "slapstick-humor"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "silly",
+            "chaotic"
+          ],
+          "genre_and_tropes": [
+            "animation-comedy",
+            "sci-fi",
+            "parody"
+          ],
+          "setting": [
+            "24th-century",
+            "outer-space",
+            "alternate-timeline"
+          ],
+          "character_archetypes": [
+            "incompetent-hero",
+            "intelligent-sidekick",
+            "frustrated-companion"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "anthology-series"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "spaceship",
+            "laser-gun",
+            "alien-costumes",
+            "cartoon-violence"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Duck Dodgers is a lighthearted and silly animated comedy series set in the 24th century, satirizing space exploration and heroism through chaotic and episodic adventures."
+      },
+      "duration_seconds": 57.55567932128906
+    }
+  }
+}

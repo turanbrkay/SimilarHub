@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Hawaii Five-O",
+    "overview": "Hawaii Five-O is an American police procedural drama series produced by CBS Productions and Leonard Freeman. Set in Hawaii, the show originally aired for 12 seasons from 1968 to 1980, and continues in reruns. Jack Lord portrayed Detective Lieutenant Steve McGarrett, the head of a special state police task force which was based on an actual unit that existed under martial law in the 1940s. The theme music composed by Morton Stevens became especially popular. Many episodes would end with McGarrett instructing his subordinate to \"Book 'em, Danno!\", sometimes specifying a charge such as \"murder one\".",
+    "genres": [
+      "Action & Adventure",
+      "Drama"
+    ],
+    "release_year": 1968,
+    "vote_count": 116
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Hawaii Five-O is a classic police procedural drama set against the backdrop of the Hawaiian Islands. The series follows a specialized state police task force led by Detective Lieutenant Steve McGarrett, who is granted broad authority to combat crime. The show blends action and adventure with a focus on solving complex cases, often involving local and international criminal elements. It's characterized by its distinctive theme music and McGarrett's signature sign-off, \"Book 'em, Danno!\" The series offers a blend of thrilling investigations and a glimpse into the unique culture and beauty of Hawaii.",
+        "spoiler_rich_plot_summary": "The series initially centers on Lieutenant Steve McGarrett, handpicked by the Governor of Hawaii to lead a covert task force dedicated to fighting crime. McGarrett assembles a team of diverse specialists, including Detective James \"Danno\" Kimo, who often serves as a moral compass and foil to McGarrett's more aggressive tactics. Early seasons focus on establishing the team and showcasing their methods, which often involve bending or outright breaking the rules to achieve justice. As the series progresses, the team confronts a wide range of threats, from local gangs and drug traffickers to international spies and terrorists. Recurring villains and complex conspiracies emerge, testing the team's loyalty and pushing them to their limits. While the team experiences successes in bringing criminals to justice, they also face personal losses and moral compromises, highlighting the toll that their work takes on them. The series concludes with the team successfully dismantling a major criminal organization, solidifying their legacy as Hawaii's premier crime-fighting force.",
+        "categorized_keywords": {
+          "themes": [
+            "law-and-order",
+            "justice",
+            "teamwork",
+            "duty",
+            "redemption",
+            "crime-fighting"
+          ],
+          "plot_and_concepts": [
+            "police-procedural",
+            "crime-solving",
+            "undercover-operations",
+            "espionage",
+            "international-crime"
+          ],
+          "mood_and_tone": [
+            "action-packed",
+            "suspenseful",
+            "serious",
+            "heroic"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "action-adventure",
+            "buddy-cop",
+            "heroic-unit"
+          ],
+          "setting": [
+            "hawaii",
+            "tropical-island",
+            "pacific-ocean",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "heroic-leader",
+            "loyal-partner",
+            "skilled-agent",
+            "authority-figure"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story",
+            "case-of-the-week"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "police-car",
+            "tropical-landscape",
+            "beach",
+            "hawaiian-shirt",
+            "helicopter"
+          ],
+          "maturity_and_content": [
+            "violence"
+          ]
+        },
+        "keyword_sentence": "Set against the stunning backdrop of Hawaii, Hawaii Five-O is a serious and action-packed crime drama that follows a heroic unit dedicated to upholding law and order through intense police procedures and international crime-fighting."
+      },
+      "duration_seconds": 68.3720805644989
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Love & Death",
+    "overview": "Candy and Pat Montgomery and Betty and Allan Gore — two churchgoing couples — enjoy their small town Texas life… until an extramarital affair leads somebody to pick up an axe.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2023,
+    "vote_count": 211
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Love & Death is a true-crime drama series exploring the dark underbelly of seemingly idyllic suburban life. Rooted in a real-life murder case, the series examines the complexities of marriage, infidelity, and the devastating consequences of hidden resentments. With a focus on character development and psychological tension, the show blends elements of crime procedural and domestic thriller, offering a suspenseful and unsettling portrayal of a community shattered by violence. The series aims to explore the motivations behind a shocking crime and the ripple effects it has on the lives of those involved, questioning the facade of perfection often presented in small-town America.",
+        "spoiler_rich_plot_summary": "The series centers on Candy Montgomery and Pat Montgomery, a seemingly happy couple living in Wylie, Texas. Their lives are disrupted when Candy begins an affair with Allan Gore, whose wife, Betty, is also a close friend. The affair escalates, leading to a confrontation between Betty and Candy. During this confrontation, Betty Gore is brutally murdered with an axe. Candy is initially suspected, and the ensuing investigation and trial become a media sensation, captivating the nation. The series follows the legal proceedings, delving into the evidence, testimonies, and the psychological factors that may have contributed to the crime. Ultimately, Candy is found guilty of manslaughter, highlighting the complexities of the case and the devastating impact of betrayal and hidden desires.",
+        "categorized_keywords": {
+          "themes": [
+            "marital-infidelity",
+            "betrayal",
+            "suburban-secrets",
+            "guilt",
+            "revenge",
+            "social-pressure",
+            "true-crime"
+          ],
+          "plot_and_concepts": [
+            "murder-mystery",
+            "courtroom-drama",
+            "affair",
+            "investigation",
+            "trial"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "unsettling",
+            "tense"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "domestic-thriller",
+            "true-crime-drama"
+          ],
+          "setting": [
+            "texas",
+            "suburban-america",
+            "1980s"
+          ],
+          "character_archetypes": [
+            "unfaithful-wife",
+            "dutiful-husband",
+            "victim",
+            "accused"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "true-story-adaptation"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "axe",
+            "suburban-house",
+            "courtroom",
+            "police-investigation"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "marital-affair"
+          ]
+        },
+        "keyword_sentence": "Love & Death is a suspenseful true-crime drama set in 1980s suburban Texas, exploring the dark consequences of marital infidelity and the unraveling of a seemingly perfect community."
+      },
+      "duration_seconds": 60.79268431663513
+    }
+  }
+}

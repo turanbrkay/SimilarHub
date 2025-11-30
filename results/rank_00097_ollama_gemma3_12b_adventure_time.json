@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "Adventure Time",
+    "overview": "Hook up with Finn and Jake as they travel the Land of Ooo searching for adventure. But remember, adventure isn’t always easy. Sometimes you’ve got to battle fire gnomes that torture old ladies, save a smelly hot dog princess from the Ice King, and thaw out a bunch of frozen businessmen. What the cabbage?!",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2010,
+    "vote_count": 2474
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Adventure Time is a surreal and whimsical animated series that follows the exploits of Finn, a human boy, and Jake, his magical dog brother, as they navigate the Land of Ooo. The show blends absurdist humor with surprisingly poignant explorations of friendship, loss, and growing up. While ostensibly a children's show, Adventure Time appeals to a wide audience with its complex characters, intricate world-building, and underlying themes of existentialism and the passage of time. The series balances lighthearted adventures with darker, more introspective moments, creating a unique and captivating viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Finn and Jake, a young boy and his shapeshifting dog, living in the post-apocalyptic Land of Ooo. They embark on various quests, battling monsters, rescuing princesses, and generally upholding justice. As the series progresses, the backstory of Ooo is gradually revealed, showcasing a world devastated by a mysterious 'Mushroom War.' The Ice King, a former human wizard, kidnaps princesses in a desperate attempt to regain his lost memories and connection to his past. Princess Bubblegum, the ruler of the Candy Kingdom, grapples with the responsibilities of leadership and the ethical implications of her scientific endeavors. Throughout their adventures, Finn and Jake confront their own personal growth, facing challenges that test their friendship and force them to confront difficult truths about themselves and the world around them. The series culminates in a confrontation with the Lich, an ancient and malevolent entity responsible for the Mushroom War, forcing Finn and Jake to make sacrifices and confront the cyclical nature of history and the inevitability of change. The final episodes explore themes of legacy and the importance of cherishing the present moment, leaving a lasting impact on the characters and the Land of Ooo.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "growing-up",
+            "loss",
+            "legacy",
+            "existentialism",
+            "post-apocalypse",
+            "good-vs-evil"
+          ],
+          "plot_and_concepts": [
+            "shapeshifting",
+            "magic",
+            "quest",
+            "monster-hunting",
+            "alternate-timeline",
+            "time-travel"
+          ],
+          "mood_and_tone": [
+            "whimsical",
+            "surreal",
+            "absurdist",
+            "humorous",
+            "poignant",
+            "dark"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "comedy",
+            "fantasy",
+            "sci-fi",
+            "adventure",
+            "coming-of-age"
+          ],
+          "setting": [
+            "oo-kingdom",
+            "post-apocalyptic",
+            "alternate-reality"
+          ],
+          "character_archetypes": [
+            "hero",
+            "magical-creature",
+            "mad-scientist",
+            "villain"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "children",
+            "adults"
+          ],
+          "detail_plot": [
+            "ice-crown",
+            "candy-kingdom",
+            "finn-sword",
+            "jake-transformation"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Adventure Time is a whimsical and often dark animated series that explores themes of friendship, growing up, and legacy within a surreal post-apocalyptic world, blending humor and poignant moments through episodic adventures."
+      },
+      "duration_seconds": 73.40798258781433
+    }
+  }
+}

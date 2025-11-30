@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Midsomer Murders",
+    "overview": "The peacefulness of the Midsomer community is shattered by violent crimes, suspects are placed under suspicion, and it is up to a veteran DCI and his young sergeant to calmly and diligently eliminate the innocent and ruthlessly pursue the guilty. ",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 1997,
+    "vote_count": 243
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Midsomer Murders is a long-running British crime drama series that explores the dark underbelly of seemingly idyllic rural villages. The show blends classic whodunit mystery with a touch of dark humor, often revealing the surprising depths of malice hidden beneath a veneer of quaint English charm. It follows a succession of detective pairings as they investigate complex murders, uncovering secrets and exposing the flaws within close-knit communities. The series is characterized by its picturesque settings, intricate plots, and a recurring theme of how even the most beautiful places can harbor sinister truths.",
+        "spoiler_rich_plot_summary": "The series initially follows DCI Tom Barnaby and Sergeant Dan Summers as they navigate a string of increasingly bizarre and violent crimes within the Midsomer County. Each case exposes a web of secrets, betrayals, and long-held grudges among the villagers, often revealing that seemingly respectable individuals are capable of shocking acts. As Barnaby and Summers solve each case, they uncover a pattern of recurring themes – the preservation of family legacies, the dangers of tradition, and the fragility of social harmony. Following Barnaby's departure, DCI John Nettles takes over, continuing the tradition of investigating murders that expose the dark side of Midsomer. The series progresses through numerous detectives and sergeants, each bringing their own perspective to the investigations, but all bound by the shared responsibility of uncovering the truth behind the seemingly peaceful facade of Midsomer County. The series consistently demonstrates that no one is truly innocent, and that even the most charming communities can be rife with hidden dangers and deadly secrets.",
+        "categorized_keywords": {
+          "themes": [
+            "rural-crime",
+            "community-secrets",
+            "tradition",
+            "deception",
+            "justice",
+            "small-town-life"
+          ],
+          "plot_and_concepts": [
+            "whodunit",
+            "crime-investigation",
+            "murder-mystery",
+            "serial-investigation"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "somber",
+            "suspenseful",
+            "atmospheric"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "british-tv",
+            "rural-noir"
+          ],
+          "setting": [
+            "english-countryside",
+            "rural-england",
+            "small-town"
+          ],
+          "character_archetypes": [
+            "detective",
+            "sergeant",
+            "villager",
+            "suspect"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "country-estate",
+            "village-fete",
+            "local-pub",
+            "church-yard",
+            "detective-car"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Midsomer Murders is a darkly comic British crime drama that explores the unsettling secrets and violent crimes lurking beneath the charming facade of rural England."
+      },
+      "duration_seconds": 55.35387945175171
+    }
+  }
+}

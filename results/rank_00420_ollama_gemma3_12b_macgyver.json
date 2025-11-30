@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "MacGyver",
+    "overview": "He's everyone's favorite action hero... but he's a hero with a difference. Angus MacGyver is a secret agent whose wits are his deadliest weapon. Armed with only a knapsack filled with everyday items he picks up along the way, he improvises his way out of every peril the bad guys throw at him.\n\nMaking a bomb out of chewing gum? Fixing a speeding car's breaks... while he's riding in it? Using soda pop to cook up tear gas? That's all in a day's adventures for MacGyver. He's part Boy Scout, part genius. And all hero.",
+    "genres": "Action & Adventure",
+    "release_year": 1985,
+    "vote_count": 717
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "MacGyver is an action-adventure series centered on a resourceful secret agent who relies on his ingenuity and everyday objects to overcome dangerous situations. The show emphasizes problem-solving and non-violent conflict resolution, presenting a unique blend of espionage and improvisation. Its episodic nature and focus on clever solutions offer a consistently engaging and optimistic viewing experience, appealing to audiences seeking action without excessive violence. The series champions intelligence and adaptability as primary tools for heroism, distinguishing it from more conventional action shows.",
+        "spoiler_rich_plot_summary": "The series follows Angus MacGyver, a former Phoenix Foundation employee who now operates as an independent agent, often assisting governments and organizations facing crises. Each episode typically involves MacGyver being sent on a mission, often to recover stolen technology or prevent acts of terrorism. He frequently encounters adversaries from his past, including former colleagues who have turned to villainy. Throughout the series, MacGyver grapples with the moral implications of his actions, often questioning the methods employed by the Phoenix Foundation and the governments he assists. Recurring antagonists and complex geopolitical scenarios create a backdrop of ongoing tension, while MacGyver's resourcefulness consistently allows him to outwit his opponents and resolve conflicts, often leaving his pursuers baffled by his unconventional tactics. While he maintains a generally solitary existence, he occasionally forms alliances with individuals who share his commitment to justice, though these relationships are often fleeting due to the nature of his work.",
+        "categorized_keywords": {
+          "themes": [
+            "resourcefulness",
+            "problem-solving",
+            "espionage",
+            "justice",
+            "moral-ambiguity",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "secret-agent",
+            "improvisation",
+            "gadget-based",
+            "mission-based",
+            "conspiracy"
+          ],
+          "mood_and_tone": [
+            "optimistic",
+            "adventurous",
+            "lighthearted",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "spy-thriller",
+            "gadget-based-hero",
+            "lone-wolf"
+          ],
+          "setting": [
+            "international-locations",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "ingenious-hero",
+            "lone-wolf",
+            "moral-agent"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "mission-of-the-week"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "knapsack",
+            "gadgets",
+            "improvisation",
+            "phoenix-foundation"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "MacGyver is an optimistic action-adventure series that follows a resourceful secret agent who uses improvisation and everyday gadgets to solve problems and thwart conspiracies across international locations."
+      },
+      "duration_seconds": 98.87602400779724
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Gold Rush",
+    "overview": "Follow the lives of ambitious miners as they head north in pursuit of gold. With new miners, new claims, new machines and new ways to pull gold out of the ground, the stakes are higher than ever. But will big risks lead to an even bigger pay out?",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2010,
+    "vote_count": 141
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Gold Rush is a reality television series that documents the challenges and triumphs of gold miners in remote locations. The show focuses on the physical and financial risks involved in prospecting, mining, and extracting gold, showcasing the dedication and ingenuity required to succeed in a demanding and unpredictable environment. It blends elements of adventure, competition, and human drama, offering viewers a glimpse into a world of hard work, perseverance, and the pursuit of wealth. The series emphasizes the technical aspects of mining, alongside the interpersonal dynamics between the miners and their crews.",
+        "spoiler_rich_plot_summary": "The series initially follows a core group of miners, led by Todd Hoffman, as they relocate to a remote area in Alaska to prospect for gold. Early seasons focus on establishing a mining operation, facing logistical hurdles, and dealing with the unpredictable nature of the terrain and weather. As the series progresses, new mining teams are introduced, creating competition for claims and resources. The miners experiment with different techniques and equipment, often facing setbacks and financial losses. Later seasons see the expansion of operations to other locations, including Australia, introducing new challenges and opportunities. The series chronicles the constant struggle to balance risk and reward, as the miners strive to extract enough gold to cover their expenses and turn a profit, while also dealing with the personal toll of the demanding lifestyle. The series culminates in a continuous cycle of prospecting, extraction, and reinvestment, with the ultimate goal of finding a consistently productive gold deposit.",
+        "categorized_keywords": {
+          "themes": [
+            "resource-extraction",
+            "risk-reward",
+            "perseverance",
+            "competition",
+            "frontier-spirit",
+            "financial-struggle"
+          ],
+          "plot_and_concepts": [
+            "gold-rush",
+            "prospecting",
+            "mining-operation",
+            "resource-management",
+            "heavy-machinery"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "tense",
+            "adventurous",
+            "realistic",
+            "competitive"
+          ],
+          "genre_and_tropes": [
+            "reality-tv",
+            "adventure-series",
+            "working-class-heroism",
+            "survival-show"
+          ],
+          "setting": [
+            "alaska",
+            "australia",
+            "remote-locations",
+            "frontier-territory"
+          ],
+          "character_archetypes": [
+            "entrepreneur",
+            "working-class",
+            "risk-taker",
+            "team-leader"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "documentary-style",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "working-class-audience"
+          ],
+          "detail_plot": [
+            "gold-pan",
+            "sluice-box",
+            "excavator",
+            "trommel",
+            "hydraulic-shovel"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Gold Rush is a gritty reality television series that follows the struggles and triumphs of working-class miners as they pursue wealth and persevere through challenging conditions in remote locations."
+      },
+      "duration_seconds": 65.93660545349121
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Agent Elvis",
+    "overview": "Elvis Presley trades in his white jumpsuit for a jet pack when he is covertly inducted into a secret government spy program to help battle the dark forces that threaten the country he loves — all while holding down his day job as the King of Rock & Roll.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Action & Adventure"
+    ],
+    "release_year": 2023,
+    "vote_count": 29
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Agent Elvis is an animated comedy series that blends historical fiction with spy-fi action. The show reimagines Elvis Presley as a secret agent, tasked with protecting the United States while maintaining his public persona as the King of Rock and Roll. It combines absurdist humor with action sequences, creating a lighthearted and irreverent take on the espionage genre. The series explores themes of patriotism, identity, and the pressures of fame, all wrapped in a visually dynamic and comedic package. It aims to entertain with its unique premise and playful approach to both Elvis's legacy and the tropes of the spy genre.",
+        "spoiler_rich_plot_summary": "The series begins with Elvis, at the height of his fame, being approached by a clandestine government organization seeking his assistance in combating a variety of threats. Initially reluctant, Elvis is drawn into the world of espionage, learning to balance his music career with dangerous missions. He is partnered with a seasoned, by-the-book agent who serves as his handler and mentor, often clashing with Elvis's improvisational and unconventional methods. Throughout the series, Elvis faces off against a colorful cast of villains, ranging from rogue scientists to international criminals, each with their own nefarious schemes. As Elvis navigates the complexities of his double life, he uncovers deeper conspiracies within the government itself, forcing him to question his loyalties and the true nature of his mission. The series culminates in a confrontation with a major antagonist, where Elvis must use all his skills and charisma to save the country and protect his legacy.",
+        "categorized_keywords": {
+          "themes": [
+            "patriotism",
+            "identity-crisis",
+            "fame",
+            "legacy",
+            "double-life",
+            "government-conspiracy"
+          ],
+          "plot_and_concepts": [
+            "spy-fi",
+            "secret-agent",
+            "alternate-history",
+            "government-cover-up",
+            "fish-out-of-water"
+          ],
+          "mood_and_tone": [
+            "comedic",
+            "absurdist",
+            "lighthearted",
+            "satirical",
+            "action-comedy"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "action-adventure",
+            "parody",
+            "spy-genre",
+            "found-family"
+          ],
+          "setting": [
+            "1960s",
+            "united-states",
+            "alternate-timeline"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "eccentric-genius",
+            "straight-man"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "white-jumpsuit",
+            "jet-pack",
+            "secret-headquarters",
+            "vintage-cars",
+            "microphone"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Agent Elvis is a lighthearted animated comedy series that reimagines the iconic musician as a secret agent, blending patriotic themes with absurdist humor and action-adventure in an alternate-history setting."
+      },
+      "duration_seconds": 87.09846711158752
+    }
+  }
+}

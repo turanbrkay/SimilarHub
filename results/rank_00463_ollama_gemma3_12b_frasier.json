@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Frasier",
+    "overview": "After many years spent at the “Cheers” bar, Frasier moves back home to Seattle to work as a radio psychiatrist after his policeman father gets shot in the hip on duty.",
+    "genres": "Comedy",
+    "release_year": 1993,
+    "vote_count": 666
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Frasier is a sophisticated comedy series that follows the titular psychiatrist as he navigates life in Seattle, balancing his professional career with his complex family relationships. The show explores themes of class, intellect, and personal growth through witty dialogue and nuanced character interactions. It blends elements of situational comedy with a focus on character development and the absurdities of high society, offering a humorous and often poignant look at the pursuit of happiness and belonging.",
+        "spoiler_rich_plot_summary": "Following his departure from Cheers, Dr. Frasier Crane relocates to Seattle to host a radio advice show and reconnect with his estranged father, Martin, a retired police officer. Initially, Frasier envisions a life of refined intellectual pursuits, but his plans are complicated by his father's need for care and the unexpected challenges of navigating Seattle's social scene. He hires Daphne Moon, a quirky and unconventional physical therapist for his father, leading to a series of comedic misunderstandings and unexpected bonds. Throughout the series, Frasier grapples with his own insecurities and romantic failures, while also striving to maintain a semblance of order in his chaotic family life. His brother, Niles, a psychiatrist with his own eccentricities and unrequited love, adds another layer of complexity to the family dynamic. As the series progresses, Frasier confronts personal demons and learns to appreciate the value of genuine connection, ultimately finding a sense of belonging and purpose in the most unexpected places.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "social-class",
+            "intellectual-pursuit",
+            "personal-growth",
+            "redemption",
+            "belonging"
+          ],
+          "plot_and_concepts": [
+            "radio-advice-show",
+            "fish-out-of-water",
+            "sibling-rivalry",
+            "romantic-comedy",
+            "generational-conflict"
+          ],
+          "mood_and_tone": [
+            "witty",
+            "sophisticated",
+            "lighthearted",
+            "observational",
+            "absurdist"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "romantic-comedy",
+            "fish-out-of-water",
+            "found-family"
+          ],
+          "setting": [
+            "seattle-washington",
+            "modern-day",
+            "upscale-apartment"
+          ],
+          "character_archetypes": [
+            "intellectual",
+            "eccentric",
+            "father-figure",
+            "quirky-assistant"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "episodes-of-the-week"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "radio-studio",
+            "mansions",
+            "art-gallery",
+            "sheriffs-hat"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Frasier is a witty and sophisticated sitcom set in Seattle, exploring themes of family, social class, and personal growth through the lives of an intellectual psychiatrist and his eccentric family."
+      },
+      "duration_seconds": 105.5923821926117
+    }
+  }
+}

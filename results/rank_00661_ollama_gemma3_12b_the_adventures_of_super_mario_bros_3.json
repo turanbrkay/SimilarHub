@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "The Adventures of Super Mario Bros. 3",
+    "overview": "The Mario Bros., Princess Toadstool, and Toad protect the Mushroom Kingdom against the evil forces of Bowser and his seven Koopa Kids.",
+    "genres": [
+      "Family",
+      "Animation",
+      "Kids"
+    ],
+    "release_year": 1990,
+    "vote_count": 432
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Adventures of Super Mario Bros. 3 is a vibrant and lighthearted animated series based on the iconic video game. It follows Mario, Luigi, Princess Toadstool, and Toad as they navigate a whimsical world filled with challenges and quirky enemies. The series emphasizes themes of bravery, friendship, and overcoming adversity through teamwork and resourcefulness. Its episodic structure and colorful visuals make it a consistently entertaining experience for a family audience, blending action, comedy, and a touch of fantasy.",
+        "spoiler_rich_plot_summary": "The series begins with Bowser, having conquered the Dark Land, sending his Koopalings to steal the magic wands of the Mushroom Kingdom. With the wands stolen, the Mushroom Kingdom is plunged into darkness, and the brothers embark on a quest to retrieve them. They travel to various worlds, each with unique environments and challenges, encountering a diverse cast of characters, both helpful and hindering. The brothers gain access to various power-ups and abilities, allowing them to overcome increasingly difficult obstacles. Throughout their journey, they confront the Koopalings, each possessing unique abilities and guarding a magic wand. Ultimately, Mario and Luigi confront Bowser in the Dark Land, battling him to restore peace and retrieve the stolen magic wands, returning the Mushroom Kingdom to its former glory.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "bravery",
+            "teamwork",
+            "good-vs-evil",
+            "adventure",
+            "family-values"
+          ],
+          "plot_and_concepts": [
+            "quest",
+            "power-ups",
+            "world-hopping",
+            "villain-scheme",
+            "rescue-mission"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "optimistic",
+            "playful",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "family-entertainment",
+            "animated-series",
+            "heroic-journey",
+            "video-game-adaptation"
+          ],
+          "setting": [
+            "fantasy-kingdom",
+            "mushroom-kingdom",
+            "dark-land",
+            "alternate-dimension"
+          ],
+          "character_archetypes": [
+            "hero",
+            "sidekick",
+            "princess",
+            "villain",
+            "wise-advisor"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "mushroom-kingdom",
+            "warp-pipe",
+            "super-mushroom",
+            "fire-flower",
+            "tanooki-suit"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Adventures of Super Mario Bros. 3 is a lighthearted and optimistic animated series that follows a heroic journey through a vibrant fantasy kingdom, emphasizing themes of friendship and bravery as Mario and his companions overcome challenges and rescue the Mushroom Kingdom."
+      },
+      "duration_seconds": 55.05144810676575
+    }
+  }
+}

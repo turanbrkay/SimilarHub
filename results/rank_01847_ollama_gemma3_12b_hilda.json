@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Hilda",
+    "overview": "Fearless, free-spirited Hilda finds new friends, adventure and magical creatures when she leaves her enchanted forest home and journeys to the city.",
+    "genres": [
+      "Animation",
+      "Family",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2018,
+    "vote_count": 108
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Hilda is a charming animated series that blends whimsical fantasy with themes of adaptation and friendship. Following a young girl's move from a magical wilderness to a bustling city, the show explores the challenges of new environments and the importance of embracing differences. With a gentle tone and visually appealing animation, Hilda offers a heartwarming and imaginative experience suitable for a wide audience, celebrating curiosity and the power of connection.",
+        "spoiler_rich_plot_summary": "The series begins with Hilda, her mother, and their house elf, invisibly following, relocating from a remote wilderness filled with magical creatures to the sprawling city of Trolberg. Initially, Hilda struggles to adjust to the urban environment, missing the freedom and familiarity of her former home. She quickly befriends new companions, including David, a boy fascinated by trolls, and Frida, a quiet and observant artist. As Hilda explores Trolberg, she encounters various magical beings, some friendly and some dangerous, uncovering secrets about the city's history and the hidden world that exists alongside the mundane. Throughout the series, Hilda faces challenges that test her courage and resourcefulness, learning valuable lessons about responsibility, compromise, and the importance of understanding different perspectives. The series culminates in Hilda confronting a significant threat to Trolberg, requiring her to utilize her unique skills and the support of her friends to protect the city and its inhabitants, solidifying her place as a beloved figure in the community.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "adaptation",
+            "courage",
+            "discovery",
+            "belonging",
+            "environmentalism"
+          ],
+          "plot_and_concepts": [
+            "coming-of-age",
+            "urban-fantasy",
+            "monster-of-the-week",
+            "hidden-world",
+            "magical-creatures"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "optimistic",
+            "gentle",
+            "imaginative",
+            "lighthearted"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "family-audience",
+            "found-family",
+            "coming-of-age-story"
+          ],
+          "setting": [
+            "urban-environment",
+            "fantasy-world",
+            "modern-day",
+            "trolberg-city"
+          ],
+          "character_archetypes": [
+            "adventurous-child",
+            "wise-mentor",
+            "loyal-friend",
+            "curious-observer"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "house-elf",
+            "troll-lore",
+            "magical-forest",
+            "city-map",
+            "art-studio"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Hilda is a charming animated series that follows a fearless young girl as she navigates a new urban environment filled with magical creatures and discovers the importance of friendship and belonging."
+      },
+      "duration_seconds": 63.844972133636475
+    }
+  }
+}

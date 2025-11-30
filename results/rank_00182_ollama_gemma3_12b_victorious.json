@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Victorious",
+    "overview": "Aspiring singer Tori Vega navigates life while attending a performing arts high school called Hollywood Arts.",
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "release_year": 2010,
+    "vote_count": 1522
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Victorious is a teen comedy series centered on a performing arts high school, Hollywood Arts. The show follows Tori Vega as she adjusts to her new environment and pursues her dreams of becoming a singer. It blends elements of musical performance with the typical high school experience, exploring themes of friendship, ambition, and self-discovery. The series aims to provide a lighthearted and entertaining look at the challenges and triumphs of young artists, emphasizing the importance of creativity and perseverance. It's a family-friendly show with a focus on humor and positive relationships.",
+        "spoiler_rich_plot_summary": "The series begins with Tori Vega, initially uninterested in performing, unexpectedly earning a scholarship to Hollywood Arts. She finds herself surrounded by a diverse group of talented students, including Andre, Robbie, Jade, and Cat, each with their own unique quirks and aspirations. Throughout the series, Tori struggles to find her place and prove herself as a singer, often facing competition from Jade, who sees Tori as a threat. Robbie, with his ventriloquist dummy Rex, provides comedic relief and often grapples with feelings of inadequacy. Andre serves as a supportive friend and musical collaborator. Cat's eccentric behavior and unpredictable actions consistently add to the show's chaotic and humorous atmosphere. As the seasons progress, the characters navigate romantic relationships, deal with school performances and competitions, and confront personal insecurities. The series culminates in the characters achieving individual milestones and strengthening their bonds as a found-family, celebrating their artistic growth and the power of friendship.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "ambition",
+            "self-discovery",
+            "performing-arts",
+            "found-family",
+            "coming-of-age"
+          ],
+          "plot_and_concepts": [
+            "scholarship-program",
+            "school-competition",
+            "musical-performance",
+            "romantic-relationships"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "humorous",
+            "optimistic",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "teen-comedy",
+            "family-audience",
+            "musical-comedy"
+          ],
+          "setting": [
+            "performing-arts-school",
+            "los-angeles",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "aspiring-singer",
+            "eccentric-friend",
+            "comedic-relief",
+            "competitive-rival"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "ventriloquist-dummy",
+            "school-auditorium",
+            "microphone",
+            "stage-lights"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Victorious is a lighthearted teen comedy series set in a performing arts school, exploring themes of friendship, ambition, and self-discovery through the experiences of a diverse ensemble cast."
+      },
+      "duration_seconds": 58.57757878303528
+    }
+  }
+}

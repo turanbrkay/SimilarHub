@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Magpie Murders",
+    "overview": "An editor gets drawn into a web of intrigue and murder when she receives an unfinished manuscript.",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2022,
+    "vote_count": 31
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Magpie Murders is a British mystery drama series that blends a classic whodunit narrative with a meta-narrative structure. The series follows an editor who becomes embroiled in a real-life mystery mirroring the unfinished manuscript she's working on. It explores themes of authorship, deception, and the power of storytelling, maintaining a suspenseful and atmospheric tone throughout. The series offers a compelling blend of traditional mystery tropes and a unique narrative framing device, appealing to fans of both classic and contemporary detective fiction.",
+        "spoiler_rich_plot_summary": "The series begins with Susan Ryeland, a London editor, receiving the unfinished manuscript of a popular mystery novel by Alan Swinerton. Shortly after, Swinerton is found dead, seemingly mirroring events within his own manuscript. Susan inherits the incomplete novel and becomes entangled in a complex investigation, realizing that the events in the manuscript may be connected to Swinerton’s death. As she attempts to piece together the remaining chapters, she uncovers a web of secrets, lies, and potential suspects, including those close to Swinerton. The investigation reveals a history of financial troubles, hidden relationships, and a possible motive for murder. Susan’s pursuit of the truth leads her to various locations, uncovering clues and encountering individuals who may be involved in the conspiracy. The series culminates in the revelation of the killer's identity and their connection to the manuscript, exposing a carefully constructed plan and a shocking betrayal. The narrative resolves with Susan completing the manuscript and bringing the truth to light, but leaving a lingering sense of unease about the nature of storytelling and the darkness it can conceal.",
+        "categorized_keywords": {
+          "themes": [
+            "authorship",
+            "deception",
+            "storytelling",
+            "mystery",
+            "betrayal",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "whodunit",
+            "meta-narrative",
+            "unreliable-narrator",
+            "manuscript",
+            "crime-investigation"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "atmospheric",
+            "dark",
+            "enigmatic"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "mystery",
+            "british-drama",
+            "slow-burn-mystery"
+          ],
+          "setting": [
+            "england",
+            "countryside",
+            "publishing-industry"
+          ],
+          "character_archetypes": [
+            "editor",
+            "author",
+            "detective",
+            "suspect"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "manuscript-pages",
+            "country-estate",
+            "vintage-typewriter",
+            "publishing-house"
+          ],
+          "maturity_and_content": [
+            "suspense",
+            "murder"
+          ]
+        },
+        "keyword_sentence": "Magpie Murders is a suspenseful British drama that explores themes of authorship and deception through a complex whodunit mystery set within the world of publishing."
+      },
+      "duration_seconds": 78.158851146698
+    }
+  }
+}

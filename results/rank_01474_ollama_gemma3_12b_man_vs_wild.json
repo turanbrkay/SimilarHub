@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Man vs. Wild",
+    "overview": "Bear strands himself in popular wilderness destinations where tourists often find themselves lost or in danger.",
+    "genres": [
+      "Action & Adventure",
+      "Documentary"
+    ],
+    "release_year": 2006,
+    "vote_count": 149
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Man vs. Wild is a documentary series centered around survival expert Bear Grylls's challenges in remote and often dangerous wilderness locations. The show blends elements of adventure, documentary, and survivalism, showcasing Grylls's resourcefulness and knowledge as he navigates challenging environments. The series aims to entertain while also providing insights into survival techniques and the beauty and harshness of the natural world. It's a visually engaging and often suspenseful experience, appealing to audiences interested in outdoor adventure and survival skills.",
+        "spoiler_rich_plot_summary": "Each episode of Man vs. Wild follows a similar structure: Bear Grylls is stranded in a specific wilderness location, often a popular tourist destination where people frequently get lost. He then must utilize his survival skills to find food, water, and shelter, while also attempting to reach a point of safety or civilization. The challenges escalate as he faces extreme weather conditions, dangerous wildlife, and difficult terrain. While the show presents these scenarios as if Grylls is genuinely stranded, it is revealed that some elements are staged for safety and logistical reasons. The overarching narrative is a demonstration of human resilience and adaptability in the face of adversity, highlighting the importance of preparation and resourcefulness when confronted with the unpredictable forces of nature. The series doesn't follow a traditional plot arc, but rather a recurring cycle of survival challenges in diverse environments.",
+        "categorized_keywords": {
+          "themes": [
+            "survival",
+            "wilderness",
+            "adventure",
+            "resourcefulness",
+            "human-resilience",
+            "nature-vs-man"
+          ],
+          "plot_and_concepts": [
+            "survival-techniques",
+            "wilderness-exploration",
+            "staged-challenges",
+            "man-vs-nature"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "adventurous",
+            "tense",
+            "educational"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "adventure-series",
+            "survivalism"
+          ],
+          "setting": [
+            "remote-wilderness",
+            "mountain-ranges",
+            "tropical-forests",
+            "desert-regions"
+          ],
+          "character_archetypes": [
+            "survival-expert",
+            "resourceful-protagonist"
+          ],
+          "narrative_style": [
+            "episodic-format",
+            "challenge-based"
+          ],
+          "target_audience": [
+            "adventure-seekers",
+            "outdoor-enthusiasts"
+          ],
+          "detail_plot": [
+            "survival-kit",
+            "fire-starting",
+            "water-purification",
+            "wildlife-encounters"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Man vs. Wild is an adventurous documentary series showcasing a survival expert's resourcefulness as he confronts the challenges of remote wilderness locations, highlighting themes of resilience and the power of nature."
+      },
+      "duration_seconds": 60.056514263153076
+    }
+  }
+}

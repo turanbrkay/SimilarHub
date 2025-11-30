@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "The Beatles: Get Back",
+    "overview": "The three-part documentary series, compiled from over 60 hours of unseen footage, captures the warmth, camaraderie, and creative genius that defined the legacy of music’s most iconic foursome. The series also includes – for the first time in its entirety – The Beatles’ final performance at London’s Savile Row.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2021,
+    "vote_count": 302
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Beatles: Get Back is a three-part documentary series offering an unprecedented look into the creation of the band's final album, Let It Be. Compiled from extensive archival footage, the series chronicles the band's dynamic, both collaborative and fraught, as they navigate creative differences and personal tensions while striving to recapture their earlier musical magic. It's a revealing portrait of a legendary group at a pivotal moment in their history, showcasing their process and the complex relationships that defined their enduring legacy. The documentary offers a unique blend of musical insight and human drama, appealing to both die-hard fans and those interested in the creative process.",
+        "spoiler_rich_plot_summary": "The documentary begins with The Beatles attempting to record what would become Let It Be, initially conceived as a 'back to basics' project to recapture the spontaneity of their early years. The footage reveals a band struggling with creative differences and interpersonal conflicts, particularly between Paul McCartney and George Harrison. Harrison expresses frustration at his limited songwriting contributions, while tensions arise during rehearsals and recording sessions. The series captures the band's attempts to overcome these challenges, showcasing moments of both intense disagreement and genuine camaraderie. As the project progresses, the band decides to abandon the original concept and instead record a rooftop concert, which becomes their final performance together. The documentary concludes with this iconic performance, leaving the viewer to reflect on the band's complex journey and the bittersweet nature of their separation.",
+        "categorized_keywords": {
+          "themes": [
+            "creative-process",
+            "band-dynamics",
+            "musical-legacy",
+            "interpersonal-conflict",
+            "artistic-collaboration"
+          ],
+          "plot_and_concepts": [
+            "archival-footage",
+            "documentary-film",
+            "musical-recording",
+            "live-performance"
+          ],
+          "mood_and_tone": [
+            "reflective",
+            "nostalgic",
+            "introspective",
+            "observational"
+          ],
+          "genre_and_tropes": [
+            "music-documentary",
+            "behind-the-scenes",
+            "fly-on-the-wall"
+          ],
+          "setting": [
+            "london-england",
+            "1970s",
+            "recording-studio",
+            "rooftop"
+          ],
+          "character_archetypes": [
+            "creative-genius",
+            "band-leader",
+            "frustrated-artist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "observational-documentary"
+          ],
+          "target_audience": [
+            "music-fans",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "rooftop-concert",
+            "recording-studio-equipment",
+            "band-rehearsals",
+            "let-it-be-album"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Beatles: Get Back is a reflective music documentary offering an intimate look at the band's creative process and interpersonal conflicts as they attempt to recapture their musical legacy in 1970s London."
+      },
+      "duration_seconds": 56.98607611656189
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Hill Street Blues",
+    "overview": "A realistic glimpse into the daily lives of the officers and detectives at an urban police station.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "release_year": 1981,
+    "vote_count": 88
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Hill Street Blues is a groundbreaking police procedural drama that eschews traditional episodic structure in favor of a serialized, character-driven narrative. The series portrays the gritty realities of urban policing, focusing on the personal and professional struggles of the officers and detectives at the 12th Precinct. Its blend of procedural elements with complex character development and a realistic portrayal of crime and its impact on the community established a new standard for television drama, influencing countless shows that followed. The series explores themes of justice, morality, and the toll that law enforcement takes on individuals, offering a nuanced and often pessimistic view of the world.",
+        "spoiler_rich_plot_summary": "The series begins with the introduction of a diverse group of officers and detectives at the 12th Precinct, each grappling with their own personal demons and professional challenges. Captain Furillo attempts to maintain order and uphold justice amidst a backdrop of rising crime rates and bureaucratic interference. Throughout the early seasons, the team faces a constant stream of cases, ranging from petty theft to violent crimes, while also dealing with internal conflicts and personal tragedies. Relationships between the officers evolve, with romances, betrayals, and shifting alliances shaping the dynamics of the precinct. As the series progresses, the characters confront increasingly complex moral dilemmas, blurring the lines between right and wrong. The constant pressure and exposure to violence take a heavy toll, leading to burnout, disillusionment, and personal sacrifices. While individual cases are resolved, the underlying issues of crime and corruption persist, highlighting the cyclical nature of the problems faced by the police and the community. The series concludes with a sense of weary resignation, acknowledging the ongoing struggle for justice and the enduring impact of the officers' experiences.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "morality",
+            "police-brutality",
+            "corruption",
+            "redemption",
+            "urban-decay",
+            "loss-of-innocence"
+          ],
+          "plot_and_concepts": [
+            "police-procedural",
+            "serialized-story",
+            "crime-investigation",
+            "courtroom-drama",
+            "ensemble-cast"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "realistic",
+            "somber",
+            "pessimistic",
+            "bleak"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "police-procedural",
+            "ensemble-cast",
+            "slow-burn-narrative"
+          ],
+          "setting": [
+            "urban-setting",
+            "modern-day",
+            "1980s"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "reluctant-hero",
+            "corrupt-official",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "episodic-arcs"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "police-station",
+            "interrogation-room",
+            "crime-scene",
+            "police-car"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "police-brutality",
+            "adult-language"
+          ]
+        },
+        "keyword_sentence": "Hill Street Blues portrays a gritty and realistic depiction of urban police work, exploring themes of justice and morality within a serialized narrative featuring a diverse ensemble cast."
+      },
+      "duration_seconds": 71.091552734375
+    }
+  }
+}

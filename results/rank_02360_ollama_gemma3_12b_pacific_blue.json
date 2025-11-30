@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Pacific Blue",
+    "overview": "Pacific Blue is an American crime drama series about a team of police officers with the Santa Monica Police Department who patrolled its beaches on bicycles. The show ran for five seasons on the USA Network, from March 2, 1996 to April 9, 2000, with a total of one hundred and one episodes. Often compared as \"Baywatch on bikes,\" the series enjoyed a popular run among the Network's viewers, and was popular in France, Israel, Sweden, Bulgaria, Norway, Spain, Russia, Austria, Germany, Italy, South America, Canada, Denmark, Poland, and other foreign markets.",
+    "genres": [
+      "Drama",
+      "Action & Adventure",
+      "Crime",
+      "War & Politics"
+    ],
+    "release_year": 1996,
+    "vote_count": 74
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Pacific Blue is a crime drama series set in Santa Monica, California, focusing on a bicycle patrol unit within the police department. The show blends police procedural elements with a focus on the coastal setting and the officers' personal lives. It aims to capture a sense of youthful energy and camaraderie while tackling various crime scenarios. Often compared to 'Baywatch,' Pacific Blue offers a lighter, more accessible take on law enforcement, appealing to a broad audience with its blend of action and character-driven storylines. The series explores themes of justice, community, and the challenges faced by officers balancing their professional duties and personal relationships.",
+        "spoiler_rich_plot_summary": "The series begins with the introduction of the Santa Monica Bicycle Patrol unit, led by Detective Nick Ryder. Each episode typically features a self-contained crime, ranging from petty theft to more serious offenses, all investigated by the team as they patrol the beaches and surrounding areas. Recurring storylines involve the officers navigating the complexities of their personal lives, dealing with departmental politics, and confronting criminals who pose a threat to the community. Over the course of the series, relationships evolve, both romantic and professional, and the officers face increasingly challenging situations that test their skills and loyalty. While the show maintains a generally upbeat tone, it also explores darker themes of crime and its impact on individuals and families. The series concludes with the team continuing their work, having faced numerous challenges and solidified their bond as a unit, leaving the audience with a sense of hope and the ongoing pursuit of justice.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "community",
+            "police-work",
+            "friendship",
+            "loyalty",
+            "personal-growth"
+          ],
+          "plot_and_concepts": [
+            "police-procedural",
+            "crime-investigation",
+            "beach-setting",
+            "bicycle-patrol",
+            "episodic-crime"
+          ],
+          "mood_and_tone": [
+            "optimistic",
+            "lighthearted",
+            "action-oriented",
+            "youthful"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "police-show",
+            "beach-setting",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "santa-monica",
+            "california",
+            "beach-setting",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "police-officer",
+            "detective",
+            "ensemble-cast"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "bicycle-patrol",
+            "beach-scene",
+            "police-uniform",
+            "crime-scene"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Pacific Blue is a lighthearted crime drama series set on the beaches of Santa Monica, following a team of police officers as they investigate crimes and navigate personal relationships within a youthful and optimistic environment."
+      },
+      "duration_seconds": 67.7743136882782
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "The Garfield Show",
+    "overview": "Your favorite lazy, fat cat is at it again. Garfield, Odie, Jon and the rest of the gang are back for more funny misadventures. Whether he's scarfing down lasagna or tricking Nermal the kitten, Garfield is guaranteed to crack you up. But remember: He hates Mondays!",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Kids"
+    ],
+    "release_year": 2009,
+    "vote_count": 54
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Garfield Show is a lighthearted animated series geared towards a young audience, centered around the perpetually lazy and food-loving cat, Garfield. The show consistently delivers comedic situations arising from Garfield's interactions with his owner, Jon, the excitable dog Odie, and various other characters. It emphasizes slapstick humor and silly antics, maintaining a consistently upbeat and family-friendly tone. The series' enduring appeal lies in its simple premise and relatable themes of friendship, indulgence, and a general aversion to responsibility.",
+        "spoiler_rich_plot_summary": "The series follows Garfield's daily life at Jon's house, frequently involving elaborate schemes to acquire more lasagna or avoid unwanted attention. Garfield's relationship with Odie is a constant source of comedic conflict, with Garfield often playing pranks on the well-meaning but clumsy dog. Jon, Garfield's owner, often finds himself caught in the crossfire of Garfield and Odie's antics. Recurring characters like Arlene, Liz, and Nermal add further layers to the comedic landscape, each contributing to Garfield's mischievous endeavors. While the show largely avoids overarching narratives, certain episodes explore themes of friendship and acceptance, often culminating in heartwarming resolutions that reinforce the importance of family and companionship. The series maintains a consistent tone throughout, with no major plot twists or dramatic shifts in character arcs.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "family",
+            "laziness",
+            "food-obsession",
+            "mischief",
+            "acceptance"
+          ],
+          "plot_and_concepts": [
+            "slapstick-comedy",
+            "animal-antics",
+            "recurring-characters",
+            "gag-humor"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "funny",
+            "playful"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "comedy",
+            "kids-tv",
+            "found-family"
+          ],
+          "setting": [
+            "suburban-home",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "lazy-character",
+            "clumsy-character",
+            "well-meaning-friend"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "gag-driven"
+          ],
+          "target_audience": [
+            "kids",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "lasagna",
+            "odie-the-dog",
+            "jon-arbuckle",
+            "nermal-the-kitten"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Garfield Show is a lighthearted animated comedy series for kids and families, centered around a lazy cat's humorous adventures with his owner and dog, fueled by a love of lasagna and mischief."
+      },
+      "duration_seconds": 57.40014410018921
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Julie and the Phantoms",
+    "overview": "Teenage Julie finds her passion for music and life while helping the Phantoms -- a trio of ghostly guys -- become the band they were never able to be.",
+    "genres": [
+      "Family",
+      "Comedy",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2020,
+    "vote_count": 541
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Julie and the Phantoms is a family-friendly musical series blending comedy, sci-fi, and fantasy elements. The show centers on a grieving teenager who discovers a band of ghosts and helps them achieve their musical dreams while confronting her own emotional struggles. It explores themes of friendship, loss, and the power of music to heal and connect people across generations. The series offers a lighthearted and optimistic tone, appealing to a younger audience with its catchy songs and whimsical premise.",
+        "spoiler_rich_plot_summary": "The series begins with Julie, a teenager struggling to cope with the loss of her mother, discovering that the ghosts of a 1990s boy band, Sunset Curve, are haunting her piano. The band members – Flynn, Luke, and Alex – are eager to finish the music they never got to complete. Initially hesitant, Julie agrees to help them, forming a new band and reigniting her passion for music. As they work together, Julie learns about the band's tragic end and the circumstances surrounding their unfinished business. The series follows their journey to record an album and perform a final concert, facing obstacles from a rival band and uncovering secrets about the ghosts' past. Throughout the process, Julie confronts her grief and finds solace in her newfound friendships with the Phantoms, ultimately helping them find peace and move on while also rediscovering her own path forward. The series culminates in a final performance where the band's legacy is secured, and the ghosts are finally able to find closure.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "loss",
+            "grief",
+            "music-healing",
+            "second-chances",
+            "unfinished-business"
+          ],
+          "plot_and_concepts": [
+            "ghosts",
+            "boy-band",
+            "time-travel",
+            "musical-performance",
+            "unfinished-legacy"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "optimistic",
+            "wholesome",
+            "nostalgic",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "family-audience",
+            "coming-of-age",
+            "found-family",
+            "musical-comedy",
+            "supernatural-elements"
+          ],
+          "setting": [
+            "modern-day",
+            "small-town-usa",
+            "high-school",
+            "music-venue"
+          ],
+          "character_archetypes": [
+            "grieving-teenager",
+            "ghostly-musician",
+            "reluctant-hero",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "ghostly-instruments",
+            "music-studio",
+            "concert-stage",
+            "vintage-band-merchandise"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Julie and the Phantoms is a lighthearted and nostalgic musical series about a grieving teenager who helps a ghostly boy band achieve their unfinished legacy, exploring themes of friendship, loss, and the power of music to heal."
+      },
+      "duration_seconds": 57.172460079193115
+    }
+  }
+}

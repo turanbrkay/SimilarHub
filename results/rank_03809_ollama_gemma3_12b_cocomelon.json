@@ -1,0 +1,70 @@
+{
+  "input_data": {
+    "title": "Cocomelon",
+    "overview": "JJ and his pals sing and dance their way through fun adventures as they learn about letters, numbers, and more.",
+    "genres": [
+      "Animation",
+      "Kids"
+    ],
+    "release_year": 2020,
+    "vote_count": 30
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Cocomelon is a children's animated series centered around nursery rhymes and original songs. The show utilizes bright, colorful 3D animation and focuses on simple, relatable scenarios for young children, promoting early childhood learning and development. Its appeal lies in its familiar songs, engaging visuals, and focus on positive social interactions and problem-solving. The series aims to entertain and educate preschoolers, fostering a love of music and learning through accessible and comforting content. It's a gentle introduction to basic concepts and social skills, designed to be both enjoyable and beneficial for its target audience.",
+        "spoiler_rich_plot_summary": "Cocomelon primarily revolves around JJ and his family and friends navigating everyday experiences through song and dance. Episodes typically feature JJ and his siblings learning about colors, numbers, animals, and other fundamental concepts. While there isn't a complex overarching plot, each episode presents a small challenge or learning opportunity, often resolved through a catchy tune and positive reinforcement. The series emphasizes family togetherness and the importance of kindness and sharing. As the series progresses, the characters encounter new situations and learn new skills, always reinforcing the core values of friendship, learning, and a positive outlook on life. The show consistently reinforces the importance of routines and the joy of simple pleasures, creating a comforting and predictable environment for young viewers.",
+        "categorized_keywords": {
+          "themes": [
+            "early-childhood-learning",
+            "family-values",
+            "friendship",
+            "positive-reinforcement",
+            "routines"
+          ],
+          "plot_and_concepts": [
+            "nursery-rhymes",
+            "original-songs",
+            "learning-through-music",
+            "problem-solving"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "gentle",
+            "cheerful",
+            "comforting"
+          ],
+          "genre_and_tropes": [
+            "childrens-animation",
+            "educational-programming",
+            "found-family"
+          ],
+          "setting": [
+            "domestic-setting",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "innocent-protagonist",
+            "supportive-family"
+          ],
+          "narrative_style": [
+            "episodic-storytelling"
+          ],
+          "target_audience": [
+            "preschoolers",
+            "young-children"
+          ],
+          "detail_plot": [
+            "3d-animation",
+            "nursery-rhyme-songs",
+            "colorful-backgrounds",
+            "family-interactions"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Cocomelon is a gentle and cheerful children's animation series that uses colorful 3D animation and familiar nursery rhymes to teach preschoolers about family values, friendship, and early childhood learning."
+      },
+      "duration_seconds": 70.34583592414856
+    }
+  }
+}

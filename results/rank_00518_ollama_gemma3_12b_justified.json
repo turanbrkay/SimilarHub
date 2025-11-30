@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Justified",
+    "overview": "A character drama based on the 2001 Elmore Leonard short story \"Fire in the Hole.\" Leonard's tale centers around U.S. Marshal Raylan Givens of Kentucky, a quiet but strong-willed official of the law. The tale covers his high-stakes job, as well as his strained relationships with his ex-wife and father.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2010,
+    "vote_count": 602
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Justified is a crime drama that blends elements of neo-western and procedural storytelling. The series follows U.S. Marshal Raylan Givens as he is reassigned to his hometown in Harlan County, Kentucky, a region steeped in poverty, crime, and familial conflict. The show explores themes of justice, morality, and the complexities of small-town life, often blurring the lines between lawman and outlaw. It’s characterized by sharp dialogue, compelling characters, and a distinctive atmosphere that combines grit and understated humor.",
+        "spoiler_rich_plot_summary": "The series begins with Raylan Givens, a federal marshal, narrowly averting a deadly shootout and being transferred back to Harlan County, Kentucky, after a botched operation. He returns to a region defined by generational poverty, entrenched criminal networks, and a complicated relationship with his estranged ex-wife, Winona, and his criminal father, Boyd Crowder. Boyd, a former friend of Raylan’s, leads a burgeoning criminal enterprise, often clashing with Raylan’s attempts to uphold the law. Throughout the series, Raylan navigates a web of alliances and betrayals, often finding himself caught between his duty and his personal connections. The show explores the cyclical nature of violence and the difficulty of escaping one's past, with characters constantly grappling with their own moral compromises. Boyd’s criminal ambitions escalate, leading to increasingly dangerous confrontations with both law enforcement and rival gangs. The series culminates in a complex and morally ambiguous resolution, leaving the future of Harlan County and its inhabitants uncertain.",
+        "categorized_keywords": {
+          "themes": [
+            "justice-and-revenge",
+            "family-loyalty",
+            "moral-ambiguity",
+            "redemption",
+            "small-town-life",
+            "generational-trauma"
+          ],
+          "plot_and_concepts": [
+            "crime-procedural",
+            "neo-western",
+            "cat-and-mouse",
+            "criminal-enterprise",
+            "law-vs-outlaw"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "tense",
+            "darkly-comic",
+            "atmospheric"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "western",
+            "slow-burn-conflict",
+            "anti-hero"
+          ],
+          "setting": [
+            "kentucky",
+            "harlan-county",
+            "rural-america",
+            "small-town-usa"
+          ],
+          "character_archetypes": [
+            "federal-marshal",
+            "criminal-mastermind",
+            "estranged-father",
+            "ex-wife"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "federal-marshal-badge",
+            "harlan-county-courthouse",
+            "boyd-crowder-safehouse",
+            "winona-hogan-home"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "Set in the rugged terrain of Harlan County, Kentucky, Justified is a gritty crime drama that explores themes of justice, family, and moral ambiguity through the eyes of a federal marshal caught between upholding the law and confronting his own complicated past."
+      },
+      "duration_seconds": 60.897621631622314
+    }
+  }
+}

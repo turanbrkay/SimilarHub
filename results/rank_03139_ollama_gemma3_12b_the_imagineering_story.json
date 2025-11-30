@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "The Imagineering Story",
+    "overview": "Explore the past, present and future of Walt Disney Imagineering with noted filmmaker Leslie Iwerks. Ms. Iwerks comes from a family with deep Disney history — her grandfather was an early Disney animator and her father is a former Imagineer — and her previous work includes profiles of Pixar Animation Studios and visual effects house Industrial Light & Magic.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2019,
+    "vote_count": 43
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Imagineering Story is a documentary series offering a comprehensive look at the history and evolution of Walt Disney Imagineering, the company responsible for designing Disney theme parks and attractions. Through interviews with key figures and archival footage, the series explores the creative process, technological innovations, and challenges faced by Imagineers over the decades. It highlights the blend of artistry, engineering, and storytelling that defines Disney's immersive experiences, showcasing the dedication and vision that have shaped the company's iconic parks worldwide. The series offers a nostalgic and insightful look into the magic behind Disney's theme park creations, celebrating the legacy of Walt Disney's original vision and the ongoing pursuit of innovation.",
+        "spoiler_rich_plot_summary": "The documentary begins by establishing the foundational principles of Walt Disney's vision for immersive storytelling and entertainment, which directly led to the creation of Disneyland and the subsequent need for a dedicated design and engineering team – Imagineering. Early episodes detail the challenges of building Disneyland, including technological limitations and creative disagreements. The series then chronicles the expansion of Disney parks globally, showcasing the unique cultural adaptations and design innovations required for locations like Tokyo Disneyland, Euro Disney (now Disneyland Paris), and Shanghai Disneyland. Significant turning points include the development of groundbreaking attractions like Pirates of the Caribbean and Space Mountain, and the evolution of Imagineering's role in incorporating new technologies like digital animation and virtual reality. The documentary explores periods of creative stagnation and corporate restructuring, highlighting the impact of changing leadership and economic pressures on the Imagineering team. Ultimately, the series concludes by looking towards the future, examining the ongoing pursuit of immersive storytelling and the integration of cutting-edge technologies to create ever more spectacular and engaging Disney experiences.",
+        "categorized_keywords": {
+          "themes": [
+            "innovation",
+            "creative-process",
+            "legacy",
+            "corporate-culture",
+            "design-thinking",
+            "storytelling"
+          ],
+          "plot_and_concepts": [
+            "theme-park-design",
+            "attraction-development",
+            "corporate-history",
+            "engineering-innovation",
+            "archival-footage"
+          ],
+          "mood_and_tone": [
+            "nostalgic",
+            "inspiring",
+            "informative",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "corporate-profile",
+            "behind-the-scenes"
+          ],
+          "setting": [
+            "disneyland",
+            "walt-disney-company",
+            "anaheim-california",
+            "global-theme-parks"
+          ],
+          "character_archetypes": [
+            "visionary-leader",
+            "creative-genius",
+            "engineer",
+            "designer"
+          ],
+          "narrative_style": [
+            "chronological-narrative",
+            "interview-driven"
+          ],
+          "target_audience": [
+            "disney-fans",
+            "design-enthusiasts",
+            "engineering-students"
+          ],
+          "detail_plot": [
+            "pirates-of-the-caribbean",
+            "space-mountain",
+            "disneyland-park",
+            "walt-disney-archives"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Imagineering Story is an inspiring documentary that chronicles the creative process and engineering innovations behind the design and development of Disney theme parks, celebrating the legacy of Walt Disney and the ongoing pursuit of immersive storytelling."
+      },
+      "duration_seconds": 63.89563703536987
+    }
+  }
+}

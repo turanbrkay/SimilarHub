@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Entourage",
+    "overview": "Film star Vince Chase navigates the vapid terrain of Los Angeles with a close circle of friends and his trusty agent.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2004,
+    "vote_count": 462
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Entourage is a comedic drama series that follows the life of rising Hollywood star Vince Chase and his group of childhood friends as they navigate the complexities of fame, fortune, and the entertainment industry. The show offers a satirical and often exaggerated glimpse into the world of celebrity, showcasing lavish parties, high-stakes deals, and the challenges of maintaining genuine relationships amidst the superficiality of Los Angeles. While primarily a comedy, Entourage explores themes of loyalty, ambition, and the pursuit of the American dream, offering a lighthearted yet insightful commentary on the allure and pitfalls of celebrity culture.",
+        "spoiler_rich_plot_summary": "The series begins with Vince Chase, a rising film star, returning to Los Angeles and reconnecting with his childhood friends: Eric, Johnny Drama, Turtle, and Lloyd. Vince's agent, Ari Gold, aggressively manages his career, securing him roles in blockbuster films and navigating the cutthroat world of Hollywood deal-making. Throughout the series, Vince grapples with the pressures of fame, balancing his personal life with his professional obligations. His friends, each with their own ambitions and struggles, attempt to find their place in Vince's orbit, often leading to comedic and dramatic situations. Johnny Drama pursues acting roles, Turtle tries to establish himself as a successful entrepreneur, and Eric navigates relationships and career aspirations. As Vince's career ascends, he faces challenges such as dealing with demanding directors, navigating romantic entanglements, and confronting the consequences of his choices. The series culminates with Vince considering a return to independent film, signifying a potential shift in his career path and a reflection on his journey through the world of Hollywood.",
+        "categorized_keywords": {
+          "themes": [
+            "fame",
+            "friendship",
+            "ambition",
+            "loyalty",
+            "success",
+            "relationships",
+            "american-dream"
+          ],
+          "plot_and_concepts": [
+            "celebrity-culture",
+            "hollywood-deals",
+            "agent-client-relationship",
+            "coming-of-age",
+            "satire"
+          ],
+          "mood_and_tone": [
+            "comedic",
+            "lighthearted",
+            "satirical",
+            "glamorous"
+          ],
+          "genre_and_tropes": [
+            "comedy-drama",
+            "bromance",
+            "slice-of-life",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "los-angeles",
+            "hollywood",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "rising-star",
+            "agent",
+            "best-friends",
+            "struggling-actor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "red-carpet",
+            "limousine",
+            "premiere-party",
+            "film-set",
+            "agent-office"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Entourage offers a comedic and glamorous look at the lives of a rising film star and his close friends as they navigate the world of Hollywood, exploring themes of fame, friendship, and ambition in the sun-drenched landscape of Los Angeles."
+      },
+      "duration_seconds": 75.22572445869446
+    }
+  }
+}

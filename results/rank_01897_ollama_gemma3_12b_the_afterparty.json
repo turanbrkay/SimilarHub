@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "The Afterparty",
+    "overview": "When a high school reunion’s afterparty ends in a stunning death, everyone is a suspect. A detective grills the former classmates one by one, uncovering potential motives as each tells their version of the story—culminating in the shocking truth.",
+    "genres": [
+      "Mystery",
+      "Comedy",
+      "Crime"
+    ],
+    "release_year": 2022,
+    "vote_count": 104
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Afterparty is a comedic mystery series that unfolds through the perspectives of various attendees at a high school reunion afterparty. Each episode focuses on a different character's recollection of the events leading up to a death, blending humor with suspense as the investigation progresses. The series cleverly utilizes shifting narrative styles and unreliable narrators to create a playful and engaging whodunit, exploring themes of memory, perception, and the complexities of human relationships. The show's unique structure and comedic tone offer a fresh take on the crime genre, keeping the audience guessing until the very end.",
+        "spoiler_rich_plot_summary": "The series begins with the death of a former high school acquaintance at a reunion afterparty. Detective Lager, a local police officer, arrives to investigate and begins interviewing the attendees, each of whom offers a drastically different account of the night's events. The first few episodes focus on the perspectives of Tessa, a struggling actress; Zach, a tech entrepreneur; Manny, a police officer; and Danner, a real estate agent, each revealing their own motivations and secrets. As the investigation deepens, it becomes clear that several attendees had reasons to want the deceased out of the picture, ranging from professional jealousy to unresolved romantic entanglements. The narrative shifts between comedic reenactments of the events as perceived by each character and the detective's increasingly frustrated attempts to piece together the truth. The series builds to a surprising reveal of the killer's identity and their motive, which is intricately tied to the characters' shared history and the unresolved tensions of their past. The final episode resolves the case, exposing the killer's actions and the underlying reasons behind them, while also offering a bittersweet reflection on the passage of time and the enduring power of high school memories.",
+        "categorized_keywords": {
+          "themes": [
+            "memory-distortion",
+            "unreliable-narrator",
+            "high-school-rivalry",
+            "guilt",
+            "redemption",
+            "perception-vs-reality"
+          ],
+          "plot_and_concepts": [
+            "whodunit",
+            "multiple-perspectives",
+            "nonlinear-timeline",
+            "crime-investigation",
+            "flashback"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "suspenseful",
+            "quirky",
+            "satirical"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "comedy-mystery",
+            "ensemble-cast",
+            "satirical-comedy"
+          ],
+          "setting": [
+            "modern-day",
+            "small-town-usa",
+            "high-school-reunion"
+          ],
+          "character_archetypes": [
+            "unreliable-protagonist",
+            "quirky-detective",
+            "social-outcast",
+            "washed-up-actor"
+          ],
+          "narrative_style": [
+            "episodic-structure",
+            "nonlinear-narrative",
+            "shifting-perspectives"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "high-school-yearbook",
+            "police-interrogation",
+            "flashback-sequence",
+            "party-atmosphere"
+          ],
+          "maturity_and_content": [
+            "adult-language",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "The Afterparty is a darkly comic mystery series that explores themes of memory and perception through the shifting perspectives of former high school classmates investigating a shocking death at a reunion."
+      },
+      "duration_seconds": 73.13421058654785
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "Fawlty Towers",
+    "overview": "Owner Basil Fawlty, his wife Sybil, a chambermaid Polly, and Spanish waiter Manuel attempt to run their hotel amidst farcical situations and an array of demanding guests.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1975,
+    "vote_count": 605
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Fawlty Towers is a British sitcom renowned for its chaotic and farcical humor. The series follows the hapless Basil Fawlty, the owner of a seaside hotel, as he struggles to maintain order amidst a constant stream of demanding guests and the incompetence of his staff. The show's humor derives from awkward social interactions, misunderstandings, and Basil's increasingly desperate attempts to control the situation, often resulting in comedic disaster. Its enduring appeal lies in its relatable depiction of everyday frustrations and the absurdity of human behavior.",
+        "spoiler_rich_plot_summary": "The series revolves around Basil Fawlty's attempts to run the Fawlty Towers hotel, frequently undermined by his volatile temper, his domineering wife Sybil, and the eccentric staff. Early episodes establish the recurring pattern of Basil's attempts at professionalism clashing with the hotel's inherent chaos and the peculiarities of the guests. Manuel, the Spanish waiter, consistently misinterprets instructions and creates further complications, while Polly, the chambermaid, often serves as a voice of reason amidst the madness. Throughout the series, Basil's attempts to impress guests and elevate the hotel's reputation backfire spectacularly, leading to increasingly absurd and humiliating situations. Recurring characters and running gags contribute to the show's comedic rhythm, and the series culminates in a final episode that encapsulates the show's signature blend of frustration and absurdity, leaving the future of the hotel uncertain.",
+        "categorized_keywords": {
+          "themes": [
+            "customer-service",
+            "social-awkwardness",
+            "class-conflict",
+            "marital-discord",
+            "cultural-misunderstanding"
+          ],
+          "plot_and_concepts": [
+            "farce",
+            "running-gag",
+            "fish-out-of-water",
+            "hotel-setting"
+          ],
+          "mood_and_tone": [
+            "absurdist",
+            "slapstick",
+            "lighthearted",
+            "satirical"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "british-humor",
+            "physical-comedy"
+          ],
+          "setting": [
+            "england",
+            "hotel-resort",
+            "1970s"
+          ],
+          "character_archetypes": [
+            "inept-protagonist",
+            "domineering-wife",
+            "well-meaning-fool",
+            "straight-man"
+          ],
+          "narrative_style": [
+            "episodic",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "hotel-lobby",
+            "dining-room",
+            "manuel-s-misunderstandings",
+            "basil-s-temper"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Fawlty Towers is a lighthearted British sitcom that satirizes customer service and social awkwardness through the chaotic and absurd misadventures of a hotel owner and his staff."
+      },
+      "duration_seconds": 67.1956729888916
+    }
+  }
+}

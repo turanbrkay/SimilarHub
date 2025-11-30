@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Rillington Place",
+    "overview": "A three-part drama about serial killer John Christie and the murders at 10 Rillington Place in the 1940s and early 1950s.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2016,
+    "vote_count": 38
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Rillington Place is a chilling true-crime drama that explores the disturbing crimes of serial killer John Christie and their impact on the lives of his neighbors. The series delves into the social and psychological factors that allowed Christie to operate undetected for years, highlighting the vulnerability of victims and the complacency of a post-war society. Through a blend of historical accuracy and character-driven storytelling, the drama examines themes of domesticity, deception, and the dark underbelly of seemingly ordinary lives. The series maintains a somber and unsettling tone, emphasizing the devastating consequences of Christie's actions and the enduring trauma experienced by those affected.",
+        "spoiler_rich_plot_summary": "The drama centers on the true story of John Christie, a seemingly unremarkable man living at 10 Rillington Place in London. Initially, the series introduces his wife, Ethel, and their seemingly normal existence. However, it soon becomes clear that Christie is a serial killer, having murdered multiple women in their own home. The narrative then shifts to focus on the arrival of new neighbors, Tim and Pearl Duncan, whose lives become tragically intertwined with Christie’s dark secret. Pearl Duncan becomes pregnant, and her anxieties about motherhood are exploited by Christie, who manipulates her and her husband. The series details the escalating tension and manipulation as Christie’s crimes are gradually revealed, culminating in a devastating sequence of events that expose his horrific nature and the vulnerability of his victims. The drama portrays the aftermath of the murders, highlighting the societal shock and the ongoing impact on the community and the families left behind, ultimately revealing the full extent of Christie’s depravity and the systemic failures that allowed him to continue his crimes.",
+        "categorized_keywords": {
+          "themes": [
+            "true-crime",
+            "serial-killer",
+            "domestic-violence",
+            "deception",
+            "social-injustice",
+            "post-war-britain",
+            "victimhood"
+          ],
+          "plot_and_concepts": [
+            "crime-procedurals",
+            "historical-drama",
+            "manipulation",
+            "false-appearance",
+            "domestic-setting"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "somber",
+            "unsettling",
+            "suspenseful",
+            "grim"
+          ],
+          "genre_and_tropes": [
+            "true-crime-drama",
+            "historical-fiction",
+            "character-study"
+          ],
+          "setting": [
+            "london-england",
+            "1950s",
+            "post-war-britain"
+          ],
+          "character_archetypes": [
+            "serial-killer",
+            "vulnerable-victim",
+            "manipulative-abuser",
+            "innocent-bystander"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "true-story-adaptation"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "rillington-place-house",
+            "police-investigation",
+            "courtroom-scene"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "sexual-content",
+            "abuse-themes"
+          ]
+        },
+        "keyword_sentence": "Rillington Place is a dark and unsettling true-crime drama set in post-war Britain, exploring the chilling crimes of a serial killer and the devastating impact on the lives of those living in his seemingly ordinary neighborhood."
+      },
+      "duration_seconds": 62.95022916793823
+    }
+  }
+}

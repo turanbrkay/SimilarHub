@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Alice",
+    "overview": "Alice Hamilton, a fiercely independent twenty-something, watches as her lover Jack Chase is kidnapped and driven into darkness. Desperate to find Jack, Alice puts her trust in a stranger who calls himself White Rabbit and suddenly finds herself on the other side of a looking glass.",
+    "genres": [
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2009,
+    "vote_count": 115
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Alice is a visually striking and surreal science fiction series that blends elements of fantasy and mystery. The narrative follows Alice Hamilton as she descends into a bizarre and dangerous alternate reality in search of her missing lover. The series explores themes of identity, perception, and the nature of reality, utilizing a dreamlike atmosphere and unconventional storytelling techniques. It offers a disorienting and immersive experience, challenging viewers to question what is real and what is illusion. The series is characterized by its unique aesthetic and its exploration of psychological and philosophical concepts.",
+        "spoiler_rich_plot_summary": "The series begins with Alice Hamilton witnessing the abduction of her boyfriend, Jack Chase. A mysterious figure, known only as the White Rabbit, appears and guides her through a portal into a strange, distorted version of London. This new world is populated by eccentric characters and governed by a shadowy organization known as the Faceless. Alice discovers that Jack is entangled with the Faceless and that his disappearance is linked to a larger conspiracy. As Alice navigates this surreal landscape, she uncovers secrets about her own past and the true nature of the world she thought she knew. She encounters various allies and enemies, each with their own agendas, and must confront dangerous trials to find Jack and expose the truth behind the Faceless. The search for Jack reveals a complex web of deception and manipulation, ultimately leading Alice to question her own identity and the reality she inhabits. The series culminates in a confrontation with the forces controlling this alternate world, where Alice must make a difficult choice that will determine the fate of both realities.",
+        "categorized_keywords": {
+          "themes": [
+            "identity-quest",
+            "alternate-reality",
+            "deception",
+            "loss",
+            "mystery",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "portal-fantasy",
+            "conspiracy-thriller",
+            "missing-person",
+            "dreamlike-narrative"
+          ],
+          "mood_and_tone": [
+            "surreal",
+            "dark",
+            "mysterious",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "fantasy",
+            "mystery",
+            "portal-fantasy"
+          ],
+          "setting": [
+            "alternate-london",
+            "dreamscape",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "reluctant-heroine",
+            "enigmatic-mentor",
+            "shadowy-antagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "white-rabbit",
+            "looking-glass",
+            "faceless-organization",
+            "alternate-london-streets"
+          ],
+          "maturity_and_content": [
+            "psychological-themes",
+            "dark-imagery"
+          ]
+        },
+        "keyword_sentence": "Alice is a dark and mysterious science fiction series that follows a woman’s surreal journey through an alternate reality, exploring themes of identity and deception within a dreamlike narrative."
+      },
+      "duration_seconds": 64.51391553878784
+    }
+  }
+}

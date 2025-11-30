@@ -1,0 +1,68 @@
+{
+  "input_data": {
+    "title": "Bobby's World",
+    "overview": "Bobby Generic lives in a typical suburban neighborhood and uses his overactive imagination to discover a world of daring adventure, incredible wonder and lots of laughs — all in pint-sized perspective.",
+    "genres": [
+      "Animation"
+    ],
+    "release_year": 1990,
+    "vote_count": 106
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Bobby's World is a lighthearted animated series geared towards a young audience, centered on the imaginative perspective of a young boy. The show blends everyday suburban life with fantastical scenarios born from Bobby's vivid imagination, creating a whimsical and humorous viewing experience. It emphasizes family relationships and the power of creativity, offering a gentle and optimistic portrayal of childhood. The series aims to entertain and inspire young viewers, encouraging them to embrace their own imaginations and find joy in the world around them. It's a comforting and familiar show, perfect for preschool-aged children.",
+        "spoiler_rich_plot_summary": "The series follows Bobby Generic as he navigates the world from his unique perspective, often transforming ordinary events into grand adventures. Each episode typically revolves around a common childhood experience, such as visiting the grocery store or attending a birthday party, but Bobby's imagination elevates these moments into extraordinary escapades. He interacts with his family, including his parents and older sister Gwen, and his friends, often encountering humorous situations and learning valuable life lessons along the way. While the show maintains a consistently lighthearted tone, it occasionally explores themes of sibling rivalry, dealing with disappointment, and the importance of honesty. The series doesn't feature overarching plotlines or dramatic conflicts, instead focusing on episodic adventures that celebrate the joys of childhood and the power of imagination. The show concludes with Bobby continuing to explore his world, always finding new and exciting ways to see the ordinary.",
+        "categorized_keywords": {
+          "themes": [
+            "childhood-innocence",
+            "family-relationships",
+            "imagination",
+            "optimism",
+            "friendship"
+          ],
+          "plot_and_concepts": [
+            "episodic-storytelling",
+            "coming-of-age",
+            "everyday-life"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "lighthearted",
+            "playful",
+            "gentle"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "childrens-tv",
+            "slice-of-life"
+          ],
+          "setting": [
+            "suburban-neighborhood",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "innocent-child",
+            "supportive-parent",
+            "older-sibling"
+          ],
+          "narrative_style": [
+            "episodic-storytelling"
+          ],
+          "target_audience": [
+            "young-children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "generic-house",
+            "toy-chest",
+            "family-car"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Bobby's World is a lighthearted and wholesome animated series that celebrates the joys of childhood through the imaginative perspective of a young boy living in a typical suburban setting."
+      },
+      "duration_seconds": 58.562931537628174
+    }
+  }
+}

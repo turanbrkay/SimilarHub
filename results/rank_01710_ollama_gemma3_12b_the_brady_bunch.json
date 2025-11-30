@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "The Brady Bunch",
+    "overview": "When widower Mike Brady marries a lovely lady widow Carol Ann, their two families become one. These are the misadventures of this new couple, their six children, a dog named Tiger, and quirky housekeeper Alice.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1969,
+    "vote_count": 121
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Brady Bunch is a classic American sitcom that explores the challenges and joys of a blended family. The series follows Mike Brady and Carol Ann, who, along with their respective children, navigate the everyday situations of family life with humor and heartwarming moments. It's a lighthearted and optimistic portrayal of domestic harmony, emphasizing the importance of communication, compromise, and unconditional love. The show's enduring appeal lies in its relatable characters and its gentle, feel-good approach to family dynamics, offering a nostalgic look at a simpler time.",
+        "spoiler_rich_plot_summary": "The series begins with the union of widower Mike Brady and widow Carol Ann, each bringing three children into a new household. Initially, the children struggle to adjust to the blended family dynamic, experiencing typical sibling rivalries and anxieties about belonging. Over the course of the series, they gradually learn to accept and love one another, forming strong bonds and supporting each other through various challenges. Episodes often revolve around common family issues like school problems, romantic interests, and disagreements, all resolved with a focus on understanding and forgiveness. While individual episodes present self-contained narratives, the overarching theme remains the strengthening of the Brady family unit and the celebration of their unique, blended identity. The series concludes with the Brady family firmly established as a loving and supportive unit, demonstrating the power of family and the rewards of embracing change.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "blended-family",
+            "love",
+            "acceptance",
+            "communication",
+            "growing-up",
+            "optimism"
+          ],
+          "plot_and_concepts": [
+            "sitcom",
+            "family-drama",
+            "coming-of-age",
+            "domestic-comedy"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "optimistic",
+            "feel-good"
+          ],
+          "genre_and_tropes": [
+            "family-sitcom",
+            "1960s-nostalgia",
+            "domestic-humor"
+          ],
+          "setting": [
+            "1960s-america",
+            "suburban-home",
+            "american-suburbs"
+          ],
+          "character_archetypes": [
+            "widower",
+            "widow",
+            "children",
+            "housekeeper"
+          ],
+          "narrative_style": [
+            "episodic-format",
+            "sitcom-structure"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "tiger-dog",
+            "alice-housekeeper",
+            "family-station-wagon",
+            "1960s-fashion"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Brady Bunch is a lighthearted and wholesome family sitcom set in 1960s America, exploring the joys and challenges of a blended family as they navigate everyday life with love, communication, and a touch of nostalgic charm."
+      },
+      "duration_seconds": 62.585078716278076
+    }
+  }
+}

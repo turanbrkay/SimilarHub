@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "LazyTown",
+    "overview": "A pink-haired girl named Stephanie moves to LazyTown with her uncle (the mayor of LazyTown), where she tries to teach its extremely lazy residents that physical activity is beneficial.",
+    "genres": [
+      "Comedy",
+      "Kids"
+    ],
+    "release_year": 2004,
+    "vote_count": 75
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "LazyTown is a children's television series that blends live-action and CGI animation to promote physical activity and healthy habits. The show centers on Stephanie, a young girl who moves to a town populated by lazy residents and attempts to inspire them to embrace exercise and a more active lifestyle. With a whimsical tone and simple narratives, LazyTown aims to entertain while subtly encouraging positive behavioral changes in its young audience. The series utilizes music and dance to reinforce its message, creating a lighthearted and engaging experience for children.",
+        "spoiler_rich_plot_summary": "The series begins with Stephanie moving to LazyTown, a place where the residents prioritize relaxation and leisure above all else. Her uncle, the mayor, seems to be complicit in the town's laziness, often encouraging inactivity. Stephanie quickly realizes that the town's inhabitants, including the mischievous Pixel, are resistant to change. Throughout the series, Stephanie organizes various activities and games to motivate the residents, often facing opposition from those who prefer to remain idle. The conflict escalates as Stephanie attempts to introduce more structured exercise routines, leading to humorous clashes with the town's established habits. While the series doesn't feature dramatic plot twists, it consistently reinforces the importance of overcoming inertia and embracing a more active lifestyle, culminating in the residents gradually adopting healthier habits and celebrating the benefits of physical activity.",
+        "categorized_keywords": {
+          "themes": [
+            "health-and-wellness",
+            "physical-activity",
+            "overcoming-laziness",
+            "positive-influence",
+            "childhood-development"
+          ],
+          "plot_and_concepts": [
+            "live-action-animation",
+            "musical-comedy",
+            "childrens-television",
+            "moral-lessons"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "lighthearted",
+            "optimistic",
+            "playful"
+          ],
+          "genre_and_tropes": [
+            "childrens-comedy",
+            "educational-television",
+            "found-family"
+          ],
+          "setting": [
+            "small-town",
+            "fictional-location",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "energetic-protagonist",
+            "mischievous-sidekick",
+            "reluctant-mentor"
+          ],
+          "narrative_style": [
+            "episodic-format",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "young-children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "pink-hair",
+            "dance-routine",
+            "mayor-office",
+            "pixel-robot"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "LazyTown is a lighthearted and wholesome children's television series that promotes physical activity and positive influence through musical comedy and a playful narrative set in a small town."
+      },
+      "duration_seconds": 58.927531003952026
+    }
+  }
+}

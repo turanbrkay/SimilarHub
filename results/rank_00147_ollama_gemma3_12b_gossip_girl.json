@@ -1,0 +1,88 @@
+{
+  "input_data": {
+    "title": "Gossip Girl",
+    "overview": "An exclusive group of privileged teens from a posh prep school on Manhattan's Upper East Side whose lives revolve around the blog of the all-knowing albeit ultra-secretive Gossip Girl.",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2007,
+    "vote_count": 1852
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Gossip Girl is a teen drama series that explores the lives of privileged adolescents on Manhattan's Upper East Side. The show revolves around the anonymous blogger, Gossip Girl, who exposes their secrets and manipulations, creating a constant atmosphere of intrigue and social maneuvering. It blends elements of mystery, romance, and social commentary, offering a stylized and often satirical look at wealth, status, and the complexities of adolescence. The series focuses on the characters' relationships, ambitions, and the consequences of their actions within a highly competitive social environment, often blurring the lines between innocence and corruption.",
+        "spoiler_rich_plot_summary": "The series begins with Serena van der Woodsen's sudden return to Constance Billard, disrupting the established social order and catching the attention of Nate Archibald, Blair Waldorf, and Chuck Bass. As Serena reintegrates into the group, secrets from her past begin to surface, threatening to unravel the carefully constructed facades of everyone involved. Blair, the queen bee, fiercely protects her position while navigating complex romantic relationships and power struggles. Chuck, a wealthy and enigmatic figure, engages in manipulative schemes and grapples with his own troubled past. Throughout the series, the characters experience betrayals, reconciliations, and personal growth as they confront their flaws and strive for happiness. The identity of Gossip Girl remains a central mystery, fueling the drama and creating suspense. As the series progresses, the characters face challenges related to family secrets, financial struggles, and romantic entanglements, ultimately leading to significant shifts in their social standing and personal lives. The final season sees the characters confronting the consequences of their past actions and preparing to move on to new chapters in their lives, with Gossip Girl's identity finally revealed.",
+        "categorized_keywords": {
+          "themes": [
+            "wealth-and-privilege",
+            "social-status",
+            "secrets-and-lies",
+            "betrayal",
+            "identity-quest",
+            "revenge",
+            "growing-pains"
+          ],
+          "plot_and_concepts": [
+            "gossip-blog",
+            "social-media-influence",
+            "high-school-drama",
+            "love-triangle",
+            "mystery-reveal"
+          ],
+          "mood_and_tone": [
+            "glamorous",
+            "satirical",
+            "dramatic",
+            "romantic",
+            "fast-paced"
+          ],
+          "genre_and_tropes": [
+            "teen-drama",
+            "mystery",
+            "romantic-comedy",
+            "social-commentary",
+            "rich-kid-problems"
+          ],
+          "setting": [
+            "new-york-city",
+            "upper-east-side",
+            "private-school",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "queen-bee",
+            "wealthy-heir",
+            "reformed-bad-girl",
+            "enigmatic-playboy",
+            "outsider"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "flashbacks"
+          ],
+          "target_audience": [
+            "teen-viewers",
+            "young-adults"
+          ],
+          "detail_plot": [
+            "gossip-blog-posts",
+            "designer-clothing",
+            "penthouse-apartment",
+            "private-jet",
+            "constance-billard"
+          ],
+          "maturity_and_content": [
+            "sexual-content",
+            "substance-abuse",
+            "bullying"
+          ]
+        },
+        "keyword_sentence": "Gossip Girl explores the dramatic lives of privileged teenagers in New York City, where secrets, betrayals, and social media influence shape their relationships and ambitions within a glamorous and fast-paced world."
+      },
+      "duration_seconds": 75.5942051410675
+    }
+  }
+}

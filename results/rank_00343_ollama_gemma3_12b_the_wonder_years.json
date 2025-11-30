@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "The Wonder Years",
+    "overview": "The story of Kevin Arnold facing the trials and tribulations of youth while growing up during the 1960s and 70s. Told through narration from an adult Kevin, Kevin faces the difficulties of maintaining relationships and friendships on his enthralling journey into adulthood.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "release_year": 1988,
+    "vote_count": 878
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Wonder Years is a nostalgic coming-of-age drama series that explores the joys and anxieties of adolescence against the backdrop of the 1960s and 1970s. Through the reflective narration of an adult Kevin Arnold, the show offers a poignant and often humorous look at family dynamics, first loves, and the challenges of growing up during a period of significant social change. It blends comedic moments with heartfelt drama, creating a relatable and emotionally resonant experience for viewers of all ages. The series is characterized by its warm, sentimental tone and its focus on the universal themes of childhood, identity, and belonging.",
+        "spoiler_rich_plot_summary": "The series begins with young Kevin Arnold navigating the complexities of childhood in suburban America. He experiences the typical joys of youth – playing with friends, riding bikes, and exploring his neighborhood – but also confronts the inevitable challenges of growing up, including sibling rivalry, schoolyard bullies, and the anxieties of first crushes. As Kevin enters his teenage years, he grapples with more complex issues, such as the Vietnam War, social unrest, and the changing dynamics of his family. He experiences the pain of first heartbreak and the confusion of navigating romantic relationships. Throughout the series, Kevin's close-knit family provides a constant source of support and guidance, though they also face their own struggles and uncertainties. The series culminates in Kevin's departure for college, marking a significant transition into adulthood and a bittersweet farewell to his childhood home and the familiar comforts of his youth. While the future remains uncertain, Kevin carries with him the lessons and memories that have shaped him into the man he is becoming.",
+        "categorized_keywords": {
+          "themes": [
+            "coming-of-age",
+            "family-dynamics",
+            "nostalgia",
+            "first-love",
+            "childhood-memories",
+            "social-change",
+            "identity-quest"
+          ],
+          "plot_and_concepts": [
+            "suburban-life",
+            "coming-of-age-story",
+            "reflective-narration",
+            "historical-backdrop"
+          ],
+          "mood_and_tone": [
+            "sentimental",
+            "warm",
+            "humorous",
+            "reflective",
+            "nostalgic"
+          ],
+          "genre_and_tropes": [
+            "family-drama",
+            "coming-of-age",
+            "sitcom",
+            "slice-of-life"
+          ],
+          "setting": [
+            "1960s-america",
+            "1970s-america",
+            "suburban-america"
+          ],
+          "character_archetypes": [
+            "innocent-protagonist",
+            "wise-parent",
+            "sibling-rivalry",
+            "teenage-romance"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format",
+            "voice-over-narration"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "station-wagon",
+            "baseball-game",
+            "record-player",
+            "family-dinner",
+            "bicycle"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Wonder Years offers a nostalgic and heartwarming look at childhood and adolescence in 1960s and 1970s America, exploring themes of family, first love, and the challenges of growing up through a sentimental and humorous episodic format."
+      },
+      "duration_seconds": 74.51840376853943
+    }
+  }
+}

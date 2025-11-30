@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Maigret",
+    "overview": "Adaptation of the novels written by Georges Simenon featuring his fictional French police commissioner Jules Maigret.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2016,
+    "vote_count": 49
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Maigret is a crime drama series based on the novels of Georges Simenon, offering a slow-burn, atmospheric exploration of criminal investigations in post-war France. The series emphasizes character development and psychological realism, eschewing fast-paced action in favor of meticulous observation and nuanced portrayals of both the detective and the suspects. It's a character-driven procedural that prioritizes mood and atmosphere, offering a contemplative and often melancholic viewing experience. The series excels at recreating the period setting and exploring the complexities of human nature.",
+        "spoiler_rich_plot_summary": "The series follows Jules Maigret, a Parisian police commissioner, as he investigates a variety of crimes, ranging from petty theft to murder. Each season typically focuses on a selection of Simenon's novels, adapting their plots and characters for the screen. Maigret's investigations are characterized by his methodical approach, his keen observation skills, and his ability to understand the motivations of those involved. He often finds himself navigating complex social dynamics and moral ambiguities, as he attempts to uncover the truth behind the crimes. While the series maintains a generally episodic structure, recurring themes and character arcs emerge, revealing Maigret's personal struggles and his evolving understanding of human behavior. The series explores the darker aspects of Parisian society, exposing corruption and inequality while maintaining a focus on the psychological impact of crime on both the victims and the perpetrators. The investigations often lead Maigret to confront uncomfortable truths about himself and the world around him, ultimately shaping his perspective on justice and morality.",
+        "categorized_keywords": {
+          "themes": [
+            "crime-and-punishment",
+            "justice-system",
+            "moral-ambiguity",
+            "social-inequality",
+            "human-psychology",
+            "post-war-era"
+          ],
+          "plot_and_concepts": [
+            "police-investigation",
+            "detective-fiction",
+            "procedural-drama",
+            "character-driven-narrative"
+          ],
+          "mood_and_tone": [
+            "atmospheric",
+            "melancholic",
+            "contemplative",
+            "noir",
+            "slow-burn"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "detective-story",
+            "period-drama"
+          ],
+          "setting": [
+            "paris-france",
+            "post-war-france",
+            "1950s"
+          ],
+          "character_archetypes": [
+            "detective",
+            "police-commissioner",
+            "moral-observer"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "police-station",
+            "interrogation-room",
+            "paris-streets",
+            "cigars",
+            "french-cuisine"
+          ],
+          "maturity_and_content": [
+            "crime-themes",
+            "violence"
+          ]
+        },
+        "keyword_sentence": "Set in post-war Paris, Maigret is a slow-burn crime drama that explores themes of justice and moral ambiguity through the methodical investigations of a seasoned police commissioner."
+      },
+      "duration_seconds": 75.0854926109314
+    }
+  }
+}

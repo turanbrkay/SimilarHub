@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Father Ted",
+    "overview": "A crazy comedy about three rather strange parish priests exiled to Craggy Island, a remote island off the Irish west coast.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1995,
+    "vote_count": 261
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Father Ted is a surreal and irreverent sitcom that follows the misadventures of three Roman Catholic priests confined to a remote Irish island. The series employs absurdist humor and slapstick comedy to explore themes of faith, morality, and human fallibility, often through exaggerated and ridiculous scenarios. Its comedic style is characterized by its fast-paced dialogue, recurring gags, and a general disregard for conventional sitcom tropes. The show's enduring appeal lies in its ability to find humor in the mundane and the sacred, while simultaneously poking fun at societal norms and religious institutions.",
+        "spoiler_rich_plot_summary": "The series begins with Father Ted, a priest banished to the isolated Craggy Island due to his excessive spending and pursuit of Mrs. Doyle. He is joined by the equally flawed Father Jack, a perpetually drunk and eccentric priest, and the well-meaning but naive Father Dougal. The priests' attempts to navigate their duties and personal desires are constantly thwarted by their own incompetence and the eccentric inhabitants of the island. Throughout the series, the priests engage in a series of increasingly bizarre and chaotic schemes, often involving misunderstandings, accidental mayhem, and attempts to impress each other. Recurring characters like Mrs. Doyle, a devout and domineering housekeeper, and Mr. Brennan, a local shopkeeper, add to the comedic chaos. The series culminates in a bittersweet farewell, acknowledging the characters' flaws while celebrating their unique bond and the absurdity of their existence. While the priests never truly achieve redemption, their shared experiences and unwavering loyalty to each other provide a sense of camaraderie amidst the constant absurdity.",
+        "categorized_keywords": {
+          "themes": [
+            "faith",
+            "morality",
+            "human-fallibility",
+            "absurdity",
+            "friendship",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "situational-comedy",
+            "banishment",
+            "misunderstandings",
+            "slapstick-comedy",
+            "recurring-gags"
+          ],
+          "mood_and_tone": [
+            "surreal",
+            "irreverent",
+            "lighthearted",
+            "comedic",
+            "absurdist"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "dark-comedy",
+            "british-humor"
+          ],
+          "setting": [
+            "irish-west-coast",
+            "remote-island",
+            "small-town"
+          ],
+          "character_archetypes": [
+            "eccentric-priest",
+            "naive-character",
+            "domineering-housekeeper"
+          ],
+          "narrative_style": [
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "craggy-island",
+            "mrs-doyles-house",
+            "pub",
+            "priest-quarters"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Father Ted is a lighthearted and surreal Irish sitcom that explores themes of faith and morality through the misadventures of three eccentric priests living on a remote island."
+      },
+      "duration_seconds": 59.9438636302948
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Emergency!",
+    "overview": "The crew of Los Angeles County Fire Department Station 51, particularly the paramedic team, and Rampart Hospital respond to emergencies in their operating area.",
+    "genres": [
+      "Action & Adventure",
+      "Drama"
+    ],
+    "release_year": 1972,
+    "vote_count": 39
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Emergency! is a pioneering television drama that focuses on the professional and personal lives of paramedics and firefighters in Los Angeles. The series blends action and suspense with character-driven narratives, exploring themes of heroism, teamwork, and the constant pressure of life-or-death situations. It established a new level of realism in television, showcasing the dedication and skill required to respond to emergencies. The show's focus on procedural accuracy and its ensemble cast created a compelling and enduring portrayal of public service.",
+        "spoiler_rich_plot_summary": "The series begins with the introduction of Station 51 and its crew, highlighting their daily routines and the types of emergencies they face. Early episodes establish the close-knit relationships between the firefighters and paramedics, as well as their interactions with Rampart General Hospital. As the series progresses, the team confronts increasingly complex and dangerous situations, including major disasters and challenging medical cases. Recurring storylines involve the personal lives of the main characters, exploring their relationships, career aspirations, and the emotional toll of their work. Over time, the series evolves to incorporate more advanced medical techniques and equipment, reflecting the advancements in emergency medicine. While individual episodes often feature self-contained narratives, overarching storylines develop, showcasing the team's growth and the evolution of emergency response protocols. The series concludes with a poignant farewell, acknowledging the dedication and sacrifices of the men and women who serve their community.",
+        "categorized_keywords": {
+          "themes": [
+            "heroism",
+            "teamwork",
+            "public-service",
+            "sacrifice",
+            "community",
+            "professionalism"
+          ],
+          "plot_and_concepts": [
+            "medical-drama",
+            "rescue-operation",
+            "disaster-response",
+            "procedural-drama"
+          ],
+          "mood_and_tone": [
+            "tense",
+            "realistic",
+            "optimistic",
+            "serious"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "medical-procedural",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "los-angeles",
+            "1970s",
+            "fire-station",
+            "hospital"
+          ],
+          "character_archetypes": [
+            "hero",
+            "dedicated-professional",
+            "team-leader"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "ambulance",
+            "fire-truck",
+            "rescue-equipment",
+            "medical-supplies",
+            "fire-hose"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Emergency! portrays the dedicated professionals of Los Angeles’ fire and paramedic teams as they confront life-threatening situations with courage and teamwork in a realistic and optimistic portrayal of public service."
+      },
+      "duration_seconds": 52.963484048843384
+    }
+  }
+}

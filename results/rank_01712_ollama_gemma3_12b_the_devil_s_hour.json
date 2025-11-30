@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "The Devil's Hour",
+    "overview": "Lucy wakes every night at exactly 3:33am. Nothing in her life has made sense for a long time. But the answers are out there, somewhere, at the end of a trail of brutal murders.",
+    "genres": [
+      "Mystery",
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2022,
+    "vote_count": 120
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Devil's Hour is a British crime drama that blends elements of mystery, psychological thriller, and supernatural horror. The series follows Lucy, a woman plagued by recurring nightmares and a strange connection to a series of brutal murders. The narrative explores themes of time, memory, and the fragility of reality, creating a suspenseful and unsettling atmosphere. The show's strength lies in its slow-burn pacing and its exploration of the psychological toll on its characters as they unravel a complex and disturbing truth.",
+        "spoiler_rich_plot_summary": "The series begins with Lucy experiencing nightly awakenings at 3:33 AM, a time that seems to warp her perception of reality. As she investigates the connection between her experiences and a string of murders, she discovers a link to Gavin, a man who also experiences the same temporal anomaly. The investigation reveals a conspiracy involving a cult-like group led by a charismatic figure, whose actions are tied to a catastrophic event that occurred decades prior. Lucy and Gavin's paths become increasingly intertwined as they attempt to understand the nature of their shared experience and the sinister forces at play. The truth behind the 3:33 AM phenomenon is revealed to be a manipulation of time, orchestrated by a man seeking to alter the past and prevent a personal tragedy. The series culminates in a confrontation where Lucy and Gavin must confront the architect of this temporal distortion, ultimately leading to a resolution that alters the timeline and impacts the lives of those involved.",
+        "categorized_keywords": {
+          "themes": [
+            "time-distortion",
+            "memory-loss",
+            "personal-tragedy",
+            "fate-vs-free-will",
+            "existential-dread",
+            "moral-ambiguity"
+          ],
+          "plot_and_concepts": [
+            "serial-killer",
+            "police-investigation",
+            "cult-conspiracy",
+            "time-loop",
+            "altered-timeline"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "suspenseful",
+            "unsettling",
+            "psychological-thriller",
+            "grim"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "mystery",
+            "supernatural-horror",
+            "slow-burn-mystery"
+          ],
+          "setting": [
+            "modern-day",
+            "rural-england",
+            "suburban-setting"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "enigmatic-villain",
+            "damaged-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "3:33am-awakening",
+            "police-station",
+            "rural-cottage",
+            "crime-scene"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "disturbing-imagery"
+          ]
+        },
+        "keyword_sentence": "The Devil’s Hour is a suspenseful British crime drama that explores themes of time distortion and personal tragedy through a dark and unsettling mystery set in rural England."
+      },
+      "duration_seconds": 67.00684809684753
+    }
+  }
+}

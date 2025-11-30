@@ -1,0 +1,85 @@
+{
+  "input_data": {
+    "title": "Ozark",
+    "overview": "A financial adviser drags his family from Chicago to the Missouri Ozarks, where he must launder $500 million in five years to appease a drug boss.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2017,
+    "vote_count": 1968
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Ozark is a dark crime drama that explores the moral compromises and escalating dangers faced by a family forced to navigate the criminal underworld. The series blends elements of financial thriller and family drama, creating a suspenseful and morally ambiguous narrative. It examines themes of desperation, loyalty, and the corrupting influence of money, portraying a slow descent into a world of violence and deceit. The show's tone is consistently bleak and unsettling, emphasizing the psychological toll on its characters as they struggle to maintain a semblance of normalcy while entangled in a dangerous scheme.",
+        "spoiler_rich_plot_summary": "The series begins with Marty Byrde, a financial advisor, relocating his family – his wife Wendy and their teenage children Charlotte and Jonah – from Chicago to the Ozarks after a money laundering scheme goes wrong. Marty is tasked with laundering $500 million for a Mexican drug cartel within five years to save his own life and that of his partner, Bruce Bilson. Initially, Marty and Wendy attempt to operate with a degree of professionalism, but they quickly realize the Ozarks are a lawless region controlled by various local power players, including the Langmores, a volatile and opportunistic family, and Darlene Snell, a ruthless and unpredictable heroin producer. As Marty and Wendy become increasingly entrenched in the criminal enterprise, they make difficult choices that strain their marriage and alienate their children. Wendy, in particular, demonstrates a growing ambition and willingness to embrace the darker aspects of their situation, eventually surpassing Marty in her ruthlessness. Over the course of the series, the Byrde family faces constant threats from the cartel, the Langmores, the FBI, and local law enforcement. They forge uneasy alliances, betray those who trust them, and ultimately transform into hardened criminals themselves, blurring the lines between victim and perpetrator. The series culminates in a complex and morally ambiguous resolution where the Byrde family secures their position of power, but at a significant cost to their humanity and the lives of those around them.",
+        "categorized_keywords": {
+          "themes": [
+            "family-loyalty",
+            "moral-compromise",
+            "greed",
+            "redemption",
+            "power",
+            "corruption",
+            "desperation"
+          ],
+          "plot_and_concepts": [
+            "money-laundering",
+            "crime-thriller",
+            "drug-cartel",
+            "family-drama",
+            "crime-syndicate",
+            "serial-crime"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "suspenseful",
+            "bleak",
+            "tense",
+            "unsettling"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "neo-noir",
+            "slow-burn",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "missouri-ozarks",
+            "rural-america",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "ruthless-protagonist",
+            "morally-gray-protagonist",
+            "femme-fatale"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "money-laundering-operation",
+            "farmhouse",
+            "lake",
+            "cash-transport",
+            "heroin-lab"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "drug-abuse",
+            "sexual-content",
+            "crime"
+          ]
+        },
+        "keyword_sentence": "Ozark is a dark and suspenseful crime drama set in rural Missouri, exploring themes of family loyalty and moral compromise as a desperate family becomes entangled in a dangerous money-laundering operation with a ruthless drug cartel."
+      },
+      "duration_seconds": 78.10199165344238
+    }
+  }
+}

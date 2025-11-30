@@ -1,0 +1,113 @@
+{
+  "input_data": {
+    "title": "Dexter",
+    "overview": "Dexter Morgan, a blood spatter pattern analyst for the Miami Metro Police also leads a secret life as a serial killer, hunting down criminals who have slipped through the cracks of justice.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2006
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Dexter Morgan is a forensic blood‑spatter analyst for the Miami Metro Police Department who secretly lives a double life as a vigilante serial killer.  The series follows his struggle to keep his dark urges in check while adhering to a personal “Code of Justice” that targets only other killers, and explores the toll this secret identity takes on his relationships, especially with his sister Debra and his wife Rita.  Dark, noir‑inspired tones and a psychological focus on Dexter’s internal monologue give the show a tense, cerebral atmosphere that blends crime‑drama with moments of dark humor.",
+        "spoiler_rich_plot_summary": "Season 1 introduces Dexter’s dual life, his first murder of a serial killer, and the arrival of a new forensic team member, Hannah.  By Season 2, Dexter’s secret is nearly exposed when a serial killer, the “Ice Truck Killer,” begins targeting people in the same way, forcing Dexter to confront his own code.  Season 3 sees Dexter’s brother-in-law, Matthew, become a serial killer, and Dexter’s sister Debra is promoted to detective, setting up a future conflict.  Season 4 culminates in the “Trinity Killer” storyline, where Dexter’s wife Rita is murdered, and Dexter is forced to kill a serial killer who has been manipulating him.  Season 5 deals with the fallout of Rita’s death, the emergence of a new serial killer, and Dexter’s attempt to protect his sister from a dangerous adversary.  Season 6 introduces the “Ghost Killer” and a new family dynamic as Dexter’s son, Harrison, is born, while Debra’s investigation into Dexter’s past intensifies.  Season 7 brings the “Killer Within” arc, where Dexter’s past is exposed to the public, and he is forced to go on the run.  Season 8 concludes with Dexter’s final confrontation with his sister Debra, who ultimately kills him after discovering his secret, and the series ends with Debra’s funeral and a reflection on the consequences of Dexter’s vigilante justice.",
+        "categorized_keywords": [
+          {
+            "themes": [
+              "morality-ambiguity",
+              "dual-identity",
+              "justice",
+              "psychopathy",
+              "family-dynamics",
+              "redemption",
+              "law-and-order",
+              "vigilante-justice"
+            ]
+          },
+          {
+            "plot_and_concepts": [
+              "serial-killer",
+              "blood-spatter-analysis",
+              "dark-psychology",
+              "moral-code",
+              "undercover-police",
+              "victim-selection",
+              "family-guardian",
+              "murder-weapon"
+            ]
+          },
+          {
+            "mood_and_tone": [
+              "dark",
+              "noir",
+              "psychological",
+              "tense",
+              "intense",
+              "cerebral"
+            ]
+          },
+          {
+            "genre_and_tropes": [
+              "crime-drama",
+              "thriller",
+              "serial-killer",
+              "anti-hero",
+              "dark-comedy",
+              "mystery",
+              "procedural"
+            ]
+          },
+          {
+            "setting": [
+              "miami",
+              "modern",
+              "urban",
+              "crime-ridden-city"
+            ]
+          },
+          {
+            "character_archetypes": [
+              "anti-hero",
+              "moral-guardian",
+              "psychopath",
+              "law-enforcer",
+              "family-man",
+              "mentor",
+              "sidekick"
+            ]
+          },
+          {
+            "narrative_style": [
+              "serialized-story",
+              "episodic",
+              "character-driven",
+              "dark-psychological",
+              "linear"
+            ]
+          },
+          {
+            "target_audience": [
+              "mature-audiences",
+              "crime-fans",
+              "psychology-interested"
+            ]
+          }
+        ],
+        "detail_plot": [
+          "blood-spatter-patterns",
+          "murder-knife",
+          "ice-cream",
+          "candy",
+          "diner",
+          "family-photos",
+          "murder-boat",
+          "code-of-justice"
+        ]
+      },
+      "duration_seconds": 399.80233216285706
+    }
+  }
+}

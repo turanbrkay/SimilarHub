@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Inside Bill's Brain: Decoding Bill Gates",
+    "overview": "This three-part documentary tells Bill Gates’ life story, in-depth and unfiltered, as he pursues unique solutions to some of the world’s most complex problems.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2019,
+    "vote_count": 93
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Inside Bill's Brain is a three-part documentary series offering an intimate look into the mind and motivations of Bill Gates. The series explores his intellectual curiosity, his philanthropic endeavors, and his approach to tackling global challenges like disease eradication and climate change. Through a combination of archival footage, interviews, and visualizations, the documentary aims to decode Gates' unique thought processes and reveal the driving forces behind his remarkable career and impact on the world. It's a profile of a complex individual, blending personal history with a focus on his problem-solving strategies and the scale of his ambitions.",
+        "spoiler_rich_plot_summary": "The documentary traces Bill Gates' life from his early fascination with computers and his founding of Microsoft, highlighting his intense focus and competitive drive. It delves into his departure from Microsoft to dedicate himself to the Bill & Melinda Gates Foundation, showcasing his shift in focus towards global health and development. The series follows his efforts to combat diseases like polio and malaria, illustrating the complexities and setbacks involved in large-scale humanitarian work. It examines his evolving perspectives on climate change and his commitment to developing innovative solutions, including investments in clean energy technologies. Throughout the documentary, Gates reflects on his past mistakes and shares his vision for a better future, emphasizing the importance of data, collaboration, and a relentless pursuit of knowledge.",
+        "categorized_keywords": {
+          "themes": [
+            "innovation",
+            "philanthropy",
+            "problem-solving",
+            "global-health",
+            "climate-change",
+            "data-driven",
+            "legacy",
+            "intellectual-curiosity"
+          ],
+          "plot_and_concepts": [
+            "documentary-profile",
+            "biography",
+            "data-visualization",
+            "scientific-research",
+            "disease-eradication"
+          ],
+          "mood_and_tone": [
+            "thoughtful",
+            "optimistic",
+            "analytical",
+            "inspiring"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "biographical-drama"
+          ],
+          "setting": [
+            "modern-day",
+            "global"
+          ],
+          "character_archetypes": [
+            "innovator",
+            "philanthropist",
+            "visionary"
+          ],
+          "narrative_style": [
+            "chronological-narrative",
+            "analytical-approach"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "business-audience"
+          ],
+          "detail_plot": [
+            "microsoft-hq",
+            "gates-foundation-logo",
+            "polio-vaccination-campaign",
+            "climate-change-models",
+            "data-center"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Inside Bill's Brain is an inspiring documentary profile that explores the mind of a visionary innovator, showcasing his data-driven approach to solving global challenges and leaving a lasting legacy through philanthropy and scientific research."
+      },
+      "duration_seconds": 60.0976836681366
+    }
+  }
+}

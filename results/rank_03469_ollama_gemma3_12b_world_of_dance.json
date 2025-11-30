@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "World of Dance",
+    "overview": "Dancers battle in heats of artistry, precision and athleticism in this reality-competition show.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2017,
+    "vote_count": 36
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "World of Dance is a reality competition series showcasing diverse dance styles and talent. The show features dancers competing in various categories, judged on technical skill, creativity, and performance quality. It emphasizes athleticism and artistry, appealing to a broad audience interested in dance and performance. The series fosters a spirit of competition and celebration of dance, highlighting the dedication and passion of the performers. The format combines elements of performance, judging, and audience engagement, creating a dynamic and entertaining viewing experience.",
+        "spoiler_rich_plot_summary": "Each season of World of Dance begins with preliminary rounds where dancers and crews compete in their respective categories – Juniors, Timeless, and Upper. These initial rounds are judged on technical merit and overall performance. The top-scoring acts from these heats advance to the qualification rounds, where the competition intensifies. The highest-scoring acts from the qualification rounds then proceed to the cut rounds, where the field is narrowed further. The remaining dancers then compete in the finals, where they battle for the ultimate title and a substantial cash prize. Throughout the season, the judges provide feedback and mentorship, influencing the dancers' progress and the audience's perception of their abilities. The finale culminates in a high-stakes battle between the remaining contenders, showcasing their most refined routines and pushing the boundaries of dance performance.",
+        "categorized_keywords": {
+          "themes": [
+            "competition",
+            "artistry",
+            "dedication",
+            "performance",
+            "skill",
+            "talent"
+          ],
+          "plot_and_concepts": [
+            "reality-competition",
+            "elimination-rounds",
+            "judging-panel",
+            "dance-battles",
+            "performance-evaluation"
+          ],
+          "mood_and_tone": [
+            "energetic",
+            "exciting",
+            "inspiring",
+            "competitive",
+            "uplifting"
+          ],
+          "genre_and_tropes": [
+            "reality-tv",
+            "dance-competition",
+            "performance-show",
+            "elimination-format"
+          ],
+          "setting": [
+            "stage",
+            "studio",
+            "performance-venue"
+          ],
+          "character_archetypes": [
+            "dedicated-performer",
+            "skilled-judge",
+            "aspiring-artist"
+          ],
+          "narrative_style": [
+            "elimination-based",
+            "competition-driven"
+          ],
+          "target_audience": [
+            "dance-enthusiasts",
+            "family-audience",
+            "general-viewers"
+          ],
+          "detail_plot": [
+            "dance-routines",
+            "stage-lighting",
+            "judges-scorecards",
+            "performance-costumes"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "World of Dance is an energetic reality competition showcasing diverse dance styles and dedicated performers striving for artistry and recognition on a brightly lit stage."
+      },
+      "duration_seconds": 53.08345699310303
+    }
+  }
+}

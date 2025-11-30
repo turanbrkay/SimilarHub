@@ -1,0 +1,85 @@
+{
+  "input_data": {
+    "title": "Futurama",
+    "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1999,
+    "vote_count": 2867
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Futurama is a comedic science fiction series that blends absurdist humor with surprisingly poignant social commentary. The show follows Philip J. Fry, a pizza delivery boy who awakens in the 31st century, where he navigates a bizarre and often satirical version of the future alongside a quirky crew of employees at Planet Express. While consistently funny, Futurama explores themes of loneliness, identity, and the human condition through its unique blend of futuristic technology and relatable character dynamics. The series balances lighthearted escapades with surprisingly deep emotional arcs, creating a distinctive and enduring appeal.",
+        "spoiler_rich_plot_summary": "The series begins with Fry accidentally being cryogenically frozen and waking up a thousand years later. He finds employment at Planet Express, a company delivering packages across the solar system, and quickly befriends his colleagues: Leela, a one-eyed alien captain; Bender, a foul-mouthed bending robot; and Professor Farnsworth, the company's eccentric inventor. Throughout the initial seasons, the crew undertakes various delivery missions, encountering bizarre alien cultures and facing perilous situations. Recurring plotlines involve Fry’s unrequited love for Leela, Bender’s constant pursuit of hedonistic pleasures, and the Professor’s increasingly outlandish inventions. As the series progresses, deeper storylines emerge, exploring Fry’s past life and the circumstances of his cryofreezing. The crew frequently confronts existential threats to the universe, often stemming from the machinations of ambitious corporations or power-hungry aliens. The show’s narrative structure often incorporates time travel, allowing for paradoxes and alternate timelines to be explored, further complicating the characters' relationships and destinies. While the series has faced cancellations and revivals, the overarching narrative consistently revolves around the characters' search for belonging and purpose in a vast and unpredictable future.",
+        "categorized_keywords": {
+          "themes": [
+            "time-travel",
+            "identity-quest",
+            "found-family",
+            "loneliness",
+            "corporate-greed",
+            "existentialism"
+          ],
+          "plot_and_concepts": [
+            "space-delivery",
+            "alternate-timeline",
+            "robot-uprising",
+            "cryogenics",
+            "time-paradox"
+          ],
+          "mood_and_tone": [
+            "satirical",
+            "absurdist",
+            "optimistic",
+            "witty",
+            "darkly-comic"
+          ],
+          "genre_and_tropes": [
+            "sci-fi-comedy",
+            "space-opera",
+            "found-family",
+            "fish-out-of-water"
+          ],
+          "setting": [
+            "31st-century",
+            "new-new-york",
+            "space-colony",
+            "alternate-future"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "eccentric-inventor",
+            "sarcastic-robot",
+            "strong-female-lead"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "planet-express-ship",
+            "cryo-pod",
+            "bender-robot",
+            "professor-farnsworth",
+            "leela-eye"
+          ],
+          "maturity_and_content": [
+            "crude-humor",
+            "sci-fi-violence"
+          ]
+        },
+        "keyword_sentence": "Futurama is a witty and satirical sci-fi comedy series set in the 31st century, exploring themes of identity and found-family through the adventures of a cryogenically frozen delivery boy and his quirky crew."
+      },
+      "duration_seconds": 77.62132334709167
+    }
+  }
+}

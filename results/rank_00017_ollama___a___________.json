@@ -1,0 +1,111 @@
+{
+  "input_data": {
+    "title": "Peaky Blinders",
+    "overview": "A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "release_year": 2013,
+    "vote_count": 8836
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Peaky Blinders follows the Shelby family, a ruthless post‑war gangster crew in Birmingham, as they rise from street crime to political ambition under the cunning leadership of Tommy Shelby. The series blends gritty, period‑drama aesthetics with intense family dynamics, exploring themes of power, loyalty, and moral ambiguity amid the backdrop of industrial England. With sharp dialogue, stylized cinematography, and a relentless narrative pace, it examines the cost of ambition and the scars of war on its characters.",
+        "spoiler_rich_plot_summary": "Season 1 introduces the Shelby brothers and their razor‑blade‑adorned gang as they expand into illegal betting and bootlegging while clashing with the local police. By Season 2, Tommy’s ambitions reach the political arena, forming a partnership with the IRA and a secretive deal with a German industrialist, leading to a violent shoot‑out that kills a rival. Season 3 sees the Peaky Blinders infiltrate the railway and a bank robbery, while Tommy’s marriage to Grace introduces a femme‑fatale dynamic and a growing tension with the police. Season 4 escalates the political stakes as Tommy secures a position in the Birmingham council and faces a betrayal from within the family, resulting in the death of John. Season 5 sees the gang confronting the IRA and a new enemy, the American gangster Arnold, while Arthur Shelby deals with severe PTSD and a failed marriage. Season 6 culminates in a series of high‑stakes heists, a confrontation with the IRA, and a political coup that forces Tommy to confront his enemies and his own identity. The final episode ends with a bomb detonated in a hotel, leaving Tommy Shelby wounded and his fate ambiguous, while the Shelby family’s legacy is left to be rebuilt amid new threats.",
+        "categorized_keywords": {
+          "themes": [
+            "power-struggle",
+            "family-dynamics",
+            "post-war-trauma",
+            "ambition",
+            "political-influence",
+            "violence",
+            "moral-ambiguity",
+            "identity-crisis",
+            "gender-dynamics",
+            "sexuality",
+            "class-struggle"
+          ],
+          "plot_and_concepts": [
+            "gangster-crew",
+            "razor-blades",
+            "bootlegging",
+            "political-ambitions",
+            "bank-robbery",
+            "police-corruption",
+            "IRA-conspiracy",
+            "french-raid",
+            "money-laundering",
+            "family-legacy",
+            "law-enforcement",
+            "drug-dealing",
+            "business-entrepreneurship"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "dark",
+            "intense",
+            "tension-filled",
+            "stylized",
+            "period"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "gangster",
+            "period-drama",
+            "family-arc",
+            "revenge",
+            "political-thriller",
+            "dark-humor",
+            "femme-fatale"
+          ],
+          "setting": [
+            "post-war-birmingham",
+            "1920s",
+            "industrial-city",
+            "british"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "mastermind",
+            "loyal-sibling",
+            "femme-fatale",
+            "mentor",
+            "brotherhood",
+            "political-figure"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "slow-burn",
+            "linear",
+            "flashback"
+          ],
+          "target_audience": [
+            "mature-audiences",
+            "crime-drama-fans",
+            "period-drama-lovers"
+          ],
+          "detail_plot": [
+            "razor-blade",
+            "peaky-helmet",
+            "cigarette",
+            "whisky",
+            "birmingham",
+            "police-briefing",
+            "bank-robbery",
+            "train-escape",
+            "family-portrait",
+            "french-knife",
+            "murder-weapon",
+            "crown-court",
+            "birmingham-railway"
+          ]
+        },
+        "keyword_sentence": "Peaky Blinders is a gritty, period crime drama about a post‑war Birmingham gangster family led by mastermind Tommy Shelby, whose razor‑blade‑adorned crew navigates power struggles, political ambitions, and moral ambiguity while confronting police corruption, IRA conspiracies, and family loyalty."
+      },
+      "duration_seconds": 244.53160572052002
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "The Mysterious Benedict Society",
+    "overview": "Four gifted orphans are recruited by an eccentric benefactor to go on a secret mission. Placed undercover at a boarding school known as The Institute, they must foil a nefarious plot with global ramifications, while creating a new sort of family along the way.",
+    "genres": [
+      "Family",
+      "Action & Adventure"
+    ],
+    "release_year": 2021,
+    "vote_count": 133
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Mysterious Benedict Society is a family-friendly adventure series centered on a group of gifted orphans who are recruited for a clandestine mission. The show blends elements of mystery, action, and found-family dynamics, creating a whimsical yet suspenseful narrative. It explores themes of intelligence, teamwork, and the importance of challenging authority, all while maintaining a lighthearted and optimistic tone. The series appeals to a younger audience while offering engaging storytelling for adults, emphasizing the power of unconventional thinking and the strength of human connection.",
+        "spoiler_rich_plot_summary": "The series begins with four gifted orphans – Reynie, Sticky, Kate, and Constance – being sought out by Mr. Benedict, a quirky and brilliant benefactor. They are selected for a top-secret mission to infiltrate The Institute, a seemingly ordinary boarding school. Unbeknownst to the students, The Institute is a front for a nefarious plot orchestrated by the enigmatic Dr. Lenehan, who aims to broadcast subliminal messages through a device called the Transmission. The children, posing as new students, must navigate the school's unusual curriculum and eccentric faculty while uncovering Dr. Lenehan’s scheme. As they investigate, they discover that the adults at The Institute are not who they seem, and that their mission is far more dangerous than initially anticipated. The children work together, utilizing their unique talents to overcome obstacles and expose the truth, ultimately forming a strong bond and redefining what it means to be a family. The series culminates in a confrontation where the children must use their wits and courage to disable the Transmission and thwart Dr. Lenehan’s plans, proving that even the smallest individuals can make a significant difference.",
+        "categorized_keywords": {
+          "themes": [
+            "intelligence",
+            "teamwork",
+            "found-family",
+            "challenging-authority",
+            "good-vs-evil",
+            "self-discovery"
+          ],
+          "plot_and_concepts": [
+            "secret-mission",
+            "undercover-operation",
+            "subliminal-messaging",
+            "boarding-school-setting",
+            "conspiracy"
+          ],
+          "mood_and_tone": [
+            "whimsical",
+            "suspenseful",
+            "optimistic",
+            "lighthearted",
+            "adventurous"
+          ],
+          "genre_and_tropes": [
+            "adventure-series",
+            "mystery",
+            "coming-of-age",
+            "found-family-trope"
+          ],
+          "setting": [
+            "boarding-school",
+            "modern-day",
+            "isolated-location"
+          ],
+          "character_archetypes": [
+            "gifted-child",
+            "eccentric-mentor",
+            "unconventional-hero",
+            "resourceful-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "transmission-device",
+            "boarding-school-uniform",
+            "secret-passageway",
+            "quirky-classroom"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Mysterious Benedict Society is a whimsical adventure series about gifted children who embark on a secret mission to a peculiar boarding school, exploring themes of intelligence, teamwork, and the power of found family."
+      },
+      "duration_seconds": 69.01250529289246
+    }
+  }
+}

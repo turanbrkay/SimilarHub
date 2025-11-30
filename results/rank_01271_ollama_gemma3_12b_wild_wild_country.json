@@ -1,0 +1,88 @@
+{
+  "input_data": {
+    "title": "Wild Wild Country",
+    "overview": "When a controversial cult leader builds a utopian city in the Oregon desert, conflict with the locals escalates into a national scandal.",
+    "genres": [
+      "Documentary",
+      "Crime"
+    ],
+    "release_year": 2018,
+    "vote_count": 186
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Wild Wild Country is a documentary series exploring the rise and fall of Rajneeshpuram, a controversial spiritual community founded by Bhagwan Shree Rajneesh in rural Oregon. The series examines the complex relationship between the cult and the local population, highlighting themes of cultural clash, utopian ideals, and the abuse of power. Through archival footage and interviews, it offers a nuanced perspective on the events, questioning the nature of belief, community, and the pursuit of paradise. The series blends elements of crime, documentary, and social commentary, creating a compelling and unsettling portrait of a unique chapter in American history.",
+        "spoiler_rich_plot_summary": "The series begins with Bhagwan Shree Rajneesh, a charismatic Indian guru, attracting a large following and establishing a commune in Pune, India. Facing legal troubles and political opposition, he and his followers decide to build a utopian city, Rajneeshpuram, in the high desert of Oregon. Initially, the community is welcomed by some locals who see it as an economic boon. However, tensions quickly arise due to cultural differences, environmental concerns, and the community's unconventional practices. As Rajneeshpuram grows, conflicts escalate, leading to sabotage, poisoning attempts, and ultimately, the deportation of Rajneesh himself. Following his departure, the community fractures, and its leaders are exposed for their fraudulent activities and attempts to gain political power, leading to the dissolution of Rajneeshpuram and the arrest of key figures.",
+        "categorized_keywords": {
+          "themes": [
+            "utopian-dreams",
+            "cultural-clash",
+            "power-corrupts",
+            "belief-systems",
+            "community-dynamics",
+            "spiritual-leadership",
+            "deception",
+            "political-manipulation"
+          ],
+          "plot_and_concepts": [
+            "cult-following",
+            "commune-building",
+            "political-intrigue",
+            "sabotage",
+            "poisoning",
+            "fraudulent-activities",
+            "deportation"
+          ],
+          "mood_and_tone": [
+            "unsettling",
+            "observational",
+            "thought-provoking",
+            "complex",
+            "critical"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "true-crime",
+            "social-commentary",
+            "cult-drama"
+          ],
+          "setting": [
+            "oregon-desert",
+            "rural-america",
+            "1980s",
+            "india"
+          ],
+          "character_archetypes": [
+            "charismatic-leader",
+            "devoted-follower",
+            "skeptical-local",
+            "corrupt-official"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "archival-footage",
+            "interview-driven"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "true-crime-fans"
+          ],
+          "detail_plot": [
+            "rajneeshpuram-city",
+            "bhagwan-shree-rajneesh",
+            "poisoned-salad",
+            "election-fraud",
+            "commune-buildings"
+          ],
+          "maturity_and_content": [
+            "deception",
+            "political-corruption"
+          ]
+        },
+        "keyword_sentence": "Wild Wild Country is a complex documentary series exploring the rise and fall of a spiritual community in rural Oregon, examining themes of utopian dreams, political corruption, and the unsettling dynamics of belief systems within a unique cultural clash."
+      },
+      "duration_seconds": 69.52796745300293
+    }
+  }
+}

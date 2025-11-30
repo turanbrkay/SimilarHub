@@ -1,0 +1,65 @@
+{
+  "input_data": {
+    "title": "It's Bruno!",
+    "overview": "An old-school Brooklyn native devotes his days to caring for his adorable dog, Bruno -- and making sure the neighbors show his pooch the proper respect.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2019,
+    "vote_count": 32
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "It's Bruno! is a lighthearted comedy series centered around a Brooklyn man and his beloved dog. The show explores themes of companionship, neighborhood dynamics, and the joys of simple pleasures. It offers a gentle, feel-good viewing experience, characterized by quirky characters and a focus on the bond between a man and his pet. The series' charm lies in its relatable portrayal of everyday life and the humorous situations that arise from a man's unwavering devotion to his dog.",
+        "spoiler_rich_plot_summary": "The series primarily follows Bruno, a Brooklyn native, and his dog, Bruno. Each episode typically revolves around Bruno's efforts to ensure his dog receives the respect and admiration he believes is due. This often involves navigating interactions with neighbors, dealing with misunderstandings, and resolving minor conflicts within the community. While the series doesn't feature a grand overarching plot, recurring characters and neighborhood dynamics create a sense of continuity. Bruno's dedication to his dog remains the central focus, and the series concludes with Bruno and Bruno continuing their comfortable, predictable life together, surrounded by the familiar faces of their Brooklyn neighborhood.",
+        "categorized_keywords": {
+          "themes": [
+            "companionship",
+            "neighborhood-dynamics",
+            "simple-pleasures",
+            "man-and-his-dog"
+          ],
+          "plot_and_concepts": [
+            "slice-of-life",
+            "manic-pixie-dog"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "feel-good",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "comedy",
+            "sitcom",
+            "found-family"
+          ],
+          "setting": [
+            "brooklyn-city",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "eccentric-protagonist",
+            "loyal-companion"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "slice-of-life"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "dog-leash",
+            "brooklyn-brownstone",
+            "dog-bowl",
+            "neighborhood-park"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "It's Bruno! is a lighthearted comedy series set in modern-day Brooklyn, exploring the simple pleasures of companionship and neighborhood dynamics through the endearing bond between a man and his dog."
+      },
+      "duration_seconds": 61.169939279556274
+    }
+  }
+}

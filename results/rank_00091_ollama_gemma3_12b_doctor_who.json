@@ -1,0 +1,89 @@
+{
+  "input_data": {
+    "title": "Doctor Who",
+    "overview": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. The Doctor saves planets for a living—more of a hobby actually, and the Doctor's very, very good at it.",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2005,
+    "vote_count": 2639
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Doctor Who is a long-running British science fiction series centered on a time-traveling alien known as the Doctor. The series blends action, adventure, drama, and fantasy, often exploring profound themes of morality, loss, and the importance of hope in the face of overwhelming odds. The Doctor, a centuries-old being, travels through time and space in a sentient time machine called the TARDIS, encountering diverse civilizations and battling a variety of threats to the universe. The show's episodic nature allows for a constantly evolving narrative and a wide range of storytelling possibilities, appealing to a broad audience with its blend of thrilling action and thought-provoking themes.",
+        "spoiler_rich_plot_summary": "The series begins with the Ninth Doctor regenerating from his previous incarnation, teaming up with Rose Tyler, a shop assistant from London. They confront threats like the Daleks and the Cybermen, iconic adversaries of the Time Lords. As the series progresses, Rose becomes increasingly connected to the Doctor's world, even briefly becoming a parallel version of herself. The Doctor faces personal losses and confronts his own past, including the destruction of his home planet, Gallifrey. Subsequent Doctors regenerate, each bringing a new personality and perspective to the role, while continuing to battle recurring enemies and explore new corners of the universe. The series often features complex narratives involving alternate timelines, paradoxes, and the consequences of interfering with time, ultimately emphasizing the Doctor's responsibility to protect the universe and its inhabitants, even at great personal cost. The Doctor's companions also play crucial roles, often experiencing significant personal growth and contributing to the Doctor's journey.",
+        "categorized_keywords": {
+          "themes": [
+            "time-travel",
+            "redemption",
+            "loss",
+            "hope",
+            "morality",
+            "responsibility",
+            "identity",
+            "sacrifice"
+          ],
+          "plot_and_concepts": [
+            "time-travel",
+            "alternate-timelines",
+            "parallel-universes",
+            "regeneration",
+            "monster-of-the-week",
+            "invasion",
+            "paradox"
+          ],
+          "mood_and_tone": [
+            "adventurous",
+            "optimistic",
+            "dark",
+            "suspenseful",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "adventure",
+            "time-travel",
+            "monster-of-the-week",
+            "found-family"
+          ],
+          "setting": [
+            "space",
+            "earth",
+            "alternate-timelines",
+            "historical-periods"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "companion",
+            "alien"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "tardis",
+            "sonic-screwdriver",
+            "dalek",
+            "cybermen",
+            "time-lord"
+          ],
+          "maturity_and_content": [
+            "violence"
+          ]
+        },
+        "keyword_sentence": "Doctor Who is a long-running science fiction adventure series that explores themes of time travel, loss, and responsibility as a centuries-old alien journeys through space and time, battling iconic monsters and inspiring hope across the universe."
+      },
+      "duration_seconds": 74.99627041816711
+    }
+  }
+}

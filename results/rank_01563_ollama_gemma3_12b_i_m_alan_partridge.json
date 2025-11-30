@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "I'm Alan Partridge",
+    "overview": "The fortunes of a former chat show host who is reduced to a lowly slot on Radio Norwich. Alan Partridge is divorced, living in a travel tavern, and desperate for a return to television.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1997,
+    "vote_count": 135
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "I'm Alan Partridge is a British comedy series that satirizes the world of television and celebrity culture. The show follows the misadventures of Alan Partridge, a former chat show host struggling to regain his career and relevance. It's characterized by its awkward humor, cringe comedy, and a deeply unsettling portrayal of a man desperately clinging to a fading sense of importance. The series explores themes of ego, ambition, and the absurdity of fame, all delivered with a dry, understated wit.",
+        "spoiler_rich_plot_summary": "The series begins with Alan Partridge attempting to secure a new television program after his previous show was abruptly cancelled. He finds himself relegated to a local radio station in Norwich, where he hosts a morning show. Alan's attempts to revive his career are consistently undermined by his own ineptitude, poor judgment, and a general lack of self-awareness. He navigates a series of increasingly bizarre and humiliating situations, including a disastrous promotional event and a fraught relationship with his producer, Phil. Throughout the series, Alan's personal life unravels further, revealing a complex and often pathetic character struggling to maintain a facade of professionalism and success. The narrative culminates in a series of escalating mishaps that expose Alan's vulnerabilities and leave his future uncertain, highlighting the precarious nature of his position in the media landscape.",
+        "categorized_keywords": {
+          "themes": [
+            "ego",
+            "ambition",
+            "fame",
+            "social-awkwardness",
+            "failure",
+            "identity-crisis"
+          ],
+          "plot_and_concepts": [
+            "mockumentary",
+            "cringe-comedy",
+            "satire",
+            "media-criticism"
+          ],
+          "mood_and_tone": [
+            "awkward",
+            "dry-humor",
+            "cringeworthy",
+            "absurdist"
+          ],
+          "genre_and_tropes": [
+            "british-comedy",
+            "mockumentary-comedy"
+          ],
+          "setting": [
+            "norwich-england",
+            "radio-station",
+            "travel-tavern"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "delusional-protagonist",
+            "socially-inept-character"
+          ],
+          "narrative_style": [
+            "single-camera",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "travel-tavern",
+            "radio-microphone",
+            "chat-show-set",
+            "promotional-event"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "I'm Alan Partridge is a darkly comedic mockumentary series that satirizes the world of television through the awkward and delusional perspective of a former chat show host struggling to regain his relevance in Norwich, England."
+      },
+      "duration_seconds": 59.36064529418945
+    }
+  }
+}

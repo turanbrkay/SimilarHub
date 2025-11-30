@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Star Wars: Forces of Destiny",
+    "overview": "An animated micro-series starring Rey, Jyn Erso, Princess Leia, Ahsoka Tano, and more. Small moments and everyday decisions shape a larger heroic saga.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Animation",
+      "Action & Adventure",
+      "Family"
+    ],
+    "release_year": 2017,
+    "vote_count": 43
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Star Wars: Forces of Destiny is an animated anthology series designed to spotlight female characters within the Star Wars universe. Each short episode focuses on a different heroine, exploring their motivations, skills, and contributions to the larger galactic conflict. The series aims to inspire young viewers by showcasing diverse female role models and emphasizing themes of courage, friendship, and determination. It offers a lighter, more accessible entry point into the Star Wars saga, blending action-adventure with heartwarming character moments and a focus on everyday heroism.",
+        "spoiler_rich_plot_summary": "The series doesn't follow a continuous narrative but presents a collection of self-contained stories. Rey, a scavenger turned Jedi, is a recurring figure, demonstrating her growth in the Force and her commitment to helping others. Jyn Erso, from Rogue One, is featured, providing glimpses into her past and her unwavering resolve. Princess Leia, Ahsoka Tano, and other iconic female characters are also highlighted, each facing unique challenges and demonstrating their strength and resilience. The stories often involve smaller-scale missions and personal struggles, showcasing how seemingly insignificant actions can have a significant impact on the fate of the galaxy. While the overarching narrative remains consistent with the established Star Wars timeline, the focus is on individual character arcs and their contributions to the larger heroic saga, rather than a grand, overarching plot.",
+        "categorized_keywords": {
+          "themes": [
+            "female-empowerment",
+            "courage",
+            "friendship",
+            "determination",
+            "heroism",
+            "self-discovery",
+            "galactic-conflict"
+          ],
+          "plot_and_concepts": [
+            "anthology-series",
+            "character-study",
+            "small-scale-missions",
+            "force-abilities",
+            "mentor-student-relationship"
+          ],
+          "mood_and_tone": [
+            "optimistic",
+            "lighthearted",
+            "inspiring",
+            "action-adventure"
+          ],
+          "genre_and_tropes": [
+            "sci-fi",
+            "fantasy",
+            "animation",
+            "found-family",
+            "coming-of-age"
+          ],
+          "setting": [
+            "galaxy-far-far-away",
+            "star-destroyer",
+            "rebel-base",
+            "forest-planet"
+          ],
+          "character_archetypes": [
+            "heroine",
+            "mentor",
+            "rebel-fighter",
+            "jedi-master"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "anthology-format",
+            "episodic"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "lightsaber",
+            "rebel-uniform",
+            "droid-companion",
+            "starship-chase"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Star Wars: Forces of Destiny is an animated series celebrating female heroes within a galaxy far, far away, showcasing themes of courage, friendship, and determination through episodic stories of action and adventure."
+      },
+      "duration_seconds": 60.46540689468384
+    }
+  }
+}

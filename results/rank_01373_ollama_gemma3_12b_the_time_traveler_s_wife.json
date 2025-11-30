@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "The Time Traveler's Wife",
+    "overview": "The intricate and magical love story of Clare and Henry, and a marriage with a problem… time travel.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "release_year": 2022,
+    "vote_count": 167
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Time Traveler's Wife is a romantic drama centered on a unique and challenging relationship. The series explores the complexities of love and commitment when one partner involuntarily travels through time, disrupting the conventional progression of their lives. It blends elements of science fiction with deeply emotional storytelling, examining themes of destiny, loss, and the enduring power of connection despite extraordinary circumstances. The narrative oscillates between past and present, creating a non-linear structure that reflects the fragmented nature of their shared experience and the constant disruption of their timeline.",
+        "spoiler_rich_plot_summary": "The story begins with Clare Abshire, who has spent her entire life inexplicably encountering a man named Henry throughout different stages of her life. As she grows, she realizes these aren't random encounters; Henry is her future husband, cursed with a genetic disorder that causes him to involuntarily time travel. Their relationship is built on a foundation of fragmented memories and missed moments, as Henry disappears and reappears without warning, often experiencing Clare's life out of chronological order. They struggle to build a conventional life together, facing the constant threat of Henry's unpredictable journeys and the emotional toll they take on their relationship. As they navigate their unusual circumstances, they confront the challenges of raising a family while dealing with the uncertainty of Henry's condition and the knowledge that their time together is finite. The series explores the impact of Henry's condition on their family and friends, and the sacrifices they must make to maintain their bond. Ultimately, the narrative focuses on their enduring love and the lengths they go to protect each other, despite the limitations imposed by time itself.",
+        "categorized_keywords": {
+          "themes": [
+            "love-and-commitment",
+            "time-and-fate",
+            "loss-and-grief",
+            "family-dynamics",
+            "destiny",
+            "sacrifice"
+          ],
+          "plot_and_concepts": [
+            "time-travel",
+            "genetic-disorder",
+            "non-linear-timeline",
+            "romantic-drama"
+          ],
+          "mood_and_tone": [
+            "melancholy",
+            "romantic",
+            "emotional",
+            "bittersweet"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "romantic-drama",
+            "time-travel-romance"
+          ],
+          "setting": [
+            "modern-day",
+            "american-suburbs"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "strong-female-lead",
+            "cursed-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "flashbacks",
+            "non-linear-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "time-travel-disruption",
+            "family-photos",
+            "medical-records",
+            "childhood-memories"
+          ],
+          "maturity_and_content": [
+            "emotional-trauma"
+          ]
+        },
+        "keyword_sentence": "The Time Traveler's Wife is a romantic drama exploring the complexities of love and commitment when one partner involuntarily journeys through time, creating a bittersweet and emotionally charged narrative about destiny, loss, and the enduring power of connection."
+      },
+      "duration_seconds": 64.50215005874634
+    }
+  }
+}

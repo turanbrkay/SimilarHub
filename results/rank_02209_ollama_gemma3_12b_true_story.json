@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "True Story",
+    "overview": "A world-famous comedian desperately searches for a way out after a night in Philadelphia with his brother threatens to sabotage more than his success.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "release_year": 2021,
+    "vote_count": 82
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "True Story is a dark, suspenseful drama that blends elements of crime and comedy through the lens of a celebrity's unraveling. The series explores themes of ambition, family loyalty, and the price of fame, as a successful comedian's carefully constructed public image is threatened by his brother's involvement in a series of questionable events. The narrative is driven by a constant sense of unease and moral ambiguity, questioning the nature of truth and the lengths people will go to protect their secrets. The show offers a compelling examination of the duality of human nature and the fragility of reputation.",
+        "spoiler_rich_plot_summary": "The series centers on Carl Boyce, a wildly popular comedian whose success is built on a carefully crafted persona. His younger brother, Mickey, a troubled and impulsive individual, resurfaces in Carl's life, bringing with him a history of criminal activity and a desperate need for financial assistance. Initially, Carl attempts to help Mickey, but their relationship quickly becomes entangled in a web of lies and increasingly dangerous situations. As Mickey's past catches up to them, Carl is forced to confront the dark secrets that underpin his own success and the compromises he's made to maintain his public image. The narrative escalates as Carl attempts to control the fallout from Mickey's actions, manipulating events and leveraging his influence to protect himself and his family. The series culminates in a tense confrontation where the true extent of Carl's involvement in Mickey's schemes is revealed, leaving his career and reputation hanging in the balance. The ending suggests a precarious future for both brothers, with the consequences of their actions continuing to reverberate.",
+        "categorized_keywords": {
+          "themes": [
+            "ambition",
+            "family-loyalty",
+            "deception",
+            "redemption",
+            "fame",
+            "moral-ambiguity",
+            "guilt"
+          ],
+          "plot_and_concepts": [
+            "crime-drama",
+            "celebrity-scandal",
+            "brotherhood",
+            "cover-up",
+            "manipulation"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "suspenseful",
+            "tense",
+            "gritty",
+            "noir"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "neo-noir",
+            "celebrity-culture"
+          ],
+          "setting": [
+            "philadelphia",
+            "modern-day",
+            "entertainment-industry"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "troubled-sibling",
+            "successful-comedian",
+            "morally-gray-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "fast-paced"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "comedy-routine",
+            "police-investigation",
+            "nightclub",
+            "financial-records"
+          ],
+          "maturity_and_content": [
+            "substance-abuse",
+            "violence",
+            "profanity"
+          ]
+        },
+        "keyword_sentence": "True Story is a dark and suspenseful crime drama exploring themes of ambition and deception within the entertainment industry, following a successful comedian and his troubled brother as they navigate a web of lies and moral ambiguity."
+      },
+      "duration_seconds": 66.62826919555664
+    }
+  }
+}

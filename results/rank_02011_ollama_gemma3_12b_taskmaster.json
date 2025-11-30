@@ -1,0 +1,69 @@
+{
+  "input_data": {
+    "title": "Taskmaster",
+    "overview": "Greg Davies is the Taskmaster, and with the help of his ever-loyal assistant Alex Horne, they will set out to test the wiles, wit, wisdom and skills of five hyper-competitive comedians. Who will be crowned the Taskmaster champion in this brand new game show?",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2015,
+    "vote_count": 95
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Taskmaster is a British comedy game show centered around Greg Davies, the Taskmaster, and his assistant, Alex Horne, who devise and judge absurd challenges for five comedians. The show's humor derives from the comedians' creative interpretations of the tasks, their competitive spirit, and Davies's often-impartial and sardonic commentary. It's a lighthearted and inventive format that celebrates ingenuity and embraces chaotic, often hilarious, outcomes. The show's appeal lies in its simple premise and the unpredictable nature of the contestants' attempts.",
+        "spoiler_rich_plot_summary": "Each episode of Taskmaster presents five comedians with a series of tasks, ranging from the mundane to the bizarre. These tasks are often open to interpretation, leading to wildly different approaches and frequently absurd results. Alex Horne meticulously records and judges the contestants' performances, while Greg Davies delivers his verdicts with a mix of amusement and authority. Throughout a series, a cumulative score is kept, and the comedian with the lowest score at the end is declared the loser, often facing a humorous and lighthearted punishment. The show's format emphasizes improvisation, creativity, and the comedians' willingness to embrace silliness, leading to a constantly evolving and entertaining dynamic. While there's a clear winner at the end of each series, the true reward is the journey of watching the comedians attempt to conquer the increasingly ridiculous tasks.",
+        "categorized_keywords": {
+          "themes": [
+            "competition",
+            "absurdity",
+            "improvisation",
+            "humor",
+            "creativity"
+          ],
+          "plot_and_concepts": [
+            "game-show",
+            "task-based",
+            "cumulative-scoring",
+            "open-interpretation"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "sardonic"
+          ],
+          "genre_and_tropes": [
+            "comedy",
+            "game-show",
+            "found-family"
+          ],
+          "setting": [
+            "modern-day",
+            "studio-setting"
+          ],
+          "character_archetypes": [
+            "comedian",
+            "authority-figure",
+            "loyal-assistant"
+          ],
+          "narrative_style": [
+            "episodic",
+            "cumulative-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "task-list",
+            "score-board",
+            "punishment"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Taskmaster is a lighthearted British comedy game show where comedians compete in absurd tasks, judged by a sardonic authority figure and his loyal assistant, resulting in a series of hilarious and creatively chaotic moments."
+      },
+      "duration_seconds": 57.141318559646606
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Will & Grace",
+    "overview": "That’s right, honey! A decade after their unforgettable eight-season run, comedy’s most fabulous foursome is back.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2017,
+    "vote_count": 70
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Will & Grace is a sitcom revival that continues the comedic exploration of friendship, love, and navigating life in New York City. The series blends witty banter, observational humor, and a focus on character relationships, maintaining the original show's signature style while addressing contemporary issues. It offers a lighthearted and often absurd portrayal of modern relationships and cultural dynamics, appealing to fans of the original series and new audiences alike. The show’s strength lies in its ensemble cast and their ability to find humor in everyday situations, creating a feel-good and entertaining experience.",
+        "spoiler_rich_plot_summary": "The revival picks up several years after Will and Grace's initial departure, finding them navigating new challenges in their personal and professional lives. Will, a successful lawyer, and Grace, a design consultant, grapple with evolving relationships and career shifts. Their friends, Karen and Jack, continue their eccentric and often outrageous antics, providing ample comedic fodder. Throughout the seasons, the series explores themes of aging, changing social norms, and the enduring power of friendship. While maintaining the core comedic dynamic, the revival also incorporates storylines that reflect contemporary social and political landscapes, often with a satirical edge. The series ultimately reinforces the importance of acceptance, understanding, and the enduring bonds of friendship, even as the characters face new and unexpected circumstances.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "love",
+            "acceptance",
+            "modern-relationships",
+            "self-discovery",
+            "social-commentary"
+          ],
+          "plot_and_concepts": [
+            "sitcom",
+            "ensemble-cast",
+            "romantic-comedy",
+            "fish-out-of-water",
+            "reboot"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "witty",
+            "absurd",
+            "feel-good",
+            "satirical"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "romantic-comedy",
+            "ensemble-cast",
+            "reboot"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "best-friends",
+            "eccentric-personality",
+            "successful-professional"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "stylish-apartment",
+            "fashionable-outfits",
+            "quirky-dialogue"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Will & Grace is a lighthearted sitcom reboot set in modern-day New York City, exploring themes of friendship, love, and acceptance through the comedic journeys of its eccentric and stylish characters."
+      },
+      "duration_seconds": 57.69032955169678
+    }
+  }
+}

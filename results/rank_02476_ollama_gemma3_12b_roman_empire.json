@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Roman Empire",
+    "overview": "This stylish mix of documentary and historical epic chronicles the reign of Commodus, the emperor whose rule marked the beginning of Rome's fall.",
+    "genres": [
+      "Drama",
+      "Documentary"
+    ],
+    "release_year": 2016,
+    "vote_count": 67
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Roman Empire is a visually striking series that blends documentary elements with dramatic reenactments to explore the tumultuous reign of Emperor Commodus. The show examines the political intrigue, social unrest, and personal failings that contributed to the decline of the Roman Empire. It aims to provide a nuanced portrait of a pivotal historical period, combining expert commentary with compelling storytelling. The series offers a blend of historical analysis and character-driven drama, appealing to audiences interested in both history and compelling narratives. It’s a visually rich and intellectually stimulating exploration of a fascinating era.",
+        "spoiler_rich_plot_summary": "The series begins by establishing the reign of Marcus Aurelius and his decision to name his son, Commodus, as his successor, despite Commodus’s lack of the qualities expected of a Roman emperor. Commodus’s rule is marked by extravagance, paranoia, and a growing disconnect from the Roman people. He increasingly embraces gladiatorial combat, participating in arena spectacles to gain popularity, which further diminishes his authority and alienates the Senate. Political rivals and conspiracies emerge as Commodus’s grip on power weakens, leading to attempts to undermine his rule. The series details the growing instability within the empire, fueled by Commodus’s erratic behavior and the machinations of those seeking to exploit the situation. Ultimately, Commodus’s reign ends in a violent coup, orchestrated by those closest to him, marking a significant turning point in Roman history and foreshadowing the empire’s eventual fragmentation.",
+        "categorized_keywords": {
+          "themes": [
+            "power-corrupts",
+            "political-intrigue",
+            "decline-of-empire",
+            "legacy",
+            "ambition",
+            "historical-fallibility"
+          ],
+          "plot_and_concepts": [
+            "historical-drama",
+            "gladiatorial-combat",
+            "senate-politics",
+            "coup-d-etat",
+            "succession-crisis"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "grandiose",
+            "tragic",
+            "historical",
+            "intense"
+          ],
+          "genre_and_tropes": [
+            "historical-epic",
+            "roman-history",
+            "political-thriller",
+            "decline-and-fall"
+          ],
+          "setting": [
+            "ancient-rome",
+            "roman-empire",
+            "historical-setting"
+          ],
+          "character_archetypes": [
+            "corrupt-ruler",
+            "ambitious-politician",
+            "tragic-hero",
+            "wise-advisor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "historical-account",
+            "documentary-style"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "history-buffs"
+          ],
+          "detail_plot": [
+            "colosseum",
+            "roman-senate",
+            "imperial-palace",
+            "gladiator-arena",
+            "toga"
+          ],
+          "maturity_and_content": [
+            "political-violence",
+            "historical-depiction"
+          ]
+        },
+        "keyword_sentence": "Roman Empire is a somber and grandiose historical drama that explores the political intrigue and decline of a powerful empire through the reign of a flawed and ultimately tragic ruler."
+      },
+      "duration_seconds": 65.70369720458984
+    }
+  }
+}

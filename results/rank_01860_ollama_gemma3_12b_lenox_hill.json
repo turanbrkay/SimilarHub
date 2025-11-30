@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Lenox Hill",
+    "overview": "From birth to brain surgery: This docuseries provides an intimate look at the lifesaving work of four doctors at Lenox Hill Hospital in NYC.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2020,
+    "vote_count": 107
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Lenox Hill is a documentary series offering a deeply personal and intimate portrayal of the lives and work of four physicians at Lenox Hill Hospital in New York City. The series eschews traditional narrative structures, instead opting to follow the doctors through their daily routines, showcasing the complexities of modern medicine, the emotional toll on healthcare professionals, and the profound impact they have on their patients' lives. It explores themes of mortality, resilience, and the human connection within a high-pressure medical environment, offering a raw and unfiltered look at the realities of healthcare in a major urban center. The series' observational style allows viewers to witness both the triumphs and the challenges faced by those on the front lines of medical care.",
+        "spoiler_rich_plot_summary": "Lenox Hill follows four doctors – Ali, a neurosurgeon; David, a cardiothoracic surgeon; John, an orthopedic surgeon; and Amanda, an emergency room physician – as they navigate the demanding world of Lenox Hill Hospital. The series begins by introducing each doctor and their respective specialties, showcasing their unique approaches to patient care and the personal sacrifices they make. Throughout the seasons, viewers witness a range of medical cases, from complex surgeries to critical emergency interventions, highlighting the constant pressure and life-or-death decisions these doctors face. The series doesn's follow a traditional plot arc, but rather presents a continuous stream of medical events and personal reflections. Recurring themes involve the doctors' struggles to balance their professional lives with their personal relationships, the emotional burden of dealing with patient mortality, and the constant need to adapt to evolving medical technologies and protocols. The series concludes by reaffirming the dedication and resilience of the medical staff, while acknowledging the ongoing challenges and uncertainties inherent in the healthcare system.",
+        "categorized_keywords": {
+          "themes": [
+            "medical-ethics",
+            "mortality",
+            "resilience",
+            "human-connection",
+            "professional-sacrifice",
+            "healthcare-system"
+          ],
+          "plot_and_concepts": [
+            "medical-procedural",
+            "observational-documentary",
+            "slice-of-life"
+          ],
+          "mood_and_tone": [
+            "intimate",
+            "reflective",
+            "realistic",
+            "somber"
+          ],
+          "genre_and_tropes": [
+            "medical-drama",
+            "documentary-series"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day",
+            "hospital-setting"
+          ],
+          "character_archetypes": [
+            "dedicated-physician",
+            "compassionate-doctor",
+            "expert-surgeon"
+          ],
+          "narrative_style": [
+            "observational-style",
+            "character-driven"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "medical-professionals"
+          ],
+          "detail_plot": [
+            "operating-room",
+            "emergency-room",
+            "patient-charts",
+            "medical-equipment"
+          ],
+          "maturity_and_content": [
+            "medical-procedures",
+            "sensitive-topics"
+          ]
+        },
+        "keyword_sentence": "Lenox Hill offers an intimate and realistic portrayal of dedicated physicians navigating the complexities of modern medicine and the emotional toll of their profession within a bustling New York City hospital."
+      },
+      "duration_seconds": 67.80991125106812
+    }
+  }
+}

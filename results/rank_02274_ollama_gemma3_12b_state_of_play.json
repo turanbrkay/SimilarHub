@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "State of Play",
+    "overview": "The murder of Sonia Baker, a young political researcher, leads journalist Cal McCaffrey to uncover complex links between government and big business.",
+    "genres": [
+      "Mystery",
+      "Drama",
+      "Crime"
+    ],
+    "release_year": 2003,
+    "vote_count": 79
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "State of Play is a British political thriller that explores the murky intersection of journalism, government, and corporate power. The series follows a seasoned journalist as he investigates the seemingly straightforward murder of a researcher, uncovering a web of corruption and long-buried secrets. With a focus on procedural detail and complex character relationships, the show offers a suspenseful and morally ambiguous exploration of truth, loyalty, and the price of uncovering uncomfortable realities. The narrative unfolds with a deliberate pace, emphasizing the investigative process and the personal toll it takes on those involved. It’s a grounded and realistic portrayal of political intrigue, eschewing sensationalism in favor of a nuanced and thought-provoking examination of power dynamics.",
+        "spoiler_rich_plot_summary": "The series begins with the death of Sonia Baker, a researcher working for MP Marcus Beale. Journalist Cal McCaffrey is assigned to cover the story, initially believing it to be a simple case. However, as Cal digs deeper, he discovers that Sonia was involved in a complex investigation into a land deal that implicated several powerful figures, including the Home Secretary, Charles Hatton. Cal’s investigation leads him to uncover a series of interconnected events spanning fifteen years, revealing a pattern of corruption and cover-ups. He discovers that Sonia was about to expose a scandal involving a private security firm, Lone Star, and its dealings with government officials. As Cal gets closer to the truth, he finds himself targeted and faces increasing danger, with his own past and relationships becoming entangled in the conspiracy. The investigation reveals a shocking connection between Sonia’s death and a previous incident involving a journalist, David Reynolds, who was killed fifteen years prior. Ultimately, the series exposes a network of individuals who have manipulated events for their own gain, highlighting the fragility of truth and the lengths to which people will go to protect their power. The truth about David Reynolds’ death is revealed, and the conspiracy is brought to light, though at a significant personal cost to those involved.",
+        "categorized_keywords": {
+          "themes": [
+            "political-corruption",
+            "truth-seeking",
+            "power-abuse",
+            "loyalty",
+            "redemption",
+            "justice"
+          ],
+          "plot_and_concepts": [
+            "political-thriller",
+            "investigative-journalism",
+            "cover-up",
+            "conspiracy",
+            "serial-investigation"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "gritty",
+            "realistic"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "political-drama",
+            "whistleblower"
+          ],
+          "setting": [
+            "modern-day",
+            "london-city",
+            "government-building"
+          ],
+          "character_archetypes": [
+            "investigative-reporter",
+            "corrupt-politician",
+            "whistleblower",
+            "moral-ambiguity"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "newspaper-office",
+            "interrogation-room",
+            "government-files",
+            "press-conference"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "political-intrigue"
+          ]
+        },
+        "keyword_sentence": "State of Play is a suspenseful British political thriller that explores themes of corruption and truth-seeking through the eyes of an investigative reporter uncovering a complex web of power and betrayal in modern-day London."
+      },
+      "duration_seconds": 70.69189548492432
+    }
+  }
+}

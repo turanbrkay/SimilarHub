@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Zoo",
+    "overview": "Set amidst a wave of violent animal attacks sweeping across the planet, a young renegade scientist is thrust into a race to unlock the mystery behind this pandemic before time runs out for animals and humans alike.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2015,
+    "vote_count": 499
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Zoo is a creature-feature drama series that explores a global crisis as animals begin exhibiting increasingly aggressive and coordinated behavior. The show blends elements of disaster, thriller, and science fiction, examining the potential collapse of civilization and the human response to unprecedented ecological upheaval. It focuses on a team of scientists and experts as they attempt to understand the phenomenon and find a solution, navigating political intrigue and personal conflicts along the way. The series offers a suspenseful and often intense viewing experience, punctuated by moments of action and emotional drama.",
+        "spoiler_rich_plot_summary": "The series begins with a surge of animal attacks worldwide, prompting a team led by Jackson Oz, a veterinary pathologist, his mother Abigail, a renowned geneticist, and Noah Solloway, a journalist, to investigate. Their initial findings suggest a genetic anomaly affecting animals across species, causing them to act aggressively. As the situation escalates, the team discovers a pattern to the attacks, hinting at a coordinated effort. They encounter resistance from government agencies and corporations who seek to control the narrative and exploit the crisis for their own gain. Throughout the series, the team uncovers evidence of a mysterious 'pulse' that seems to be influencing animal behavior, leading them on a global chase for its source. They face betrayals, loss, and moral dilemmas as they struggle to contain the escalating crisis and uncover the truth behind the animal uprising. The series culminates in a confrontation with the source of the pulse, revealing a complex and unsettling truth about humanity's role in the ecological disaster and the potential for a new world order.",
+        "categorized_keywords": {
+          "themes": [
+            "ecological-collapse",
+            "human-nature",
+            "scientific-discovery",
+            "political-corruption",
+            "survival",
+            "family-loyalty"
+          ],
+          "plot_and_concepts": [
+            "animal-attacks",
+            "genetic-mutation",
+            "global-pandemic",
+            "scientific-investigation",
+            "conspiracy-theory"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "tense",
+            "action-packed"
+          ],
+          "genre_and_tropes": [
+            "creature-feature",
+            "disaster-drama",
+            "science-fiction",
+            "thriller"
+          ],
+          "setting": [
+            "global",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "renegade-scientist",
+            "concerned-parent",
+            "investigative-journalist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "animal-migration",
+            "government-facility",
+            "scientific-lab",
+            "pulse-signal"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "animal-death"
+          ]
+        },
+        "keyword_sentence": "Zoo is a suspenseful science-fiction drama series exploring a global crisis as animals exhibit increasingly aggressive behavior, prompting a team of scientists to investigate a terrifying ecological collapse and uncover a dangerous conspiracy."
+      },
+      "duration_seconds": 59.34865880012512
+    }
+  }
+}

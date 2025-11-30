@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Love Island",
+    "overview": "A stunning cast engages in the ultimate game of love, as they land in a sunshine paradise in search of passion and romance. Each of the glamorous members of the public will live like celebrities in a luxury villa, but in order to stay there, they will not only have to win over the hearts of each other, but also the hearts of the public.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2015,
+    "vote_count": 112
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Love Island is a reality television series centered around a group of young adults seeking love and connection within a luxurious villa setting. The show blends elements of dating competitions and social experiments, emphasizing interpersonal dynamics, strategic gameplay, and public opinion. Contestants navigate romantic relationships while vying for the affection of their peers and the support of viewers, creating a dynamic and often dramatic viewing experience. The series explores themes of attraction, popularity, and the performative nature of relationships in the age of social media.",
+        "spoiler_rich_plot_summary": "Each season of Love Island begins with a group of singles arriving at a lavish villa, typically located in a tropical destination. Contestants are initially paired up, but these pairings are constantly challenged as new arrivals enter the villa. Islanders must couple up to remain in the competition; those who are not part of a couple are at risk of being eliminated. Throughout the season, contestants participate in various challenges and dates designed to test their compatibility and reveal their personalities. Public voting plays a crucial role, as viewers decide which couples they want to see stay together and which should be eliminated. Strategic alliances and betrayals are common as contestants attempt to manipulate the game to their advantage. As the season progresses, the pool of contestants dwindles, and the remaining couples face a final public vote to determine the winning couple, who receive a cash prize.",
+        "categorized_keywords": {
+          "themes": [
+            "romance",
+            "competition",
+            "popularity",
+            "social-dynamics",
+            "attraction",
+            "relationships",
+            "public-opinion"
+          ],
+          "plot_and_concepts": [
+            "dating-competition",
+            "social-experiment",
+            "public-voting",
+            "coupling-up",
+            "elimination"
+          ],
+          "mood_and_tone": [
+            "flirty",
+            "dramatic",
+            "lighthearted",
+            "superficial",
+            "entertaining"
+          ],
+          "genre_and_tropes": [
+            "reality-tv",
+            "dating-show",
+            "found-family",
+            "social-media-culture"
+          ],
+          "setting": [
+            "luxury-villa",
+            "tropical-location",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "influencer",
+            "heartthrob",
+            "villain",
+            "romantic"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adults"
+          ],
+          "detail_plot": [
+            "villa-pool",
+            "fire-pit",
+            "coupling-ceremony",
+            "challenge-games"
+          ],
+          "maturity_and_content": [
+            "sexual-content",
+            "relationship-drama"
+          ]
+        },
+        "keyword_sentence": "Love Island is a lighthearted reality television show where young adults compete for romance and popularity within a luxurious villa setting, often fueled by social media and public opinion."
+      },
+      "duration_seconds": 62.77121043205261
+    }
+  }
+}

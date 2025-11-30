@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Mindhunter",
+    "overview": "An agent in the FBI's Elite Serial Crime Unit develops profiling techniques as he pursues notorious serial killers and rapists.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "release_year": 2017,
+    "vote_count": 2099
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Mindhunter is a psychological crime drama that delves into the nascent field of criminal profiling. The series follows FBI agents who interview incarcerated serial killers to understand their motives and behaviors, hoping to apply these insights to ongoing investigations. It's characterized by its slow-burn pacing, meticulous attention to detail, and unsettling atmosphere, exploring the psychological complexities of both the perpetrators and those tasked with understanding them. The show examines the blurred lines between empathy and manipulation, and the potential for darkness within the human psyche. It offers a chilling and intellectually stimulating exploration of the origins of criminal profiling.",
+        "spoiler_rich_plot_summary": "The series begins in the early 1970s, with FBI agent Holden Ford initiating a controversial program to interview imprisoned serial killers. He's joined by his colleague, Bill Tench, and psychologist Wendy Carr, who provides the theoretical framework for their work. Their initial interviews with killers like Edmund Kemper and Dennis Rader provide invaluable insights into their thought processes and motivations, challenging conventional law enforcement methods. As the team delves deeper into the minds of these criminals, they begin to question their own perceptions of good and evil, and the potential for their own psychological vulnerabilities. The second season expands the scope of their investigations, focusing on the Atlanta child murders and other high-profile cases. The team grapples with the ethical implications of their work, facing criticism from within the FBI and struggling to maintain their own mental stability. The series concludes with Holden Ford being attacked in prison, leaving his future uncertain and the program's fate ambiguous, suggesting a continued struggle to understand and combat the darkest aspects of human nature.",
+        "categorized_keywords": {
+          "themes": [
+            "criminal-psychology",
+            "moral-ambiguity",
+            "nature-vs-nurture",
+            "identity-crisis",
+            "power-dynamics",
+            "social-commentary"
+          ],
+          "plot_and_concepts": [
+            "criminal-profiling",
+            "serial-killer",
+            "police-investigation",
+            "interrogation",
+            "true-crime"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "suspenseful",
+            "unsettling",
+            "atmospheric",
+            "slow-burn"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "psychological-thriller",
+            "procedural-drama"
+          ],
+          "setting": [
+            "1970s",
+            "united-states",
+            "prison"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "reluctant-hero",
+            "wise-mentor",
+            "morally-gray-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "interrogation-room",
+            "prison-cell",
+            "police-badge",
+            "case-files"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "disturbing-imagery",
+            "psychological-manipulation"
+          ]
+        },
+        "keyword_sentence": "Mindhunter is a dark and suspenseful crime drama set in the 1970s, exploring the psychological complexities of criminal profiling and the blurred lines between understanding and manipulation within a world of serial killers and morally ambiguous characters."
+      },
+      "duration_seconds": 69.74719858169556
+    }
+  }
+}

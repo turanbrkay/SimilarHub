@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "The Karate Kid",
+    "overview": "Daniel and his mentor Mr. Miyagi travel the world with their Okinawan friend Taki Tamurai in search of an ancient Japanese talisman stolen from an old fishing village.",
+    "genres": [
+      "Animation",
+      "Action & Adventure"
+    ],
+    "release_year": 1989,
+    "vote_count": 30
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Karate Kid is an animated action-adventure series that follows Daniel LaRusso and Mr. Miyagi as they embark on a global quest to recover a stolen artifact. The series blends martial arts action with a coming-of-age narrative, exploring themes of friendship, responsibility, and cultural understanding. It maintains a lighthearted tone while incorporating elements of mystery and danger as the protagonists navigate various locales and confront adversaries seeking the talisman's power. The show offers a family-friendly adventure with a focus on character development and positive values.",
+        "spoiler_rich_plot_summary": "The series begins with the theft of an ancient Japanese talisman from a remote fishing village, an artifact believed to hold significant spiritual power. Daniel LaRusso and Mr. Miyagi, accompanied by their friend Taki Tamurai, set out on a worldwide journey to retrieve it. Their quest takes them across continents, encountering diverse cultures and formidable opponents who also seek the talisman for their own purposes. Along the way, Daniel continues to hone his karate skills under Miyagi's guidance, facing personal challenges and learning valuable lessons about perseverance and respect. The pursuit of the talisman leads to confrontations with skilled martial artists and reveals a complex history surrounding the artifact, ultimately culminating in a final showdown where Daniel and Miyagi must combine their skills and wisdom to restore balance and protect the talisman from falling into the wrong hands. The series concludes with the talisman safely returned and the trio having strengthened their bond through shared experiences and overcoming adversity.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "responsibility",
+            "cultural-understanding",
+            "perseverance",
+            "respect",
+            "coming-of-age"
+          ],
+          "plot_and_concepts": [
+            "martial-arts",
+            "artifact-quest",
+            "treasure-hunt",
+            "global-adventure"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "adventurous",
+            "positive",
+            "family-friendly"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "coming-of-age",
+            "martial-arts-film",
+            "treasure-hunt-story"
+          ],
+          "setting": [
+            "okinawa",
+            "global-locations",
+            "remote-villages"
+          ],
+          "character_archetypes": [
+            "mentor",
+            "student",
+            "friend"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-adventure"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "karate-uniform",
+            "ancient-talisman",
+            "fishing-village",
+            "martial-arts-tournament"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Karate Kid is a lighthearted, action-adventure series that follows a student and his mentor on a global quest, exploring themes of friendship, responsibility, and cultural understanding through a serialized story set in diverse locations."
+      },
+      "duration_seconds": 75.54872846603394
+    }
+  }
+}

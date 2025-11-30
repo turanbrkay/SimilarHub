@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "LEGO Friends: The Power of Friendship",
+    "overview": null,
+    "genres": [
+      "Animation",
+      "Kids",
+      "Family"
+    ],
+    "release_year": 2016,
+    "vote_count": 111
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "LEGO Friends: The Power of Friendship is a vibrant, animated series geared towards a young audience, emphasizing themes of friendship, teamwork, and problem-solving. The show follows a group of five friends living in the town of Heartlake City, where they embark on adventures and learn valuable life lessons. With its colorful visuals and positive messaging, the series aims to entertain and inspire young viewers to embrace creativity and collaboration. The show's episodic nature allows for a wide range of stories and characters, fostering a sense of community and shared experiences.",
+        "spoiler_rich_plot_summary": "The series begins with the introduction of five distinct girls – Olivia, Emma, Stephanie, Andrea, and Mia – each with unique interests and skills. They initially struggle to find common ground but gradually learn to appreciate each other's differences and work together. Throughout the series, they face various challenges, from organizing community events to rescuing animals and exploring new environments. Each girl confronts personal growth moments, learning to overcome insecurities and embrace their strengths. The overarching narrative revolves around the importance of friendship and the power of working together to achieve common goals, with recurring themes of kindness, empathy, and environmental responsibility. While individual episodes often feature self-contained adventures, the girls' bond deepens over time, solidifying their status as a close-knit group and demonstrating the enduring value of friendship.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "teamwork",
+            "problem-solving",
+            "kindness",
+            "empathy",
+            "environmental-responsibility",
+            "self-discovery"
+          ],
+          "plot_and_concepts": [
+            "rescue-missions",
+            "community-events",
+            "animal-care",
+            "exploration",
+            "adventure"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "optimistic",
+            "playful",
+            "lighthearted"
+          ],
+          "genre_and_tropes": [
+            "kids-animation",
+            "found-family",
+            "slice-of-life"
+          ],
+          "setting": [
+            "heartlake-city",
+            "modern-day",
+            "fictional-town"
+          ],
+          "character_archetypes": [
+            "optimistic-heroine",
+            "creative-artist",
+            "animal-lover",
+            "resourceful-inventor",
+            "caring-friend"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "lego-construction",
+            "animal-shelter",
+            "community-garden",
+            "heartlake-city-hall"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "LEGO Friends: The Power of Friendship is a lighthearted, animated series for young children, celebrating the importance of friendship, teamwork, and community through episodic adventures in the vibrant town of Heartlake City."
+      },
+      "duration_seconds": 61.97813534736633
+    }
+  }
+}

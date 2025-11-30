@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "Welcome to Sweden",
+    "overview": "The fish-out-of-water story of New York accountant Bruce, who falls in love with a Swedish girl named Emma and follows her to Sweden.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2014,
+    "vote_count": 34
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Welcome to Sweden is a comedic fish-out-of-water series centered on an American accountant, Bruce, who relocates to Sweden to be with his girlfriend. The show explores the cultural clashes and humorous misunderstandings that arise as Bruce navigates a new environment and attempts to integrate into Swedish society. It blends observational humor with a lighthearted romantic storyline, offering a gentle and optimistic portrayal of cross-cultural relationships and the challenges of adapting to unfamiliar customs. The series aims to entertain through relatable situations and quirky characters, showcasing the charm and peculiarities of Swedish culture from an outsider's perspective.",
+        "spoiler_rich_plot_summary": "The series begins with Bruce, a successful but somewhat socially awkward accountant from New York, falling for Emma, a Swedish woman he meets on a business trip. Driven by his affection for her, Bruce impulsively decides to move to Sweden, leaving behind his established life in the United States. Upon arrival, he encounters a vastly different culture, characterized by a more reserved and egalitarian social structure. Bruce's attempts to assimilate often lead to comedic misunderstandings and awkward situations, as he struggles to grasp Swedish customs and social cues. He integrates into Emma’s family, a quirky and eccentric group, and attempts to find work, facing challenges and humorous setbacks along the way. Throughout the series, Bruce’s journey involves learning to appreciate the nuances of Swedish culture, building relationships with his new community, and navigating the complexities of a long-distance relationship that has now become a cross-cultural one. While he experiences moments of frustration and cultural disorientation, Bruce ultimately finds a sense of belonging and personal growth in his new home.",
+        "categorized_keywords": {
+          "themes": [
+            "cultural-clash",
+            "fish-out-of-water",
+            "romantic-comedy",
+            "adaptation",
+            "family-relationships",
+            "identity-discovery"
+          ],
+          "plot_and_concepts": [
+            "fish-out-of-water-story",
+            "relocation",
+            "cultural-integration",
+            "romantic-pursuit"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "humorous",
+            "optimistic",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "romantic-comedy",
+            "fish-out-of-water",
+            "sitcom"
+          ],
+          "setting": [
+            "sweden",
+            "new-york-city",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "fish-out-of-water",
+            "romantic-lead",
+            "eccentric-family"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "swedish-family",
+            "new-york-apartment",
+            "cultural-misunderstanding"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Welcome to Sweden is a lighthearted romantic comedy that follows an American man’s humorous journey of cultural adaptation and family relationships as he navigates a new life in Sweden."
+      },
+      "duration_seconds": 58.11935329437256
+    }
+  }
+}

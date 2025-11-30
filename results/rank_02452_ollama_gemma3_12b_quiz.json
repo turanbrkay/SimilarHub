@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Quiz",
+    "overview": "The story of Charles Ingram, a former British army major who caused a major scandal in the early 2000s after being caught cheating his way to winning £1 million on the game show Who Wants To Be A Millionaire? Ingram, his wife Diana and an accomplice, Tecwen Whittock, who was sitting in the audience, initially pulled off the on-screen heist before being caught and standing trial.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2020,
+    "vote_count": 68
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Quiz is a limited series dramatization of a real-life scandal surrounding a contestant's attempt to cheat on the popular game show, Who Wants To Be A Millionaire?. The series explores themes of ambition, desperation, and the lengths people will go to achieve success, while also examining the media frenzy and public perception that followed the controversy. Told through a non-linear narrative structure, the series presents multiple perspectives on the events, blurring the lines between truth and deception and prompting viewers to question the reliability of appearances. The series maintains a tense and suspenseful atmosphere, driven by the constant threat of exposure and the psychological pressure on the characters involved.",
+        "spoiler_rich_plot_summary": "The series begins by introducing Charles Ingram, a former army major struggling to find his place after leaving the military. Driven by a desire to provide for his family, he participates in the British version of Who Wants To Be A Millionaire?. Initially, his performance is unremarkable, but he soon progresses through the questions with surprising accuracy. Unbeknownst to the audience and the show's producers, Ingram is aided by Tecwen Whittock, a fellow contestant who signals the answers using a cough code. His wife, Diana, is also involved, relaying the signals from outside the studio. The scheme appears successful until a member of the production team, Chris Tarrant, notices irregularities and alerts his superiors. An investigation is launched, leading to a highly publicized trial where Ingram, his wife, and Whittock are accused of conspiracy to defraud. The trial exposes the complexities of the case, revealing conflicting testimonies and raising questions about the integrity of the game show and the media's portrayal of the events. Ultimately, Ingram and his accomplices are found guilty, but the series leaves the audience questioning the fairness of the verdict and the true nature of the scandal.",
+        "categorized_keywords": {
+          "themes": [
+            "ambition",
+            "deception",
+            "scandal",
+            "media-frenzy",
+            "social-class",
+            "justice",
+            "public-perception"
+          ],
+          "plot_and_concepts": [
+            "game-show",
+            "conspiracy",
+            "courtroom-drama",
+            "true-crime",
+            "heist"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "tense",
+            "satirical",
+            "darkly-comic"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "legal-thriller",
+            "based-on-true-story"
+          ],
+          "setting": [
+            "modern-day",
+            "britain",
+            "television-studio"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "desperate-man",
+            "opportunist",
+            "moral-grey-protagonist"
+          ],
+          "narrative_style": [
+            "non-linear-timeline",
+            "multiple-perspectives",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "game-show-set",
+            "cough-code",
+            "courtroom-scene",
+            "television-studio-lights"
+          ],
+          "maturity_and_content": [
+            "legal-proceedings",
+            "social-shame"
+          ]
+        },
+        "keyword_sentence": "Quiz is a suspenseful crime drama exploring themes of ambition and deception within the context of a real-life game show scandal, presented through a non-linear narrative and multiple perspectives."
+      },
+      "duration_seconds": 75.01148676872253
+    }
+  }
+}

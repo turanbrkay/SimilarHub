@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "One Strange Rock",
+    "overview": "A mind-bending, thrilling journey exploring the fragility and wonder of planet Earth, one of the most peculiar, unique places in the entire universe, brought to life by the only people to have left it behind – the world’s most well known and leading astronauts.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2018,
+    "vote_count": 63
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "One Strange Rock is a documentary series that offers a unique perspective on Earth, narrated and showcased through the eyes of astronauts who have experienced it from space. The series blends stunning visuals of our planet with personal anecdotes and scientific explanations, emphasizing the interconnectedness of Earth's systems and the precariousness of its existence. It aims to inspire awe and a sense of responsibility towards our planet, highlighting its extraordinary nature within the vastness of the cosmos. The series combines scientific rigor with emotional storytelling, creating a compelling and thought-provoking exploration of our home.",
+        "spoiler_rich_plot_summary": "The series doesn't follow a traditional narrative arc but rather presents a series of interconnected explorations of Earth's systems and their vulnerabilities. Each episode focuses on a different aspect of the planet, such as volcanoes, oceans, or the atmosphere, revealing how these elements are both essential for life and susceptible to disruption. Astronauts share their firsthand experiences of seeing Earth from space, emphasizing the fragility of the atmosphere and the interconnectedness of all living things. The series underscores the impact of human activity on the planet's environment, prompting reflection on the need for sustainable practices and a renewed appreciation for the delicate balance that sustains life on Earth. While not a plot-driven narrative, the cumulative effect is a powerful argument for planetary stewardship and a deeper understanding of our place in the universe.",
+        "categorized_keywords": {
+          "themes": [
+            "planetary-stewardship",
+            "environmental-awareness",
+            "interconnectedness",
+            "fragility",
+            "awe",
+            "exploration"
+          ],
+          "plot_and_concepts": [
+            "documentary-series",
+            "planetary-science",
+            "astronautical-perspective",
+            "environmental-impact"
+          ],
+          "mood_and_tone": [
+            "inspiring",
+            "thought-provoking",
+            "awe-inspiring",
+            "reflective"
+          ],
+          "genre_and_tropes": [
+            "science-documentary",
+            "nature-documentary",
+            "space-exploration"
+          ],
+          "setting": [
+            "earth",
+            "space",
+            "atmosphere",
+            "oceans",
+            "volcanoes"
+          ],
+          "character_archetypes": [
+            "astronaut",
+            "scientist",
+            "explorer"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-exploration"
+          ],
+          "target_audience": [
+            "general-audience",
+            "science-enthusiasts"
+          ],
+          "detail_plot": [
+            "earth-from-space",
+            "satellite-imagery",
+            "volcanic-eruption",
+            "ocean-currents",
+            "atmospheric-layer"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "One Strange Rock is an inspiring science documentary series that explores the fragility and interconnectedness of Earth’s systems through the eyes of astronauts, fostering a sense of awe and environmental awareness about our planet’s place in the vastness of space."
+      },
+      "duration_seconds": 61.32545208930969
+    }
+  }
+}

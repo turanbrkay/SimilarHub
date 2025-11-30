@@ -1,0 +1,85 @@
+{
+  "input_data": {
+    "title": "ThunderCats",
+    "overview": "The ThunderCats are on the move! After the kingdom of Thundera is attacked by the lizard people, Lion-O leads Tygra, Cheetara and the other heroes on a quest for the Book of Omens and the magic stones of legend. But he'll have to face villains like Mumm-Ra, the ancient evil sorceror, and Slithe, the dangerous lizard general. Luckily, he has the Sword of Omens and its amazing powers at his disposal.",
+    "genres": [
+      "Animation",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "release_year": 2011,
+    "vote_count": 196
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "ThunderCats is a reboot of the classic animated series, blending science fiction and fantasy elements with action-adventure storytelling. The series follows a group of feline humanoids as they flee their destroyed homeworld and search for a new place to call home, facing numerous challenges and formidable adversaries along the way. It explores themes of leadership, responsibility, and the struggle against overwhelming evil, appealing to a family audience with its vibrant animation and heroic narrative.",
+        "spoiler_rich_plot_summary": "Following the destruction of Thundera, Lion-O, the young heir to the throne, leads his fellow ThunderCats – Tygra, Cheetara, WilyKit, and WilyKat – on a perilous journey across the galaxy. They eventually land on Third Earth, a planet teeming with strange creatures and ruled by the oppressive Mutants, led by the cunning and powerful Slithe. The ThunderCats quickly discover that Third Earth is also haunted by the ancient evil of Mumm-Ra, who seeks to claim the Eye of Thundera and conquer the planet. Throughout their time on Third Earth, the ThunderCats encounter various allies and enemies, engaging in numerous battles and uncovering secrets about the planet's history and Mumm-Ra's origins. Lion-O matures into a capable leader, mastering the Sword of Omens and confronting his own limitations while battling to protect Third Earth and its inhabitants. The series culminates in a final confrontation with Mumm-Ra, where the fate of Third Earth hangs in the balance, testing the ThunderCats' courage and resolve.",
+        "categorized_keywords": {
+          "themes": [
+            "leadership",
+            "responsibility",
+            "good-vs-evil",
+            "exile",
+            "found-family",
+            "coming-of-age"
+          ],
+          "plot_and_concepts": [
+            "ancient-prophecy",
+            "sword-and-sorcery",
+            "intergalactic-travel",
+            "monster-of-the-week",
+            "artifact-quest"
+          ],
+          "mood_and_tone": [
+            "heroic",
+            "adventurous",
+            "action-packed",
+            "somber",
+            "hopeful"
+          ],
+          "genre_and_tropes": [
+            "sci-fi-fantasy",
+            "superhero-action",
+            "chosen-one",
+            "ancient-evil",
+            "inter-species-conflict"
+          ],
+          "setting": [
+            "third-earth",
+            "intergalactic",
+            "fantasy-world",
+            "alien-planet"
+          ],
+          "character_archetypes": [
+            "young-hero",
+            "wise-mentor",
+            "villainous-sorcerer",
+            "loyal-companion",
+            "rebellious-sibling"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "quest-narrative"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "sword-of-omens",
+            "eye-of-thundera",
+            "mutant-army",
+            "mumm-ra-staff",
+            "thunder-collar"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "ThunderCats is a heroic sci-fi fantasy series about a young leader and his companions who journey across the galaxy to find a new home while battling an ancient evil and embracing a found-family dynamic."
+      },
+      "duration_seconds": 68.67090010643005
+    }
+  }
+}

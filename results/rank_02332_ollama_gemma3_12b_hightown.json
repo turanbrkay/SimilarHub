@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Hightown",
+    "overview": "Amid the drug trade on Cape Cod, a body washes ashore and is discovered by an irreverent National Marine Fisheries Service officer, Jackie Quinones, who is determined to help solve the murder even if the state cops want her nowhere near the case.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "release_year": 2020,
+    "vote_count": 75
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Hightown is a crime drama series set against the backdrop of Cape Cod, Massachusetts, exploring the dark underbelly of a seemingly idyllic coastal community. The series follows a troubled fisheries officer who becomes entangled in a murder investigation, uncovering a complex web of drug trafficking, corruption, and personal struggles. With a gritty and atmospheric tone, Hightown delves into themes of addiction, trauma, and the search for redemption, offering a suspenseful and character-driven narrative.",
+        "spoiler_rich_plot_summary": "The series begins with Jackie Quinones, a recovering addict working for the National Marine Fisheries Service, discovering a body washed ashore. Her involvement in the investigation, despite resistance from the state police, quickly exposes her to the pervasive drug trade plaguing Cape Cod. As Jackie digs deeper, she uncovers connections between the victim and powerful figures within the community, including local politicians and business owners. The investigation becomes increasingly personal as Jackie confronts her own demons and past traumas, blurring the lines between her role as an investigator and her own struggles with addiction. Throughout the series, a larger conspiracy emerges, revealing the extent of the drug network and the lengths to which those involved will go to protect their operations. The series explores the ripple effects of the drug trade on the community, impacting families and individuals across different social strata. While initially focused on the murder investigation, the narrative expands to encompass a broader examination of the systemic issues contributing to the crisis, culminating in a confrontation with the forces behind the criminal enterprise.",
+        "categorized_keywords": {
+          "themes": [
+            "crime",
+            "addiction",
+            "redemption",
+            "corruption",
+            "trauma",
+            "social-inequality",
+            "small-town-secrets"
+          ],
+          "plot_and_concepts": [
+            "murder-investigation",
+            "drug-trade",
+            "conspiracy",
+            "police-procedural",
+            "small-town-crime"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "atmospheric",
+            "suspenseful",
+            "dark",
+            "noir"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "police-procedural",
+            "noir",
+            "small-town-mystery"
+          ],
+          "setting": [
+            "cape-cod",
+            "massachusetts",
+            "coastal-town",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "troubled-protagonist",
+            "recovering-addict",
+            "corrupt-official",
+            "reluctant-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "washed-ashore-body",
+            "fisheries-service",
+            "coastal-community",
+            "drug-network"
+          ],
+          "maturity_and_content": [
+            "substance-abuse",
+            "graphic-violence"
+          ]
+        },
+        "keyword_sentence": "Hightown is a gritty crime drama set in a coastal Massachusetts community, exploring themes of addiction, corruption, and redemption through a suspenseful murder investigation."
+      },
+      "duration_seconds": 63.97393751144409
+    }
+  }
+}

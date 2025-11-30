@@ -1,0 +1,101 @@
+{
+  "input_data": {
+    "title": "13 Reasons Why",
+    "overview": "After a teenage girl's perplexing suicide, a classmate receives a series of tapes that unravel the mystery of her tragic choice.",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2017,
+    "vote_count": 3827
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "13 Reasons Why is a stark, emotionally charged drama that follows the ripple effects of a teenage girl's suicide, revealed through a series of cassette tapes she leaves behind. The series confronts heavy themes such as bullying, sexual assault, and mental health, weaving a narrative that is both intimate and unsettling. Its tone is relentlessly dark and unflinching, offering a raw look at the hidden struggles of adolescence in a modern American high school. Through a serialized, non‑linear structure, the show forces viewers to grapple with the consequences of silence and the power of accountability.",
+        "spoiler_rich_plot_summary": "The series opens with Hannah Baker’s suicide, after which her classmate Clay Jensen receives a set of tapes that detail the events and people that led to her death. Each episode follows a tape, revealing a chain of abuse, betrayal, and neglect involving classmates, teachers, and family members, including Cassie Sweet’s sexual assault, Justin Foley’s bullying, and Mr. Porter’s exploitation. As the narrative unfolds, the school’s administration, law enforcement, and the community confront the systemic failures that allowed the tragedies to persist. In the final season, the tapes are revealed to be part of a larger investigation into Hannah’s death, culminating in a public acknowledgment of the suicide and a call for mental‑health resources; the series concludes with the characters reflecting on their roles and the ongoing impact of Hannah’s legacy.",
+        "categorized_keywords": {
+          "themes": [
+            "mental-health",
+            "bullying",
+            "sexual-assault",
+            "self-harm",
+            "trauma",
+            "guilt",
+            "consequence",
+            "social-media",
+            "peer-pressure",
+            "sexuality"
+          ],
+          "plot_and_concepts": [
+            "tapes",
+            "audio-recordings",
+            "confessional",
+            "reveal-structure",
+            "school-incident",
+            "legal-system",
+            "counselor",
+            "suicide",
+            "victim-blaming",
+            "apology",
+            "court"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "gritty",
+            "intense",
+            "somber",
+            "realistic",
+            "unflinching",
+            "heartbreaking"
+          ],
+          "genre_and_tropes": [
+            "drama",
+            "mystery",
+            "teen-drama",
+            "serialized-story",
+            "non-linear",
+            "audio-archive"
+          ],
+          "setting": [
+            "modern-usa",
+            "high-school",
+            "springfield"
+          ],
+          "character_archetypes": [
+            "victim",
+            "perpetrator",
+            "confidant",
+            "mentor",
+            "supportive-teacher"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "non-linear-timeline",
+            "first-person-narration",
+            "episodic"
+          ],
+          "target_audience": [
+            "mature-audiences",
+            "teenagers",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "hannah-baker",
+            "cassie-sweet",
+            "tapes",
+            "recording-player",
+            "school-cafeteria",
+            "locker-room",
+            "counselor-room",
+            "suicide-note",
+            "text-messages",
+            "social-media-posts"
+          ]
+        },
+        "keyword_sentence": "13 Reasons Why is a dark, gritty teen drama that follows the aftermath of a suicide through a series of tapes, confronting themes of bullying, sexual assault, and mental health in a modern American high school, and is told in a serialized, non‑linear narrative that emphasizes accountability and the consequences of silence."
+      },
+      "duration_seconds": 148.71861457824707
+    }
+  }
+}

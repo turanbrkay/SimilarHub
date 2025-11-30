@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "UFO",
+    "overview": "A secret, high-technology international agency called SHADO defends Earth from alien invaders.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Action & Adventure"
+    ],
+    "release_year": 1970,
+    "vote_count": 32
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "UFO is a British science fiction series that blends suspenseful drama with action-adventure elements. Set in the 1970s, the show follows a clandestine organization, SHADO, dedicated to defending Earth from a technologically superior alien race. The series explores themes of global cooperation, technological advancement, and the psychological toll of constant threat. Its gritty realism and complex characters distinguish it from more fantastical science fiction, creating a tense and engaging viewing experience. The show's innovative special effects and grounded storytelling established a benchmark for science fiction television.",
+        "spoiler_rich_plot_summary": "The series begins with the revelation that Earth is under constant attack by a hostile alien race known as the Platonians, who are destroying star systems to harvest their energy. A secret organization, SHADO (Special Hazard Operations Division), is formed to combat this threat, operating from a hidden base deep beneath a disused aircraft factory. The series follows the dedicated team of SHADO agents as they work to intercept and neutralize the alien spacecraft, often facing devastating losses and near-catastrophic failures. Key characters include John McGrath, the head of SHADO, and Alec Ryder, a skilled pilot and engineer. Throughout the series, the team uncovers more about the Platonian's motives and capabilities, leading to increasingly dangerous confrontations. The series explores the sacrifices made by the SHADO team and the constant pressure of maintaining secrecy while battling an overwhelming enemy. While the Platonians' ultimate goal remains a looming threat, the series focuses on the immediate challenges of defense and the personal struggles of those involved.",
+        "categorized_keywords": {
+          "themes": [
+            "global-cooperation",
+            "technological-advancement",
+            "secrecy",
+            "sacrifice",
+            "alien-invasion",
+            "survival"
+          ],
+          "plot_and_concepts": [
+            "secret-organization",
+            "alien-technology",
+            "underground-base",
+            "military-operation",
+            "espionage"
+          ],
+          "mood_and_tone": [
+            "tense",
+            "suspenseful",
+            "gritty",
+            "serious",
+            "dramatic"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "military-thriller",
+            "espionage-thriller",
+            "found-family"
+          ],
+          "setting": [
+            "1970s",
+            "earth",
+            "underground-facility",
+            "alternate-timeline"
+          ],
+          "character_archetypes": [
+            "military-leader",
+            "skilled-pilot",
+            "engineer",
+            "dedicated-agent"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "underground-base",
+            "alien-spacecraft",
+            "military-uniform",
+            "control-panel"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "UFO is a tense and dramatic science fiction series set in the 1970s, following a secret military organization as they defend Earth from a technologically superior alien invasion."
+      },
+      "duration_seconds": 77.00684690475464
+    }
+  }
+}

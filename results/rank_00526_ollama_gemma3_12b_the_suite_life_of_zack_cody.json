@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "The Suite Life of Zack & Cody",
+    "overview": "Meet Zack and Cody, 11 year-old identical twins and the newest residents of Boston's swanky Tipton Hotel. Living in a suite with their mom Carey, the boys treat the Tipton like their own personal playground.",
+    "genres": [
+      "Comedy",
+      "Family",
+      "Kids"
+    ],
+    "release_year": 2005,
+    "vote_count": 586
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Suite Life of Zack & Cody is a lighthearted, family-friendly sitcom centered on the mischievous adventures of identical twins Zack and Cody, who reside in a luxury hotel. The series blends comedic situations with heartwarming moments as the boys navigate childhood while surrounded by a colorful cast of characters. It explores themes of friendship, family, and responsibility, all wrapped in a visually appealing and whimsical setting. The show's appeal lies in its accessible humor and relatable portrayal of sibling dynamics.",
+        "spoiler_rich_plot_summary": "The series begins with Zack and Cody moving into the Tipton Hotel with their mother, Carey, after her latest relationship ends. They quickly establish themselves as the hotel's resident pranksters, constantly causing chaos and testing the patience of the staff, particularly Mr. Moseby. Throughout the series, the twins encounter a variety of guests and situations, from talent shows and school plays to romantic interests and unexpected challenges. Recurring storylines involve Cody's academic pursuits and desire to be responsible, contrasted with Zack's more carefree and impulsive nature. The twins often find themselves in comical misunderstandings and schemes, learning valuable lessons about friendship, honesty, and the importance of family along the way. While the boys' antics often lead to trouble, their genuine affection for each other and their mother ultimately prevails, reinforcing the importance of family bonds and personal growth.",
+        "categorized_keywords": {
+          "themes": [
+            "family-relationships",
+            "sibling-rivalry",
+            "growing-up",
+            "friendship",
+            "responsibility",
+            "mischief"
+          ],
+          "plot_and_concepts": [
+            "hotel-setting",
+            "coming-of-age",
+            "slapstick-comedy",
+            "prank-culture"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "optimistic",
+            "playful"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "family-comedy",
+            "kids-comedy",
+            "found-family"
+          ],
+          "setting": [
+            "luxury-hotel",
+            "boston-massachusetts",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "mischievous-protagonist",
+            "responsible-sibling",
+            "strict-authority-figure",
+            "single-mother"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "kids"
+          ],
+          "detail_plot": [
+            "hotel-lobby",
+            "swimming-pool",
+            "hotel-suite",
+            "ballroom"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Suite Life of Zack & Cody is a lighthearted family comedy set in a luxury hotel, following the mischievous adventures of twin brothers as they navigate childhood and learn about friendship and responsibility."
+      },
+      "duration_seconds": 80.57648968696594
+    }
+  }
+}

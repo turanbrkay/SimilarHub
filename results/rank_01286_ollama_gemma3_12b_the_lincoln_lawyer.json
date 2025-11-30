@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "The Lincoln Lawyer",
+    "overview": "Sidelined after an accident, hotshot Los Angeles lawyer Mickey Haller restarts his career - and his trademark Lincoln - when he takes on a murder case.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "release_year": 2022,
+    "vote_count": 183
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Lincoln Lawyer is a legal drama series centered on Mickey Haller, a defense attorney who operates out of his Lincoln Town Car. Following a personal setback, Haller returns to practicing law, taking on a high-profile murder case that unravels a complex web of deceit and corruption. The series blends courtroom drama with elements of crime and mystery, exploring themes of redemption, justice, and the moral ambiguities of the legal profession. It offers a character-driven narrative with a focus on Haller's relationships with his family, colleagues, and clients, all set against the backdrop of Los Angeles's legal and criminal underworld.",
+        "spoiler_rich_plot_summary": "The series begins with Mickey Haller, recovering from a car accident and working as a sober coach, unexpectedly offered a murder case that reignites his legal career. He takes on the defense of Luis Carras, a man accused of killing a wealthy smoker. As Haller investigates, he discovers inconsistencies in the prosecution's case and uncovers a conspiracy involving powerful figures. The case becomes increasingly complex, with Haller facing threats and betrayals from unexpected sources. He navigates the intricacies of the legal system, relying on his network of investigators and his sharp legal mind to uncover the truth. Throughout the series, Haller confronts his past mistakes and struggles to balance his professional life with his personal responsibilities, ultimately seeking a path towards redemption while battling the forces aligned against him. The series culminates in a tense courtroom showdown where Haller must use all his skills to secure justice for his client and expose the truth behind the murder.",
+        "categorized_keywords": {
+          "themes": [
+            "redemption",
+            "justice",
+            "moral-ambiguity",
+            "family-dynamics",
+            "corruption",
+            "legal-ethics"
+          ],
+          "plot_and_concepts": [
+            "courtroom-drama",
+            "crime-investigation",
+            "legal-thriller",
+            "conspiracy",
+            "false-accusation"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "gritty",
+            "dark",
+            "procedural"
+          ],
+          "genre_and_tropes": [
+            "legal-drama",
+            "crime-procedural",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "los-angeles",
+            "modern-day",
+            "legal-system"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "reluctant-hero",
+            "morally-gray-protagonist",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "lincoln-town-car",
+            "courtroom",
+            "investigation-room",
+            "legal-briefs"
+          ],
+          "maturity_and_content": [
+            "substance-abuse",
+            "legal-proceedings"
+          ]
+        },
+        "keyword_sentence": "The Lincoln Lawyer is a suspenseful legal drama series set in Los Angeles, exploring themes of redemption and justice through the morally ambiguous journey of a defense attorney navigating a complex web of crime and corruption."
+      },
+      "duration_seconds": 63.39974880218506
+    }
+  }
+}

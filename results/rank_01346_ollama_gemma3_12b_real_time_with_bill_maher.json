@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Real Time with Bill Maher",
+    "overview": "Each week Bill Maher surrounds himself with a panel of guests which include politicians, actors, comedians, musicians and the like to discuss what's going on in the world.",
+    "genres": [
+      "Comedy",
+      "Talk"
+    ],
+    "release_year": 2003,
+    "vote_count": 172
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Real Time with Bill Maher is a weekly talk show featuring political commentary, satirical news, and interviews with a diverse range of guests. The show's format blends topical discussions with comedic monologues and panel segments, offering a perspective on current events often characterized by a liberal viewpoint and sharp wit. Maher's approach frequently challenges conventional wisdom and encourages critical thinking, making it a platform for both insightful analysis and provocative debate. The show's longevity speaks to its ability to remain relevant in a constantly evolving media landscape, consistently engaging audiences with its blend of humor and political discourse.",
+        "spoiler_rich_plot_summary": "The show's structure revolves around a 'New Rule' segment where Maher presents satirical observations on current events, followed by a monologue addressing the week's political and cultural happenings. The core of the show lies in the panel discussion, where Maher engages in debates with guests representing various viewpoints. Recurring themes often involve critiques of political ideologies, media narratives, and societal trends. While there isn's a traditional plot arc, the show's evolution reflects the changing political climate and the ongoing cultural conversations it facilitates. Over the years, the show has featured numerous high-profile guests and tackled a wide range of controversial topics, solidifying its place as a significant voice in contemporary political discourse.",
+        "categorized_keywords": {
+          "themes": [
+            "political-satire",
+            "social-commentary",
+            "liberal-politics",
+            "media-criticism",
+            "cultural-analysis"
+          ],
+          "plot_and_concepts": [
+            "talk-show-format",
+            "panel-discussion",
+            "monologue",
+            "satirical-news"
+          ],
+          "mood_and_tone": [
+            "satirical",
+            "provocative",
+            "witty",
+            "opinionated"
+          ],
+          "genre_and_tropes": [
+            "talk-show",
+            "political-comedy"
+          ],
+          "setting": [
+            "modern-day",
+            "television-studio"
+          ],
+          "character_archetypes": [
+            "political-commentator",
+            "satirist",
+            "panelist"
+          ],
+          "narrative_style": [
+            "episodic",
+            "topical"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "politically-engaged"
+          ],
+          "detail_plot": [
+            "new-rule-segment",
+            "panel-table",
+            "studio-lighting"
+          ],
+          "maturity_and_content": [
+            "strong-language",
+            "political-controversy"
+          ]
+        },
+        "keyword_sentence": "Real Time with Bill Maher offers a satirical and provocative commentary on contemporary politics and culture through a talk-show format, blending sharp wit with opinionated discussions and a focus on topical events."
+      },
+      "duration_seconds": 56.47980856895447
+    }
+  }
+}

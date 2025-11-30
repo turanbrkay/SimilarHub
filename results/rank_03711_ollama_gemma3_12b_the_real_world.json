@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "The Real World",
+    "overview": "Each year, seven strangers in their twenties, from different backgrounds and countries, are chosen to come live together in a major city.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 1992,
+    "vote_count": 32
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Real World is a pioneering reality television series that documents the lives of young adults as they navigate shared living experiences in diverse urban environments. The show's premise revolves around exploring social dynamics, personal growth, and cultural clashes within a confined setting. It's a foundational work in the reality TV genre, known for its unscripted nature and its ability to capture the complexities of human relationships and societal issues. The series offers a glimpse into the lives of a generation, often sparking conversations about identity, acceptance, and the challenges of adulthood.",
+        "spoiler_rich_plot_summary": "The initial season of The Real World places seven strangers in New York City, where they must quickly adapt to living together and forming a community. Early episodes focus on the awkwardness of shared living, the exploration of individual personalities, and the development of interpersonal relationships. As the season progresses, conflicts arise from differing viewpoints, romantic interests, and personal struggles. The participants confront issues of cultural identity, career aspirations, and the challenges of forging a life in a new city. Throughout the series, subsequent seasons introduce new casts and locations, each bringing unique dynamics and storylines. The show often features participants grappling with personal growth, career changes, and the complexities of navigating relationships while under constant observation. While the format remains consistent, each season presents a fresh set of characters and situations, ensuring a continuous stream of social experimentation and human drama.",
+        "categorized_keywords": {
+          "themes": [
+            "social-experiment",
+            "identity-exploration",
+            "interpersonal-relationships",
+            "cultural-diversity",
+            "personal-growth",
+            "coming-of-age"
+          ],
+          "plot_and_concepts": [
+            "shared-living",
+            "reality-tv",
+            "social-dynamics",
+            "unscripted-drama"
+          ],
+          "mood_and_tone": [
+            "candid",
+            "observational",
+            "sometimes-awkward",
+            "reflective"
+          ],
+          "genre_and_tropes": [
+            "reality-television",
+            "found-family",
+            "slice-of-life"
+          ],
+          "setting": [
+            "urban-environment",
+            "major-city",
+            "shared-house"
+          ],
+          "character_archetypes": [
+            "young-adults",
+            "diverse-backgrounds"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "observational-documentary"
+          ],
+          "target_audience": [
+            "young-adults",
+            "general-audience"
+          ],
+          "detail_plot": [
+            "shared-kitchen",
+            "living-room",
+            "city-apartment"
+          ],
+          "maturity_and_content": [
+            "social-conflict",
+            "relationship-drama"
+          ]
+        },
+        "keyword_sentence": "The Real World is a pioneering reality television series that explores the social dynamics and personal growth of young adults as they navigate shared living experiences in diverse urban environments."
+      },
+      "duration_seconds": 72.58186316490173
+    }
+  }
+}

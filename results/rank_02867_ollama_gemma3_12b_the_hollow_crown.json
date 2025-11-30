@@ -1,0 +1,92 @@
+{
+  "input_data": {
+    "title": "The Hollow Crown",
+    "overview": "A series of British television films featuring William Shakespeare's History Plays.",
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "release_year": 2012,
+    "vote_count": 52
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Hollow Crown is a series of Shakespeare's history plays adapted for television, offering a visually stunning and dramatically intense exploration of power, ambition, and the tumultuous reigns of English monarchs. The series blends historical drama with political intrigue, showcasing the brutal realities of medieval warfare and the psychological toll of leadership. Through a combination of compelling performances and evocative cinematography, it examines themes of legitimacy, betrayal, and the cyclical nature of history. The series aims to present Shakespeare's complex narratives to a modern audience, emphasizing the enduring relevance of his work.",
+        "spoiler_rich_plot_summary": "The series begins with Richard II, a young and indecisive king whose reign is challenged by powerful nobles. His deposition and subsequent murder by Henry Bolingbroke, who then ascends the throne as Henry IV, mark a pivotal shift in the power dynamics. Henry IV’s reign is plagued by rebellions and the guilt over his actions, leading to his early death and the succession of his son, the Prince Hal. The Prince Hal, initially a carefree and rebellious figure, undergoes a transformation, eventually embracing his responsibilities and becoming King Henry V. Henry V’s reign is dominated by the Hundred Years’ War, culminating in the Battle of Agincourt, a decisive victory for England. The series concludes with Henry V’s death, leaving the future of the English throne uncertain and highlighting the fragility of power and the enduring consequences of political choices.",
+        "categorized_keywords": {
+          "themes": [
+            "power-struggle",
+            "legitimacy",
+            "betrayal",
+            "ambition",
+            "political-intrigue",
+            "warfare",
+            "succession",
+            "fate",
+            "redemption",
+            "historical-consequence"
+          ],
+          "plot_and_concepts": [
+            "historical-drama",
+            "succession-crisis",
+            "royal-court",
+            "political-conspiracy",
+            "war-epic",
+            "deposition",
+            "regicide"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "tragic",
+            "epic",
+            "intense",
+            "melancholy"
+          ],
+          "genre_and_tropes": [
+            "historical-fiction",
+            "royal-drama",
+            "tragedy",
+            "courtly-romance"
+          ],
+          "setting": [
+            "medieval-england",
+            "15th-century",
+            "royal-palace",
+            "battlefield"
+          ],
+          "character_archetypes": [
+            "ruthless-monarch",
+            "ambitious-noble",
+            "reluctant-king",
+            "tragic-hero",
+            "scheming-advisor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "chronological-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "history-buffs",
+            "literature-enthusiasts"
+          ],
+          "detail_plot": [
+            "royal-crown",
+            "battle-standard",
+            "castle-walls",
+            "throne-room",
+            "execution-scene"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "political-deception"
+          ]
+        },
+        "keyword_sentence": "The Hollow Crown presents a somber and epic historical drama, exploring themes of power, betrayal, and legitimacy within the tumultuous reigns of medieval English monarchs."
+      },
+      "duration_seconds": 67.7112627029419
+    }
+  }
+}

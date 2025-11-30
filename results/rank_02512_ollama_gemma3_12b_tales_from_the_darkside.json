@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Tales from the Darkside",
+    "overview": "Tales from the Darkside is an anthology horror TV series created by George A. Romero, each episode was an individual short story that ended with a plot twist. The series' episodes spanned the genres of horror, science fiction, and fantasy, and some episodes featured elements of black comedy or more lighthearted themes.",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1984,
+    "vote_count": 66
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Tales from the Darkside is an anthology horror series that presents standalone stories, each culminating in a surprising twist. Created by George A. Romero, the show blends horror with elements of science fiction, fantasy, and occasional dark comedy. The episodic nature allows for a wide range of tones and themes, exploring the darker aspects of human nature and the unsettling possibilities of the supernatural. Each episode offers a self-contained narrative experience, making it accessible to new viewers while maintaining a consistent atmosphere of suspense and unease. The series' strength lies in its ability to subvert expectations and deliver genuinely unsettling conclusions.",
+        "spoiler_rich_plot_summary": "Tales from the Darkside distinguishes itself through its anthology format, meaning there is no overarching narrative connecting the episodes. Each story presents a new set of characters and a unique premise, often drawing inspiration from classic horror literature and folklore. Stories frequently involve ordinary individuals stumbling upon extraordinary and terrifying circumstances, ranging from cursed objects and malevolent spirits to bizarre scientific experiments and encounters with otherworldly beings. The hallmark of each episode is the unexpected twist ending, which often recontextualizes the events that preceded it, leaving the viewer questioning what they just witnessed. While individual stories may explore themes of morality, greed, or revenge, the series as a whole maintains a playful and often darkly humorous approach to the horror genre, avoiding the grimness of some contemporary series. The lack of a continuing storyline allows for a broad exploration of horror subgenres and narrative styles, ensuring a consistently unpredictable viewing experience.",
+        "categorized_keywords": {
+          "themes": [
+            "horror",
+            "supernatural",
+            "moral-ambiguity",
+            "fate",
+            "dark-humor",
+            "revenge",
+            "greed"
+          ],
+          "plot_and_concepts": [
+            "anthology-series",
+            "plot-twist",
+            "cursed-objects",
+            "malevolent-spirits",
+            "scientific-experiment",
+            "otherworldly-beings"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "darkly-comic",
+            "eerie",
+            "unsettling"
+          ],
+          "genre_and_tropes": [
+            "horror",
+            "science-fiction",
+            "fantasy",
+            "anthology"
+          ],
+          "setting": [
+            "modern-day",
+            "alternate-reality"
+          ],
+          "character_archetypes": [
+            "ordinary-person",
+            "victim"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "standalone-episode"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "cursed-mirror",
+            "haunted-house",
+            "strange-artifact",
+            "shadowy-figure"
+          ],
+          "maturity_and_content": [
+            "mild-violence"
+          ]
+        },
+        "keyword_sentence": "Tales from the Darkside is a suspenseful anthology series blending horror, science fiction, and fantasy with darkly comic tones, presenting standalone episodes filled with unsettling twists and eerie supernatural elements."
+      },
+      "duration_seconds": 57.915688037872314
+    }
+  }
+}

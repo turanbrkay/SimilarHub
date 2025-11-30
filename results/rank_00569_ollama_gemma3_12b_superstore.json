@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Superstore",
+    "overview": "A hilarious workplace comedy about a unique family of employees at a super-sized mega store. From the bright-eyed newbies and the seen-it-all veterans to the clueless summer hires and the in-it-for-life managers, together they hilariously tackle the day-to-day grind of rabid bargain hunters, riot-causing sales and nap-worthy training sessions.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2015,
+    "vote_count": 529
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Superstore is a workplace comedy series that satirizes the retail industry and explores the lives of a diverse group of employees at a big-box store. The show blends humor with surprisingly poignant observations about labor, class, and the complexities of human connection. It offers a lighthearted yet insightful look at the struggles and triumphs of everyday people navigating the challenges of a demanding job and building unexpected bonds with their colleagues. The series balances absurd comedic situations with moments of genuine emotional depth, creating a relatable and entertaining experience for viewers.",
+        "spoiler_rich_plot_summary": "The series begins with the introduction of Amy Sosa, a long-time employee at Cloud 9, and her interactions with the store's eccentric manager, Glenn Sturgis, and his equally quirky staff. Jonah Simms, a recent college graduate, joins the team as a temporary employee, quickly challenging the established order and developing a complicated relationship with Amy. Throughout the seasons, the employees face numerous challenges, including corporate restructuring, unionization efforts, and the impact of changing economic conditions. Relationships evolve, with romantic interests developing and shifting, and the characters confront personal struggles and professional setbacks. The series explores themes of family, loyalty, and the search for meaning in a seemingly mundane environment, culminating in a bittersweet farewell as the store faces closure and the employees embark on new chapters in their lives, forever bound by their shared experiences.",
+        "categorized_keywords": {
+          "themes": [
+            "labor-rights",
+            "corporate-greed",
+            "found-family",
+            "class-struggle",
+            "retail-work",
+            "employee-relationships"
+          ],
+          "plot_and_concepts": [
+            "workplace-comedy",
+            "unionization",
+            "store-closure",
+            "retail-satire",
+            "employee-discount"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "satirical",
+            "quirky",
+            "optimistic",
+            "witty"
+          ],
+          "genre_and_tropes": [
+            "workplace-comedy",
+            "ensemble-cast",
+            "mockumentary",
+            "romantic-comedy"
+          ],
+          "setting": [
+            "big-box-store",
+            "suburban-america",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "eccentric-manager",
+            "idealistic-newbie",
+            "jaded-employee",
+            "reluctant-leader"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "employee-locker-room",
+            "break-room",
+            "customer-service-desk",
+            "seasonal-displays"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Superstore is a lighthearted and satirical workplace comedy series that explores themes of labor rights and found family within the quirky setting of a big-box store in suburban America."
+      },
+      "duration_seconds": 51.854533195495605
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "input_data": {
+    "title": "Scream: The TV Series",
+    "overview": "What starts as a YouTube video going viral, soon leads to problems for the teenagers of Lakewood and serves as the catalyst for a murder that opens up a window to the town's troubled past. Everyone has secrets. Everyone tells lies. Everyone is fair game.",
+    "genres": [
+      "Drama",
+      "Crime",
+      "Mystery"
+    ],
+    "release_year": 2015,
+    "vote_count": 1047
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Scream: The TV Series is a meta-horror drama that revitalizes the slasher genre by exploring the anxieties of online culture and the cyclical nature of violence. The series follows a new group of teenagers in Lakewood as they are terrorized by a masked killer who taunts them with cryptic phone calls and references to the original 'Scream' films. It blends elements of suspense, mystery, and social commentary, examining the ways in which fame, trauma, and obsession can fuel a cycle of fear and brutality. The series maintains a self-aware tone, frequently commenting on horror tropes and the conventions of the slasher genre, while simultaneously delivering genuine scares and a compelling narrative.",
+        "spoiler_rich_plot_summary": "The series begins with the brutal murder of Rachel Lynn, seemingly reigniting a wave of terror in Lakewood. A new Ghostface killer begins targeting a group of teenagers, each connected to Rachel's death and the town's dark history. As the killings escalate, the survivors, including Noah, Olivia, and Tyler, struggle to uncover the killer's identity while confronting their own secrets and traumas. The first season reveals a complex web of relationships and hidden motives, culminating in a shocking reveal of multiple killers working together, driven by a desire to recreate the events of the original murders and expose the town's secrets. Subsequent seasons delve deeper into the legacy of Ghostface, introducing new killers and exploring the psychological impact of violence on the community. The series frequently subverts expectations, playing with audience assumptions and blurring the lines between victim and perpetrator, ultimately demonstrating that the cycle of violence is difficult to break and that everyone carries a burden of guilt and responsibility.",
+        "categorized_keywords": {
+          "themes": [
+            "violence-cycle",
+            "online-culture",
+            "trauma",
+            "guilt",
+            "secrets",
+            "fame",
+            "revenge",
+            "social-anxiety"
+          ],
+          "plot_and_concepts": [
+            "slasher-horror",
+            "meta-narrative",
+            "killer-reveal",
+            "red-herring",
+            "stalking",
+            "mystery-thriller"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "tense",
+            "gothic",
+            "self-aware"
+          ],
+          "genre_and_tropes": [
+            "teen-drama",
+            "horror-thriller",
+            "mystery",
+            "killer-on-the-loose"
+          ],
+          "setting": [
+            "small-town-usa",
+            "modern-day",
+            "suburban-setting"
+          ],
+          "character_archetypes": [
+            "final-girl",
+            "victim",
+            "suspect",
+            "anti-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-mystery"
+          ],
+          "target_audience": [
+            "young-adult",
+            "teen-viewers"
+          ],
+          "detail_plot": [
+            "mask",
+            "phone-call",
+            "killer-voice",
+            "crime-scene",
+            "video-recording"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "perpetrator-glorification",
+            "stalking-themes"
+          ]
+        },
+        "keyword_sentence": "Scream: The TV Series is a suspenseful teen drama that explores the cyclical nature of violence and the anxieties of online culture through a meta-horror narrative set in a small town haunted by a masked killer."
+      },
+      "duration_seconds": 67.6670994758606
+    }
+  }
+}

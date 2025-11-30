@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Rush Hour",
+    "overview": "The series follows Detective Carter, a radical LAPD detective, and Detective Lee, a by-the-book detective from Hong Kong, as they are forced into forming an unlikely partnership",
+    "genres": [
+      "Crime",
+      "Comedy",
+      "Action & Adventure"
+    ],
+    "release_year": 2016,
+    "vote_count": 83
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Rush Hour is a procedural action-comedy series built around the mismatched-partner dynamic, drawing inspiration from the film franchise of the same name. The show blends police investigation with comedic elements, exploring cultural differences and the challenges of teamwork. It offers a lighthearted, action-packed experience with a focus on buddy-cop camaraderie and thrilling crime-solving, appealing to fans of action and comedy genres. The series balances intense action sequences with humorous interactions between the two leads, creating a generally upbeat and entertaining viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Detective James Carter, a brash and unconventional LAPD officer, being forced to partner with Detective Ken Lee, a disciplined and by-the-book Hong Kong detective, as part of a police exchange program. Initially, their contrasting styles and cultural differences lead to constant clashes and misunderstandings, hindering their ability to solve cases effectively. As they navigate complex criminal investigations, ranging from street-level crimes to elaborate conspiracies, they gradually learn to appreciate each other's strengths and develop a grudging respect. Throughout the series, they confront dangerous criminals and uncover hidden agendas within the police department, testing their partnership and pushing them to their limits. While their personal lives remain complex, their bond as partners strengthens, allowing them to overcome increasingly challenging situations and ultimately become a formidable crime-fighting duo. The series concludes with them solidifying their partnership and continuing to tackle crime together, having grown both professionally and personally.",
+        "categorized_keywords": {
+          "themes": [
+            "cultural-clash",
+            "partnership",
+            "redemption",
+            "justice",
+            "friendship",
+            "police-work"
+          ],
+          "plot_and_concepts": [
+            "police-procedural",
+            "buddy-cop",
+            "crime-solving",
+            "undercover-operation",
+            "international-crime"
+          ],
+          "mood_and_tone": [
+            "comedic",
+            "action-packed",
+            "lighthearted",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "action-comedy",
+            "police-drama",
+            "fish-out-of-water",
+            "mismatched-partners"
+          ],
+          "setting": [
+            "los-angeles",
+            "modern-day",
+            "hong-kong"
+          ],
+          "character_archetypes": [
+            "rebellious-detective",
+            "by-the-book-detective",
+            "unlikely-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "police-car-chase",
+            "handcuffs",
+            "crime-scene",
+            "police-station",
+            "hong-kong-skyline"
+          ],
+          "maturity_and_content": [
+            "violence"
+          ]
+        },
+        "keyword_sentence": "Rush Hour is a lighthearted action-comedy series set in Los Angeles and Hong Kong, exploring the challenges and rewards of an unlikely partnership between two detectives from different cultures as they navigate crime-solving and build a lasting friendship."
+      },
+      "duration_seconds": 62.7413763999939
+    }
+  }
+}

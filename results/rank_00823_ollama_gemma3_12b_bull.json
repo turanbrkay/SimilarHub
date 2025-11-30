@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Bull",
+    "overview": "Dr. Jason Bull is the brilliant, brash, and charming founder of a hugely successful trial consulting firm.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2016,
+    "vote_count": 331
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Bull centers on Dr. Jason Bull, a renowned trial consultant who leverages psychology and data analysis to help his clients win their cases. The series blends legal drama with procedural elements, exploring the complexities of human behavior and the ethical considerations of manipulating juries. Bull's firm tackles a wide range of legal battles, from criminal defense to civil litigation, often highlighting the flaws in the justice system and the impact of personal biases. The show's appeal lies in its fast-paced courtroom scenes, intriguing character dynamics, and the exploration of psychological tactics.",
+        "spoiler_rich_plot_summary": "The series begins with Dr. Jason Bull establishing his trial consulting firm, assembling a team of specialists including a behavioral psychologist, a data analyst, and a former detective. Early seasons focus on building the firm's reputation and tackling diverse cases, often involving complex legal and ethical dilemmas. As the firm grows, internal conflicts arise, particularly concerning Bull's methods and his relationships with his team. Recurring storylines involve personal challenges for Bull, including his past trauma and his complicated relationship with his mother. Later seasons introduce rival firms and legal adversaries, escalating the stakes and pushing Bull to confront his own vulnerabilities. While the firm consistently achieves success, the series explores the moral gray areas of manipulating juries and the potential consequences of their actions. The overarching narrative involves Bull's ongoing quest for justice and his attempts to reconcile his personal demons with his professional responsibilities, ultimately shaping the firm's legacy and his own redemption.",
+        "categorized_keywords": {
+          "themes": [
+            "justice-system",
+            "redemption",
+            "ethics",
+            "psychology",
+            "family-dynamics",
+            "personal-responsibility"
+          ],
+          "plot_and_concepts": [
+            "trial-consulting",
+            "legal-drama",
+            "crime-procedural",
+            "jury-manipulation",
+            "criminal-defense"
+          ],
+          "mood_and_tone": [
+            "fast-paced",
+            "intense",
+            "suspenseful",
+            "dramatic"
+          ],
+          "genre_and_tropes": [
+            "legal-thriller",
+            "procedural-drama",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "new-york-city",
+            "courtroom"
+          ],
+          "character_archetypes": [
+            "brilliant-protagonist",
+            "complex-mentor",
+            "skilled-analyst"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "case-of-the-week"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "courtroom-scene",
+            "jury-selection",
+            "psychological-profile",
+            "evidence-analysis"
+          ],
+          "maturity_and_content": [
+            "legal-themes"
+          ]
+        },
+        "keyword_sentence": "Bull is a fast-paced legal drama set in New York City, exploring themes of justice and redemption through the lens of a brilliant trial consultant and his team of specialists."
+      },
+      "duration_seconds": 61.63384771347046
+    }
+  }
+}

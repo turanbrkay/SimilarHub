@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Never Have I Ever",
+    "overview": "After a traumatic year, all an Indian-American teen wants is to go from pariah to popular -- but friends, family and feeling won't make it easy on her.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2020,
+    "vote_count": 1557
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Never Have I Ever is a coming-of-age comedy-drama series that follows Devi Vishwakumar, an Indian-American teenager navigating high school, grief, and the complexities of identity. The show blends humor with heartfelt moments as Devi strives to improve her social standing while dealing with the loss of her father and the pressures of family expectations. It explores themes of cultural identity, mental health, and the search for belonging, offering a relatable and often hilarious portrayal of adolescence.",
+        "spoiler_rich_plot_summary": "The series begins with Devi grappling with the sudden death of her father, a pivotal event that deeply impacts her family and her own sense of self. Determined to shed her 'loser' status, she embarks on a quest for popularity, often making impulsive decisions and clashing with her strict mother and well-meaning but overbearing sister. Throughout the series, Devi's relationships evolve, particularly with her two romantic interests, Paxton Hall-Yoshida and Ben Gross. She experiences the highs and lows of teenage romance, learning valuable lessons about herself and the importance of honesty and vulnerability. As the seasons progress, Devi confronts her grief more directly, seeking therapy and reconnecting with her cultural heritage. The series culminates in Devi finding a greater sense of self-acceptance and a deeper appreciation for her family and friends, while also acknowledging the ongoing challenges of navigating adolescence and personal growth.",
+        "categorized_keywords": {
+          "themes": [
+            "grief",
+            "identity-quest",
+            "family-dynamics",
+            "cultural-identity",
+            "mental-health",
+            "self-acceptance",
+            "first-love"
+          ],
+          "plot_and_concepts": [
+            "coming-of-age",
+            "teen-romance",
+            "high-school-drama",
+            "therapy"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "emotional"
+          ],
+          "genre_and_tropes": [
+            "teen-drama",
+            "romantic-comedy",
+            "found-family"
+          ],
+          "setting": [
+            "modern-day",
+            "california"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "overprotective-mother",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "high-school-dance",
+            "therapy-session",
+            "indian-wedding",
+            "school-locker"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Never Have I Ever is a lighthearted and emotional teen drama that explores themes of grief, identity, and family dynamics as a young Indian-American girl navigates high school and searches for self-acceptance."
+      },
+      "duration_seconds": 56.90021371841431
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "Clarence",
+    "overview": "In a world of noise, Clarence is a jar of sunshine, pure and simple. He sees the world only in his favorite colors: goofy grape and neon green. Clarence values his friends Jeff and Sumo and his mother Mary more than gold. No matter what happens, good or bad, nothing brings Clarence down.",
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "release_year": 2014,
+    "vote_count": 198
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Clarence is a whimsical animated comedy series centered around a relentlessly optimistic and quirky young boy and his friends. The show explores the everyday adventures and simple joys of childhood, emphasizing themes of friendship, acceptance, and embracing individuality. With a distinctive visual style and a focus on character-driven humor, Clarence offers a lighthearted and heartwarming viewing experience, celebrating the beauty of the mundane and the power of positive perspective.",
+        "spoiler_rich_plot_summary": "The series follows Clarence, Jeff, and Sumo as they navigate the challenges and triumphs of elementary school and suburban life. Each episode typically revolves around a specific event or situation, such as a school project, a neighborhood adventure, or a personal dilemma. While the show largely avoids overarching plotlines, recurring themes involve Clarence's attempts to connect with others, his sometimes-misguided efforts to help his friends, and the everyday struggles of growing up. The series maintains a consistently optimistic tone, with conflicts usually resolved through understanding and acceptance. While the characters face minor setbacks and misunderstandings, the overall narrative arc emphasizes the enduring power of friendship and the importance of maintaining a positive outlook, culminating in a sense of contentment and shared experiences.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "optimism",
+            "acceptance",
+            "individuality",
+            "childhood",
+            "family-love"
+          ],
+          "plot_and_concepts": [
+            "slice-of-life",
+            "coming-of-age",
+            "everyday-adventures"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "lighthearted",
+            "quirky",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "animation-comedy",
+            "found-family",
+            "slice-of-life-comedy"
+          ],
+          "setting": [
+            "suburban-life",
+            "elementary-school",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "optimistic-protagonist",
+            "loyal-friend",
+            "quirky-character"
+          ],
+          "narrative_style": [
+            "episodic-storytelling"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "elementary-school",
+            "suburban-neighborhood",
+            "colorful-animation"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Clarence is a lighthearted and colorful animated comedy series that celebrates the joys of childhood friendship and the importance of maintaining an optimistic perspective on everyday adventures."
+      },
+      "duration_seconds": 53.35708665847778
+    }
+  }
+}

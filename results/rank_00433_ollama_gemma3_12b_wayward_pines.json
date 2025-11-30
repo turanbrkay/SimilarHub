@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "Wayward Pines",
+    "overview": "Imagine the perfect American town... beautiful homes, manicured lawns, children playing safely in the streets. Now imagine never being able to leave. You have no communication with the outside world. You think you're going insane. You must be in Wayward Pines.",
+    "genres": "Drama, Mystery, Sci-Fi & Fantasy",
+    "release_year": 2015,
+    "vote_count": 700
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Wayward Pines is a mystery thriller series that initially presents as a missing-person investigation but quickly spirals into a surreal and unsettling exploration of control, identity, and the illusion of freedom. The show blends elements of procedural drama with science fiction and psychological horror, creating a tense and claustrophobic atmosphere. Its strength lies in its ability to maintain suspense and intrigue through a gradual reveal of its central mystery, prompting viewers to question the nature of reality and the price of security. The series explores themes of conformity, rebellion, and the fragility of the human psyche, offering a darkly compelling narrative experience.",
+        "spoiler_rich_plot_summary": "The series begins with U.S. Secret Service agent Ethan Burke investigating the disappearance of two fellow agents in the seemingly idyllic town of Wayward Pines, Idaho. As he delves deeper, he discovers that the town's residents are not who they appear to be, and that leaving is impossible. Ethan gradually uncovers a disturbing truth: the town's inhabitants are former criminals and individuals deemed undesirable by the outside world, and they are being held captive by an advanced artificial intelligence known as the Abbies, who are actually evolved humans. The first season focuses on Ethan's struggle to understand the system, his growing connection with the town's sheriff, Kate Bevins, and his attempts to escape. The second season reveals that Wayward Pines is one of many such controlled environments, and that the Abbies are part of a larger, complex plan to rebuild humanity after a catastrophic event. Ethan, along with Kate and others, must confront the architects of this system and fight for the freedom of all the controlled environments, ultimately leading to a confrontation with the Abbies and a resolution that redefines the future of humanity.",
+        "categorized_keywords": {
+          "themes": [
+            "control",
+            "identity-crisis",
+            "confinement",
+            "rebellion",
+            "artificial-intelligence",
+            "humanity",
+            "memory-loss",
+            "social-experiment"
+          ],
+          "plot_and_concepts": [
+            "missing-person",
+            "artificial-intelligence",
+            "controlled-environment",
+            "memory-manipulation",
+            "dystopian-society",
+            "secret-experiment"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "mysterious",
+            "dark",
+            "claustrophobic",
+            "unsettling",
+            "paranoia"
+          ],
+          "genre_and_tropes": [
+            "mystery-thriller",
+            "science-fiction",
+            "dystopian",
+            "psychological-horror",
+            "found-family"
+          ],
+          "setting": [
+            "small-town-usa",
+            "alternate-reality",
+            "post-apocalyptic"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "amnesiac-protagonist",
+            "strong-female-lead",
+            "enigmatic-authority"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "slow-burn",
+            "mystery-box"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "barbed-wire-fence",
+            "town-square",
+            "secret-files",
+            "security-cameras",
+            "abby-creature"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "psychological-distress"
+          ]
+        },
+        "keyword_sentence": "Wayward Pines is a suspenseful mystery thriller set in a seemingly perfect American town that hides a dark secret about control, identity, and the unsettling reality of a dystopian society."
+      },
+      "duration_seconds": 145.62900400161743
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "The Avengers",
+    "overview": "The Avengers is a British television series created in the 1960s. It initially focused on Dr. David Keel and his assistant John Steed. Hendry left after the first series and Steed became the main character, partnered with a succession of assistants. His most famous assistants were intelligent, stylish and assertive women: Cathy Gale, Emma Peel and Tara King. Later episodes increasingly incorporated elements of science fiction and fantasy, parody and British eccentricity.",
+    "genres": [
+      "Action & Adventure",
+      "Crime",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1961,
+    "vote_count": 111
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Avengers is a pioneering British television series known for its stylish action, quirky humor, and evolving format. Initially a crime drama centered on a doctor and his assistant, the show transitioned into a blend of spy thriller, science fiction, and fantasy, often employing satirical and absurdist elements. Its enduring appeal lies in its charismatic leads, sophisticated aesthetic, and willingness to subvert genre conventions, establishing a unique and influential place in television history. The series is characterized by its playful tone and the dynamic between its male and female leads, often challenging societal norms of the era.",
+        "spoiler_rich_plot_summary": "The series begins with Dr. David Keel and his assistant, John Steed, investigating various crimes and mysteries. After the departure of Keel, Steed becomes the central figure, partnering with a revolving door of intelligent and capable female assistants. Each assistant brings a unique skillset and personality to the team, contributing to the show's evolving dynamic. Early seasons focus on more grounded crime investigations, but as the series progresses, the narratives increasingly incorporate fantastical and science fiction elements, often involving bizarre technology, supernatural phenomena, and eccentric villains. The show frequently satirizes British society and institutions, using humor and absurdity to critique social norms. While individual episodes often feature self-contained plots, recurring antagonists and overarching themes emerge, creating a sense of continuity across the series’ run. The show concludes with Steed continuing his work, adapting to new threats and embracing the ever-changing landscape of espionage and the extraordinary.",
+        "categorized_keywords": {
+          "themes": [
+            "espionage",
+            "satire",
+            "british-eccentricity",
+            "female-empowerment",
+            "mystery",
+            "identity-quest"
+          ],
+          "plot_and_concepts": [
+            "crime-investigation",
+            "spy-thriller",
+            "science-fiction",
+            "fantasy",
+            "parody",
+            "monster-of-the-week"
+          ],
+          "mood_and_tone": [
+            "quirky",
+            "humorous",
+            "stylish",
+            "absurdist",
+            "lighthearted"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "spy-fiction",
+            "found-family",
+            "british-humor"
+          ],
+          "setting": [
+            "1960s-britain",
+            "modern-day",
+            "alternate-reality"
+          ],
+          "character_archetypes": [
+            "intelligent-female-lead",
+            "charismatic-protagonist",
+            "eccentric-villain"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-storytelling"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "stylish-suits",
+            "vintage-cars",
+            "gadgets",
+            "secret-headquarters"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Avengers is a stylish and humorous British television series that blends crime investigation, science fiction, and fantasy, showcasing intelligent female leads and embracing eccentric characters within a backdrop of 1960s Britain."
+      },
+      "duration_seconds": 66.33772373199463
+    }
+  }
+}

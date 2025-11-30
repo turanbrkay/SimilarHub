@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Florida Man",
+    "overview": "A disgraced cop in debt is forced to return to his home state of Florida for a shady mission only to get swept up in a wild — and deadly — treasure hunt.",
+    "genres": [
+      "Mystery",
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2023,
+    "vote_count": 61
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Florida Man is a darkly comedic crime drama that blends elements of mystery and action. The series follows a troubled protagonist forced to confront his past and navigate the bizarre realities of Florida's criminal underworld. The show explores themes of redemption, desperation, and the absurdity of modern life, offering a cynical yet entertaining look at a unique corner of American culture. It balances a serious narrative with moments of unexpected humor, creating a distinctive and engaging viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Mike Elias, a former New York City police officer struggling with debt and a tarnished reputation. He's approached by a mysterious benefactor who offers him a chance to clear his debts and regain his standing by undertaking a seemingly simple retrieval mission in Florida. However, the mission quickly spirals into a complex treasure hunt involving stolen artifacts, eccentric locals, and dangerous adversaries. As Mike delves deeper, he uncovers a web of corruption and conspiracy that reaches far beyond what he initially anticipated. He forms uneasy alliances with a colorful cast of characters, some of whom he can't fully trust. The search for the treasure leads him across various Florida locales, revealing the state's unique blend of beauty and chaos. Mike confronts his past mistakes and must make difficult choices that will determine his future and the fate of those around him. The pursuit of the treasure ultimately forces him to question his own morality and the true cost of redemption.",
+        "categorized_keywords": {
+          "themes": [
+            "redemption",
+            "corruption",
+            "desperation",
+            "past-mistakes",
+            "moral-ambiguity",
+            "treasure-hunt"
+          ],
+          "plot_and_concepts": [
+            "crime-drama",
+            "mystery",
+            "treasure-hunt",
+            "conspiracy",
+            "undercover-operation"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "cynical",
+            "absurdist",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "fish-out-of-water",
+            "underdog-story"
+          ],
+          "setting": [
+            "florida",
+            "modern-day",
+            "coastal-towns"
+          ],
+          "character_archetypes": [
+            "troubled-protagonist",
+            "underdog",
+            "enigmatic-benefactor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "treasure-map",
+            "coastal-town",
+            "police-investigation",
+            "undercover-operation"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "Florida Man is a darkly comedic crime drama set in the modern-day Florida landscape, exploring themes of redemption and corruption through the eyes of a troubled protagonist caught in a suspenseful treasure hunt."
+      },
+      "duration_seconds": 61.02466440200806
+    }
+  }
+}

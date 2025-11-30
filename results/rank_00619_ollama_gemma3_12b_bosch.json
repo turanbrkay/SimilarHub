@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "Bosch",
+    "overview": "Based on Michael Connelly's best-selling novels, these are the stories of relentless LAPD homicide Detective Harry Bosch who pursues justice at all costs. But behind his tireless momentum is a man who is haunted by his past and struggles to remain loyal to his personal code: “Everybody counts or nobody counts.”",
+    "genres": [
+      "Mystery",
+      "Drama",
+      "Crime"
+    ],
+    "release_year": 2015,
+    "vote_count": 462
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Bosch is a gritty crime drama series centered on a relentless Los Angeles Police Department homicide detective, Harry Bosch. The show explores themes of justice, morality, and redemption against the backdrop of complex cases and Bosch's own troubled past. It blends procedural elements with a serialized narrative, delving into Bosch's personal struggles and the systemic issues within the LAPD. The series maintains a somber and realistic tone, offering a nuanced portrayal of law enforcement and its impact on individuals and communities. It's a character-driven drama that emphasizes the psychological toll of pursuing justice.",
+        "spoiler_rich_plot_summary": "The series begins with Detective Harry Bosch investigating the murder of a young boy, a case that quickly becomes entangled with a larger conspiracy involving corrupt officials and powerful figures within Los Angeles. As Bosch navigates the investigation, he confronts his own demons, including his troubled childhood and his strained relationship with his mother. Throughout the seasons, Bosch tackles a series of complex cases, often uncovering deep-seated corruption and challenging the established order. He frequently finds himself at odds with his superiors and colleagues, driven by his unwavering commitment to his personal code of justice. The series follows Bosch as he unravels intricate webs of deceit, facing personal and professional risks while striving to bring criminals to justice and expose the truth, even when it puts him in danger. Recurring themes involve Bosch’s past trauma and his attempts to reconcile his personal life with his demanding career, often leading to difficult choices and moral compromises.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "redemption",
+            "corruption",
+            "morality",
+            "past-trauma",
+            "loyalty",
+            "family-dynamics"
+          ],
+          "plot_and_concepts": [
+            "police-investigation",
+            "conspiracy",
+            "serial-crime",
+            "false-accusation",
+            "whistleblower"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "somber",
+            "realistic",
+            "tense",
+            "noir"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "police-drama",
+            "noir-detective",
+            "serialized-story"
+          ],
+          "setting": [
+            "los-angeles",
+            "modern-day",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "detective",
+            "anti-hero",
+            "reluctant-hero",
+            "corrupt-official"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "crime-scene",
+            "police-badge",
+            "interrogation-room",
+            "courtroom",
+            "los-angeles-skyline"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "substance-abuse",
+            "profanity"
+          ]
+        },
+        "keyword_sentence": "Bosch is a gritty and realistic police drama set in Los Angeles, exploring themes of justice and redemption through the eyes of a relentless detective battling corruption and confronting his own past trauma."
+      },
+      "duration_seconds": 73.18280792236328
+    }
+  }
+}

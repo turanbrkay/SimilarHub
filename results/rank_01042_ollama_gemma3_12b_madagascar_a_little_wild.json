@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "Madagascar: A Little Wild",
+    "overview": "The early years of the Madagascar heroes Alex the Lion, Marty the Zebra, Melman the Giraffe and Gloria the Hippo, as they grow up in a rescue habitat at the Central Park Zoo.",
+    "genres": [
+      "Animation",
+      "Kids"
+    ],
+    "release_year": 2020,
+    "vote_count": 245
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Madagascar: A Little Wild is a children's animated series that explores the formative years of the beloved Madagascar characters. Set within a rescue habitat at the Central Park Zoo, the show focuses on themes of friendship, problem-solving, and embracing individuality. It blends humor with gentle life lessons, offering a lighthearted and engaging experience for young viewers. The series aims to capture the charm of the original Madagascar films while introducing a new generation to these iconic characters.",
+        "spoiler_rich_plot_summary": "The series begins with Alex, Marty, Melman, and Gloria as young animals living together in a rescue habitat. They navigate the challenges of growing up, learning about their individual strengths and weaknesses, and forming a strong bond of friendship. Throughout the series, they encounter various situations that test their loyalty and require them to work together to overcome obstacles. They learn about the world beyond the habitat, encountering new animals and learning about conservation efforts. While maintaining a playful tone, the series subtly addresses themes of responsibility and the importance of respecting nature. The animals face minor conflicts with other residents of the habitat, but ultimately resolve them through cooperation and understanding, reinforcing the importance of friendship and community.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "growing-up",
+            "conservation",
+            "community",
+            "problem-solving",
+            "individuality"
+          ],
+          "plot_and_concepts": [
+            "rescue-habitat",
+            "animal-friendship",
+            "coming-of-age",
+            "zoo-life"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "playful",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "childrens-animation",
+            "coming-of-age-story",
+            "found-family"
+          ],
+          "setting": [
+            "central-park-zoo",
+            "rescue-habitat",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "animal-protagonist",
+            "young-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "young-children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "animal-enclosure",
+            "play-area",
+            "feeding-time"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Madagascar: A Little Wild is a lighthearted children's animation series that explores themes of friendship and growing up within a vibrant rescue habitat at the Central Park Zoo."
+      },
+      "duration_seconds": 49.34955549240112
+    }
+  }
+}

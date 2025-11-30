@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "The Innocent Man",
+    "overview": "In a story that gained national attention with John Grisham’s best-selling non-fiction book, The Innocent Man: Murder and Injustice in a Small Town, the six-part documentary series The Innocent Man focuses on two murders that shook the small town of Ada, Oklahoma, in the 1980s — and the controversial chain of events that followed.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2018,
+    "vote_count": 41
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Innocent Man is a six-part documentary series examining the intertwined cases of two murders in Ada, Oklahoma, during the 1980s. The series explores the investigation, the legal proceedings, and the potential for injustice within the American legal system. Through interviews, archival footage, and forensic analysis, the documentary raises questions about eyewitness testimony, circumstantial evidence, and the impact of wrongful convictions on individuals and communities. It offers a nuanced portrayal of a small town grappling with tragedy and the complexities of seeking truth and justice. The series aims to shed light on systemic flaws and the human cost of errors in the pursuit of justice.",
+        "spoiler_rich_plot_summary": "The documentary centers on the murders of Carla Sue Walker and Bill Groat in Ada, Oklahoma, in 1982. Initially, Ron Williamson, a local man with intellectual disabilities, became the prime suspect in Walker's murder, largely due to suggestive police work and a flawed eyewitness identification. Williamson was convicted and sentenced to death, a conviction that was later overturned due to DNA evidence. Simultaneously, Dennis Fritz, Williamson’s friend, was implicated in Groat’s murder, also based on circumstantial evidence and questionable investigative practices. The series meticulously details the legal battles, the recantations of witnesses, and the eventual exoneration of both men after they spent years in prison. The documentary highlights the role of John Grisham’s book in bringing renewed attention to the case and prompting further investigation. Ultimately, the series reveals the profound impact of these wrongful convictions on the lives of Williamson and Fritz, as well as the community of Ada, and raises serious questions about the reliability of the criminal justice system.",
+        "categorized_keywords": {
+          "themes": [
+            "wrongful-conviction",
+            "injustice",
+            "police-corruption",
+            "false-witness",
+            "small-town-tragedy",
+            "legal-system-flaws",
+            "eyewitness-misidentification"
+          ],
+          "plot_and_concepts": [
+            "true-crime",
+            "documentary-investigation",
+            "legal-proceedings",
+            "cold-case",
+            "forensic-analysis"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "suspenseful",
+            "investigative",
+            "unsettling"
+          ],
+          "genre_and_tropes": [
+            "true-crime-documentary",
+            "legal-drama",
+            "investigative-journalism"
+          ],
+          "setting": [
+            "ada-oklahoma",
+            "small-town-usa",
+            "1980s"
+          ],
+          "character_archetypes": [
+            "wrongfully-accused",
+            "investigative-reporter",
+            "corrupt-official"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "investigative-documentary"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "true-crime-fans"
+          ],
+          "detail_plot": [
+            "police-interrogation",
+            "courtroom-scene",
+            "dna-evidence",
+            "prison-cell",
+            "newspaper-headlines"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "legal-proceedings",
+            "prison-environment"
+          ]
+        },
+        "keyword_sentence": "The Innocent Man is a somber true-crime documentary that investigates the tragic consequences of wrongful convictions and legal system flaws in a small Oklahoma town, highlighting the devastating impact of false witness and the pursuit of justice."
+      },
+      "duration_seconds": 64.07887411117554
+    }
+  }
+}

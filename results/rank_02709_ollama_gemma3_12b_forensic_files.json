@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Forensic Files",
+    "overview": "Real crimes, disease outbreaks and accidents around the world are solved by experts using scientific laboratory analysis which helps them find previously undetectable evidence. Brilliant scientific work helps convict the guilty and free the innocent.",
+    "genres": [
+      "Drama",
+      "Crime",
+      "Documentary"
+    ],
+    "release_year": 1996,
+    "vote_count": 58
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Forensic Files is a documentary series that explores real-life crime cases and other incidents through the lens of scientific analysis. Each episode focuses on a specific case, detailing the forensic techniques and laboratory work used to uncover crucial evidence. The series blends true crime elements with educational content, showcasing the power of science in solving mysteries and bringing justice. It appeals to viewers interested in both crime and the scientific process, offering a blend of suspense and intellectual curiosity. The show's straightforward presentation and focus on factual detail contribute to its enduring popularity.",
+        "spoiler_rich_plot_summary": "Each episode of Forensic Files presents a self-contained case, beginning with the initial crime scene and the challenges faced by investigators. Forensic scientists then employ a variety of techniques – DNA analysis, ballistics, trace evidence examination, and more – to uncover clues that were initially overlooked. The series meticulously details the scientific process, explaining how evidence is collected, analyzed, and interpreted. These findings often lead to breakthroughs in the investigation, identifying suspects and ultimately contributing to their conviction or, in some cases, exonerating the wrongly accused. The series consistently demonstrates how scientific rigor and attention to detail are essential for achieving justice, often revealing surprising twists and turns in the pursuit of truth. While the specific details of each case vary, the underlying narrative arc remains consistent: a crime is committed, evidence is gathered, science provides answers, and justice is served.",
+        "categorized_keywords": {
+          "themes": [
+            "crime-solving",
+            "justice",
+            "scientific-discovery",
+            "truth-seeking",
+            "forensic-science"
+          ],
+          "plot_and_concepts": [
+            "crime-investigation",
+            "forensic-analysis",
+            "evidence-gathering",
+            "scientific-method",
+            "true-crime"
+          ],
+          "mood_and_tone": [
+            "informative",
+            "analytical",
+            "objective",
+            "serious",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "crime-procedural",
+            "true-crime",
+            "investigative-journalism"
+          ],
+          "setting": [
+            "crime-scene",
+            "laboratory",
+            "courtroom",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "forensic-scientist",
+            "detective",
+            "investigator"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic",
+            "investigative"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "crime-enthusiasts",
+            "science-lovers"
+          ],
+          "detail_plot": [
+            "dna-analysis",
+            "ballistics",
+            "trace-evidence",
+            "crime-scene-photos",
+            "laboratory-equipment"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Forensic Files is an informative documentary series that explores real-life crime investigations through meticulous forensic analysis and scientific discovery, revealing the power of evidence-gathering in the pursuit of justice."
+      },
+      "duration_seconds": 62.34998035430908
+    }
+  }
+}

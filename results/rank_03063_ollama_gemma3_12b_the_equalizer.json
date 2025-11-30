@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "The Equalizer",
+    "overview": "Robert McCall is a former agent of a secret government agency who is now running his own private crime fighting operation where he fashions himself as \"The Equalizer.\" It is a service for victims of the system who have exhausted all possible means of seeking justice and have nowhere to go. McCall promises to even out the odds for them.",
+    "genres": [
+      "Action & Adventure",
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 1985,
+    "vote_count": 46
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Equalizer is a crime drama centered on a former intelligence operative who uses his skills to deliver justice to those failed by the system. The series blends action, suspense, and moral ambiguity as the protagonist navigates complex situations and confronts powerful adversaries. It explores themes of redemption, vigilantism, and the consequences of operating outside the law, offering a compelling narrative about a man seeking to balance his past with a desire to help others. The show's tone is generally serious and gritty, punctuated by moments of intense action and emotional resonance.",
+        "spoiler_rich_plot_summary": "The series begins with Robert McCall, a former CIA operative, establishing himself as 'The Equalizer,' offering his services to those who have nowhere else to turn. Each case presents a new set of challenges, often involving corrupt officials, organized crime, and personal tragedies. McCall meticulously investigates each situation, utilizing his extensive network of contacts and his unique skillset to uncover the truth and level the playing field for his clients. As the series progresses, McCall confronts figures from his past, revealing more about his history and the reasons behind his decision to become The Equalizer. He often finds himself at odds with law enforcement, who view his methods as dangerous and illegal. Throughout the cases, McCall grapples with the moral implications of his actions, questioning whether his interventions truly make a difference or simply perpetuate a cycle of violence. The series culminates in a confrontation with a powerful enemy who threatens to expose McCall's past and dismantle his operation, forcing him to make a difficult choice that will determine his future and the fate of those he protects.",
+        "categorized_keywords": {
+          "themes": [
+            "vigilantism",
+            "redemption",
+            "justice",
+            "moral-ambiguity",
+            "revenge",
+            "corruption",
+            "power-abuse"
+          ],
+          "plot_and_concepts": [
+            "crime-solving",
+            "undercover-operation",
+            "private-investigation",
+            "revenge-plot",
+            "secret-identity"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "suspenseful",
+            "dark",
+            "serious",
+            "action-packed"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "action-thriller",
+            "spy-thriller",
+            "lone-wolf",
+            "anti-hero"
+          ],
+          "setting": [
+            "urban-setting",
+            "modern-day",
+            "new-york-city"
+          ],
+          "character_archetypes": [
+            "ex-spy",
+            "skilled-operative",
+            "moral-compass",
+            "victim"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "case-of-the-week",
+            "episodic"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "secret-files",
+            "safe-house",
+            "surveillance-equipment",
+            "coded-messages"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "crime"
+          ]
+        },
+        "keyword_sentence": "The Equalizer is a gritty crime drama about a former spy who delivers justice to victims through a combination of action, suspense, and a complex moral code in a modern urban setting."
+      },
+      "duration_seconds": 67.16149759292603
+    }
+  }
+}

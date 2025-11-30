@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "The Epic Tales of Captain Underpants",
+    "overview": "Fourth-grade friends George and Harold have a shared love of pranks and comic books -- and turning their principal into an undies-wearing superhero.",
+    "genres": [
+      "Comedy",
+      "Kids",
+      "Animation"
+    ],
+    "release_year": 2018,
+    "vote_count": 51
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Epic Tales of Captain Underpants is a comedic animated series geared towards a young audience, based on the popular book series. The show follows the mischievous adventures of two fourth-grade boys who accidentally transform their grumpy principal into a superhero who only wears underwear. It blends slapstick humor, silly situations, and a lighthearted exploration of friendship and imagination, offering a consistently upbeat and entertaining experience for children.",
+        "spoiler_rich_plot_summary": "The series begins with George and Harold, two best friends known for their elaborate pranks, accidentally hypnotizing their strict principal, Mr. Krupp. This transformation turns him into Captain Underpants, a superhero who embodies their silly and chaotic sense of humor. Throughout the series, George and Harold must navigate the challenges of keeping Captain Underpants' identity a secret while also dealing with various threats to their school and town. They encounter a series of antagonists, often stemming from Mr. Krupp's attempts to revert to his normal state or from external forces seeking to exploit Captain Underpants' powers. The boys learn valuable lessons about responsibility, friendship, and the importance of using their creativity for good, even as they continue to pull pranks and cause hilarious mayhem. While Mr. Krupp occasionally regains his senses, the core dynamic of the boys controlling their underwear-clad principal remains a constant source of comedic conflict and adventure.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "imagination",
+            "mischief",
+            "responsibility",
+            "good-vs-evil"
+          ],
+          "plot_and_concepts": [
+            "hypnosis",
+            "transformation",
+            "superhero-comedy",
+            "school-setting",
+            "pranks"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "slapstick",
+            "wholesome",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "childrens-comedy",
+            "animated-comedy",
+            "superhero-parody",
+            "found-family"
+          ],
+          "setting": [
+            "school-setting",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "mischievous-protagonist",
+            "strict-authority-figure",
+            "reluctant-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-comedy"
+          ],
+          "target_audience": [
+            "children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "underpants",
+            "comic-books",
+            "principal-office",
+            "hypnotic-tricks"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Epic Tales of Captain Underpants is a lighthearted animated comedy series for children, centered on the mischievous friendship between two boys and their accidental transformation of a strict principal into an underwear-wearing superhero."
+      },
+      "duration_seconds": 57.898831367492676
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Blake's 7",
+    "overview": "A group of convicts and outcasts fight a guerrilla war against the totalitarian Terran Federation from a highly advanced alien spaceship.",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1978,
+    "vote_count": 33
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Blake's 7 is a British science fiction series that follows a band of criminals recruited to fight against a corrupt interstellar government. The show blends elements of space opera, crime drama, and philosophical exploration, examining themes of freedom, rebellion, and the moral compromises necessary for survival. Its gritty realism and morally ambiguous characters distinguish it from more optimistic science fiction, offering a bleak and often cynical portrayal of a galaxy under oppressive rule. The series explores the complexities of revolution and the personal costs of fighting for a better future, creating a tense and thought-provoking narrative.",
+        "spoiler_rich_plot_summary": "The series begins with Blake, a former Federation agent, orchestrating a daring prison break to form a rebel group – Blake's 7 – to fight against the oppressive Terran Federation. The initial recruits include a diverse group of criminals, each with their own motivations and flaws. As they raid Federation facilities and disrupt their operations, the team gains notoriety and attracts the attention of the Federation's ruthless security forces, led by Servalan. Internal conflicts and betrayals plague the group, as members struggle with their pasts and question Blake's leadership. The team's actions have far-reaching consequences, impacting entire planets and drawing them into increasingly dangerous situations. Throughout their struggle, the team faces moral dilemmas, questioning the justifications for their actions and the true cost of freedom. The series culminates in a confrontation with the Federation, where the team must make ultimate sacrifices, and the fate of the rebellion hangs in the balance, leaving the future uncertain.",
+        "categorized_keywords": {
+          "themes": [
+            "freedom-struggle",
+            "rebellion",
+            "moral-ambiguity",
+            "oppression",
+            "betrayal",
+            "redemption",
+            "survival",
+            "social-justice"
+          ],
+          "plot_and_concepts": [
+            "space-opera",
+            "prison-break",
+            "guerrilla-warfare",
+            "political-thriller",
+            "heist",
+            "criminal-underworld"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "bleak",
+            "cynical",
+            "tense",
+            "dark"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "crime-drama",
+            "found-family",
+            "anti-hero"
+          ],
+          "setting": [
+            "space-setting",
+            "future-timeline",
+            "interstellar-empire"
+          ],
+          "character_archetypes": [
+            "rebel-leader",
+            "criminal-protagonist",
+            "ruthless-antagonist",
+            "moral-grey-character"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "spaceships",
+            "prison-cells",
+            "futuristic-weapons",
+            "interrogation-room"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "moral-dilemmas"
+          ]
+        },
+        "keyword_sentence": "Blake's 7 is a gritty science fiction crime drama that explores themes of rebellion and moral ambiguity as a group of criminals fight against a vast interstellar empire."
+      },
+      "duration_seconds": 80.233895778656
+    }
+  }
+}

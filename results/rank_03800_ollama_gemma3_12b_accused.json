@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Accused",
+    "overview": "In this crime anthology series, viewers discover how an ordinary person got caught up in an extraordinary situation, ultimately revealing how one wrong turn leads to another, until it’s too late to turn back. Told from the defendant’s point of view, each episode opens in a courtroom on the accused without knowing their crime or how they ended up on trial.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2023,
+    "vote_count": 30
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Accused is a crime anthology series that presents each episode from the perspective of a defendant on trial, initially concealing the crime they are accused of. The show explores the circumstances that led to their predicament, unraveling a chain of events and highlighting the potential for ordinary individuals to become entangled in extraordinary situations. It offers a suspenseful and morally ambiguous exploration of justice, consequence, and the fragility of innocence, inviting viewers to question the narratives surrounding guilt and responsibility. The series’ episodic nature allows for diverse storytelling and character studies within a consistent thematic framework.",
+        "spoiler_rich_plot_summary": "Each episode of Accused begins with the defendant already on trial, the crime they are accused of unknown to the audience. The narrative then unfolds backward, revealing the events that led to their arrest and the courtroom setting. These events often involve seemingly minor decisions or unfortunate circumstances that snowball into a complex web of consequences. The series explores themes of betrayal, mistaken identity, and the potential for ordinary people to become involved in criminal activity through a series of unfortunate events. While the specific crimes and characters vary from episode to episode, the underlying structure remains consistent: a descent from normalcy into a situation where the defendant finds themselves facing serious legal repercussions. The series culminates in the revelation of the crime and the circumstances surrounding it, leaving the viewer to grapple with the complexities of the situation and the defendant's culpability.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "consequence",
+            "innocence",
+            "moral-ambiguity",
+            "betrayal",
+            "fate",
+            "responsibility"
+          ],
+          "plot_and_concepts": [
+            "anthology-series",
+            "courtroom-drama",
+            "reverse-chronology",
+            "crime-investigation",
+            "chain-reaction"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "tense",
+            "unsettling"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "legal-thriller",
+            "mystery"
+          ],
+          "setting": [
+            "modern-day",
+            "courtroom",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "ordinary-person",
+            "defendant",
+            "victim"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "courtroom-scene",
+            "legal-documents",
+            "police-investigation"
+          ],
+          "maturity_and_content": [
+            "legal-proceedings",
+            "crime-themes"
+          ]
+        },
+        "keyword_sentence": "Accused is a suspenseful anthology series that explores the dark consequences of seemingly ordinary decisions through the lens of a defendant on trial, revealing the complexities of justice and the fragility of innocence within a modern courtroom setting."
+      },
+      "duration_seconds": 74.68065619468689
+    }
+  }
+}

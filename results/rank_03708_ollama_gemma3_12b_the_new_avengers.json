@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "The New Avengers",
+    "overview": "The New Avengers is a British secret agent fantasy adventure television series broadcast during 1976 and 1977. It is a sequel to the 1960s series The Avengers and was developed by Albert Fennell and Brian Clemens.\n\nA joint United Kingdom-France-Canada production, the show picks up the adventures of John Steed and his team of Avengers fighting evil plots and world domination. Whereas in the original series Steed had almost always been partnered with a woman, in the new series he had two partners: Mike Gambit, a top agent, crack marksman and trained martial artist, and Purdey, a former trainee with The Royal Ballet who was an amalgam of many of the best talents from Steed's previous female partners.",
+    "genres": [
+      "Drama",
+      "Action & Adventure"
+    ],
+    "release_year": 1976,
+    "vote_count": 32
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The New Avengers is a continuation of the classic 1960s series, maintaining its blend of action, adventure, and espionage. The show follows John Steed and a rotating team of agents as they confront elaborate plots threatening global stability. It retains the original's stylish aesthetic and quirky humor while introducing new characters with distinct skills and backgrounds. The series offers a lighthearted yet thrilling experience, appealing to fans of classic spy fiction and action-adventure storytelling.",
+        "spoiler_rich_plot_summary": "The series begins with John Steed, a veteran agent, joined by Mike Gambit, a skilled marksman and martial artist, and Dana Purdey, a former ballet trainee with exceptional physical abilities. Each episode typically involves the trio investigating a new threat, often uncovering complex schemes involving criminal organizations or rogue elements within governments. The narratives frequently involve elaborate traps, disguises, and high-stakes confrontations. While the team faces numerous adversaries and narrowly avoids disaster, the overarching goal remains to thwart the villains' plans and protect the world from harm. The series maintains a sense of ongoing danger and intrigue, with the team constantly adapting to new challenges and evolving threats, though the specific nature of these threats changes from case to case. The team dynamic evolves as they work together, building trust and camaraderie while facing perilous situations.",
+        "categorized_keywords": {
+          "themes": [
+            "espionage",
+            "international-intrigue",
+            "teamwork",
+            "justice",
+            "heroism"
+          ],
+          "plot_and_concepts": [
+            "spy-thriller",
+            "action-adventure",
+            "criminal-organization",
+            "rogue-elements",
+            "conspiracy"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "thrilling",
+            "stylish",
+            "quirky"
+          ],
+          "genre_and_tropes": [
+            "spy-fiction",
+            "action-series",
+            "secret-agent",
+            "found-family"
+          ],
+          "setting": [
+            "international-locations",
+            "modern-era"
+          ],
+          "character_archetypes": [
+            "veteran-agent",
+            "skilled-marksman",
+            "former-ballerina",
+            "heroic-team"
+          ],
+          "narrative_style": [
+            "episodic-format",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "disguises",
+            "elaborate-traps",
+            "high-stakes-confrontations"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The New Avengers delivers a thrilling action-adventure series filled with espionage, international intrigue, and a heroic team facing elaborate plots in a stylish and lighthearted setting."
+      },
+      "duration_seconds": 70.68426966667175
+    }
+  }
+}

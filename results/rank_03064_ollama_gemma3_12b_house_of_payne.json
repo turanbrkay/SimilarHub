@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "House of Payne",
+    "overview": "The show revolved around a multi-generational family living under one roof in Atlanta led by patriarch Curtis Payne and his wife Ella.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2006,
+    "vote_count": 46
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "House of Payne is a sitcom centered on the daily lives and relationships within a large, multigenerational African American family. The series explores themes of family, tradition, and community through comedic situations and heartwarming moments. It offers a lighthearted and relatable portrayal of family dynamics, emphasizing the importance of support and understanding across generations. The show's humor is often derived from the clash of personalities and perspectives within the Payne household, creating a feel-good viewing experience for audiences seeking familiar and comforting entertainment.",
+        "spoiler_rich_plot_summary": "The series begins with Curtis and Ella Payne, a successful couple, deciding to move their extended family into a single home in Atlanta. This includes their adult children, grandchildren, and even elderly parents, creating a bustling and often chaotic environment. Throughout the series, the family navigates various challenges, from romantic relationships and career struggles to financial difficulties and generational conflicts. Recurring storylines involve the children finding their own paths in life, often with the guidance and occasional interference of their parents. Curtis and Ella grapple with the responsibilities of leading a large family while maintaining their own marriage and individual aspirations. While the show primarily focuses on comedic situations, it also delves into more serious topics such as family loyalty, forgiveness, and the importance of communication. The series concludes with the family having grown closer through shared experiences and having learned valuable lessons about the complexities of family life, reinforcing the enduring bonds that tie them together.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "generational-conflicts",
+            "community",
+            "tradition",
+            "african-american-culture",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "sitcom",
+            "multi-generational-family",
+            "romantic-relationships",
+            "career-struggles",
+            "financial-difficulties"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "feel-good",
+            "wholesome",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "family-sitcom",
+            "found-family",
+            "slice-of-life"
+          ],
+          "setting": [
+            "atlanta-city",
+            "modern-day",
+            "suburban-home"
+          ],
+          "character_archetypes": [
+            "patriarch",
+            "matriarch",
+            "adult-children",
+            "elderly-parents"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "family-dinner",
+            "living-room",
+            "front-porch",
+            "family-car"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "House of Payne is a lighthearted family sitcom set in Atlanta, exploring the joys and challenges of a multigenerational African American family navigating everyday life and reinforcing the importance of tradition and community."
+      },
+      "duration_seconds": 60.05800247192383
+    }
+  }
+}

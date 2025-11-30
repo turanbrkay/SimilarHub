@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Life on Mars",
+    "overview": "After a car crash, police detective Sam Tyler mysteriously finds himself transported back to 1973 and still working as a detective.",
+    "genres": [
+      "Mystery",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2008,
+    "vote_count": 79
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Life on Mars is a British television series that blends police procedural drama with science fiction and mystery elements. The show follows a modern-day detective who inexplicably finds himself transported back to 1973, forcing him to navigate a vastly different era of policing and societal norms. It explores themes of identity, memory, and the nature of reality, while maintaining a darkly comedic and suspenseful tone. The series is notable for its exploration of the past through a contemporary lens, prompting reflection on law enforcement, personal transformation, and the subjective nature of experience.",
+        "spoiler_rich_plot_summary": "The series begins with Detective Sam Tyler, a cynical and disillusioned officer in 2008, involved in a car accident. He awakens in 1973, working as a detective in the Manchester CID under the gruff and traditional DCI Gene Hunt. Initially believing it to be a coma-induced dream, Sam struggles to reconcile his modern sensibilities with the outdated and often brutal policing methods of the 1970s. He forms a complex and often adversarial relationship with Hunt, who embodies the era's more aggressive and unorthodox approach to law enforcement. As Sam investigates cases, he grapples with the possibility that he is trapped in an alternate reality or a psychological construct, experiencing fragmented memories and unsettling inconsistencies. Throughout the series, Sam's past and present intertwine, blurring the lines between reality and illusion. The narrative explores the possibility that Sam is part of a larger experiment or a cyclical loop, with the ultimate truth about his situation remaining ambiguous until the final episodes, which reveal a complex and bittersweet resolution involving time travel and the nature of choice.",
+        "categorized_keywords": {
+          "themes": [
+            "time-travel",
+            "identity-crisis",
+            "memory-loss",
+            "reality-vs-perception",
+            "moral-ambiguity",
+            "past-vs-present"
+          ],
+          "plot_and_concepts": [
+            "police-procedural",
+            "alternate-reality",
+            "time-loop",
+            "mystery-thriller",
+            "conspiracy"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "suspenseful",
+            "gritty",
+            "nostalgic",
+            "enigmatic"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "crime-drama",
+            "fish-out-of-water",
+            "time-travel-paradox"
+          ],
+          "setting": [
+            "1970s-britain",
+            "manchester-england",
+            "alternate-timeline"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "gruff-mentor",
+            "anti-establishment",
+            "cynical-detective"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "non-linear-timeline",
+            "mystery-box"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "1970s-car",
+            "police-badge",
+            "cid-office",
+            "vintage-clothing",
+            "vinyl-record"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "strong-language"
+          ]
+        },
+        "keyword_sentence": "Life on Mars is a darkly comic and suspenseful British crime drama that explores themes of identity and reality through the lens of a modern detective mysteriously transported to 1970s England, challenging perceptions of time, morality, and the nature of law enforcement."
+      },
+      "duration_seconds": 70.81707453727722
+    }
+  }
+}

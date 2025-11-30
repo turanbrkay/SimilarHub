@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "No Good Nick",
+    "overview": "A family finds their lives turned upside down when a young, street-smart grifter shows up on their doorstep, claiming to be a distant relative.",
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "release_year": 2019,
+    "vote_count": 43
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "No Good Nick is a family comedy series centered on a seemingly ordinary family whose lives are disrupted by the unexpected arrival of a clever and resourceful young grifter. The show explores themes of found family, deception, and the challenges of accepting outsiders, blending lighthearted humor with moments of genuine emotional connection. It offers a comedic exploration of how a family dynamic can be reshaped by an unconventional and initially unwelcome addition, ultimately highlighting the power of acceptance and the unexpected bonds that can form.",
+        "spoiler_rich_plot_summary": "The series begins with Nick, a young con artist, unexpectedly showing up at the doorstep of the Thompsons, a well-meaning but somewhat naive family in suburban Denver. Initially, the Thompsons are hesitant to embrace Nick, unsure of her true intentions and wary of her past. However, as they get to know her, they discover a resilient and surprisingly endearing young woman who has learned to survive on her own. Nick, in turn, finds a sense of stability and belonging with the Thompsons, something she has never experienced before. Throughout the series, Nick's past catches up to her, forcing the Thompsons to confront the consequences of their acceptance. While Nick's schemes often cause chaos, she also demonstrates a capacity for growth and a desire to make amends. The series culminates in a resolution where the family must decide whether to fully embrace Nick and her unconventional lifestyle, acknowledging the lasting impact she has had on their lives.",
+        "categorized_keywords": {
+          "themes": [
+            "found-family",
+            "deception",
+            "acceptance",
+            "redemption",
+            "family-dynamics"
+          ],
+          "plot_and_concepts": [
+            "con-artist",
+            "fish-out-of-water",
+            "suburban-life",
+            "unexpected-guest"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "feel-good"
+          ],
+          "genre_and_tropes": [
+            "family-comedy",
+            "sitcom",
+            "found-family"
+          ],
+          "setting": [
+            "suburban-denver",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "con-artist",
+            "naive-protagonist",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "suburban-house",
+            "family-dinner",
+            "con-scheme",
+            "unexpected-arrival"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "No Good Nick is a lighthearted family comedy series set in suburban Denver, exploring themes of deception and acceptance as a clever con artist unexpectedly finds a sense of belonging with a naive and wholesome family."
+      },
+      "duration_seconds": 57.92566657066345
+    }
+  }
+}

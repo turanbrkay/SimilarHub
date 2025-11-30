@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Magic City",
+    "overview": "Set in 1959 Miami, Florida shortly after the Cuban Revolution, Magic City tells the story of Ike Evans, the owner of Miami's most glamorous hotel, the Miramar Playa. Evans is forced to make an ill-fated deal with Miami mob boss Ben Diamond to ensure the success of his glitzy establishment.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2012,
+    "vote_count": 71
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Magic City is a stylish drama series set in 1959 Miami, exploring the intersection of family, ambition, and organized crime. The series follows Ike Evans, a hotel owner struggling to maintain his image and business amidst the backdrop of the Cuban Revolution and the burgeoning Miami underworld. It blends elements of crime drama with a focus on character relationships and the complexities of moral compromise. The show's aesthetic is heavily influenced by the era, creating a visually rich and atmospheric experience. Ultimately, Magic City examines the cost of pursuing the American dream and the compromises one makes to achieve it.",
+        "spoiler_rich_plot_summary": "The series begins with Ike Evans, a man desperately trying to open the Miramar Playa hotel in Miami. Facing financial ruin, he reluctantly enters a deal with Ben Diamond, a powerful mob boss, to secure funding. This pact sets in motion a chain of events that entangles Ike and his family in the dangerous world of organized crime. As the Cuban Revolution unfolds, refugees flood Miami, further complicating the already volatile situation. Ike navigates treacherous alliances, betrayals, and shifting loyalties, all while attempting to maintain a facade of respectability. His children become increasingly aware of his dealings, leading to internal conflict and moral questioning. Throughout the series, Ike's relationship with his family is tested as he struggles to protect them from the consequences of his choices. The series culminates in a confrontation between Ike and Ben, revealing long-held secrets and forcing Ike to make a final, irreversible decision that impacts his family and his legacy.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "moral-compromise",
+            "american-dream",
+            "organized-crime",
+            "legacy",
+            "betrayal"
+          ],
+          "plot_and_concepts": [
+            "mob-drama",
+            "business-dealings",
+            "political-intrigue",
+            "refugee-crisis"
+          ],
+          "mood_and_tone": [
+            "noir",
+            "stylish",
+            "tense",
+            "atmospheric"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "period-drama",
+            "anti-hero"
+          ],
+          "setting": [
+            "1950s-miami",
+            "cuban-revolution",
+            "hotel-setting"
+          ],
+          "character_archetypes": [
+            "hotel-owner",
+            "mob-boss",
+            "reluctant-hero"
+          ],
+          "narrative_style": [
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "miramar-playa-hotel",
+            "cuban-refugees",
+            "1959-miami"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "adult-themes"
+          ]
+        },
+        "keyword_sentence": "Set against the backdrop of the Cuban Revolution, Magic City is a stylish crime drama exploring the moral compromises and family dynamics of a hotel owner entangled with the Miami underworld."
+      },
+      "duration_seconds": 78.40822339057922
+    }
+  }
+}

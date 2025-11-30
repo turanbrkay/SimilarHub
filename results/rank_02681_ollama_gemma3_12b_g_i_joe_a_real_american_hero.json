@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "G.I. Joe: A Real American Hero",
+    "overview": "G.I. Joe: A Real American Hero is a half-hour American animated television series based on the successful toyline from Hasbro and the comic book series from Marvel Comics. The cartoon had its beginnings with two five-part mini-series in 1983 and 1984, then became a regular series that ran in syndication from 1985 to 1986. Ron Friedman created the G.I. Joe animated series for television, and wrote all four miniseries. The fourth mini-series was intended to be a feature film, but due to production difficulties was released as a television mini-series.",
+    "genres": [
+      "Animation",
+      "Action & Adventure"
+    ],
+    "release_year": 1983,
+    "vote_count": 59
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "G.I. Joe: A Real American Hero is a vibrant, action-packed animated series centered on a highly skilled team of soldiers battling a ruthless terrorist organization known as Cobra. The show blends military action with elements of espionage and adventure, targeting a young audience with its emphasis on heroism, teamwork, and patriotism. Its episodic structure allows for a wide range of missions and locations, creating a consistently exciting and visually dynamic experience. The series champions a clear-cut morality, portraying good versus evil in a straightforward and accessible manner.",
+        "spoiler_rich_plot_summary": "The series initially introduces G.I. Joe, a specialized American military unit dedicated to defending the free world from Cobra, a global terrorist organization led by the enigmatic Cobra Commander. Early arcs focus on Cobra’s attempts to seize control of strategic locations and acquire advanced weaponry, with G.I. Joe consistently thwarting their plans. Throughout the series, Cobra Commander’s identity and motivations remain shrouded in mystery, leading to numerous schemes and betrayals within his own organization. G.I. Joe faces challenges not only from Cobra’s military might but also from internal conflicts and the constant threat of Cobra’s infiltration into civilian life. The ongoing battle between G.I. Joe and Cobra evolves into a global struggle for dominance, with both sides deploying increasingly sophisticated technology and tactics. While individual missions conclude with G.I. Joe’s victory, the overarching conflict remains unresolved, setting the stage for future confrontations and the enduring struggle between freedom and tyranny.",
+        "categorized_keywords": {
+          "themes": [
+            "patriotism",
+            "heroism",
+            "teamwork",
+            "good-vs-evil",
+            "military-duty",
+            "freedom"
+          ],
+          "plot_and_concepts": [
+            "military-action",
+            "espionage",
+            "terrorism",
+            "secret-identity",
+            "global-conflict",
+            "arms-race"
+          ],
+          "mood_and_tone": [
+            "action-packed",
+            "optimistic",
+            "adventurous",
+            "lighthearted"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "military-fiction",
+            "superhero-team",
+            "cartoon"
+          ],
+          "setting": [
+            "global",
+            "modern-day",
+            "military-base"
+          ],
+          "character_archetypes": [
+            "heroic-leader",
+            "skilled-soldier",
+            "villainous-leader",
+            "loyal-comrade"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "children",
+            "young-adults"
+          ],
+          "detail_plot": [
+            "joes-headquarters",
+            "cobra-logo",
+            "military-vehicle",
+            "arsenal"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "G.I. Joe: A Real American Hero is an action-packed cartoon series celebrating heroism and teamwork as a dedicated team battles a global terrorist organization in a constant struggle for freedom."
+      },
+      "duration_seconds": 60.02565002441406
+    }
+  }
+}

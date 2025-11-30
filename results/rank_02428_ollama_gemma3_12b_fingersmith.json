@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "Fingersmith",
+    "overview": "A young woman is hired as a maid to an heiress who lives a secluded life on a large countryside estate with her domineering uncle. But, the maid has a secret: she is a pickpocket recruited by a swindler posing as a gentleman to help him seduce the heiress to elope with him, rob her of her fortune, and lock her up in a madhouse. The plan seems to proceed according to plan until the women discover some unexpected emotions.",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2005,
+    "vote_count": 70
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Fingersmith is a Victorian-era drama and mystery that blends elements of crime, romance, and social commentary. The series explores themes of deception, class disparity, and the complexities of human connection through a meticulously crafted plot. It offers a suspenseful and emotionally resonant experience, characterized by its atmospheric setting and morally ambiguous characters. The narrative unfolds with a deliberate pace, gradually revealing layers of intrigue and challenging viewers to question the reliability of appearances.",
+        "spoiler_rich_plot_summary": "The story begins with Sue Trinder, a young woman raised among thieves and pickpockets in London, who is recruited to infiltrate the household of Maud Lilly, a wealthy heiress living under the strict control of her uncle, Mr. Lilly. Sue’s mission, orchestrated by the manipulative Gentleman, is to gain Maud’s trust and facilitate an elopement that will result in Maud’s fortune being stolen and her confined to an asylum. As Sue becomes closer to Maud, she begins to question her loyalties and develops genuine affection for the seemingly naive heiress. Maud, in turn, yearns for freedom from her uncle’s oppressive rule and finds solace in Sue’s companionship. However, the Gentleman’s plan is complicated by unexpected revelations about Maud’s past and the true nature of her relationship with Mr. Lilly. The scheme unravels, exposing a web of lies and betrayals that forces Sue and Maud to confront their own identities and make difficult choices about their futures. The ultimate resolution involves a re-evaluation of the characters' motivations and a surprising shift in power dynamics, leaving the audience to ponder the true meaning of family, loyalty, and redemption.",
+        "categorized_keywords": {
+          "themes": [
+            "deception",
+            "class-disparity",
+            "redemption",
+            "family-secrets",
+            "female-agency",
+            "social-mobility"
+          ],
+          "plot_and_concepts": [
+            "con-artist",
+            "heist",
+            "secret-identity",
+            "arranged-marriage",
+            "false-impersonation"
+          ],
+          "mood_and_tone": [
+            "atmospheric",
+            "suspenseful",
+            "melancholy",
+            "romantic",
+            "darkly-comic"
+          ],
+          "genre_and_tropes": [
+            "historical-drama",
+            "crime-mystery",
+            "romantic-suspense",
+            "gothic-elements"
+          ],
+          "setting": [
+            "victorian-era",
+            "english-countryside",
+            "london-slums",
+            "manor-house"
+          ],
+          "character_archetypes": [
+            "con-artist",
+            "naive-heiress",
+            "manipulative-uncle",
+            "reluctant-heroine",
+            "enigmatic-gentleman"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "plot-twists",
+            "unreliable-narrator"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "manor-house",
+            "pickpocket",
+            "false-mustache",
+            "asylum",
+            "inheritance-dispute"
+          ],
+          "maturity_and_content": [
+            "sexual-content",
+            "abuse-themes"
+          ]
+        },
+        "keyword_sentence": "Set in Victorian England, Fingersmith is a suspenseful historical drama exploring themes of deception, class disparity, and unexpected romance through a meticulously crafted plot filled with secrets and betrayals."
+      },
+      "duration_seconds": 69.32435369491577
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Somewhere Between",
+    "overview": "Laura Price, a local news producer in San Francisco, is helping the police to hunt down a serial killer. After the killer strikes close to home, a twist of fate allows a “Groundhog Day”-type reset, and Laura relives the week prior to the string of murders. Can she change fate and stop the killer?",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2017,
+    "vote_count": 62
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Somewhere Between is a crime drama that blends procedural elements with a science fiction twist, drawing inspiration from the 'Groundhog Day' premise. The series follows a news producer who gains the ability to relive a week, using this opportunity to prevent a series of murders. It explores themes of fate, free will, and the burden of knowledge, offering a suspenseful and emotionally charged narrative with a focus on character development and the complexities of justice. The show's unique premise allows for a fresh take on the crime genre, creating a compelling and thought-provoking viewing experience.",
+        "spoiler_rich_plot_summary": "The series centers on Laura Price, a dedicated news producer in San Francisco, who is assisting the police in their investigation of a string of murders. As the investigation intensifies, a shocking event grants Laura the ability to relive the week leading up to the killings. Initially disoriented, she quickly realizes the potential to alter the course of events and prevent the deaths. Laura navigates the week repeatedly, gathering clues, identifying suspects, and attempting to change the killer's actions. Each loop reveals new information and challenges her understanding of the case. She grapples with the moral implications of manipulating fate and the emotional toll of witnessing the same tragedies unfold. As she gets closer to uncovering the killer's identity, she faces increasing danger and must confront her own personal demons while trying to save the lives of those around her. The series culminates in a confrontation where Laura must use all her knowledge and skills to stop the killer and break the cycle of repetition, ultimately facing the consequences of her actions and the true meaning of justice.",
+        "categorized_keywords": {
+          "themes": [
+            "fate",
+            "free-will",
+            "justice",
+            "redemption",
+            "grief",
+            "moral-dilemma"
+          ],
+          "plot_and_concepts": [
+            "time-loop",
+            "serial-killer",
+            "police-investigation",
+            "crime-procedural"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "emotional",
+            "tense"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "mystery",
+            "thriller",
+            "groundhog-day-inspired"
+          ],
+          "setting": [
+            "san-francisco",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "investigative-reporter",
+            "reluctant-hero",
+            "detective"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-mystery"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "news-studio",
+            "police-station",
+            "crime-scene",
+            "investigation-files"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "crime-themes"
+          ]
+        },
+        "keyword_sentence": "Somewhere Between is a suspenseful crime drama set in modern-day San Francisco, exploring themes of fate and justice through a time-loop narrative and the journey of a news producer striving to prevent a series of murders."
+      },
+      "duration_seconds": 61.88688540458679
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "The Witches of Oz",
+    "overview": "The Witches of Oz follows the exploits of the grown Dorothy Gale, now a successful children's book author, as she moves from Kansas to present day New York City. Dorothy quickly learns that her popular books are based on repressed childhood memories, and that the wonders of Oz are very, very real. When the Wicked Witch of the West shows up in Times Square, Dorothy must find the inner courage to stop her.",
+    "genres": [
+      "Action & Adventure",
+      "Comedy",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2011,
+    "vote_count": 41
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Witches of Oz is a blend of action-adventure, comedy, and fantasy, centered on a grown-up Dorothy Gale grappling with the reality behind her childhood memories and the magical world of Oz. The series explores themes of confronting the past, embracing one's identity, and the enduring power of imagination. It offers a lighthearted and whimsical tone, balanced with moments of genuine peril as Dorothy must confront the return of the Wicked Witch of the West and protect the world from her schemes. The series aims to recapture the wonder of the original story while updating it for a modern audience.",
+        "spoiler_rich_plot_summary": "The series begins with Dorothy Gale, a celebrated children's book author, relocating to New York City. Initially believing her stories about Oz to be purely fictional, Dorothy soon discovers they are rooted in repressed memories of her childhood experiences. The return of the Wicked Witch of the West, manifesting in a dramatic fashion in Times Square, confirms the reality of Oz and forces Dorothy to confront her past. As Dorothy investigates the Witch's motives, she reconnects with familiar characters from Oz, now adapted to the modern world, and discovers a hidden magical community existing alongside ordinary society. The series follows Dorothy's journey as she trains to harness her own latent magical abilities, battles the Witch's increasingly powerful schemes, and ultimately confronts the Witch in a final showdown that threatens to merge the worlds of Oz and New York. Along the way, Dorothy must reconcile her public persona as a children's author with her secret life as a magical protector, and come to terms with the responsibility that comes with her unique connection to Oz.",
+        "categorized_keywords": {
+          "themes": [
+            "childhood-memories",
+            "identity-quest",
+            "facing-the-past",
+            "magic-and-wonder",
+            "good-versus-evil",
+            "responsibility"
+          ],
+          "plot_and_concepts": [
+            "alternate-reality",
+            "hidden-world",
+            "magical-training",
+            "repressed-memories",
+            "portal-fantasy"
+          ],
+          "mood_and_tone": [
+            "whimsical",
+            "lighthearted",
+            "adventurous",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "portal-fantasy",
+            "urban-fantasy",
+            "coming-of-age",
+            "fish-out-of-water"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day",
+            "oz"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "villainess"
+          ],
+          "narrative_style": [
+            "serialized-story"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "childrens-book",
+            "times-square",
+            "wicked-witch",
+            "yellow-brick-road"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Witches of Oz is a lighthearted and adventurous series that blends urban fantasy with a coming-of-age story, following a grown Dorothy Gale as she confronts repressed childhood memories and battles a returning villainess in a magical world hidden within modern-day New York City."
+      },
+      "duration_seconds": 60.71263647079468
+    }
+  }
+}

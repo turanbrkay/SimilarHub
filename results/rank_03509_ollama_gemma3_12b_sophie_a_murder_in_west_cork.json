@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Sophie: A Murder in West Cork",
+    "overview": "A shocking murder in rural Ireland sets off an increasingly convoluted quest for justice that spans decades and cuts across national borders.",
+    "genres": [
+      "Documentary",
+      "Crime",
+      "Mystery"
+    ],
+    "release_year": 2021,
+    "vote_count": 35
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Sophie: A Murder in West Cork is a documentary series that investigates the unsolved murder of Sophie Toscan du Plantier in rural Ireland. The series explores the complexities of the case, delving into the investigation, the legal proceedings, and the impact on the victim's family and the local community. It blends true crime elements with a focus on the cultural and social context of the crime, raising questions about justice, truth, and the challenges of cross-border investigations. The series maintains a somber and reflective tone, emphasizing the enduring mystery and the human cost of the tragedy.",
+        "spoiler_rich_plot_summary": "The series begins by introducing Sophie Toscan du Plantier, a French woman living in West Cork, Ireland, and her relationship with Ian Bailey, an English journalist. Following Sophie's brutal murder on Christmas night in 1996, the investigation quickly focuses on Bailey as a person of interest. The documentary meticulously details the initial police investigation, the subsequent arrests and releases of Bailey, and the legal battles that ensued. The series highlights the inconsistencies in witness testimonies and the challenges of gathering evidence in a rural setting. Bailey is initially arrested but released due to lack of evidence. Years later, a French investigation is launched, leading to Bailey's arrest and trial in absentia. The series explores the legal complexities of trying a suspect in France while he resides in Ireland, ultimately concluding with Bailey being convicted in France, though his extradition to serve the sentence remains a contentious issue.",
+        "categorized_keywords": {
+          "themes": [
+            "true-crime",
+            "unsolved-mystery",
+            "justice",
+            "grief",
+            "cross-border-investigation",
+            "rural-crime",
+            "legal-proceedings",
+            "international-relations"
+          ],
+          "plot_and_concepts": [
+            "cold-case",
+            "investigative-journalism",
+            "false-accusation",
+            "witness-testimony",
+            "trial-by-media"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "reflective",
+            "suspenseful",
+            "unsettling"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "crime-procedural",
+            "true-crime"
+          ],
+          "setting": [
+            "rural-ireland",
+            "west-cork",
+            "france",
+            "england"
+          ],
+          "character_archetypes": [
+            "victim",
+            "suspect",
+            "investigator",
+            "journalist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "investigative-documentary"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "true-crime-fans"
+          ],
+          "detail_plot": [
+            "crime-scene",
+            "police-investigation",
+            "courtroom",
+            "newspaper-article"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "murder"
+          ]
+        },
+        "keyword_sentence": "Sophie: A Murder in West Cork is a somber documentary series that explores a complex, unsolved crime in rural Ireland, highlighting the challenges of cross-border investigations and the enduring impact of a brutal murder on a community."
+      },
+      "duration_seconds": 59.16402220726013
+    }
+  }
+}

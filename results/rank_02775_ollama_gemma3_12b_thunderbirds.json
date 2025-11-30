@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Thunderbirds",
+    "overview": "Thunderbirds is a 1960s British science-fiction television series which was produced using a mixed method of marionette puppetry and scale-model special effects termed \"Supermarionation\". The series is set in the 21st century and follows the exploits of International Rescue, a secret organization formed to save people in mortal danger with the help of technologically advanced land, sea, air and space vehicles and equipment, launched from a hidden base on Tracy Island in the South Pacific Ocean.",
+    "genres": [
+      "Family",
+      "Action & Adventure",
+      "Animation",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1965,
+    "vote_count": 56
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Thunderbirds is a pioneering British science-fiction series renowned for its innovative use of marionette puppetry and elaborate model effects. Set in a futuristic 21st century, the show centers on International Rescue, a clandestine organization dedicated to rescuing individuals facing perilous situations. The series blends action-adventure with family-friendly themes, showcasing advanced technology and heroic rescues. Its optimistic vision of the future and emphasis on teamwork have made it a beloved classic, influencing subsequent generations of filmmakers and animators. The show's enduring appeal lies in its combination of thrilling action sequences and a heartwarming narrative about global cooperation.",
+        "spoiler_rich_plot_summary": "The series introduces viewers to the Tracy family, who operate International Rescue from their hidden base on Tracy Island. Each member of the family pilots a specialized Thunderbird vehicle – Thunderbird 1 for aerial reconnaissance, Thunderbird 3 for space travel, Thunderbird 4 for underwater missions, and Thunderbird 5 as a communications hub. Episodes typically begin with a distress call from around the world, detailing a crisis such as a runaway train, a sinking ship, or a malfunctioning space station. The Tracys, along with their supporting staff, devise a plan to overcome the challenge, utilizing their advanced technology and coordinated efforts. Recurring antagonists, such as the criminal mastermind The Hood, frequently attempt to thwart International Rescue's operations, leading to thrilling chases and confrontations. While the series maintains a generally optimistic tone, the constant threat of disaster and the ingenuity of the villains create a sense of suspense and urgency. The overarching narrative focuses on the Tracys' commitment to global safety and their unwavering dedication to rescuing those in need, showcasing a future where technology and heroism work in harmony.",
+        "categorized_keywords": {
+          "themes": [
+            "family-loyalty",
+            "heroism",
+            "global-cooperation",
+            "rescue-mission",
+            "technological-optimism"
+          ],
+          "plot_and_concepts": [
+            "supermarionation",
+            "rescue-operation",
+            "secret-organization",
+            "futuristic-setting",
+            "criminal-mastermind"
+          ],
+          "mood_and_tone": [
+            "optimistic",
+            "adventurous",
+            "thrilling",
+            "lighthearted"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "action-adventure",
+            "family-friendly",
+            "futuristic-technology"
+          ],
+          "setting": [
+            "south-pacific-ocean",
+            "21st-century",
+            "tracy-island"
+          ],
+          "character_archetypes": [
+            "heroic-family",
+            "ingenious-inventor",
+            "criminal-mastermind"
+          ],
+          "narrative_style": [
+            "episodic-format",
+            "serialized-elements"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "thunderbird-1",
+            "thunderbird-3",
+            "tracy-island-base",
+            "supermarionation-puppets"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Thunderbirds is a lighthearted and adventurous science-fiction series about a heroic family who use futuristic technology to perform daring rescue missions from their secret base on Tracy Island, showcasing a global effort to overcome danger."
+      },
+      "duration_seconds": 63.52922201156616
+    }
+  }
+}

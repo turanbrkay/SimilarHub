@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "State of the Union",
+    "overview": "Tom and Louise meet in a pub immediately before their weekly marital therapy session. With each successive episode we piece together how their lives were, what drew them together and what has started to pull them apart.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2019,
+    "vote_count": 54
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "State of the Union is a British comedy-drama series that explores the complexities of a marriage through a unique narrative structure. Each episode begins with a couple's therapy session, and the subsequent scenes gradually reveal the history of their relationship, uncovering the events and circumstances that have shaped their present struggles. The series blends humor and pathos, offering a nuanced portrayal of love, loss, and the challenges of long-term commitment. It's a character-driven exploration of a relationship, relying on subtle performances and a non-linear storytelling approach to create a compelling and emotionally resonant experience.",
+        "spoiler_rich_plot_summary": "The series centers on Tom and Louise, a couple attending weekly marital therapy. The initial episodes focus on their present-day struggles, revealing a palpable distance and underlying tension. Through flashbacks, the narrative gradually unveils their initial attraction and the early years of their relationship, showcasing the joys and promises of their connection. As the series progresses, the flashbacks reveal pivotal moments that contributed to their current predicament: career setbacks, family pressures, and personal betrayals that eroded their trust and intimacy. The narrative explores the individual journeys of Tom and Louise, highlighting their personal ambitions and vulnerabilities, and demonstrating how their divergent paths have ultimately led them to a point of crisis. While the series doesn't offer a definitive resolution, it portrays a couple grappling with the possibility of reconciliation and the difficult process of understanding each other’s perspectives.",
+        "categorized_keywords": {
+          "themes": [
+            "marriage-dynamics",
+            "relationship-crisis",
+            "emotional-distance",
+            "past-trauma",
+            "personal-growth",
+            "communication-breakdown"
+          ],
+          "plot_and_concepts": [
+            "flashback-narrative",
+            "therapy-session",
+            "marital-conflict",
+            "non-linear-storytelling"
+          ],
+          "mood_and_tone": [
+            "bittersweet",
+            "melancholy",
+            "wry",
+            "introspective"
+          ],
+          "genre_and_tropes": [
+            "romantic-drama",
+            "character-driven",
+            "slice-of-life"
+          ],
+          "setting": [
+            "modern-day",
+            "uk-setting"
+          ],
+          "character_archetypes": [
+            "flawed-protagonist",
+            "complex-female-lead",
+            "struggling-spouse"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-structure"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "therapy-room",
+            "pub-setting",
+            "family-photos",
+            "wedding-album"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "State of the Union is a bittersweet British series that explores the complexities of a marriage through a non-linear narrative, revealing the emotional distance and past traumas that have shaped a couple's present-day struggles."
+      },
+      "duration_seconds": 64.5843596458435
+    }
+  }
+}

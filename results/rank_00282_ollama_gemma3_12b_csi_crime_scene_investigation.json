@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "CSI: Crime Scene Investigation",
+    "overview": "A Las Vegas team of forensic investigators are trained to solve criminal cases by scouring the crime scene, collecting irrefutable evidence and finding the missing pieces that solve the mystery.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2000,
+    "vote_count": 1051
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "CSI: Crime Scene Investigation is a procedural drama series that follows a team of forensic scientists in Las Vegas as they investigate crimes using cutting-edge technology and meticulous attention to detail. The show blends elements of crime investigation, legal drama, and scientific exploration, offering a blend of suspense and intellectual curiosity. Each episode typically presents a self-contained mystery, showcasing the process of evidence collection, analysis, and reconstruction. The series emphasizes the importance of scientific rigor and the pursuit of justice, often exploring the human stories behind the crimes.",
+        "spoiler_rich_plot_summary": "The series begins with the introduction of the CSI team in Las Vegas, led by Gil Grissom, as they investigate a seemingly straightforward crime scene that quickly reveals layers of complexity. Over the seasons, the team faces increasingly challenging cases, ranging from murders and robberies to complex conspiracies and technological crimes. New team members join and depart, each bringing unique skills and perspectives to the investigations. Recurring storylines involve personal struggles for the investigators, as they grapple with the emotional toll of their work and navigate their own relationships. The series explores themes of justice, morality, and the impact of crime on individuals and communities. As the series progresses, the team confronts powerful adversaries and uncovers deep-seated corruption within the city, leading to high-stakes confrontations and significant shifts in the team's dynamics. The later seasons introduce new technologies and investigative techniques, reflecting advancements in forensic science and pushing the boundaries of crime-solving.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "forensic-science",
+            "crime",
+            "morality",
+            "teamwork",
+            "loss",
+            "corruption"
+          ],
+          "plot_and_concepts": [
+            "crime-procedural",
+            "forensic-investigation",
+            "evidence-analysis",
+            "serial-crime",
+            "police-work"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "procedural",
+            "dark",
+            "technical"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "mystery",
+            "procedural-drama"
+          ],
+          "setting": [
+            "las-vegas",
+            "modern-day",
+            "crime-scene"
+          ],
+          "character_archetypes": [
+            "forensic-scientist",
+            "detective",
+            "crime-scene-investigator"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-story",
+            "procedural-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "crime-scene",
+            "evidence-markers",
+            "forensic-lab",
+            "body-bag",
+            "laser-scanning"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "crime-themes"
+          ]
+        },
+        "keyword_sentence": "CSI: Crime Scene Investigation is a suspenseful crime drama series set in Las Vegas, where forensic scientists meticulously investigate crimes using cutting-edge technology and evidence analysis to pursue justice."
+      },
+      "duration_seconds": 91.17416954040527
+    }
+  }
+}

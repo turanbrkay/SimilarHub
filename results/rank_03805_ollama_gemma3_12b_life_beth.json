@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Life & Beth",
+    "overview": "A trip down memory lane is a strong source of trauma, comedy and moving forward.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2022,
+    "vote_count": 30
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Life & Beth is a dramedy series that explores the complexities of trauma, memory, and personal growth. The show follows Beth, a woman who, after a seemingly minor accident, is compelled to confront repressed childhood experiences and re-evaluate her present life. Through flashbacks and present-day interactions, the series blends humor with poignant reflections on family dynamics, relationships, and the long-term impact of unresolved emotional wounds. It offers a nuanced portrayal of self-discovery and the challenges of moving forward while acknowledging the weight of the past.",
+        "spoiler_rich_plot_summary": "The series begins with Beth, a successful but emotionally guarded wedding planner in New York City, experiencing a minor accident that triggers a flood of repressed memories. This incident leads her to embark on a journey of self-discovery, prompted by a therapy program. As Beth delves into her past, she revisits her childhood in San Francisco, uncovering a complex relationship with her parents and a pivotal event that shaped her worldview. Flashbacks reveal a strained family dynamic, marked by her mother's emotional distance and her father's attempts to provide stability. Beth's present-day relationships are also examined, highlighting her tendency to avoid vulnerability and maintain a carefully constructed facade. Through therapy and confronting her past, Beth begins to understand the roots of her anxieties and learns to embrace imperfection. The series culminates in Beth finding a greater sense of self-acceptance and forging deeper connections with those around her, acknowledging the ongoing nature of healing and personal growth.",
+        "categorized_keywords": {
+          "themes": [
+            "trauma",
+            "memory",
+            "self-discovery",
+            "family-dynamics",
+            "healing",
+            "personal-growth",
+            "emotional-repression"
+          ],
+          "plot_and_concepts": [
+            "flashbacks",
+            "therapy",
+            "childhood-trauma",
+            "repressed-memories"
+          ],
+          "mood_and_tone": [
+            "comedic",
+            "poignant",
+            "reflective",
+            "wistful"
+          ],
+          "genre_and_tropes": [
+            "dramedy",
+            "coming-of-age",
+            "therapy-narrative"
+          ],
+          "setting": [
+            "new-york-city",
+            "san-francisco",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "emotionally-guarded-protagonist",
+            "distant-mother",
+            "well-meaning-father"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "flashback-structure"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "wedding-planning",
+            "therapy-session",
+            "childhood-home",
+            "family-portrait"
+          ],
+          "maturity_and_content": [
+            "emotional-abuse"
+          ]
+        },
+        "keyword_sentence": "Life & Beth is a comedic and poignant dramedy that explores themes of trauma, memory, and self-discovery through a narrative structure of flashbacks and therapy sessions, set against the backdrop of modern-day New York City and San Francisco."
+      },
+      "duration_seconds": 78.29862809181213
+    }
+  }
+}

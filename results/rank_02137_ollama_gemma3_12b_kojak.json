@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Kojak",
+    "overview": "A bald, lollipop sucking police detective with a fiery righteous attitude battles crime in New York City.",
+    "genres": [
+      "Crime",
+      "Action & Adventure",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 1973,
+    "vote_count": 87
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Kojak is a police procedural drama series set in 1970s New York City, focusing on Lieutenant Kojak and his team as they investigate complex criminal cases. The show distinguishes itself through its gritty realism, Kojak's distinctive personality – characterized by his bald head, penchant for sucking on lollipops, and unwavering commitment to justice – and a focus on the psychological toll of police work. It blends elements of crime investigation with character-driven drama, exploring themes of morality, corruption, and the challenges of upholding the law in a morally ambiguous world. The series offers a blend of suspenseful investigations and a nuanced portrayal of a dedicated law enforcement officer.",
+        "spoiler_rich_plot_summary": "The series primarily follows Lieutenant Kojak and his team within the New York City Police Department's 119th precinct. Each season typically presents a series of interconnected cases, often involving organized crime, drug trafficking, and political corruption. Kojak frequently finds himself battling against powerful adversaries, both within and outside the department, who attempt to obstruct his investigations. He often works closely with his colleagues, Lieutenant Stavros and Detective Kranski, relying on their expertise and support to navigate the complexities of the criminal underworld. Throughout the series, Kojak grapples with the moral compromises necessary to achieve justice, often questioning the effectiveness of his methods and the impact on his own well-being. While individual cases conclude within each episode, overarching storylines involving recurring characters and systemic corruption weave through the seasons, culminating in confrontations that challenge Kojak's beliefs and test his resolve. The series explores the personal sacrifices made by law enforcement officers and the constant threat of danger they face.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "corruption",
+            "police-work",
+            "morality",
+            "sacrifice",
+            "crime"
+          ],
+          "plot_and_concepts": [
+            "police-procedural",
+            "crime-investigation",
+            "organized-crime",
+            "undercover-operation"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "suspenseful",
+            "realistic",
+            "serious"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "police-detective",
+            "70s-tv"
+          ],
+          "setting": [
+            "new-york-city",
+            "1970s",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "police-detective",
+            "anti-hero",
+            "moral-authority"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "lollipop",
+            "bald-head",
+            "police-badge",
+            "precinct-hq"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "crime-themes"
+          ]
+        },
+        "keyword_sentence": "Set in 1970s New York City, Kojak is a gritty crime drama series that follows a dedicated police detective as he confronts corruption and navigates the moral complexities of upholding justice through realistic crime investigations."
+      },
+      "duration_seconds": 66.27803063392639
+    }
+  }
+}

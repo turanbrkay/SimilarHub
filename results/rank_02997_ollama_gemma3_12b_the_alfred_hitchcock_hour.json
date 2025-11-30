@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "The Alfred Hitchcock Hour",
+    "overview": "A continuation of the dramatic anthology series “Alfred Hitchcock Presents”, hosted by the master of suspense and mystery.",
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Drama"
+    ],
+    "release_year": 1962,
+    "vote_count": 48
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Alfred Hitchcock Hour is an anthology series continuing the legacy of Alfred Hitchcock Presents, offering standalone tales of suspense, mystery, and psychological drama. Each episode presents a self-contained narrative, exploring themes of paranoia, morality, and the darker aspects of human nature. Hosted by Hitchcock himself, the series maintains a classic, understated style, relying on atmosphere and clever plotting rather than overt horror. It’s a showcase of suspenseful storytelling, designed to keep viewers guessing until the final reveal, and exemplifies the hallmarks of mid-century television drama.",
+        "spoiler_rich_plot_summary": "Each episode of The Alfred Hitchcock Hour presents a unique and self-contained story, often revolving around themes of mistaken identity, betrayal, and the consequences of one's actions. Stories frequently involve ordinary people caught in extraordinary circumstances, facing moral dilemmas and unexpected twists. Some episodes explore the dangers of obsession, while others delve into the fragility of sanity and the deceptive nature of appearances. While the specifics vary wildly from episode to episode, a common thread is the unsettling feeling that nothing is as it seems, and that a seemingly harmless situation can quickly spiral into a terrifying ordeal. The series often concludes with a final, unexpected revelation that recontextualizes the events of the story, leaving the viewer with a lingering sense of unease and a questioning of the characters' motivations.",
+        "categorized_keywords": {
+          "themes": [
+            "suspense",
+            "mystery",
+            "moral-ambiguity",
+            "paranoia",
+            "deception",
+            "fate",
+            "justice"
+          ],
+          "plot_and_concepts": [
+            "anthology-series",
+            "twist-endings",
+            "red-herring",
+            "mistaken-identity",
+            "psychological-thriller"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "atmospheric",
+            "unsettling",
+            "classic"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "mystery-thriller",
+            "anthology-drama"
+          ],
+          "setting": [
+            "1960s",
+            "american-suburbs",
+            "small-town-usa"
+          ],
+          "character_archetypes": [
+            "ordinary-person",
+            "unreliable-narrator",
+            "victim",
+            "antagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "standalone-episodes"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "shadows",
+            "rain",
+            "telephone",
+            "locked-room",
+            "vintage-car"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "psychological-distress"
+          ]
+        },
+        "keyword_sentence": "The Alfred Hitchcock Hour is a classic anthology series that explores themes of suspense, mystery, and moral ambiguity through unsettling stories set in 1960s America, often featuring ordinary people caught in extraordinary circumstances."
+      },
+      "duration_seconds": 60.15806293487549
+    }
+  }
+}

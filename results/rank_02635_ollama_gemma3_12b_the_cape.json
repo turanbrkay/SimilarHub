@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "The Cape",
+    "overview": "\"The Cape\" is a drama series following Vince Faraday, an honest cop on a corrupt police force, who finds himself framed for a series of murders and presumed dead. He is forced into hiding, leaving behind his wife Dana and son, Trip. Fueled by a desire to reunite with his family and to battle the criminal forces that have overtaken Palm City, Vince Faraday becomes \"The Cape\" - his son's favorite comic book superhero - and takes the law into his own hands.",
+    "genres": [
+      "Action & Adventure",
+      "Drama"
+    ],
+    "release_year": 2011,
+    "vote_count": 61
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Cape is a superhero drama series that blends police procedural elements with a family-driven narrative. The show follows a wrongfully accused police officer who adopts the persona of a comic book superhero to clear his name and reunite with his family while battling corruption within the police force and a powerful criminal organization. It explores themes of justice, identity, and the blurred lines between heroism and vigilantism, offering a blend of action, suspense, and emotional stakes.",
+        "spoiler_rich_plot_summary": "The series begins with Vince Faraday, a dedicated police officer in Palm City, discovering widespread corruption within his department. Framed for a series of murders orchestrated by the ruthless criminal mastermind, Rutledge, Vince is forced to go into hiding, leaving behind his wife, Dana, and young son, Trip. Trip, a fervent fan of superheroes, inspires his father to adopt the identity of 'The Cape,' a masked vigilante mirroring the character from his comic books. As The Cape, Vince wages a one-man war against Rutledge and his criminal empire, uncovering a complex web of deceit and betrayal within the police force. Throughout the series, Vince struggles to balance his dual identities, protect his family from harm, and expose the truth behind the conspiracy that forced him into hiding. He faces numerous challenges, including confrontations with corrupt officials, dangerous criminals, and the constant threat of being discovered and apprehended. The series culminates in a final showdown where Vince must confront Rutledge and expose the truth to the city, risking everything to reclaim his name and reunite with his loved ones.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "family-loyalty",
+            "identity-quest",
+            "corruption",
+            "redemption",
+            "vigilantism"
+          ],
+          "plot_and_concepts": [
+            "wrongful-accusation",
+            "masked-vigilante",
+            "police-corruption",
+            "criminal-empire",
+            "revenge"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "suspenseful",
+            "action-oriented",
+            "emotional"
+          ],
+          "genre_and_tropes": [
+            "superhero-action",
+            "crime-procedural",
+            "revenge-story",
+            "fish-out-of-water"
+          ],
+          "setting": [
+            "modern-day",
+            "palm-city"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "corrupt-official",
+            "reluctant-hero",
+            "criminal-mastermind"
+          ],
+          "narrative_style": [
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "masked-vigilante",
+            "comic-book",
+            "police-badge",
+            "criminal-hideout"
+          ],
+          "maturity_and_content": [
+            "graphic-violence"
+          ]
+        },
+        "keyword_sentence": "The Cape is a dark and suspenseful superhero drama series exploring themes of justice and family loyalty as a wrongfully accused police officer becomes a masked vigilante to battle corruption and reclaim his name."
+      },
+      "duration_seconds": 65.72081756591797
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "The Brave",
+    "overview": "The complex world of our bravest military heroes who make personal sacrifices while executing the most challenging and dangerous missions behind enemy lines.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2017,
+    "vote_count": 87
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Brave is a military drama series that focuses on a highly skilled, covert unit of U.S. Navy SEALs and their civilian support team. The show explores the intense physical and emotional toll of their dangerous missions, often blurring the lines between black ops and humanitarian aid. It delves into the personal sacrifices made by these individuals and their families, highlighting the complex moral and ethical dilemmas they face while operating in high-stakes, global conflict zones. The series blends action and suspense with character-driven narratives, offering a glimpse into the world of modern warfare and the individuals who serve in its shadows. The show aims to portray the bravery and dedication of military personnel while also examining the consequences of their actions.",
+        "spoiler_rich_plot_summary": "The series begins by introducing the members of the Navy SEAL team and their civilian support staff, each with their own unique skills and personal baggage. Early missions involve rescuing hostages, disrupting terrorist networks, and providing aid to vulnerable populations in various international locations. As the series progresses, the team faces increasingly complex and morally ambiguous assignments, often operating with limited oversight and facing political interference. Relationships within the team are tested by the constant stress and danger, leading to internal conflicts and personal struggles. The support staff, including a resourceful intelligence analyst and a skilled medical professional, play a crucial role in the team's success, often uncovering vital information and providing critical assistance. Throughout the series, the team confronts powerful adversaries and uncovers conspiracies that threaten national security. The personal lives of the team members are interwoven with their professional duties, revealing the sacrifices they make and the toll the missions take on their families. The overarching narrative explores themes of loyalty, duty, and the cost of war, culminating in a final confrontation that forces the team to make difficult choices with far-reaching consequences.",
+        "categorized_keywords": {
+          "themes": [
+            "military-duty",
+            "national-security",
+            "moral-ambiguity",
+            "sacrifice",
+            "loyalty",
+            "war-consequences"
+          ],
+          "plot_and_concepts": [
+            "military-operations",
+            "black-ops",
+            "hostage-rescue",
+            "terrorism",
+            "political-intrigue"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "intense",
+            "serious",
+            "action-oriented"
+          ],
+          "genre_and_tropes": [
+            "military-drama",
+            "action-thriller",
+            "espionage",
+            "found-family"
+          ],
+          "setting": [
+            "international-conflict-zones",
+            "modern-day",
+            "military-base"
+          ],
+          "character_archetypes": [
+            "elite-soldier",
+            "intelligence-analyst",
+            "medical-professional",
+            "reluctant-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "military-uniform",
+            "tactical-gear",
+            "surveillance-equipment",
+            "combat-zone"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "intense-peril"
+          ]
+        },
+        "keyword_sentence": "The Brave is a serious, suspenseful military drama series that explores the intense sacrifices and moral ambiguities faced by elite soldiers and their support staff as they execute dangerous operations in international conflict zones."
+      },
+      "duration_seconds": 72.44684028625488
+    }
+  }
+}

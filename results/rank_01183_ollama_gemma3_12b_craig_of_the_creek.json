@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Craig of the Creek",
+    "overview": "Craig and his friends, Kelsey and JP, venture out into a kid-controlled wilderness in the creek.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Action & Adventure"
+    ],
+    "release_year": 2018,
+    "vote_count": 207
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Craig of the Creek is a heartwarming animated comedy series centered around a group of kids exploring and creating their own adventures in a sprawling, natural area they call the creek. The show blends elements of adventure, comedy, and slice-of-life storytelling, emphasizing themes of friendship, imagination, and the joys of childhood. It portrays a vibrant community of kids with unique personalities and quirky traditions, fostering a sense of wonder and encouraging viewers to embrace their own creativity. The series offers a nostalgic and optimistic portrayal of childhood, celebrating the power of play and the importance of connection.",
+        "spoiler_rich_plot_summary": "The series begins with Craig, Kelsey, and JP regularly venturing into the creek, a vast and largely unexplored wilderness where they establish their own rules and social structures. They encounter various other kids, each with their own territories and customs, leading to both friendly alliances and occasional conflicts. Throughout the series, the trio navigates the complexities of childhood social dynamics, learning about leadership, compromise, and the importance of respecting different perspectives. They uncover hidden areas within the creek, revealing its rich history and the stories of previous generations of kids. While maintaining a generally lighthearted tone, the series occasionally touches upon more mature themes such as dealing with change, facing fears, and understanding the challenges of growing up. The creek itself becomes a character, constantly evolving and presenting new opportunities for adventure and discovery, ultimately reinforcing the enduring power of imagination and the bonds of friendship.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "imagination",
+            "adventure",
+            "childhood",
+            "community",
+            "exploration",
+            "growing-up"
+          ],
+          "plot_and_concepts": [
+            "coming-of-age",
+            "wilderness-exploration",
+            "social-dynamics",
+            "found-family",
+            "territory-establishment"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "optimistic",
+            "lighthearted",
+            "playful",
+            "nostalgic"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "comedy",
+            "slice-of-life",
+            "adventure-comedy"
+          ],
+          "setting": [
+            "wilderness",
+            "urban-park",
+            "child-controlled-environment"
+          ],
+          "character_archetypes": [
+            "reluctant-leader",
+            "loyal-friend",
+            "creative-free-spirit"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "episodic-adventure"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "treehouse",
+            "map",
+            "secret-club",
+            "flag",
+            "treasure"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Craig of the Creek is a wholesome animated comedy series that celebrates the power of imagination and friendship as a group of kids explores a vibrant wilderness environment, forging their own community and embracing the joys of childhood adventure."
+      },
+      "duration_seconds": 60.79180884361267
+    }
+  }
+}

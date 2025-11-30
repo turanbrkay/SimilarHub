@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "The Cuphead Show!",
+    "overview": "Follow the misadventures of the impulsive Cuphead and his cautious but persuadable brother Mugman in this animated series based on the hit video game.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "release_year": 2022,
+    "vote_count": 256
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Cuphead Show! is a vibrant, comedic animated series drawing inspiration from the popular video game. It follows the chaotic exploits of Cuphead and Mugman as they navigate a whimsical, 1930s-inspired world, often facing the consequences of Cuphead's impulsive decisions. The series blends slapstick humor with heartfelt moments, exploring themes of friendship, responsibility, and perseverance. Its distinctive animation style and playful tone create a lighthearted and entertaining experience for audiences of all ages.",
+        "spoiler_rich_plot_summary": "The series begins with Cuphead, eager for excitement, impulsively makes a deal with the Devil to obtain a powerful musical score. His brother, Mugman, reluctantly joins him, and they quickly find themselves indebted to the Devil, tasked with completing various quests and challenges to avoid eternal damnation. Throughout their adventures, they encounter a colorful cast of characters, both helpful and mischievous, who complicate their situation. They face numerous trials, often stemming from Cuphead's recklessness and Mugman's attempts to keep him in check. As they progress, they learn valuable lessons about the importance of honesty, teamwork, and facing the consequences of their actions. The brothers continually struggle to fulfill their obligations to the Devil while striving to maintain their friendship and avoid the ultimate price of their deal, ultimately learning to rely on each other and the kindness of others to overcome their predicament.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "responsibility",
+            "perseverance",
+            "redemption",
+            "impulsivity",
+            "consequences"
+          ],
+          "plot_and_concepts": [
+            "deal-with-the-devil",
+            "quest-narrative",
+            "musical-score",
+            "cartoon-universe"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "slapstick",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "comedy",
+            "family-audience",
+            "1930s-setting",
+            "cartoon-comedy"
+          ],
+          "setting": [
+            "1930s-america",
+            "cartoon-world",
+            "whimsical-setting"
+          ],
+          "character_archetypes": [
+            "impulsive-protagonist",
+            "cautious-sidekick",
+            "mischievous-villain",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children",
+            "young-adults"
+          ],
+          "detail_plot": [
+            "devil's-contract",
+            "cartoon-music",
+            "vintage-animation",
+            "1930s-fashion"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Cuphead Show! is a lighthearted and comedic animated series for the family audience, set in a whimsical 1930s cartoon world where two brothers face the consequences of a deal with the devil and learn the importance of friendship and perseverance."
+      },
+      "duration_seconds": 59.48167014122009
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Babar",
+    "overview": "Babar is a Canadian/French/Japanese animated television series produced in Quebec, Canada by Nelvana Limited and The Clifford Ross Company. It premiered in 1989 on CBC and HBO, subsequently was rerun on HBO Family and Qubo. The series is based on Jean de Brunhoff's original Babar books, and was Nelvana's first international co-production. The series' 78 episodes have been broadcast in 30 languages in over 150 countries. Episodes of Babar currently air on Ion Television and Qubo.\n\nWhile the French author Laurent de Brunhoff pronounces the name Babar as \"BUH-bar\", the TV series in its first five seasons pronounces the name as \"BAB-bar\".\n\nIn 2010, a computer-animated sequel series spin-off of Babar titled Babar and the Adventures of Badou was launched. The new series focuses on a majority of new characters.",
+    "genres": [
+      "Family",
+      "Animation"
+    ],
+    "release_year": 1989,
+    "vote_count": 52
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Babar is a gentle, animated series geared towards a family audience, drawing inspiration from the classic children's books. The show explores themes of leadership, responsibility, and adapting to new cultures, presented in a visually appealing and heartwarming style. It emphasizes the importance of kindness and understanding as Babar, a young elephant, learns to rule his kingdom and navigate the complexities of human society. The series offers a comforting and educational experience, suitable for young viewers and their families, with a focus on positive values and gentle storytelling.",
+        "spoiler_rich_plot_summary": "The series begins with Babar, a young elephant, discovering the human world and learning about their customs. He returns to his kingdom, Zephyr, and, upon the death of his father, ascends to the throne. Babar faces challenges in ruling, including navigating political intrigue and dealing with external threats to his kingdom. He learns from his advisors and develops a strong sense of justice and compassion. Throughout the series, Babar's reign is marked by periods of peace and prosperity, interspersed with conflicts that test his leadership and require him to make difficult choices. The series culminates in Babar establishing a lasting legacy of wisdom and kindness, ensuring the continued well-being of his people and fostering positive relationships with neighboring communities. A spin-off series, 'Babar and the Adventures of Badou,' later introduces new characters and expands the world beyond Babar's original kingdom.",
+        "categorized_keywords": {
+          "themes": [
+            "leadership",
+            "responsibility",
+            "cultural-adaptation",
+            "family-values",
+            "kindness",
+            "compassion",
+            "justice"
+          ],
+          "plot_and_concepts": [
+            "kingdom-building",
+            "political-intrigue",
+            "coming-of-age",
+            "animal-kingdom"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "gentle",
+            "heartwarming",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "family-animation",
+            "childrens-series",
+            "coming-of-age-story"
+          ],
+          "setting": [
+            "animal-kingdom",
+            "fictional-kingdom",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "benevolent-ruler",
+            "wise-advisor",
+            "young-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-children"
+          ],
+          "detail_plot": [
+            "elephant-kingdom",
+            "royal-throne",
+            "animal-court"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Babar is a gentle and heartwarming family-animation series that explores themes of leadership and responsibility as a young elephant learns to rule his kingdom and adapt to new cultures."
+      },
+      "duration_seconds": 61.00167965888977
+    }
+  }
+}

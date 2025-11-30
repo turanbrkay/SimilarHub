@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Wonders of the Solar System",
+    "overview": "In this spellbinding series, Professor Brian Cox visits the most extreme locations on Earth to explain how the laws of physics carved natural wonders across the solar system.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2010,
+    "vote_count": 59
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Wonders of the Solar System is a documentary series that explores the awe-inspiring natural formations found throughout our solar system. Hosted by Professor Brian Cox, the series uses stunning visuals and accessible explanations to illustrate the underlying physics that shaped these landscapes. It aims to inspire a sense of wonder and understanding of the universe, blending scientific rigor with breathtaking cinematography. The series appeals to a broad audience interested in science, space exploration, and the beauty of the natural world. It offers a visually rich and intellectually stimulating experience, demonstrating the power of physics in creating extraordinary sights.",
+        "spoiler_rich_plot_summary": "The series begins with an exploration of the Grand Canyon, using it as a microcosm to understand the forces that shape planetary surfaces. Cox then travels to volcanoes in Iceland to examine plate tectonics and their impact on landscapes. Subsequent episodes delve into the rings of Saturn, the polar ice caps of Mars, and the vast canyons of Jupiter's moon Europa, each location revealing unique geological processes and the influence of gravity and radiation. The series culminates in a discussion of the potential for life beyond Earth, highlighting the conditions necessary for habitability and the ongoing search for extraterrestrial environments. Throughout the journey, Cox emphasizes the interconnectedness of celestial bodies and the fundamental laws that govern their behavior, demonstrating how Earth's wonders are mirrored on a cosmic scale.",
+        "categorized_keywords": {
+          "themes": [
+            "cosmic-wonder",
+            "scientific-discovery",
+            "planetary-formation",
+            "universal-laws",
+            "exploration"
+          ],
+          "plot_and_concepts": [
+            "planetary-geology",
+            "gravitational-forces",
+            "radiation-impact",
+            "scientific-explanation",
+            "astronomy"
+          ],
+          "mood_and_tone": [
+            "awe-inspiring",
+            "educational",
+            "inspiring",
+            "observational"
+          ],
+          "genre_and_tropes": [
+            "science-documentary",
+            "educational-tv",
+            "space-exploration"
+          ],
+          "setting": [
+            "solar-system",
+            "grand-canyon",
+            "saturn-rings",
+            "mars-polar-caps",
+            "europa"
+          ],
+          "character_archetypes": [
+            "scientist-host",
+            "expert-narrator"
+          ],
+          "narrative_style": [
+            "observational-narrative",
+            "educational-format"
+          ],
+          "target_audience": [
+            "general-audience",
+            "science-enthusiasts"
+          ],
+          "detail_plot": [
+            "volcanic-eruptions",
+            "planetary-surface",
+            "ice-caps",
+            "canyons",
+            "rings"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Wonders of the Solar System is an awe-inspiring science documentary that explores the beauty and underlying physics of planetary landscapes, from volcanic eruptions to icy rings, inspiring a sense of cosmic wonder and scientific discovery."
+      },
+      "duration_seconds": 56.863200187683105
+    }
+  }
+}

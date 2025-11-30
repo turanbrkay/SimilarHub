@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "La Brea",
+    "overview": "An epic adventure begins when a massive sinkhole opens in the middle of Los Angeles, pulling hundreds of people and buildings into its depths. Those who fell in find themselves in a mysterious and dangerous primeval land, where they have no choice but to band together to survive. Meanwhile, the rest of the world desperately seeks to understand what happened. In the search for answers, one family torn apart by this disaster will have to unlock the secrets of this inexplicable event to find a way back to each other.",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "release_year": 2021,
+    "vote_count": 1200
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "La Brea is a science fiction adventure series centered on a catastrophic sinkhole that transports a group of people to a prehistoric land. The show blends elements of disaster survival, mystery, and family drama as the displaced individuals struggle to adapt to their new environment while scientists on the surface attempt to unravel the phenomenon's origins. The series explores themes of resilience, hope, and the enduring power of human connection amidst extraordinary circumstances, offering a suspenseful and visually engaging experience.",
+        "spoiler_rich_plot_summary": "The series begins with a massive sinkhole opening in Los Angeles, swallowing hundreds of people and structures. Among those pulled into the prehistoric world are Eve, Sam, and Izzy, who quickly discover a dangerous landscape populated by dinosaurs and other prehistoric creatures. They encounter other survivors, forming alliances and facing constant threats to their survival. Back in modern-day Los Angeles, Eve’s daughter, Lily, and her friends, Josh and Marcus, become entangled in the mystery surrounding the sinkhole, uncovering clues about its purpose and a connection to Eve’s past. As the survivors in the past attempt to build a community and understand their predicament, they encounter ancient structures and cryptic messages hinting at a larger, unknown purpose. The modern-day team races against time to find a way to rescue the lost individuals, while also confronting the possibility that the sinkhole is not a random event but part of a deliberate, and potentially dangerous, plan. Over time, the survivors begin to uncover the truth about the land’s history and their own connection to it, revealing a complex narrative spanning millennia and challenging their understanding of reality.",
+        "categorized_keywords": {
+          "themes": [
+            "survival",
+            "family-loyalty",
+            "mystery",
+            "hope",
+            "time-travel",
+            "discovery",
+            "loss"
+          ],
+          "plot_and_concepts": [
+            "sinkhole-disaster",
+            "prehistoric-world",
+            "time-displacement",
+            "scientific-mystery",
+            "alternate-timeline"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "adventurous",
+            "dramatic",
+            "tense"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "disaster-survival",
+            "found-family",
+            "adventure-series"
+          ],
+          "setting": [
+            "los-angeles",
+            "prehistoric-era",
+            "alternate-timeline"
+          ],
+          "character_archetypes": [
+            "scientist",
+            "reluctant-hero",
+            "resourceful-survivor",
+            "determined-parent"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "mystery-box"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "dinosaurs",
+            "ancient-structures",
+            "prehistoric-flora",
+            "sinkhole-edge",
+            "rescue-mission"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "perilous-situations"
+          ]
+        },
+        "keyword_sentence": "La Brea is a suspenseful science fiction adventure series that follows a group of survivors displaced to a prehistoric world after a catastrophic sinkhole opens in Los Angeles, exploring themes of survival, family loyalty, and the enduring mystery of a dangerous alternate timeline."
+      },
+      "duration_seconds": 66.59416961669922
+    }
+  }
+}

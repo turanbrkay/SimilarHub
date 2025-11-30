@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Bubble Guppies",
+    "overview": "The adventures of seven fish-tailed kids- Molly, Gil, Oona, Deema, Nonny, Goby, and Zooli!",
+    "genres": [
+      "Animation",
+      "Family",
+      "Kids"
+    ],
+    "release_year": 2011,
+    "vote_count": 32
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Bubble Guppies is a vibrant, musical animated series aimed at preschool children. The show follows a group of young, fish-tailed friends as they navigate everyday experiences through imaginative play and song. It emphasizes friendship, problem-solving, and learning through exploration, presented in a colorful and engaging format. The series fosters social-emotional development and encourages creativity, making it a lighthearted and educational experience for young viewers.",
+        "spoiler_rich_plot_summary": "The series revolves around a group of young guppies attending school and participating in various activities. Each episode typically presents a new scenario or challenge, such as preparing for a school play, solving a mystery in their underwater neighborhood, or learning about a specific topic like animals or seasons. The guppies work together, using their unique talents and skills to overcome obstacles and learn valuable lessons. While the show doesn't have a grand overarching narrative, recurring characters and familiar locations create a sense of continuity and community. The guppies consistently demonstrate the importance of teamwork and kindness, reinforcing positive values throughout their adventures. The series concludes with the guppies celebrating their accomplishments and reaffirming their strong bonds of friendship.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "teamwork",
+            "learning",
+            "imagination",
+            "problem-solving",
+            "kindness"
+          ],
+          "plot_and_concepts": [
+            "musical-numbers",
+            "preschool-education",
+            "underwater-setting",
+            "role-playing",
+            "adventure-story"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "lighthearted",
+            "playful",
+            "optimistic",
+            "cheerful"
+          ],
+          "genre_and_tropes": [
+            "childrens-animation",
+            "musical-comedy",
+            "found-family",
+            "educational-tv"
+          ],
+          "setting": [
+            "underwater-city",
+            "school-environment",
+            "colorful-world"
+          ],
+          "character_archetypes": [
+            "playful-child",
+            "helpful-friend",
+            "creative-thinker"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "preschool-audience",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "fish-tails",
+            "bubble-guppies",
+            "school-bus",
+            "classroom",
+            "musical-instruments"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Bubble Guppies is a lighthearted and cheerful children's animation series that celebrates friendship, learning, and imaginative play within a colorful underwater world."
+      },
+      "duration_seconds": 66.12749338150024
+    }
+  }
+}

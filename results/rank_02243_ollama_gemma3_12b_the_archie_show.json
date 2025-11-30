@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "The Archie Show",
+    "overview": "The Archie Show is a Saturday morning cartoon animated series produced by Filmation. Based on the Archie comic books, created by Bob Montana in 1941, The Archie Show debuted on CBS in September 1968 and lasted for one season. A total of 17 half-hour shows, each containing two 11 minute segments, were aired. Archie cartoons continued to be aired in various forms until 1978.",
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "release_year": 1968,
+    "vote_count": 81
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Archie Show is a lighthearted animated series based on the classic Archie comic books. It's a nostalgic, family-friendly show geared towards a young audience, featuring the familiar characters and settings of Riverdale. The series primarily focuses on comedic situations and the everyday adventures of Archie, Betty, Veronica, and their friends. It's a simple, episodic show designed for entertainment and appeals to fans of the comic books and those seeking a cheerful, uncomplicated viewing experience. The show's charm lies in its depiction of wholesome friendships and innocent humor.",
+        "spoiler_rich_plot_summary": "The Archie Show follows the everyday lives of Archie Andrews and his friends in the idyllic town of Riverdale. Each episode typically revolves around a comedic misunderstanding or a minor conflict, such as Archie's attempts to impress Betty and Veronica, Jughead's insatiable appetite, or Reggie's mischievous schemes. While there's no overarching narrative, recurring themes involve Archie's musical aspirations, the rivalry between Betty and Veronica for Archie's affection, and the general antics of the group as they navigate adolescence. The series maintains a consistently upbeat tone, with conflicts resolved quickly and amicably, reinforcing the show's focus on lighthearted entertainment and the importance of friendship. The show concludes its initial run after one season, leaving the characters and their world ready for future adventures in other animated formats.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "adolescence",
+            "small-town-life",
+            "romance",
+            "music"
+          ],
+          "plot_and_concepts": [
+            "misunderstanding",
+            "romantic-rivalry",
+            "coming-of-age",
+            "sitcom-format"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "nostalgic",
+            "cheerful"
+          ],
+          "genre_and_tropes": [
+            "animated-comedy",
+            "sitcom",
+            "teen-comedy"
+          ],
+          "setting": [
+            "riverdale",
+            "small-town-usa",
+            "1960s"
+          ],
+          "character_archetypes": [
+            "teenager",
+            "romantic-interest",
+            "mischief-maker",
+            "best-friend"
+          ],
+          "narrative_style": [
+            "episodic",
+            "sitcom-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "archie-andrews",
+            "betty-cooper",
+            "veronica-lodge",
+            "jughead-jones",
+            "riverdale-high"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Archie Show is a lighthearted animated comedy series set in the charming small town of Riverdale, celebrating friendship, romance, and the joys of adolescence with a nostalgic and cheerful tone."
+      },
+      "duration_seconds": 59.73476004600525
+    }
+  }
+}

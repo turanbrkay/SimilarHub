@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Survivors",
+    "overview": "When a deadly virus wipes out most of the world's population, a handful of survivors struggle to stay alive.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "release_year": 2008,
+    "vote_count": 89
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Survivors is a post-apocalyptic drama series exploring the challenges of rebuilding society after a devastating global pandemic. The show focuses on a small group of individuals who must navigate a world stripped of its infrastructure and social order, confronting both external threats and internal conflicts as they attempt to establish a new community. It blends elements of survival fiction with character-driven narratives, examining themes of leadership, morality, and the fragility of civilization. The series offers a bleak but ultimately hopeful portrayal of humanity's resilience in the face of unimaginable loss.",
+        "spoiler_rich_plot_summary": "The series begins with a devastating viral outbreak that wipes out nearly all of humanity. A handful of survivors, including Greg Preston, Abby Blake, and Al Maclean, find themselves scattered across the decimated landscape. Greg, a businessman, initially attempts to impose order and structure, believing he can recreate a semblance of the old world. Abby, a resourceful and pragmatic woman, focuses on immediate survival and establishing a sustainable community. Al, a former soldier, provides protection and military expertise. As the survivors regroup, they encounter other groups, some benevolent, others hostile, leading to conflicts over resources and territory. Greg's authoritarian tendencies clash with Abby's more democratic approach, creating internal divisions within the burgeoning community. The survivors face constant threats from raiders, disease, and the harsh realities of a world without law or order. Over time, the group expands, attracting new members with diverse skills and motivations, but also introducing new challenges and betrayals. The series follows their attempts to build a lasting settlement while confronting the psychological and moral toll of their experiences, and the constant struggle to maintain hope in a world forever changed.",
+        "categorized_keywords": {
+          "themes": [
+            "post-apocalypse",
+            "survival",
+            "rebuilding-society",
+            "leadership",
+            "morality",
+            "hope",
+            "loss",
+            "community"
+          ],
+          "plot_and_concepts": [
+            "viral-outbreak",
+            "resource-scarcity",
+            "settlement-building",
+            "conflict-resolution",
+            "power-struggle"
+          ],
+          "mood_and_tone": [
+            "bleak",
+            "tense",
+            "hopeful",
+            "grim",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "post-apocalyptic",
+            "survival-fiction",
+            "dystopian",
+            "found-family"
+          ],
+          "setting": [
+            "post-apocalyptic-world",
+            "rural-landscape",
+            "abandoned-cities"
+          ],
+          "character_archetypes": [
+            "resourceful-leader",
+            "pragmatic-survivor",
+            "military-expert",
+            "authoritarian-figure"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "abandoned-vehicles",
+            "makeshift-shelter",
+            "makeshift-weapons",
+            "radio-communication"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "peril"
+          ]
+        },
+        "keyword_sentence": "Survivors is a bleak and suspenseful post-apocalyptic drama series following a group of adults struggling to rebuild society and maintain hope in a world ravaged by a devastating viral outbreak."
+      },
+      "duration_seconds": 70.81611585617065
+    }
+  }
+}

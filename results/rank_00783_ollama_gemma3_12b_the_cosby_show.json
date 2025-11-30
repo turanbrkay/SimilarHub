@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "The Cosby Show",
+    "overview": "The Cosby Show is an American television situation comedy starring Bill Cosby, which aired for eight seasons on NBC from September 20, 1984 until April 30, 1992. The show focuses on the Huxtable family, an upper middle-class African-American family living in Brooklyn, New York.",
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "release_year": 1984,
+    "vote_count": 357
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Cosby Show is a sitcom that portrays the lives of the affluent Huxtable family, navigating the joys and challenges of parenthood and family life. The series blends humor with heartwarming moments, exploring themes of education, community, and cultural identity. It offered a positive and aspirational depiction of an African-American family, breaking ground in television representation. The show's enduring appeal lies in its relatable characters and its optimistic portrayal of family values.",
+        "spoiler_rich_plot_summary": "The series begins with the introduction of Cliff and Claire Huxtable, a successful lawyer and advertising executive respectively, and their five children: Sondra, Denise, Theo, Arnold, and Rudy. Throughout the early seasons, the show focuses on the children's growth and development, showcasing their academic pursuits, social interactions, and occasional misadventures. Theo struggles with finding his place in the world, often seeking guidance from his father. Denise explores her independence and artistic aspirations, sometimes clashing with her parents' more traditional values. As the series progresses, the Huxtables face various challenges, including financial pressures, relationship conflicts, and the complexities of raising teenagers. Sondra marries and moves away, while Denise embarks on a journey of self-discovery. The show consistently emphasizes the importance of family support and communication as the Huxtables navigate these life changes, ultimately reinforcing the strength and resilience of the family unit. While the series maintains a generally lighthearted tone, it also addresses more serious issues, such as prejudice and social responsibility, contributing to its lasting cultural impact.",
+        "categorized_keywords": {
+          "themes": [
+            "family-values",
+            "parenting",
+            "education",
+            "cultural-identity",
+            "social-responsibility",
+            "growing-up"
+          ],
+          "plot_and_concepts": [
+            "sitcom",
+            "family-drama",
+            "coming-of-age",
+            "relationship-dynamics"
+          ],
+          "mood_and_tone": [
+            "heartwarming",
+            "optimistic",
+            "lighthearted",
+            "humorous"
+          ],
+          "genre_and_tropes": [
+            "family-sitcom",
+            "slice-of-life",
+            "aspirational-living"
+          ],
+          "setting": [
+            "brooklyn-new-york",
+            "modern-day",
+            "upper-middle-class"
+          ],
+          "character_archetypes": [
+            "loving-parents",
+            "teenager",
+            "wise-mentor",
+            "aspiring-artist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "family-dinner",
+            "school-events",
+            "basketball-game",
+            "living-room"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Cosby Show is a heartwarming family sitcom set in Brooklyn, New York, that explores themes of parenting, education, and cultural identity through the lives of an optimistic and aspirational African-American family."
+      },
+      "duration_seconds": 57.624624729156494
+    }
+  }
+}

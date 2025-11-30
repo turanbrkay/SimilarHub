@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "The Staircase",
+    "overview": "Academy Award-winning documentary filmmaker, Jean-Xavier de Lestrade, presents a gripping courtroom thriller, offering a rare and revealing inside look at a high-profile murder trial. In 2001, author Michael Peterson was arraigned for the murder of his wife Kathleen, whose body was discovered lying in a pool of blood on the stairway of their home. Granted unusual access to Peterson's lawyers, home and immediate family, de Lestrade's cameras capture the defense team as it considers its strategic options. The series is an engrossing look at contemporary American justice that features more twists than a legal bestseller.",
+    "genres": [
+      "Documentary",
+      "Crime"
+    ],
+    "release_year": 2004,
+    "vote_count": 140
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Staircase is a documentary series offering an unprecedented look into a real-life murder trial. It blends elements of true crime, legal drama, and character study, providing a nuanced exploration of the American justice system. The series focuses on Michael Peterson, accused of killing his wife, Kathleen, and the legal team working to defend him. Through extensive access and intimate filming, it examines the complexities of evidence, the pressures of public opinion, and the human toll of a high-profile case, leaving viewers to grapple with questions of guilt and innocence.",
+        "spoiler_rich_plot_summary": "The series initially centers on Michael Peterson's arrest and trial for the death of his wife, Kathleen, who was found at the bottom of their staircase. The prosecution argues that Peterson intentionally pushed Kathleen, while the defense posits that she may have fallen due to a combination of alcohol and a pre-existing medical condition. As the trial progresses, the documentary reveals a complex web of relationships, financial struggles, and past events that cast doubt on both sides of the case. New evidence emerges, including the discovery of a possible break-in and the revelation of Kathleen's extramarital affairs, further complicating the narrative. Peterson is initially convicted of first-degree murder, but the conviction is later vacated due to jury misconduct. He ultimately pleads guilty to manslaughter in a deal to avoid a retrial, bringing a degree of closure to the case, though many questions remain unanswered and the possibility of his innocence lingers.",
+        "categorized_keywords": {
+          "themes": [
+            "true-crime",
+            "justice-system",
+            "guilt-innocence",
+            "family-secrets",
+            "legal-drama",
+            "misconduct"
+          ],
+          "plot_and_concepts": [
+            "courtroom-drama",
+            "murder-investigation",
+            "manslaughter",
+            "jury-tampering",
+            "plea-bargain"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "somber",
+            "unsettling",
+            "introspective"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "true-crime",
+            "legal-thriller"
+          ],
+          "setting": [
+            "north-carolina",
+            "modern-day",
+            "upper-class-suburb"
+          ],
+          "character_archetypes": [
+            "accused",
+            "defense-attorney",
+            "prosecutor",
+            "grieving-family"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "fly-on-the-wall",
+            "real-time-filming"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "staircase",
+            "courtroom",
+            "police-evidence",
+            "defense-strategy",
+            "financial-records"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "legal-proceedings"
+          ]
+        },
+        "keyword_sentence": "The Staircase is a suspenseful documentary series that explores the complexities of a real-life murder trial, delving into themes of guilt, innocence, and the American justice system through intimate and unsettling courtroom footage."
+      },
+      "duration_seconds": 67.02037358283997
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Inventing Anna",
+    "overview": "A journalist with a lot to prove investigates the case of Anna Delvey, the Instagram-legendary German heiress who stole the hearts of New York’s social scene – and stole their money as well.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2022,
+    "vote_count": 249
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Inventing Anna is a drama series that explores themes of ambition, deception, and the allure of wealth and status. The show follows a journalist as she investigates the story of Anna Delvey, a woman who captivated New York's elite while allegedly orchestrating a complex fraud. It blends elements of true crime, social commentary, and character study, offering a glimpse into the world of high society and the lengths people will go to achieve their dreams. The series examines the power of storytelling and the ease with which fabricated narratives can take hold, blurring the lines between reality and perception. Ultimately, it's a cautionary tale about the dangers of unchecked ambition and the fragility of trust.",
+        "spoiler_rich_plot_summary": "The series begins with Vivian Morris, a struggling journalist for The New York Times, being approached to cover the story of Anna Delvey (Soraya Volek), a young German woman claiming to be a wealthy heiress planning to open an exclusive arts foundation, the Anna Delvey Foundation. As Vivian delves deeper into Anna’s story, she discovers a web of lies and fabricated identities, revealing that Anna has been defrauding banks, hotels, and wealthy acquaintances to fund her lavish lifestyle and the illusion of her foundation. Anna’s schemes involve forging documents, manipulating relationships, and exploiting the desire for exclusivity and status. The investigation exposes a cast of characters drawn into Anna’s orbit, including financiers, gallery owners, and socialites, each with their own motivations and vulnerabilities. As Vivian pieces together Anna’s past and unravels her elaborate con, she finds herself increasingly entangled in Anna’s world, questioning her own judgment and the ethics of her reporting. The series culminates in Anna’s trial, where the full extent of her deception is revealed, and the question of her guilt and the motivations behind her actions are debated. Despite the exposure of her crimes, Anna maintains a certain mystique, leaving a lasting impression on those who encountered her and raising questions about the nature of truth and perception.",
+        "categorized_keywords": {
+          "themes": [
+            "deception",
+            "ambition",
+            "wealth",
+            "social-status",
+            "identity-theft",
+            "truth-vs-perception",
+            "class-disparity"
+          ],
+          "plot_and_concepts": [
+            "true-crime",
+            "con-artist",
+            "financial-fraud",
+            "courtroom-drama",
+            "investigative-journalism"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "satirical",
+            "darkly-comic",
+            "glamorous"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "social-commentary",
+            "rags-to-riches",
+            "catfish"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day",
+            "high-society"
+          ],
+          "character_archetypes": [
+            "con-artist",
+            "investigative-reporter",
+            "socialite",
+            "manipulator"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "fake-passport",
+            "luxury-hotel",
+            "courtroom",
+            "instagram-feed",
+            "wire-transfer"
+          ],
+          "maturity_and_content": [
+            "financial-crime",
+            "deception"
+          ]
+        },
+        "keyword_sentence": "Inventing Anna is a suspenseful crime drama set in modern-day New York City, exploring themes of deception, ambition, and the allure of wealth through the story of a con artist who captivated high society while orchestrating a complex financial fraud."
+      },
+      "duration_seconds": 67.04297971725464
+    }
+  }
+}

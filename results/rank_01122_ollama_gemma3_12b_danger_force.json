@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Danger Force",
+    "overview": "Captain Man has a new crew of superhero sidekicks - Danger Force. Captain Man and Schwoz create a fake school to train the kids to harness their uncontrollable superpowers to fight crime.",
+    "genres": [
+      "Comedy",
+      "Family",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2020,
+    "vote_count": 221
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Danger Force is a comedic superhero series aimed at a family audience, built around the established world of Henry Danger. The show follows a group of young, newly-powered individuals trained by Captain Man and Schwoz to combat crime. It blends elements of superhero action with lighthearted humor and focuses on the challenges of adolescence alongside the responsibilities of being a superhero. The series explores themes of teamwork, responsibility, and finding one's place while maintaining a generally upbeat and accessible tone.",
+        "spoiler_rich_plot_summary": "The series begins with Captain Man and Schwoz realizing that the young people of Swellview are developing uncontrollable superpowers. To manage this, they create a fake school, Danger Force Academy, where they can train these kids to become superheroes. The initial recruits, Mika, Gus, Lucy, and Bob, each possess unique and often chaotic abilities. Throughout the series, the Danger Force faces various threats, both from established villains from Captain Man’s past and new, emerging dangers. The team struggles to balance their superhero duties with the typical challenges of being teenagers, often leading to humorous misunderstandings and conflicts. As the series progresses, the Danger Force members individually confront personal growth and learn to rely on each other, ultimately becoming a cohesive and effective crime-fighting unit. Recurring antagonists and evolving power dynamics keep the narrative engaging, while the overarching theme revolves around the importance of responsibility and the complexities of growing up.",
+        "categorized_keywords": {
+          "themes": [
+            "teamwork",
+            "responsibility",
+            "growing-up",
+            "friendship",
+            "superhero-ethics"
+          ],
+          "plot_and_concepts": [
+            "superhero-training",
+            "fake-school",
+            "crime-fighting",
+            "villain-origin",
+            "power-control"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "comedic",
+            "family-friendly",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "superhero-comedy",
+            "found-family",
+            "coming-of-age",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "swellview",
+            "modern-day",
+            "fictional-city"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "quirky-mentor",
+            "teenager",
+            "superhero-sidekick"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "superhero-uniform",
+            "training-facility",
+            "villain-lair",
+            "power-boost",
+            "secret-identity"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Danger Force is a lighthearted, family-friendly superhero comedy series set in the fictional city of Swellview, where a group of teenagers learn to control their powers and fight crime with the help of a quirky mentor."
+      },
+      "duration_seconds": 61.96779108047485
+    }
+  }
+}

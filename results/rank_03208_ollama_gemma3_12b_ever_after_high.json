@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Ever After High",
+    "overview": "The students of all the fairytale characters attend Ever After High, where they are either Royals (students who want to follow in their parent's footsteps) or Rebels (students who wish to write their own destiny).",
+    "genres": [
+      "Kids",
+      "Animation",
+      "Drama",
+      "Action & Adventure"
+    ],
+    "release_year": 2013,
+    "vote_count": 42
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Ever After High is a children's animated series that explores the complexities of destiny and free will within a fairytale setting. The show centers on two groups of students: the Royals, who are destined to follow in their parents' fairytale footsteps, and the Rebels, who strive to forge their own paths. It blends elements of drama, action, and adventure, creating a narrative that emphasizes friendship, self-discovery, and the importance of challenging expectations. The series aims to provide a lighthearted and engaging experience for a young audience while subtly promoting themes of individuality and acceptance.",
+        "spoiler_rich_plot_summary": "The series begins with Raven Queen, daughter of the Evil Queen, reluctantly accepting her destined role as the villain in Snow White's fairytale. Simultaneously, Apple White, the daughter of Snow White, is expected to be the perfect fairytale princess. However, Raven's desire to avoid her destiny and Apple's questioning of her own role create tension and conflict. As the students navigate their classes and social lives, they grapple with the pressure of fulfilling their predetermined fates. The series explores the challenges of defying expectations and the importance of forging one's own identity. Throughout the seasons, relationships evolve, alliances shift, and the students uncover secrets about Ever After High and the forces that govern it. While the overarching narrative revolves around the Royals and Rebels, the series also delves into the individual stories of other fairytale descendants, showcasing their struggles and triumphs as they strive to define their own destinies. The series culminates in a confrontation that challenges the very foundations of Ever After High, forcing the students to confront their beliefs and ultimately choose their own paths.",
+        "categorized_keywords": {
+          "themes": [
+            "destiny-vs-free-will",
+            "friendship",
+            "self-discovery",
+            "acceptance",
+            "individuality",
+            "fairytales",
+            "family-dynamics"
+          ],
+          "plot_and_concepts": [
+            "chosen-one",
+            "rebellion",
+            "alternate-reality",
+            "school-setting",
+            "royal-court"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "lighthearted",
+            "optimistic",
+            "playful"
+          ],
+          "genre_and_tropes": [
+            "childrens-animation",
+            "coming-of-age",
+            "found-family",
+            "magical-school"
+          ],
+          "setting": [
+            "fantasy-kingdom",
+            "magical-school",
+            "ever-after-high"
+          ],
+          "character_archetypes": [
+            "rebel",
+            "princess",
+            "villain",
+            "mentor",
+            "hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "children",
+            "young-adults"
+          ],
+          "detail_plot": [
+            "royal-ball",
+            "magic-classes",
+            "fairytale-costumes",
+            "ever-after-high-castle"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Ever After High is a lighthearted children’s animated series exploring themes of destiny and individuality within a magical school setting, where fairytale descendants grapple with their roles and forge their own paths."
+      },
+      "duration_seconds": 59.56226420402527
+    }
+  }
+}

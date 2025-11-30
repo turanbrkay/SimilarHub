@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Deadliest Catch",
+    "overview": "Forty-foot waves, 700 pound crab pots, freezing temperatures and your mortality staring you in the face…it's all in a day's work for these modern day prospectors. During each episode we will watch crews race to meet their quota and make it home safely.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2005,
+    "vote_count": 134
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Deadliest Catch is a reality television series documenting the challenging and often perilous lives of commercial fishermen in the Bering Sea. The show focuses on the crab fishing season, highlighting the physical demands, financial risks, and interpersonal dynamics among the crew members. It blends elements of adventure, documentary, and human drama, offering a glimpse into a unique and demanding profession. The series emphasizes the constant threat of the harsh environment and the precarious nature of the work, creating a suspenseful and compelling viewing experience.",
+        "spoiler_rich_plot_summary": "Each season of Deadliest Catch follows several fishing vessels as they navigate the treacherous waters of the Bering Sea during the crab fishing seasons, primarily for king crab and opilio crab. The crews face relentless storms, equipment failures, and the constant risk of capsizing. Competition among the boats is fierce, as captains strive to maximize their catch and profit. Throughout the seasons, viewers witness the crews battling exhaustion, mechanical breakdowns, and the ever-present danger of the sea. While individual episodes focus on the immediate challenges of the fishing process, overarching narratives involve the financial struggles of the captains, the generational passing of fishing businesses, and the evolving regulations impacting the industry. The series culminates in the end of each season's fishing quota, with the crews assessing their success and preparing for the next challenging season.",
+        "categorized_keywords": {
+          "themes": [
+            "risk-taking",
+            "generational-legacy",
+            "financial-struggle",
+            "human-resilience",
+            "man-vs-nature",
+            "work-ethic"
+          ],
+          "plot_and_concepts": [
+            "fishing-industry",
+            "crab-fishing",
+            "reality-competition",
+            "seasonal-work",
+            "risk-management"
+          ],
+          "mood_and_tone": [
+            "tense",
+            "gritty",
+            "realistic",
+            "suspenseful",
+            "hardworking"
+          ],
+          "genre_and_tropes": [
+            "reality-tv",
+            "adventure-documentary",
+            "blue-collar-work",
+            "survival-story"
+          ],
+          "setting": [
+            "bering-sea",
+            "alaska",
+            "north-pacific-ocean",
+            "fishing-vessel"
+          ],
+          "character_archetypes": [
+            "seasoned-captain",
+            "hardworking-crew",
+            "blue-collar-worker"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "documentary-style"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "blue-collar-audience"
+          ],
+          "detail_plot": [
+            "crab-pot",
+            "fishing-boat",
+            "navigation-equipment",
+            "weather-report",
+            "quota-system"
+          ],
+          "maturity_and_content": [
+            "graphic-injury",
+            "dangerous-work"
+          ]
+        },
+        "keyword_sentence": "Deadliest Catch offers a gritty and suspenseful look at the dangerous lives of crab fishermen battling the harsh Bering Sea environment and striving to maintain their generational legacy in a demanding industry."
+      },
+      "duration_seconds": 64.64575672149658
+    }
+  }
+}

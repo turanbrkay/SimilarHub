@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "The Last Man on Earth",
+    "overview": "The year is 2022, and after an unlikely event, only one man is left on earth: Phil Miller, who used to be just an average guy who loved his family and hated his job at the bank. Now, in his RV, Phil searches the country for other survivors.",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "release_year": 2015,
+    "vote_count": 753
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Last Man on Earth is a darkly comedic drama that explores themes of loneliness, responsibility, and the search for connection in the face of unimaginable loss. The series follows Phil Miller, the sole survivor of a mysterious global pandemic, as he navigates a world devoid of human interaction. While initially presented as a lighthearted romp, the show gradually delves into the psychological toll of isolation and the complexities of rebuilding a society, even if it's just for one person. The blend of humor and pathos creates a unique and often poignant viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Phil Miller reveling in his newfound freedom as the last man on Earth, indulging in reckless behavior and enjoying the absence of societal constraints. However, his initial joy is tempered by the growing realization of his profound loneliness. His life takes a dramatic turn when he discovers that he is not, in fact, the last person alive. Other survivors begin to emerge, initially adding a sense of hope and potential companionship. However, these relationships are often fraught with conflict and the challenges of rebuilding trust and establishing a new social order. As the survivor population grows, the series explores the complexities of leadership, the burden of responsibility, and the potential for both cooperation and betrayal. The group faces numerous challenges, including resource scarcity, internal disagreements, and the constant threat of new dangers, ultimately forcing them to confront difficult choices about their future and the kind of society they want to create.",
+        "categorized_keywords": {
+          "themes": [
+            "loneliness",
+            "isolation",
+            "responsibility",
+            "connection",
+            "redemption",
+            "survival",
+            "hope",
+            "trust"
+          ],
+          "plot_and_concepts": [
+            "post-apocalyptic",
+            "pandemic",
+            "search-for-survivors",
+            "found-family",
+            "social-rebuilding"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "poignant",
+            "hopeful",
+            "absurdist"
+          ],
+          "genre_and_tropes": [
+            "comedy",
+            "drama",
+            "post-apocalyptic",
+            "fish-out-of-water"
+          ],
+          "setting": [
+            "united-states",
+            "modern-day",
+            "rv"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "everyman",
+            "leader"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "rv",
+            "bank",
+            "search-party"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Last Man on Earth is a darkly comic drama that explores themes of loneliness and responsibility as a man navigates a post-apocalyptic world, searching for connection and attempting to rebuild a society from the ground up."
+      },
+      "duration_seconds": 53.7803680896759
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "The Beatles Anthology",
+    "overview": "A documentary series on the career of The Beatles.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 1995,
+    "vote_count": 63
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Beatles Anthology is a comprehensive documentary series chronicling the career of the iconic British band, The Beatles. Spanning seven episodes, the series utilizes rare archival footage, interviews with the surviving members (Paul McCartney and Ringo Starr), and contributions from family, friends, and collaborators. It explores the band's formation, their rise to global fame, their creative evolution, and ultimately, their dissolution. The series aims to provide an intimate and detailed portrait of the Beatles' journey, examining both their musical achievements and the personal dynamics that shaped their legacy. It's a nostalgic and reflective look at a pivotal moment in music history, appealing to both longtime fans and those curious about the band's impact.",
+        "spoiler_rich_plot_summary": "The Anthology begins with the early days of John Lennon and Paul McCartney's collaboration in Liverpool, tracing their formation of The Quarrymen and eventual merging with George Harrison and Ringo Starr. The series follows their rapid ascent to fame in the early 1960s, documenting the frenzy of Beatlemania and their groundbreaking tours across the world. As the band matures, the documentary explores the increasing creative tensions and diverging musical interests among the members. The series highlights the impact of Brian Epstein's management and the challenges of maintaining a cohesive unit amidst immense pressure and personal growth. The later episodes delve into the individual pursuits of the Beatles, showcasing their solo careers and the factors that contributed to the band's final split. While the series doesn't dwell on blame, it acknowledges the complex web of relationships and ambitions that ultimately led to the end of The Beatles, concluding with a poignant reflection on their enduring musical impact and the bittersweet nature of their legacy.",
+        "categorized_keywords": {
+          "themes": [
+            "music-history",
+            "fame",
+            "creative-process",
+            "band-dynamics",
+            "legacy",
+            "nostalgia",
+            "personal-growth"
+          ],
+          "plot_and_concepts": [
+            "documentary-film",
+            "musical-biography",
+            "archival-footage",
+            "interviews",
+            "rise-to-fame"
+          ],
+          "mood_and_tone": [
+            "reflective",
+            "sentimental",
+            "celebratory",
+            "introspective"
+          ],
+          "genre_and_tropes": [
+            "music-documentary",
+            "biographical-drama"
+          ],
+          "setting": [
+            "1960s-britain",
+            "liverpool",
+            "london"
+          ],
+          "character_archetypes": [
+            "musical-genius",
+            "manager",
+            "band-member"
+          ],
+          "narrative_style": [
+            "chronological-narrative",
+            "oral-history"
+          ],
+          "target_audience": [
+            "music-fans",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "abbey-road-studios",
+            "beatles-album-covers",
+            "ed-sullivan-show",
+            "yellow-submarine"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Beatles Anthology is a reflective documentary series exploring the band's rise to fame, creative process, and lasting legacy through archival footage and intimate interviews, showcasing their impact on music history and the bittersweet nature of their journey."
+      },
+      "duration_seconds": 65.04758977890015
+    }
+  }
+}

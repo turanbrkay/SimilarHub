@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Tiny Toon Adventures",
+    "overview": "Follow the adventures of a group of young cartoon characters who attend the Acme Looniversity to become the next generation of characters from the Looney Tunes series.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Kids"
+    ],
+    "release_year": 1990,
+    "vote_count": 450
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Tiny Toon Adventures is a comedic animated series that serves as a spiritual successor to the classic Looney Tunes cartoons. The show follows a group of young, aspiring cartoon characters attending Acme Looniversity, mirroring the educational and comedic structure of its predecessor. It blends slapstick humor, witty satire, and heartwarming lessons about friendship and perseverance, appealing to both children and adults familiar with the original Looney Tunes. The series maintains a lighthearted tone while subtly poking fun at contemporary culture and the entertainment industry.",
+        "spoiler_rich_plot_summary": "The series begins with the introduction of a new generation of Looney Tunes characters, including Buster Bunny, Babs Bunny, Plucky Duck, and Hamton J. Pig, all enrolled at Acme Looniversity. The initial episodes focus on their academic pursuits and the challenges of navigating school life, often involving comical mishaps and rivalries with older, more established characters. Throughout the series, the young toons participate in various competitions, talent shows, and field trips, each presenting opportunities for hilarious antics and character development. Recurring antagonists, such as Fowlbert the chicken, create ongoing conflicts and comedic situations. The series explores themes of ambition, teamwork, and the importance of learning from mistakes, culminating in a general sense of growth and camaraderie among the young toons as they prepare to follow in the footsteps of their legendary predecessors. While the series maintains a largely comedic tone, it occasionally touches upon more serious themes, such as the responsibility that comes with inheriting a legacy.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "legacy",
+            "education",
+            "ambition",
+            "perseverance",
+            "coming-of-age"
+          ],
+          "plot_and_concepts": [
+            "school-setting",
+            "rivalry",
+            "talent-show",
+            "legacy-continuation",
+            "slapstick-comedy"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "nostalgic"
+          ],
+          "genre_and_tropes": [
+            "animated-comedy",
+            "family-audience",
+            "parody",
+            "found-family"
+          ],
+          "setting": [
+            "acme-looneyversity",
+            "cartoon-world",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "aspiring-hero",
+            "mischievous-protagonist",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "kids"
+          ],
+          "detail_plot": [
+            "acme-looneyversity-campus",
+            "cartoon-classroom",
+            "slapstick-gags"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Tiny Toon Adventures is a lighthearted animated comedy series for the family audience, following a group of aspiring cartoon characters at a whimsical school setting as they learn about friendship, legacy, and the importance of perseverance."
+      },
+      "duration_seconds": 72.04352378845215
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Spider-Man: The New Animated Series",
+    "overview": "Spider-Man: The New Animated Series is an American animated series based on the Marvel comic book superhero character Spider-Man, which ran for one season, 13 episodes, starting on July 11, 2003. It is a loose continuation of 2002's Spider-Man film directed by Sam Raimi. The show was made using computer generated imagery rendered in cel shading and was broadcast on MTV, and YTV. Eight months later after the series finale, episodes aired in reruns on ABC Family as part of the Jetix television programming block. The series featured a far more mature version of the character than typically seen on television for any animated comic book adaptation. Throughout the series, characters are clearly killed, rather than the usual ambiguous disappearance, and several characters are strongly implied to have had sex.",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2003,
+    "vote_count": 333
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Spider-Man: The New Animated Series is a visually distinctive action-adventure show that reimagines the Spider-Man narrative with a darker, more mature tone than typical animated adaptations. Utilizing cel-shaded CGI animation, the series explores complex themes of responsibility, loss, and morality within a superhero context. The show distinguishes itself through its willingness to depict character deaths and implied sexual content, pushing boundaries for a comic book adaptation aimed at a teen and young adult audience. It serves as a loose continuation of Sam Raimi's 2002 film, expanding the established universe with original storylines and character development.",
+        "spoiler_rich_plot_summary": "The series begins shortly after the events of the 2002 film, with Peter Parker balancing his high school life and his responsibilities as Spider-Man. The narrative quickly introduces new and recurring villains, many of whom pose significant threats to New York City and Peter's loved ones. Throughout the first season, Peter grapples with the consequences of his dual identity, facing personal losses and moral dilemmas that challenge his sense of justice. The series explores the darker side of heroism, depicting characters meeting permanent ends and hinting at complex relationships. As the season progresses, Peter confronts increasingly powerful adversaries, culminating in a climactic confrontation that tests his abilities and forces him to make difficult choices. The series concludes with unresolved conflicts and a sense of uncertainty about the future, leaving the door open for potential further adventures.",
+        "categorized_keywords": {
+          "themes": [
+            "responsibility",
+            "loss",
+            "morality",
+            "dual-identity",
+            "heroism",
+            "justice"
+          ],
+          "plot_and_concepts": [
+            "superhero-action",
+            "villain-origin",
+            "revenge",
+            "alternate-timeline",
+            "mystery"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "serious",
+            "action-packed",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "animated-series",
+            "superhero-genre",
+            "coming-of-age",
+            "revenge-plot"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "mentor",
+            "antagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "teen-viewers",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "spider-suit",
+            "web-shooters",
+            "villain-lair",
+            "daily-bugle"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "sexual-content",
+            "implied-sex"
+          ]
+        },
+        "keyword_sentence": "Spider-Man: The New Animated Series is a dark and action-packed animated series set in modern-day New York City, exploring themes of responsibility and heroism through a serialized story with a young adult audience."
+      },
+      "duration_seconds": 62.66619634628296
+    }
+  }
+}

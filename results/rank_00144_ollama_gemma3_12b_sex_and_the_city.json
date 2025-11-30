@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Sex and the City",
+    "overview": "Based on the bestselling book by Candace Bushnell, Sex and the City tells the story of four best friends, all single and in their late thirties, as they pursue their careers and talk about their sex lives, all while trying to survive the New York social scene. ",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1998,
+    "vote_count": 1871
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Sex and the City is a comedy-drama series that explores the lives, loves, and careers of four single women navigating the complexities of relationships and social life in New York City. The show blends humor with insightful commentary on female friendship, ambition, and the search for connection in a modern urban environment. It's known for its frank discussions about sex and relationships, its stylish aesthetic, and its portrayal of a specific social circle. The series offers a lighthearted yet relatable look at the challenges and triumphs of singlehood and the importance of female bonds.",
+        "spoiler_rich_plot_summary": "The series begins with Carrie Bradshaw, a struggling writer, chronicling her experiences and observations about love and relationships in New York City. She's joined by her three best friends: Miranda Hobbes, a pragmatic lawyer; Charlotte York, a romantic striving for traditional marriage; and Samantha Jones, a confident and outspoken public relations executive. Throughout the series, each woman faces various romantic entanglements, career setbacks, and personal growth moments. Carrie's relationships with Mr. Big, Aidan Shaw, and Aleksandr Petrovsky shape her understanding of love and commitment. Miranda grapples with motherhood and her own ambitions, while Charlotte navigates the complexities of marriage and fertility struggles. Samantha's independent lifestyle and unapologetic approach to sexuality challenge societal norms. The series follows their individual journeys as they evolve professionally and personally, often confronting difficult choices and experiencing heartbreak alongside moments of joy and fulfillment. Over time, the women support each other through thick and thin, demonstrating the enduring power of female friendship as they confront the realities of love, loss, and the pursuit of happiness.",
+        "categorized_keywords": {
+          "themes": [
+            "female-friendship",
+            "love-and-relationships",
+            "self-discovery",
+            "career-ambition",
+            "modern-romance",
+            "social-status",
+            "city-life"
+          ],
+          "plot_and_concepts": [
+            "romantic-comedy",
+            "slice-of-life",
+            "dating-and-relationships",
+            "female-perspective",
+            "ensemble-cast"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "stylish",
+            "witty",
+            "sophisticated",
+            "humorous"
+          ],
+          "genre_and_tropes": [
+            "romantic-comedy",
+            "ensemble-cast",
+            "slice-of-life",
+            "female-led"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day",
+            "urban-setting"
+          ],
+          "character_archetypes": [
+            "independent-woman",
+            "romantic-lead",
+            "career-driven",
+            "best-friends"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "women"
+          ],
+          "detail_plot": [
+            "manolo-blahnik",
+            "cosmopolitan-magazine",
+            "fashion-boutique",
+            "appartment-therapy",
+            "restaurant-scene"
+          ],
+          "maturity_and_content": [
+            "sexual-content",
+            "mature-themes"
+          ]
+        },
+        "keyword_sentence": "Sex and the City offers a lighthearted and stylish look at the lives of four best friends navigating love, careers, and the complexities of modern romance in the vibrant setting of New York City."
+      },
+      "duration_seconds": 70.39169383049011
+    }
+  }
+}

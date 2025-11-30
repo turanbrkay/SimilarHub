@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Top of the Lake",
+    "overview": "A woman haunted by her past, Detective Robin Griffin, investigates complex and unsettling cases.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2013,
+    "vote_count": 295
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Top of the Lake is a New Zealand-Australian crime drama series that blends elements of mystery, psychological thriller, and social commentary. The series follows Detective Robin Griffin as she investigates disturbing cases in a remote, isolated community, grappling with her own personal demons and the dark secrets of the people around her. The show explores themes of trauma, identity, and the complexities of human relationships within a visually striking and atmospheric setting. Its slow-burn narrative and nuanced character development create a sense of unease and intrigue, offering a compelling and emotionally resonant viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Detective Robin Griffin, a detective with a troubled past, returning to her isolated hometown in New Zealand's South Island. She is immediately drawn into a disturbing case: the disappearance of a pregnant 12-year-old girl, Tui Lauper. As Robin investigates, she uncovers a web of secrets and lies within the close-knit community, revealing a history of abuse, exploitation, and suppressed trauma. The investigation leads her to uncover a cult-like group led by the enigmatic Arthur Finch, who exerts a powerful influence over the town's residents. Robin's own past is inextricably linked to the case, forcing her to confront painful memories and question her own identity. The search for Tui reveals a complex network of relationships and hidden agendas, exposing the dark underbelly of the seemingly idyllic landscape. The series culminates in a confrontation with Finch and his followers, revealing the full extent of their manipulation and control. Robin ultimately finds a measure of closure, but the experience leaves a lasting impact on her, highlighting the enduring consequences of trauma and the difficulty of escaping one's past.",
+        "categorized_keywords": {
+          "themes": [
+            "trauma",
+            "identity-quest",
+            "abuse",
+            "redemption",
+            "family-secrets",
+            "isolation"
+          ],
+          "plot_and_concepts": [
+            "missing-person",
+            "police-investigation",
+            "cult-influence",
+            "serial-mystery"
+          ],
+          "mood_and_tone": [
+            "darkly-atmospheric",
+            "somber",
+            "suspenseful",
+            "psychological-thriller"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "mystery",
+            "slow-burn-narrative"
+          ],
+          "setting": [
+            "new-zealand",
+            "remote-community",
+            "south-island"
+          ],
+          "character_archetypes": [
+            "troubled-detective",
+            "enigmatic-leader",
+            "vulnerable-victim"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "mystery-box"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "remote-landscape",
+            "police-station",
+            "cult-compound"
+          ],
+          "maturity_and_content": [
+            "sexual-content",
+            "graphic-violence",
+            "abuse-themes"
+          ]
+        },
+        "keyword_sentence": "Top of the Lake is a darkly atmospheric crime drama set in a remote New Zealand community, exploring themes of trauma and abuse through the eyes of a troubled detective investigating a complex mystery."
+      },
+      "duration_seconds": 60.54791474342346
+    }
+  }
+}

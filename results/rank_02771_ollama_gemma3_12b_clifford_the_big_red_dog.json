@@ -1,0 +1,70 @@
+{
+  "input_data": {
+    "title": "Clifford the Big Red Dog",
+    "overview": "The adventures of a larger-than-life red dog on Bridwell Island.",
+    "genres": [
+      "Animation",
+      "Kids"
+    ],
+    "release_year": 2000,
+    "vote_count": 56
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Clifford the Big Red Dog is a gentle, episodic animated series aimed at a preschool audience. The show follows the adventures of Clifford, a giant red dog, and his young owner, Emily Elizabeth, as they navigate life on Bridwell Island. The series emphasizes themes of friendship, kindness, and problem-solving, often presented through simple, heartwarming stories. It's a comforting and visually appealing show designed to entertain and subtly teach valuable social-emotional lessons for young viewers. The show's charm lies in its whimsical setting and the endearing relationship between Clifford and Emily Elizabeth.",
+        "spoiler_rich_plot_summary": "The series primarily revolves around Emily Elizabeth and Clifford exploring Bridwell Island and encountering various situations that require them to work together. Each episode typically presents a new challenge, whether it's helping a friend, solving a minor mystery, or learning a lesson about sharing or responsibility. While there isn't a grand overarching narrative, recurring characters and locations establish a sense of community and familiarity. Clifford's size often leads to humorous situations and opportunities for Emily Elizabeth to demonstrate her resourcefulness and empathy. The series concludes with Clifford and Emily Elizabeth continuing their adventures, reinforcing the importance of their bond and the joys of simple, everyday experiences.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "kindness",
+            "responsibility",
+            "problem-solving",
+            "family-bond",
+            "community"
+          ],
+          "plot_and_concepts": [
+            "episodic-story",
+            "coming-of-age",
+            "animal-companion"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "lighthearted",
+            "gentle",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "childrens-animation",
+            "slice-of-life"
+          ],
+          "setting": [
+            "island-setting",
+            "small-town-life"
+          ],
+          "character_archetypes": [
+            "innocent-child",
+            "loyal-companion",
+            "supportive-friend"
+          ],
+          "narrative_style": [
+            "episodic-format"
+          ],
+          "target_audience": [
+            "preschool-audience",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "big-red-dog",
+            "bridwell-island",
+            "childs-bicycle",
+            "beach-scene"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Clifford the Big Red Dog is a gentle and lighthearted children's animation series set on a charming island, emphasizing themes of friendship and kindness through episodic stories perfect for a family audience."
+      },
+      "duration_seconds": 47.639312505722046
+    }
+  }
+}

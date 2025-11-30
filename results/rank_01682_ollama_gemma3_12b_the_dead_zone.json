@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "The Dead Zone",
+    "overview": "Johnny Smith discovers he has developed psychic abilities after a coma.",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2002,
+    "vote_count": 124
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Dead Zone is a supernatural drama series centered on a man who awakens from a coma with precognitive abilities. The show explores the moral and personal dilemmas faced by the protagonist as he grapples with the burden of foreseeing future events, often tragic ones, and attempts to alter them. It blends elements of science fiction, mystery, and psychological thriller, examining themes of fate, free will, and the consequences of interfering with the natural order. The series maintains a somber tone, punctuated by moments of suspense and emotional intensity, as Johnny struggles to reconcile his ordinary life with his extraordinary gift.",
+        "spoiler_rich_plot_summary": "The series begins with Johnny Smith awakening from a five-year coma to discover he possesses the ability to see glimpses of the future through touch – 'dead zones' representing impending tragedies. Initially, he attempts to use his gift to prevent disasters, often with unintended consequences. He becomes a reluctant hero, pursued by both those who want to exploit his abilities and those who fear them. As the series progresses, Johnny's visions become more complex and personal, revealing a dark conspiracy connected to his past and the origins of his powers. He confronts powerful adversaries who seek to control his gift for their own nefarious purposes, leading to a series of escalating conflicts. Throughout his journey, Johnny grapples with the ethical implications of altering fate, facing the realization that some events are seemingly unavoidable. The series culminates in a confrontation with the forces behind his abilities, forcing Johnny to make a profound sacrifice to protect those he cares about and potentially reshape the future, though the ultimate outcome remains ambiguous.",
+        "categorized_keywords": {
+          "themes": [
+            "fate-vs-free-will",
+            "moral-responsibility",
+            "psychic-abilities",
+            "redemption",
+            "loss-and-grief",
+            "conspiracy"
+          ],
+          "plot_and_concepts": [
+            "precognition",
+            "time-travel",
+            "psychic-phenomena",
+            "government-conspiracy",
+            "serial-visions"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "suspenseful",
+            "dark",
+            "melancholy",
+            "mysterious"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "psychological-thriller",
+            "supernatural-drama",
+            "hero-journey",
+            "slow-burn-mystery"
+          ],
+          "setting": [
+            "modern-day",
+            "small-town-america",
+            "new-england"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "ordinary-man",
+            "enigmatic-antagonist",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "mystery-box",
+            "episodic-elements"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "coma",
+            "psychic-touch",
+            "dead-zone",
+            "government-facility",
+            "flashback-sequence"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "emotional-trauma"
+          ]
+        },
+        "keyword_sentence": "The Dead Zone is a somber science-fiction drama series exploring themes of fate and moral responsibility as a man with psychic abilities grapples with visions of impending tragedy in a modern-day American setting."
+      },
+      "duration_seconds": 71.35941648483276
+    }
+  }
+}

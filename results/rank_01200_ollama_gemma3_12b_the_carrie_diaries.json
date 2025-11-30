@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "The Carrie Diaries",
+    "overview": "Before she was a fashion icon, before her column in the New York Star, before Mr. Big, Carrie Bradshaw was an innocent 16-year-old girl living in suburban Connecticut.",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "release_year": 2013,
+    "vote_count": 203
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Carrie Diaries is a coming-of-age drama and comedy series that serves as a prequel to Sex and the City, exploring the formative years of Carrie Bradshaw. Set in the 1980s, the show follows Carrie as she navigates the challenges of adolescence, first love, and her burgeoning ambition to become a journalist in New York City. The series blends nostalgic aesthetics with relatable themes of self-discovery, friendship, and the pursuit of dreams, offering a lighter and more youthful perspective on the world that would later be explored in its iconic sequel. It captures the energy and anxieties of a young woman on the cusp of adulthood, balancing humor and heartfelt moments.",
+        "spoiler_rich_plot_summary": "The series begins with Carrie Bradshaw living in Meadowbrook, Connecticut, working at her father's auto body shop and dreaming of a career in journalism. She shares a close bond with her best friends, Samantha and Dorrit, and experiences her first romantic entanglements, notably with Sebastian Kydd, a charismatic but troubled musician. As Carrie pursues her dream of moving to New York City, she faces obstacles including financial constraints, familial responsibilities, and the complexities of her relationships. Sebastian's involvement with a dangerous crowd and his own personal demons create significant conflict, testing Carrie's loyalty and forcing her to confront difficult choices. Throughout the series, Carrie's relationship with her father evolves as she learns more about his past and the sacrifices he made for his family. Ultimately, Carrie makes the difficult decision to leave Meadowbrook and move to New York, marking the beginning of her journey towards becoming the Carrie Bradshaw audiences know from Sex and the City, though the series concludes before fully depicting her transition into the iconic fashion journalist.",
+        "categorized_keywords": {
+          "themes": [
+            "coming-of-age",
+            "friendship",
+            "first-love",
+            "family-dynamics",
+            "self-discovery",
+            "ambition",
+            "nostalgia"
+          ],
+          "plot_and_concepts": [
+            "prequel-story",
+            "small-town-escape",
+            "romantic-entanglements",
+            "coming-of-age-story",
+            "journalism-career"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "nostalgic",
+            "romantic",
+            "youthful",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "teen-drama",
+            "coming-of-age-story",
+            "romantic-comedy",
+            "80s-aesthetic"
+          ],
+          "setting": [
+            "connecticut",
+            "new-york-city",
+            "1980s"
+          ],
+          "character_archetypes": [
+            "aspiring-journalist",
+            "best-friends",
+            "troubled-musician",
+            "supportive-father"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult",
+            "female-viewers"
+          ],
+          "detail_plot": [
+            "auto-body-shop",
+            "vintage-fashion",
+            "cassette-tapes",
+            "new-york-star"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Set in 1980s Connecticut, The Carrie Diaries is a lighthearted and nostalgic teen drama exploring themes of friendship, first love, and ambition as a young woman dreams of a journalism career in New York City."
+      },
+      "duration_seconds": 69.47564005851746
+    }
+  }
+}

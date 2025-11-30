@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Wallander",
+    "overview": "This drama follows Inspector Kurt Wallander – a middle-aged everyman – as he struggles against a rising tide of violence in the apparently sleepy backwaters in and around Ystad in Skane, southern Sweden. Based on the international best-selling books by Henning Mankell.",
+    "genres": [
+      "Drama",
+      "Crime",
+      "Mystery"
+    ],
+    "release_year": 2008,
+    "vote_count": 108
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Wallander is a Swedish crime drama series centered on a troubled police inspector grappling with personal demons while investigating increasingly complex and disturbing cases. The series blends procedural elements with a character-driven narrative, exploring themes of morality, loss, and the psychological toll of confronting darkness. It offers a somber and realistic portrayal of crime investigation, emphasizing the emotional and ethical challenges faced by law enforcement. The series distinguishes itself through its grounded realism and the protagonist's introspective nature, creating a consistently bleak and atmospheric viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Kurt Wallander, a seasoned detective in Ystad, Sweden, investigating a seemingly straightforward murder. As he delves deeper, he uncovers a web of interconnected crimes and personal tragedies that challenge his understanding of justice and morality. Throughout the series, Wallander confronts a rising tide of violence, often linked to organized crime and societal decay. He struggles with alcoholism, strained relationships with his daughter Linda, and the emotional burden of his work, leading to periods of intense self-doubt and despair. Cases frequently reveal uncomfortable truths about the community he serves, forcing him to question his own beliefs and the effectiveness of his methods. While he achieves some measure of justice, the series consistently portrays a world where evil persists and the cost of fighting it is always high. The later seasons see Wallander nearing retirement, still haunted by past failures and facing new threats, ultimately leaving a legacy of both dedication and personal sacrifice.",
+        "categorized_keywords": {
+          "themes": [
+            "crime-and-punishment",
+            "moral-ambiguity",
+            "loss-and-grief",
+            "police-corruption",
+            "social-decay",
+            "personal-redemption"
+          ],
+          "plot_and_concepts": [
+            "police-procedural",
+            "serial-crime",
+            "missing-persons",
+            "organized-crime",
+            "cold-case"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "somber",
+            "bleak",
+            "realistic",
+            "introspective"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "noir",
+            "slow-burn",
+            "detective-fiction"
+          ],
+          "setting": [
+            "sweden",
+            "small-town",
+            "modern-day",
+            "scandinavian-setting"
+          ],
+          "character_archetypes": [
+            "troubled-detective",
+            "flawed-hero",
+            "grizzled-veteran",
+            "reluctant-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-crime",
+            "character-driven"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "crime-scene",
+            "police-car",
+            "interrogation-room",
+            "swedish-landscape"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "Wallander is a dark and somber Swedish crime drama that explores themes of loss, moral ambiguity, and the psychological toll on a troubled detective confronting a rising tide of violence in a bleak Scandinavian setting."
+      },
+      "duration_seconds": 66.21824717521667
+    }
+  }
+}

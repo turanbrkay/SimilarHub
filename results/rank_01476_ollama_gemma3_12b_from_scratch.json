@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "From Scratch",
+    "overview": "An artist finds romance with a chef in Italy and embarks on a life-changing journey of love, loss, resilience and hope across cultures and continents.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2022,
+    "vote_count": 148
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "From Scratch is a drama series exploring themes of love, family, and cultural identity. The story follows an American artist who finds love with an Italian chef, leading her to embrace a new life and confront unexpected challenges. The series blends romance with elements of cultural exploration and personal growth, offering a poignant and emotionally resonant narrative. It examines the complexities of cross-cultural relationships and the resilience of the human spirit in the face of adversity, creating a heartwarming yet bittersweet viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Amy, a young American artist, traveling to Florence, Italy, where she meets Massimo, a charismatic chef. Their connection is immediate and passionate, leading to a whirlwind romance and a decision for Amy to leave her life in the United States and build a future with Massimo in his hometown of Sicily. As they settle into a new life, Amy discovers the joys of Sicilian culture and family, but also confronts the challenges of integrating into a close-knit community and navigating Massimo’s complex family dynamics. Tragedy strikes when Massimo's mother passes away, leaving a void in his life and impacting their relationship. Amy and Massimo face further hardship when Massimo's father is diagnosed with a serious illness, forcing them to confront mortality and the fragility of life. Despite these trials, their love deepens, and they build a family of their own, embracing the richness and complexity of their intertwined lives and cultures. The series culminates in a celebration of love, loss, and the enduring power of family, demonstrating the transformative journey of two individuals finding solace and strength in each other.",
+        "categorized_keywords": {
+          "themes": [
+            "love-and-romance",
+            "family-ties",
+            "cultural-identity",
+            "grief-and-loss",
+            "resilience",
+            "hope",
+            "cross-cultural-relationships"
+          ],
+          "plot_and_concepts": [
+            "romance-plot",
+            "family-saga",
+            "coming-of-age",
+            "cultural-exploration"
+          ],
+          "mood_and_tone": [
+            "heartwarming",
+            "poignant",
+            "emotional",
+            "bittersweet"
+          ],
+          "genre_and_tropes": [
+            "drama",
+            "romantic-drama",
+            "family-drama"
+          ],
+          "setting": [
+            "italy",
+            "sicily",
+            "florence",
+            "united-states"
+          ],
+          "character_archetypes": [
+            "artist",
+            "chef",
+            "reluctant-immigrant"
+          ],
+          "narrative_style": [
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "italian-cuisine",
+            "sicilian-family",
+            "art-studio",
+            "vineyard"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Exploring themes of love, family, and cultural identity, From Scratch is a heartwarming drama series set in Italy and the United States, following an artist and a chef as they navigate a poignant journey of resilience and hope."
+      },
+      "duration_seconds": 64.65042209625244
+    }
+  }
+}

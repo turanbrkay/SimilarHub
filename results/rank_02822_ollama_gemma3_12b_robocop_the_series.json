@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "RoboCop: The Series",
+    "overview": "RoboCop: The Series is a 1994 television series based on the film of the same name. It stars Richard Eden as the title character. Made to appeal primarily to children and young teenagers, it lacks the graphic violence that was the hallmark of RoboCop and RoboCop 2. RoboCop has several non-lethal alternatives to killing criminals, which ensures that certain villains can be recurring. The OCP Chairman and his corporation are treated as simply naïve and ignorant, in contrast to their malicious and immoral behavior from the second film onward.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Comedy",
+      "Crime"
+    ],
+    "release_year": 1994,
+    "vote_count": 54
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "RoboCop: The Series is a reimagining of the iconic film franchise, geared towards a younger audience. The show maintains the core concept of a police officer transformed into a cyborg law enforcer, but significantly tones down the violence and dark satire present in the original movies. It emphasizes action and adventure with comedic elements, portraying the corporation behind RoboCop's creation as misguided rather than overtly malicious. The series explores themes of justice, technology, and the potential for redemption within a futuristic setting, offering a more family-friendly take on the RoboCop universe.",
+        "spoiler_rich_plot_summary": "The series follows Alex Murphy, a Detroit police officer who is brutally injured in the line of duty and subsequently rebuilt as RoboCop. Unlike the films, RoboCop's programming emphasizes non-lethal methods, leading to recurring villains who are apprehended rather than killed. The narrative revolves around Alex’s struggle to reconcile his human memories and emotions with his robotic form, while battling crime and corruption within the city. OCP, the corporation responsible for his transformation, is depicted as well-intentioned but often inept, leading to humorous situations and challenges for RoboCop. Throughout the series, Alex confronts various threats, including rogue robots, criminal gangs, and internal conflicts within OCP, all while striving to uphold the law and protect the citizens of Detroit. The series concludes with Alex continuing his role as RoboCop, dedicated to maintaining order and seeking a balance between his human past and his robotic present.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "technology",
+            "redemption",
+            "corporate-responsibility",
+            "law-enforcement",
+            "identity-crisis"
+          ],
+          "plot_and_concepts": [
+            "cyborg-transformation",
+            "police-procedural",
+            "crime-fighting",
+            "futuristic-setting",
+            "corporate-conspiracy"
+          ],
+          "mood_and_tone": [
+            "action-adventure",
+            "lighthearted",
+            "comedic",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "sci-fi",
+            "superhero-action",
+            "found-family",
+            "futuristic-noir"
+          ],
+          "setting": [
+            "detroit-city",
+            "futuristic-cityscape",
+            "alternate-timeline"
+          ],
+          "character_archetypes": [
+            "cyborg-hero",
+            "reluctant-hero",
+            "corrupt-executive",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "robocop-suit",
+            "ocp-tower",
+            "police-car",
+            "robotic-arm"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "RoboCop: The Series is a lighthearted, futuristic action-adventure that follows a cyborg law enforcer as he strives for justice and redemption within a technologically advanced Detroit, appealing to a family audience."
+      },
+      "duration_seconds": 67.08579349517822
+    }
+  }
+}

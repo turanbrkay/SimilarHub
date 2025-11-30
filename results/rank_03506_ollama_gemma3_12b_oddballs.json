@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Oddballs",
+    "overview": "Bubble-shaped boy James questions anything and everything that annoys him. The result? An awesome life of odd adventure with his two best friends.",
+    "genres": [
+      "Action & Adventure",
+      "Comedy",
+      "Animation"
+    ],
+    "release_year": 2022,
+    "vote_count": 35
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Oddballs is a vibrant, animated comedy series geared towards a younger audience, blending action-adventure elements with a focus on friendship and embracing individuality. The show follows a group of quirky characters who challenge norms and embark on humorous escapades, often questioning the status quo. Its tone is lighthearted and optimistic, emphasizing the importance of creativity and acceptance. The series aims to entertain while subtly promoting themes of self-discovery and the value of unconventional thinking.",
+        "spoiler_rich_plot_summary": "The series centers around James, a boy with a unique bubble-shaped head who constantly questions the rules and routines of his town, Harmony Glen. He's joined by his two best friends, Oona, a resourceful and energetic girl, and Zeke, a lovable but clumsy inventor. Initially, their questioning leads to minor mischief and humorous misunderstandings with the town's eccentric adults, particularly Mayor Fitzwilliam, who tries to maintain order. As the series progresses, the trio uncovers a larger mystery surrounding Harmony Glen's seemingly perfect facade, revealing a hidden history and a secret organization attempting to control the town's identity. Through a series of increasingly elaborate schemes and adventures, James, Oona, and Zeke learn to harness their unique abilities and challenge the forces trying to suppress Harmony Glen's true spirit, ultimately working to restore balance and celebrate the town's oddball nature. The series culminates in a final confrontation where the friends must use their combined ingenuity to expose the truth and ensure Harmony Glen remains a place where individuality is celebrated.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "individuality",
+            "self-discovery",
+            "questioning-authority",
+            "acceptance",
+            "community"
+          ],
+          "plot_and_concepts": [
+            "mystery",
+            "conspiracy",
+            "coming-of-age",
+            "small-town-secrets"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "optimistic",
+            "humorous",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "comedy",
+            "action-adventure",
+            "found-family"
+          ],
+          "setting": [
+            "small-town",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "quirky-protagonist",
+            "loyal-friend",
+            "eccentric-adult"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "bubble-shaped-head",
+            "small-town-square",
+            "quirky-inventions",
+            "town-hall-meeting"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Oddballs is a lighthearted and animated comedy series that celebrates friendship, individuality, and the joy of questioning authority in a quirky small town."
+      },
+      "duration_seconds": 55.1370587348938
+    }
+  }
+}

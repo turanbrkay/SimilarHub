@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "The Hardy Boys",
+    "overview": "When Frank and Joe Hardy arrive in Bridgeport, they set out to uncover the truth behind the recent tragedy that has changed their lives. In doing so, they stumble upon something much more sinister - something only the Hardy Boys can stop.",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2020,
+    "vote_count": 42
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Hardy Boys is a mystery drama series centered on teenage brothers Frank and Joe Hardy as they investigate a series of interconnected events in their new town. The show blends elements of teen drama with a classic whodunit narrative, exploring themes of family, loyalty, and the challenges of growing up while uncovering a larger conspiracy. The series maintains a suspenseful tone, balancing the brothers' personal struggles with the escalating danger of their investigations, offering a compelling blend of intrigue and character development.",
+        "spoiler_rich_plot_summary": "Frank and Joe Hardy relocate to Bridgeport following a family tragedy, hoping for a fresh start. However, their attempts at normalcy are quickly disrupted when they become entangled in a local mystery surrounding the disappearance of a young woman and a series of unsettling events tied to a historical figure named Ellery Preston. As they investigate, the brothers uncover a network of secrets and lies that implicate prominent members of the community, including their own neighbors. Their pursuit of the truth leads them to confront a shadowy organization with deep roots in Bridgeport's past, revealing a conspiracy that threatens to unravel the town's foundations. The Hardy Boys face betrayals and danger as they race to expose the truth and prevent further harm, ultimately confronting the mastermind behind the conspiracy and attempting to restore order to Bridgeport, though the experience leaves a lasting impact on their lives and their understanding of their family’s history.",
+        "categorized_keywords": {
+          "themes": [
+            "family-loyalty",
+            "coming-of-age",
+            "mystery",
+            "conspiracy",
+            "justice",
+            "secrets"
+          ],
+          "plot_and_concepts": [
+            "teen-detectives",
+            "small-town-mystery",
+            "historical-conspiracy",
+            "whodunit",
+            "investigation"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "tense",
+            "intriguing"
+          ],
+          "genre_and_tropes": [
+            "mystery-drama",
+            "teen-drama",
+            "coming-of-age-story",
+            "small-town-secrets"
+          ],
+          "setting": [
+            "small-town-usa",
+            "modern-day",
+            "bridgeport"
+          ],
+          "character_archetypes": [
+            "teen-detective",
+            "reluctant-hero",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult"
+          ],
+          "detail_plot": [
+            "hardy-boys",
+            "investigation-files",
+            "small-town-mystery"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Hardy Boys is a suspenseful mystery drama series set in a small town, following teen detectives as they uncover a dangerous conspiracy and confront their own coming-of-age challenges."
+      },
+      "duration_seconds": 53.96147322654724
+    }
+  }
+}

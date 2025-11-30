@@ -1,0 +1,70 @@
+{
+  "input_data": {
+    "title": "LA to Vegas",
+    "overview": "An ensemble workplace comedy about a group of underdogs trying to find their place in the world, set on the Friday night flight from LAX to Vegas and the returning flight on Sunday, who all share the same goal: to come back a winner in the casino of life.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2018,
+    "vote_count": 36
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "LA to Vegas is a workplace comedy series that follows a group of individuals as they navigate the highs and lows of a weekend trip from Los Angeles to Las Vegas. The show explores themes of ambition, friendship, and the pursuit of dreams, all set against the backdrop of the vibrant and often chaotic casino environment. With a focus on character-driven humor and relatable struggles, the series offers a lighthearted and optimistic portrayal of chasing happiness and finding connection in unexpected places. The show's comedic style blends observational humor with situational comedy, creating a feel-good experience for viewers.",
+        "spoiler_rich_plot_summary": "The series centers around a group of individuals who regularly take the Friday night flight from Los Angeles to Las Vegas, hoping to strike it rich. Initially, the group consists of diverse personalities, each with their own motivations for seeking fortune in Vegas. Throughout the series, they encounter a series of challenges and setbacks, both in the casino and in their personal lives. Relationships evolve as they support each other through wins and losses, and new characters are introduced, adding complexity to the group dynamic. While the pursuit of wealth remains a central theme, the series ultimately emphasizes the importance of friendship and the realization that true success lies in the connections they forge along the way. The characters face personal crises and professional disappointments, but they consistently rally together, demonstrating resilience and a shared sense of purpose. The series concludes with the group having grown both individually and as a collective, having learned valuable lessons about life, love, and the pursuit of happiness.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "ambition",
+            "pursuit-of-happiness",
+            "casino-life",
+            "personal-growth"
+          ],
+          "plot_and_concepts": [
+            "workplace-comedy",
+            "weekend-trip",
+            "gambling",
+            "ensemble-cast"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "optimistic",
+            "feel-good",
+            "humorous"
+          ],
+          "genre_and_tropes": [
+            "comedy",
+            "situational-comedy",
+            "workplace-comedy"
+          ],
+          "setting": [
+            "los-angeles",
+            "las-vegas",
+            "airport"
+          ],
+          "character_archetypes": [
+            "underdog",
+            "ensemble-cast"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "casino-chips",
+            "airport-terminal",
+            "slot-machine",
+            "flight-attendant"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "LA to Vegas is a lighthearted comedy series about a group of underdogs pursuing their dreams and finding friendship amidst the vibrant and often chaotic world of casino life and airport terminals."
+      },
+      "duration_seconds": 53.65284585952759
+    }
+  }
+}

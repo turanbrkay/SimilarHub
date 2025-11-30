@@ -1,0 +1,68 @@
+{
+  "input_data": {
+    "title": "Kenny vs. Spenny",
+    "overview": "Kenny and Spenny are two best friends who compete against each other. Their competitions are ridiculous, immature and totally intense.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2003,
+    "vote_count": 49
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Kenny vs. Spenny is a Canadian comedy series centered around two friends who engage in increasingly absurd and elaborate challenges. The show's premise revolves around their competitive spirit and willingness to push boundaries, often resulting in humorous and occasionally disastrous consequences. It's a lighthearted exploration of friendship, rivalry, and the pursuit of bragging rights, delivered through a blend of physical comedy and playful antagonism. The series thrives on its low-budget aesthetic and the genuine camaraderie between the two leads, creating a uniquely entertaining and relatable viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with simple challenges, like who can smoke more cigarettes or spend the most money in a week. As the show progresses, the stakes escalate dramatically, leading to increasingly complex and dangerous competitions. These challenges often involve pushing physical and mental limits, testing endurance and resourcefulness. Kenny and Spenny frequently find themselves in precarious situations, relying on each other (and sometimes not) to navigate the consequences of their self-imposed trials. The show's format allows for a constant evolution of challenges, keeping the dynamic fresh and unpredictable, and ultimately exploring the limits of their friendship and their willingness to compete.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "rivalry",
+            "competition",
+            "bragging-rights",
+            "pushing-limits"
+          ],
+          "plot_and_concepts": [
+            "challenge-format",
+            "physical-comedy",
+            "low-budget-production",
+            "self-imposed-trials"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "humorous",
+            "playful",
+            "absurd"
+          ],
+          "genre_and_tropes": [
+            "comedy",
+            "reality-competition",
+            "bromance"
+          ],
+          "setting": [
+            "canada",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "rivals",
+            "comedians"
+          ],
+          "narrative_style": [
+            "episodic",
+            "challenge-based"
+          ],
+          "target_audience": [
+            "young-adults"
+          ],
+          "detail_plot": [
+            "challenge-rules",
+            "prize-money",
+            "penalty-system"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Kenny vs. Spenny is a lighthearted Canadian comedy series that explores the dynamics of friendship and rivalry through increasingly absurd and self-imposed challenges."
+      },
+      "duration_seconds": 47.092731952667236
+    }
+  }
+}

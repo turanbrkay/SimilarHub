@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Adventures of Superman",
+    "overview": "Announcer: \"The Adventures of Superman.  Faster than a speeding bullet!  More powerful than a locomotive!  Able to leap tall buildings at a single bound!\"\n\nVoices: \"Look up in the sky!  It's a bird!  It's a plane!  It's Superman!\"\n\nAnnouncer: \"Yes, it's Superman, strange visitor from another planet who came to Earth with powers and abilities far beyond those of mortal men. Superman, who can change the course of mighty rivers, bend steel in his bare hands; and who, disguised as Clark Kent, mild-mannered reporter for a great metropolitan newspaper, fights a never ending battle for truth, justice, and the American way.\"",
+    "genres": [
+      "Action & Adventure",
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Comedy",
+      "Family"
+    ],
+    "release_year": 1952,
+    "vote_count": 47
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Adventures of Superman is a pioneering live-action television series that established many of the enduring tropes associated with the superhero genre. The show follows Superman, secretly Clark Kent, as he balances his dual identity while battling various villains and upholding truth, justice, and the American way. Characterized by its optimistic tone and family-friendly appeal, the series blends action, adventure, and a touch of comedy, offering a lighthearted and inspiring portrayal of a powerful hero dedicated to protecting the innocent. The show's legacy lies in its foundational role in popularizing the superhero archetype for a broad audience.",
+        "spoiler_rich_plot_summary": "The series primarily revolves around Superman's ongoing efforts to thwart the schemes of a rotating cast of adversaries, often connected to Lex Luthor's shadowy organization. Each episode typically presents a new threat, ranging from mad scientists and alien invaders to corrupt businessmen and petty criminals. Clark Kent maintains his guise as a mild-mannered reporter, using his journalistic skills to investigate leads and gather information while subtly aiding Superman's heroic endeavors. While the series doesn't feature a grand overarching narrative, recurring villains and plot threads create a sense of continuity. Superman consistently faces moral dilemmas, balancing his immense power with the responsibility to protect human life and uphold the law. The show concludes with Superman reaffirming his commitment to safeguarding Metropolis and the world, remaining a beacon of hope and inspiration.",
+        "categorized_keywords": {
+          "themes": [
+            "truth-justice",
+            "heroism",
+            "dual-identity",
+            "hope",
+            "responsibility",
+            "good-vs-evil"
+          ],
+          "plot_and_concepts": [
+            "superhero-action",
+            "secret-identity",
+            "crime-fighting",
+            "mad-scientist",
+            "alien-invasion"
+          ],
+          "mood_and_tone": [
+            "optimistic",
+            "lighthearted",
+            "family-friendly",
+            "adventurous"
+          ],
+          "genre_and_tropes": [
+            "superhero-genre",
+            "crime-procedural",
+            "fish-out-of-water",
+            "secret-agent"
+          ],
+          "setting": [
+            "metropolis-city",
+            "modern-day",
+            "american-landscape"
+          ],
+          "character_archetypes": [
+            "heroic-figure",
+            "mild-mannered-reporter",
+            "villainous-genius"
+          ],
+          "narrative_style": [
+            "episodic-format",
+            "serialized-elements"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "kryptonite",
+            "daily-planet",
+            "superman-suit",
+            "flying-sequence"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Adventures of Superman, a lighthearted and optimistic series, established the superhero genre with its episodic format and heroic figure battling villains while maintaining a secret identity in the bustling metropolis of Metropolis."
+      },
+      "duration_seconds": 58.05105543136597
+    }
+  }
+}

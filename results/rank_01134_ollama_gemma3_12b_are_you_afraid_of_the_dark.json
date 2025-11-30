@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Are You Afraid of the Dark?",
+    "overview": "Each season of this horror anthology series follows a different group of kids, members of the Midnight Society, as they discover terrifying curses and creatures.",
+    "genres": [
+      "Mystery"
+    ],
+    "release_year": 2019,
+    "vote_count": 218
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Are You Afraid of the Dark? is a horror anthology series that revisits the classic Nickelodeon show. Each season features a new group of teenagers, the Midnight Society, who gather around a campfire to share chilling tales of the supernatural and the macabre. The series blends elements of horror, mystery, and suspense, creating a nostalgic yet unsettling viewing experience. The anthology format allows for diverse storytelling and exploration of various subgenres within horror, appealing to a broad audience seeking both familiar comforts and fresh scares. The show’s strength lies in its ability to evoke a sense of childhood wonder intertwined with genuine fear.",
+        "spoiler_rich_plot_summary": "The series follows the Midnight Society, a group of teenagers who meet regularly to share scary stories. Each story is self-contained, focusing on a different protagonist and a unique supernatural threat. Recurring themes involve curses, haunted locations, and encounters with malevolent entities. While the Midnight Society members themselves are not typically involved in the stories' events, their reactions and shared experiences create a sense of camaraderie and highlight the power of storytelling. The narratives often explore the consequences of curiosity, the dangers of the unknown, and the importance of facing one's fears. The series maintains a consistent tone of suspense and dread, with each story culminating in a surprising and often unsettling resolution, leaving a lasting impression on the viewers. The anthology format allows for a wide range of narratives, from ghostly encounters to terrifying monsters, ensuring a constantly evolving and unpredictable viewing experience.",
+        "categorized_keywords": {
+          "themes": [
+            "supernatural",
+            "fear",
+            "curiosity",
+            "friendship",
+            "coming-of-age",
+            "storytelling"
+          ],
+          "plot_and_concepts": [
+            "anthology-series",
+            "monster-of-the-week",
+            "cursed-objects",
+            "haunted-locations",
+            "campfire-stories"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "creepy",
+            "nostalgic",
+            "dark",
+            "eerie"
+          ],
+          "genre_and_tropes": [
+            "horror",
+            "mystery",
+            "teen-drama",
+            "anthology"
+          ],
+          "setting": [
+            "small-town-usa",
+            "campground",
+            "alternate-reality"
+          ],
+          "character_archetypes": [
+            "teenager",
+            "storyteller",
+            "reluctant-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic"
+          ],
+          "target_audience": [
+            "teen-audience",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "campfire",
+            "flashlight",
+            "dark-forest",
+            "old-house",
+            "creepy-doll"
+          ],
+          "maturity_and_content": [
+            "mild-horror",
+            "suspense"
+          ]
+        },
+        "keyword_sentence": "Are You Afraid of the Dark? is a suspenseful horror anthology series that explores themes of fear and friendship through episodic tales of supernatural encounters around a campfire, appealing to a teen and family audience."
+      },
+      "duration_seconds": 62.084696769714355
+    }
+  }
+}

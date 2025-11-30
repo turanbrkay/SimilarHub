@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "Liar",
+    "overview": "A teacher and a surgeon are rocked by scandalous accusations after they enjoy a seemingly innocent date.",
+    "genres": [
+      "Drama",
+      "Crime",
+      "Mystery"
+    ],
+    "release_year": 2017,
+    "vote_count": 86
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Liar is a British crime drama and mystery series centered on a young woman whose life unravels after a seemingly innocuous encounter with a prominent surgeon. The series explores themes of consent, power dynamics, and the fragility of truth, utilizing a suspenseful and unsettling tone to keep viewers questioning the reliability of all perspectives. The narrative is driven by a complex web of relationships and accusations, blurring the lines between victim and perpetrator, and challenging the audience to confront uncomfortable questions about justice and accountability. The series is notable for its unreliable narration and its exploration of the long-term consequences of trauma.",
+        "spoiler_rich_plot_summary": "The series begins with Laura Nielsen meeting Andrew Earlham, a respected neurosurgeon, at a pub. Following a seemingly consensual encounter, Laura reports an assault to the police, but her account is immediately challenged by Andrew, who denies any wrongdoing. As the investigation unfolds, inconsistencies emerge in Laura's story, and suspicion falls on her as well. The police investigation is complicated by the involvement of other characters, including Andrew's wife, Karin, and Laura's friends and family. Flashbacks reveal Laura's troubled past and suggest a pattern of manipulative behavior. The narrative shifts perspectives, presenting events from Laura's, Andrew's, and other characters' viewpoints, creating a deliberately ambiguous portrayal of what truly occurred. As the series progresses, the truth becomes increasingly elusive, with new evidence and revelations constantly shifting the blame. The investigation exposes deep-seated secrets and vulnerabilities within the characters' lives, leading to devastating consequences for all involved. The series culminates in a confrontation that attempts to resolve the central conflict, but leaves lingering questions about the nature of truth and the lasting impact of trauma.",
+        "categorized_keywords": {
+          "themes": [
+            "consent",
+            "power-dynamics",
+            "truth-and-lies",
+            "trauma",
+            "manipulation",
+            "justice",
+            "accountability",
+            "memory-and-perception"
+          ],
+          "plot_and_concepts": [
+            "police-investigation",
+            "unreliable-narrator",
+            "false-accusation",
+            "revenge",
+            "gaslighting"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "unsettling",
+            "tense",
+            "psychological-thriller"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "mystery",
+            "psychological-thriller",
+            "legal-procedural"
+          ],
+          "setting": [
+            "modern-day",
+            "england",
+            "small-town"
+          ],
+          "character_archetypes": [
+            "unreliable-protagonist",
+            "respected-figure",
+            "victim",
+            "manipulative-character"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "multiple-perspectives"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "police-station",
+            "courtroom",
+            "flashback-sequence",
+            "interview-room"
+          ],
+          "maturity_and_content": [
+            "sexual-content",
+            "graphic-violence",
+            "emotional-abuse"
+          ]
+        },
+        "keyword_sentence": "Liar is a suspenseful British crime drama that explores themes of consent and manipulation through multiple perspectives, creating a tense psychological thriller set in modern-day England."
+      },
+      "duration_seconds": 70.3704023361206
+    }
+  }
+}

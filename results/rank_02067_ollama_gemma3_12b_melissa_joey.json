@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "Melissa & Joey",
+    "overview": "Mel is a local politician from a political family. When a family scandal leaves her niece, Lennox, and nephew, Ryder, without their parents, Mel takes them in. She hires Joe to become the family's male nanny, or \"manny,\" after a Ponzi scheme leaves him broke.",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "release_year": 2010,
+    "vote_count": 91
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Melissa & Joey is a sitcom that blends family comedy with elements of political drama. The series centers on Melissa, a young congresswoman navigating her career while unexpectedly becoming the guardian of her niece and nephew. The addition of Joe, a charming and resourceful 'manny,' creates a dynamic and often humorous family unit. The show explores themes of responsibility, unconventional family structures, and finding joy amidst personal challenges, offering a lighthearted and optimistic viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Melissa Banks, a newly elected congresswoman, facing a family crisis when her brother and his wife are incarcerated, leaving her responsible for their children, Lennox and Ryder. To assist her, she hires Joe Long, a former baseball player down on his luck, as their full-time nanny. Throughout the series, Melissa balances her political career with the demands of motherhood, often relying on Joe's support and comedic relief. Joe, in turn, finds purpose and a sense of belonging within the Banks family. The show follows their evolving relationships as they navigate everyday challenges, romantic interests, and the complexities of family dynamics. While Melissa's political ambitions sometimes create conflict, the core of the show remains focused on the bonds of family and the importance of finding happiness in unexpected places. The series explores various romantic interests for both Melissa and Joe, adding layers of complexity to their personal lives. Ultimately, the show emphasizes the power of unconventional families and the enduring strength of human connection.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "unconventional-family",
+            "responsibility",
+            "political-career",
+            "found-family",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "sitcom",
+            "political-comedy",
+            "fish-out-of-water",
+            "romantic-comedy"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "optimistic",
+            "humorous",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "family-sitcom",
+            "romantic-comedy",
+            "found-family"
+          ],
+          "setting": [
+            "modern-day",
+            "suburban-america"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "charming-sidekick",
+            "ambitious-politician"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "congress-building",
+            "family-home",
+            "baseball-field"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Melissa & Joey is a lighthearted family sitcom set in modern-day America, exploring themes of unconventional family and responsibility as a young congresswoman navigates her political career with the help of a charming and resourceful nanny."
+      },
+      "duration_seconds": 62.0387818813324
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "The Putin Interviews",
+    "overview": "A revealing series of interviews between renowned filmmaker Oliver Stone and Vladimir Putin in which the Russian President speaks candidly on the US Election, Trump, Syria, Snowden and more.",
+    "genres": [
+      "Documentary",
+      "War & Politics"
+    ],
+    "release_year": 2017,
+    "vote_count": 49
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Putin Interviews is a two-part documentary series offering a rare and extended opportunity to hear directly from Vladimir Putin. Through extensive interviews with filmmaker Oliver Stone, the series explores Putin's perspectives on a range of global events, including the US election, the Syrian conflict, and Edward Snowden's actions. The documentary aims to provide insight into Russian foreign policy and Putin's worldview, though it has been subject to debate regarding its objectivity and potential for propaganda. The series offers a complex portrait of a powerful leader and his nation's place in the world, prompting viewers to critically examine the narratives presented.",
+        "spoiler_rich_plot_summary": "The series begins with an introduction to Oliver Stone's motivations for conducting the interviews, highlighting his desire to understand Putin's perspective on key geopolitical events. The first interview focuses heavily on the 2016 US election and allegations of Russian interference, with Putin denying any direct involvement while acknowledging the possibility of non-state actors. Discussions extend to the Syrian civil war, where Putin defends Russia's military intervention as necessary to combat terrorism and protect the Assad regime. Edward Snowden's actions are also examined, with Putin expressing a degree of understanding for Snowden's decision to leak classified information. Throughout the interviews, Putin presents a narrative that emphasizes Russian sovereignty, criticizes Western foreign policy, and defends Russia's actions on the global stage. The second interview delves deeper into historical context and Putin's personal views, offering a more intimate portrayal of the Russian leader and his vision for the future. The series concludes without a definitive resolution, leaving viewers to grapple with the complexities of Putin's perspective and its implications for international relations.",
+        "categorized_keywords": {
+          "themes": [
+            "geopolitics",
+            "russian-identity",
+            "power-dynamics",
+            "international-relations",
+            "truth-and-perception",
+            "propaganda"
+          ],
+          "plot_and_concepts": [
+            "interview-format",
+            "political-analysis",
+            "cold-war-legacy",
+            "us-election-interference",
+            "syrian-conflict",
+            "snowden-leak"
+          ],
+          "mood_and_tone": [
+            "serious",
+            "controversial",
+            "analytical",
+            "formal",
+            "thought-provoking"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "political-thriller",
+            "interview-series"
+          ],
+          "setting": [
+            "moscow-russia",
+            "modern-day",
+            "international-politics"
+          ],
+          "character_archetypes": [
+            "statesman",
+            "political-leader",
+            "controversial-figure"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "dialogue-driven"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "political-science",
+            "history-buffs"
+          ],
+          "detail_plot": [
+            "kremlin-office",
+            "interview-room",
+            "russian-flag",
+            "putin-portrait"
+          ],
+          "maturity_and_content": [
+            "political-sensitivity",
+            "ideological-debate"
+          ]
+        },
+        "keyword_sentence": "The politically charged documentary series offers a serious and controversial exploration of Russian geopolitics and Vladimir Putin’s perspective on international relations, prompting adult viewers to critically examine power dynamics and ideological debates within a modern-day setting."
+      },
+      "duration_seconds": 62.957685708999634
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "input_data": {
+    "title": "Emmerdale",
+    "overview": "The lives of several families in the Yorkshire Dales revolve around a farm and the nearby village. With murders, affairs, lies, deceit, laughter and tears, it's all there in the village.",
+    "genres": [
+      "Soap",
+      "Drama"
+    ],
+    "release_year": 1972,
+    "vote_count": 85
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Emmerdale is a long-running British soap opera centered on the lives of interconnected families residing in the rural Yorkshire Dales. The series explores themes of family, community, and the challenges of rural life, often interwoven with dramatic storylines involving romance, betrayal, and occasional criminal activity. Its longevity stems from its ability to reflect contemporary social issues while maintaining a focus on relatable characters and their evolving relationships. The show blends elements of drama and romance, creating a consistently engaging and emotionally resonant experience for its audience.",
+        "spoiler_rich_plot_summary": "Emmerdale began as a documentary series showcasing farm life in the Yorkshire Dales, gradually evolving into a fictional drama. Over the decades, the show has followed the intertwined lives of several families, most notably the Sugden, Tate, and Barton clans. The series has seen numerous generations rise and fall, with characters navigating complex relationships, business rivalries, and personal tragedies. Significant plotlines have included land disputes, illicit affairs, and shocking crimes that have reshaped the community. Characters have faced financial ruin, family breakdowns, and unexpected deaths, constantly testing the bonds of loyalty and resilience. While the show maintains a sense of continuity, characters frequently enter and exit, ensuring a dynamic and ever-evolving narrative. The ongoing saga of the farm itself, and the power struggles surrounding it, remains a central theme, impacting the lives of all those connected to it.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "rural-life",
+            "community",
+            "betrayal",
+            "redemption",
+            "social-class",
+            "generational-conflict"
+          ],
+          "plot_and_concepts": [
+            "soap-opera",
+            "farm-life",
+            "business-rivalry",
+            "crime",
+            "love-triangle",
+            "revenge"
+          ],
+          "mood_and_tone": [
+            "melodramatic",
+            "emotional",
+            "heartwarming",
+            "tense",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "british-soap",
+            "rural-drama",
+            "generational-saga",
+            "small-town-secrets"
+          ],
+          "setting": [
+            "yorkshire-dales",
+            "rural-england",
+            "small-village",
+            "farm"
+          ],
+          "character_archetypes": [
+            "villain",
+            "hero",
+            "anti-hero",
+            "matriarch",
+            "working-class"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "ongoing-saga"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "farmhouse",
+            "village-pub",
+            "local-shop",
+            "fields",
+            "local-election"
+          ],
+          "maturity_and_content": [
+            "affairs",
+            "violence",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "Set amidst the picturesque Yorkshire Dales, Emmerdale is a long-running British soap opera exploring the intertwined lives of families facing dramatic challenges and heartwarming moments within a close-knit rural community."
+      },
+      "duration_seconds": 67.38669776916504
+    }
+  }
+}

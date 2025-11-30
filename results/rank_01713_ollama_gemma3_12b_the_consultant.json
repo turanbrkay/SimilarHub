@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "The Consultant",
+    "overview": "After an unspeakable tragedy at CompWare, a games studio based in downtown Los Angeles, a mysterious consultant, Regus Patoff, blows into town and takes charge.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2023,
+    "vote_count": 120
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Consultant is a darkly comedic and unsettling drama that explores the insidious nature of corporate culture and the potential for manipulation within a seemingly ordinary workplace. The series follows a games studio grappling with a recent tragedy as a mysterious consultant is brought in to 'improve' operations. It blends elements of satire, thriller, and psychological horror, creating a disquieting atmosphere and questioning the ethics of ambition and control. The show's tone is ambiguous, leaving the audience to question the true motives of the characters and the reality of the situation. It's a character-driven narrative that examines the fragility of sanity and the dangers of unchecked power.",
+        "spoiler_rich_plot_summary": "The series begins with the aftermath of a devastating event at CompWare, a video game studio. Regus Patoff, a consultant with a peculiar and unsettling demeanor, is hired to restructure the company. Initially, his methods appear unorthodox but seemingly effective, boosting productivity and morale. However, as time progresses, his control over the employees intensifies, and his true intentions become increasingly opaque. The employees, including Elaine and Sam, find themselves trapped in a bizarre and increasingly dangerous game, unsure of Regus's motivations or the reality of their situation. The narrative unfolds with a surreal and dreamlike quality, blurring the lines between reality and delusion. The series delves into the psychological toll on the employees, as they struggle to maintain their sanity and resist Regus's influence. The ultimate nature of Regus and the events unfolding at CompWare remain ambiguous, leaving the audience questioning the true scope of the manipulation and the potential consequences for those involved. The series culminates in a confrontation that reveals the disturbing truth behind Regus's presence and the unsettling reality of the company's trajectory.",
+        "categorized_keywords": {
+          "themes": [
+            "corporate-culture",
+            "manipulation",
+            "identity-crisis",
+            "power-dynamics",
+            "reality-vs-perception",
+            "ambition",
+            "control"
+          ],
+          "plot_and_concepts": [
+            "mystery",
+            "thriller",
+            "psychological-horror",
+            "corporate-restructuring",
+            "unreliable-narrator"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "unsettling",
+            "surreal",
+            "tense",
+            "ambiguous"
+          ],
+          "genre_and_tropes": [
+            "satire",
+            "thriller",
+            "mystery",
+            "psychological-drama"
+          ],
+          "setting": [
+            "modern-day",
+            "los-angeles",
+            "corporate-office"
+          ],
+          "character_archetypes": [
+            "enigmatic-protagonist",
+            "manipulative-figure",
+            "reluctant-participant"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "mystery-box"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "game-studio",
+            "corporate-restructuring",
+            "office-cubicle",
+            "security-camera"
+          ],
+          "maturity_and_content": [
+            "psychological-distress",
+            "corporate-exploitation"
+          ]
+        },
+        "keyword_sentence": "The Consultant is a darkly comic thriller set in a Los Angeles game studio, exploring themes of corporate manipulation and psychological distress through a surreal and unsettling narrative."
+      },
+      "duration_seconds": 69.18853163719177
+    }
+  }
+}

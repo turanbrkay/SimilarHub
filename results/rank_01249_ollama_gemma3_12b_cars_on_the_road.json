@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Cars on the Road",
+    "overview": "Lightning McQueen and his best friend Mater head east from Radiator Springs on a cross-country road trip to meet up with Mater’s sister.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Kids"
+    ],
+    "release_year": 2022,
+    "vote_count": 191
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Cars on the Road is a lighthearted animated comedy series geared towards a family audience. Following Lightning McQueen and Mater's cross-country journey, the show emphasizes friendship, exploration, and the discovery of new places and cultures. The series blends familiar animated comedy tropes with a road trip adventure, offering a wholesome and entertaining experience for viewers of all ages. It's a celebration of camaraderie and the joy of shared experiences, set within the established world of the Cars franchise.",
+        "spoiler_rich_plot_summary": "The series begins with Mater receiving a letter from his sister, revealing that she lives far away and he has never met her. Eager to connect with his family, Mater convinces Lightning McQueen to join him on a road trip across the country. Their journey takes them through a variety of quirky and imaginative locations, each populated by unique and memorable characters. Along the way, they encounter numerous obstacles and challenges, testing their friendship and resourcefulness. They navigate unfamiliar customs, solve local problems, and learn valuable lessons about acceptance and understanding. While the journey is filled with humorous mishaps and heartwarming moments, the ultimate goal remains connecting Mater with his sister and strengthening the bond between him and Lightning. The series culminates in a reunion filled with joy and a deeper appreciation for family and friendship.",
+        "categorized_keywords": {
+          "themes": [
+            "family-connection",
+            "friendship",
+            "adventure",
+            "self-discovery",
+            "cultural-exchange",
+            "acceptance"
+          ],
+          "plot_and_concepts": [
+            "road-trip",
+            "sibling-reunion",
+            "fish-out-of-water",
+            "coming-of-age"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "optimistic",
+            "humorous"
+          ],
+          "genre_and_tropes": [
+            "animated-comedy",
+            "family-adventure",
+            "buddy-comedy"
+          ],
+          "setting": [
+            "cross-country-road",
+            "small-town-america",
+            "animated-world"
+          ],
+          "character_archetypes": [
+            "loyal-friend",
+            "adventurous-hero",
+            "supportive-sibling"
+          ],
+          "narrative_style": [
+            "episodic-adventure",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "family-audience",
+            "kids"
+          ],
+          "detail_plot": [
+            "vintage-cars",
+            "roadside-attractions",
+            "quirky-landmarks"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Cars on the Road is a lighthearted animated series that follows Lightning McQueen and Mater on a cross-country road trip filled with adventure, friendship, and heartwarming family connections."
+      },
+      "duration_seconds": 55.979520320892334
+    }
+  }
+}

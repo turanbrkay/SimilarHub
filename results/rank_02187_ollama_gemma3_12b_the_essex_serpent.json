@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "The Essex Serpent",
+    "overview": "London widow Cora Seaborne moves to Essex to investigate reports of a mythical serpent. She forms an unlikely bond with the village vicar, but when tragedy strikes, locals accuse her of attracting the creature.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2022,
+    "vote_count": 84
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Essex Serpent is a historical drama exploring themes of faith, science, and female agency in Victorian England. Following a recent tragedy, Cora Seaborne seeks solace and intellectual stimulation in a rural Essex community, where she encounters skepticism and superstition surrounding a legendary serpent. The series blends elements of mystery, romance, and social commentary, offering a nuanced portrayal of grief, intellectual curiosity, and the clash between rational inquiry and deeply held beliefs. It examines the societal constraints placed upon women and the search for meaning in a world grappling with scientific advancements and religious dogma.",
+        "spoiler_rich_plot_summary": "Following the death of her husband, Cora Seaborne leaves London and relocates to the Essex countryside, drawn by local legends of a mythical serpent. She quickly becomes entangled in the village's anxieties and the complex relationship between the community and its vicar, Wallace. Cora's scientific approach clashes with Wallace's devout faith, leading to intellectual debates and a growing attraction between them. As strange occurrences plague the village, suspicion falls on Cora, who is accused of summoning the serpent. The investigation reveals a deeper connection between the creature and the land, exposing long-held secrets and challenging the villagers' understanding of their world. The series culminates in a confrontation with the serpent, forcing Cora and Wallace to confront their own beliefs and the consequences of their actions, ultimately reshaping their understanding of faith, science, and the power of nature.",
+        "categorized_keywords": {
+          "themes": [
+            "faith-vs-science",
+            "grief",
+            "female-agency",
+            "superstition",
+            "scientific-discovery",
+            "rural-isolation",
+            "social-class"
+          ],
+          "plot_and_concepts": [
+            "mythical-creature",
+            "investigation",
+            "small-town-mystery",
+            "forbidden-romance",
+            "supernatural-phenomena"
+          ],
+          "mood_and_tone": [
+            "atmospheric",
+            "melancholy",
+            "suspenseful",
+            "thoughtful",
+            "romantic"
+          ],
+          "genre_and_tropes": [
+            "historical-drama",
+            "mystery",
+            "romance",
+            "gothic-elements"
+          ],
+          "setting": [
+            "victorian-england",
+            "essex-countryside",
+            "coastal-village"
+          ],
+          "character_archetypes": [
+            "intellectual-woman",
+            "devout-cleric",
+            "skeptic",
+            "village-gossip"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "slow-burn"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "coastal-landscape",
+            "village-church",
+            "scientific-instruments",
+            "local-folklore"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Set in Victorian England, The Essex Serpent is a thoughtful and atmospheric drama exploring the clash between faith and science as a grieving widow investigates local legends and forms an unlikely connection with a devout cleric amidst a backdrop of superstition and rural isolation."
+      },
+      "duration_seconds": 64.53126382827759
+    }
+  }
+}

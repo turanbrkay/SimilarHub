@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Haunted",
+    "overview": "Real people sit down with friends and family to share terrifying true stories from their past, re-created through chilling re-enactments.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2018,
+    "vote_count": 288
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Haunted is a documentary series presenting first-person accounts of paranormal experiences. Each episode features individuals recounting their personal encounters with ghosts, demons, and other supernatural phenomena, accompanied by dramatic reenactments to visually depict the stories. The series blends elements of true crime and horror, aiming to create a suspenseful and unsettling viewing experience. It explores themes of fear, belief, and the enduring human fascination with the unexplained, often delving into the psychological impact of these experiences on the individuals involved. The show's format relies heavily on atmosphere and suggestion, creating a sense of unease and prompting viewers to question the nature of reality.",
+        "spoiler_rich_plot_summary": "The series operates on a simple, episodic structure. Each episode introduces a new individual who recounts a specific paranormal event they experienced. These accounts range from childhood encounters with spirits in family homes to terrifying experiences in seemingly abandoned locations. The reenactments, often utilizing low lighting and unsettling sound design, attempt to recreate the emotional intensity of the original events. While the series doesn's follow a continuous narrative, recurring themes emerge, such as the presence of malevolent entities, the lingering impact of past trauma, and the difficulty of convincing others of one's experiences. The stories often involve investigations into the history of a location, revealing tragic events that may have contributed to the reported paranormal activity. The series concludes each episode with a brief discussion of potential explanations for the events, leaving the ultimate interpretation open to the viewer.",
+        "categorized_keywords": {
+          "themes": [
+            "fear",
+            "supernatural",
+            "belief",
+            "trauma",
+            "haunting",
+            "paranormal-investigation"
+          ],
+          "plot_and_concepts": [
+            "true-stories",
+            "reenactment",
+            "first-person-narrative",
+            "ghost-stories",
+            "urban-legends"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "eerie",
+            "unsettling",
+            "creepy",
+            "atmospheric"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "horror",
+            "true-crime",
+            "paranormal"
+          ],
+          "setting": [
+            "residential-homes",
+            "abandoned-locations",
+            "historical-sites"
+          ],
+          "character_archetypes": [
+            "witness",
+            "victim",
+            "skeptic"
+          ],
+          "narrative_style": [
+            "episodic",
+            "first-person"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "horror-fans"
+          ],
+          "detail_plot": [
+            "reenactment-scene",
+            "interview-setting",
+            "historical-photos"
+          ],
+          "maturity_and_content": [
+            "disturbing-imagery",
+            "psychological-horror"
+          ]
+        },
+        "keyword_sentence": "Haunted presents chilling true stories of paranormal encounters, recreated through atmospheric reenactments and first-person accounts, exploring themes of fear and belief within unsettling and eerie settings."
+      },
+      "duration_seconds": 58.732752561569214
+    }
+  }
+}

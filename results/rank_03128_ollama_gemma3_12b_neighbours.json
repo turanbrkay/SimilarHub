@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Neighbours",
+    "overview": "Neighbours is an Australian television soap opera.  The show's storylines concern the domestic and professional lives of the people who live and work in Erinsborough, a fictional suburb of Melbourne, Victoria. The series primarily centres around the residents of Ramsay Street, a short cul-de-sac, and its neighbouring areas, the Lassiters complex, which includes a bar, hotel, cafe, news office and park. Neighbours began with three families created by Watson – the Ramsays, the Robinsons and the Clarkes. Watson said that he wanted to show three families who are friends living in a small street. The Robinsons and the Ramsays had a long history and were involved in an ongoing rivalry.",
+    "genres": [
+      "Soap"
+    ],
+    "release_year": 1985,
+    "vote_count": 44
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Neighbours is a long-running Australian soap opera that chronicles the intertwined lives of residents in the fictional suburb of Erinsborough. Centered primarily on Ramsay Street and the Lassiters complex, the series explores everyday dramas, relationships, and conflicts within a close-knit community. The show's enduring appeal lies in its focus on relatable characters and ongoing storylines that span generations, offering a familiar and comforting viewing experience. While dealing with contemporary issues, the series maintains a focus on interpersonal relationships and the dynamics of a small, interconnected neighborhood. The ongoing rivalries and evolving family structures provide a constant source of narrative tension and emotional investment for viewers.",
+        "spoiler_rich_plot_summary": "Neighbours debuted with the Ramsay, Robinson, and Clarke families at its core, establishing a foundation of long-standing history and simmering rivalries, particularly between the Ramsays and Robinsons. Over the decades, numerous families have moved in and out of Ramsay Street, each bringing their own dramas and complexities to the neighborhood. The series has explored a wide range of storylines, from romantic relationships and family conflicts to professional struggles and community events. Characters have faced personal tragedies, celebrated triumphs, and navigated the challenges of growing up and raising families. Recurring themes include the importance of friendship, the complexities of love, and the enduring power of community. While characters have come and gone, the core concept of Ramsay Street as a microcosm of everyday life has remained constant, with new generations inheriting the street's history and forging their own paths. The series has consistently dealt with contemporary social issues, reflecting the changing landscape of Australian society and the evolving dynamics of family life.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "friendship",
+            "community",
+            "rivalry",
+            "growing-up",
+            "social-issues"
+          ],
+          "plot_and_concepts": [
+            "soap-opera",
+            "domestic-drama",
+            "intergenerational-storytelling",
+            "small-town-life"
+          ],
+          "mood_and_tone": [
+            "melodramatic",
+            "heartwarming",
+            "domestic",
+            "relatable"
+          ],
+          "genre_and_tropes": [
+            "soap-opera",
+            "family-drama",
+            "small-town-drama"
+          ],
+          "setting": [
+            "australia",
+            "melbourne",
+            "fictional-suburb",
+            "ramsay-street"
+          ],
+          "character_archetypes": [
+            "family-member",
+            "neighbor",
+            "teenager",
+            "adult"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "ongoing-storylines"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "ramsay-street",
+            "lassiters-complex",
+            "local-cafe",
+            "neighborhood-park"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Neighbours portrays the everyday dramas and heartwarming relationships of families and neighbors living in a close-knit Australian suburb, exploring themes of friendship, rivalry, and community through ongoing storylines and a relatable cast of characters."
+      },
+      "duration_seconds": 64.92328667640686
+    }
+  }
+}

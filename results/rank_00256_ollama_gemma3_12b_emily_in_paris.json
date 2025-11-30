@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Emily in Paris",
+    "overview": "When ambitious Chicago marketing exec Emily unexpectedly lands her dream job in Paris, she embraces a new life as she juggles work, friends and romance.",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "release_year": 2020,
+    "vote_count": 1152
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Emily in Paris is a lighthearted dramedy series following a young American marketing professional navigating the challenges and charms of Parisian culture. The show explores themes of cultural differences, career ambition, and romantic entanglement, offering a visually appealing and often humorous portrayal of life in France. While the series aims for a romantic and aspirational tone, it also touches upon issues of identity and belonging as Emily adapts to a new environment and confronts personal and professional obstacles. The show's blend of humor and drama creates an engaging, albeit sometimes predictable, viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Emily Cooper, a marketing executive from Chicago, unexpectedly being sent to Paris to provide an American perspective on the French marketing firm, Madeline and Sauvé. Initially struggling to adapt to the language, customs, and work style, Emily quickly finds herself caught between her professional responsibilities and a burgeoning romantic life. She develops a complicated relationship with Gabriel, a charming chef who is also engaged to Camille, a close friend of Emily’s. Throughout the series, Emily faces challenges in her career, navigating office politics and proving her value to her French colleagues. As the seasons progress, Emily’s personal and professional life becomes increasingly intertwined, leading to difficult choices and unexpected alliances. While she experiences moments of triumph and heartbreak, Emily ultimately strives to find her place in Paris, balancing her American roots with her newfound appreciation for French culture and the complexities of her relationships.",
+        "categorized_keywords": {
+          "themes": [
+            "cultural-identity",
+            "career-ambition",
+            "romantic-relationships",
+            "self-discovery",
+            "friendship",
+            "belonging"
+          ],
+          "plot_and_concepts": [
+            "fish-out-of-water",
+            "workplace-romance",
+            "cultural-clash",
+            "career-growth"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "romantic",
+            "aspirational",
+            "humorous"
+          ],
+          "genre_and_tropes": [
+            "romantic-comedy",
+            "dramedy",
+            "fashion-drama"
+          ],
+          "setting": [
+            "paris-france",
+            "modern-day",
+            "european-city"
+          ],
+          "character_archetypes": [
+            "ambitious-young-woman",
+            "charming-love-interest",
+            "close-friend",
+            "workplace-rival"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult",
+            "female-viewers"
+          ],
+          "detail_plot": [
+            "eiffel-tower",
+            "fashion-boutique",
+            "french-cafe",
+            "workplace-office"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Emily in Paris is a lighthearted dramedy series that follows an ambitious young woman as she navigates romantic relationships and career growth while embracing the charm and cultural identity of modern-day Paris."
+      },
+      "duration_seconds": 57.31623959541321
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Modern Family",
+    "overview": "The Pritchett-Dunphy-Tucker clan is a wonderfully large and blended family. They give us an honest and often hilarious look into the sometimes warm, sometimes twisted, embrace of the modern family.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2009,
+    "vote_count": 2346
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Modern Family is a mockumentary sitcom that humorously explores the complexities of family dynamics across three interconnected households. The series utilizes a documentary format to offer intimate, often self-aware perspectives from each family member, highlighting the joys and challenges of raising children, navigating relationships, and embracing diverse family structures. With its relatable characters and witty writing, the show offers a lighthearted yet insightful look at the modern American family experience, celebrating the quirks and imperfections that make families unique. The show's strength lies in its ensemble cast and its ability to find humor in everyday situations, creating a warm and inviting atmosphere for viewers.",
+        "spoiler_rich_plot_summary": "The series begins by introducing the three branches of the Pritchett-Dunphy-Tucker family: Jay Pritchett, his much younger wife Gloria, and her son Manny; Claire Dunphy, Jay's daughter, her husband Phil, and their three children Haley, Alex, and Luke; and Mitchell Pritchett, Jay's son, and his husband Cameron, and their adopted daughter Lily. Throughout the seasons, each family faces typical challenges – raising children, dealing with career setbacks, and navigating marital disagreements. Jay struggles to connect with Gloria's culture and Manny, while Phil's well-meaning but often misguided parenting leads to humorous situations. Mitchell and Cameron grapple with the challenges of adoption and raising a child while dealing with their own insecurities and anxieties. As the series progresses, the families experience significant life events, including weddings, births, and career changes. Relationships evolve, and characters grow, but the core family bonds remain strong, providing a constant source of support and laughter. While individual storylines come and go, the overarching theme remains the enduring power of family, regardless of its form.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "cultural-differences",
+            "parenting",
+            "marriage",
+            "acceptance",
+            "intergenerational-relationships"
+          ],
+          "plot_and_concepts": [
+            "mockumentary",
+            "ensemble-cast",
+            "found-family",
+            "situational-comedy"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "warm",
+            "humorous"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "family-comedy",
+            "mockumentary-style"
+          ],
+          "setting": [
+            "los-angeles",
+            "suburban-america",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "well-meaning-father",
+            "quirky-parent",
+            "teenage-rebel",
+            "intellectual-child",
+            "clueless-husband"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "family-dinner",
+            "childhood-memories",
+            "parent-teacher-conference",
+            "holiday-celebrations"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Modern Family is a lighthearted and warm sitcom that humorously explores the complexities of family dynamics and cultural differences through the lens of a mockumentary, showcasing the joys and challenges of modern-day parenting and intergenerational relationships in suburban America."
+      },
+      "duration_seconds": 71.78719997406006
+    }
+  }
+}

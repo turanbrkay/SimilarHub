@@ -1,0 +1,70 @@
+{
+  "input_data": {
+    "title": "Alien TV",
+    "overview": "Alien reporters Ixbee, Pixbee and Squee travel to a lovely but odd planet called Earth, where they attempt to make sense of humans and their hobbies.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "release_year": 2020,
+    "vote_count": 89
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Alien TV is a lighthearted animated comedy series centered around three alien reporters observing and documenting human culture on Earth. The show blends observational humor with a gentle exploration of cultural differences, offering a whimsical and family-friendly viewing experience. Through the aliens' naive perspectives, the series satirizes everyday human activities and customs, highlighting both the absurdities and endearing qualities of humanity. The tone is consistently optimistic and playful, making it an accessible and enjoyable show for audiences of all ages.",
+        "spoiler_rich_plot_summary": "The series begins with Ixbee, Pixbee, and Squee, dispatched by their intergalactic news network to Earth. Initially bewildered by human behavior, they attempt to understand everything from cooking and sports to relationships and art. Each episode typically focuses on a different aspect of human life, with the aliens' attempts to comprehend these activities often leading to humorous misunderstandings and mishaps. As the series progresses, the aliens gradually develop a deeper appreciation for human culture, even forming unexpected friendships with some of the people they interview. While they continue to encounter baffling customs, they also begin to recognize the underlying values and emotions that drive human actions, ultimately gaining a newfound respect for the planet and its inhabitants. The series concludes with the aliens preparing to return home, carrying with them a wealth of knowledge and a collection of heartwarming stories about their time on Earth.",
+        "categorized_keywords": {
+          "themes": [
+            "cultural-exchange",
+            "friendship",
+            "discovery",
+            "acceptance",
+            "humor"
+          ],
+          "plot_and_concepts": [
+            "fish-out-of-water",
+            "mockumentary",
+            "observational-comedy"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "optimistic",
+            "playful"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "family-comedy",
+            "slice-of-life"
+          ],
+          "setting": [
+            "earth",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "naive-protagonist",
+            "curious-observer"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "alien-reporter",
+            "intergalactic-news-network",
+            "human-hobby"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Alien TV is a lighthearted animated series that follows three naive alien reporters as they explore and hilariously document the quirks and customs of humanity on Earth."
+      },
+      "duration_seconds": 56.64013719558716
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "EastEnders",
+    "overview": "The everyday lives of working-class residents of Albert Square, a traditional Victorian square of terrace houses surrounding a park in the East End of London's Walford borough.",
+    "genres": [
+      "Soap",
+      "Drama",
+      "Crime"
+    ],
+    "release_year": 1985,
+    "vote_count": 191
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "EastEnders is a long-running British soap opera that chronicles the lives of working-class families residing in the fictional Albert Square. The series explores complex relationships, financial struggles, and criminal activity within a tight-knit community. Known for its gritty realism and exploration of social issues, EastEnders offers a compelling portrayal of everyday life, often punctuated by dramatic events and interpersonal conflicts. The show's enduring popularity stems from its relatable characters and its ability to reflect the changing landscape of British society.",
+        "spoiler_rich_plot_summary": "EastEnders debuted introducing the core families of Albert Square: the Beales, the Bakers, the Fowlers, and the Mitchells. Early storylines revolved around financial hardship, domestic disputes, and the challenges of working-class life. Over the years, the show has explored numerous complex narratives, including affairs, betrayals, and criminal enterprises. The Mitchell family, in particular, has been central to many of the show's most dramatic storylines, often entangled in violent conflicts and power struggles. The Beale family has also experienced significant tragedy and upheaval, with multiple generations facing loss and hardship. Throughout its run, EastEnders has consistently tackled social issues, from racism and homelessness to mental health and domestic abuse, shaping the lives of its characters and the community of Albert Square. The show has seen numerous characters come and go, each leaving their mark on the square and contributing to its rich history. While the core families remain, the ever-evolving landscape of Albert Square ensures that new conflicts and relationships constantly emerge.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "working-class-life",
+            "social-issues",
+            "community",
+            "crime",
+            "betrayal",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "domestic-drama",
+            "crime-procedural",
+            "generational-conflict",
+            "soap-opera-format"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "melodramatic",
+            "realistic",
+            "somber"
+          ],
+          "genre_and_tropes": [
+            "british-soap",
+            "working-class-narrative",
+            "crime-drama"
+          ],
+          "setting": [
+            "london-east-end",
+            "working-class-neighborhood",
+            "urban-setting"
+          ],
+          "character_archetypes": [
+            "working-class-protagonist",
+            "family-matriarch",
+            "criminal-underworld",
+            "neighborhood-leader"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "ongoing-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "albert-square",
+            "queen-vic",
+            "market-stall",
+            "council-estate"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "substance-abuse",
+            "domestic-abuse"
+          ]
+        },
+        "keyword_sentence": "EastEnders portrays the complex lives of working-class families in London’s East End, exploring themes of crime, betrayal, and community within a gritty and ongoing narrative."
+      },
+      "duration_seconds": 64.67524719238281
+    }
+  }
+}

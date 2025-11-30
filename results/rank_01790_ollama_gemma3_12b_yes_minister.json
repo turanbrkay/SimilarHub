@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Yes Minister",
+    "overview": "Satirical sitcom set in the office of a UK Cabinet minister, Jim Hacker MP, who struggles with Civil Service bureaucracy and political machinations as he tries to get on with government business.",
+    "genres": [
+      "Comedy",
+      "War & Politics"
+    ],
+    "release_year": 1980,
+    "vote_count": 113
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Yes Minister is a British sitcom renowned for its sharp, satirical portrayal of the UK's political landscape and the often-absurd relationship between politicians and civil servants. The series follows the hapless Jim Hacker as he navigates the complexities of ministerial office, constantly thwarted by the bureaucratic expertise and subtle manipulations of his advisors. The show's humor derives from its keen observations of power dynamics, policy-making processes, and the inherent contradictions within government. It's a witty and insightful commentary on the realities of political life, offering a blend of situational comedy and social critique.",
+        "spoiler_rich_plot_summary": "The series begins with Jim Hacker, a newly appointed Minister for Administrative Affairs, eager to implement his own policies and make a positive impact. However, he quickly discovers that his ambitions are constantly undermined by Sir Humphrey Appleby, the Permanent Secretary, and his team of civil servants, who expertly manipulate situations to maintain the status quo. Each episode typically revolves around a specific policy initiative that Hacker attempts to push through, only to find himself entangled in a web of bureaucratic procedures and subtle resistance. While Hacker occasionally achieves a minor victory, the overarching narrative demonstrates the Civil Service's ability to control the political agenda. The series explores the power of information, the importance of appearances, and the challenges of genuine reform within a deeply entrenched system. Throughout the show, Hacker's understanding of his role and the nature of power evolves, though he rarely manages to fundamentally alter the established order.",
+        "categorized_keywords": {
+          "themes": [
+            "political-satire",
+            "bureaucracy",
+            "power-dynamics",
+            "social-commentary",
+            "government-corruption",
+            "reform-attempts"
+          ],
+          "plot_and_concepts": [
+            "political-intrigue",
+            "situational-comedy",
+            "policy-making",
+            "civil-service-resistance"
+          ],
+          "mood_and_tone": [
+            "witty",
+            "satirical",
+            "observational",
+            "dry-humor"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "political-comedy",
+            "british-humor"
+          ],
+          "setting": [
+            "uk-government",
+            "ministry-office",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "hapless-politician",
+            "manipulative-bureaucrat",
+            "wise-advisor"
+          ],
+          "narrative_style": [
+            "episodic-format",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "cabinet-minister",
+            "permanent-secretary",
+            "policy-briefing",
+            "government-department"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Yes Minister is a witty British sitcom that satirically explores the power dynamics and bureaucratic challenges faced by a hapless politician navigating the complexities of UK government."
+      },
+      "duration_seconds": 61.64205265045166
+    }
+  }
+}

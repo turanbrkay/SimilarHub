@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Planet Sheen",
+    "overview": "Jimmy Neutron's goofy pal, Sheen Estevez accidentally gets himself sent to another planet, millions of light-years from Earth.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Action & Adventure"
+    ],
+    "release_year": 2010,
+    "vote_count": 30
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Planet Sheen is a comedic animated series that follows the misadventures of Sheen Estevez after he's accidentally launched into space and crash-lands on a distant planet. The show blends elements of science fiction, action-adventure, and slapstick humor, creating a lighthearted and often chaotic exploration of a new world. It focuses on Sheen's attempts to survive and find a way back to Earth while interacting with the planet's inhabitants, often causing widespread mayhem. The series maintains a generally optimistic tone, emphasizing friendship and resilience in the face of extraordinary circumstances.",
+        "spoiler_rich_plot_summary": "Following a mishap involving Jimmy Neutron's inventions, Sheen Estevez is propelled across the galaxy and finds himself stranded on a vibrant, alien planet. Initially overwhelmed, Sheen quickly adapts, embracing the planet's unique environment and its diverse, often bizarre, inhabitants. He forms alliances with several alien creatures, navigating complex social dynamics and facing numerous challenges to his survival. Throughout his journey, Sheen's antics inadvertently impact the planet's ecosystem and political landscape, leading to both humorous and perilous situations. While he consistently attempts to signal Earth and return home, his efforts are frequently thwarted by unforeseen obstacles and his own impulsive nature. The series follows his ongoing quest for rescue, punctuated by encounters with various alien factions and the gradual unraveling of the planet's mysteries.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "survival",
+            "adaptation",
+            "exploration",
+            "optimism"
+          ],
+          "plot_and_concepts": [
+            "space-exploration",
+            "fish-out-of-water",
+            "alien-encounter",
+            "accidental-travel",
+            "rescue-mission"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "comedic",
+            "wholesome",
+            "chaotic",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "comedy",
+            "science-fiction",
+            "action-adventure",
+            "fish-out-of-water"
+          ],
+          "setting": [
+            "alien-planet",
+            "distant-galaxy",
+            "extraterrestrial-environment"
+          ],
+          "character_archetypes": [
+            "goofy-sidekick",
+            "accidental-hero",
+            "optimistic-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "alien-technology",
+            "crash-landing",
+            "extraterrestrial-flora",
+            "alien-structures"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Planet Sheen is a lighthearted animated series that follows a goofy protagonist's accidental journey to an alien planet, blending comedic science-fiction and action-adventure elements for a family-friendly exploration of survival and friendship."
+      },
+      "duration_seconds": 78.33498787879944
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Santa Clarita Diet",
+    "overview": "They're ordinary husband and wife realtors until she undergoes a dramatic change that sends them down a road of death and destruction. In a good way.",
+    "genres": [
+      "Comedy",
+      "Mystery"
+    ],
+    "release_year": 2017,
+    "vote_count": 611
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Santa Clarita Diet is a darkly comedic mystery series that blends suburban satire with supernatural horror. The show follows a seemingly normal couple whose lives are upended when one of them becomes a flesh-eating zombie. The series explores themes of family, acceptance, and the lengths people will go to protect their loved ones, all while maintaining a quirky and often absurd sense of humor. It's a unique blend of genres that offers a darkly funny and surprisingly heartfelt exploration of what it means to be different.",
+        "spoiler_rich_plot_summary": "The series begins with Sheila and Joel, a married couple working as real estate agents in Santa Clarita, California. Their lives take a bizarre turn when Sheila suddenly develops an insatiable hunger for human flesh, transforming her into a zombie. Initially horrified, Joel dedicates himself to finding a cure for Sheila, while she struggles to adapt to her new existence and the constant need for sustenance. As they navigate this new reality, they discover a hidden world of other 'infected' individuals and uncover a larger conspiracy surrounding Sheila's transformation. The couple's teenage daughter, Abby, becomes increasingly involved in their quest, often taking on dangerous missions to secure food and investigate the origins of the infection. Throughout the series, they encounter various allies and enemies, all while trying to maintain a semblance of normalcy and protect their family from the escalating threats. The search for answers leads them down increasingly perilous paths, revealing a complex web of secrets and a potential cure that may come at a significant cost.",
+        "categorized_keywords": {
+          "themes": [
+            "family-acceptance",
+            "identity-crisis",
+            "suburban-life",
+            "mortality",
+            "zombie-apocalypse",
+            "marital-challenges"
+          ],
+          "plot_and_concepts": [
+            "zombie-transformation",
+            "medical-mystery",
+            "conspiracy-theory",
+            "found-family",
+            "crime-investigation"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "quirky",
+            "satirical",
+            "suspenseful",
+            "absurd"
+          ],
+          "genre_and_tropes": [
+            "zombie-comedy",
+            "medical-drama",
+            "suburban-horror",
+            "found-family",
+            "satirical-comedy"
+          ],
+          "setting": [
+            "santa-clarita-california",
+            "modern-day",
+            "suburban-america"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "zombie-protagonist",
+            "supportive-spouse",
+            "rebellious-teenager"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "mystery-driven"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "flesh-eating",
+            "real-estate-agency",
+            "zombie-cure",
+            "secret-society",
+            "suburban-home"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "body-horror"
+          ]
+        },
+        "keyword_sentence": "Santa Clarita Diet is a darkly comic mystery series set in suburban California, exploring themes of family acceptance and identity crisis through the bizarre transformation of a woman into a flesh-eating zombie."
+      },
+      "duration_seconds": 80.86968493461609
+    }
+  }
+}

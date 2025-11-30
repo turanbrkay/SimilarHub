@@ -1,0 +1,70 @@
+{
+  "input_data": {
+    "title": "QI",
+    "overview": "Comedy quiz show full of quirky facts, in which contestants are rewarded more if their answers are 'quite interesting'.",
+    "genres": [
+      "Comedy",
+      "Talk"
+    ],
+    "release_year": 2003,
+    "vote_count": 208
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "QI is a British comedy quiz show that distinguishes itself through its focus on obscure and fascinating facts rather than straightforward knowledge. The show's format rewards contestants for providing 'quite interesting' answers, even if they are technically incorrect, fostering a playful and educational atmosphere. Hosted by a rotating cast of presenters and featuring a panel of comedians, QI blends humor, trivia, and intellectual curiosity, offering a lighthearted and engaging experience for viewers of all ages. The show's appeal lies in its ability to surprise and delight with unexpected facts and witty banter.",
+        "spoiler_rich_plot_summary": "QI doesn't follow a traditional narrative arc. Each episode revolves around a central theme or topic, presented by the host. The host poses questions to the panel of comedians and a guest contestant, who then attempt to provide answers. Points are awarded not only for correct answers but also for particularly interesting or unusual responses, even if they are ultimately incorrect. The show's structure is episodic, with each episode exploring a new theme and featuring a different combination of host and panelists. There's no overarching plot or character development; instead, the focus remains consistently on the exploration of trivia and the comedic interactions between the participants. The show's longevity is a testament to its adaptable format and the endless supply of fascinating facts to uncover.",
+        "categorized_keywords": {
+          "themes": [
+            "trivia",
+            "comedy",
+            "intellectual-curiosity",
+            "humor",
+            "education"
+          ],
+          "plot_and_concepts": [
+            "quiz-show",
+            "panel-discussion",
+            "point-system",
+            "episodes"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "witty",
+            "playful",
+            "engaging"
+          ],
+          "genre_and_tropes": [
+            "comedy",
+            "talk-show",
+            "quiz-show"
+          ],
+          "setting": [
+            "television-studio",
+            "uk"
+          ],
+          "character_archetypes": [
+            "comedian",
+            "host",
+            "panelist"
+          ],
+          "narrative_style": [
+            "episodic",
+            "non-linear"
+          ],
+          "target_audience": [
+            "general-audience"
+          ],
+          "detail_plot": [
+            "question-cards",
+            "point-board",
+            "host-mic"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "QI is a lighthearted British talk show that blends comedy and intellectual curiosity through a unique quiz format, rewarding contestants for providing quite interesting facts in an engaging and episodic experience."
+      },
+      "duration_seconds": 52.96889781951904
+    }
+  }
+}

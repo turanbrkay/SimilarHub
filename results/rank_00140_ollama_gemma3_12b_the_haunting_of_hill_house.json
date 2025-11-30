@@ -1,0 +1,89 @@
+{
+  "input_data": {
+    "title": "The Haunting of Hill House",
+    "overview": "The Crains, a fractured family, confront haunting memories of their old home and the terrifying events that drove them from it.",
+    "genres": [
+      "Mystery",
+      "Drama"
+    ],
+    "release_year": 2018,
+    "vote_count": 1953
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Haunting of Hill House is a psychological horror series that explores the long-term effects of trauma and family secrets. Told through a dual timeline, the show interweaves the Crain family's childhood experiences in Hill House with their present-day struggles as adults. It blends supernatural horror with deeply human drama, examining themes of grief, guilt, and the enduring power of the past. The series is characterized by its atmospheric dread, complex character relationships, and a slow-burn approach to revealing its mysteries.",
+        "spoiler_rich_plot_summary": "The series centers on the Crain family – Hugh and Olivia, and their five children Steven, Shirley, Theodora, Luke, and Nell – who move into Hill House in 1992 with the intention of renovating and selling it. However, their time in the house is marked by increasingly disturbing and inexplicable events, leading to a devastating tragedy that forces them to flee. Twenty-six years later, the siblings are forced to confront their shared past when Nell’s death brings them back together. As they delve into the events of that fateful summer, they uncover dark secrets about Hill House and the insidious ways it has continued to haunt them. Each sibling grapples with their individual trauma, manifested in different ways – Steven with denial, Shirley with control, Theodora with emotional detachment, Luke with addiction, and Nell with a constant feeling of being watched. The series reveals that Hill House is not merely a haunted house, but a psychic entity that feeds on the family's pain and vulnerabilities, manipulating them to keep them within its grasp. Ultimately, the siblings must confront their demons and the house itself to break free from its influence and find a measure of peace.",
+        "categorized_keywords": {
+          "themes": [
+            "family-trauma",
+            "grief",
+            "guilt",
+            "psychological-horror",
+            "loss",
+            "memory",
+            "redemption",
+            "haunting"
+          ],
+          "plot_and_concepts": [
+            "dual-timeline",
+            "psychic-phenomena",
+            "haunted-house",
+            "family-secrets",
+            "ghost-story",
+            "supernatural-horror"
+          ],
+          "mood_and_tone": [
+            "atmospheric",
+            "melancholy",
+            "eerie",
+            "suspenseful",
+            "dark",
+            "emotional"
+          ],
+          "genre_and_tropes": [
+            "horror",
+            "drama",
+            "mystery",
+            "family-drama",
+            "ghost-story"
+          ],
+          "setting": [
+            "new-england",
+            "old-house",
+            "modern-day",
+            "rural-setting"
+          ],
+          "character_archetypes": [
+            "damaged-protagonist",
+            "estranged-family",
+            "wise-figure",
+            "tormented-child"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "old-photographs",
+            "basement-stairs",
+            "red-room",
+            "family-portrait",
+            "childrens-toys"
+          ],
+          "maturity_and_content": [
+            "death-themes",
+            "substance-abuse",
+            "psychological-distress"
+          ]
+        },
+        "keyword_sentence": "The Haunting of Hill House is a deeply emotional horror drama that explores the enduring trauma of a fractured family and the lingering effects of a haunted past through a non-linear narrative and atmospheric dread."
+      },
+      "duration_seconds": 75.71326160430908
+    }
+  }
+}

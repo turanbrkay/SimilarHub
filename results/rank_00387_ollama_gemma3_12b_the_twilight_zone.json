@@ -1,0 +1,88 @@
+{
+  "input_data": {
+    "title": "The Twilight Zone",
+    "overview": "A series of unrelated stories containing drama, psychological thriller, fantasy, science fiction, suspense, and/or horror, often concluding with a macabre or unexpected twist.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Mystery",
+      "Drama"
+    ],
+    "release_year": 1959,
+    "vote_count": 780
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Twilight Zone is an anthology series presenting standalone stories exploring the darker side of human nature and the unsettling possibilities of the unknown. Each episode functions as a self-contained narrative, often blending science fiction, fantasy, and psychological thriller elements to create a sense of unease and suspense. The show frequently uses allegorical storytelling to comment on contemporary social issues and anxieties, culminating in unexpected twists that challenge viewers' perceptions of reality. Its episodic format and focus on thought-provoking themes have cemented its place as a cornerstone of television history, influencing countless subsequent series.",
+        "spoiler_rich_plot_summary": "The Twilight Zone's structure revolves around presenting seemingly ordinary situations that gradually unravel into extraordinary and often disturbing scenarios. Early episodes might feature individuals confronting bizarre phenomena, like a man trapped in a time loop or a town where everyone mysteriously disappears. As the series progresses, the stories become increasingly complex, delving into themes of paranoia, conformity, and the dangers of unchecked ambition. Characters often find themselves facing moral dilemmas with profound consequences, and the show frequently uses symbolism and allegory to explore broader societal issues. While individual episodes stand alone, recurring motifs and a sense of underlying dread connect the narratives, suggesting a larger, unseen force at play. The series concludes with a sense of ambiguity, leaving viewers to ponder the true nature of reality and the fragility of the human condition, often with a final, unsettling revelation.",
+        "categorized_keywords": {
+          "themes": [
+            "human-nature",
+            "social-commentary",
+            "existentialism",
+            "paranoia",
+            "conformity",
+            "moral-dilemmas",
+            "reality-vs-perception"
+          ],
+          "plot_and_concepts": [
+            "time-loop",
+            "parallel-universe",
+            "alternate-reality",
+            "psychological-thriller",
+            "moral-ambiguity",
+            "unexpected-twist",
+            "anthology-series"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "eerie",
+            "unsettling",
+            "thought-provoking",
+            "dark",
+            "surreal"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "fantasy",
+            "psychological-horror",
+            "anthology",
+            "twist-ending"
+          ],
+          "setting": [
+            "small-town-america",
+            "alternate-timeline",
+            "modern-era",
+            "suburban-setting"
+          ],
+          "character_archetypes": [
+            "ordinary-person",
+            "anti-hero",
+            "reluctant-hero",
+            "conformist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format",
+            "standalone-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "twist-ending",
+            "small-town-setting",
+            "eerie-atmosphere",
+            "unexplained-phenomena"
+          ],
+          "maturity_and_content": [
+            "psychological-distress",
+            "moral-ambiguity"
+          ]
+        },
+        "keyword_sentence": "The Twilight Zone is a suspenseful anthology series that explores the darker aspects of human nature and societal anxieties through unsettling science fiction and psychological horror, often culminating in unexpected twists that challenge viewers' perceptions of reality."
+      },
+      "duration_seconds": 65.10649514198303
+    }
+  }
+}

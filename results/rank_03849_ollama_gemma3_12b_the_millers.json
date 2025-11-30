@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "The Millers",
+    "overview": "A divorced reporter, looking forward to the single life, finds his parents' marital problems derail his plans.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2013,
+    "vote_count": 30
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Millers is a sitcom centered on a newly single reporter whose carefully constructed independence is disrupted by his meddling, recently divorced parents. The series explores themes of family dynamics, generational differences, and the challenges of maintaining personal boundaries. With a lighthearted and comedic tone, the show offers a relatable portrayal of the complexities of family relationships and the unexpected intrusions of parental involvement. It blends observational humor with situational comedy, creating a generally upbeat and entertaining viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Tom Miller, a reporter eager to embrace his newfound freedom after a divorce. His plans are immediately complicated when his parents, struggling with their own separation, move in with him. The initial episodes focus on the awkwardness and comedic clashes arising from this forced proximity, as Tom attempts to navigate his career and personal life while dealing with his parents' constant interference. Throughout the series, Tom's parents grapple with their own emotional turmoil and attempt to adjust to their new living arrangement, often creating chaotic and humorous situations. The show explores the evolving relationship between Tom and his parents, highlighting moments of frustration, understanding, and ultimately, a renewed appreciation for family. While the series maintains a comedic tone, it also touches upon the underlying emotional struggles of each character as they confront the challenges of divorce, aging, and the complexities of familial bonds.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "divorce",
+            "generational-differences",
+            "personal-boundaries",
+            "aging",
+            "reconciliation"
+          ],
+          "plot_and_concepts": [
+            "sitcom",
+            "fish-out-of-water",
+            "meddling-parents",
+            "romantic-relationships",
+            "family-comedy"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "humorous",
+            "observational",
+            "sitcom-tone"
+          ],
+          "genre_and_tropes": [
+            "family-sitcom",
+            "romantic-comedy",
+            "adult-humor"
+          ],
+          "setting": [
+            "modern-day",
+            "suburban-home",
+            "new-york-city"
+          ],
+          "character_archetypes": [
+            "divorced-parent",
+            "single-man",
+            "meddling-mother",
+            "well-meaning-father"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-comedy"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "divorce-papers",
+            "family-photos",
+            "apartment-living",
+            "romantic-dates"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Millers is a lighthearted family sitcom exploring the comedic challenges of a newly single man whose carefully planned independence is disrupted by his meddling, divorced parents in a modern-day setting."
+      },
+      "duration_seconds": 78.66779685020447
+    }
+  }
+}

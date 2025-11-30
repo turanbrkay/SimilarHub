@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Robin Hood",
+    "overview": "An updated series following the life of Robin Hood and his Merry Men in Sherwood forest. Together they steal from the rich and give to the poor - all the while avoiding their enemies Sir Guy of Gisborne and the Sheriff of Nottingham.",
+    "genres": [
+      "Drama",
+      "Action & Adventure"
+    ],
+    "release_year": 2006,
+    "vote_count": 93
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "This series reimagines the classic tale of Robin Hood, focusing on his journey from a nobleman wronged to a heroic outlaw fighting for the oppressed. Set against a backdrop of political corruption and social injustice, the show blends action-adventure with dramatic elements, exploring themes of loyalty, rebellion, and the struggle for a just society. The narrative emphasizes the complexities of morality and the sacrifices required to challenge authority, offering a modern take on a timeless legend.",
+        "spoiler_rich_plot_summary": "The series begins with Robin of Locksley, a young nobleman, witnessing his father's unjust execution and being framed for a crime he didn't commit. Forced to flee, he seeks refuge in Sherwood Forest, where he gradually embraces the identity of Robin Hood. He gathers a band of outlaws – Little John, Will Scarlet, Much, and others – who become his Merry Men. Together, they raid the wealthy and redistribute their wealth to the impoverished villagers suffering under the oppressive rule of the Sheriff of Nottingham and his loyal knight, Sir Guy of Gisborne. Robin's actions draw the attention of Marian Fitzwalter, a noblewoman who initially distrusts him but eventually becomes a vital ally and romantic interest. Throughout the series, Robin and his men face numerous challenges, including betrayals within their own ranks and increasingly sophisticated schemes devised by the Sheriff. The conflict escalates, leading to confrontations that threaten not only Robin's life but also the stability of the kingdom, culminating in a final showdown where Robin must confront the Sheriff and expose his corruption to the people.",
+        "categorized_keywords": {
+          "themes": [
+            "social-justice",
+            "rebellion",
+            "loyalty",
+            "corruption",
+            "redemption",
+            "class-conflict"
+          ],
+          "plot_and_concepts": [
+            "outlaw-narrative",
+            "revenge-plot",
+            "heist-story",
+            "political-intrigue"
+          ],
+          "mood_and_tone": [
+            "action-packed",
+            "dramatic",
+            "suspenseful",
+            "heroic"
+          ],
+          "genre_and_tropes": [
+            "adventure-series",
+            "historical-drama",
+            "found-family",
+            "romantic-tension"
+          ],
+          "setting": [
+            "medieval-england",
+            "sherwood-forest",
+            "nottingham-castle"
+          ],
+          "character_archetypes": [
+            "heroic-outlaw",
+            "corrupt-authority",
+            "noble-woman",
+            "loyal-companion"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "bow-and-arrow",
+            "forest-hideout",
+            "nottingham-castle",
+            "sheriffs-hat",
+            "royal-decree"
+          ],
+          "maturity_and_content": [
+            "violence"
+          ]
+        },
+        "keyword_sentence": "This action-packed historical drama follows a heroic outlaw and his loyal companions as they fight against corruption and injustice in medieval England, redistributing wealth and challenging the authority of a tyrannical sheriff."
+      },
+      "duration_seconds": 67.10629057884216
+    }
+  }
+}

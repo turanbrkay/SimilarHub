@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "FBI: Most Wanted",
+    "overview": "The Fugitive Task Force relentlessly tracks and captures the notorious criminals on the Bureau’s Most Wanted list. Seasoned agent Jess LaCroix oversees the highly skilled team that functions as a mobile undercover unit that is always out in the field, pursuing those who are most desperate to elude justice.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2020,
+    "vote_count": 321
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "FBI: Most Wanted is a procedural crime drama that follows a specialized unit of the FBI tasked with apprehending high-profile fugitives on the Bureau's Most Wanted list. The series blends elements of police investigation with the constant pressure of pursuing dangerous criminals across the country. It emphasizes the personal toll on the agents involved, exploring the ethical dilemmas and emotional sacrifices inherent in their work. The show maintains a tense and suspenseful atmosphere, driven by the urgency of the cases and the constant threat posed by the targets. It functions as a spin-off from the 'FBI' series, sharing a similar procedural format but with a greater focus on fugitive apprehension.",
+        "spoiler_rich_plot_summary": "The series begins with Special Agent Jess LaCroix leading a newly formed Fugitive Task Force, comprised of seasoned FBI agents with diverse skill sets. Their initial cases involve tracking down individuals wanted for violent crimes, often requiring them to operate undercover and across state lines. As the series progresses, the team faces increasingly complex and dangerous fugitives, some with connections to larger criminal organizations. Personal relationships within the team are tested as they grapple with the moral ambiguities of their work and the impact of their cases on their families. Recurring storylines involve fugitives who manage to evade capture, leading to prolonged and intense pursuits. The team also confronts internal conflicts and betrayals, as some members question the methods and ethics of their operations. While the series maintains a focus on individual cases, overarching narratives explore the personal histories of the agents and the consequences of their relentless pursuit of justice.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "law-enforcement",
+            "moral-ambiguity",
+            "teamwork",
+            "pursuit-of-truth",
+            "personal-sacrifice"
+          ],
+          "plot_and_concepts": [
+            "fugitive-apprehension",
+            "undercover-operation",
+            "police-investigation",
+            "criminal-profiling",
+            "cross-country-chase"
+          ],
+          "mood_and_tone": [
+            "tense",
+            "suspenseful",
+            "serious",
+            "procedural",
+            "dark"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "police-drama",
+            "fugitive-narrative",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "united-states",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "dedicated-agent",
+            "experienced-leader",
+            "skilled-operative",
+            "moral-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "fugitive-file",
+            "undercover-identity",
+            "surveillance-equipment",
+            "police-vehicle"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "criminal-activity"
+          ]
+        },
+        "keyword_sentence": "FBI: Most Wanted is a tense and suspenseful crime procedural set in the modern United States, following a dedicated team of law enforcement agents as they pursue dangerous fugitives across the country, often confronting moral ambiguities and personal sacrifices in their relentless pursuit of justice."
+      },
+      "duration_seconds": 64.94993948936462
+    }
+  }
+}

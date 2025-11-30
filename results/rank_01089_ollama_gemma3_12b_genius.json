@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Genius",
+    "overview": "The life stories of history's greatest minds. From their days as young adults to their final years we see their discoveries, loves, relationships, causes, flaws and genius.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2017,
+    "vote_count": 233
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Genius is a biographical anthology series that explores the lives and achievements of influential historical figures. Each season focuses on a different individual, delving into their personal struggles, intellectual breakthroughs, and the broader context of their era. The series aims to humanize these iconic figures, showcasing their complexities and vulnerabilities alongside their extraordinary accomplishments. It blends historical drama with elements of biography, offering a compelling narrative for audiences interested in history, science, and the human condition. The show's format allows for a fresh perspective on well-known stories, inviting viewers to reconsider the legacies of these remarkable people.",
+        "spoiler_rich_plot_summary": "The first season of Genius chronicles the life of Albert Einstein, beginning with his rebellious youth in Germany and following his journey to becoming a world-renowned physicist. The season explores his struggles with authority, his passionate relationships, and the development of his theory of relativity. We see him navigate the rise of Nazism and ultimately emigrate to the United States, where he becomes a key figure in the Manhattan Project. Subsequent seasons have focused on other historical figures, such as Leonardo da Vinci, each season presenting a comprehensive look at their formative years, their significant contributions to their respective fields, and the personal challenges they faced. The series consistently portrays the subjects as flawed individuals, highlighting their internal conflicts and the impact of their choices on the world around them. While celebrating their genius, the show also examines the ethical dilemmas and unintended consequences that often accompany groundbreaking discoveries and innovations.",
+        "categorized_keywords": {
+          "themes": [
+            "genius",
+            "legacy",
+            "discovery",
+            "ambition",
+            "ethics",
+            "historical-context",
+            "scientific-innovation",
+            "personal-struggle"
+          ],
+          "plot_and_concepts": [
+            "biographical-drama",
+            "anthology-series",
+            "historical-fiction",
+            "scientific-breakthrough",
+            "world-war-ii"
+          ],
+          "mood_and_tone": [
+            "thoughtful",
+            "inspiring",
+            "dramatic",
+            "reflective"
+          ],
+          "genre_and_tropes": [
+            "biography",
+            "historical-drama",
+            "period-piece"
+          ],
+          "setting": [
+            "europe",
+            "united-states",
+            "20th-century",
+            "historical-period"
+          ],
+          "character_archetypes": [
+            "scientist",
+            "artist",
+            "inventor",
+            "rebel",
+            "genius"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "biographical-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "history-buffs"
+          ],
+          "detail_plot": [
+            "laboratory-setting",
+            "historical-documents",
+            "scientific-equipment",
+            "period-costumes"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Genius is a thoughtful and dramatic biographical anthology series that explores the lives and legacies of influential historical figures, showcasing their scientific breakthroughs and personal struggles within a richly detailed historical context."
+      },
+      "duration_seconds": 62.101470947265625
+    }
+  }
+}

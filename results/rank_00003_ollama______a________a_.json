@@ -1,0 +1,127 @@
+{
+  "input_data": {
+    "title": "The Walking Dead",
+    "overview": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2010,
+    "vote_count": 15432
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Walking Dead follows former sheriff’s deputy Rick Grimes as he awakens to a world overrun by zombies and embarks on a desperate quest to reunite with his family. Along the way he gathers a ragged band of survivors, confronting moral dilemmas, hostile factions, and the relentless threat of the undead. The series blends brutal action with intimate drama, exploring the fragility of humanity in a bleak, post‑apocalyptic landscape. Its tone oscillates between raw survivalism and poignant moments of hope, underscoring the enduring struggle to maintain civilization amid chaos.",
+        "spoiler_rich_plot_summary": "Rick’s return from a coma thrusts him into a landscape where the dead roam and humanity has fractured into desperate communities. He forms a core group of survivors, establishing a fragile sanctuary that becomes a focal point for conflict with rival bands such as the Saviors and later the Whisperers. Over successive seasons, the group faces internal betrayals, external assaults, and the psychological toll of constant threat, all while searching for loved ones and attempting to rebuild a semblance of order. The series concludes with the survivors confronting a new, formidable adversary and striving to forge a future in the ruins of society, leaving open questions about the ultimate shape of humanity’s rebirth.",
+        "categorized_keywords": {
+          "themes": [
+            "post-apocalyptic",
+            "survival",
+            "family",
+            "morality",
+            "humanity",
+            "loss",
+            "resilience",
+            "community",
+            "power-dynamics",
+            "hope"
+          ],
+          "plot_and_concepts": [
+            "zombie-apocalypse",
+            "undead",
+            "horde",
+            "survivor-group",
+            "safe-zone",
+            "caravan",
+            "faction",
+            "saviors",
+            "whisperers",
+            "rescue-mission",
+            "scavenging",
+            "leadership-choices",
+            "resource-competition",
+            "conflict-with-others"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "dark",
+            "bleak",
+            "hopeful",
+            "intense",
+            "realistic",
+            "somber",
+            "emotional"
+          ],
+          "genre_and_tropes": [
+            "post-apocalyptic",
+            "horror",
+            "drama",
+            "action-adventure",
+            "survival-drama",
+            "group-dynamics",
+            "leader-arc",
+            "enemy-foe",
+            "faction-battles",
+            "rebel-society"
+          ],
+          "setting": [
+            "modern-america",
+            "post-apocalyptic",
+            "zombie-infested",
+            "rural-usa",
+            "small-town",
+            "city-ruins",
+            "underground-bunker",
+            "farmhouse"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "survivor",
+            "mentor",
+            "father-figure",
+            "female-leader",
+            "young-protege",
+            "loyalist",
+            "traitor",
+            "villain",
+            "outcast",
+            "moral-ambiguous"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic",
+            "character-driven",
+            "slow-burn",
+            "non-linear",
+            "flashback",
+            "multiple-perspective"
+          ],
+          "target_audience": [
+            "mature-audiences",
+            "horror-fans",
+            "drama-enthusiasts",
+            "post-apocalyptic"
+          ],
+          "detail_plot": [
+            "red-cross-symbol",
+            "blood",
+            "family-reunion",
+            "carpet-of-bodies",
+            "hunting-with-bows",
+            "fire",
+            "campsite",
+            "shelter-building",
+            "machete-fighting",
+            "church",
+            "prison",
+            "safe-house"
+          ]
+        },
+        "keyword_sentence": "The Walking Dead is a gritty, post‑apocalyptic drama that follows a survivor group fighting undead hordes while grappling with morality, community, and leadership, set in a bleak, modern‑America landscape and told through a serialized, character‑driven narrative."
+      },
+      "duration_seconds": 131.60791778564453
+    }
+  }
+}

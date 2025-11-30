@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Comic Book Men",
+    "overview": "A show for Fanboys by Fanboys. Set in uber-geek Kevin Smith's iconic comic shop Jay and Silent Bob's Secret Stash, the show explores every nook and cranny of Fanboy culture from A to Z. Endless circular debates about the technical accuracy of the USS Enterprise's warp-core schematics? Snarky comic aficionados with an encyclopedic knowledge of every Marvel back issue? You bet.",
+    "genres": [
+      "Reality",
+      "Comedy"
+    ],
+    "release_year": 2012,
+    "vote_count": 51
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Comic Book Men is a reality comedy series centered around Kevin Smith's comic book store, Jay and Silent Bob's Secret Stash. The show follows a group of self-proclaimed 'nerds' as they debate, critique, and celebrate all aspects of geek culture, from comic books and movies to video games and collectibles. It's a lighthearted and often humorous exploration of fandom, characterized by playful arguments and shared enthusiasm. The series offers a nostalgic and accessible look into the world of comic book collecting and the passionate community surrounding it, appealing to a broad audience of fans and casual observers alike.",
+        "spoiler_rich_plot_summary": "The series doesn't follow a traditional narrative arc but rather presents a recurring format of themed discussions and challenges. Each episode typically revolves around a specific topic, such as a particular comic book character, movie franchise, or collectible item. The 'Men' – Kevin Smith, Walt Flanagan, Brian Johnson, Mike Stoklasa, and Dan Danger – engage in spirited debates, often fueled by personal anecdotes and differing opinions. Recurring segments include 'Top Five,' where the Men rank their favorite items related to the episode's theme, and 'Storied Past,' where they share personal experiences connected to the subject matter. While there's no overarching plot, the series chronicles the evolving landscape of geek culture and the Men's deepening relationships with each other and their fans. The show's longevity reflects the enduring appeal of shared fandom and the joy of celebrating niche interests.",
+        "categorized_keywords": {
+          "themes": [
+            "fandom",
+            "geek-culture",
+            "nostalgia",
+            "collecting",
+            "friendship",
+            "humor"
+          ],
+          "plot_and_concepts": [
+            "reality-tv",
+            "top-ten-list",
+            "debate",
+            "collectible-culture"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "humorous",
+            "enthusiastic",
+            "playful"
+          ],
+          "genre_and_tropes": [
+            "reality-comedy",
+            "geek-tv",
+            "conversation-based"
+          ],
+          "setting": [
+            "comic-book-store",
+            "new-jersey",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "nerd",
+            "collector",
+            "expert",
+            "comedian"
+          ],
+          "narrative_style": [
+            "episodic",
+            "conversation-driven",
+            "panel-discussion"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "comic-book-fans",
+            "geek-culture"
+          ],
+          "detail_plot": [
+            "comic-books",
+            "action-figures",
+            "movie-posters",
+            "collectible-cards",
+            "jay-and-silent-bob"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Comic Book Men is a lighthearted reality comedy series that celebrates geek culture and the joy of collecting, centered around a comic book store and fueled by playful debates among passionate fans."
+      },
+      "duration_seconds": 60.49537682533264
+    }
+  }
+}

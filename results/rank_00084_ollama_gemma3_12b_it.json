@@ -1,0 +1,88 @@
+{
+  "input_data": {
+    "title": "It",
+    "overview": "In 1960, seven outcast kids known as \"The Losers' Club\" fight an evil demon who poses as a child-killing clown. Thirty years later, they reunite to stop the demon once and for all when it returns to their hometown.",
+    "genres": [
+      "Mystery",
+      "Drama"
+    ],
+    "release_year": 1990,
+    "vote_count": 2794
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "It is a horror drama that explores the enduring power of childhood trauma and the bonds of friendship. The narrative centers on a group of outcasts who confront a shape-shifting entity that preys on their fears. The series blends elements of supernatural horror with coming-of-age themes, examining the psychological impact of loss and the courage required to face one's demons. The story oscillates between the characters' childhood experiences and their adult lives, highlighting the cyclical nature of fear and the importance of unity in overcoming adversity. It offers a suspenseful and emotionally resonant experience, exploring the darker aspects of human nature and the resilience of the human spirit.",
+        "spoiler_rich_plot_summary": "The story begins in Derry, Maine, in the summer of 1960, where a series of child disappearances terrorizes the town. A group of bullied children, dubbed 'The Losers' Club,' discovers a malevolent entity that manifests as Pennywise the Dancing Clown. They confront Pennywise, seemingly defeating him, but are warned that he will return every 27 years. The narrative then jumps to 1990, when the Losers, now adults, are drawn back to Derry as the killings resume. Haunted by repressed memories and facing their individual fears, they must reunite and confront Pennywise once more. They uncover a history of violence and corruption within Derry, realizing that Pennywise is intrinsically linked to the town's dark past. The Losers delve into Pennywise's origins, discovering he is an ancient, interdimensional being feeding on the town's collective fear. The final confrontation involves each member facing their deepest fears, manifested by Pennywise, before ultimately destroying him and seemingly ending his reign of terror over Derry. However, a final scene hints at the possibility of his return, suggesting the cycle of fear may continue.",
+        "categorized_keywords": {
+          "themes": [
+            "childhood-trauma",
+            "fear",
+            "friendship",
+            "loss",
+            "coming-of-age",
+            "good-vs-evil",
+            "memory",
+            "corruption"
+          ],
+          "plot_and_concepts": [
+            "shape-shifting",
+            "monster-of-the-week",
+            "interdimensional-being",
+            "small-town-horror",
+            "coming-of-age-horror"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "suspenseful",
+            "creepy",
+            "nostalgic",
+            "psychological-horror"
+          ],
+          "genre_and_tropes": [
+            "horror",
+            "coming-of-age",
+            "supernatural",
+            "monster-movie",
+            "found-family"
+          ],
+          "setting": [
+            "small-town-usa",
+            "1960s",
+            "1990s",
+            "maine"
+          ],
+          "character_archetypes": [
+            "outcast",
+            "reluctant-hero",
+            "wise-mentor",
+            "bully"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "flashback",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "pennywise-the-clown",
+            "red-balloons",
+            "storm-drain",
+            "losers-club",
+            "derry-maine"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "body-horror",
+            "child-abuse",
+            "psychological-distress"
+          ]
+        },
+        "keyword_sentence": "It is a dark and suspenseful horror drama exploring the enduring power of childhood trauma and the bonds of friendship as a group of outcasts confront a shape-shifting entity in a small town haunted by a history of violence."
+      },
+      "duration_seconds": 81.34617710113525
+    }
+  }
+}

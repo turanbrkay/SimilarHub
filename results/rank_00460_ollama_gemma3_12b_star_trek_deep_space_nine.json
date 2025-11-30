@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "Star Trek: Deep Space Nine",
+    "overview": "At Deep Space Nine, a space station located next to a wormhole in the vicinity of the liberated planet of Bajor, Commander Sisko and crew welcome alien visitors, root out evildoers and solve all types of unexpected problems that come their way.",
+    "genres": "Sci-Fi & Fantasy, Action & Adventure, Drama",
+    "release_year": 1993,
+    "vote_count": 669
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Star Trek: Deep Space Nine distinguishes itself within the Star Trek franchise by focusing on a stationary setting – a space station – and exploring morally complex themes of war, religion, and political maneuvering. Unlike previous series centered on exploration, DS9 grapples with the consequences of conflict and the compromises necessary for survival. The series blends action and adventure with dramatic character development, examining the impact of prolonged conflict on individuals and societies. It presents a more nuanced and often darker portrayal of the Federation's ideals, challenging viewers to consider the ethical implications of its actions.",
+        "spoiler_rich_plot_summary": "The series begins with the discovery of a stable wormhole near Bajor, a recently liberated planet struggling to rebuild after a brutal occupation by the Cardassian Union. Commander Benjamin Sisko is assigned to oversee Deep Space Nine, a former Cardassian station, and assist Bajor in its transition to self-governance. However, the wormhole proves to be a gateway to the Gamma Quadrant, unleashing a devastating threat – the Dominion – upon the Alpha Quadrant. The Dominion, a powerful and ruthless empire, seeks to conquer the Alpha Quadrant, leading to a protracted war. Throughout the conflict, Sisko grapples with his role as the Emissary to the Bajoran Prophets, a mysterious race of beings, while navigating complex political alliances and betrayals. Key characters, including Kira Nerys, Odo, and Quark, undergo significant transformations as they confront the realities of war and the compromises required for survival. The war culminates in a desperate alliance between the Federation, Klingons, and Romulans to repel the Dominion, resulting in heavy losses and a reshaping of the galactic landscape. While the Dominion threat is ultimately contained, the series concludes with a sense of lingering uncertainty and the understanding that peace is fragile.",
+        "categorized_keywords": {
+          "themes": [
+            "war-and-conflict",
+            "faith-and-prophecy",
+            "political-intrigue",
+            "redemption",
+            "moral-ambiguity",
+            "cultural-clash",
+            "duty-and-sacrifice"
+          ],
+          "plot_and_concepts": [
+            "wormhole-travel",
+            "space-station-setting",
+            "interstellar-war",
+            "prophecy",
+            "occupation-and-liberation",
+            "political-negotiation"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "serious",
+            "tense",
+            "hopeful",
+            "melancholy"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "space-opera",
+            "military-drama",
+            "political-thriller",
+            "found-family"
+          ],
+          "setting": [
+            "space-station",
+            "bajor",
+            "gamma-quadrant",
+            "interstellar-space",
+            "24th-century"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "complex-villain",
+            "wise-mentor",
+            "rogue-trader",
+            "spiritual-leader"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "wormhole",
+            "bajoran-temple",
+            "quark's-bar",
+            "dominion-ship",
+            "cardassian-uniform"
+          ],
+          "maturity_and_content": [
+            "war-violence",
+            "political-deception"
+          ]
+        },
+        "keyword_sentence": "Star Trek: Deep Space Nine explores the complexities of interstellar war and political intrigue within a space station setting, challenging the Federation’s ideals and examining themes of faith, sacrifice, and moral ambiguity."
+      },
+      "duration_seconds": 114.01634478569031
+    }
+  }
+}

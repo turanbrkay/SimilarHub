@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "House of Cards",
+    "overview": "Set in present day Washington, D.C., House of Cards is the story of Frank Underwood, a ruthless and cunning politician, and his wife Claire who will stop at nothing to conquer everything. This wicked political drama penetrates the shadowy world of greed, sex and corruption in modern D.C.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2013,
+    "vote_count": 2403
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "House of Cards is a darkly satirical political drama that explores the corrupting influence of power and ambition. The series follows Frank Underwood, a congressman who manipulates and schemes his way to the highest offices, often with the complicity of his equally calculating wife, Claire. The show's cynical tone and morally ambiguous characters offer a bleak commentary on American politics, blending elements of thriller and psychological drama to create a compelling and unsettling viewing experience. Its focus on intricate power dynamics and strategic maneuvering makes it a gripping study of human nature at its most ruthless.",
+        "spoiler_rich_plot_summary": "The series begins with Frank Underwood’s humiliation after being passed over for Secretary of State. Driven by revenge, he orchestrates a complex plan to climb the political ladder, manipulating events and people to his advantage. He forms a clandestine partnership with his wife, Claire, who shares his ambition and willingness to compromise her morals. As Frank ascends to the Vice Presidency and then the Presidency, he faces increasing scrutiny and challenges from both within and outside his administration. Claire’s own political aspirations grow, leading to a complex and often fraught dynamic between them. The series explores themes of betrayal, loyalty, and the lengths to which individuals will go to achieve and maintain power, culminating in a dramatic unraveling of their carefully constructed empire and a shattering of their relationship.",
+        "categorized_keywords": {
+          "themes": [
+            "power-corrupts",
+            "political-intrigue",
+            "ambition",
+            "betrayal",
+            "moral-compromise",
+            "marital-dysfunction",
+            "social-commentary"
+          ],
+          "plot_and_concepts": [
+            "political-thriller",
+            "manipulation",
+            "conspiracy",
+            "revenge",
+            "power-struggle"
+          ],
+          "mood_and_tone": [
+            "darkly-satirical",
+            "cynical",
+            "tense",
+            "unsettling",
+            "grim"
+          ],
+          "genre_and_tropes": [
+            "political-drama",
+            "anti-hero",
+            "slow-burn-romance",
+            "courtroom-drama"
+          ],
+          "setting": [
+            "washington-d-c",
+            "modern-day",
+            "american-politics"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "femme-fatale",
+            "ruthless-politician",
+            "power-broker"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "white-house-oval-office",
+            "congressional-hearing",
+            "press-conference",
+            "campaign-trail"
+          ],
+          "maturity_and_content": [
+            "sexual-content",
+            "graphic-violence",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "House of Cards is a darkly satirical political drama set in Washington D.C., exploring themes of power, ambition, and moral compromise through the ruthless actions of a calculating couple."
+      },
+      "duration_seconds": 64.81156158447266
+    }
+  }
+}

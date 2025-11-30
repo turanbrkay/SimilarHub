@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Miss Marple: The Body in the Library",
+    "overview": "Amateur detective Miss Jane Marple investigates the murder of a young woman whose body is found in the library at Gossington Hall, home of Colonel and Mrs. Arthur Bantry.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 1984,
+    "vote_count": 29
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Miss Marple: The Body in the Library is a classic British mystery series entry, blending traditional whodunit elements with a cozy, village setting. The series follows the astute observations of Miss Marple, an elderly spinster who quietly unravels complex crimes through her understanding of human nature. The tone is generally lighthearted and observant, with a focus on character interactions and subtle clues rather than intense action. It offers a comforting and intellectually stimulating viewing experience, appealing to fans of classic mysteries and character-driven narratives.",
+        "spoiler_rich_plot_summary": "The story begins with the shocking discovery of a young woman's body in the library of Gossington Hall, the grand estate of Colonel and Mrs. Bantry. The deceased, Marlene Tucker, was a guest at the house and her presence was shrouded in secrecy. Miss Marple, visiting a friend in the village, becomes involved in the investigation, noticing inconsistencies and suspect behavior among the residents. As the police investigation proceeds, it becomes clear that Marlene was not who she seemed, and her past is intertwined with several of the Bantry's guests. Secrets and lies are gradually exposed, revealing hidden motives and long-held grudges. The investigation leads to a complex web of relationships and past events, ultimately revealing the true identity of the murderer and their connection to the victim. The resolution involves a clever deduction by Miss Marple, exposing the killer's carefully constructed facade and bringing justice to the village.",
+        "categorized_keywords": {
+          "themes": [
+            "deception",
+            "justice",
+            "small-town-secrets",
+            "class-conflict",
+            "appearances-vs-reality"
+          ],
+          "plot_and_concepts": [
+            "whodunit",
+            "locked-room-mystery",
+            "false-identity",
+            "red-herring",
+            "investigation"
+          ],
+          "mood_and_tone": [
+            "cozy",
+            "observant",
+            "gentle",
+            "intriguing",
+            "traditional"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "british-mystery",
+            "amateur-detective",
+            "small-town-drama"
+          ],
+          "setting": [
+            "english-village",
+            "manor-house",
+            "1980s"
+          ],
+          "character_archetypes": [
+            "elderly-woman",
+            "eccentric-detective",
+            "aristocrat",
+            "suspicious-villager"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "character-driven"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "manor-house",
+            "library",
+            "village-fete",
+            "old-photograph",
+            "secret-diary"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Set in a quaint English village, Miss Marple: The Body in the Library is a cozy and intriguing British mystery series that explores themes of deception and justice through the observant eyes of an elderly amateur detective."
+      },
+      "duration_seconds": 79.19128131866455
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "input_data": {
+    "title": "Shooter",
+    "overview": "Bob Lee Swagger is an expert marksman living in exile who is coaxed back into action after learning of a plot to kill the president.",
+    "genres": [
+      "Action & Adventure",
+      "War & Politics",
+      "Drama"
+    ],
+    "release_year": 2016,
+    "vote_count": 579
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Shooter is an action-packed drama series centered on a former Marine sniper drawn back into a conspiracy to assassinate the U.S. President. The show blends elements of political thriller, war drama, and action-adventure, exploring themes of loyalty, betrayal, and the moral complexities of violence. Swagger's skills are exploited by shadowy forces, forcing him to navigate a dangerous web of deceit while protecting his family and uncovering the truth behind the plot. The series maintains a suspenseful tone, punctuated by intense action sequences and a focus on tactical precision.",
+        "spoiler_rich_plot_summary": "The series begins with Bob Lee Swagger, a skilled marksman living a secluded life, reluctantly agreeing to participate in what he believes is a training exercise for the Secret Service. He soon discovers he's been manipulated into a plot to assassinate the President during a parade. Swagger escapes capture and goes on the run, attempting to clear his name and expose the conspiracy. He uncovers a network of corrupt officials and mercenaries, revealing a deeper plot involving a false flag operation designed to destabilize the nation. Throughout the series, Swagger is aided by a small team of allies, including his brother Donnie and a former FBI agent, while constantly evading capture by relentless adversaries. As the conspiracy unfolds, Swagger confronts personal demons and grapples with the consequences of his actions, ultimately striving to protect his family and expose the truth to the public, leading to a final confrontation with the masterminds behind the plot.",
+        "categorized_keywords": {
+          "themes": [
+            "loyalty",
+            "betrayal",
+            "redemption",
+            "political-corruption",
+            "family-protection",
+            "moral-ambiguity"
+          ],
+          "plot_and_concepts": [
+            "political-thriller",
+            "false-flag-operation",
+            "conspiracy",
+            "assassination-plot",
+            "military-expertise",
+            "man-on-the-run"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "action-oriented",
+            "dark",
+            "tense",
+            "gritty"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "war-drama",
+            "military-thriller",
+            "political-conspiracy"
+          ],
+          "setting": [
+            "modern-day",
+            "united-states",
+            "military-bases",
+            "urban-environments"
+          ],
+          "character_archetypes": [
+            "expert-marksman",
+            "reluctant-hero",
+            "corrupt-official",
+            "loyal-brother",
+            "skilled-agent"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "action-driven"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "sniper-rifle",
+            "military-tactics",
+            "secret-service",
+            "government-cover-up",
+            "surveillance-equipment"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "political-tension"
+          ]
+        },
+        "keyword_sentence": "Shooter is a suspenseful action-adventure series set in modern-day America, exploring themes of loyalty and betrayal within a political conspiracy that forces a skilled marksman to confront a web of corruption and protect his family."
+      },
+      "duration_seconds": 76.4879801273346
+    }
+  }
+}

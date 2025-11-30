@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "MASK",
+    "overview": "M.A.S.K. is an animated television series produced by the French-American DIC Enterprises, Inc and Kenner. The series was based on the M.A.S.K. action figures. It was animated in Asia by studios; KK C&D Asia, Studio Juno, Studio World, and Ashi Production.",
+    "genres": [
+      "Animation",
+      "Action & Adventure"
+    ],
+    "release_year": 1985,
+    "vote_count": 49
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "MASK is an animated action-adventure series centered on a covert team of heroes who utilize advanced, transforming masks to gain special abilities and combat a ruthless organization led by Venger. The show blends elements of espionage, vehicular combat, and superheroics, targeting a young audience with its vibrant animation and emphasis on teamwork and overcoming adversity. The narrative explores themes of good versus evil, technological innovation, and the importance of loyalty. The series offers a fast-paced, action-oriented experience with a focus on imaginative gadgets and thrilling chases.",
+        "spoiler_rich_plot_summary": "The series follows Matt Trakker, a young inventor who discovers a revolutionary technology called 'Mask,' which allows ordinary people to gain extraordinary abilities through specialized masks. He forms a team of skilled individuals, the Mobile Armored Strike Kommand (MASK), to combat Venger, a former business partner who has turned to crime and formed his own organization, Velocity. Throughout the series, MASK engages in numerous confrontations with Velocity, thwarting their schemes to steal advanced technology and disrupt global stability. Matt and his team face betrayals within their own ranks and must constantly adapt to Venger's increasingly sophisticated plans. The conflict escalates as Venger seeks to harness the full potential of Mask technology for his own nefarious purposes, leading to a final showdown where the fate of the world hangs in the balance. While the team experiences setbacks and losses, their commitment to justice and their unwavering belief in each other ultimately prevails.",
+        "categorized_keywords": {
+          "themes": [
+            "good-vs-evil",
+            "teamwork",
+            "loyalty",
+            "technological-innovation",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "espionage",
+            "vehicular-combat",
+            "superheroics",
+            "transforming-gadgets",
+            "secret-identity"
+          ],
+          "mood_and_tone": [
+            "action-packed",
+            "adventurous",
+            "lighthearted",
+            "exciting"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "animated-series",
+            "superhero-team",
+            "spy-thriller"
+          ],
+          "setting": [
+            "modern-day",
+            "global-locations"
+          ],
+          "character_archetypes": [
+            "inventor-hero",
+            "villainous-mastermind",
+            "skilled-agent"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult"
+          ],
+          "detail_plot": [
+            "transforming-masks",
+            "high-tech-vehicles",
+            "secret-headquarters"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "MASK is an action-adventure animated series that follows a team of heroes using transforming masks to combat a villainous mastermind in a thrilling battle between good and evil across global locations."
+      },
+      "duration_seconds": 54.06601881980896
+    }
+  }
+}

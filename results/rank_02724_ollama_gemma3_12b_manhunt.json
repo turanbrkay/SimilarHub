@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Manhunt",
+    "overview": "The true story of London Metropolitan police detective Colin Sutton's manhunt for serial criminals.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "release_year": 2019,
+    "vote_count": 57
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Manhunt is a British crime drama series based on the true story of Detective Colin Sutton's pursuit of violent offenders. The series blends procedural elements with a character-driven narrative, focusing on the psychological toll of Sutton's relentless pursuit of justice. It explores themes of obsession, morality, and the complexities of law enforcement, offering a gritty and realistic portrayal of criminal investigations and their impact on those involved. The series maintains a somber tone, emphasizing the emotional and ethical challenges faced by police officers dealing with dangerous criminals. It's a procedural drama with a strong focus on the protagonist's internal struggles.",
+        "spoiler_rich_plot_summary": "The series follows Detective Colin Sutton as he undertakes a series of investigations targeting individuals who have evaded justice through various legal loopholes and technicalities. The first case involves a man who has repeatedly assaulted women, exploiting legal ambiguities to avoid serious consequences. Sutton becomes increasingly fixated on bringing this offender to justice, pushing himself and his team to their limits. Subsequent cases involve other criminals who have managed to slip through the cracks of the legal system, each presenting unique challenges and forcing Sutton to confront the flaws within the justice system. As Sutton delves deeper into these investigations, he becomes increasingly isolated and consumed by his work, blurring the lines between professional duty and personal obsession. The series culminates in a final case that forces Sutton to confront the consequences of his relentless pursuit and question the true cost of justice.",
+        "categorized_keywords": {
+          "themes": [
+            "justice-system",
+            "police-ethics",
+            "obsession",
+            "revenge",
+            "moral-ambiguity",
+            "revenge"
+          ],
+          "plot_and_concepts": [
+            "police-investigation",
+            "true-crime",
+            "manhunt",
+            "legal-loopholes",
+            "serial-offender"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "somber",
+            "tense",
+            "realistic",
+            "dark"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "true-crime",
+            "police-drama"
+          ],
+          "setting": [
+            "london-city",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "obsessive-protagonist",
+            "dedicated-detective"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "true-story-adaptation"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "police-station",
+            "interrogation-room",
+            "crime-scene",
+            "courtroom"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "legal-proceedings"
+          ]
+        },
+        "keyword_sentence": "Manhunt is a gritty and realistic British crime drama series that explores the complexities of the justice system and the psychological toll on dedicated detectives pursuing dangerous criminals in modern-day London."
+      },
+      "duration_seconds": 59.64467787742615
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Scooby-Doo, Where Are You!",
+    "overview": "Fred, Daphne, Velma, Shaggy, and the talking dog, Scooby-Doo, travel on the Mystery Machine van, in search of weird mysteries to solve.",
+    "genres": [
+      "Animation",
+      "Mystery",
+      "Comedy",
+      "Kids",
+      "Family"
+    ],
+    "release_year": 1969,
+    "vote_count": 643
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Scooby-Doo, Where Are You! is a lighthearted, comedic mystery series aimed at a family audience. The show follows a group of teenagers and their talking dog as they travel in their van, the Mystery Machine, uncovering supernatural-seeming events that invariably turn out to be elaborate hoaxes perpetrated by greedy or desperate individuals. The series blends elements of slapstick comedy, suspense, and adventure, creating a formulaic but consistently entertaining experience centered around friendship, teamwork, and overcoming fear. Its enduring appeal lies in its accessible humor and the comforting resolution of every mystery.",
+        "spoiler_rich_plot_summary": "The series typically begins with a local community facing a seemingly supernatural problem – a ghost, a monster, or a strange phenomenon. Fred, Daphne, Velma, Shaggy, and Scooby-Doo are called upon to investigate, often lured by the promise of reward or simply by a sense of adventure. Throughout the investigation, the group encounters red herrings and suspects, with Shaggy and Scooby often providing comic relief through their fear and attempts to avoid danger. The core of each episode involves uncovering clues, often through Velma's intellect and deductive reasoning, while Fred devises traps and Daphne provides a fashionable presence. Ultimately, the 'monster' is revealed to be a person in disguise, motivated by greed, revenge, or a desire to cover up a crime. The culprits are then handed over to the authorities, and the group moves on to their next mystery, reaffirming the importance of courage and friendship.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "courage",
+            "mystery-solving",
+            "teamwork",
+            "justice",
+            "overcoming-fear"
+          ],
+          "plot_and_concepts": [
+            "mystery",
+            "disguise",
+            "hoax",
+            "crime-solving",
+            "monster-of-the-week"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "comedic",
+            "wholesome",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "animated-comedy",
+            "mystery-comedy",
+            "found-family",
+            "slapstick-comedy"
+          ],
+          "setting": [
+            "small-town-america",
+            "1960s-setting",
+            "mystery-machine"
+          ],
+          "character_archetypes": [
+            "leader",
+            "detective",
+            "comedic-relief",
+            "damsel-in-distress"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "kids"
+          ],
+          "detail_plot": [
+            "mystery-machine",
+            "ghost-costume",
+            "trap",
+            "velma-glasses"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Scooby-Doo, Where Are You! is a lighthearted animated comedy series that follows a group of friends as they solve mysteries and uncover hoaxes in small-town America, emphasizing friendship, courage, and the importance of teamwork."
+      },
+      "duration_seconds": 59.14677667617798
+    }
+  }
+}

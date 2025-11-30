@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Lore",
+    "overview": "This anthology series brings to life Aaron Mahnke's “Lore” podcast and uncovers the real-life events that spawned our darkest nightmares. Blending dramatic scenes, animation, archive and narration, Lore reveals how our horror legends - such as vampires, werewolves and body snatchers - are rooted in truth.",
+    "genres": [
+      "Mystery",
+      "Drama",
+      "Documentary"
+    ],
+    "release_year": 2017,
+    "vote_count": 372
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Lore is an anthology horror series that explores the historical roots of folklore and urban legends. Each episode delves into a specific myth or legend, blending dramatic reenactments, animation, and narration to uncover the real-life events and cultural anxieties that gave rise to these stories. The series aims to examine the darker side of human history and psychology, presenting a chilling and thought-provoking exploration of the origins of our nightmares. It combines elements of documentary and drama to create a unique and unsettling viewing experience, appealing to audiences interested in both historical investigation and supernatural horror.",
+        "spoiler_rich_plot_summary": "The series unfolds as a collection of standalone episodes, each focusing on a distinct legend or historical event. The narratives often begin with Aaron Mahnke's narration, establishing the historical context and the core elements of the myth. Dramatic scenes then depict the events that inspired the legend, often highlighting the social, political, or psychological factors that contributed to its creation. Episodes explore a wide range of topics, from vampire folklore and werewolf sightings to tales of body snatchers and haunted locations. While each episode presents a self-contained story, a recurring theme is the exploration of how fear, superstition, and societal anxieties can transform real-life events into enduring legends. The series doesn't offer a definitive resolution to the mysteries it presents, instead leaving viewers to ponder the unsettling possibility that the line between history and myth is often blurred.",
+        "categorized_keywords": {
+          "themes": [
+            "folklore",
+            "urban-legends",
+            "historical-anxiety",
+            "superstition",
+            "fear",
+            "dark-history"
+          ],
+          "plot_and_concepts": [
+            "anthology-series",
+            "historical-investigation",
+            "re-enactment",
+            "narrative-mystery"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "eerie",
+            "unsettling",
+            "atmospheric",
+            "chilling"
+          ],
+          "genre_and_tropes": [
+            "horror",
+            "documentary",
+            "anthology",
+            "mystery"
+          ],
+          "setting": [
+            "historical-settings",
+            "global-locations"
+          ],
+          "character_archetypes": [
+            "narrator",
+            "historian"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "standalone-episodes"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "archive-footage",
+            "animated-sequences",
+            "haunted-locations",
+            "historical-records"
+          ],
+          "maturity_and_content": [
+            "dark-themes",
+            "supernatural-horror"
+          ]
+        },
+        "keyword_sentence": "Lore is a chilling anthology series that explores the dark history and unsettling origins of global folklore, blending historical investigation and supernatural horror to reveal the roots of our deepest fears."
+      },
+      "duration_seconds": 55.269452810287476
+    }
+  }
+}

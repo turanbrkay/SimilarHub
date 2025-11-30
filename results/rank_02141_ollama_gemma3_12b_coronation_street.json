@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "Coronation Street",
+    "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
+    "genres": [
+      "Soap"
+    ],
+    "release_year": 1960,
+    "vote_count": 87
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Coronation Street is a long-running British soap opera that chronicles the daily lives of working-class residents in a fictional street in Manchester. The series focuses on interpersonal relationships, family dynamics, and community events, often reflecting contemporary social issues and cultural shifts. Its enduring popularity stems from its relatable characters and its ability to portray the complexities of ordinary lives. The show's focus on realism and its depiction of everyday struggles have made it a cornerstone of British television for decades. It offers a familiar and comforting narrative experience, grounded in the realities of working-class life.",
+        "spoiler_rich_plot_summary": "Coronation Street debuted in 1960, initially focusing on the lives of Elsie Tanner and her neighbors. The show quickly established a pattern of ongoing storylines involving romance, family disputes, and financial struggles. Over the decades, numerous characters have come and gone, each leaving their mark on the street's history. Major plotlines have included affairs, births, deaths, and criminal activity, all interwoven with the everyday routines of the residents. The Rovers Return Inn serves as a central hub for socializing and often witnesses pivotal moments in the characters' lives. While individual storylines often conclude, the overarching narrative of Coronation Street continues, with new generations of characters emerging and old conflicts resurfacing, ensuring the street's enduring appeal. The show has consistently reflected changing social norms and attitudes, tackling issues ranging from class divisions to LGBTQ+ representation, while maintaining its core focus on the lives of ordinary people.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "working-class-life",
+            "community",
+            "social-issues",
+            "romance",
+            "loss",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "soap-opera",
+            "generational-storytelling",
+            "ongoing-narrative",
+            "small-town-drama"
+          ],
+          "mood_and_tone": [
+            "melodramatic",
+            "realistic",
+            "comforting",
+            "domestic"
+          ],
+          "genre_and_tropes": [
+            "british-tv",
+            "working-class-drama",
+            "small-town-life"
+          ],
+          "setting": [
+            "manchester",
+            "working-class-neighborhood",
+            "pub-setting"
+          ],
+          "character_archetypes": [
+            "working-class-family",
+            "neighborhood-friends",
+            "pub-regulars"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "rovers-return-inn",
+            "working-class-homes",
+            "neighborhood-shop"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Coronation Street portrays the everyday lives and enduring relationships of a close-knit working-class community in Manchester, offering a comforting and melodramatic glimpse into their joys, struggles, and the familiar rhythms of small-town life."
+      },
+      "duration_seconds": 62.658649921417236
+    }
+  }
+}

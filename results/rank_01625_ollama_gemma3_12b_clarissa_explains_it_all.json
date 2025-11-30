@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "Clarissa Explains It All",
+    "overview": "Clarissa Darling is a teen girl dealing with typical pre-adolescent concerns such as school, boys, pimples, wearing her first training bra and an annoying little brother Ferguson.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1991,
+    "vote_count": 129
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Clarissa Explains It All is a 1990s sitcom that follows the everyday life of a teenage girl, Clarissa Darling, as she navigates the challenges of adolescence. The series blends humor with relatable coming-of-age themes, exploring topics like family dynamics, friendships, and first crushes. Known for its quirky visual style and direct-to-camera narration, the show offers a lighthearted and nostalgic look at the pre-teen experience. It's a largely episodic series, with minimal overarching plotlines, focusing instead on the humorous and often chaotic realities of growing up.",
+        "spoiler_rich_plot_summary": "The series primarily revolves around Clarissa Darling, a teenager who frequently addresses the audience directly, explaining her thoughts and experiences. Each episode typically focuses on a specific issue or challenge Clarissa faces, whether it's dealing with her younger brother Ferguson, navigating friendships, or experiencing first crushes. While there isn't a grand overarching narrative, recurring themes involve Clarissa's evolving relationship with her parents, her attempts to assert her independence, and her struggles to understand the complexities of teenage life. Throughout the series, Clarissa matures and gains a greater understanding of herself and the world around her, though the core comedic premise remains consistent. The show concludes with Clarissa entering a new phase of her life, hinting at future challenges and opportunities while maintaining the optimistic and relatable tone that defined the series.",
+        "categorized_keywords": {
+          "themes": [
+            "coming-of-age",
+            "family-dynamics",
+            "friendship",
+            "teenage-life",
+            "self-discovery",
+            "growing-up"
+          ],
+          "plot_and_concepts": [
+            "sitcom",
+            "episodic-storytelling",
+            "direct-address",
+            "teen-comedy"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "nostalgic",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "teen-sitcom",
+            "family-comedy"
+          ],
+          "setting": [
+            "1990s",
+            "suburban-home",
+            "american-suburbs"
+          ],
+          "character_archetypes": [
+            "teenager",
+            "young-adult",
+            "annoying-little-brother"
+          ],
+          "narrative_style": [
+            "episodic",
+            "first-person-narration"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "bedroom-decor",
+            "family-computer",
+            "corded-phone",
+            "90s-fashion"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Clarissa Explains It All is a lighthearted and nostalgic 1990s sitcom that explores the everyday challenges of growing up through the eyes of a teenage girl and her family."
+      },
+      "duration_seconds": 61.479891300201416
+    }
+  }
+}

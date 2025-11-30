@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Little Women",
+    "overview": "Set against the backdrop of the American Civil War, the story follows sisters Jo, Meg, Beth and Amy March on their journey from childhood to adulthood. With the help of their mother, Marmee, and while their father is away at war, the girls navigate what it means to be a young woman: from sibling rivalry and first love, to loss and marriage.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2017,
+    "vote_count": 79
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Little Women is a coming-of-age drama centered on the four March sisters as they grapple with family, love, and societal expectations during the American Civil War. The series explores themes of female ambition, sisterhood, and the complexities of personal growth within a restrictive historical context. With a focus on character development and emotional depth, it offers a poignant and ultimately uplifting portrayal of a family's resilience and the pursuit of individual happiness.",
+        "spoiler_rich_plot_summary": "The story begins with the March sisters – Jo, Meg, Beth, and Amy – living in genteel poverty while their father serves as a chaplain in the Civil War. Jo, the spirited and independent writer, dreams of a career beyond the confines of domesticity, while Meg desires a comfortable marriage. Beth, the gentle and musically gifted sister, struggles with illness. Amy, the youngest, aspires to artistic recognition. As the sisters mature, they face challenges related to love, loss, and societal pressures. Meg marries and starts a family, experiencing the joys and hardships of motherhood. Amy pursues her artistic ambitions in Europe, encountering both success and disappointment. Beth's health deteriorates, leading to a tragic loss that deeply affects the family. Jo, initially resistant to marriage, eventually finds love and chooses a path that allows her to maintain her independence and pursue her writing career. The narrative weaves between past and present, revealing the sisters' individual journeys and the enduring bonds of family.",
+        "categorized_keywords": {
+          "themes": [
+            "family-bonds",
+            "female-ambition",
+            "coming-of-age",
+            "social-expectations",
+            "loss-and-grief",
+            "personal-growth"
+          ],
+          "plot_and_concepts": [
+            "civil-war-era",
+            "sibling-rivalry",
+            "courtship-and-marriage",
+            "artistic-pursuit"
+          ],
+          "mood_and_tone": [
+            "melancholy",
+            "poignant",
+            "uplifting",
+            "reflective"
+          ],
+          "genre_and_tropes": [
+            "historical-drama",
+            "coming-of-age-story",
+            "domestic-fiction"
+          ],
+          "setting": [
+            "19th-century-america",
+            "new-england",
+            "civil-war-era"
+          ],
+          "character_archetypes": [
+            "independent-woman",
+            "dutiful-daughter",
+            "gentle-soul",
+            "artistic-aspirant"
+          ],
+          "narrative_style": [
+            "non-linear-timeline",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "march-family-home",
+            "sewing-circle",
+            "piano-lessons",
+            "christmas-tree"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Little Women is a poignant historical drama exploring themes of family, ambition, and personal growth as four sisters navigate love, loss, and societal expectations against the backdrop of the American Civil War."
+      },
+      "duration_seconds": 63.21716070175171
+    }
+  }
+}

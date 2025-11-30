@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Uncle Grandpa",
+    "overview": "The adventures of Uncle Grandpa who is out to help every child and adult in the world through the power of imagination. With his mystical R.V. and eternal optimism, Uncle Grandpa is always ready to greet the day - and everyone he meets - with his signature, \"Good Mornin'.\"",
+    "genres": [
+      "Comedy",
+      "Animation",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2013,
+    "vote_count": 73
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Uncle Grandpa is a surreal and whimsical animated series geared towards a young audience. The show follows the titular character as he travels through the imaginations of children, offering quirky assistance and spreading positivity. Its humor is largely absurdist and non-sequitur, relying on visual gags and bizarre character interactions. The series blends elements of comedy, science fiction, and fantasy, creating a unique and often chaotic viewing experience centered around the power of imagination and the importance of kindness.",
+        "spoiler_rich_plot_summary": "The series doesn't follow a traditional narrative arc, but rather presents episodic adventures centered around Uncle Grandpa's interactions with children and their imaginations. Each episode typically begins with a child facing a problem or experiencing a feeling that Uncle Grandpa attempts to resolve through unconventional and often nonsensical methods. Recurring characters, including the various embodiments of Uncle Grandpa's internal organs, contribute to the show's surreal and comedic nature. While there are no overarching plotlines or major character developments, the series consistently reinforces themes of acceptance, empathy, and the boundless potential of the imagination. The show concludes with Uncle Grandpa continuing his journey, always ready to offer a 'Good Mornin'' and a helping hand to those in need, leaving the door open for endless possibilities and imaginative adventures.",
+        "categorized_keywords": {
+          "themes": [
+            "imagination",
+            "friendship",
+            "acceptance",
+            "positivity",
+            "kindness",
+            "childhood"
+          ],
+          "plot_and_concepts": [
+            "surrealism",
+            "absurdism",
+            "non-sequitur",
+            "episodic-format",
+            "wholesome-comedy"
+          ],
+          "mood_and_tone": [
+            "whimsical",
+            "lighthearted",
+            "playful",
+            "optimistic",
+            "goofy"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "comedy",
+            "sci-fi-fantasy",
+            "childrens-comedy"
+          ],
+          "setting": [
+            "imaginary-worlds",
+            "childs-mind",
+            "surreal-locations"
+          ],
+          "character_archetypes": [
+            "optimistic-hero",
+            "eccentric-mentor",
+            "childlike-innocence"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "anthology-format"
+          ],
+          "target_audience": [
+            "children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "rv-vehicle",
+            "talking-organs",
+            "goose-companion",
+            "quirky-characters"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Uncle Grandpa is a lighthearted and whimsical animated series that celebrates imagination and kindness through episodic adventures in surreal and playful worlds, offering a uniquely optimistic experience for children and families."
+      },
+      "duration_seconds": 59.90519595146179
+    }
+  }
+}

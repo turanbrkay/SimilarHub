@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Spider-Man",
+    "overview": "Bitten by a radioactive spider, Peter Parker develops spider-like superpowers. He uses these to fight crime while trying to balance it with the struggles of his personal life.",
+    "genres": [
+      "Animation",
+      "Action & Adventure"
+    ],
+    "release_year": 1994,
+    "vote_count": 918
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Spider-Man is a vibrant animated series that blends superhero action with the relatable struggles of adolescence. The show follows Peter Parker as he navigates the responsibilities of being a superhero while dealing with school, friendships, and family. It balances thrilling action sequences with moments of humor and emotional depth, exploring themes of responsibility, sacrifice, and the challenges of growing up. The series is a classic superhero story with a focus on character development and the consequences of power.",
+        "spoiler_rich_plot_summary": "The series begins with Peter Parker, a high school student, being bitten by a radioactive spider, granting him extraordinary abilities. Initially, he uses his powers for personal gain, leading to a tragic loss that motivates him to become a true hero. Throughout the series, Peter battles a rogues' gallery of iconic villains, including the Green Goblin, Doctor Octopus, Venom, and many others, each presenting unique challenges and forcing him to confront his own limitations. He struggles to maintain a normal life, balancing his superhero duties with his relationships with Mary Jane Watson and his Aunt May. The series explores the complex dynamics between Peter and his adversaries, often revealing tragic backstories and shared vulnerabilities. While Peter consistently strives to protect New York City, he faces constant threats to his identity and the safety of those he cares about, leading to ongoing personal and professional struggles.",
+        "categorized_keywords": {
+          "themes": [
+            "responsibility",
+            "sacrifice",
+            "growing-up",
+            "good-vs-evil",
+            "redemption",
+            "identity-crisis"
+          ],
+          "plot_and_concepts": [
+            "superhero-origin",
+            "rogues-gallery",
+            "secret-identity",
+            "crime-fighting",
+            "venom-symbiote"
+          ],
+          "mood_and_tone": [
+            "action-packed",
+            "humorous",
+            "optimistic",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "superhero-action",
+            "coming-of-age",
+            "secret-identity",
+            "found-family"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "femme-fatale"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "spider-web",
+            "spider-suit",
+            "green-goblin-glider",
+            "daily-bugle"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Spider-Man is a vibrant, action-packed animated series that follows a young hero balancing the responsibilities of crime-fighting with the challenges of growing up in New York City."
+      },
+      "duration_seconds": 69.20865488052368
+    }
+  }
+}

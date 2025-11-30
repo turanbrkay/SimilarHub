@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "The Late Show with Stephen Colbert",
+    "overview": "Stephen Colbert brings his signature satire and comedy to The Late Show with Stephen Colbert, the #1 show in late night, where he talks with an eclectic mix of guests about what is new and relevant in the worlds of politics, entertainment, business, music, technology, and more. Featuring bandleader Jon Batiste with his band Stay Human, the Emmy Award-nominated show is broadcast from the historic Ed Sullivan Theater. Stephen Colbert, Chris Licht, Tom Purcell, and Jon Stewart are executive producers. Barry Julien and Denise Rehrig serve as co-executive producers.",
+    "genres": [
+      "Comedy",
+      "Talk"
+    ],
+    "release_year": 2015,
+    "vote_count": 205
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Late Show with Stephen Colbert is a nightly talk show leveraging Stephen Colbert's comedic sensibilities and political commentary. The show blends celebrity interviews, topical monologues, and musical performances, aiming to entertain and engage a broad audience with a focus on current events and cultural trends. It maintains a conversational and often satirical tone, reflecting Colbert's background in improvisational comedy and his experience in political satire. The show's success lies in its ability to balance humor with insightful observations on the world around us, anchored by the energy of Jon Batiste and Stay Human.",
+        "spoiler_rich_plot_summary": "The show's format is largely consistent: it begins with a monologue addressing current events, followed by interviews with guests from various fields – actors, musicians, politicians, authors, and more. Colbert’s interviewing style is characterized by his quick wit, improvisational skills, and willingness to engage in playful banter with his guests. Recurring segments often involve comedic sketches or musical performances by Stay Human. While there isn't a traditional narrative arc, the show evolves with the changing political and cultural landscape, reflecting and responding to major events as they unfold. The show’s longevity is built on Colbert’s ability to adapt his humor and commentary to remain relevant and engaging for viewers over time.",
+        "categorized_keywords": {
+          "themes": [
+            "political-satire",
+            "current-events",
+            "cultural-commentary",
+            "celebrity-interviews",
+            "humor"
+          ],
+          "plot_and_concepts": [
+            "talk-show-format",
+            "monologue",
+            "interview",
+            "musical-performance"
+          ],
+          "mood_and_tone": [
+            "satirical",
+            "witty",
+            "conversational",
+            "engaging"
+          ],
+          "genre_and_tropes": [
+            "late-night-talk-show",
+            "comedy",
+            "interview-segment"
+          ],
+          "setting": [
+            "ed-sullivan-theater",
+            "new-york-city",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "satirical-comedian",
+            "interview-host",
+            "bandleader"
+          ],
+          "narrative_style": [
+            "episodic",
+            "live-broadcast"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "politically-engaged"
+          ],
+          "detail_plot": [
+            "ed-sullivan-theater-stage",
+            "band-setup",
+            "interview-couch",
+            "monologue-podium"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Late Show with Stephen Colbert delivers a nightly dose of satirical comedy and insightful commentary on current events, blending celebrity interviews and musical performances from the iconic Ed Sullivan Theater."
+      },
+      "duration_seconds": 57.211220026016235
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "The Hills",
+    "overview": "After high school graduation, \"Laguna Beach\" alumna Lauren sets out to live on her own in Los Angeles and work as an intern at Teen Vogue.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2006,
+    "vote_count": 32
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Hills is a reality television series that follows Lauren Conrad as she navigates life and career aspirations in Los Angeles. The show documents her experiences working as an intern, building relationships, and facing personal and professional challenges. It blends elements of personal drama, career ambition, and social dynamics, offering a glimpse into the lifestyle of young adults pursuing their dreams in a competitive environment. The series is characterized by its focus on interpersonal conflicts and the often-staged nature of reality television, creating a voyeuristic and often-controversial viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Lauren Conrad's move from Laguna Beach to Los Angeles, where she secures an internship at Teen Vogue. Initially, the show focuses on her struggles to balance her career aspirations with her personal relationships, particularly her romantic entanglements. As the series progresses, Lauren's professional life evolves, leading to opportunities in the fashion industry and a shift away from her initial internship. Throughout the seasons, the show explores the complexities of friendships, betrayals, and the pressures of maintaining a public image. Relationships with friends and romantic partners fluctuate, often fueled by misunderstandings and conflicting ambitions. The series culminates in Lauren's departure from the show, marking a significant shift in her life and the series' trajectory, leaving viewers to speculate about her future endeavors and the fates of her former companions.",
+        "categorized_keywords": {
+          "themes": [
+            "coming-of-age",
+            "friendship-betrayal",
+            "career-ambition",
+            "social-status",
+            "personal-growth"
+          ],
+          "plot_and_concepts": [
+            "reality-television",
+            "voyeurism",
+            "relationship-drama",
+            "career-internship"
+          ],
+          "mood_and_tone": [
+            "dramatic",
+            "glamorous",
+            "melodramatic",
+            "superficial"
+          ],
+          "genre_and_tropes": [
+            "reality-tv",
+            "teen-drama",
+            "fish-out-of-water"
+          ],
+          "setting": [
+            "los-angeles",
+            "modern-day",
+            "fashion-industry"
+          ],
+          "character_archetypes": [
+            "ambitious-young-woman",
+            "socialite",
+            "best-friend"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult",
+            "teen-viewers"
+          ],
+          "detail_plot": [
+            "fashion-internship",
+            "night-club",
+            "red-carpet",
+            "designer-clothing"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Hills offers a dramatic and glamorous glimpse into the lives of young adults pursuing career ambitions and navigating complex relationships in the competitive landscape of Los Angeles' fashion industry."
+      },
+      "duration_seconds": 72.0985496044159
+    }
+  }
+}

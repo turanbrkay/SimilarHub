@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Get Shorty",
+    "overview": "Miles Daly works as muscle for a murderous crime ring in Nevada and attempts to change professions and become a movie producer, laundering money through a Hollywood film with the help of washed-up filmmaker Rick Moreweather.  Based on Elmore Leonard’s 1990 New York Times bestselling novel.",
+    "genres": [
+      "Crime",
+      "Comedy"
+    ],
+    "release_year": 2017,
+    "vote_count": 72
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Get Shorty is a darkly comedic crime series that blends the gritty world of organized crime with the superficiality of Hollywood filmmaking. The show follows a former enforcer who seeks to launder money by producing movies, navigating the challenges of both the criminal underworld and the entertainment industry. It explores themes of ambition, morality, and the pursuit of the American dream, often with a cynical and satirical tone. The series balances action and suspense with witty dialogue and character-driven humor, offering a unique perspective on both the criminal and creative worlds.",
+        "spoiler_rich_plot_summary": "The series begins with Miles Daly, a Nevada mob enforcer, growing disillusioned with his life of violence. He steals a bag of money from his boss, Ray Kelvo, and flees to Los Angeles, intending to invest the funds and start a new life. In Hollywood, he encounters Rick Moreweather, a washed-up filmmaker desperate for a comeback. Miles sees an opportunity to launder his money through Rick's film production, and the two form an uneasy partnership. As Miles attempts to navigate the complexities of filmmaking and evade Ray's pursuit, he becomes increasingly entangled in the schemes of various Hollywood figures, including producers, agents, and actors. The series follows Miles's attempts to maintain control of his money and his burgeoning film career while dealing with the consequences of his past actions and the unpredictable nature of the entertainment industry. Throughout the series, Miles's relationship with Ray remains tense, with Ray constantly seeking to reclaim his money and punish Miles for his betrayal. The show explores the blurred lines between legitimate business and criminal enterprise, highlighting the corrupting influence of money and power in both worlds.",
+        "categorized_keywords": {
+          "themes": [
+            "crime-and-punishment",
+            "money-laundering",
+            "ambition",
+            "redemption",
+            "corruption",
+            "identity-quest"
+          ],
+          "plot_and_concepts": [
+            "crime-procedural",
+            "fish-out-of-water",
+            "mob-story",
+            "film-industry",
+            "black-comedy"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "satirical",
+            "cynical",
+            "witty"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "black-comedy",
+            "fish-out-of-water"
+          ],
+          "setting": [
+            "nevada",
+            "los-angeles",
+            "hollywood"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "washed-up-mentor",
+            "mob-boss"
+          ],
+          "narrative_style": [
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "film-set",
+            "mob-money",
+            "casting-call",
+            "premiere-night"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "profanity"
+          ]
+        },
+        "keyword_sentence": "Get Shorty is a darkly comedic crime drama set in Nevada and Los Angeles, exploring themes of ambition and corruption as a former mob enforcer attempts to launder money through the film industry."
+      },
+      "duration_seconds": 66.87903308868408
+    }
+  }
+}

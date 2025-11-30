@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Dawson's Creek",
+    "overview": "Dawson's Creek is an American teen drama that portrays the fictional lives of a close-knit group of teenagers through high school and college.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 1998,
+    "vote_count": 458
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Dawson's Creek is a teen drama series that explores the complexities of friendship, romance, and growing up in a picturesque New England setting. The show focuses on a core group of friends navigating the challenges of adolescence, first love, and the transition to adulthood. It blends coming-of-age themes with romantic entanglements and a focus on personal growth, offering a nostalgic and often sentimental portrayal of teenage life. The series examines the evolving dynamics within the friend group as they confront difficult choices and grapple with their individual aspirations. Ultimately, Dawson's Creek is a character-driven drama that emphasizes the importance of connection and self-discovery.",
+        "spoiler_rich_plot_summary": "The series begins with Dawson Leery, an aspiring filmmaker, and his best friend Joey Potter sharing a deep connection and a shared dream of a future together. Their lives are disrupted by the arrival of Jen Lindley, a troubled girl from New York, who challenges Dawson's worldview and sparks a complex romantic triangle. As the friends navigate high school, they experience first loves, heartbreak, and the pressures of their families. Dawson grapples with his feelings for Joey and Jen, while Joey struggles with her own identity and her feelings for Dawson. Throughout the series, the friends face various challenges, including family secrets, academic pressures, and the uncertainties of the future. In college, the group experiences further growth and change, with romantic relationships evolving and friendships being tested. The series culminates with the friends facing a pivotal moment, reflecting on their shared history and embarking on their individual paths, leaving the audience to ponder the enduring power of friendship and the bittersweet nature of growing up.",
+        "categorized_keywords": {
+          "themes": [
+            "coming-of-age",
+            "friendship",
+            "romance",
+            "identity-quest",
+            "family-dynamics",
+            "first-love",
+            "growing-up"
+          ],
+          "plot_and_concepts": [
+            "teen-drama",
+            "love-triangle",
+            "small-town-life",
+            "coming-of-age-story"
+          ],
+          "mood_and_tone": [
+            "nostalgic",
+            "sentimental",
+            "melancholy",
+            "romantic"
+          ],
+          "genre_and_tropes": [
+            "teen-drama",
+            "romantic-comedy",
+            "small-town-drama"
+          ],
+          "setting": [
+            "new-england",
+            "small-town-usa",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "aspiring-filmmaker",
+            "troubled-girl",
+            "best-friends",
+            "outsider"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult",
+            "teenagers"
+          ],
+          "detail_plot": [
+            "film-camera",
+            "capeside-pier",
+            "hockey-rink",
+            "wooded-area"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Dawson's Creek is a nostalgic teen drama series set in a picturesque New England town, exploring themes of friendship, romance, and the challenges of growing up through the eyes of a group of close-knit friends."
+      },
+      "duration_seconds": 78.67435312271118
+    }
+  }
+}

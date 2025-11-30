@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Everything Sucks!",
+    "overview": "It's 1996 in a town called Boring, Oregon, where high school misfits in the AV and drama clubs brave the ups and downs of teenage emotions in the VHS era.",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "release_year": 2018,
+    "vote_count": 203
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Everything Sucks! is a coming-of-age dramedy set in 1996, capturing the awkwardness and excitement of high school through the perspectives of the AV and drama club members. The series blends humor and heartfelt moments as the characters navigate first loves, friendships, and self-discovery against the backdrop of a rapidly changing technological landscape. It offers a nostalgic and relatable portrayal of teenage life, emphasizing the importance of finding your place and embracing individuality. The show’s tone is generally lighthearted, but it also explores deeper themes of identity and belonging. It’s a feel-good series that celebrates the messy, beautiful experience of growing up.",
+        "spoiler_rich_plot_summary": "The series begins with the merging of the AV and drama clubs due to budget cuts, forcing a group of misfits to collaborate. Oliver, a budding filmmaker, and Kate, an aspiring actress, find themselves drawn to each other despite their differing ambitions and insecurities. Throughout the first season, the characters grapple with typical teenage issues: first crushes, parental expectations, and the pressure to fit in. Relationships evolve, friendships are tested, and the characters begin to confront their personal flaws and insecurities. The second season sees the characters facing more significant challenges as they prepare for graduation and contemplate their futures. Oliver and Kate's relationship deepens, but they also encounter obstacles that threaten to pull them apart. The series culminates in a bittersweet farewell as the characters embark on their individual journeys, leaving behind the familiar comfort of high school and embracing the uncertainties of adulthood. While some characters pursue creative endeavors, others grapple with the realities of their chosen paths, ultimately learning valuable lessons about themselves and the world around them.",
+        "categorized_keywords": {
+          "themes": [
+            "coming-of-age",
+            "first-love",
+            "friendship",
+            "self-discovery",
+            "identity",
+            "nostalgia",
+            "belonging"
+          ],
+          "plot_and_concepts": [
+            "high-school-drama",
+            "teen-romance",
+            "club-collaboration",
+            "coming-of-age-story",
+            "found-family"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "nostalgic",
+            "feel-good",
+            "bittersweet"
+          ],
+          "genre_and_tropes": [
+            "teen-drama",
+            "coming-of-age",
+            "romantic-comedy",
+            "90s-nostalgia"
+          ],
+          "setting": [
+            "small-town-usa",
+            "1990s",
+            "high-school"
+          ],
+          "character_archetypes": [
+            "awkward-teenager",
+            "aspiring-artist",
+            "misfit",
+            "romantic-lead"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "vhsvideo",
+            "high-school-club",
+            "prom-night",
+            "graduation-ceremony"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Everything Sucks! is a lighthearted and nostalgic teen drama set in the 1990s, exploring themes of first love, friendship, and self-discovery as a group of high school misfits navigate the challenges of growing up."
+      },
+      "duration_seconds": 67.85725355148315
+    }
+  }
+}

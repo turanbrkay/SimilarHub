@@ -1,0 +1,86 @@
+{
+  "input_data": {
+    "title": "Show Me a Hero",
+    "overview": "Mayor Nick Wasicsko took office in 1987 during Yonkers' worst crisis when federal courts ordered public housing to be built in the white, middle class side of town, dividing the city in a bitter battle fueled by fear, racism, murder and politics.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "War & Politics"
+    ],
+    "release_year": 2015,
+    "vote_count": 151
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Show Me a Hero is a limited series drama exploring the complex social and political ramifications of forced integration in 50s and 60s Yonkers, New York. The series examines themes of systemic racism, urban development, and the burden of leadership when faced with intractable problems. Through the lens of a young mayor and the residents affected by his decisions, the show offers a nuanced portrayal of the human cost of policy and the enduring legacy of prejudice. The series is characterized by its realistic dialogue, strong performances, and unflinching look at a difficult chapter in American history, offering a somber and thought-provoking viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins in 1987, when Nick Wasicsko, a young and ambitious politician, is appointed acting mayor of Yonkers, New York, amidst a housing crisis. A federal court order mandates the construction of public housing in the predominantly white, middle-class neighborhood of Crestwood, a decision met with fierce resistance from residents. Wasicsko, initially committed to upholding the court order, faces escalating protests, threats, and political pressure, forcing him to delay the project and ultimately leading to his downfall. The narrative follows several key characters, including Vera, a young mother struggling to find housing, and Oscar, a Crestwood resident deeply entrenched in the anti-integration movement. As the housing project is delayed, the situation deteriorates, leading to violence and further entrenching the city's divisions. The series explores the personal and professional consequences of Wasicsko’s decisions, highlighting the systemic issues that perpetuate inequality and the difficulty of enacting meaningful change in the face of entrenched opposition. The delayed housing project eventually moves forward, but the scars of the conflict remain, demonstrating the long-term impact of the crisis on the city and its residents.",
+        "categorized_keywords": {
+          "themes": [
+            "social-inequality",
+            "urban-development",
+            "political-corruption",
+            "racial-tension",
+            "redemption",
+            "leadership-burden",
+            "systemic-racism"
+          ],
+          "plot_and_concepts": [
+            "court-order",
+            "forced-integration",
+            "political-crisis",
+            "urban-renewal",
+            "civil-rights"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "realistic",
+            "gritty",
+            "tense",
+            "melancholy"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "political-thriller",
+            "social-realism",
+            "limited-series"
+          ],
+          "setting": [
+            "yonkers-new-york",
+            "1980s",
+            "urban-environment",
+            "working-class-neighborhood"
+          ],
+          "character_archetypes": [
+            "ambitious-politician",
+            "struggling-mother",
+            "racist-agitator",
+            "reluctant-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "character-driven"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "public-housing",
+            "crestwood-neighborhood",
+            "courtroom-scene",
+            "protest-signs",
+            "political-rally"
+          ],
+          "maturity_and_content": [
+            "racial-slurs",
+            "political-tension",
+            "adult-language"
+          ]
+        },
+        "keyword_sentence": "Show Me a Hero is a somber and realistic crime drama set in 1980s Yonkers, New York, exploring themes of social inequality and political corruption through the lens of a young politician grappling with the complexities of forced integration and the burden of leadership."
+      },
+      "duration_seconds": 73.52631449699402
+    }
+  }
+}

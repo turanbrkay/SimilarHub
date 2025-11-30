@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "Unhappily Ever After",
+    "overview": "Unhappily Ever After is an American sitcom that aired for 100 episodes on The WB network from January 11, 1995, to May 23, 1999, for a total of five seasons. The series was produced by Touchstone Television.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1995,
+    "vote_count": 30
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Unhappily Ever After is a sitcom that satirizes classic fairy tales and Disney animated films. The series follows Snow White, Cinderella, and Goldilocks as they navigate the challenges of adulthood and divorce in a contemporary suburban setting. The show employs a comedic tone, blending witty dialogue with absurd situations to explore themes of family, relationships, and the disillusionment of idealized narratives. It offers a lighthearted and often cynical perspective on the aftermath of 'happily ever after,' appealing to audiences familiar with the original fairy tales.",
+        "spoiler_rich_plot_summary": "The series begins with Snow White, Cinderella, and Goldilocks, all divorced from their princes, living together in a shared suburban home. Each woman faces unique struggles: Snow White grapples with the pressures of motherhood and maintaining a public image, Cinderella deals with financial instability and a complicated relationship with her ex-husband, and Goldilocks struggles with self-esteem and finding her place in the world. Throughout the five seasons, the women encounter various romantic interests and deal with the ongoing challenges of co-parenting and maintaining a semblance of normalcy. Recurring storylines involve the interference of their former princes, the arrival of new romantic partners, and the constant struggle to balance their individual aspirations with the demands of their shared household. The series concludes with the women having grown as individuals, accepting their unconventional family dynamic, and finding a sense of contentment despite the absence of traditional fairytale endings.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "divorce",
+            "satire",
+            "relationships",
+            "disillusionment",
+            "parenthood"
+          ],
+          "plot_and_concepts": [
+            "sitcom",
+            "parody",
+            "fish-out-of-water",
+            "romantic-comedy"
+          ],
+          "mood_and_tone": [
+            "humorous",
+            "lighthearted",
+            "witty",
+            "satirical"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "parody",
+            "romantic-comedy"
+          ],
+          "setting": [
+            "suburban-america",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "divorced-mother",
+            "satirical-heroine"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "fairytale-parody",
+            "divorced-royalty",
+            "shared-house",
+            "ex-princes"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Unhappily Ever After is a humorous sitcom that satirizes classic fairytales, following divorced royalty as they navigate the challenges of suburban life and family dynamics."
+      },
+      "duration_seconds": 74.20609140396118
+    }
+  }
+}

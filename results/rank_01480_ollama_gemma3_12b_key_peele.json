@@ -1,0 +1,68 @@
+{
+  "input_data": {
+    "title": "Key & Peele",
+    "overview": "Key & Peele is an American sketch comedy television show. It stars Keegan-Michael Key and Jordan Peele, both former cast members of MADtv. Each episode of the show consists of several pre-taped sketches starring the two actors, introduced by Key and Peele in front of a live studio audience.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2012,
+    "vote_count": 148
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Key & Peele is a sketch comedy television show featuring Keegan-Michael Key and Jordan Peele. The series utilizes sharp writing and physical comedy to explore a wide range of social and cultural observations, often through satirical and absurd scenarios. The show's strength lies in its ability to find humor in everyday situations and to comment on contemporary issues with wit and intelligence. It's a consistently funny and thought-provoking show that relies on the dynamic chemistry between its two leads.",
+        "spoiler_rich_plot_summary": "Key & Peele's format revolves around a series of pre-recorded sketches introduced by the duo in front of a live audience. The sketches frequently parody aspects of American culture, including racial stereotypes, political figures, and consumerism. Recurring characters and running gags emerge throughout the series, allowing for deeper exploration of comedic themes. While each episode presents a new collection of sketches, the show's overall narrative arc involves a continuous evolution of comedic styles and a deepening commentary on societal norms. The show concludes with a final season that continues to deliver the signature blend of observational humor and satirical commentary, solidifying its place as a landmark in sketch comedy.",
+        "categorized_keywords": {
+          "themes": [
+            "satire",
+            "social-commentary",
+            "racial-identity",
+            "cultural-observation",
+            "absurdism"
+          ],
+          "plot_and_concepts": [
+            "sketch-comedy",
+            "parody",
+            "recurring-characters",
+            "running-gags"
+          ],
+          "mood_and_tone": [
+            "humorous",
+            "satirical",
+            "witty",
+            "absurdist"
+          ],
+          "genre_and_tropes": [
+            "comedy",
+            "sketch-comedy",
+            "parody"
+          ],
+          "setting": [
+            "contemporary-america",
+            "studio-setting"
+          ],
+          "character_archetypes": [
+            "comedian",
+            "satirist"
+          ],
+          "narrative_style": [
+            "episodic",
+            "anthology"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "studio-audience",
+            "recurring-sketches",
+            "comedic-duo"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Key & Peele delivers sharp, satirical comedy through a series of episodic sketches that offer witty observations on contemporary American culture and societal norms."
+      },
+      "duration_seconds": 51.71321630477905
+    }
+  }
+}

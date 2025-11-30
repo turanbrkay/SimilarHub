@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Expedition Unknown",
+    "overview": "The adventures of Josh Gates as he investigates unsolved iconic stories across the globe.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2015,
+    "vote_count": 46
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Expedition Unknown is a documentary series following adventurer Josh Gates as he explores historical mysteries and legends around the world. The show blends travelogue, historical investigation, and a sense of adventure, appealing to viewers interested in archaeology, folklore, and exploration. Each episode focuses on a specific location and a compelling narrative, often involving lost civilizations, unexplained phenomena, or historical enigmas. The series maintains a balance between scholarly research and engaging storytelling, creating a captivating experience for audiences seeking both education and entertainment.",
+        "spoiler_rich_plot_summary": "Each season of Expedition Unknown sees Josh Gates embark on a series of expeditions to investigate different historical mysteries. The investigations typically begin with a review of existing historical records and local legends, followed by on-site exploration and interviews with experts. Gates often follows leads that challenge conventional wisdom, delving into forgotten corners of the world and uncovering surprising connections between seemingly disparate events. While the series doesn't have a continuous overarching narrative, each season builds upon the previous one, with recurring themes of lost civilizations, ancient technologies, and the enduring power of human curiosity. The investigations often lead to unexpected conclusions, prompting viewers to reconsider established historical narratives and appreciate the complexity of the past. The series concludes each season with a synthesis of the findings, offering a fresh perspective on the mysteries explored.",
+        "categorized_keywords": {
+          "themes": [
+            "historical-mystery",
+            "exploration",
+            "adventure",
+            "lost-civilizations",
+            "archaeology",
+            "folklore"
+          ],
+          "plot_and_concepts": [
+            "investigative-journalism",
+            "travelogue",
+            "historical-research",
+            "myth-busting"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "informative",
+            "intriguing",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "adventure-documentary",
+            "travel-documentary"
+          ],
+          "setting": [
+            "global-exploration",
+            "ancient-ruins",
+            "historical-sites"
+          ],
+          "character_archetypes": [
+            "adventurer",
+            "investigator",
+            "expert-witness"
+          ],
+          "narrative_style": [
+            "episodic-structure",
+            "investigative-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "history-enthusiasts"
+          ],
+          "detail_plot": [
+            "ancient-maps",
+            "historical-artifacts",
+            "local-legends",
+            "archaeological-digs"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Expedition Unknown follows an adventurous investigator as he explores global historical mysteries and ancient sites, uncovering lost civilizations and local legends through archaeological digs and informative travelogues."
+      },
+      "duration_seconds": 55.42923879623413
+    }
+  }
+}

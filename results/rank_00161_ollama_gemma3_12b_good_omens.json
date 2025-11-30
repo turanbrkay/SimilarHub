@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Good Omens",
+    "overview": "Aziraphale, an angel, and Crowley, a demon, join forces to find the Antichrist and stop Armageddon.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2019,
+    "vote_count": 1708
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Good Omens is a comedic fantasy series that blends British humor with biblical themes. The story follows an angel and a demon who have grown accustomed to their comfortable existence on Earth and reluctantly team up to prevent the apocalypse. The series explores themes of free will, friendship, and the absurdity of good versus evil, offering a lighthearted yet thought-provoking narrative with a distinctive visual style and witty dialogue. It's a charming and irreverent take on the end of the world, appealing to audiences who enjoy quirky humor and fantastical storytelling.",
+        "spoiler_rich_plot_summary": "The series begins with the disappearance of the Antichrist, a child destined to trigger Armageddon. Aziraphale, a bookshop-owning angel, and Crowley, a fast-driving demon, discover the child’s absence and realize that the impending apocalypse has been delayed. Having developed a centuries-long friendship, they decide to secretly work together to locate the Antichrist and prevent the battle between Heaven and Hell. Their search leads them through various encounters with eccentric characters and reveals a complex web of divine and demonic machinations. As they get closer to the boy, they face increasing pressure from both sides, with Heaven and Hell sending representatives to ensure the prophecy is fulfilled. Ultimately, Aziraphale and Crowley must confront their allegiances and make a crucial decision that will determine the fate of humanity and their own existence, choosing to defy their respective superiors and preserve the delicate balance they're grown to appreciate.",
+        "categorized_keywords": {
+          "themes": [
+            "good-vs-evil",
+            "free-will",
+            "friendship",
+            "apocalypse",
+            "divine-intervention",
+            "redemption",
+            "absurdity"
+          ],
+          "plot_and_concepts": [
+            "apocalyptic-prophecy",
+            "time-spanning-narrative",
+            "buddy-comedy",
+            "hidden-identity",
+            "divine-conflict"
+          ],
+          "mood_and_tone": [
+            "whimsical",
+            "darkly-comic",
+            "satirical",
+            "lighthearted",
+            "irreverent"
+          ],
+          "genre_and_tropes": [
+            "fantasy-comedy",
+            "buddy-movie",
+            "apocalyptic-fiction",
+            "british-humor"
+          ],
+          "setting": [
+            "modern-day-england",
+            "heaven",
+            "hell"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "fallen-angel",
+            "trickster",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "bookshop",
+            "jaguar-e-type",
+            "holy-books",
+            "armageddon"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Good Omens is a whimsical fantasy comedy series set in modern-day England, exploring themes of friendship and free will as an angel and a demon comically attempt to avert an apocalyptic prophecy."
+      },
+      "duration_seconds": 59.78986835479736
+    }
+  }
+}

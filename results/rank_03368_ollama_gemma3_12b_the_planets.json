@@ -1,0 +1,68 @@
+{
+  "input_data": {
+    "title": "The Planets",
+    "overview": "Professor Brian Cox explores the dramatic lives of the eight majestic planets/worlds that make up our solar system.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2019,
+    "vote_count": 38
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Planets is a documentary series that offers a visually stunning and scientifically informative exploration of our solar system. Presented by Brian Cox, the series combines breathtaking imagery with accessible explanations of planetary science, revealing the unique characteristics and dramatic histories of each planet. It aims to convey the scale and wonder of space while demystifying complex astronomical concepts for a broad audience. The series blends scientific rigor with poetic narration, creating an immersive and emotionally engaging experience.",
+        "spoiler_rich_plot_summary": "The series begins with a detailed examination of Mercury, highlighting its extreme temperatures and proximity to the sun. It then progresses outwards, exploring Venus's dense atmosphere and volcanic activity, followed by Earth's unique conditions that support life. Mars is examined for evidence of past or present habitability, while Jupiter's immense size and complex weather patterns are revealed. Saturn's iconic rings are analyzed, followed by Uranus and Neptune, the ice giants at the edge of the solar system. Throughout the series, Cox emphasizes the dynamic nature of these worlds, detailing their formation, evolution, and ongoing processes, ultimately showcasing the interconnectedness of the solar system and our place within it.",
+        "categorized_keywords": {
+          "themes": [
+            "space-exploration",
+            "scientific-discovery",
+            "cosmic-perspective",
+            "planetary-science",
+            "astronomy"
+          ],
+          "plot_and_concepts": [
+            "planetary-formation",
+            "gravitational-forces",
+            "atmospheric-science",
+            "solar-system-dynamics"
+          ],
+          "mood_and_tone": [
+            "awe-inspiring",
+            "educational",
+            "reflective",
+            "epic"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "science-documentary",
+            "nature-documentary"
+          ],
+          "setting": [
+            "solar-system",
+            "outer-space",
+            "planets"
+          ],
+          "character_archetypes": [],
+          "narrative_style": [
+            "serialized-story",
+            "factual-reporting"
+          ],
+          "target_audience": [
+            "general-audience",
+            "science-enthusiasts"
+          ],
+          "detail_plot": [
+            "jupiter-great-red-spot",
+            "saturn-rings",
+            "mars-surface",
+            "venus-clouds"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Planets is an awe-inspiring documentary series that explores the vastness of our solar system, revealing the scientific wonders and cosmic perspective of each planet through factual reporting and educational insights."
+      },
+      "duration_seconds": 47.87295866012573
+    }
+  }
+}

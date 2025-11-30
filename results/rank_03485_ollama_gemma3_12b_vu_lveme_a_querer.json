@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "Vuélveme A Querer",
+    "overview": "Vuelveme A Querer is the title of a Spanish-language telenovela produced by the Mexican television network TV Azteca. It stars Mariana Torres and Jorge Alberti as protagonists.It is a remake of Venezuelan telenovela Destino de Mujer in 1997, produced and broadcast by Venevision and starred by Sonya Smith and Jorge Reyes.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": null,
+    "vote_count": 36
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Vuélveme A Querer is a Spanish-language telenovela, a remake of a Venezuelan series, centered around themes of family, betrayal, and resilience. The narrative explores complex relationships and societal pressures, typical of the telenovela genre. It promises a dramatic exploration of personal struggles and the search for redemption amidst challenging circumstances. The series blends melodrama with social commentary, offering a compelling emotional journey for the audience. Expect a focus on character development and intricate plot twists.",
+        "spoiler_rich_plot_summary": "The story revolves around a young woman, Daniela, who is betrayed by the man she loves and falsely accused of a crime. Forced to flee and assume a new identity, she navigates a difficult life while seeking justice and uncovering the truth behind the accusations. Years later, she returns to confront her past and the individuals responsible for her suffering. The narrative unfolds with a focus on the consequences of deception and the enduring power of hope. As Daniela reconnects with her family and confronts her past, she discovers hidden secrets and unexpected alliances that complicate her quest for justice. The story culminates in a confrontation where the truth is revealed, and Daniela must decide whether to seek revenge or find a path towards forgiveness.",
+        "categorized_keywords": {
+          "themes": [
+            "betrayal",
+            "family-loyalty",
+            "social-injustice",
+            "redemption",
+            "false-accusation",
+            "revenge",
+            "forgiveness"
+          ],
+          "plot_and_concepts": [
+            "remake-story",
+            "crime-investigation",
+            "identity-theft",
+            "hidden-secrets",
+            "revenge-plot"
+          ],
+          "mood_and_tone": [
+            "melodramatic",
+            "dramatic",
+            "suspenseful",
+            "emotional"
+          ],
+          "genre_and_tropes": [
+            "telenovela",
+            "crime-procedural",
+            "family-drama"
+          ],
+          "setting": [
+            "modern-day",
+            "mexico"
+          ],
+          "character_archetypes": [
+            "victim",
+            "anti-hero",
+            "false-accused"
+          ],
+          "narrative_style": [
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "false-accusation",
+            "new-identity",
+            "family-reunion"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Vuélveme A Querer is a dramatic telenovela set in Mexico, exploring themes of betrayal, false accusations, and the enduring search for family loyalty and redemption through a serialized story."
+      },
+      "duration_seconds": 49.90102481842041
+    }
+  }
+}

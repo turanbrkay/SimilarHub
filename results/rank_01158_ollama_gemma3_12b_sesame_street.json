@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Sesame Street",
+    "overview": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+    "genres": [
+      "Kids",
+      "Comedy"
+    ],
+    "release_year": 1969,
+    "vote_count": 214
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Sesame Street is a pioneering children's television program that blends educational content with humor and endearing characters. The show utilizes a variety of formats, including short animated segments, live-action skits, and musical numbers, to teach preschoolers fundamental literacy, numeracy, and social-emotional skills. Its innovative approach to early childhood education has made it a cultural institution, consistently evolving to reflect changing societal norms and technological advancements while maintaining its core mission of fostering a love of learning. The show's enduring appeal lies in its ability to entertain and educate simultaneously, creating a welcoming and inclusive environment for young viewers.",
+        "spoiler_rich_plot_summary": "Sesame Street began as an experiment to use television to reach underprivileged children and prepare them for school. The initial seasons focused on introducing the alphabet, numbers, and basic vocabulary through engaging characters like Big Bird, Cookie Monster, and Elmo. Over the decades, the show has expanded its scope to address more complex social issues, such as diversity, inclusion, and emotional regulation. Recurring segments feature visits from celebrity guests, further enriching the learning experience. While there isn't a traditional narrative arc, the show consistently reinforces positive values and encourages viewers to embrace differences. The characters have faced challenges and celebrated triumphs, always emphasizing the importance of friendship, kindness, and perseverance. The show continues to evolve, incorporating new technologies and addressing contemporary issues while remaining true to its original educational goals.",
+        "categorized_keywords": {
+          "themes": [
+            "education",
+            "friendship",
+            "diversity",
+            "inclusion",
+            "kindness",
+            "perseverance",
+            "social-emotional-learning"
+          ],
+          "plot_and_concepts": [
+            "educational-programming",
+            "monster-of-the-week",
+            "puppet-theater",
+            "musical-numbers",
+            "celebrity-appearances"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "lighthearted",
+            "playful",
+            "optimistic",
+            "joyful"
+          ],
+          "genre_and_tropes": [
+            "childrens-programming",
+            "educational-tv",
+            "puppet-show",
+            "sitcom"
+          ],
+          "setting": [
+            "inner-city",
+            "fictional-street",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "wise-mentor",
+            "lovable-monster",
+            "innocent-child",
+            "friendly-neighbor"
+          ],
+          "narrative_style": [
+            "episodic",
+            "anthology",
+            "serialized-segments"
+          ],
+          "target_audience": [
+            "preschoolers",
+            "families"
+          ],
+          "detail_plot": [
+            "big-bird",
+            "cookie-monster",
+            "elmo",
+            "oscar-the-grouch",
+            "street-signs"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Sesame Street is a beloved children's program that uses playful puppets, music, and celebrity guests to foster education, friendship, and kindness within a vibrant and inclusive inner-city setting."
+      },
+      "duration_seconds": 62.183228969573975
+    }
+  }
+}

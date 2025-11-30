@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "Undercover Boss",
+    "overview": "Reality series that follows high-level executives as they slip anonymously into the rank-and-file of their own organizations. Each week, a different leader will sacrifice the comfort of their corner office for an undercover mission to examine the inner workings of their operation.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2010,
+    "vote_count": 43
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Undercover Boss is a reality television series centered around corporate executives who temporarily assume the roles of entry-level employees within their own companies. The premise explores themes of corporate responsibility, employee appreciation, and the challenges of maintaining a connection to the workforce. The show blends elements of documentary and human interest storytelling, offering a glimpse into the daily lives of employees and the perspectives of leadership. It aims to highlight the importance of understanding the experiences of those who contribute to a company's success, often leading to emotional moments and potential changes in corporate practices.",
+        "spoiler_rich_plot_summary": "Each episode of Undercover Boss follows a different executive who goes undercover within their own company. They adopt a false identity and take on a low-level job, interacting with employees and experiencing the realities of their work firsthand. The executive faces challenges inherent in the role, often struggling to perform the tasks and maintain their cover. Throughout the week, they observe the strengths and weaknesses of their organization, identifying areas for improvement and gaining a deeper understanding of employee concerns. At the end of the week, the executive's identity is revealed, leading to emotional reunions and opportunities to reward deserving employees. The series culminates in a public acknowledgment of the company's shortcomings and a commitment to positive change, often involving promotions, bonuses, and policy adjustments.",
+        "categorized_keywords": {
+          "themes": [
+            "corporate-responsibility",
+            "employee-appreciation",
+            "social-mobility",
+            "leadership",
+            "human-connection"
+          ],
+          "plot_and_concepts": [
+            "undercover-operation",
+            "reality-competition",
+            "business-analysis",
+            "social-experiment"
+          ],
+          "mood_and_tone": [
+            "emotional",
+            "heartwarming",
+            "observational",
+            "inspiring"
+          ],
+          "genre_and_tropes": [
+            "reality-tv",
+            "business-reality",
+            "feel-good-tv"
+          ],
+          "setting": [
+            "workplace",
+            "corporate-environment",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "executive",
+            "employee",
+            "mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "false-identity",
+            "employee-interaction",
+            "corporate-office",
+            "reward-ceremony"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Undercover Boss is a heartwarming reality series that explores themes of corporate responsibility and employee appreciation through the observational journey of executives experiencing the realities of their workforce."
+      },
+      "duration_seconds": 54.30963110923767
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Modern Love",
+    "overview": "An unlikely friendship. A lost love resurfaced. A marriage at its turning point. A date that might not have been a date. An unconventional new family. These are unique stories about the joys and tribulations of love, each inspired by true events.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2019,
+    "vote_count": 279
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Modern Love is an anthology series exploring the complexities of love in its various forms – romantic, familial, platonic, and self-love. Each episode presents a standalone story, often inspired by personal essays published in The New York Times, and examines the challenges and triumphs of modern relationships. The series blends humor and pathos, offering a relatable and often poignant look at the human condition through the lens of love and connection. It's a feel-good show with moments of genuine emotional depth, appealing to a broad audience seeking stories about the messy realities of love and life.",
+        "spoiler_rich_plot_summary": "The series unfolds as a collection of interconnected stories, each focusing on different characters navigating the landscape of love. Early episodes often introduce characters at pivotal moments – a woman reconnecting with a former flame, a man grappling with the end of a long-term relationship, or a young person discovering the nuances of self-love. Recurring themes include the impact of technology on relationships, the challenges of balancing career and family, and the search for meaning and belonging in a rapidly changing world. While each story is self-contained, there are subtle connections between characters and storylines, creating a sense of community and shared experience. The series explores the possibility of second chances, the importance of forgiveness, and the enduring power of human connection, ultimately suggesting that love, in all its forms, is a constant source of both joy and sorrow.",
+        "categorized_keywords": {
+          "themes": [
+            "love-and-relationships",
+            "self-discovery",
+            "family-dynamics",
+            "second-chances",
+            "forgiveness",
+            "modern-life",
+            "connection"
+          ],
+          "plot_and_concepts": [
+            "anthology-series",
+            "romantic-comedy",
+            "slice-of-life",
+            "personal-essays",
+            "relationship-challenges"
+          ],
+          "mood_and_tone": [
+            "heartwarming",
+            "poignant",
+            "optimistic",
+            "reflective",
+            "lighthearted"
+          ],
+          "genre_and_tropes": [
+            "romantic-comedy",
+            "slice-of-life",
+            "feel-good",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "reluctant-romantic",
+            "searching-for-meaning",
+            "family-person"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "standalone-episodes"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "dating-app",
+            "therapy-session",
+            "family-dinner",
+            "new-york-apartment"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Modern Love is a heartwarming anthology series set in New York City, exploring the complexities of love and relationships through a collection of poignant and lighthearted stories about family, second chances, and the search for connection in modern life."
+      },
+      "duration_seconds": 60.41715431213379
+    }
+  }
+}

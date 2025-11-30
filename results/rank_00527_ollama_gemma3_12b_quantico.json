@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "Quantico",
+    "overview": "A diverse group of recruits has arrived at the FBI Quantico Base for training. They are the best, the brightest and the most vetted, so it seems impossible that one of them is suspected of masterminding the biggest attack on New York City since 9/11.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2015,
+    "vote_count": 586
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Quantico is a crime drama mystery series centered around a group of FBI recruits undergoing training at the Quantico Base. The series blends elements of procedural investigation with a psychological thriller, exploring themes of trust, betrayal, and the complexities of human nature. The narrative unfolds through dual timelines, juxtaposing the recruits' present-day training with flashbacks revealing their pasts and hinting at a potential terrorist threat. The show maintains a suspenseful atmosphere, constantly questioning the audience's perception of who is trustworthy and what is real, while examining the pressures and moral compromises inherent in law enforcement.",
+        "spoiler_rich_plot_summary": "The series begins with a group of diverse recruits arriving at Quantico for FBI training. As they progress through the rigorous program, it's revealed that one of them is a sleeper agent planning a devastating attack on New York City. The narrative jumps between the present-day training and flashbacks to the recruits' backgrounds, gradually exposing their secrets and motivations. The identity of the potential terrorist shifts throughout the early seasons, creating a constant sense of paranoia and mistrust among the recruits and the audience. As the recruits advance in their training, they are forced to confront their own demons and the dark secrets of their pasts, all while trying to uncover the identity of the potential bomber. Later seasons introduce new layers of complexity, including conspiracies within the FBI and the involvement of international organizations, blurring the lines between good and evil and challenging the recruits' understanding of justice. The series culminates in a confrontation with the mastermind behind the initial attack, revealing a web of interconnected events and personal betrayals that reshape the lives of the main characters.",
+        "categorized_keywords": {
+          "themes": [
+            "trust-betrayal",
+            "identity-quest",
+            "justice-corruption",
+            "moral-ambiguity",
+            "redemption",
+            "paranoia"
+          ],
+          "plot_and_concepts": [
+            "sleeper-agent",
+            "dual-timeline",
+            "conspiracy",
+            "police-investigation",
+            "false-memories",
+            "government-coverup"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "psychological-thriller",
+            "tense",
+            "mysterious"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "spy-thriller",
+            "mystery",
+            "government-conspiracy"
+          ],
+          "setting": [
+            "quantico-base",
+            "new-york-city",
+            "modern-day",
+            "washington-d-c"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "morally-gray-protagonist",
+            "enigmatic-mentor",
+            "double-agent"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "flashback-narrative",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "fbi-training",
+            "interrogation-room",
+            "security-briefing",
+            "surveillance-footage"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "suspense"
+          ]
+        },
+        "keyword_sentence": "Quantico is a suspenseful crime drama mystery series that explores themes of trust and betrayal through the story of FBI recruits grappling with a potential terrorist conspiracy and their own complex pasts."
+      },
+      "duration_seconds": 63.413602113723755
+    }
+  }
+}

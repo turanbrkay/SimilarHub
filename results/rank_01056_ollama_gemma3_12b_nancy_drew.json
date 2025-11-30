@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Nancy Drew",
+    "overview": "Nancy Drew makes plans to leave her hometown for college, but finds herself drawn into a supernatural murder mystery instead.",
+    "genres": [
+      "Mystery",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2019,
+    "vote_count": 240
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Nancy Drew reimagines the classic detective as a young woman grappling with personal demons and supernatural mysteries in her hometown. The series blends elements of mystery, drama, and sci-fi/fantasy, creating a suspenseful and atmospheric experience. It explores themes of family secrets, identity, and the struggle to uncover the truth while navigating complex relationships and confronting dark forces. The show offers a modern take on a beloved character, appealing to a young adult audience seeking a blend of intrigue and supernatural elements.",
+        "spoiler_rich_plot_summary": "The series begins with Nancy Drew preparing to leave Horseshoe Bay for college, but her plans are derailed when she becomes entangled in the unsolved murder of Tiffany Hudson. As Nancy investigates, she uncovers a web of secrets and lies within her own family and the town's history, revealing a connection to the 'Hudsons,' a group of women cursed to repeat a tragic cycle. Nancy discovers she possesses latent supernatural abilities, inherited from her mother, and is drawn into a battle against malevolent spirits and a shadowy organization known as the 'Aglaia.' Throughout the seasons, Nancy and her friends, Lucy, George, and Bess, confront various supernatural threats, uncover hidden identities, and grapple with their own personal struggles. The mysteries become increasingly complex, revealing deeper connections to the town's past and Nancy's own family history. The series culminates in a confrontation with the forces behind the curse, forcing Nancy to embrace her destiny and protect Horseshoe Bay from impending doom, while also confronting the truth about her mother’s disappearance.",
+        "categorized_keywords": {
+          "themes": [
+            "family-secrets",
+            "identity-quest",
+            "supernatural-curse",
+            "small-town-mystery",
+            "female-friendship",
+            "coming-of-age"
+          ],
+          "plot_and_concepts": [
+            "supernatural-investigation",
+            "time-loop",
+            "hidden-society",
+            "generational-curse",
+            "mystery-solving"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "atmospheric",
+            "dark",
+            "mysterious"
+          ],
+          "genre_and_tropes": [
+            "mystery-procedural",
+            "supernatural-drama",
+            "found-family",
+            "teen-drama"
+          ],
+          "setting": [
+            "small-town-usa",
+            "coastal-town",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "intelligent-detective",
+            "loyal-friend",
+            "enigmatic-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "mystery-of-the-week"
+          ],
+          "target_audience": [
+            "young-adult"
+          ],
+          "detail_plot": [
+            "horseshoebay-town",
+            "hudson-family",
+            "aglaia-society",
+            "hudson-mansion",
+            "detective-notebook"
+          ],
+          "maturity_and_content": [
+            "supernatural-horror",
+            "mild-violence"
+          ]
+        },
+        "keyword_sentence": "Nancy Drew blends mystery, supernatural drama, and suspenseful storytelling within a small-town setting, exploring themes of family secrets and identity as a young woman confronts a generational curse and embraces her destiny."
+      },
+      "duration_seconds": 66.25942277908325
+    }
+  }
+}

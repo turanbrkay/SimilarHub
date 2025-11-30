@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Walking with Dinosaurs",
+    "overview": "Combining fact and informed speculation with cutting-edge computer graphics and animatronics effects, the series set out to create the most accurate portrayal of prehistoric animals ever seen on the screen.",
+    "genres": [
+      "Documentary",
+      "Animation"
+    ],
+    "release_year": 1999,
+    "vote_count": 112
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Walking with Dinosaurs is a groundbreaking documentary series that blends scientific accuracy with stunning visual effects to recreate the Mesozoic Era. The series aims to portray dinosaurs and their environments in a realistic and engaging manner, exploring their behaviors, interactions, and eventual extinction. It offers a unique blend of education and entertainment, appealing to a broad audience interested in natural history and paleontology. The series emphasizes the ecological relationships between dinosaurs and their surroundings, presenting a dynamic and immersive experience.",
+        "spoiler_rich_plot_summary": "Each episode of Walking with Dinosaurs focuses on a specific period and location, introducing viewers to a variety of dinosaur species and their ecosystems. The series follows the lives of individual dinosaurs, showcasing their struggles for survival, mating rituals, and interactions with predators. The narrative structure emphasizes the interconnectedness of the prehistoric world, demonstrating how environmental changes and natural disasters impacted dinosaur populations. While the series avoids a traditional plot arc, it consistently highlights the gradual decline of the dinosaurs, culminating in the catastrophic event that led to their extinction – the impact of a large asteroid. The series concludes by illustrating the subsequent evolution of life on Earth, demonstrating the resilience of nature and the emergence of new species.",
+        "categorized_keywords": {
+          "themes": [
+            "extinction",
+            "natural-history",
+            "paleontology",
+            "ecosystems",
+            "survival",
+            "evolution"
+          ],
+          "plot_and_concepts": [
+            "documentary-format",
+            "prehistoric-life",
+            "environmental-change",
+            "asteroid-impact"
+          ],
+          "mood_and_tone": [
+            "educational",
+            "immersive",
+            "awe-inspiring",
+            "somber"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "animation",
+            "natural-history-documentary"
+          ],
+          "setting": [
+            "mesozoic-era",
+            "prehistoric-world",
+            "cretaceous-period",
+            "jurassic-period",
+            "triassic-period"
+          ],
+          "character_archetypes": [
+            "herbivore",
+            "carnivore",
+            "apex-predator"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children",
+            "adults"
+          ],
+          "detail_plot": [
+            "sauropod",
+            "tyrannosaurus-rex",
+            "pterodactyl",
+            "herbivore-grazing",
+            "volcanic-eruption"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Walking with Dinosaurs is an educational and immersive documentary series that brings the prehistoric world to life, exploring the lives of dinosaurs and their ecosystems through stunning visuals and a somber reflection on extinction."
+      },
+      "duration_seconds": 59.72919201850891
+    }
+  }
+}

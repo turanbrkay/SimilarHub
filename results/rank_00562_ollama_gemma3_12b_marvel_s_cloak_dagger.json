@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "Marvel's Cloak & Dagger",
+    "overview": "Two teenagers from very different backgrounds awaken to newly acquired superpowers which mysteriously link them to one another.",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2018,
+    "vote_count": 534
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Marvel's Cloak & Dagger is a superhero drama series exploring the intertwined destinies of Tandy Bowen and Tyrone Johnson, two teenagers who gain extraordinary abilities linked by a shared traumatic event. The series blends elements of action, romance, and social commentary, examining themes of identity, trauma, and redemption within the Marvel Cinematic Universe. It distinguishes itself through its focus on character development and its exploration of complex social issues, offering a more grounded and emotionally resonant superhero narrative than many of its contemporaries. The series balances action sequences with introspective moments, creating a compelling and often poignant viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Tandy Bowen and Tyrone Johnson, both survivors of a tragic event involving Roxxon Energy Corporation. Tandy gains the ability to generate and manipulate light, becoming the hero Cloak & Dagger, while Tyrone gains the power to teleport through the Shadow Realm, becoming Nightshade. Initially, they are manipulated by opposing forces, unaware of their connection and used to further Roxxon's agenda. As they uncover the truth about their shared past and the origins of their powers, they forge an uneasy alliance, learning to rely on each other despite their differing moral compasses. Their investigation leads them to confront the corrupt practices of Roxxon and the individuals responsible for their trauma. Throughout the series, Tandy and Tyrone grapple with the consequences of their powers and the burden of their past, facing personal demons and challenging the established order. The series culminates in a confrontation with the forces that created them, forcing them to make difficult choices that will determine their futures and the fate of those around them. Ultimately, they must decide whether to embrace their roles as heroes or succumb to the darkness that threatens to consume them.",
+        "categorized_keywords": {
+          "themes": [
+            "trauma",
+            "redemption",
+            "identity-quest",
+            "social-justice",
+            "corruption",
+            "found-family",
+            "loss"
+          ],
+          "plot_and_concepts": [
+            "superhero-origin",
+            "corporate-conspiracy",
+            "shadow-realm",
+            "power-corruption",
+            "vigilante-justice"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "gritty",
+            "suspenseful",
+            "emotional",
+            "hopeful"
+          ],
+          "genre_and_tropes": [
+            "superhero-action",
+            "crime-procedural",
+            "teen-drama",
+            "mystery",
+            "coming-of-age"
+          ],
+          "setting": [
+            "new-orleans-louisiana",
+            "modern-day",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "anti-hero",
+            "morally-gray-protagonist",
+            "mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult"
+          ],
+          "detail_plot": [
+            "roxxon-energy",
+            "shadow-realm-portal",
+            "dagger-weapon",
+            "cloak-entity"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "drug-use",
+            "emotional-abuse"
+          ]
+        },
+        "keyword_sentence": "Marvel’s Cloak & Dagger is a gritty, serialized teen drama exploring themes of trauma and redemption as two reluctant heroes confront corporate corruption and navigate a shadowy underworld in modern-day New Orleans."
+      },
+      "duration_seconds": 74.22476077079773
+    }
+  }
+}

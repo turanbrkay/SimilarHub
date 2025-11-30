@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "The Big C",
+    "overview": "A suburban mother faces her cancer diagnosis while trying to find humor and happiness as well.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2010,
+    "vote_count": 80
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Big C is a darkly comedic television series that explores the challenges and absurdities of life, particularly when confronted with a serious illness. The show balances moments of genuine emotional depth with sharp wit and observational humor, offering a poignant and often uncomfortable look at family dynamics, relationships, and the search for meaning in the face of mortality. It's a character-driven narrative that emphasizes the resilience of the human spirit and the importance of finding joy in everyday moments, even amidst difficult circumstances. The series blends elements of comedy and drama to create a unique and often poignant viewing experience.",
+        "spoiler_rich_plot_summary": "The series centers on Cathy Jamison, a seemingly ordinary suburban housewife who receives a devastating diagnosis of aggressive metastatic melanoma. Initially overwhelmed and struggling to cope, Cathy attempts to maintain a facade of normalcy while privately grappling with her mortality. Her relationship with her husband, Mark, is tested as they navigate the emotional and financial burdens of her illness. Cathy finds solace and unexpected friendship with a quirky and unconventional acquaintance, Miriam, who offers a different perspective on life and death. As Cathy undergoes various treatments, she confronts uncomfortable truths about her past, her family, and herself. The series follows her journey through multiple rounds of treatment, each bringing new challenges and forcing her to re-evaluate her priorities. While the cancer remains a constant threat, Cathy finds moments of joy and connection, forging deeper relationships and embracing life with a renewed sense of purpose. The series explores the complexities of family, the fragility of life, and the power of human connection in the face of adversity, ultimately portraying a woman's fight to live fully despite a grim prognosis.",
+        "categorized_keywords": {
+          "themes": [
+            "mortality",
+            "family-dynamics",
+            "cancer-diagnosis",
+            "finding-humor",
+            "relationships",
+            "resilience",
+            "self-discovery"
+          ],
+          "plot_and_concepts": [
+            "illness-narrative",
+            "suburban-life",
+            "friendship",
+            "treatment-journey"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "poignant",
+            "bittersweet",
+            "observational"
+          ],
+          "genre_and_tropes": [
+            "dramedy",
+            "slice-of-life",
+            "character-driven"
+          ],
+          "setting": [
+            "suburban-america",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "ordinary-woman",
+            "quirky-friend",
+            "supportive-husband"
+          ],
+          "narrative_style": [
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "cancer-treatment",
+            "hospital-room",
+            "family-dinner",
+            "suburban-house"
+          ],
+          "maturity_and_content": [
+            "medical-themes",
+            "emotional-distress"
+          ]
+        },
+        "keyword_sentence": "The Big C is a darkly comic dramedy set in suburban America, exploring themes of mortality and family dynamics as a woman confronts a cancer diagnosis and finds humor and resilience in the face of adversity."
+      },
+      "duration_seconds": 63.79892015457153
+    }
+  }
+}

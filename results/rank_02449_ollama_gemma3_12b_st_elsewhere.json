@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "St. Elsewhere",
+    "overview": "St. Elsewhere is an American medical drama television series that originally ran on NBC from October 26, 1982 to May 25, 1988. The series starred Ed Flanders, Norman Lloyd and William Daniels as teaching doctors at a lightly-regarded Boston hospital who gave interns a promising future in making critical medical and life decisions.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 1982,
+    "vote_count": 69
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "St. Elsewhere is a groundbreaking medical drama that eschews the idealized portrayal of hospitals, instead focusing on the complex realities and ethical dilemmas faced by doctors and staff at a struggling institution. The series blends medical procedural elements with character-driven narratives, exploring themes of professional ambition, personal sacrifice, and the challenges of providing care in a resource-constrained environment. Its realistic depiction of hospital life and its willingness to tackle difficult social issues set it apart from its contemporaries and influenced subsequent medical dramas.",
+        "spoiler_rich_plot_summary": "The series begins with the arrival of Dr. Philip Chandler, played by Ed Flanders, at St. Eligius Hospital, a teaching hospital in Boston. Chandler, a country doctor, is initially disillusioned by the hospital's chaotic atmosphere and its reputation for being a last resort for both patients and medical professionals. Over the seasons, Chandler navigates the complexities of his role as a mentor to medical students, confronting difficult cases and ethical quandaries that test his ideals. The hospital faces constant financial struggles, leading to staff cuts and the threat of closure. Relationships between the doctors evolve, marked by professional rivalries, romantic entanglements, and the shared burden of witnessing human suffering. As the series progresses, the hospital's future remains uncertain, and the characters grapple with the consequences of their decisions, both personal and professional. The final season culminates in a poignant and unexpected resolution, as the hospital is sold and its legacy is re-evaluated.",
+        "categorized_keywords": {
+          "themes": [
+            "medical-ethics",
+            "professional-ambition",
+            "social-responsibility",
+            "institutional-decay",
+            "human-suffering",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "medical-procedural",
+            "teaching-hospital",
+            "ensemble-cast",
+            "institutional-drama"
+          ],
+          "mood_and_tone": [
+            "realistic",
+            "melancholy",
+            "thought-provoking",
+            "somber"
+          ],
+          "genre_and_tropes": [
+            "medical-drama",
+            "ensemble-cast",
+            "character-driven"
+          ],
+          "setting": [
+            "boston-massachusetts",
+            "1980s",
+            "urban-hospital"
+          ],
+          "character_archetypes": [
+            "mentor",
+            "idealist",
+            "pragmatist",
+            "experienced-doctor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "medical-charts",
+            "operating-theater",
+            "patient-room",
+            "doctors-lounge"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "St. Elsewhere is a realistic and thought-provoking medical drama set in a struggling Boston hospital, exploring themes of medical ethics and professional ambition through a compelling ensemble cast."
+      },
+      "duration_seconds": 62.367791414260864
+    }
+  }
+}

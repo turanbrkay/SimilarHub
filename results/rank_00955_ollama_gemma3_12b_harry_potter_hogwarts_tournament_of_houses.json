@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "Harry Potter: Hogwarts Tournament of Houses",
+    "overview": "Wizarding World fans put their Harry Potter knowledge to the test for the ultimate honor to be named House Cup champion.",
+    "genres": [
+      "Reality",
+      "Family"
+    ],
+    "release_year": 2021,
+    "vote_count": 276
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Harry Potter: Hogwarts Tournament of Houses is a reality competition series that tests fans' knowledge of the Wizarding World. The show pits teams representing the four Hogwarts houses – Gryffindor, Hufflepuff, Ravenclaw, and Slytherin – against each other in a series of challenges based on the books and films. It offers a lighthearted and nostalgic experience for dedicated fans, emphasizing teamwork, trivia, and the spirit of the beloved franchise. The series aims to celebrate the enduring appeal of Harry Potter while providing engaging entertainment for a family audience.",
+        "spoiler_rich_plot_summary": "The series begins with the four Hogwarts houses selecting their teams, each comprised of dedicated fans eager to prove their knowledge of the Wizarding World. The initial rounds involve trivia challenges covering a wide range of topics from spells and potions to characters and lore. As the competition progresses, the challenges become more elaborate, incorporating physical tasks, creative problem-solving, and even role-playing scenarios inspired by iconic moments from the Harry Potter universe. Teams face setbacks and triumphs as they navigate the increasingly difficult trials, forging strong bonds and demonstrating remarkable dedication to their house. The final rounds pit the top-performing houses against each other in a climactic showdown to determine the ultimate Hogwarts Tournament of Houses champion, culminating in a celebration of the franchise’s legacy and the passion of its fanbase.",
+        "categorized_keywords": {
+          "themes": [
+            "wizarding-world",
+            "teamwork",
+            "nostalgia",
+            "competition",
+            "house-pride"
+          ],
+          "plot_and_concepts": [
+            "trivia-challenge",
+            "reality-competition",
+            "role-playing",
+            "wizarding-lore"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "family-friendly",
+            "wholesome",
+            "enthusiastic"
+          ],
+          "genre_and_tropes": [
+            "reality-tv",
+            "game-show",
+            "found-family",
+            "fan-service"
+          ],
+          "setting": [
+            "hogwarts-school",
+            "wizarding-world"
+          ],
+          "character_archetypes": [
+            "dedicated-fan",
+            "team-leader"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "elimination-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "hogwarts-crest",
+            "quidditch-pitch",
+            "sorting-hat",
+            "common-room"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Harry Potter: Hogwarts Tournament of Houses is a lighthearted reality competition series that celebrates the wizarding world through trivia challenges and team-based games, offering a nostalgic and family-friendly experience for dedicated fans."
+      },
+      "duration_seconds": 55.577664375305176
+    }
+  }
+}

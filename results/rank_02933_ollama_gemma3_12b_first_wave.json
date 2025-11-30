@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "First Wave",
+    "overview": "First Wave is a Canadian/American science fiction television series, filmed in Vancouver, British Columbia, Canada, that aired from 1998 to 2001 on the Sci-Fi Channel. The show was created by Chris Brancato, who co-wrote an early version of the script for the seminal X-Files episode \"Eve\". Francis Ford Coppola was executive producer on the show. In an unusual move, the Sci-Fi Channel picked up the series on a 66-episode contract. The show was subsequently canceled once the contract expired at the end of the third season due to disappointing ratings.",
+    "genres": [
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1998,
+    "vote_count": 50
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "First Wave is a science fiction series that blends action and adventure with fantastical elements, exploring themes of government conspiracy, genetic experimentation, and the search for truth. The show follows a special government task force investigating paranormal events and uncovering a larger, shadowy organization. Its unique production history, with Francis Ford Coppola's involvement and a large initial episode order, contributed to a distinctive tone that balances suspense with a sense of wonder. The series ultimately aims to examine the blurred lines between reality and illusion, and the lengths to which powerful entities will go to maintain control.",
+        "spoiler_rich_plot_summary": "The series begins with the formation of a specialized government task force, Shade, dedicated to investigating unexplained phenomena. Initially, the team focuses on seemingly isolated incidents – strange creatures, unusual weather patterns, and bizarre disappearances. As they delve deeper, they discover a connection between these events and a clandestine organization known as the First Wave, a group manipulating global events for their own mysterious purposes. The team, led by Noah Covington, a former FBI agent, and Jess Parker, a geneticist, faces constant challenges as they attempt to expose the First Wave's agenda. Throughout the series, the team encounters various allies and enemies, uncovering layers of deception and betrayal. The First Wave’s plans involve manipulating genetics and exploiting paranormal abilities to achieve a global power shift. The team struggles with internal conflicts and personal sacrifices as they race against time to prevent the First Wave from enacting their ultimate plan, which involves a large-scale manipulation of the world's population. The series concludes with the team confronting the core members of the First Wave, leading to a final showdown that reveals the full scope of their conspiracy and its potential consequences for the future.",
+        "categorized_keywords": {
+          "themes": [
+            "government-conspiracy",
+            "genetic-manipulation",
+            "search-for-truth",
+            "reality-vs-illusion",
+            "power-struggle",
+            "moral-ambiguity"
+          ],
+          "plot_and_concepts": [
+            "paranormal-investigation",
+            "secret-organization",
+            "time-travel",
+            "alternate-reality",
+            "genetic-engineering"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "mysterious",
+            "dark",
+            "action-oriented",
+            "cerebral"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "action-adventure",
+            "conspiracy-thriller",
+            "found-family",
+            "government-agency"
+          ],
+          "setting": [
+            "modern-day",
+            "vancouver-british-columbia",
+            "north-america"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "skilled-agent",
+            "brilliant-scientist",
+            "enigmatic-antagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "mystery-box"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "government-facility",
+            "paranormal-artifact",
+            "secret-files",
+            "genetic-lab"
+          ],
+          "maturity_and_content": [
+            "violence"
+          ]
+        },
+        "keyword_sentence": "First Wave is a suspenseful science fiction series that explores themes of government conspiracy and genetic manipulation, following a specialized team as they uncover a secret organization’s plot to control reality."
+      },
+      "duration_seconds": 62.495991945266724
+    }
+  }
+}

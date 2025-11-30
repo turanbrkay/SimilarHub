@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Moby Dick",
+    "overview": "The sole survivor of a lost whaling ship relates the tale of his captain's self-destructive obsession to hunt the white whale, Moby Dick.",
+    "genres": [
+      "Drama",
+      "Action & Adventure"
+    ],
+    "release_year": 1998,
+    "vote_count": 51
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Moby Dick, the 1998 adaptation, is a sweeping maritime drama centered on a young sailor's journey aboard a whaling ship and his gradual understanding of his captain's consuming and ultimately destructive quest for revenge against a legendary white whale. The film explores themes of obsession, fate, and the destructive power of vengeance, set against the backdrop of a perilous and visually stunning whaling voyage. It blends elements of adventure, tragedy, and psychological thriller, offering a visceral and emotionally intense experience. The narrative is driven by the captain's descent into madness and the crew's struggle to survive both the dangers of the sea and the captain's increasingly erratic behavior.",
+        "spoiler_rich_plot_summary": "The story begins with Ishmael, a young man seeking adventure, joining the crew of the Pequod, a whaling ship commanded by the enigmatic Captain Ahab. Ahab is consumed by a singular obsession: to hunt and kill Moby Dick, a massive white whale that previously took his leg. As the voyage progresses, Ahab’s obsession intensifies, pushing the crew to their limits and disregarding safety protocols. The pursuit of Moby Dick becomes a relentless and increasingly dangerous undertaking, with Ahab sacrificing the well-being of his crew in his quest for vengeance. The crew encounters numerous challenges and dangers during the voyage, including violent storms and encounters with other ships. Eventually, the Pequod confronts Moby Dick in a climactic and devastating battle. The whale proves to be a formidable opponent, and the Pequod is ultimately destroyed, with all hands lost except for Ishmael, who is rescued by another ship, forever marked by the tragedy he witnessed.",
+        "categorized_keywords": {
+          "themes": [
+            "obsession",
+            "revenge",
+            "fate",
+            "man-vs-nature",
+            "isolation",
+            "mortality"
+          ],
+          "plot_and_concepts": [
+            "whaling-voyage",
+            "manhunt",
+            "sea-adventure",
+            "quest-narrative"
+          ],
+          "mood_and_tone": [
+            "tragic",
+            "epic",
+            "dark",
+            "intense",
+            "melancholy"
+          ],
+          "genre_and_tropes": [
+            "adventure-drama",
+            "epic-tale",
+            "revenge-story",
+            "sea-faring"
+          ],
+          "setting": [
+            "19th-century",
+            "atlantic-ocean",
+            "whaling-ship"
+          ],
+          "character_archetypes": [
+            "obsessed-captain",
+            "reluctant-hero",
+            "sea-dog",
+            "tragic-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "first-person-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "whaling-harpoon",
+            "sperm-whale",
+            "ship-wreck",
+            "captain-s-peg-leg"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "death-and-loss"
+          ]
+        },
+        "keyword_sentence": "A tragic and epic tale of obsession and revenge unfolds on a 19th-century whaling voyage, where a captain’s relentless pursuit of a legendary white whale leads to destruction and loss on the vast Atlantic Ocean."
+      },
+      "duration_seconds": 68.55009007453918
+    }
+  }
+}

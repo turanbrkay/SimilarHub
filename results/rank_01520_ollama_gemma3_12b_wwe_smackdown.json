@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "WWE SmackDown",
+    "overview": "The superstars of World Wrestling Entertainment's \"SmackDown\" brand collide each and every Friday on WWE Friday Night SmackDown.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 1999,
+    "vote_count": 142
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "WWE SmackDown is a weekly professional wrestling show featuring matches, storylines, and character development within the WWE universe. The show blends athletic competition with theatrical performance, creating a spectacle of athleticism, drama, and entertainment. It serves as a platform for showcasing wrestling talent and building rivalries, often incorporating elements of soap opera and action cinema. SmackDown's appeal lies in its combination of high-energy action and ongoing narrative arcs, fostering a dedicated fanbase invested in the performers and their stories. The show's format evolves over time, adapting to changing audience preferences and incorporating new talent and storylines.",
+        "spoiler_rich_plot_summary": "WWE SmackDown debuted in 1999 as a direct competitor to rival promotion WCW's flagship show. Initially, the show featured a mix of established WWE stars and rising talents, with storylines often revolving around championship pursuits and inter-brand rivalries. Over the years, SmackDown has seen numerous shifts in its landscape, including brand extensions, draft events, and changes in management. Championship reigns have been fiercely contested, with alliances forming and dissolving, and betrayals shaking the foundations of the wrestling world. While individual matches often have clear winners and losers, the overarching narratives involve complex character arcs and long-term feuds that span months and years. The show has consistently evolved its presentation and storytelling, incorporating new gimmicks and characters to maintain audience engagement. The show's storylines often involve power struggles, personal vendettas, and the pursuit of championship glory, with the ultimate goal of establishing dominance within the WWE.",
+        "categorized_keywords": {
+          "themes": [
+            "competition",
+            "rivalry",
+            "power-struggle",
+            "dominance",
+            "performance",
+            "entertainment"
+          ],
+          "plot_and_concepts": [
+            "championship-pursuit",
+            "brand-extension",
+            "draft-event",
+            "heel-face-turn",
+            "inter-brand-rivalry"
+          ],
+          "mood_and_tone": [
+            "high-energy",
+            "theatrical",
+            "dramatic",
+            "spectacle"
+          ],
+          "genre_and_tropes": [
+            "reality-television",
+            "sports-entertainment",
+            "heel-face-dynamic"
+          ],
+          "setting": [
+            "wrestling-ring",
+            "modern-day",
+            "arena"
+          ],
+          "character_archetypes": [
+            "wrestler",
+            "heel",
+            "face"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ongoing-narrative"
+          ],
+          "target_audience": [
+            "sports-fans",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "wrestling-match",
+            "championship-belt",
+            "entrance-music",
+            "signature-move"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "WWE SmackDown delivers a high-energy spectacle of sports entertainment, showcasing ongoing rivalries and championship pursuits within a dramatic and theatrical arena."
+      },
+      "duration_seconds": 62.37041664123535
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Houdini",
+    "overview": "Harry Houdini emerges as America's first bonafide world-renowned superstar.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2014,
+    "vote_count": 255
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Houdini is a biographical drama series chronicling the life and career of the famed illusionist Harry Houdini. The series explores his rise to international fame, his relentless pursuit of exposing fraudulent spiritualists, and the personal sacrifices he made along the way. It blends historical drama with elements of mystery and suspense, examining the man behind the magic and the darker aspects of his ambition and relationships. The series aims to portray Houdini not just as a performer, but as a complex individual grappling with fame, family, and a desire to uncover truth.",
+        "spoiler_rich_plot_summary": "The series begins with a young Ehrich Weiss escaping poverty in 19th-century Wisconsin, reinventing himself as Harry Houdini and developing his escape artistry skills. He quickly gains notoriety in Europe before conquering America, becoming a global phenomenon. Throughout his career, Houdini dedicates himself to exposing fraudulent mediums and spiritualists, often clashing with powerful figures who profit from deception. His relentless pursuit of truth puts him at odds with his own family, as his wife, Bess, increasingly relies on manipulation to maintain his career and protect his legacy. The series follows Houdini’s personal struggles with fame, his complicated relationship with his brother Theodore Hardeen, and the toll his demanding lifestyle takes on his health. As his fame grows, Houdini faces increasing threats from those he exposes, and his quest for justice becomes increasingly dangerous, culminating in a desperate race against time as his health deteriorates and he confronts the consequences of his relentless pursuit of truth.",
+        "categorized_keywords": {
+          "themes": [
+            "fame-and-fortune",
+            "truth-versus-deception",
+            "family-dynamics",
+            "legacy-and-memory",
+            "ambition",
+            "identity-quest"
+          ],
+          "plot_and_concepts": [
+            "biographical-drama",
+            "escape-artistry",
+            "spiritualism-exposures",
+            "stage-magic",
+            "historical-investigation"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dramatic",
+            "somber",
+            "mysterious"
+          ],
+          "genre_and_tropes": [
+            "historical-drama",
+            "biopic",
+            "mystery",
+            "stagecraft"
+          ],
+          "setting": [
+            "late-19th-century",
+            "america",
+            "europe",
+            "vaudeville-theatre"
+          ],
+          "character_archetypes": [
+            "enigmatic-protagonist",
+            "ambitious-performer",
+            "manipulative-spouse",
+            "rival-sibling"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "biographical-chronology"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "water-torture-escape",
+            "stage-illusions",
+            "spiritualist-séances",
+            "vaudeville-poster",
+            "newspaper-headlines"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Houdini is a dramatic and suspenseful biographical series exploring the life of a famed escape artist as he battles deception, fame, and family dynamics across late 19th-century America and Europe."
+      },
+      "duration_seconds": 58.76211166381836
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Jurassic World Camp Cretaceous",
+    "overview": "Six teens attending an adventure camp on the opposite side of Isla Nublar must band together to survive when dinosaurs wreak havoc on the island.",
+    "genres": [
+      "Animation",
+      "Kids",
+      "Action & Adventure"
+    ],
+    "release_year": 2020,
+    "vote_count": 1745
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Jurassic World Camp Cretaceous is an animated adventure series geared towards a younger audience, blending the familiar thrills of the Jurassic World franchise with a coming-of-age narrative. The show follows a group of teenagers who find themselves stranded on Isla Nublar, facing perilous encounters with dinosaurs and learning to rely on each other for survival. It explores themes of friendship, courage, and responsibility within a high-stakes, action-packed environment, offering a mix of suspense and lighthearted moments.",
+        "spoiler_rich_plot_summary": "The series begins with six teenagers – Brody, Hunter, Brooklynn, Yaz, Kenji, and Darius – attending a prestigious adventure camp on Isla Nublar, unaware that the island is far from the safe haven they were promised. Their initial excitement quickly turns to terror when a series of incidents reveals that dinosaurs are escaping containment, and the camp's security is compromised. As they navigate the dangerous landscape, the teens uncover a conspiracy involving the camp's staff and a hidden agenda related to the dinosaurs. They face numerous challenges, including encounters with various dinosaur species, navigating treacherous terrain, and dealing with internal conflicts within the group. Over the course of the series, the teens mature and develop their skills, learning to work together to overcome obstacles and confront the forces threatening their survival. They uncover secrets about the island's past and the true nature of the Jurassic World project, ultimately striving to escape the island and expose the truth.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "survival",
+            "coming-of-age",
+            "courage",
+            "responsibility",
+            "teamwork",
+            "conspiracy"
+          ],
+          "plot_and_concepts": [
+            "dinosaur-escape",
+            "adventure-camp",
+            "island-survival",
+            "hidden-agenda",
+            "coming-of-age-story"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "action-packed",
+            "lighthearted",
+            "adventurous"
+          ],
+          "genre_and_tropes": [
+            "adventure-series",
+            "coming-of-age",
+            "found-family",
+            "dinosaur-adventure"
+          ],
+          "setting": [
+            "tropical-island",
+            "modern-day",
+            "alternate-timeline"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "resourceful-teenager",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "kids",
+            "young-adults"
+          ],
+          "detail_plot": [
+            "dinosaur-encounter",
+            "camp-counselor",
+            "jungle-terrain",
+            "security-breach"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Jurassic World Camp Cretaceous is an adventurous and suspenseful series for kids and young adults, following a group of teenagers as they navigate a tropical island filled with dinosaurs and uncover a dangerous conspiracy while learning the importance of friendship and survival."
+      },
+      "duration_seconds": 66.91722130775452
+    }
+  }
+}

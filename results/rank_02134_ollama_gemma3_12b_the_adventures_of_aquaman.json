@@ -1,0 +1,70 @@
+{
+  "input_data": {
+    "title": "The Adventures of Aquaman",
+    "overview": "Aquaman is a Filmation animated series that premiered on CBS on September 9, 1967, and ended June 1970. It is a 30-minute version of The Superman/Aquaman Hour of Adventure, repackaged without the Superman and Superboy segments. The show is composed of previously-aired adventures featuring the DC Comics superheroes Aquaman and his sidekick Aqualad, the Atom, the Flash and Kid Flash, the Green Lantern and Hawkman. The Justice League of America and Teen Titans are also featured in team adventures.",
+    "genres": [
+      "Animation"
+    ],
+    "release_year": 1967,
+    "vote_count": 87
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Adventures of Aquaman is a vintage animated series showcasing the DC Comics superhero and his allies. Originally part of a larger superhero hour, the series focuses on Aquaman's underwater adventures and his collaborations with other iconic heroes like the Flash and Green Lantern. The show blends action, adventure, and teamwork, targeting a family audience with its lighthearted tone and episodic storytelling. It represents a significant piece of superhero animation history, demonstrating early attempts to adapt comic book characters for television.",
+        "spoiler_rich_plot_summary": "The series follows Aquaman as he protects the underwater kingdom of Atlantis from various threats, ranging from surface dwellers to monstrous creatures. He frequently teams up with Aqualad and other members of the Justice League of America and Teen Titans to resolve conflicts. Episodes typically involve a problem arising, followed by a period of investigation and action, culminating in a resolution where Aquaman and his allies triumph over adversity. Recurring villains and challenges test Aquaman's leadership and his commitment to safeguarding both the underwater and surface worlds. While the series maintains a generally optimistic tone, it explores themes of responsibility, courage, and the importance of cooperation in the face of danger. The adventures are largely self-contained, allowing for a wide range of scenarios and guest appearances from other DC heroes.",
+        "categorized_keywords": {
+          "themes": [
+            "heroism",
+            "teamwork",
+            "responsibility",
+            "courage",
+            "justice"
+          ],
+          "plot_and_concepts": [
+            "superhero-team",
+            "underwater-kingdom",
+            "monster-of-the-week",
+            "episodic-adventure"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "optimistic",
+            "family-friendly"
+          ],
+          "genre_and_tropes": [
+            "superhero-animation",
+            "adventure-series",
+            "found-family"
+          ],
+          "setting": [
+            "underwater-world",
+            "atlantic-ocean",
+            "1960s"
+          ],
+          "character_archetypes": [
+            "heroic-leader",
+            "loyal-sidekick",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-story"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "trident",
+            "underwater-city",
+            "aquatic-creatures"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Adventures of Aquaman is a lighthearted and optimistic superhero animation series that follows a heroic leader and his loyal sidekick as they protect an underwater kingdom and uphold justice with the help of their superhero team."
+      },
+      "duration_seconds": 58.11206126213074
+    }
+  }
+}

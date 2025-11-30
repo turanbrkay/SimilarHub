@@ -1,0 +1,86 @@
+{
+  "input_data": {
+    "title": "Torchwood",
+    "overview": "The exploits a team of people whose job is to investigate the unusual, the strange and the extraterrestrial.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Drama"
+    ],
+    "release_year": 2006,
+    "vote_count": 440
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Torchwood is a British science fiction series that follows a covert team investigating paranormal activity and extraterrestrial phenomena in modern-day Cardiff, Wales. The show blends action, drama, and horror, exploring themes of responsibility, sacrifice, and the consequences of scientific advancement. It operates within a darker, more grounded tone than many science fiction offerings, often delving into morally ambiguous situations and the psychological toll on its characters. Torchwood distinguishes itself through its gritty realism and willingness to explore complex ethical dilemmas arising from encounters with the unknown.",
+        "spoiler_rich_plot_summary": "Torchwood begins with the reactivation of a secret alien research facility established by the British government decades prior. The team, led by Jack Harkness, a centuries-old former British intelligence agent, investigates alien incursions and temporal anomalies. Early seasons focus on containing threats and uncovering the history of the Torchwood Institute, revealing its involvement in controversial experiments and cover-ups. As the series progresses, the team faces increasingly dangerous adversaries, including alien empires and temporal entities, leading to significant losses and forcing them to confront the consequences of their actions. The narrative explores the concept of time travel and its paradoxes, with characters experiencing fragmented timelines and alternate realities. Later seasons introduce new threats and expand the scope of the Torchwood universe, delving into the complexities of alien politics and the potential for interdimensional conflict. The team's actions have far-reaching consequences, impacting not only their own lives but also the fabric of reality itself, ultimately leading to a confrontation with forces beyond their comprehension.",
+        "categorized_keywords": {
+          "themes": [
+            "responsibility",
+            "sacrifice",
+            "consequences",
+            "alien-contact",
+            "government-secrecy",
+            "moral-ambiguity",
+            "time-travel-paradoxes"
+          ],
+          "plot_and_concepts": [
+            "alien-invasion",
+            "temporal-anomaly",
+            "secret-organization",
+            "cover-up",
+            "monster-of-the-week",
+            "serialized-story"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "gritty",
+            "suspenseful",
+            "paranoid",
+            "bleak"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "action-adventure",
+            "spy-thriller",
+            "monster-hunt",
+            "found-family"
+          ],
+          "setting": [
+            "cardiff-wales",
+            "modern-day",
+            "secret-base",
+            "alternate-timeline"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "enigmatic-mentor",
+            "damaged-protagonist",
+            "anti-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "secret-facility",
+            "temporal-device",
+            "alien-artifact",
+            "torchwood-badge"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "body-horror",
+            "sexual-content"
+          ]
+        },
+        "keyword_sentence": "Torchwood is a dark and gritty science fiction series set in modern-day Cardiff, exploring themes of responsibility and sacrifice as a secret team investigates alien incursions and grapples with the consequences of their actions."
+      },
+      "duration_seconds": 92.96647429466248
+    }
+  }
+}

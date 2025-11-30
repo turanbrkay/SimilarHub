@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "The Oprah Winfrey Show",
+    "overview": "The Oprah Winfrey Show, often referred to simply as Oprah, is an American syndicated talk show that aired nationally for 25 seasons from 1986 to 2011. Produced and hosted by its namesake, Oprah Winfrey, it remains the highest-rated talk show in American television history.\n\nThe show was highly influential, and many of its topics penetrated into the American pop-cultural consciousness. Winfrey used the show as a platform to teach and inspire, providing viewers with a positive, spiritually uplifting experience by featuring book clubs, compelling interviews, self-improvement segments, and philanthropic forays into world events. The show gained credibility by not trying to profit off the products it endorsed; it had no licensing agreement with retailers when products were promoted, nor did the show make any money from endorsing books for its book club.\n\nOprah is one of the longest-running daytime television talk shows in history. The show received 47 Daytime Emmy Awards before Winfrey decided to stop submitting it for consideration in 2000.",
+    "genres": [
+      "Talk"
+    ],
+    "release_year": 1986,
+    "vote_count": 37
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Oprah Winfrey Show was a groundbreaking daytime talk show that ran for 25 seasons, becoming a cultural phenomenon and consistently holding the highest ratings in its genre. Hosted and produced by Oprah Winfrey, the show distinguished itself through its focus on self-improvement, inspirational interviews, and philanthropic endeavors. Unlike many talk shows, it prioritized viewer well-being and positive impact, eschewing commercial endorsements and fostering a sense of community and shared experience. The show's influence extended far beyond television, shaping conversations and impacting American culture for decades.",
+        "spoiler_rich_plot_summary": "The Oprah Winfrey Show began with a focus on relatively conventional talk show topics, but quickly evolved to encompass a broader range of subjects, including personal growth, social issues, and celebrity interviews. Oprah's empathetic and non-judgmental approach allowed guests to share vulnerable stories, fostering a sense of connection with the audience. The show became known for its book club selections, which often propelled authors and books to massive success. Over the years, the show tackled difficult topics, including abuse, addiction, and poverty, always striving to offer hope and solutions. As the show progressed, Oprah's personal journey and spiritual beliefs became increasingly integrated into the programming, further solidifying her role as a trusted advisor and cultural leader. The show concluded after 25 seasons, leaving behind a legacy of positive impact and a profound influence on American television and culture.",
+        "categorized_keywords": {
+          "themes": [
+            "self-improvement",
+            "personal-growth",
+            "inspiration",
+            "empathy",
+            "vulnerability",
+            "philanthropy",
+            "spiritual-journey",
+            "community"
+          ],
+          "plot_and_concepts": [
+            "talk-show-format",
+            "book-club",
+            "interview-segment",
+            "social-issues",
+            "celebrity-interviews"
+          ],
+          "mood_and_tone": [
+            "positive",
+            "uplifting",
+            "hopeful",
+            "compassionate",
+            "inspiring"
+          ],
+          "genre_and_tropes": [
+            "talk-show",
+            "daytime-television",
+            "self-help"
+          ],
+          "setting": [
+            "american-television",
+            "daytime-television"
+          ],
+          "character_archetypes": [
+            "trusted-advisor",
+            "cultural-leader",
+            "empathic-host"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "interview-driven"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "book-club-selection",
+            "interview-set",
+            "studio-audience"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Oprah Winfrey Show, a long-running daytime talk show, inspired audiences with its focus on self-improvement, empathetic interviews, and a consistently positive and uplifting tone, establishing Oprah Winfrey as a trusted advisor and cultural leader in American television."
+      },
+      "duration_seconds": 55.405478954315186
+    }
+  }
+}

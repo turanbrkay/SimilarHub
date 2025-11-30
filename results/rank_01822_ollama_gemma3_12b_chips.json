@@ -1,0 +1,70 @@
+{
+  "input_data": {
+    "title": "CHiPs",
+    "overview": "Lighthearted look at the adventures of two Highway Patrol officers in Los Angeles. The main characters are Jon Baker and Frank Poncherello, two motorcycle officers always on the street to save lives.",
+    "genres": [
+      "Drama",
+      "Action & Adventure"
+    ],
+    "release_year": 1977,
+    "vote_count": 111
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "CHiPs is a 1970s action-drama series centered on the California Highway Patrol. The show blends action sequences with comedic elements, focusing on the daily lives and challenges faced by motorcycle officers patrolling the freeways of Los Angeles. It emphasizes themes of camaraderie, law enforcement, and community service, offering a generally upbeat and accessible viewing experience. While dealing with crime and accidents, the series maintains a lighthearted tone, prioritizing entertainment and positive portrayals of public service.",
+        "spoiler_rich_plot_summary": "The series begins with the introduction of Jon Baker, a young, somewhat reckless patrol officer, and Frank Poncherello, a more experienced and disciplined officer, both assigned to the California Highway Patrol’s motorcycle unit. Throughout the series, they navigate a variety of situations, from routine traffic stops to high-speed chases and investigations into criminal activity occurring on the freeways. Recurring antagonists include smugglers, car thieves, and other criminals exploiting the vast network of highways. While the officers face personal and professional challenges, their bond strengthens as they work together to uphold the law and protect the public. The show explores the complexities of law enforcement, highlighting the dedication and sacrifices made by those who serve. While specific cases vary, the overarching narrative focuses on the officers’ commitment to their duty and their evolving relationships with each other and the community they serve.",
+        "categorized_keywords": {
+          "themes": [
+            "law-enforcement",
+            "camaraderie",
+            "public-service",
+            "duty",
+            "community"
+          ],
+          "plot_and_concepts": [
+            "police-investigation",
+            "car-chase",
+            "highway-patrol",
+            "smuggling"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "action-adventure",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "action-drama",
+            "buddy-cop",
+            "police-procedural"
+          ],
+          "setting": [
+            "los-angeles",
+            "california",
+            "1970s"
+          ],
+          "character_archetypes": [
+            "rebel-hero",
+            "experienced-mentor"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "motorcycle",
+            "highway",
+            "police-uniform",
+            "patrol-car"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "CHiPs is a lighthearted action-drama series set in 1970s Los Angeles, following the adventures of California Highway Patrol officers as they uphold the law and serve their community with camaraderie and a sense of duty."
+      },
+      "duration_seconds": 58.483232498168945
+    }
+  }
+}

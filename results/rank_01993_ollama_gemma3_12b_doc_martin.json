@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Doc Martin",
+    "overview": "Doc Martin is a British television comedy drama series starring Martin Clunes in the title role. It was created by Dominic Minghella after the character of Dr. Martin Bamford in the 2000 comedy film Saving Grace. The show is set in the fictional seaside village of Portwenn and filmed on location in the village of Port Isaac, Cornwall, England, with most interior scenes shot in a converted local barn. Five series aired between 2004 and 2011, together with a feature-length special that aired on Christmas Day 2006. Series 6 began airing on ITV on 2 September 2013.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2004,
+    "vote_count": 97
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Doc Martin is a British comedy-drama series centered on a brilliant but abrasive surgeon who relocates to a picturesque Cornish village. The show blends humor and pathos as the doctor clashes with the close-knit community, navigating personal relationships and professional challenges while attempting to reconcile his gruff exterior with the needs of his patients. It's a character-driven narrative exploring themes of redemption, community, and the complexities of human connection, all set against the backdrop of a charming coastal setting. The series offers a lighthearted yet poignant exploration of small-town life and the transformative power of human interaction.",
+        "spoiler_rich_plot_summary": "The series begins with Dr. Martin Bamford, a successful London surgeon, relocating to the quiet Cornish village of Portwenn as part of a deal to avoid disciplinary action. Initially, his brusque and socially awkward demeanor creates friction with the villagers, particularly with local businesswoman and receptionist, Miss Agnes Meldrew. Over the course of the series, Martin slowly begins to integrate into the community, forming unexpected friendships and developing a grudging respect for the locals. Romantic relationships also emerge, most notably with local pharmacist, Sarah Platt, though their connection is often complicated by Martin's inability to express his emotions effectively. Throughout the seasons, the series explores various personal struggles of the villagers, often intertwined with Martin's medical cases, highlighting the interconnectedness of the community. While Martin remains largely unchanged in his medical approach, he gradually softens his edges, demonstrating a growing capacity for empathy and a deeper understanding of the importance of human connection. The series concludes with Martin continuing his practice in Portwenn, having found a sense of belonging and purpose in the unexpected haven of a small coastal village.",
+        "categorized_keywords": {
+          "themes": [
+            "redemption",
+            "community",
+            "human-connection",
+            "small-town-life",
+            "personal-growth",
+            "social-integration"
+          ],
+          "plot_and_concepts": [
+            "fish-out-of-water",
+            "medical-drama",
+            "romantic-comedy",
+            "character-driven-narrative"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "poignant",
+            "wholesome",
+            "comedic",
+            "warm"
+          ],
+          "genre_and_tropes": [
+            "british-comedy",
+            "medical-procedural",
+            "small-town-drama"
+          ],
+          "setting": [
+            "cornwall-england",
+            "seaside-village",
+            "coastal-setting",
+            "portwenn"
+          ],
+          "character_archetypes": [
+            "grumpy-doctor",
+            "eccentric-villagers",
+            "reluctant-hero",
+            "socially-awkward-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "medical-practice",
+            "port-isaac",
+            "local-pharmacy",
+            "cornish-coastline"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Doc Martin is a lighthearted British comedy-drama set in a charming Cornish seaside village, exploring themes of redemption and human connection through the journey of a grumpy doctor who unexpectedly finds a place within a close-knit community."
+      },
+      "duration_seconds": 68.85994076728821
+    }
+  }
+}

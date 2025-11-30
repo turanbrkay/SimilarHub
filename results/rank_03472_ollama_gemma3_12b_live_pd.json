@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Live PD",
+    "overview": "Dash cams capture footage from urban and rural police forces while on the job. A live look inside the everyday calls of police officers across the nation.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2016,
+    "vote_count": 36
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Live PD is a documentary series offering a real-time glimpse into the daily operations of police departments across the United States. The show utilizes dashcam and bodycam footage to present a raw and unfiltered view of law enforcement, showcasing a range of calls and interactions. While intended to provide transparency and public engagement, the series has sparked debate regarding privacy, police accountability, and the potential for sensationalism. The show's format emphasizes immediacy and authenticity, offering viewers a unique perspective on the challenges and complexities of modern policing. It aims to bridge the gap between law enforcement and the communities they serve, though its portrayal has been subject to scrutiny.",
+        "spoiler_rich_plot_summary": "Live PD operates without a traditional narrative arc. Each episode presents a series of live police encounters, captured through the cameras of participating law enforcement agencies. Viewers witness a spectrum of situations, from minor traffic stops to more serious investigations, all unfolding in real-time. The show's format relies on the unpredictable nature of police work, with each episode offering a new set of challenges and interactions. While there are recurring officers and locations, the series lacks a central plot or overarching storyline. The 'plot' is the unfolding of everyday police work, with occasional dramatic events arising from the situations encountered. The show concludes without a final resolution, as it continues to document ongoing police operations.",
+        "categorized_keywords": {
+          "themes": [
+            "law-enforcement",
+            "public-safety",
+            "police-accountability",
+            "community-relations",
+            "real-time-observation"
+          ],
+          "plot_and_concepts": [
+            "dashcam-footage",
+            "bodycam-footage",
+            "real-time-broadcast",
+            "police-investigation",
+            "crime-prevention"
+          ],
+          "mood_and_tone": [
+            "realistic",
+            "observational",
+            "tense",
+            "unpredictable"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "reality-tv",
+            "crime-procedural"
+          ],
+          "setting": [
+            "urban-environments",
+            "rural-environments",
+            "united-states"
+          ],
+          "character_archetypes": [
+            "police-officer",
+            "suspect",
+            "victim"
+          ],
+          "narrative_style": [
+            "observational-documentary",
+            "real-time-coverage"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "crime-enthusiasts"
+          ],
+          "detail_plot": [
+            "police-car",
+            "traffic-stop",
+            "arrest",
+            "evidence-collection",
+            "police-uniform"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "police-brutality",
+            "arrest-scene"
+          ]
+        },
+        "keyword_sentence": "Live PD offers a realistic and often tense look at law enforcement across the United States, utilizing real-time dashcam and bodycam footage to document the unpredictable nature of police work and its impact on communities."
+      },
+      "duration_seconds": 56.16220450401306
+    }
+  }
+}

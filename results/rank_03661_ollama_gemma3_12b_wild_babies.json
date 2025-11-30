@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Wild Babies",
+    "overview": "The adventures of lion cubs, elephants, penguins, pangolins and more as they learn to cope with the ups and downs of life in the wild and try their best to reach adulthood in an unforgiving world.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2022,
+    "vote_count": 32
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Wild Babies is a documentary series offering a heartwarming and often poignant look at the early lives of young animals. The series focuses on the challenges and triumphs of survival, showcasing the vulnerability and resilience of newborns as they navigate their environments and learn essential life skills. Through intimate camera work, the series explores themes of family, perseverance, and the delicate balance of nature, offering a compelling narrative for audiences of all ages. The series blends observational footage with gentle narration, creating an engaging and emotionally resonant viewing experience.",
+        "spoiler_rich_plot_summary": "The series follows several distinct animal families throughout their first year of life, beginning with their birth and immediate dependence on their parents. Lion cubs face the constant threat of predators and the struggle for dominance within their pride. Elephant calves learn to navigate complex social structures and the importance of water sources. Penguin chicks endure harsh Antarctic conditions and the relentless pursuit of food. Pangolins, with their unique scales, must learn to defend themselves from poachers and predators. The series chronicles the animals' attempts to master essential skills like hunting, foraging, and avoiding danger. While many young animals thrive and eventually reach adulthood, the series also portrays the harsh realities of the wild, including instances of loss and the constant struggle for survival. The overarching narrative emphasizes the interconnectedness of the ecosystem and the importance of conservation efforts to protect these vulnerable creatures.",
+        "categorized_keywords": {
+          "themes": [
+            "survival",
+            "family-bonds",
+            "conservation",
+            "vulnerability",
+            "resilience",
+            "nature-balance"
+          ],
+          "plot_and_concepts": [
+            "coming-of-age",
+            "animal-behavior",
+            "documentary-format",
+            "wildlife-photography"
+          ],
+          "mood_and_tone": [
+            "heartwarming",
+            "poignant",
+            "gentle",
+            "observational"
+          ],
+          "genre_and_tropes": [
+            "nature-documentary",
+            "wildlife-film",
+            "coming-of-age-story"
+          ],
+          "setting": [
+            "african-savanna",
+            "antarctic-region",
+            "wild-environments",
+            "natural-habitats"
+          ],
+          "character_archetypes": [
+            "vulnerable-protagonist",
+            "protective-parent",
+            "resourceful-animal"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "observational-narrative"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children",
+            "nature-lovers"
+          ],
+          "detail_plot": [
+            "lion-cub",
+            "elephant-calf",
+            "penguin-chick",
+            "pangolin-scales",
+            "animal-den"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Wild Babies is a heartwarming nature documentary series that follows vulnerable young animals as they navigate the challenges of survival and family bonds in diverse wild environments."
+      },
+      "duration_seconds": 72.8268551826477
+    }
+  }
+}

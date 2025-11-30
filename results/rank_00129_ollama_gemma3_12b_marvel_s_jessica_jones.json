@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Marvel's Jessica Jones",
+    "overview": "After a tragic ending to her short-lived super hero stint, Jessica Jones is rebuilding her personal life and career as a detective who gets pulled into cases involving people with extraordinary abilities in New York City.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "release_year": 2015,
+    "vote_count": 2059
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Marvel's Jessica Jones is a neo-noir superhero drama that explores the psychological trauma and moral ambiguities of a former superhero. The series blends elements of detective fiction with the burgeoning Marvel Cinematic Universe, focusing on Jessica Jones's struggles with PTSD, substance abuse, and the resurfacing of a dangerous figure from her past. It offers a grounded and often bleak portrayal of superhuman abilities and their consequences, prioritizing character development and psychological realism over large-scale action sequences. The show's tone is dark, gritty, and introspective, examining themes of power, manipulation, and the search for redemption.",
+        "spoiler_rich_plot_summary": "Jessica Jones, a former superhero known as Jewel, attempts to rebuild her life as a private investigator in New York City, haunted by a traumatic experience that forced her to abandon her superhero career. Her past catches up to her when she encounters a powerful and manipulative telekinetic named Kilgrave, who possesses the ability to control people's minds. Kilgrave forces Jessica to use her abilities against her will, causing immense psychological distress and forcing her to confront the events that led to her retirement. As Jessica investigates cases involving other individuals with extraordinary abilities, she uncovers a larger conspiracy connected to Kilgrave's origins and the experiments that granted him his powers. The series follows Jessica's attempts to stop Kilgrave, battling not only his physical threat but also the profound psychological damage he inflicts. The narrative explores the long-term effects of trauma and the challenges of confronting a powerful adversary who can manipulate reality itself. Ultimately, Jessica confronts Kilgrave in a final showdown, seeking to end his reign of terror and find a measure of peace, though the scars of her experiences remain.",
+        "categorized_keywords": {
+          "themes": [
+            "trauma",
+            "redemption",
+            "power-corrupts",
+            "moral-ambiguity",
+            "identity-crisis",
+            "abuse-of-power",
+            "ptsd"
+          ],
+          "plot_and_concepts": [
+            "mind-control",
+            "superhero-noir",
+            "investigation",
+            "memory-loss",
+            "conspiracy"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "gritty",
+            "introspective",
+            "noir",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "superhero-drama",
+            "detective-fiction",
+            "neo-noir",
+            "anti-hero"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "reluctant-hero",
+            "manipulative-villain",
+            "damaged-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "character-driven"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "private-investigation-office",
+            "memory-flashbacks",
+            "interrogation-room",
+            "superpower-manifestation"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "sexual-content",
+            "substance-abuse",
+            "psychological-manipulation"
+          ]
+        },
+        "keyword_sentence": "Marvel’s Jessica Jones is a dark and gritty superhero drama set in New York City, exploring themes of trauma, redemption, and moral ambiguity through the lens of a damaged protagonist battling a manipulative villain and confronting the long-term consequences of her past."
+      },
+      "duration_seconds": 72.18025159835815
+    }
+  }
+}

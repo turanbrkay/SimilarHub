@@ -1,0 +1,85 @@
+{
+  "input_data": {
+    "title": "Mike",
+    "overview": "Explore the wild, tragic and controversial life and career of heavyweight champion Mike Tyson - one of the most polarizing figures in sports culture.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2022,
+    "vote_count": 143
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Mike is a biographical docuseries that delves into the complex and often tumultuous life of former heavyweight boxing champion Mike Tyson. Through Tyson's own narration and interviews with those who have known him, the series explores his rise to fame, his personal struggles, his legal troubles, and his eventual redemption. It aims to provide a nuanced portrait of a controversial figure, examining the forces that shaped him and the consequences of his actions. The series blends archival footage with contemporary interviews, offering a raw and unflinching look at Tyson's journey.",
+        "spoiler_rich_plot_summary": "The series begins with Mike Tyson's childhood in Brooklyn, New York, detailing his difficult upbringing marked by poverty, crime, and neglect. He is discovered by boxing trainer Bobby Stewart, who recognizes his raw talent and introduces him to Cus D'Amato, a legendary boxing figure who becomes Tyson's legal guardian and mentor. Under D'Amato's guidance, Tyson rapidly ascends the ranks of professional boxing, becoming the youngest heavyweight champion in history. However, his success is intertwined with personal tragedy, including the death of D'Amato and a fraught relationship with his mother. The series chronicles Tyson's subsequent marriages, his legal battles, including the infamous rape case, and his eventual fall from grace. It explores his struggles with addiction and his attempts at rehabilitation, culminating in a period of reflection and a renewed focus on personal growth and legacy. The series concludes with Tyson's efforts to reconnect with his family and to use his platform to advocate for positive change.",
+        "categorized_keywords": {
+          "themes": [
+            "redemption",
+            "fame-and-fortune",
+            "addiction",
+            "childhood-trauma",
+            "legacy",
+            "controversy",
+            "violence",
+            "family-dynamics"
+          ],
+          "plot_and_concepts": [
+            "biography",
+            "boxing-career",
+            "legal-drama",
+            "rise-and-fall",
+            "redemption-arc"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "reflective",
+            "tragic",
+            "unflinching",
+            "introspective"
+          ],
+          "genre_and_tropes": [
+            "sports-biography",
+            "true-crime",
+            "documentary",
+            "rags-to-riches"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day",
+            "boxing-ring"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "tragic-figure",
+            "mentor-figure",
+            "fallen-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "interview-driven",
+            "chronological-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "boxing-glove",
+            "heavyweight-belt",
+            "courtroom-scene",
+            "prison-cell",
+            "interview-setting"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "sexual-content",
+            "substance-abuse",
+            "legal-proceedings"
+          ]
+        },
+        "keyword_sentence": "Mike is a somber and unflinching biographical documentary series exploring the tragic rise and eventual redemption of a controversial boxing champion, delving into themes of violence, addiction, and family dynamics against a backdrop of legal proceedings and the relentless pursuit of fame."
+      },
+      "duration_seconds": 72.14031863212585
+    }
+  }
+}

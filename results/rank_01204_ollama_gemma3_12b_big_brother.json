@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Big Brother",
+    "overview": "American version of the reality game show which follows a group of HouseGuests living together 24 hours a day in the \"Big Brother\" house, isolated from the outside world but under constant surveillance with no privacy for three months.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2000,
+    "vote_count": 202
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Big Brother is a reality competition series where a group of strangers, known as HouseGuests, live together in a custom-built house under constant video and audio surveillance. Isolated from the outside world, they compete in challenges and strategically vote each other out until only one remains to win a grand prize. The show explores social dynamics, strategic gameplay, and the psychological effects of isolation and constant observation. It blends elements of social experiment, competition, and voyeurism, offering viewers a glimpse into the complexities of human interaction under pressure. The series has become a cultural phenomenon, spawning numerous international versions and influencing other reality television formats.",
+        "spoiler_rich_plot_summary": "Each season of Big Brother begins with a group of carefully selected HouseGuests entering the Big Brother house. Initially, they are divided into smaller groups or alliances through pre-determined twists. Throughout the competition, they participate in challenges that award power, such as the Head of Household (HoH), who nominates two houseguests for eviction, and the Power of Veto (PoV), which allows a nominated houseguest to save themselves or another nominee. The houseguests then vote to evict one of the nominees. Strategic alliances form and dissolve as houseguests attempt to manipulate the game to their advantage. Backstabbing, betrayals, and shifting loyalties are common occurrences. As the game progresses, the number of houseguests dwindles, and the competition becomes increasingly intense. The final few houseguests, known as the jury, are comprised of previously evicted contestants who ultimately decide which of the finalists will win the grand prize based on their gameplay and social interactions. The winner is determined by a majority vote of the jury.",
+        "categorized_keywords": {
+          "themes": [
+            "social-experiment",
+            "strategy",
+            "competition",
+            "manipulation",
+            "isolation",
+            "voyeurism",
+            "power-dynamics"
+          ],
+          "plot_and_concepts": [
+            "reality-competition",
+            "eviction",
+            "alliance",
+            "head-of-household",
+            "power-of-vets",
+            "jury-vote"
+          ],
+          "mood_and_tone": [
+            "tense",
+            "competitive",
+            "strategic",
+            "unpredictable"
+          ],
+          "genre_and_tropes": [
+            "reality-tv",
+            "social-game",
+            "competition-show"
+          ],
+          "setting": [
+            "big-brother-house",
+            "isolated-environment"
+          ],
+          "character_archetypes": [
+            "strategist",
+            "social-butterfly",
+            "manipulator",
+            "underdog"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "elimination-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "diary-room",
+            "feeder-competition",
+            "veto-ceremony",
+            "eviction-ceremony"
+          ],
+          "maturity_and_content": [
+            "social-conflict",
+            "deception"
+          ]
+        },
+        "keyword_sentence": "Big Brother is a tense reality competition where strangers strategically navigate social dynamics and power struggles within an isolated environment, vying for a grand prize through eliminations and jury votes."
+      },
+      "duration_seconds": 64.65813565254211
+    }
+  }
+}

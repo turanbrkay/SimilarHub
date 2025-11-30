@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Wonders of the Universe",
+    "overview": "Professor Brian Cox reveals how the fundamental scientific principles and laws explain not only the story of the universe but also answer mankind's greatest questions.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2011,
+    "vote_count": 58
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Wonders of the Universe is a documentary series that explores the vastness and complexity of the cosmos through the lens of physics and astronomy. Hosted by Professor Brian Cox, the series aims to make complex scientific concepts accessible to a broad audience, connecting the grand scale of the universe to fundamental questions about humanity's place within it. It blends stunning visuals with clear explanations, fostering a sense of awe and wonder while illuminating the underlying scientific principles that govern the universe. The series emphasizes the interconnectedness of seemingly disparate phenomena, demonstrating how physics can explain everything from the formation of galaxies to the nature of time itself. Ultimately, it seeks to inspire curiosity and a deeper understanding of the universe we inhabit.",
+        "spoiler_rich_plot_summary": "The series unfolds as a journey through the universe, beginning with an examination of the Big Bang and the formation of the early universe. Subsequent episodes delve into the lives of stars, the formation of galaxies, and the search for exoplanets. Cox frequently uses analogies and thought experiments to illustrate complex concepts, such as the nature of black holes and the expansion of space. The series explores the history of scientific discovery, highlighting the contributions of key figures and the evolution of our understanding of the cosmos. Throughout the journey, the series emphasizes the scale of the universe and humanity's relatively small place within it, prompting reflection on our existence and the search for meaning. The series concludes by contemplating the future of the universe and the potential for life beyond Earth, leaving viewers with a sense of both wonder and humility.",
+        "categorized_keywords": {
+          "themes": [
+            "cosmology",
+            "scientific-discovery",
+            "human-existence",
+            "scale-of-universe",
+            "exploration",
+            "knowledge-seeking"
+          ],
+          "plot_and_concepts": [
+            "big-bang-theory",
+            "black-holes",
+            "exoplanets",
+            "time-dilation",
+            "relativity",
+            "quantum-mechanics"
+          ],
+          "mood_and_tone": [
+            "awe-inspiring",
+            "educational",
+            "reflective",
+            "intellectual",
+            "inspiring"
+          ],
+          "genre_and_tropes": [
+            "science-documentary",
+            "educational-programming",
+            "popular-science"
+          ],
+          "setting": [
+            "universe",
+            "space",
+            "earth",
+            "galaxies"
+          ],
+          "character_archetypes": [
+            "scientist",
+            "educator",
+            "explorer"
+          ],
+          "narrative_style": [
+            "chronological-narrative",
+            "expository-style"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "science-enthusiasts"
+          ],
+          "detail_plot": [
+            "hubble-telescope",
+            "milky-way-galaxy",
+            "supernova",
+            "event-horizon"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Wonders of the Universe is an educational science documentary that explores the vastness of space and the fundamental laws of physics, inspiring awe and reflection on humanity's place within the cosmos."
+      },
+      "duration_seconds": 61.84526300430298
+    }
+  }
+}

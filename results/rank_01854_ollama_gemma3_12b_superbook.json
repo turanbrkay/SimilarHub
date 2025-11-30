@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Superbook",
+    "overview": "Chris Quantum is your typical Middle School student -- except if you take into account one of his best friends is a robot named Gizmo. Add his best friend Joy Pepper into the mix and you have a recipe for adventure. The adventures begin for this trio when a mysterious device appears and takes them on journeys throughout the Bible. Travel back in time and get ready for the journey of a lifetime!",
+    "genres": [
+      "Animation",
+      "Kids",
+      "Family"
+    ],
+    "release_year": 2011,
+    "vote_count": 108
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Superbook is an animated children's series that blends biblical storytelling with contemporary adventure. The show follows Chris, Gizmo, and Joy as they travel through time to witness key events in the Bible, learning valuable lessons about faith, friendship, and courage. Superbook aims to make biblical narratives accessible and engaging for young audiences through vibrant animation and relatable characters. The series emphasizes positive values and promotes a sense of wonder and exploration.",
+        "spoiler_rich_plot_summary": "The series begins with Chris Quantum, a middle school student, discovering a mysterious device called the Superbook alongside his friends, Gizmo, a robot, and Joy Pepper. The Superbook transports them back in time to witness pivotal moments in the Bible, starting with the story of Noah and the Ark. Throughout their journeys, they encounter various biblical figures and experience firsthand the challenges and triumphs of those stories. They learn about Abraham's faith, Daniel's courage in the lion's den, and the teachings of Jesus. The trio consistently faces obstacles and learns important lessons about trust, forgiveness, and the power of faith, ultimately returning to their own time with a deeper understanding of the Bible and its enduring messages. While the specific adventures vary, the overarching narrative focuses on the importance of faith and the enduring power of biblical stories.",
+        "categorized_keywords": {
+          "themes": [
+            "faith",
+            "friendship",
+            "courage",
+            "forgiveness",
+            "trust",
+            "redemption",
+            "biblical-morality"
+          ],
+          "plot_and_concepts": [
+            "time-travel",
+            "biblical-narrative",
+            "moral-lessons",
+            "coming-of-age"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "optimistic",
+            "educational",
+            "lighthearted"
+          ],
+          "genre_and_tropes": [
+            "childrens-animation",
+            "family-entertainment",
+            "adventure-series"
+          ],
+          "setting": [
+            "ancient-world",
+            "biblical-times",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "loyal-friend"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-adventure"
+          ],
+          "target_audience": [
+            "children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "superbook-device",
+            "gizmo-robot",
+            "biblical-figures"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Superbook is a lighthearted children's animation series that blends time-travel adventures with biblical narratives, teaching valuable lessons about faith, friendship, and courage for a family audience."
+      },
+      "duration_seconds": 59.681443214416504
+    }
+  }
+}

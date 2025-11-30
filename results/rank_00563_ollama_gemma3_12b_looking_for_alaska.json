@@ -1,0 +1,19 @@
+{
+  "input_data": {
+    "title": "Looking for Alaska",
+    "overview": "Teenager Miles enrolls in boarding school to try to gain a deeper perspective on life. After an unexpected tragedy, Miles and his friends try to make sense of what they have been through.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2019,
+    "vote_count": 534
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "error": "Ollama API hatası: [WinError 10054] An existing connection was forcibly closed by the remote host."
+      },
+      "duration_seconds": 36.68052339553833
+    }
+  }
+}

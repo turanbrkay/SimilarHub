@@ -1,0 +1,69 @@
+{
+  "input_data": {
+    "title": "Family Reunion",
+    "overview": "Family Reunion follows a family of six who travel from Seattle, Washington to Columbus, Georgia for the McKellan Family Reunion and decide to stay to be closer to their family.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2019,
+    "vote_count": 89
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Family Reunion is a sitcom centered on a family's decision to relocate across the country to be closer to their extended relatives. The series explores themes of family connection, cultural differences, and the challenges of adapting to a new environment, all while maintaining a lighthearted and comedic tone. It offers a feel-good viewing experience, emphasizing the importance of kinship and community. The show's premise is simple, but its appeal lies in its relatable characters and heartwarming portrayal of family dynamics.",
+        "spoiler_rich_plot_summary": "The series begins with the McCauley family, consisting of parents Zeke and Mozelle, and their four children, deciding to leave their life in Seattle, Washington, and travel to Columbus, Georgia, for a family reunion. Initially intending to return to Seattle, they find themselves charmed by the warmth and support of their extended family in the South. They decide to permanently relocate, leaving behind their familiar surroundings and careers. The series follows their adjustment to a new home, new jobs, and a different way of life, navigating cultural differences and generational gaps within the family. Throughout the series, the family members face various challenges, from adjusting to Southern cuisine to understanding local customs, but they always rely on each other and their extended family for support. The show highlights the joys and struggles of building a new life while maintaining strong family bonds.",
+        "categorized_keywords": {
+          "themes": [
+            "family-connection",
+            "cultural-differences",
+            "community",
+            "relocation",
+            "generational-gaps"
+          ],
+          "plot_and_concepts": [
+            "fish-out-of-water",
+            "family-sitcom",
+            "relocation-story"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "heartwarming",
+            "feel-good",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "family-comedy",
+            "sitcom",
+            "small-town-life"
+          ],
+          "setting": [
+            "southern-united-states",
+            "small-town",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "loving-parents",
+            "teenagers",
+            "extended-family"
+          ],
+          "narrative_style": [
+            "episodic-storytelling",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "southern-cuisine",
+            "family-reunion",
+            "new-home"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Family Reunion is a lighthearted family comedy that explores the heartwarming journey of a family relocating to the Southern United States to embrace a new home and strengthen their connection with extended relatives."
+      },
+      "duration_seconds": 57.59832048416138
+    }
+  }
+}

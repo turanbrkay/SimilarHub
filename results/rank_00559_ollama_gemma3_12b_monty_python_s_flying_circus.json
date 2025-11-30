@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "Monty Python's Flying Circus",
+    "overview": "A British sketch comedy series with the shows being composed of surreality, risqué or innuendo-laden humour, sight gags and observational sketches without punchlines.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1969,
+    "vote_count": 538
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Monty Python's Flying Circus is a groundbreaking British sketch comedy series known for its absurdist humor, surrealism, and rejection of traditional comedic structures. The show eschews conventional punchlines and narrative arcs, instead presenting a rapid succession of bizarre and often nonsensical sketches. It's a highly influential work that redefined comedy, blending satire, slapstick, and intellectual wit to create a uniquely chaotic and hilarious experience. The series' impact on subsequent comedy is undeniable, inspiring countless imitators and shaping the landscape of comedic performance.",
+        "spoiler_rich_plot_summary": "Monty Python's Flying Circus doesn't follow a traditional narrative arc. Each episode is a collection of loosely connected sketches, often transitioning abruptly and unexpectedly. Recurring segments, such as the 'Parliament sketch' and the 'Mr. Creosote' sequence, become familiar touchstones within the show's overall absurdity. The series frequently satirizes British institutions, from education and government to the arts and media, using exaggerated characters and situations to expose societal norms and conventions. While there's no overarching plot, the cumulative effect of the sketches creates a sense of escalating absurdity and a commentary on the randomness of life. The show's final episodes see a continued exploration of surreal and satirical themes, maintaining the series' signature style until its conclusion.",
+        "categorized_keywords": {
+          "themes": [
+            "absurdism",
+            "satire",
+            "british-humor",
+            "anti-establishment",
+            "surrealism",
+            "parody"
+          ],
+          "plot_and_concepts": [
+            "sketch-comedy",
+            "non-linear-narrative",
+            "recurring-segments",
+            "meta-humor"
+          ],
+          "mood_and_tone": [
+            "whimsical",
+            "darkly-comic",
+            "irreverent",
+            "nonsensical"
+          ],
+          "genre_and_tropes": [
+            "sketch-comedy",
+            "surreal-comedy",
+            "british-sitcom"
+          ],
+          "setting": [
+            "modern-day-britain",
+            "theatre-stage"
+          ],
+          "character_archetypes": [
+            "eccentric-characters",
+            "satirical-figures"
+          ],
+          "narrative_style": [
+            "episodic",
+            "non-linear-storytelling"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "giant-sandwich",
+            "flying-circus",
+            "department-store-sequence"
+          ],
+          "maturity_and_content": [
+            "crude-humor",
+            "sexual-innuendo"
+          ]
+        },
+        "keyword_sentence": "Monty Python's Flying Circus is a groundbreaking British sketch comedy series celebrated for its absurdism, satire, and irreverent humor, which deconstructs traditional comedic structures and offers a uniquely nonsensical and darkly comic experience."
+      },
+      "duration_seconds": 54.006444454193115
+    }
+  }
+}

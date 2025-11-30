@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Lisey's Story",
+    "overview": "This terrifying thriller follows widow Lisey Landon as a series of disturbing events revives memories of her marriage to author Scott Landon and the darkness that plagued him.",
+    "genres": [
+      "Mystery",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2021,
+    "vote_count": 89
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Lisey's Story is a psychological thriller exploring grief, memory, and the complexities of a long-term relationship. The series delves into the aftermath of a writer's death, as his widow confronts unsettling truths about their marriage and the secrets he kept hidden. It blends elements of mystery, drama, and subtle science fiction, creating a suspenseful and emotionally charged narrative that examines the fragility of the human mind and the enduring power of love and loss. The series is characterized by a slow burn pace and a focus on character development, inviting viewers to unravel the mysteries alongside the protagonist.",
+        "spoiler_rich_plot_summary": "The story begins with Lisey Landon grappling with the recent death of her husband, Scott, a celebrated author. As she sorts through his belongings, she discovers a series of increasingly bizarre and disturbing clues – a hidden journal, a series of puzzles, and a strange, recurring symbol. These discoveries force Lisey to confront the reality of Scott's past, revealing a hidden world he called 'Boolhunt,' a place of immense creativity and profound danger. Scott had retreated into Boolhunt to escape personal demons and to protect Lisey from its influence, but his death has unleashed its power, and a sinister figure known as the Gentleman emerges to claim what he believes is rightfully his. Lisey must navigate this perilous landscape, piecing together fragments of Scott's life and confronting her own repressed memories, all while being pursued by the Gentleman and the forces of Boolhunt. The series culminates in a confrontation where Lisey must choose between preserving her own sanity and embracing the truth about her husband and the world he created, ultimately facing a profound and unsettling revelation about their relationship and the nature of reality itself.",
+        "categorized_keywords": {
+          "themes": [
+            "grief",
+            "memory",
+            "secrets",
+            "loss",
+            "relationships",
+            "truth",
+            "reality",
+            "identity"
+          ],
+          "plot_and_concepts": [
+            "mystery",
+            "puzzle",
+            "alternate-reality",
+            "hidden-world",
+            "psychological-thriller",
+            "author-protagonist"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "eerie",
+            "melancholy",
+            "unsettling"
+          ],
+          "genre_and_tropes": [
+            "psychological-horror",
+            "slow-burn",
+            "domestic-thriller",
+            "mystery-box"
+          ],
+          "setting": [
+            "new-england",
+            "modern-day",
+            "rural-setting"
+          ],
+          "character_archetypes": [
+            "widow",
+            "eccentric-author",
+            "antagonist-figure"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "hidden-journal",
+            "recurring-symbol",
+            "manuscript",
+            "gentleman-figure"
+          ],
+          "maturity_and_content": [
+            "psychological-distress",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "Lisey's Story is a suspenseful psychological thriller set in a rural New England setting, exploring themes of grief, memory, and the unsettling secrets within a long-term relationship."
+      },
+      "duration_seconds": 70.7039942741394
+    }
+  }
+}

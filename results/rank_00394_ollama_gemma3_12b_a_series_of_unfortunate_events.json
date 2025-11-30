@@ -1,0 +1,86 @@
+{
+  "input_data": {
+    "title": "A Series of Unfortunate Events",
+    "overview": "The orphaned Baudelaire children face trials, tribulations and the evil Count Olaf, all in their quest to uncover the secret of their parents' death.",
+    "genres": [
+      "Action & Adventure",
+      "Family",
+      "Comedy",
+      "Mystery",
+      "Drama"
+    ],
+    "release_year": 2017,
+    "vote_count": 761
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "A Series of Unfortunate Events is a darkly comedic and macabre series following the Baudelaire children as they navigate a world filled with misfortune and the relentless pursuit of their nefarious guardian, Count Olaf. The show blends elements of mystery, adventure, and family drama, creating a unique and unsettling tone that appeals to both children and adults. It explores themes of resilience, loss, and the importance of found family, all while maintaining a cynical and satirical perspective on societal institutions and human nature. The series is characterized by its elaborate production design, quirky characters, and a pervasive sense of impending doom.",
+        "spoiler_rich_plot_summary": "The series begins with the tragic deaths of the Baudelaire parents, leaving Violet, Klaus, and Sunny in the care of their distant relative, Count Olaf. Olaf, a struggling actor, is only interested in inheriting the children's vast fortune and subjects them to a series of elaborate and increasingly dangerous schemes to gain control. The children are repeatedly moved from one unsuitable guardian to another, constantly evading Olaf's grasp with the help of a few loyal allies, including Mr. Poe, a banker, and the mysterious V.F.D. members. As the children grow older, they uncover clues about their parents' involvement with V.F.D. and the true nature of the organization's conflict with Olaf's associates. They learn that their parents were actively investigating a dangerous secret, and that Olaf is merely a pawn in a larger, more sinister game. The Baudelaire children continue to face adversity, uncovering more about their parents' past and the conspiracy surrounding their deaths, while striving to protect themselves and each other.",
+        "categorized_keywords": {
+          "themes": [
+            "loss",
+            "resilience",
+            "found-family",
+            "conspiracy",
+            "social-injustice",
+            "grief",
+            "betrayal"
+          ],
+          "plot_and_concepts": [
+            "orphan-narrative",
+            "heist",
+            "mystery",
+            "conspiracy-thriller",
+            "inheritance-plot"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "macabre",
+            "satirical",
+            "melancholy",
+            "gothic"
+          ],
+          "genre_and_tropes": [
+            "childrens-adventure",
+            "gothic-fiction",
+            "mystery-thriller",
+            "found-family-trope"
+          ],
+          "setting": [
+            "victorian-era",
+            "gothic-architecture",
+            "alternate-timeline"
+          ],
+          "character_archetypes": [
+            "villainous-guardian",
+            "resourceful-child",
+            "unreliable-adult",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-narrative"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "count-olafs-disguises",
+            "baudelaire-fortune",
+            "vfd-organization",
+            "poe-banker",
+            "atre"
+          ],
+          "maturity_and_content": [
+            "dark-humor",
+            "mild-violence"
+          ]
+        },
+        "keyword_sentence": "A Series of Unfortunate Events is a darkly comic and macabre children's adventure series, steeped in gothic atmosphere and following resourceful orphans as they navigate a world of conspiracy and betrayal while searching for a found family."
+      },
+      "duration_seconds": 81.57136821746826
+    }
+  }
+}

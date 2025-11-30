@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Degrassi",
+    "overview": "The life of a group of adolescents going through the trials and tribulations of teendom at Degrassi Community School.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2001,
+    "vote_count": 85
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Degrassi is a long-running Canadian teen drama series that chronicles the lives of a group of high school students as they navigate the complexities of adolescence. The show explores themes of friendship, family, identity, and social issues, often tackling sensitive topics with a realistic and unflinching approach. Known for its relatable characters and willingness to address contemporary challenges, Degrassi offers a coming-of-age narrative that resonates with a broad audience. The series blends humor and drama, creating a compelling and often poignant portrayal of teenage life.",
+        "spoiler_rich_plot_summary": "The series begins with a new generation of students entering Degrassi Community School, immediately facing typical teenage concerns like fitting in, romantic relationships, and academic pressures. Early seasons focus on establishing the core friend groups and introducing their individual struggles, from dealing with parental expectations to exploring sexuality and identity. As the series progresses, storylines become increasingly complex, tackling issues such as teen pregnancy, substance abuse, violence, and mental health. Characters experience significant personal growth and face challenging circumstances that test their relationships and values. Throughout the various iterations of the show, characters evolve, new students are introduced, and long-standing relationships are tested, ultimately reflecting the ever-changing landscape of adolescence. While some characters achieve personal triumphs, others grapple with difficult consequences, demonstrating the unpredictable nature of life and the importance of resilience.",
+        "categorized_keywords": {
+          "themes": [
+            "coming-of-age",
+            "friendship",
+            "family-dynamics",
+            "identity-quest",
+            "social-issues",
+            "mental-health",
+            "teenage-relationships"
+          ],
+          "plot_and_concepts": [
+            "teen-drama",
+            "serialized-story",
+            "ensemble-cast",
+            "school-setting"
+          ],
+          "mood_and_tone": [
+            "realistic",
+            "emotional",
+            "sensitive",
+            "melodramatic"
+          ],
+          "genre_and_tropes": [
+            "teen-drama",
+            "coming-of-age-story",
+            "high-school-setting"
+          ],
+          "setting": [
+            "canada",
+            "modern-day",
+            "school-setting"
+          ],
+          "character_archetypes": [
+            "teenager",
+            "student",
+            "friend"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "teenagers",
+            "young-adults"
+          ],
+          "detail_plot": [
+            "school-hallways",
+            "lockers",
+            "classrooms",
+            "basketball-court"
+          ],
+          "maturity_and_content": [
+            "sexual-content",
+            "substance-abuse",
+            "violence"
+          ]
+        },
+        "keyword_sentence": "Degrassi is a realistic and emotional teen drama series set in modern-day Canada, exploring themes of friendship, identity, and the challenges of adolescence through an ensemble cast of relatable characters."
+      },
+      "duration_seconds": 62.3208167552948
+    }
+  }
+}

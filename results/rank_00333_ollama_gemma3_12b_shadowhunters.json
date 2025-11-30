@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Shadowhunters",
+    "overview": "When Clary Fray's mother has disappeared, Clary joins a band of Shadowhunters; demon killing hunters, and gets caught up in a plan to save the world.",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2016,
+    "vote_count": 902
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Shadowhunters is a young adult fantasy series blending action, drama, and supernatural elements. The narrative follows Clary Fray as she discovers her heritage as a Shadowhunter, a demon hunter, and becomes embroiled in a world of angels, demons, and magical artifacts. The series explores themes of family, identity, and sacrifice, with a focus on found-family dynamics and the struggle between good and evil. It offers a visually engaging experience with action-packed sequences and a romantic subplot woven into the larger conflict.",
+        "spoiler_rich_plot_summary": "The series begins with Clary Fray discovering she is a Shadowhunter, a human-angel hybrid tasked with protecting the human world from demons. Her mother’s disappearance and the revelation of her own Shadowhunter heritage thrust her into a hidden world she never knew existed. She joins forces with Jace, Alec, and Isabelle, members of the Shadowhunters, and together they investigate a plot to release a powerful demon. As the series progresses, Clary learns more about her family history, uncovering secrets that challenge her understanding of her identity and the origins of the Shadow World. The group faces betrayals, losses, and difficult choices as they battle various threats, including rogue Shadowhunters and powerful demons seeking to disrupt the balance between the human and Shadow Worlds. Throughout the series, romantic relationships develop and are tested by the dangers they face, and the characters grapple with their personal demons and the weight of their responsibilities. The overarching conflict revolves around a prophecy and a looming darkness that threatens to consume both worlds, forcing the Shadowhunters to confront their past and fight for their future.",
+        "categorized_keywords": {
+          "themes": [
+            "family-loyalty",
+            "identity-quest",
+            "good-vs-evil",
+            "sacrifice",
+            "found-family",
+            "destiny"
+          ],
+          "plot_and_concepts": [
+            "demon-hunting",
+            "prophecy",
+            "angelic-conflict",
+            "hidden-world",
+            "magical-artifacts"
+          ],
+          "mood_and_tone": [
+            "action-packed",
+            "dark-fantasy",
+            "romantic",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "urban-fantasy",
+            "young-adult",
+            "supernatural-romance",
+            "chosen-one"
+          ],
+          "setting": [
+            "new-york-city",
+            "shadow-world",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "fallen-angel",
+            "morally-gray-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult"
+          ],
+          "detail_plot": [
+            "rune-magic",
+            "nephilim",
+            "demon-portal",
+            "shadowhunter-institute"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "supernatural-horror"
+          ]
+        },
+        "keyword_sentence": "Shadowhunters is a young adult urban fantasy series centered on a hidden world of demon hunters, magic, and prophecy, exploring themes of family and identity amidst action-packed battles and romantic relationships."
+      },
+      "duration_seconds": 67.09349584579468
+    }
+  }
+}

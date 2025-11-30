@@ -1,0 +1,70 @@
+{
+  "input_data": {
+    "title": "Fawlty Towers",
+    "overview": "Owner Basil Fawlty, his wife Sybil, a chambermaid Polly, and Spanish waiter Manuel attempt to run their hotel amidst farcical situations and an array of demanding guests.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1975,
+    "vote_count": 605
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Fawlty Towers is a British sitcom renowned for its chaotic humor and cringe comedy. The series follows the hapless Basil Fawlty, a hotel owner desperately trying to maintain a semblance of professionalism while constantly undermined by his domineering wife, incompetent staff, and a relentless stream of eccentric guests. The show's brilliance lies in its ability to find humor in awkward social interactions and the frustrations of service industry work, creating a consistently hilarious and uncomfortable viewing experience. Its enduring popularity stems from its timeless depiction of human fallibility and the absurdity of everyday life.",
+        "spoiler_rich_plot_summary": "The series revolves around Basil Fawlty's increasingly desperate attempts to manage the Fawlty Towers hotel. Each episode typically begins with Basil envisioning a successful and dignified operation, only to be immediately derailed by a series of mishaps, misunderstandings, and the often-demanding behavior of the hotel's guests. Sybil, his wife, frequently exacerbates the situation with her own strong personality and business acumen, often clashing with Basil's attempts at control. Manuel, the Spanish waiter, consistently provides a source of comedic chaos with his language barriers and cultural misunderstandings. Recurring guests and local personalities contribute to the ongoing cycle of frustration and absurdity. While the series doesn't follow a grand overarching plot, each episode builds upon the established dynamic, showcasing Basil's gradual descent into exasperation and the hotel's perpetual state of disarray. The final episode, 'The Hospitality Inspectors,' culminates in a particularly disastrous visit from hotel inspectors, revealing the full extent of the hotel's failings and leaving Basil in a state of utter collapse.",
+        "categorized_keywords": {
+          "themes": [
+            "service-industry",
+            "social-awkwardness",
+            "class-conflict",
+            "marital-discord",
+            "cultural-misunderstanding"
+          ],
+          "plot_and_concepts": [
+            "cringe-comedy",
+            "farce",
+            "fish-out-of-water",
+            "hotel-setting"
+          ],
+          "mood_and_tone": [
+            "absurdist",
+            "chaotic",
+            "humorous",
+            "uncomfortable"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "british-humor",
+            "physical-comedy"
+          ],
+          "setting": [
+            "england",
+            "hotel-resort"
+          ],
+          "character_archetypes": [
+            "incompetent-protagonist",
+            "domineering-wife",
+            "hapless-employee"
+          ],
+          "narrative_style": [
+            "episodic",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "hotel-lobby",
+            "restaurant-dining",
+            "spanish-cuisine",
+            "hotel-registration"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Fawlty Towers is a chaotic British sitcom that finds humor in the absurdities of the service industry and the frustrations of a hapless hotel owner struggling to maintain order amidst a cast of eccentric characters."
+      },
+      "duration_seconds": 78.71734666824341
+    }
+  }
+}

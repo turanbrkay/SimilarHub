@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Tess of the D'Urbervilles",
+    "overview": "The story of Tess Durbeyfield, a low-born country girl whose family find they have noble connections.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2008,
+    "vote_count": 46
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Tess of the D'Urbervilles is a period drama exploring themes of social class, fate, and female agency in Victorian England. The series follows Tess Durbeyfield as she navigates a world of societal expectations and personal tragedy, grappling with her family's rediscovered lineage and the consequences of a fateful encounter. It's a poignant and often heartbreaking portrayal of a young woman's struggle for dignity and happiness within a rigid and unforgiving social structure, offering a critical examination of Victorian morality and the vulnerability of those marginalized by circumstance. The series blends elements of romance and tragedy, creating a deeply emotional and thought-provoking viewing experience.",
+        "spoiler_rich_plot_summary": "The story begins with the Durbeyfield family discovering their connection to the noble D'Urberville lineage, prompting them to seek recognition and financial assistance. Tess, a young and innocent farm girl, is sent to claim kinship with the wealthy Sir John D'Urberville. There, she is manipulated and seduced by Alec d'Urberville, Sir John’s son, leading to a pregnancy and the birth of a child who tragically dies. Shunned by her family and burdened by guilt, Tess attempts to forge a new life, finding temporary solace and a genuine connection with a kind and honest farmer, Angel Clare. However, the shadow of her past and Alec’s relentless pursuit threaten to destroy her newfound happiness. Despite Tess's attempts to confess her past to Angel, the revelation proves insurmountable, leading to a devastating separation and a series of heartbreaking events that ultimately shape her tragic fate. Alec continues to pursue Tess, and her attempts to escape his influence lead to a final, devastating choice that seals her destiny.",
+        "categorized_keywords": {
+          "themes": [
+            "social-class",
+            "female-agency",
+            "fate",
+            "redemption",
+            "guilt",
+            "innocence",
+            "moral-corruption"
+          ],
+          "plot_and_concepts": [
+            "seduction",
+            "lost-innocence",
+            "family-secrets",
+            "social-mobility",
+            "moral-decline"
+          ],
+          "mood_and_tone": [
+            "melancholy",
+            "tragic",
+            "poignant",
+            "somber",
+            "romantic"
+          ],
+          "genre_and_tropes": [
+            "period-drama",
+            "romantic-tragedy",
+            "gothic-romance"
+          ],
+          "setting": [
+            "victorian-england",
+            "rural-setting",
+            "countryside"
+          ],
+          "character_archetypes": [
+            "innocent-victim",
+            "manipulative-villain",
+            "noble-hero",
+            "tragic-heroine"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "character-driven"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "durbeyfield-farm",
+            "uberville-manor",
+            "carriage-ride",
+            "harvest-festival"
+          ],
+          "maturity_and_content": [
+            "sexual-content",
+            "emotional-abuse"
+          ]
+        },
+        "keyword_sentence": "Tess of the D'Urbervilles is a poignant and tragic period drama exploring themes of social class and lost innocence within the somber landscape of Victorian England."
+      },
+      "duration_seconds": 64.63668465614319
+    }
+  }
+}

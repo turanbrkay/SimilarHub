@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "Almost Family",
+    "overview": "An only child finds her life turned upside down when her father reveals that, over the course of his prize-winning career as a pioneering fertility doctor, he used his own sperm to conceive upwards of a hundred children, including two new sisters.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2019,
+    "vote_count": 35
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Almost Family is a drama series exploring the complex and unexpected consequences of a fertility doctor's secret past. The series centers on a woman who discovers she has numerous siblings, all conceived using the doctor's sperm. It delves into themes of family, identity, and belonging, examining the emotional turmoil and legal ramifications that arise when a large group of individuals learns they share a common, and previously unknown, parent. The show blends elements of family drama with legal and ethical considerations, offering a poignant look at the search for connection and the challenges of redefining what it means to be a family.",
+        "spoiler_rich_plot_summary": "The series begins with Edie Sheeran, a successful architect, whose life is upended when her father, Dr. Meyer Shephard, a renowned fertility pioneer, reveals a shocking secret: he used his own sperm to conceive over a hundred children during his career. This revelation leads Edie to discover she has two new sisters, Chloe and Henrietta, who are also products of Dr. Shephard’s actions. As the siblings navigate their newfound relationship, they uncover more about their father’s past and the legal battles surrounding his methods. The series follows their individual journeys as they grapple with their identities, their shared history, and the ethical implications of their father’s actions. Legal proceedings ensue, challenging the validity of the fertility treatments and the rights of the children conceived through them. Relationships are tested, secrets are revealed, and the siblings must confront the complexities of their shared heritage while forging their own paths.",
+        "categorized_keywords": {
+          "themes": [
+            "family-secrets",
+            "identity-quest",
+            "belonging",
+            "ethics",
+            "legal-battles",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "fertility-treatment",
+            "secret-child",
+            "found-family",
+            "legal-drama"
+          ],
+          "mood_and_tone": [
+            "emotional",
+            "melancholy",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "family-drama",
+            "legal-thriller",
+            "mystery"
+          ],
+          "setting": [
+            "modern-day",
+            "california"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "complex-father",
+            "searching-sibling"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "fertility-clinic",
+            "courtroom",
+            "dna-test",
+            "medical-records"
+          ],
+          "maturity_and_content": [
+            "emotional-trauma"
+          ]
+        },
+        "keyword_sentence": "Almost Family is an emotional drama series exploring the complexities of family, identity, and belonging as a woman discovers she has numerous siblings conceived through a fertility doctor’s secret past."
+      },
+      "duration_seconds": 54.44535827636719
+    }
+  }
+}

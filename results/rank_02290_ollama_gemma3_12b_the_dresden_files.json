@@ -1,0 +1,85 @@
+{
+  "input_data": {
+    "title": "The Dresden Files",
+    "overview": "A Chicago-based wizard works as a private investigator.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Mystery",
+      "Drama",
+      "Action & Adventure"
+    ],
+    "release_year": 2007,
+    "vote_count": 78
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Dresden Files blends urban fantasy, mystery, and police procedural elements, following Harry Dresden, a wizard operating as a private investigator in modern-day Chicago. The series explores themes of responsibility, morality, and the clash between the supernatural and mundane worlds. Dresden navigates a complex web of magical politics and dangerous cases, often blurring the lines between hero and anti-hero. The tone is generally dark and gritty, punctuated by moments of humor and action, creating a compelling narrative that appeals to fans of both fantasy and crime dramas.",
+        "spoiler_rich_plot_summary": "The series begins with Harry Dresden, a wizard and private investigator, embroiled in a murder case that draws him into the dangerous world of Chicago's supernatural community. He quickly finds himself caught between warring factions of vampires, fae, and other magical beings, while also dealing with the mundane challenges of running a detective agency. As Harry investigates increasingly complex cases, he uncovers a larger conspiracy involving a powerful and ancient evil. He forms alliances with various supernatural allies, including Bob, his familiar, and Karrin Murphy, a Chicago police detective. Throughout the series, Harry confronts personal demons and struggles to balance his responsibilities as a wizard with his desire for a normal life. He faces betrayals, losses, and difficult choices that test his moral compass and force him to confront his own limitations. The overarching narrative involves a growing threat to both the magical and human worlds, culminating in a confrontation with a formidable antagonist who seeks to exploit the chaos for their own nefarious purposes. Harry's journey is one of constant evolution, as he learns to harness his powers and embrace his role as a protector of Chicago.",
+        "categorized_keywords": {
+          "themes": [
+            "good-vs-evil",
+            "responsibility",
+            "morality",
+            "identity-quest",
+            "found-family",
+            "justice",
+            "corruption"
+          ],
+          "plot_and_concepts": [
+            "urban-fantasy",
+            "private-investigation",
+            "magic-system",
+            "supernatural-politics",
+            "monster-of-the-week",
+            "conspiracy"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "gritty",
+            "action-packed",
+            "humorous",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "urban-fantasy",
+            "magic-user",
+            "monster-hunting"
+          ],
+          "setting": [
+            "chicago",
+            "modern-day",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "wizard",
+            "private-eye",
+            "anti-hero",
+            "familiar",
+            "police-detective"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "magic-wand",
+            "detective-agency",
+            "chicago-skyline",
+            "supernatural-creatures"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "magic-related-themes"
+          ]
+        },
+        "keyword_sentence": "Blending crime procedural elements with urban fantasy, The Dresden Files follows a wizard-turned-private-eye in modern-day Chicago, exploring themes of responsibility and morality within a dark and action-packed supernatural world."
+      },
+      "duration_seconds": 66.63601756095886
+    }
+  }
+}

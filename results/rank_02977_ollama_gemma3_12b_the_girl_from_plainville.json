@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "The Girl from Plainville",
+    "overview": "The controversial case of Michelle Carter, who was convicted in 2017 of involuntary manslaughter for encouraging the suicide of her then-boyfriend via texts and phone calls.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "release_year": 2022,
+    "vote_count": 48
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Girl from Plainville is a limited series drama that explores the complex and unsettling case of Michelle Carter, a young woman convicted of involuntary manslaughter for her role in her boyfriend's suicide. The series delves into the intricacies of teenage relationships, mental health struggles, and the legal ramifications of digital communication. It examines the ethical and societal implications of online interactions and the responsibility individuals bear for their actions, even when exerted through seemingly intangible means. The series adopts a somber and introspective tone, prompting viewers to confront uncomfortable questions about culpability and the impact of technology on human lives.",
+        "spoiler_rich_plot_summary": "The series begins by introducing Michelle Carter and Conrad Roy, two teenagers grappling with depression and loneliness in Plainville, Massachusetts. Conrad is undergoing treatment for suicidal ideation, and Michelle, while seemingly outwardly normal, harbors her own insecurities and engages in manipulative behavior. As their relationship develops through text messages and phone calls, Conrad's struggles intensify, and Michelle's communication becomes increasingly callous and encouraging of his suicidal thoughts. Following Conrad's death by suicide, an investigation is launched, and Michelle's role in his final moments is revealed through a trove of text messages. The series follows the legal proceedings against Michelle, showcasing the arguments presented by both the prosecution and the defense, and ultimately depicting her conviction and sentencing. The narrative explores the perspectives of the families involved, highlighting the devastating impact of Conrad's death and the legal fallout on Michelle and her loved ones. The series concludes by reflecting on the broader implications of the case and the challenges of navigating mental health and digital communication in the modern era.",
+        "categorized_keywords": {
+          "themes": [
+            "mental-health",
+            "teenage-relationships",
+            "social-responsibility",
+            "digital-communication",
+            "grief",
+            "legal-ethics",
+            "manipulation",
+            "cyberbullying"
+          ],
+          "plot_and_concepts": [
+            "true-crime",
+            "courtroom-drama",
+            "text-message-communication",
+            "involuntary-manslaughter",
+            "suicide-prevention"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "introspective",
+            "unsettling",
+            "melancholy"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "legal-procedural",
+            "true-crime-genre"
+          ],
+          "setting": [
+            "massachusetts",
+            "suburban-setting",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "manipulative-teenager",
+            "vulnerable-teenager",
+            "grieving-family",
+            "legal-prosecutor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "true-story-adaptation"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "text-messages",
+            "courtroom",
+            "police-investigation",
+            "therapy-session"
+          ],
+          "maturity_and_content": [
+            "suicide-themes",
+            "graphic-violence",
+            "emotional-distress"
+          ]
+        },
+        "keyword_sentence": "The Girl from Plainville is a somber crime drama that explores the complex and unsettling consequences of digital communication and the legal ramifications of manipulating a vulnerable teenager struggling with mental health in a modern-day Massachusetts suburb."
+      },
+      "duration_seconds": 61.92920541763306
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Jeremiah",
+    "overview": "Jeremiah is an American television series starring Luke Perry and Malcolm-Jamal Warner that ran on the Showtime network from 2002 to 2004. The series takes place in a post-apocalyptic future where most of the adult population has been wiped out by a deadly virus.",
+    "genres": [
+      "Drama",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2002,
+    "vote_count": 58
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Jeremiah is a post-apocalyptic drama series exploring themes of survival, morality, and the rebuilding of society after a devastating pandemic. The show follows Jeremiah and his friends as they navigate a world devoid of most adults, facing dangers both human and environmental while grappling with the responsibility of shaping a new future. It blends action and adventure elements with a focus on character development and the complexities of leadership in extraordinary circumstances. The series examines the fragility of civilization and the enduring strength of the human spirit.",
+        "spoiler_rich_plot_summary": "The series begins with Jeremiah and his friends, including Peter and Rachel, awakening to a world ravaged by a virus that has eliminated most adults. Initially, they revel in the freedom of a world without rules, but quickly realize the challenges of survival. They encounter other groups of survivors, some benevolent, others dangerous, leading to conflicts over resources and territory. Jeremiah struggles with the burden of leadership, often clashing with Peter, who represents a more ruthless approach to survival. As they attempt to rebuild a semblance of order, they discover clues about the virus's origins and the possibility of a cure, leading them on a perilous journey across the desolate landscape. The series explores the emergence of new power structures and the moral compromises necessary to maintain control, culminating in confrontations that test the bonds of friendship and the very definition of justice. The series concludes with the survivors facing a new threat, leaving the future of the rebuilt society uncertain.",
+        "categorized_keywords": {
+          "themes": [
+            "survival",
+            "post-apocalypse",
+            "moral-ambiguity",
+            "leadership",
+            "rebuilding-society",
+            "loss-of-innocence",
+            "friendship",
+            "responsibility"
+          ],
+          "plot_and_concepts": [
+            "viral-outbreak",
+            "dystopian-future",
+            "power-struggle",
+            "search-for-cure",
+            "resource-scarcity"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "gritty",
+            "hopeful",
+            "tense",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "post-apocalyptic",
+            "action-adventure",
+            "dystopian-fiction",
+            "coming-of-age"
+          ],
+          "setting": [
+            "post-apocalyptic-america",
+            "desolate-landscape",
+            "abandoned-cities"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "moral-gray-protagonist",
+            "antagonist-leader"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "abandoned-vehicles",
+            "collapsed-buildings",
+            "makeshift-settlements",
+            "makeshift-weapons"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "perilous-situations"
+          ]
+        },
+        "keyword_sentence": "Jeremiah is a dark and suspenseful post-apocalyptic drama series exploring themes of survival and rebuilding society in a world ravaged by a deadly virus, following a group of young adults as they navigate perilous situations and grapple with the responsibilities of leadership."
+      },
+      "duration_seconds": 65.37146830558777
+    }
+  }
+}

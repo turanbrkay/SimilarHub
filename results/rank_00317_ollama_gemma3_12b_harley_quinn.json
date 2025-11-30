@@ -1,0 +1,86 @@
+{
+  "input_data": {
+    "title": "Harley Quinn",
+    "overview": "Harley Quinn has finally broken things off once and for all with the Joker and attempts to make it on her own as the criminal Queenpin of Gotham City.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Animation",
+      "Crime",
+      "Action & Adventure"
+    ],
+    "release_year": 2019,
+    "vote_count": 933
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Harley Quinn is a darkly comedic animated series that follows the titular character as she attempts to establish herself as a formidable crime boss in Gotham City, independent of the Joker. The show blends superhero action with irreverent humor and surprisingly poignant character development, exploring themes of self-discovery, found family, and the complexities of morality within a criminal underworld. It subverts traditional superhero tropes with a fast-paced narrative and a vibrant, stylized aesthetic, offering a unique and often chaotic viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Harley Quinn's definitive split from the Joker, leaving her adrift and determined to prove her worth as a villain. She assembles a crew, including Poison Ivy, King Shark, and others, and attempts to carve out her own territory in Gotham's criminal landscape. Throughout the series, Harley grapples with her past relationship with the Joker, confronting her own identity and evolving beyond her former dependence on him. She faces challenges from established crime lords, rival gangs, and even former allies, leading to escalating conflicts and unexpected alliances. As Harley’s power grows, so does her understanding of responsibility and the consequences of her actions, forcing her to confront her own moral compass and redefine what it means to be a hero – or a villain. The series explores the formation of a found family amongst Harley’s crew, as they navigate personal struggles and support each other through increasingly dangerous situations, ultimately leading to a complex and evolving dynamic within the group.",
+        "categorized_keywords": {
+          "themes": [
+            "self-discovery",
+            "found-family",
+            "redemption",
+            "female-empowerment",
+            "toxic-relationships",
+            "morality-vs-chaos"
+          ],
+          "plot_and_concepts": [
+            "crime-boss",
+            "superhero-action",
+            "revenge",
+            "rivalry",
+            "found-family-dynamic"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "irreverent",
+            "fast-paced",
+            "violent-humor"
+          ],
+          "genre_and_tropes": [
+            "animated-series",
+            "superhero-genre",
+            "crime-procedural",
+            "anti-hero",
+            "satire"
+          ],
+          "setting": [
+            "gotham-city",
+            "modern-day",
+            "urban-landscape"
+          ],
+          "character_archetypes": [
+            "anti-heroine",
+            "reformed-villain",
+            "unconventional-hero",
+            "femme-fatale"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "episodic-adventure"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "harley-quinn-costume",
+            "poison-ivy-plants",
+            "gotham-city-skyline",
+            "criminal-hideout",
+            "batman-cameo"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "sexual-content",
+            "strong-language"
+          ]
+        },
+        "keyword_sentence": "Harley Quinn is a darkly comic animated series set in Gotham City, following a reformed villain’s journey of self-discovery and the formation of an unconventional found family amidst a backdrop of superhero action and graphic violence."
+      },
+      "duration_seconds": 185.42939138412476
+    }
+  }
+}

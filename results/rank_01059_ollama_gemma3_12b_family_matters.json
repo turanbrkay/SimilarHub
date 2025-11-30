@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Family Matters",
+    "overview": "A long-running dramedy centering on the Winslow family, a middle-class African American family living in Chicago, and their pesky next-door neighbor, ultra-nerd Steve Urkel. A spin-off of Perfect Strangers.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1989,
+    "vote_count": 240
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Family Matters is a sitcom that explores the everyday lives and challenges of the Winslow family, a middle-class African American household in Chicago. The series blends family dynamics with comedic situations, largely driven by the antics of the eccentric and often disruptive Steve Urkel. While initially conceived as a spin-off, the show quickly established its own identity, focusing on themes of family, community, and navigating adolescence. The show's humor is often situational and character-driven, appealing to a broad audience with its relatable family struggles and lighthearted tone.",
+        "spoiler_rich_plot_summary": "The series begins with the introduction of the Winslow family: Carl, the police officer father; Harriet, the matriarch; and their children, Eddie, Laura, and Judy. Their relatively normal life is upended by the arrival of Steve Urkel, a socially awkward and technologically inept neighbor who quickly becomes a constant presence in their home. Early seasons focus on Steve's attempts to fit in and his often disastrous inventions and schemes. As the series progresses, the Winslow children navigate the complexities of adolescence, dealing with school, relationships, and personal growth. Eddie struggles with his identity and aspirations, Laura pursues her ambitions, and Judy matures through various experiences. Later seasons introduce new characters and storylines, exploring themes of responsibility, forgiveness, and the importance of family bonds. While Steve remains a central figure, the show expands to encompass the broader Winslow family and their community, showcasing their triumphs and setbacks over the years. The series concludes with a sense of closure, celebrating the enduring strength of the Winslow family and the lasting impact of their unconventional neighbor.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "community",
+            "adolescence",
+            "social-acceptance",
+            "growing-up",
+            "friendship"
+          ],
+          "plot_and_concepts": [
+            "fish-out-of-water",
+            "spin-off",
+            "sitcom-formula",
+            "neighbor-relationship"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "family-sitcom",
+            "coming-of-age",
+            "nerd-culture"
+          ],
+          "setting": [
+            "chicago",
+            "suburban-home",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "patriarch",
+            "matriarch",
+            "nerd",
+            "teenager",
+            "police-officer"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "suburban-house",
+            "police-uniform",
+            "nerd-glasses",
+            "family-dinner"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Family Matters is a lighthearted and wholesome family sitcom set in Chicago, exploring the challenges and joys of adolescence and community through the lens of a quirky family and their eccentric neighbor."
+      },
+      "duration_seconds": 64.22282552719116
+    }
+  }
+}

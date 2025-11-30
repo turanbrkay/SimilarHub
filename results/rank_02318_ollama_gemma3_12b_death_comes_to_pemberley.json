@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Death Comes to Pemberley",
+    "overview": "Adaptation of PD James's bestselling homage to Pride and Prejudice. Elizabeth and Darcy, now six years married, are preparing for their annual ball when festivities are brought to an abrupt halt.",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2013,
+    "vote_count": 76
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Death Comes to Pemberley is a gothic mystery series serving as a sequel to Jane Austen's Pride and Prejudice. Set six years after the original novel's conclusion, the series blends familiar romantic and social dynamics with a suspenseful murder investigation. The tone is dark and atmospheric, exploring themes of family secrets, societal expectations, and the fragility of happiness. It offers a compelling narrative for fans of Austen's work while appealing to audiences who enjoy suspenseful mysteries and period dramas.",
+        "spoiler_rich_plot_summary": "The series begins with Elizabeth and Darcy preparing for their annual ball at Pemberley, their lives seemingly idyllic. However, the festivities are shattered by the sudden death of a guest, Lydia Wickham. A local investigator, Mr. Jenkins, is brought in to determine the cause of death, and suspicion quickly falls on various members of the Bennet family and their associates. As the investigation unfolds, long-held secrets and resentments are revealed, threatening to unravel the carefully constructed peace of Pemberley. The investigation exposes a web of illicit affairs, financial troubles, and hidden motives, leading to a shocking revelation about the true identity of the killer and their connection to the family. The series culminates in a dramatic confrontation, revealing a complex and tragic backstory that explains the events leading up to the murder and its devastating impact on the characters.",
+        "categorized_keywords": {
+          "themes": [
+            "family-secrets",
+            "social-class",
+            "grief",
+            "revenge",
+            "moral-ambiguity",
+            "loss-of-innocence"
+          ],
+          "plot_and_concepts": [
+            "murder-mystery",
+            "whodunit",
+            "investigation",
+            "gothic-suspense",
+            "sequel"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "atmospheric",
+            "suspenseful",
+            "melancholy"
+          ],
+          "genre_and_tropes": [
+            "period-drama",
+            "mystery",
+            "gothic-fiction",
+            "whodunit"
+          ],
+          "setting": [
+            "england",
+            "19th-century",
+            "pemberley-manor"
+          ],
+          "character_archetypes": [
+            "investigator",
+            "aristocrat",
+            "victim",
+            "suspect"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "mystery-plot"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "fans-of-literature"
+          ],
+          "detail_plot": [
+            "pemberley-manor",
+            "annual-ball",
+            "investigation-room",
+            "carriage"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Death Comes to Pemberley is a dark and atmospheric period drama that blends familiar romantic themes with a suspenseful murder mystery set in 19th-century England, exposing long-held family secrets and challenging the idyllic facade of Pemberley."
+      },
+      "duration_seconds": 60.425400257110596
+    }
+  }
+}

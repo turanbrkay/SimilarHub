@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "DumbLand",
+    "overview": "A series of eight crudely animated shorts written, directed, and voiced by director David Lynch in 2002. The series details the daily routines of a dull-witted white trash man. The man lives in a house along with his frazzled wife and squeaky-voiced child, both of whom are nameless as is the man in the shows.",
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "release_year": 2002,
+    "vote_count": 54
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "DumbLand is a short-form animated series created by David Lynch, characterized by its surreal and darkly comedic portrayal of mundane existence. The series utilizes a deliberately crude animation style to underscore the unsettling nature of its subject matter, focusing on the daily routines of a lower-class family. It explores themes of alienation, absurdity, and the unsettling undercurrents that can exist within seemingly ordinary lives, offering a unique and often disturbing comedic experience. The series' minimalist approach and Lynch's signature unsettling tone create a disquieting atmosphere that lingers long after viewing.",
+        "spoiler_rich_plot_summary": "DumbLand consists of eight short episodes, each depicting a day in the life of a nameless man and his family. The episodes follow a cyclical pattern, with the man engaging in repetitive and often nonsensical activities, such as eating, watching television, and interacting with his wife and child. The wife is perpetually stressed and overwhelmed, while the child's voice is high-pitched and grating. The humor derives from the absurdity of the situations and the characters' reactions to them, often escalating into moments of unsettling tension. The series doesn't offer a traditional narrative arc or resolution; instead, it presents a continuous loop of banal and disturbing events, leaving the viewer to interpret the underlying meaning and implications of the family's existence. The final episode mirrors the first, reinforcing the sense of inescapable routine and the cyclical nature of their lives.",
+        "categorized_keywords": {
+          "themes": [
+            "banality",
+            "absurdity",
+            "alienation",
+            "domestic-dissonance",
+            "existentialism"
+          ],
+          "plot_and_concepts": [
+            "short-form-series",
+            "cyclical-narrative",
+            "domestic-comedy"
+          ],
+          "mood_and_tone": [
+            "surreal",
+            "darkly-comic",
+            "unsettling",
+            "grotesque"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "black-comedy",
+            "experimental-comedy"
+          ],
+          "setting": [
+            "lower-class-housing",
+            "suburban-setting",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "frustrated-wife",
+            "unremarkable-protagonist",
+            "child-character"
+          ],
+          "narrative_style": [
+            "episodic-structure",
+            "minimalist-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "crude-animation",
+            "nameless-characters",
+            "repetitive-routines",
+            "television-watching"
+          ],
+          "maturity_and_content": [
+            "grotesque-humor"
+          ]
+        },
+        "keyword_sentence": "DumbLand is a darkly comic and unsettling short-form animated series that explores themes of banality and alienation through the repetitive routines of a nameless family living in a lower-class suburban setting."
+      },
+      "duration_seconds": 60.44635200500488
+    }
+  }
+}

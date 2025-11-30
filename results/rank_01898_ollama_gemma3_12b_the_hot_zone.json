@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "The Hot Zone",
+    "overview": "In this anthology series, heroic scientists risk all to deal with deadly outbreaks.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2019,
+    "vote_count": 104
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Hot Zone is an anthology series that explores the terrifying reality of viral outbreaks and the dedicated individuals who confront them. Each season focuses on a different epidemic, examining the scientific investigation, the political maneuvering, and the human cost of battling a rapidly spreading disease. The series blends elements of medical thriller, disaster drama, and political intrigue, offering a suspenseful and often unsettling portrayal of the fragility of public health and the potential for global pandemics. It emphasizes the crucial role of scientific expertise and the ethical dilemmas faced by those on the front lines of a crisis.",
+        "spoiler_rich_plot_summary": "The first season of The Hot Zone centers on the 1989 outbreak of Ebola virus in Reston, Virginia, initially believed to be a new form of the common cold. As the severity of the situation becomes clear, virologist Dr. Nancy Jaax and her team race against time to identify the source of the virus and prevent its spread. The investigation reveals a complex chain of events originating in Africa, involving monkeys imported for research. The season culminates in a tense effort to contain the outbreak and understand the potential for a larger-scale pandemic. Subsequent seasons explore different viral threats, each presenting unique challenges and highlighting the ongoing risk of emerging infectious diseases. These narratives often involve government agencies, international collaborations, and the personal sacrifices of those working to protect the public. The series consistently demonstrates the potential for rapid escalation and the difficulty of containing a virus once it gains a foothold.",
+        "categorized_keywords": {
+          "themes": [
+            "public-health",
+            "scientific-discovery",
+            "risk-assessment",
+            "government-response",
+            "ethical-dilemmas",
+            "human-resilience"
+          ],
+          "plot_and_concepts": [
+            "viral-outbreak",
+            "medical-thriller",
+            "disaster-drama",
+            "pandemic-response",
+            "scientific-investigation"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "tense",
+            "urgent",
+            "serious",
+            "clinical"
+          ],
+          "genre_and_tropes": [
+            "anthology-series",
+            "medical-drama",
+            "disaster-movie",
+            "government-conspiracy"
+          ],
+          "setting": [
+            "modern-day",
+            "africa",
+            "united-states",
+            "research-lab"
+          ],
+          "character_archetypes": [
+            "scientist",
+            "government-official",
+            "medical-professional",
+            "heroic-figure"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "anthology-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "laboratory-setting",
+            "medical-equipment",
+            "virus-samples",
+            "quarantine-zone"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "medical-procedurals"
+          ]
+        },
+        "keyword_sentence": "The Hot Zone is a suspenseful anthology series that explores the urgent realities of viral outbreaks and the dedication of scientists and medical professionals confronting public health crises in modern-day settings."
+      },
+      "duration_seconds": 65.02901768684387
+    }
+  }
+}

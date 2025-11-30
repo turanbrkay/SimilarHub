@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Depp V Heard",
+    "overview": "The story of the tumultuous defamation trial between superstar Johnny Depp and his former wife Amber Heard.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2023,
+    "vote_count": 43
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Depp V Heard is a documentary series chronicling the highly publicized defamation trial between actors Johnny Depp and Amber Heard. The series explores the legal proceedings, the testimonies of witnesses, and the public's intense reaction to the case. It delves into themes of celebrity, public perception, domestic abuse allegations, and the impact of social media on legal proceedings. The series aims to provide a comprehensive account of the trial, examining the complexities of the case and its broader implications for the legal system and popular culture. The tone is largely observational, presenting the events as they unfolded while allowing viewers to form their own conclusions.",
+        "spoiler_rich_plot_summary": "The documentary series follows the timeline of the defamation trial initiated by Johnny Depp against his ex-wife, Amber Heard. The series begins by outlining the background of their relationship and the events that led to the initial allegations of domestic abuse. The trial itself is presented in detail, showcasing the testimonies of Depp, Heard, and numerous witnesses, including their lawyers, friends, and family members. Key moments include the presentation of audio recordings, photographs, and medical records related to the alleged abuse. The series highlights the contrasting narratives presented by both sides, with Depp claiming Heard fabricated the abuse allegations to advance her career, while Heard maintained her claims of experiencing physical and emotional abuse at the hands of Depp. The jury's deliberations and eventual verdict, finding Depp victorious in the defamation suit, are also depicted. The aftermath of the verdict, including public reactions and legal appeals, concludes the series, illustrating the lasting impact of the trial on both Depp and Heard’s careers and reputations.",
+        "categorized_keywords": {
+          "themes": [
+            "celebrity-culture",
+            "defamation",
+            "domestic-abuse",
+            "legal-proceedings",
+            "public-perception",
+            "social-media-influence",
+            "truth-versus-perception"
+          ],
+          "plot_and_concepts": [
+            "courtroom-drama",
+            "defamation-suit",
+            "witness-testimony",
+            "legal-strategy",
+            "trial-coverage"
+          ],
+          "mood_and_tone": [
+            "serious",
+            "observational",
+            "intense",
+            "controversial"
+          ],
+          "genre_and_tropes": [
+            "true-crime",
+            "documentary",
+            "legal-thriller"
+          ],
+          "setting": [
+            "fairfax-county-courthouse",
+            "modern-day",
+            "united-states"
+          ],
+          "character_archetypes": [
+            "celebrity",
+            "litigant",
+            "lawyer",
+            "witness"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "real-time-coverage"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "legal-professionals"
+          ],
+          "detail_plot": [
+            "courtroom-sketch",
+            "audio-recording",
+            "medical-records",
+            "jury-deliberation"
+          ],
+          "maturity_and_content": [
+            "graphic-allegations",
+            "abuse-themes",
+            "sexual-content"
+          ]
+        },
+        "keyword_sentence": "The documentary series Depp V Heard offers a serious and intense look at the legal proceedings and public perception surrounding the defamation suit between two celebrities, exploring themes of abuse and truth within a modern courtroom setting."
+      },
+      "duration_seconds": 69.44469165802002
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "Justice League Unlimited",
+    "overview": "Justice League Unlimited is an American animated television series that was produced by Warner Bros. Animation and aired on Cartoon Network. Featuring a wide array of superheroes from the DC Comics universe, and specifically based on the Justice League superhero team, it is a direct sequel to the previous Justice League animated series.",
+    "genres": "Animation, Action & Adventure",
+    "release_year": 2004,
+    "vote_count": 702
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Justice League Unlimited expands upon the foundation of its predecessor, offering a sprawling superhero narrative that explores the dynamics of a massive team facing global and cosmic threats. The series distinguishes itself through its expansive roster of DC characters, complex character arcs, and a willingness to delve into themes of responsibility, sacrifice, and the challenges of maintaining unity within a diverse group. It blends action-packed superhero battles with thoughtful examinations of morality and the consequences of power, appealing to both longtime comic fans and broader audiences seeking a compelling superhero story.",
+        "spoiler_rich_plot_summary": "The series begins with the Justice League already established, but facing increasing pressure from both external threats and internal conflicts. A significant turning point arrives with the emergence of a powerful adversary who manipulates heroes and villains alike, forcing the League to confront uncomfortable truths about their own methods and the potential for corruption within their ranks. As the roster expands to include dozens of heroes, the team struggles to maintain cohesion and effectiveness, leading to fractured alliances and individual crises. The narrative explores the consequences of unchecked power and the difficult choices required to protect the world, culminating in a confrontation that tests the League's very existence and forces them to redefine their purpose. The series concludes with a bittersweet resolution, acknowledging the sacrifices made and the enduring legacy of the Justice League.",
+        "categorized_keywords": {
+          "themes": [
+            "teamwork",
+            "sacrifice",
+            "responsibility",
+            "morality",
+            "power-corrupts",
+            "legacy"
+          ],
+          "plot_and_concepts": [
+            "superhero-team",
+            "alternate-timelines",
+            "invasion-story",
+            "government-conspiracy",
+            "multiverse"
+          ],
+          "mood_and_tone": [
+            "action-packed",
+            "dark",
+            "hopeful",
+            "epic"
+          ],
+          "genre_and_tropes": [
+            "superhero-action",
+            "found-family",
+            "ensemble-cast",
+            "political-thriller"
+          ],
+          "setting": [
+            "gotham-city",
+            "metropolis",
+            "modern-day",
+            "dc-universe"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "anti-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult"
+          ],
+          "detail_plot": [
+            "hall-of-justice",
+            "leaguers-uniforms",
+            "watchtower"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Justice League Unlimited delivers an epic superhero action series, exploring themes of teamwork and sacrifice within a sprawling ensemble cast facing global threats across the DC universe."
+      },
+      "duration_seconds": 112.31272101402283
+    }
+  }
+}

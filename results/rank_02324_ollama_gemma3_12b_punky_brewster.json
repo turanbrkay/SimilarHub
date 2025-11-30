@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Punky Brewster",
+    "overview": "An abandoned waif and her dog are taken in by a cranky apartment manager who becomes her guardian in this family-friendly sitcom.",
+    "genres": [
+      "Comedy",
+      "Kids"
+    ],
+    "release_year": 1984,
+    "vote_count": 76
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Punky Brewster is a heartwarming 1980s sitcom centered on a young girl who finds a home and family with a reluctant but ultimately caring apartment manager. The series explores themes of found family, resilience, and the importance of kindness and understanding. With a lighthearted and optimistic tone, it offers a feel-good viewing experience suitable for a family audience, blending humor with gentle life lessons about acceptance and the power of human connection.",
+        "spoiler_rich_plot_summary": "The series begins with Punky, a resourceful and spirited young girl, living on the streets with her dog, Brandon. After a series of encounters, she captures the attention of Henry Warnimont, a gruff and initially unwilling apartment manager. Through a series of legal proceedings and the intervention of a social worker, Henry becomes Punky's legal guardian. Throughout the series, Punky brings joy and chaos into Henry's structured life, and he, in turn, provides her with stability and a sense of belonging. Recurring storylines involve Punky's attempts to navigate school, make friends, and deal with the challenges of a new home, often with humorous and touching results. While maintaining a generally positive outlook, the series also touches on themes of abandonment and the search for a permanent place in the world, ultimately showcasing the transformative power of love and acceptance.",
+        "categorized_keywords": {
+          "themes": [
+            "found-family",
+            "resilience",
+            "kindness",
+            "acceptance",
+            "belonging",
+            "abandonment"
+          ],
+          "plot_and_concepts": [
+            "guardian-ship",
+            "coming-of-age",
+            "court-proceedings",
+            "adoption"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "optimistic",
+            "wholesome",
+            "feel-good"
+          ],
+          "genre_and_tropes": [
+            "family-sitcom",
+            "coming-of-age-story",
+            "found-family"
+          ],
+          "setting": [
+            "1980s",
+            "urban-apartment",
+            "chicago"
+          ],
+          "character_archetypes": [
+            "reluctant-guardian",
+            "spirited-child",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "episodic-storytelling",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "dog-companion",
+            "apartment-building",
+            "school-bus",
+            "colorful-clothing"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Punky Brewster is a lighthearted family sitcom set in 1980s Chicago, exploring themes of found family and resilience as a spirited young girl and her dog find a home with a reluctant guardian."
+      },
+      "duration_seconds": 59.298558712005615
+    }
+  }
+}

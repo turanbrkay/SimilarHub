@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "This Is Us",
+    "overview": "Follows the lives and families of three adults living and growing up in the United States of America in present and past times. As their paths cross and their life stories intertwine in curious ways, we find that several of them share the same birthday - and so much more than anyone would expect.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2016,
+    "vote_count": 1310
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "This Is Us is a family drama series that explores the interconnected lives of several characters across different timelines. The show delves into themes of love, loss, identity, and the complexities of familial relationships. Through a blend of humor and poignant moments, it examines the impact of past events on present-day lives and the enduring bonds that tie families together. The series is known for its emotional depth and its ability to resonate with audiences through its relatable portrayal of everyday struggles and triumphs.",
+        "spoiler_rich_plot_summary": "The series initially introduces viewers to Jack and Rebecca Pearson, raising their children Kevin, Kate, and Randall. Flashbacks reveal their early years, showcasing Jack's struggles with his past and Rebecca's ambition. As adults, the siblings grapple with their own challenges: Kevin pursues an acting career with mixed success, Kate battles weight and self-esteem issues, and Randall confronts his identity as an adopted child and his political aspirations. A central mystery revolves around the circumstances surrounding Jack's death and its profound impact on the family. As the series progresses, the audience learns about the origins of the show’s title, revealing a connection between the Pearson family and a group of strangers who share the same birthday. The narrative explores the ripple effects of past decisions and the enduring power of family, ultimately demonstrating how seemingly disparate lives can be intertwined in unexpected and meaningful ways. The series concludes with a focus on the next generation of Pearsons, showing them navigating their own lives and carrying on the family's legacy of love and resilience.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "loss-and-grief",
+            "identity-quest",
+            "redemption",
+            "intergenerational-relationships",
+            "memory-and-nostalgia"
+          ],
+          "plot_and_concepts": [
+            "flashbacks",
+            "multiple-timelines",
+            "adoption",
+            "sibling-rivalry",
+            "found-family"
+          ],
+          "mood_and_tone": [
+            "emotional",
+            "heartwarming",
+            "melancholy",
+            "reflective"
+          ],
+          "genre_and_tropes": [
+            "family-drama",
+            "slice-of-life",
+            "character-driven",
+            "slow-burn-narrative"
+          ],
+          "setting": [
+            "suburban-america",
+            "modern-day",
+            "minnesota"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "struggling-artist",
+            "overachiever",
+            "wise-parent"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "pearson-house",
+            "flashback-photos",
+            "family-chronicles",
+            "randall's-political-campaign"
+          ],
+          "maturity_and_content": [
+            "emotional-trauma",
+            "substance-abuse",
+            "marital-conflict"
+          ]
+        },
+        "keyword_sentence": "This Is Us is a deeply emotional family drama series that explores themes of loss, identity, and the enduring power of familial bonds across multiple timelines in suburban America."
+      },
+      "duration_seconds": 63.60416030883789
+    }
+  }
+}

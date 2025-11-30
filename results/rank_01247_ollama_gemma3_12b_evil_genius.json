@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Evil Genius",
+    "overview": "This baffling true crime story starts with the grisly death of a pizza man who robs a bank with a bomb around his neck - and gets weirder from there.",
+    "genres": [
+      "Documentary",
+      "Crime"
+    ],
+    "release_year": 2018,
+    "vote_count": 192
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Evil Genius is a documentary series that investigates a bizarre and unsettling true crime event centered around a pizza delivery man forced to rob a bank with a bomb strapped to his neck. The series unravels a complex web of eccentric characters, questionable motives, and escalating chaos, exploring themes of desperation, manipulation, and the dark underbelly of small-town life. It blends elements of crime documentary with a surreal and darkly comedic tone, leaving viewers questioning the reality of what they are witnessing and the true nature of those involved. The series is notable for its unconventional narrative structure and the sheer strangeness of the events it portrays.",
+        "spoiler_rich_plot_summary": "The series begins with the shocking death of Brian Wells, a pizza delivery man found with a bomb attached to his chest after robbing a bank. The initial investigation focuses on Wells, but quickly expands to include a cast of unusual suspects, including Marjorie Diehl-Armstrong, a woman with a history of manipulation and a complex relationship with Wells. As the investigation progresses, it becomes clear that Wells was coerced into participating in an elaborate scheme orchestrated by others. The series meticulously pieces together the events leading up to the robbery, revealing a convoluted plot involving fake clues, misleading evidence, and a series of increasingly bizarre interactions between the key players. The investigation exposes a network of individuals with questionable backgrounds and hidden agendas, ultimately leading to a search for the mastermind behind the scheme and the unraveling of a deeply unsettling truth about the motivations and methods employed. The series culminates in a detailed examination of the legal proceedings and the attempts to bring those responsible to justice, while leaving lingering questions about the full extent of the conspiracy.",
+        "categorized_keywords": {
+          "themes": [
+            "true-crime",
+            "manipulation",
+            "deception",
+            "conspiracy",
+            "desperation",
+            "small-town-life",
+            "justice"
+          ],
+          "plot_and_concepts": [
+            "bomb-threat",
+            "bank-robbery",
+            "false-evidence",
+            "coercion",
+            "investigation",
+            "legal-proceedings"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "surreal",
+            "unsettling",
+            "baffling",
+            "tense"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "crime",
+            "true-crime-documentary"
+          ],
+          "setting": [
+            "small-town-usa",
+            "pennsylvania"
+          ],
+          "character_archetypes": [
+            "manipulative-woman",
+            "victim",
+            "investigator"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "investigative-documentary"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "true-crime-fans"
+          ],
+          "detail_plot": [
+            "pizza-delivery",
+            "bomb-device",
+            "bank-vault",
+            "police-tape",
+            "courtroom"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "suspense"
+          ]
+        },
+        "keyword_sentence": "Evil Genius is a darkly comic and unsettling true-crime documentary series that explores themes of manipulation and deception within a baffling small-town conspiracy, centered around a shocking bank robbery and bomb threat."
+      },
+      "duration_seconds": 65.46766257286072
+    }
+  }
+}

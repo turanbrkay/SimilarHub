@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "The Pale Horse",
+    "overview": "After a list of names is found in the shoe of a dead woman, one of the named people begins investigating and is drawn to the The Pale Horse, the home of a trio of rumored witches living in a small village. Word has it that the witches can do away with wealthy relatives using dark arts.",
+    "genres": [
+      "Mystery"
+    ],
+    "release_year": 2020,
+    "vote_count": 82
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Pale Horse is a British mystery thriller series based on a novel by Agatha Christie. The narrative follows a man investigating a list of names found with a deceased woman, leading him to a secluded village and a trio of suspected witches. The series blends elements of suspense, folklore, and crime, exploring themes of guilt, redemption, and the dark secrets hidden within seemingly ordinary communities. It offers a slow-burn, atmospheric experience, emphasizing character-driven suspense over fast-paced action.",
+        "spoiler_rich_plot_summary": "The series begins with the discovery of a list of names in the shoe of a woman found dead in a field. Mark Easterbrook, one of the names on the list, begins an investigation to uncover the meaning of the list and the identity of the woman. His search leads him to the village of Much Deeping, where he encounters three women – Ruth, Sybil, and Vivienne – rumored to be witches capable of using dark magic to eliminate relatives. As Mark delves deeper, he uncovers a complex web of financial crimes, hidden identities, and long-held secrets connecting the names on the list. He discovers that the women are not practicing witches in the traditional sense, but rather are involved in a sophisticated scheme to launder money and commit murder. The investigation reveals a history of financial manipulation and a series of deaths linked to the laundering operation. Mark ultimately confronts the true perpetrators, exposing their crimes and bringing them to justice, though not without personal risk and a profound understanding of the darkness that can exist within seemingly peaceful settings.",
+        "categorized_keywords": {
+          "themes": [
+            "guilt",
+            "redemption",
+            "financial-crime",
+            "hidden-identity",
+            "dark-secrets",
+            "small-town-mystery"
+          ],
+          "plot_and_concepts": [
+            "money-laundering",
+            "witchcraft-rumors",
+            "investigation",
+            "serial-killer",
+            "financial-manipulation"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "atmospheric",
+            "dark",
+            "slow-burn"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "mystery",
+            "thriller",
+            "small-town-mystery"
+          ],
+          "setting": [
+            "rural-england",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "investigator",
+            "suspect",
+            "eccentric-villagers"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "mystery-thriller"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "list-of-names",
+            "shoe",
+            "village-setting",
+            "witches-cottage"
+          ],
+          "maturity_and_content": [
+            "murder",
+            "financial-crime"
+          ]
+        },
+        "keyword_sentence": "The Pale Horse is a suspenseful mystery thriller set in rural England, exploring themes of guilt and financial crime as an investigator unravels a web of dark secrets and suspected witchcraft within a small village."
+      },
+      "duration_seconds": 65.38998293876648
+    }
+  }
+}

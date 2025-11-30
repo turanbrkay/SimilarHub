@@ -1,0 +1,105 @@
+{
+  "input_data": {
+    "title": "How I Met Your Mother",
+    "overview": "A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2005,
+    "vote_count": 4376
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "How I Met Your Mother follows Ted Mosby as he narrates to his children the decade‑long quest that led him to meet their mother, weaving humor, romance, and friendship into a nostalgic narrative set in contemporary New York. The series balances witty banter and heartfelt moments, exploring the complexities of love, career ambitions, and the enduring bonds of a tight‑knit group of friends. Through its unique flashback structure, it examines how past choices shape the future while delivering comedic beats that resonate with a broad adult audience.",
+        "spoiler_rich_plot_summary": "The series begins with Ted Mosby, a struggling architect, who decides to marry his best friend Marshall and his wife Lily. Over the next nine years, Ted meets a series of love interests, including the enigmatic Robin, the flirtatious Barney Stinson, and finally Tracy McConnell, a marine biologist whose presence transforms his life. The narrative is framed as a flashback told to his children, revealing that Tracy is the mother of their children and that she died in 2024, leaving Ted to raise their children alone. The show culminates in a flashforward to 2030 where the children are grown and the family is together, while the friends—Barney, Robin, Marshall, and Lily—continue their individual journeys: Barney marries Quinn and has a son, Robin becomes a successful journalist and has a child with a man named 'Kara', and Marshall and Lily have two children. The series ends with Ted, now a grandfather, reflecting on the lessons of friendship and love, and the final scene shows the group sharing a toast on the roof of the MacLaren bar.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "love",
+            "time",
+            "family",
+            "regret",
+            "destiny",
+            "humor",
+            "personal-growth",
+            "commitment",
+            "nostalgia",
+            "heartbreak",
+            "loyalty"
+          ],
+          "plot_and_concepts": [
+            "time-travel",
+            "father-voiceover",
+            "storytelling",
+            "quest-for-love",
+            "search-for-mother",
+            "romantic-relationship",
+            "marriage",
+            "career",
+            "group-dynamics"
+          ],
+          "mood_and_tone": [
+            "comedic",
+            "heartfelt",
+            "nostalgic",
+            "bittersweet",
+            "optimistic",
+            "sarcastic",
+            "witty",
+            "romantic"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "comedy-drama",
+            "ensemble",
+            "rom-com",
+            "long-running",
+            "sitcom-with-voiceover",
+            "relationship-arc",
+            "friend-group",
+            "man-with-voiceover",
+            "storytelling-structure"
+          ],
+          "setting": [
+            "modern-new-york",
+            "2000s",
+            "city-life",
+            "bar-stand",
+            "college"
+          ],
+          "character_archetypes": [
+            "narrator",
+            "playboy",
+            "teacher",
+            "lawyer",
+            "romantic-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "non-linear-timeline",
+            "flashback-structure",
+            "episodic"
+          ],
+          "target_audience": [
+            "adult",
+            "comedy",
+            "family-friendly"
+          ],
+          "detail_plot": [
+            "tulips",
+            "bridge",
+            "flying-couch",
+            "taco",
+            "suitcase",
+            "toddler",
+            "couch",
+            "umbrella"
+          ]
+        },
+        "keyword_sentence": "The show blends friendship and love with a nostalgic tone, using a serialized, non-linear narrative that follows a narrator through his romantic and career adventures in modern New York, all while employing a comedic, witty, and heartfelt ensemble of characters such as a playboy, teacher, lawyer, and romantic protagonist."
+      },
+      "duration_seconds": 256.1568355560303
+    }
+  }
+}

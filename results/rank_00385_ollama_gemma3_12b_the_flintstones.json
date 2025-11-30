@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "The Flintstones",
+    "overview": "The misadventures of two modern-day Stone Age families, the Flintstones and the Rubbles.",
+    "genres": [
+      "Family",
+      "Animation",
+      "Comedy",
+      "Kids"
+    ],
+    "release_year": 1960,
+    "vote_count": 789
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Flintstones is a pioneering animated sitcom that reimagines modern suburban life within a prehistoric setting. The series blends slapstick comedy with relatable family dynamics, offering a lighthearted and whimsical portrayal of everyday challenges and triumphs. Its innovative use of animation and humor established a template for countless sitcoms that followed, solidifying its place as a cornerstone of American television. The show's enduring appeal lies in its ability to entertain audiences of all ages with its clever writing and memorable characters.",
+        "spoiler_rich_plot_summary": "The series primarily follows Fred and Wilma Flintstone, and their friends Barney and Betty Rubble, as they navigate the joys and frustrations of family life in the Stone Age town of Bedrock. Recurring storylines involve Fred's schemes to outsmart his boss, Mr. Slate, and his attempts to impress Barney, often leading to chaotic and humorous situations. The show frequently explores the challenges of raising children, managing a household, and maintaining friendships, all within the context of a prehistoric society that mirrors modern conveniences with Stone Age equivalents. While the series maintains a generally episodic structure, there are ongoing threads concerning Fred and Barney's competitive nature and their shared desire for success and recognition. The show concludes with the characters continuing their lives in Bedrock, demonstrating the enduring strength of their friendships and the timeless appeal of family.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "friendship",
+            "domestic-comedy",
+            "prehistoric-society",
+            "modern-life-satire"
+          ],
+          "plot_and_concepts": [
+            "slapstick-comedy",
+            "workplace-humor",
+            "rivalry",
+            "stone-age-technology",
+            "sitcom-format"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "optimistic",
+            "playful",
+            "nostalgic"
+          ],
+          "genre_and_tropes": [
+            "animated-sitcom",
+            "family-comedy",
+            "stone-age-setting",
+            "workplace-comedy"
+          ],
+          "setting": [
+            "bedrock",
+            "stone-age",
+            "prehistoric-era",
+            "fictional-town"
+          ],
+          "character_archetypes": [
+            "working-class-father",
+            "loving-wife",
+            "best-friend",
+            "supportive-neighbor"
+          ],
+          "narrative_style": [
+            "episodic-storytelling",
+            "sitcom-structure"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children",
+            "young-adults"
+          ],
+          "detail_plot": [
+            "stone-age-vehicles",
+            "stone-age-appliances",
+            "dinosaur-pets",
+            "drive-in-movie",
+            "stone-age-construction"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Flintstones delivers lighthearted family comedy through the lens of a prehistoric society, offering a nostalgic and playful exploration of modern life and enduring friendships."
+      },
+      "duration_seconds": 80.03776144981384
+    }
+  }
+}

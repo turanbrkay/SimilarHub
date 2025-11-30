@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Trigger Point",
+    "overview": "For London's bomb disposal experts, no day is ever the same as they risk their lives protecting the city from harm.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2022,
+    "vote_count": 55
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Trigger Point is a British crime drama series centered on bomb disposal operatives facing escalating threats within London. The series blends procedural elements with a focus on the psychological toll of high-stakes situations and the complex personal lives of the protagonists. It explores themes of duty, sacrifice, and the fragility of urban security, offering a suspenseful and emotionally charged viewing experience. The show’s intensity is heightened by its realistic portrayal of bomb disposal techniques and the constant sense of impending danger.",
+        "spoiler_rich_plot_summary": "The series initially follows Lana Washington, a bomb disposal expert haunted by a past operation that went tragically wrong. She is assigned to lead a team investigating a series of sophisticated bomb threats targeting London. As Lana and her team work to disarm the devices, they uncover a larger conspiracy linked to a past event she was involved in. The investigation reveals a network of individuals with ties to terrorism and political instability, forcing Lana to confront her past mistakes and the consequences of her actions. Throughout the series, personal relationships within the team are tested as the pressure mounts, and the true scope of the threat becomes increasingly clear. The series culminates in a confrontation with the orchestrators of the bombings, forcing Lana to make difficult choices that impact her future and the safety of those around her.",
+        "categorized_keywords": {
+          "themes": [
+            "duty-and-sacrifice",
+            "urban-security",
+            "past-trauma",
+            "political-conspiracy",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "bomb-disposal",
+            "police-investigation",
+            "terrorism",
+            "serial-bombings"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "tense",
+            "gritty",
+            "realistic"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "police-drama",
+            "thriller"
+          ],
+          "setting": [
+            "london-city",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "haunted-protagonist",
+            "expert-team",
+            "morally-gray-antagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "bomb-disposal-unit",
+            "police-headquarters",
+            "urban-landscape",
+            "bomb-disarm-kit"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "tense-situations"
+          ]
+        },
+        "keyword_sentence": "Trigger Point is a tense and suspenseful British crime drama that explores themes of duty and sacrifice within the gritty urban landscape of modern-day London, following a team of bomb disposal experts facing escalating threats and confronting past traumas."
+      },
+      "duration_seconds": 51.47090983390808
+    }
+  }
+}

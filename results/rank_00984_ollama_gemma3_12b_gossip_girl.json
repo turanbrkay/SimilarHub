@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Gossip Girl",
+    "overview": "Eight years after the original website went dark, a new generation of New York private school teens are introduced to the social surveillance of Gossip Girl.",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2021,
+    "vote_count": 264
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Gossip Girl (2021) is a revival of the original series, continuing the story of privileged teenagers navigating social hierarchies and secrets in New York City. The show blends drama, mystery, and romance, exploring themes of identity, social media influence, and the consequences of online exposure. It maintains the original's focus on interpersonal relationships and scandalous behavior, updated for a modern audience familiar with digital surveillance and influencer culture. The series offers a heightened, stylized portrayal of wealth and privilege, examining the pressures and anxieties faced by a new generation.",
+        "spoiler_rich_plot_summary": "The series reintroduces Constance Billard School and its students, eight years after the original Gossip Girl blog vanished. A new anonymous blogger resurfaces, documenting the lives and secrets of the elite students. The initial episodes focus on the return of several original characters, now adults with their own families and careers, as they grapple with the resurgence of the blog and its impact on their lives. The new generation of students, including Zoya, Julien, Luna, and Max, struggle to establish their place within the social order, facing challenges related to family secrets, romantic entanglements, and the constant scrutiny of the anonymous blogger. As the season progresses, the identity of Gossip Girl becomes a central mystery, with various suspects emerging and red herrings abound. The series explores the complexities of online reputation, the blurred lines between privacy and exposure, and the consequences of unchecked social media influence. The season culminates in the revelation of the new Gossip Girl's identity, leading to significant shifts in the social dynamics of the school and the lives of the main characters.",
+        "categorized_keywords": {
+          "themes": [
+            "social-media-influence",
+            "wealth-and-privilege",
+            "identity-quest",
+            "secrets-and-lies",
+            "online-reputation",
+            "family-dynamics"
+          ],
+          "plot_and_concepts": [
+            "anonymous-blogger",
+            "revenge-plot",
+            "social-hierarchy",
+            "mystery-reveal",
+            "coming-of-age"
+          ],
+          "mood_and_tone": [
+            "dramatic",
+            "scandalous",
+            "stylish",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "teen-drama",
+            "mystery-thriller",
+            "social-commentary"
+          ],
+          "setting": [
+            "new-york-city",
+            "private-school",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "privileged-elite",
+            "outsider",
+            "social-climbing"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult"
+          ],
+          "detail_plot": [
+            "private-school-uniform",
+            "manhattan-penthouse",
+            "social-media-feed",
+            "gossip-blog"
+          ],
+          "maturity_and_content": [
+            "sexual-content",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "Gossip Girl explores the dramatic lives of privileged teenagers in modern-day New York City, where secrets and scandals are exposed through an anonymous blog, highlighting the influence of social media and the complexities of identity."
+      },
+      "duration_seconds": 67.25558710098267
+    }
+  }
+}

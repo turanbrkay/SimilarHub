@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Amazing Stories",
+    "overview": "Each episode transports the audience to worlds of wonder through the lens of today’s most imaginative filmmakers, directors and writers. A reimagining of the original anthology series by Steven Spielberg.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "release_year": 2020,
+    "vote_count": 372
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Amazing Stories is a modern anthology series inspired by the original Steven Spielberg creation, offering a blend of science fiction, fantasy, and action-adventure. Each self-contained episode explores imaginative concepts and fantastical scenarios, often with a focus on wonder and emotional resonance. The series aims to recapture the spirit of classic Spielbergian storytelling, delivering a mix of heartwarming, thrilling, and sometimes poignant narratives. It’s designed to be accessible to a broad audience, offering a cinematic experience in a short, episodic format. The show emphasizes visual storytelling and inventive concepts, creating a sense of escapism and possibility.",
+        "spoiler_rich_plot_summary": "The series operates on an anthology format, meaning each episode presents a completely new story with different characters and settings. The narratives frequently involve elements of magical realism, futuristic technology, and fantastical creatures. One episode might focus on a young girl who discovers she has the power to bring drawings to life, while another could explore the consequences of a scientific experiment gone wrong. Stories often revolve around themes of hope, resilience, and the power of human connection. While the specific plots vary widely, a common thread is the exploration of extraordinary circumstances and their impact on ordinary people. The series culminates in a collection of standalone tales, each leaving a lasting impression through its unique blend of imagination and emotion, without a recurring overarching plot or character arcs.",
+        "categorized_keywords": {
+          "themes": [
+            "hope",
+            "imagination",
+            "family-bonds",
+            "human-connection",
+            "resilience",
+            "wonder"
+          ],
+          "plot_and_concepts": [
+            "anthology-series",
+            "magical-realism",
+            "time-travel",
+            "alternate-reality",
+            "scientific-discovery"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "optimistic",
+            "dreamlike",
+            "suspenseful",
+            "emotional"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "fantasy",
+            "action-adventure",
+            "found-family",
+            "coming-of-age"
+          ],
+          "setting": [
+            "modern-day",
+            "small-town-usa",
+            "alternate-timeline",
+            "futuristic-city"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "innocent-protagonist",
+            "eccentric-inventor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "self-contained-episodes",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "futuristic-technology",
+            "magical-artifact",
+            "small-town-mystery",
+            "scientific-experiment"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Amazing Stories is a family-friendly anthology series that blends science fiction and fantasy with action-adventure, exploring themes of hope and imagination through self-contained episodes set in modern and futuristic settings."
+      },
+      "duration_seconds": 58.19182515144348
+    }
+  }
+}

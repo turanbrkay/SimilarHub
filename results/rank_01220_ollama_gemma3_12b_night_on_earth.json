@@ -1,0 +1,67 @@
+{
+  "input_data": {
+    "title": "Night on Earth",
+    "overview": "This nature series’ new technology lifts night’s veil to reveal the hidden lives of the world’s creatures, from lions on the hunt to bats on the wing.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2020,
+    "vote_count": 198
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Night on Earth is a nature documentary series that utilizes advanced camera technology to reveal the nocturnal behaviors of animals across the globe. The series aims to provide viewers with a unique perspective on the natural world, showcasing the hidden activities of creatures typically unseen during daylight hours. Through stunning visuals and immersive soundscapes, it explores themes of survival, adaptation, and the interconnectedness of ecosystems. The series offers a captivating and educational experience for audiences interested in wildlife and conservation.",
+        "spoiler_rich_plot_summary": "The series doesn's follow a traditional narrative arc, but rather presents a collection of self-contained episodes, each focusing on a different ecosystem and its nocturnal inhabitants. Episodes might showcase the hunting strategies of predators like lions and wolves, the intricate social structures of bats and owls, or the delicate balance of life in rainforests and deserts. The series highlights the challenges faced by animals in the darkness, including the constant threat of predators, the scarcity of resources, and the impact of human activity. While there are no overarching plot twists, each episode reveals surprising and often beautiful aspects of the natural world, demonstrating the resilience and adaptability of wildlife.",
+        "categorized_keywords": {
+          "themes": [
+            "wildlife-conservation",
+            "ecosystems",
+            "nocturnal-behavior",
+            "adaptation",
+            "survival"
+          ],
+          "plot_and_concepts": [
+            "wildlife-photography",
+            "time-lapse",
+            "infrared-technology"
+          ],
+          "mood_and_tone": [
+            "immersive",
+            "awe-inspiring",
+            "peaceful",
+            "educational"
+          ],
+          "genre_and_tropes": [
+            "nature-documentary",
+            "wildlife-series"
+          ],
+          "setting": [
+            "global",
+            "rainforests",
+            "deserts",
+            "savannas"
+          ],
+          "character_archetypes": [],
+          "narrative_style": [
+            "episodic",
+            "observational"
+          ],
+          "target_audience": [
+            "family-audience",
+            "nature-enthusiasts"
+          ],
+          "detail_plot": [
+            "infrared-camera",
+            "nocturnal-animals",
+            "starry-sky",
+            "animal-tracks"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Night on Earth offers a peaceful and awe-inspiring look at global ecosystems, revealing the nocturnal behaviors of animals through immersive wildlife photography and educational storytelling."
+      },
+      "duration_seconds": 49.58847451210022
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "input_data": {
+    "title": "Floor Is Lava",
+    "overview": "Teams compete to navigate rooms flooded with lava by leaping from chairs, hanging from curtains and swinging from chandeliers.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2020,
+    "vote_count": 48
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Floor Is Lava is a reality competition series centered around physical challenges and strategic gameplay. Teams of contestants must traverse rooms filled with 'lava' by utilizing furniture and fixtures, demonstrating agility and problem-solving skills. The show blends elements of obstacle courses and improvisational movement, creating a lighthearted and visually engaging spectacle. Its appeal lies in its simple premise, accessible format, and the inherent humor of watching people avoid a simulated volcanic eruption. The series offers a family-friendly entertainment experience focused on teamwork and creative solutions.",
+        "spoiler_rich_plot_summary": "Each episode of Floor Is Lava features multiple teams competing in a series of rounds. The initial rounds involve navigating increasingly complex rooms filled with 'lava,' requiring teams to strategize and execute daring leaps and climbs. Teams are eliminated based on their performance, with the final round pitting the remaining teams against each other in a particularly challenging environment. The winning team is ultimately determined by their ability to successfully reach the designated safe zone without touching the 'lava,' showcasing their combined athleticism and quick thinking. While the format remains consistent, the rooms and obstacles change each episode, presenting new and unpredictable challenges for the contestants.",
+        "categorized_keywords": {
+          "themes": [
+            "teamwork",
+            "competition",
+            "physical-challenge",
+            "problem-solving",
+            "agility"
+          ],
+          "plot_and_concepts": [
+            "obstacle-course",
+            "elimination-rounds",
+            "simulated-environment"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "energetic",
+            "playful",
+            "family-friendly"
+          ],
+          "genre_and_tropes": [
+            "reality-competition",
+            "game-show"
+          ],
+          "setting": [
+            "indoor-environment",
+            "simulated-volcano"
+          ],
+          "character_archetypes": [
+            "athlete",
+            "strategist",
+            "team-player"
+          ],
+          "narrative_style": [
+            "elimination-format",
+            "round-based"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "furniture-climbing",
+            "chandelier-swinging",
+            "lava-simulation",
+            "safe-zone"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Floor Is Lava is a lighthearted reality competition where teams of athletes and strategists navigate simulated volcanic environments by creatively utilizing furniture and fixtures in elimination-based rounds."
+      },
+      "duration_seconds": 46.708003997802734
+    }
+  }
+}

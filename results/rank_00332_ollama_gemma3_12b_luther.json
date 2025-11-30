@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Luther",
+    "overview": "A dark psychological crime drama starring Idris Elba as Luther, a man struggling with his own terrible demons, who might be as dangerous as the depraved murderers he hunts.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2010,
+    "vote_count": 903
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Luther is a British crime drama that delves into the psyche of a brilliant but troubled detective. The series blends procedural elements with intense psychological exploration, examining the blurred lines between good and evil. John Luther's exceptional ability to solve complex cases is constantly challenged by his own inner turmoil and a dangerous connection to the criminal underworld. The show offers a dark, suspenseful viewing experience, characterized by its gritty realism and morally ambiguous characters, exploring themes of justice, obsession, and the fragility of the human mind.",
+        "spoiler_rich_plot_summary": "The series begins with DCI John Luther, a highly skilled detective haunted by past failures and struggling with violent urges. He works alongside DS Catherine 'Kate' Kendrick, who often questions his methods but recognizes his brilliance. Luther's investigations frequently involve complex and disturbing cases, often involving individuals with a warped sense of morality. Throughout the series, Luther finds himself increasingly entangled with a recurring antagonist, Alice Morgan, a psychopathic genius who manipulates events and provides him with cryptic warnings. Their complex relationship, oscillating between dependence and antagonism, becomes a central driving force. Luther's personal demons and his connection to Alice lead to professional setbacks and personal tragedies, blurring the lines between hunter and hunted. Later seasons see Luther's actions have increasingly severe consequences, leading to his temporary removal from the force and a descent into a darker, more isolated existence, culminating in a confrontation with his past and a desperate attempt to regain control.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "redemption",
+            "moral-ambiguity",
+            "psychological-torment",
+            "obsession",
+            "darkness-vs-light"
+          ],
+          "plot_and_concepts": [
+            "crime-procedural",
+            "serial-killer",
+            "psychological-thriller",
+            "cat-and-mouse",
+            "anti-hero"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "gritty",
+            "suspenseful",
+            "noir",
+            "bleak"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "police-procedural",
+            "psychological-thriller",
+            "dark-detective"
+          ],
+          "setting": [
+            "london-uk",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "troubled-detective",
+            "psychopath",
+            "moral-grey-protagonist",
+            "brilliant-but-flawed"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-investigation"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "crime-scene",
+            "police-station",
+            "interrogation-room",
+            "london-streets"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "psychological-distress"
+          ]
+        },
+        "keyword_sentence": "Luther is a dark and gritty British crime drama that explores the psychological torment of a brilliant but troubled detective as he navigates a world of moral ambiguity and confronts his own demons in the streets of London."
+      },
+      "duration_seconds": 65.48468661308289
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "I Love Lucy",
+    "overview": "Cuban Bandleader Ricky Ricardo would be happy if his wife Lucy would just be a housewife. Instead she tries constantly to perform at the Tropicana where he works, and make life comically frantic in the apartment building they share with landlords Fred and Ethel Mertz, who also happen to be their best friends.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1951,
+    "vote_count": 188
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "I Love Lucy is a pioneering sitcom that revolutionized television comedy with its focus on physical humor, relatable domestic situations, and a charismatic lead performance. The series revolves around Lucy Ricardo, a housewife with aspirations for show business, and her dynamic with her bandleader husband, Ricky, and their close friends, Fred and Ethel Mertz. The show's enduring appeal lies in its ability to portray universal themes of friendship, ambition, and the challenges of marriage through a consistently humorous and lighthearted lens. Its innovative use of studio audiences and multi-camera setups helped establish many conventions of modern sitcom production.",
+        "spoiler_rich_plot_summary": "The series begins with Lucy Ricardo, recently married to Ricky Ricardo, moving to New York City. Lucy, yearning for a career as a performer, constantly attempts to join Ricky's band at the Tropicana nightclub, often with disastrous and hilarious results. Her schemes are frequently thwarted by Ricky, who wants her to embrace the role of a traditional housewife. The dynamic between Lucy and Ethel, and their friendship with Fred and Ethel Mertz, provides a constant source of comedic conflict and support. Throughout the series, Lucy's ambition leads her into a series of increasingly elaborate and outlandish plans, often involving disguises, mistaken identities, and chaotic misunderstandings. While Lucy's schemes rarely succeed in achieving her initial goals, they consistently provide entertainment for both the characters and the audience. The series concludes with the Ricardos and Mertzes embarking on a trip to Europe, leaving the door open for future adventures and maintaining the enduring charm of their close-knit friendship.",
+        "categorized_keywords": {
+          "themes": [
+            "marriage-dynamics",
+            "friendship",
+            "ambition",
+            "domestic-comedy",
+            "aspirations",
+            "family-relationships"
+          ],
+          "plot_and_concepts": [
+            "physical-comedy",
+            "mistaken-identity",
+            "slapstick",
+            "schemes",
+            "disguise"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "optimistic",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "domestic-comedy",
+            "screwball-comedy"
+          ],
+          "setting": [
+            "new-york-city",
+            "1950s",
+            "apartment-building"
+          ],
+          "character_archetypes": [
+            "housewife",
+            "bandleader",
+            "best-friends",
+            "scheming-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "tropicana-nightclub",
+            "apartment-building",
+            "ricky-band",
+            "disguises"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "I Love Lucy is a lighthearted and optimistic sitcom set in 1950s New York City, exploring themes of marriage, friendship, and ambition through a series of comedic schemes and physical humor."
+      },
+      "duration_seconds": 61.62481760978699
+    }
+  }
+}

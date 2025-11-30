@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Rambo",
+    "overview": "Rambo: The Force of Freedom is an animated series based on the character of John Rambo from David Morrell's book First Blood and the subsequent films First Blood and Rambo: First Blood Part II. This series was adapted for television by story editor/head writer Michael Chain and the series even spawned a toy line. The cartoon ran for 65 episodes, and was produced by Ruby-Spears Enterprises. The series debuted on April 14, 1986 as a five-part miniseries, and was renewed in September as a daily cartoon. Rambo was cancelled in December of the same year.",
+    "genres": [
+      "Action & Adventure",
+      "Animation"
+    ],
+    "release_year": 1986,
+    "vote_count": 31
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Rambo: The Force of Freedom is an animated action-adventure series drawing from the iconic film franchise. The show follows John Rambo as he undertakes missions to aid those in need and fight against oppression. Targeted towards a young adult audience, the series blends action sequences with themes of freedom, justice, and the consequences of violence. While maintaining the core elements of the Rambo character, the animated format allows for a broader scope of global conflicts and heroic endeavors. The series, though short-lived, represents an attempt to translate the gritty realism of the films into a more accessible and family-friendly format.",
+        "spoiler_rich_plot_summary": "The series centers on John Rambo, a former Green Beret, who now dedicates his skills to helping those facing injustice around the world. Each episode typically involves Rambo responding to a distress call, often from individuals or groups struggling against oppressive regimes or dangerous organizations. He utilizes his extensive combat training and survival skills to overcome obstacles, rescue hostages, and dismantle threats. While the series maintains a generally heroic tone, it also explores the emotional toll of violence and the importance of compassion. Recurring antagonists include various military factions and criminal enterprises, each presenting unique challenges for Rambo to overcome. The series concludes with Rambo continuing his mission to protect the innocent and fight for freedom, leaving his future open to further adventures.",
+        "categorized_keywords": {
+          "themes": [
+            "freedom",
+            "justice",
+            "compassion",
+            "oppression",
+            "redemption",
+            "military-service"
+          ],
+          "plot_and_concepts": [
+            "rescue-mission",
+            "military-intervention",
+            "espionage",
+            "action-adventure",
+            "survival-skills"
+          ],
+          "mood_and_tone": [
+            "heroic",
+            "action-packed",
+            "serious",
+            "tense"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "military-thriller",
+            "superhero-action",
+            "found-family"
+          ],
+          "setting": [
+            "global",
+            "military-base",
+            "warzone"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "military-expert",
+            "lone-wolf"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic"
+          ],
+          "target_audience": [
+            "young-adult"
+          ],
+          "detail_plot": [
+            "military-gear",
+            "combat-training",
+            "rescue-operation"
+          ],
+          "maturity_and_content": [
+            "violence"
+          ]
+        },
+        "keyword_sentence": "Rambo: The Force of Freedom is an action-packed animated series following a skilled military expert on global rescue missions, fighting oppression and championing freedom through heroic action and combat training."
+      },
+      "duration_seconds": 70.214031457901
+    }
+  }
+}

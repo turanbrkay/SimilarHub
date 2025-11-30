@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Borgia",
+    "overview": "Borgia is a French-German-Czech historical drama television series created by Tom Fontana. The show recounts the Borgia family's rise to power and subsequent domination of the Papal States during the Renaissance.",
+    "genres": [
+      "Action & Adventure",
+      "Drama"
+    ],
+    "release_year": 2011,
+    "vote_count": 63
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Borgia is a historical drama series that chronicles the ruthless ascent of the Borgia family to power within the Papal States during the Renaissance. The series blends political intrigue, familial ambition, and religious corruption, offering a visually rich and morally complex exploration of power dynamics and the compromises made in pursuit of it. It portrays a world of lavish courts, clandestine alliances, and brutal betrayals, examining the personal cost of ambition and the fragility of morality in a climate of unchecked authority. The show's tone is dark and opulent, emphasizing the decadence and violence inherent in the Borgia's quest for dominance.",
+        "spoiler_rich_plot_summary": "The series begins with Rodrigo Borgia's (later Pope Alexander VI) machinations to become Pope, leveraging bribery and political maneuvering to overcome his rivals. Once in power, he elevates his children – Cesare, Lucrezia, and Juan – to positions of influence, each pursuing their own ambitions. Cesare, a skilled military leader, consolidates power through ruthless tactics and political assassinations, while Lucrezia navigates complex marriages and courtly life, often manipulated as a pawn in her father’s schemes. Juan, initially a key player, faces setbacks and ultimately meets a tragic end due to political rivalries. As the Borgia family’s power grows, they face increasing opposition from rival noble families and within the Church itself, leading to escalating conflicts and betrayals. The series follows the family's attempts to secure their legacy and expand their influence across Italy, culminating in a period of intense political instability and personal tragedy as their enemies close in and internal divisions threaten to tear them apart. The series concludes with the family’s power waning, their reputation tarnished, and the consequences of their actions reverberating through the Papal States.",
+        "categorized_keywords": {
+          "themes": [
+            "power-corrupts",
+            "family-ambition",
+            "political-intrigue",
+            "religious-corruption",
+            "moral-compromise",
+            "dynastic-rule"
+          ],
+          "plot_and_concepts": [
+            "papal-politics",
+            "assassination",
+            "dynastic-succession",
+            "courtly-life",
+            "political-marriage"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "opulent",
+            "intense",
+            "decadent",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "historical-drama",
+            "political-thriller",
+            "court-intrigue",
+            "dynasty-saga"
+          ],
+          "setting": [
+            "renaissance-italy",
+            "papal-states",
+            "15th-century",
+            "vatican-city"
+          ],
+          "character_archetypes": [
+            "ruthless-patrician",
+            "ambitious-noble",
+            "manipulative-politician",
+            "tragic-heroine"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "papal-tiara",
+            "renaissance-palace",
+            "assassination-plot",
+            "court-ball",
+            "religious-ceremony"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "sexual-content",
+            "political-deceit"
+          ]
+        },
+        "keyword_sentence": "Borgia is a dark and opulent historical drama series set in Renaissance Italy, exploring themes of power, ambition, and religious corruption as a powerful family navigates treacherous political intrigue and courtly life."
+      },
+      "duration_seconds": 72.41731524467468
+    }
+  }
+}

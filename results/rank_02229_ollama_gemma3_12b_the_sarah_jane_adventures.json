@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "The Sarah Jane Adventures",
+    "overview": "A British science fiction television programme that was produced by BBC Cymru Wales for CBBC, created by Russell T Davies and starring Elisabeth Sladen. It was a spin-off of the long-running science fiction show Doctor Who and focused on the adventures of Sarah Jane Smith, an investigative journalist who, as a young woman had numerous adventures across time and space with the Doctor.",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Kids"
+    ],
+    "release_year": 2007,
+    "vote_count": 82
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Sarah Jane Adventures is a British science fiction series aimed at a younger audience, serving as a spin-off from Doctor Who. It follows Sarah Jane Smith, a former companion of the Doctor, as she investigates paranormal and extraterrestrial threats alongside a group of young friends. The show blends action-adventure elements with dramatic storylines, exploring themes of friendship, responsibility, and the importance of standing up for what's right. It offers a mix of suspense and heartwarming moments, appealing to both long-time Doctor Who fans and new viewers.",
+        "spoiler_rich_plot_summary": "The series begins with Sarah Jane Smith, having left the Doctor years prior, establishing herself as an investigative journalist. She discovers a series of strange occurrences in her hometown and recruits two teenagers, Maria Jackson and Luke Smith, to help her investigate. They soon uncover a network of alien threats, ranging from mischievous aliens seeking to exploit Earth's resources to dangerous invaders with sinister agendas. Throughout the series, Sarah Jane confronts recurring adversaries and new challenges, often relying on her intelligence and resourcefulness to protect her friends and the world. Luke's own alien heritage is revealed, adding a complex layer to his character and his connection to Sarah Jane. The series explores the ongoing threat of alien interference and the importance of vigilance in safeguarding Earth, culminating in a final confrontation with a powerful enemy that tests Sarah Jane and her team’s courage and resolve.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "responsibility",
+            "courage",
+            "alien-invasion",
+            "justice",
+            "mystery"
+          ],
+          "plot_and_concepts": [
+            "alien-encounter",
+            "investigative-journalism",
+            "monster-of-the-week",
+            "found-family",
+            "secret-identity"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "lighthearted",
+            "adventurous",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "adventure-series",
+            "kids-tv",
+            "monster-hunt"
+          ],
+          "setting": [
+            "modern-day",
+            "small-town",
+            "wales"
+          ],
+          "character_archetypes": [
+            "investigator",
+            "reluctant-hero",
+            "teenager",
+            "mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "young-adult",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "alien-technology",
+            "secret-base",
+            "investigation-room",
+            "journalism-notebook"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Sarah Jane Adventures is a lighthearted and adventurous science-fiction series for a family audience, following an experienced investigator and her young friends as they uncover mysteries and confront alien threats in their small town."
+      },
+      "duration_seconds": 60.18413472175598
+    }
+  }
+}

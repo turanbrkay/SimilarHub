@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "WWE NXT",
+    "overview": "Wrestlers will portray heroes or villains as they follow a series of events that build tension and culminate in a wrestling match or series of matches.",
+    "genres": [
+      "Action & Adventure",
+      "Drama"
+    ],
+    "release_year": 2010,
+    "vote_count": 106
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "WWE NXT is a professional wrestling television program that serves as a developmental brand for WWE. The show focuses on rising wrestlers as they compete in matches and storylines, often portraying them as either heroic figures or antagonists. NXT blends athletic competition with scripted drama, creating a dynamic and engaging experience for wrestling fans. The program's emphasis on character development and in-ring action has cultivated a dedicated following and served as a crucial pipeline for talent ascending to WWE's main roster. The show's format allows for a mix of established stars and emerging talent, creating a constantly evolving landscape of rivalries and alliances.",
+        "spoiler_rich_plot_summary": "WWE NXT began as a reality show format, showcasing aspiring wrestlers training and competing for a WWE contract. Over time, it evolved into a more traditional wrestling program, featuring ongoing storylines and championship matches. Wrestlers are frequently presented with complex narratives, often involving betrayals, alliances, and personal struggles. Championship reigns are often contested through intense rivalries, with wrestlers battling for prestige and recognition. The show regularly features surprise debuts and returns, shaking up the established order and creating new opportunities for advancement. Wrestlers often navigate a system of mentorship and guidance, learning from experienced veterans while striving to establish their own identities. The program culminates in major events where championships are defended and long-standing feuds reach their conclusions, often leading to wrestlers being promoted to WWE's flagship shows.",
+        "categorized_keywords": {
+          "themes": [
+            "competition",
+            "ambition",
+            "rivalry",
+            "redemption",
+            "identity-quest",
+            "fame"
+          ],
+          "plot_and_concepts": [
+            "wrestling-match",
+            "championship-defense",
+            "heel-face-turn",
+            "storyline-arc",
+            "developmental-brand"
+          ],
+          "mood_and_tone": [
+            "competitive",
+            "dramatic",
+            "energetic",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "sports-entertainment",
+            "wrestling-drama",
+            "hero-villain",
+            "found-family"
+          ],
+          "setting": [
+            "wrestling-ring",
+            "modern-day",
+            "performance-center"
+          ],
+          "character_archetypes": [
+            "rising-star",
+            "mentor",
+            "heel",
+            "face"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult",
+            "sports-fans"
+          ],
+          "detail_plot": [
+            "championship-belt",
+            "entrance-music",
+            "signature-move",
+            "microphone-promo"
+          ],
+          "maturity_and_content": [
+            "staged-violence"
+          ]
+        },
+        "keyword_sentence": "WWE NXT is a competitive sports-entertainment program showcasing rising stars and established veterans as they navigate dramatic storylines and championship rivalries within the modern wrestling world."
+      },
+      "duration_seconds": 62.13358950614929
+    }
+  }
+}

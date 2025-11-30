@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "DreamWorks Dragons",
+    "overview": "From the creators of \"How to Train Your Dragon\" comes a new series that takes Hiccup and Toothless to the edge of adventure.",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy",
+      "Comedy"
+    ],
+    "release_year": 2012,
+    "vote_count": 587
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "DreamWorks Dragons is an animated action-adventure series expanding upon the world established in the \"How to Train Your Dragon\" films. The show follows Hiccup and Toothless as they navigate new challenges, explore uncharted territories, and confront evolving threats to their Viking village and the dragon population. It blends elements of fantasy, comedy, and action, offering a family-friendly experience centered on themes of friendship, courage, and acceptance. The series emphasizes the evolving relationship between humans and dragons, showcasing their mutual dependence and the importance of understanding different cultures.",
+        "spoiler_rich_plot_summary": "The series begins with Hiccup and Toothless solidifying their bond and working to bridge the gap between Vikings and dragons. Initially, the focus is on establishing peace and understanding, but new threats emerge, including rival Viking clans and powerful, ancient dragons. Hiccup struggles with the responsibilities of leadership and the weight of protecting his people, while Toothless grapples with his own dragon instincts and the challenges of being a symbol of peace. Throughout the seasons, they encounter new allies and enemies, uncovering secrets about the history of dragons and the origins of their connection to the Viking world. The series explores the complexities of leadership, the importance of challenging tradition, and the enduring power of friendship as Hiccup and Toothless face increasingly dangerous adversaries and ultimately strive to secure a lasting peace between humans and dragons.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "courage",
+            "acceptance",
+            "leadership",
+            "tradition-vs-progress",
+            "human-dragon-relations",
+            "coming-of-age"
+          ],
+          "plot_and_concepts": [
+            "coming-of-age-story",
+            "dragon-lore",
+            "viking-culture",
+            "exploration",
+            "political-intrigue"
+          ],
+          "mood_and_tone": [
+            "adventurous",
+            "lighthearted",
+            "optimistic",
+            "family-friendly"
+          ],
+          "genre_and_tropes": [
+            "animated-series",
+            "action-adventure",
+            "fantasy",
+            "coming-of-age-story"
+          ],
+          "setting": [
+            "viking-village",
+            "fantasy-world",
+            "northern-europe"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "loyal-companion",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "dragon-training",
+            "viking-longship",
+            "dragon-rider",
+            "viking-armor"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "DreamWorks Dragons is a lighthearted animated series that follows a young Viking and his dragon companion as they navigate a world of adventure, friendship, and the challenges of bridging the gap between two vastly different cultures."
+      },
+      "duration_seconds": 99.79855251312256
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Survivor",
+    "overview": "A reality show contest where sixteen or more castaways split between two or more “Tribes” are taken to a remote isolated location and are forced to live off the land with meager supplies for roughly 39 days. Frequent physical challenges are used to pit the tribes against each other for rewards, such as food or luxuries, or for “Immunity”, forcing the other tribe to attend “Tribal Council”, where they must vote off one of their players.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2000,
+    "vote_count": 347
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Survivor is a pioneering reality competition series that pits groups of contestants against each other in a test of physical endurance, social strategy, and psychological resilience. The show's premise revolves around survival skills, alliance building, and the manipulation of perceptions to outwit and outlast opponents. Its enduring appeal lies in its ability to expose the complexities of human behavior under pressure and the inherent drama of social dynamics. The format has spawned numerous international versions and remains a cornerstone of the reality television genre.",
+        "spoiler_rich_plot_summary": "Each season of Survivor begins with a group of contestants divided into tribes, who compete in challenges for rewards and immunity. The losing tribe must then attend Tribal Council, where they vote one of their own members out of the game. As the game progresses, tribes merge, and individual gameplay becomes paramount. Contestants form alliances, betray each other, and engage in elaborate schemes to secure their place in the final Tribal Council. The ultimate winner is determined by a jury of previously eliminated contestants, who vote for the player they believe deserves to win based on their gameplay and social maneuvering. Throughout the series, strategic gameplay, physical prowess, and social intelligence are all crucial for success, leading to unpredictable outcomes and dramatic shifts in power.",
+        "categorized_keywords": {
+          "themes": [
+            "survival",
+            "social-dynamics",
+            "strategy",
+            "deception",
+            "competition",
+            "leadership",
+            "alliance-building"
+          ],
+          "plot_and_concepts": [
+            "reality-competition",
+            "tribal-council",
+            "immunity-challenge",
+            "reward-challenge",
+            "social-engineering",
+            "vote-off"
+          ],
+          "mood_and_tone": [
+            "tense",
+            "competitive",
+            "strategic",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "reality-tv",
+            "competition-show",
+            "social-experiment"
+          ],
+          "setting": [
+            "remote-location",
+            "tropical-island",
+            "wilderness"
+          ],
+          "character_archetypes": [
+            "social-strategist",
+            "physical-competitor",
+            "underdog",
+            "manipulator"
+          ],
+          "narrative_style": [
+            "episodic",
+            "elimination-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "immunity-idol",
+            "tribal-flag",
+            "challenge-course",
+            "torch"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Survivor is a tense reality competition show where contestants battle for survival on a remote island, employing strategic alliances and social maneuvering to outwit their opponents and claim victory."
+      },
+      "duration_seconds": 52.91905117034912
+    }
+  }
+}

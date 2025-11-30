@@ -1,0 +1,69 @@
+{
+  "input_data": {
+    "title": "Curious George",
+    "overview": "With the help of his friend “The Man in the Yellow Hat,” a curious little monkey named George sets out on adventures to learn about the world around him.",
+    "genres": [
+      "Animation",
+      "Family",
+      "Kids"
+    ],
+    "release_year": 2006,
+    "vote_count": 75
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Curious George is a long-running animated series geared towards young children, following the adventures of a mischievous monkey and his caretaker, The Man in the Yellow Hat. The show emphasizes learning through exploration and problem-solving, presenting simple narratives with a focus on curiosity and gentle humor. It's a wholesome and educational program designed to entertain and subtly teach basic concepts to a preschool audience. The series blends elements of slapstick comedy with gentle life lessons, creating a consistently positive and engaging viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with George, a curious monkey, leaving the jungle to seek adventure in the city. He is taken in by The Man in the Yellow Hat, a kind inventor who becomes George’s caretaker and friend. Each episode typically revolves around a new challenge or opportunity for George to learn about the world, whether it's baking a cake, visiting a farm, or understanding the importance of sharing. George's inquisitive nature often leads to humorous mishaps and unexpected consequences, but The Man in the Yellow Hat consistently guides him towards understanding and positive outcomes. While George's antics sometimes cause minor chaos, the overarching narrative focuses on his growth and the strengthening bond between him and his caretaker, culminating in a continuous cycle of learning and shared experiences. The series doesn't feature a definitive ending, instead maintaining a perpetual loop of new adventures and lessons.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "learning",
+            "curiosity",
+            "problem-solving",
+            "wholesome-values"
+          ],
+          "plot_and_concepts": [
+            "coming-of-age",
+            "slice-of-life",
+            "educational-programming"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "gentle",
+            "optimistic",
+            "playful"
+          ],
+          "genre_and_tropes": [
+            "childrens-animation",
+            "coming-of-age-story",
+            "found-family"
+          ],
+          "setting": [
+            "urban-setting",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "innocent-protagonist",
+            "benevolent-mentor"
+          ],
+          "narrative_style": [
+            "episodic-storytelling"
+          ],
+          "target_audience": [
+            "preschool-audience",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "yellow-hat",
+            "monkey-antics",
+            "city-adventures"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Curious George is a lighthearted and gentle children's animation series that follows a playful monkey and his caretaker as they explore the world through learning and friendship in a modern urban setting."
+      },
+      "duration_seconds": 56.70312190055847
+    }
+  }
+}

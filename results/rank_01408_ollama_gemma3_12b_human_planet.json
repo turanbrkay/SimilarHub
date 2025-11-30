@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Human Planet",
+    "overview": "A cinematic experience bringing you the most amazing human stories in the world. Humans and wildlife surviving in the most extreme environments on Earth.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2011,
+    "vote_count": 161
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Human Planet is a documentary series that explores the ingenuity and adaptability of human populations across diverse and challenging environments. Through stunning visuals and intimate storytelling, the series examines how humans have developed unique cultures and survival strategies in extreme climates, from scorching deserts to frozen polar regions. It highlights the complex relationship between humanity and the natural world, showcasing both resilience and the impact of human activity on fragile ecosystems. The series offers a compelling portrait of human diversity and the enduring spirit of survival.",
+        "spoiler_rich_plot_summary": "The series follows a global journey, visiting various communities and showcasing their unique ways of life. Each episode focuses on a specific biome – deserts, arctic, jungles, oceans, grasslands, mountains, and urban environments – and demonstrates how human populations have adapted to the specific challenges presented by each. We see how communities have developed intricate knowledge of their local environments, utilizing resources and building social structures to thrive. The series doesn't follow a traditional narrative arc but rather presents a mosaic of human experiences, illustrating the common thread of human ingenuity and the diverse ways people have shaped their lives in harmony with, and sometimes in conflict with, the natural world. The overarching theme is the enduring capacity of humans to adapt and innovate, even in the face of extreme adversity, while also subtly hinting at the potential consequences of unsustainable practices.",
+        "categorized_keywords": {
+          "themes": [
+            "human-adaptation",
+            "environmental-impact",
+            "cultural-diversity",
+            "survival",
+            "resilience",
+            "human-ingenuity"
+          ],
+          "plot_and_concepts": [
+            "documentary-series",
+            "global-exploration",
+            "biome-study",
+            "cultural-anthropology"
+          ],
+          "mood_and_tone": [
+            "awe-inspiring",
+            "informative",
+            "observational",
+            "thought-provoking"
+          ],
+          "genre_and_tropes": [
+            "nature-documentary",
+            "travel-documentary",
+            "anthropological-study"
+          ],
+          "setting": [
+            "global",
+            "extreme-environments",
+            "desert",
+            "arctic",
+            "jungle",
+            "ocean",
+            "grassland",
+            "mountain",
+            "urban"
+          ],
+          "character_archetypes": [
+            "indigenous-people",
+            "traditional-communities",
+            "survivalist"
+          ],
+          "narrative_style": [
+            "observational-documentary",
+            "episodic-structure"
+          ],
+          "target_audience": [
+            "general-audience",
+            "nature-enthusiasts",
+            "anthropology-students"
+          ],
+          "detail_plot": [
+            "traditional-housing",
+            "local-food-sources",
+            "unique-clothing",
+            "ancient-tools",
+            "traditional-ceremonies"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Human Planet is an awe-inspiring documentary series that explores the ingenuity and resilience of diverse human communities as they adapt to extreme environments across the globe, showcasing the enduring spirit of survival and the complex relationship between humanity and the natural world."
+      },
+      "duration_seconds": 62.04982876777649
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "The Ark",
+    "overview": "100 years in the future, planetary colonization missions have begun as a necessity to help secure the survival of the human race. The first of these missions on a spacecraft known as Ark One encounters a catastrophic event causing massive destruction and loss of life. With more than a year left to go before reaching their target planet, a lack of life-sustaining supplies and loss of leadership, the remaining crew must become the best versions of themselves to stay on course and survive.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Mystery"
+    ],
+    "release_year": 2023,
+    "vote_count": 63
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Ark is a science fiction series set a century in the future, depicting the perilous journey of a colonization mission facing catastrophic failure. The narrative explores themes of survival, leadership, and the resilience of the human spirit under extreme duress. With limited resources and a decimated crew, the series blends elements of mystery and suspense as the remaining members grapple with the challenges of maintaining order and reaching their destination. The tone is generally somber and tense, emphasizing the high stakes and the constant threat of failure, while also hinting at underlying interpersonal conflicts and the potential for unexpected heroism.",
+        "spoiler_rich_plot_summary": "The series begins with Ark One, a spacecraft carrying thousands of colonists on a century-long journey to a new planet, experiencing a devastating event that destroys much of the ship and claims countless lives. With the leadership gone and vital systems damaged, the remaining crew must quickly reorganize and assume new responsibilities. As they navigate the immediate crisis, tensions arise between different factions and individuals vying for power and control. The investigation into the cause of the disaster reveals a complex web of secrets and potential sabotage, forcing the crew to confront uncomfortable truths about their mission and the people they thought they knew. Over time, the survivors face numerous challenges, including dwindling resources, mechanical failures, and the psychological toll of their isolation. New leadership emerges, but faces constant opposition and must make difficult choices that impact the fate of the remaining colonists. The series follows the crew as they struggle to maintain hope and purpose while confronting the harsh realities of their situation and the possibility that their destination may not be what they expected.",
+        "categorized_keywords": {
+          "themes": [
+            "survival",
+            "leadership",
+            "isolation",
+            "hope",
+            "sacrifice",
+            "duty",
+            "human-resilience"
+          ],
+          "plot_and_concepts": [
+            "space-exploration",
+            "colonization",
+            "disaster-scenario",
+            "mystery-investigation",
+            "political-intrigue",
+            "ship-board-conflicts"
+          ],
+          "mood_and_tone": [
+            "tense",
+            "somber",
+            "suspenseful",
+            "claustrophobic",
+            "hopeful"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "space-opera",
+            "disaster-movie",
+            "found-family",
+            "survival-thriller"
+          ],
+          "setting": [
+            "spacecraft",
+            "future-setting",
+            "long-duration-spaceflight"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "strong-female-lead",
+            "corrupt-official",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "damaged-ship",
+            "emergency-protocol",
+            "life-support-system",
+            "cryo-sleep",
+            "navigation-console"
+          ],
+          "maturity_and_content": [
+            "substance-abuse",
+            "graphic-violence"
+          ]
+        },
+        "keyword_sentence": "Set on a damaged spacecraft during a century-long colonization mission, The Ark is a tense science fiction series exploring themes of survival, leadership, and human resilience as a decimated crew confronts disaster and political intrigue in the vastness of space."
+      },
+      "duration_seconds": 68.1486234664917
+    }
+  }
+}

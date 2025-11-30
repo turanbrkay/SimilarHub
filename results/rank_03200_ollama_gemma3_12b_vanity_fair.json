@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "Vanity Fair",
+    "overview": "In a world where everyone is striving for what is not worth having, no one is more determined to climb to the heights of English society than Becky Sharp.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2018,
+    "vote_count": 42
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Vanity Fair is a satirical drama series exploring themes of ambition, social climbing, and the corrupting influence of wealth. Following the adventures of Becky Sharp, the series offers a cynical and often humorous portrayal of 19th-century English society, exposing the hypocrisy and superficiality of the upper classes. The narrative follows Becky's relentless pursuit of status and fortune, often at the expense of her own morality and the well-being of those around her. The series blends elements of comedy and drama, creating a compelling and thought-provoking commentary on human nature and the pursuit of social acceptance.",
+        "spoiler_rich_plot_summary": "The series begins with Becky Sharp, a young woman of modest means, attending a farewell party with her friend Amelia Sedley. Becky’s ambition to rise above her station is immediately apparent, contrasting with Amelia’s more gentle and trusting nature. Becky’s schemes to infiltrate high society lead her to become entangled with the wealthy and influential Rawdon Crawley, whose family is plagued by scandal and financial woes. Becky’s marriage to Rawdon initially seems to offer her the social standing she craves, but her manipulative behavior and relentless pursuit of wealth ultimately lead to the disintegration of their relationship and the ruin of those around her. Amelia, meanwhile, experiences a series of misfortunes, including poverty and loss, highlighting the stark contrast between Becky’s calculated ascent and Amelia’s genuine suffering. The narrative follows Becky’s fluctuating fortunes as she navigates the complexities of London society, experiencing periods of both triumph and disgrace, ultimately revealing the emptiness and moral compromises inherent in her relentless pursuit of status.",
+        "categorized_keywords": {
+          "themes": [
+            "social-climbing",
+            "ambition",
+            "hypocrisy",
+            "moral-compromise",
+            "class-conflict",
+            "deception"
+          ],
+          "plot_and_concepts": [
+            "satire",
+            "romantic-entanglements",
+            "financial-ruin",
+            "social-maneuvering"
+          ],
+          "mood_and_tone": [
+            "cynical",
+            "humorous",
+            "darkly-comic",
+            "satirical"
+          ],
+          "genre_and_tropes": [
+            "historical-drama",
+            "romantic-drama",
+            "social-comedy"
+          ],
+          "setting": [
+            "19th-century-england",
+            "london-society"
+          ],
+          "character_archetypes": [
+            "anti-heroine",
+            "social-climber",
+            "naive-romantic"
+          ],
+          "narrative_style": [
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "london-ballroom",
+            "carriage-ride",
+            "drawing-room",
+            "society-gossip"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Vanity Fair is a darkly comic historical drama series set in 19th-century England, satirizing the ruthless ambition and moral compromises of those striving for social climbing within London society."
+      },
+      "duration_seconds": 56.52278661727905
+    }
+  }
+}

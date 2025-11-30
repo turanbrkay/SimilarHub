@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Castlevania",
+    "overview": "A dark medieval fantasy following the last surviving member of the disgraced Belmont clan, trying to save Eastern Europe from extinction at the hand of Vlad Dracula Tepe himself. Inspired by the classic video game series.",
+    "genres": [
+      "Animation",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2017,
+    "vote_count": 1082
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Castlevania is a dark fantasy animated series blending action, horror, and mature themes within a medieval European setting. The show follows a lone warrior's quest to defeat Dracula and his demonic hordes, exploring themes of revenge, redemption, and the corrupting influence of power. Its blend of visceral action sequences, complex character dynamics, and gothic atmosphere creates a compelling and often brutal narrative experience, appealing to fans of both video games and dark fantasy.",
+        "spoiler_rich_plot_summary": "The series begins with Trevor Belmont, the last of his family, witnessing the execution of his lover, Lisa, for falsely being accused of witchcraft. Driven by grief and vengeance, Trevor vows to destroy Dracula, who has unleashed a demonic army upon the land. He reluctantly teams up with Alucard, Dracula’s conflicted son, and Sypha Belnades, a Speaker who can manipulate magical energies. Their journey takes them across Eastern Europe, battling hordes of monsters and confronting Dracula’s lieutenants. Along the way, they uncover the reasons behind Dracula’s hatred for humanity and the tragic events that led to Lisa’s death. As they progress, the trio faces betrayals, losses, and moral dilemmas, forcing them to confront their own demons and question their motivations. The series culminates in a final confrontation with Dracula, where the fate of humanity hangs in the balance, and the characters must make difficult choices that will shape their destinies and the future of the world.",
+        "categorized_keywords": {
+          "themes": [
+            "revenge",
+            "redemption",
+            "grief",
+            "betrayal",
+            "corruption",
+            "family-loyalty",
+            "sacrifice"
+          ],
+          "plot_and_concepts": [
+            "monster-hunting",
+            "demonic-invasion",
+            "magic-system",
+            "political-intrigue",
+            "dark-fantasy",
+            "vampire-politics"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "violent",
+            "grim",
+            "suspenseful",
+            "gothic"
+          ],
+          "genre_and_tropes": [
+            "dark-fantasy",
+            "action-adventure",
+            "found-family",
+            "monster-of-the-week"
+          ],
+          "setting": [
+            "eastern-europe",
+            "medieval-era",
+            "gothic-architecture"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "anti-hero",
+            "wise-mentor",
+            "tragic-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "vampire-castle",
+            "magic-circles",
+            "demon-army",
+            "ancient-artifacts"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "sexual-content",
+            "abuse-themes"
+          ]
+        },
+        "keyword_sentence": "Castlevania is a dark and violent animated series set in medieval Eastern Europe, following a reluctant hero’s quest for revenge against a demonic invasion and exploring themes of grief, betrayal, and the corrupting influence of power."
+      },
+      "duration_seconds": 63.357311964035034
+    }
+  }
+}

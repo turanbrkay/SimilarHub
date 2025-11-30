@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "The Loud House",
+    "overview": "Welcome to the Loud House, where life can get pretty crazy. One boy, TEN girls?! Lincoln Loud wouldn’t change it for the world!",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Kids",
+      "Mystery"
+    ],
+    "release_year": 2016,
+    "vote_count": 439
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Loud House is a vibrant animated comedy series centered on Lincoln Loud, a boy navigating life with his ten sisters in a chaotic and loving family. The show explores themes of sibling rivalry, family dynamics, and finding your place within a large and diverse group. With its humor and heart, The Loud House offers a relatable and entertaining look at the joys and challenges of growing up in a large family, appealing to a broad audience through its universal themes and comedic situations.",
+        "spoiler_rich_plot_summary": "The series begins with Lincoln, the only boy in a family of ten sisters, struggling to find his place and express himself amidst the constant noise and activity. Each sister possesses a distinct personality and passion, leading to frequent clashes and comedic misunderstandings. Throughout the series, Lincoln and his sisters face various challenges, from navigating school and friendships to dealing with family conflicts and personal growth. While Lincoln often feels overshadowed, he gradually learns to appreciate his sisters and finds creative ways to connect with them. The show explores the complexities of family relationships, highlighting the importance of acceptance, understanding, and finding common ground, even amidst chaos. The Loud family faces various external challenges, such as financial struggles and neighborhood conflicts, but ultimately strengthens their bond through shared experiences and unwavering support for one another. The series emphasizes the importance of individuality within a family unit, showcasing each sister's unique talents and dreams while celebrating the power of family love and acceptance.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "sibling-rivalry",
+            "growing-up",
+            "individuality",
+            "acceptance",
+            "finding-your-place"
+          ],
+          "plot_and_concepts": [
+            "coming-of-age",
+            "family-comedy",
+            "slice-of-life"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "optimistic",
+            "funny"
+          ],
+          "genre_and_tropes": [
+            "animated-comedy",
+            "family-sitcom",
+            "found-family"
+          ],
+          "setting": [
+            "suburban-neighborhood",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "quirky-family",
+            "reluctant-hero",
+            "older-sibling",
+            "younger-sibling"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "kids"
+          ],
+          "detail_plot": [
+            "loud-house",
+            "lincoln-loud",
+            "sisters",
+            "family-portrait"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Loud House is a lighthearted animated comedy series that explores the joys and challenges of growing up within a quirky, large family, celebrating individuality and acceptance in a modern suburban setting."
+      },
+      "duration_seconds": 74.00034880638123
+    }
+  }
+}

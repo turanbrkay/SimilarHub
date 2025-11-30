@@ -1,0 +1,86 @@
+{
+  "input_data": {
+    "title": "Battlestar Galactica",
+    "overview": "When the 12 Colonies of Man are wiped out by a cybernetic race called the Cylons, Commander Adama and the crew of the battlestar Galactica lead a ragtag fleet of human survivors in search of a \"mythical planet\" called Earth.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "release_year": 1978,
+    "vote_count": 199
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Battlestar Galactica is a science fiction drama exploring themes of survival, faith, and the nature of humanity in the face of existential threat. Following a devastating attack by the Cylons, a fleet of human survivors embarks on a perilous journey to find the legendary planet Earth, grappling with internal conflicts, moral ambiguities, and the constant fear of annihilation. The series blends action, suspense, and philosophical inquiry, offering a compelling narrative about resilience and the search for meaning in a shattered universe. It examines the complexities of leadership, the fragility of civilization, and the enduring power of hope.",
+        "spoiler_rich_plot_summary": "The series begins with the near-total destruction of the Twelve Colonies by the Cylons, a robotic race created by humans. Commander William Adama and his crew aboard the battlestar Galactica manage to escape the massacre, leading a fleet of civilian ships in a desperate search for Earth, a mythical planet believed to be humanity's ancestral home. The journey is fraught with peril, as the Cylons relentlessly pursue the fleet, employing increasingly sophisticated tactics and infiltrating the human ranks. Throughout their travels, the fleet encounters various challenges, including dwindling resources, internal political strife, and the discovery of ancient secrets about the Cylons' origins and the true history of humanity. The search for Earth becomes intertwined with a deeper understanding of the Cylons' motives and the possibility of a peaceful coexistence, though betrayals and sacrifices mark the path. As the fleet nears its destination, the true nature of Earth and the role of the survivors are revealed, forcing difficult choices about the future of humanity and the legacy of the past.",
+        "categorized_keywords": {
+          "themes": [
+            "survival",
+            "faith",
+            "humanity",
+            "redemption",
+            "moral-ambiguity",
+            "political-conflict",
+            "legacy",
+            "artificial-intelligence"
+          ],
+          "plot_and_concepts": [
+            "space-opera",
+            "cybernetic-race",
+            "fleet-escape",
+            "search-for-home",
+            "infiltration",
+            "ancient-secrets",
+            "political-intrigue"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "suspenseful",
+            "gritty",
+            "hopeful",
+            "tense"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "space-western",
+            "found-family",
+            "military-drama"
+          ],
+          "setting": [
+            "space",
+            "battlestar-galactica",
+            "colonial-ships",
+            "alternate-timeline"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "moral-gray-protagonist",
+            "military-leader"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "cylons",
+            "raiders",
+            "jump-drive",
+            "colonial-flag",
+            "vipers"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "political-tension"
+          ]
+        },
+        "keyword_sentence": "Battlestar Galactica is a dark and suspenseful science fiction drama about a fleet of human survivors searching for a new home amidst a relentless cybernetic threat, exploring themes of survival, faith, and the enduring complexities of humanity."
+      },
+      "duration_seconds": 67.87256979942322
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "The Endgame",
+    "overview": "A high-stakes thriller about Elena Federova, a very recently captured international arms dealer and brilliant criminal mastermind who even in captivity orchestrates a number of coordinated bank heists, and Val Turner, the principled, relentless and socially outcast FBI agent who will stop at nothing to foil her ambitious plan.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2022,
+    "vote_count": 79
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Endgame is a tense, character-driven thriller centered on a cat-and-mouse game between a cunning criminal mastermind and a dedicated FBI agent. The series blends elements of crime procedural and heist narratives, exploring themes of ambition, morality, and the blurred lines between justice and criminality. Elena Federova, the antagonist, presents a formidable challenge, forcing the FBI to adapt and question their own methods. The show emphasizes psychological complexity and strategic maneuvering, offering a suspenseful and intellectually stimulating viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with the capture of Elena Federova, a notorious international arms dealer, who seemingly poses little threat behind bars. However, it quickly becomes apparent that Elena is far from contained, orchestrating a series of meticulously planned bank heists from within prison. FBI Agent Val Turner, a brilliant but socially awkward investigator, is assigned to stop her, finding himself constantly outmaneuvered and forced to question his own assumptions. As Val delves deeper into Elena's operation, he uncovers a vast network of collaborators and a complex web of personal connections that challenge his understanding of justice. The heists are revealed to be part of a larger, more ambitious plan, with Elena manipulating events to achieve a specific, yet initially unclear, goal. Throughout the series, Val struggles to anticipate Elena's next move, often finding himself caught in her elaborate schemes. The narrative explores Elena's motivations, revealing a tragic backstory that complicates her portrayal as a purely villainous figure. The series culminates in a confrontation where Val must confront not only Elena but also the systemic flaws that allowed her criminal enterprise to flourish, leaving the audience to question the true meaning of victory.",
+        "categorized_keywords": {
+          "themes": [
+            "crime-and-punishment",
+            "justice-and-morality",
+            "ambition",
+            "redemption",
+            "deception",
+            "social-justice"
+          ],
+          "plot_and_concepts": [
+            "heist",
+            "cat-and-mouse",
+            "criminal-mastermind",
+            "police-investigation",
+            "conspiracy",
+            "financial-crime"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "tense",
+            "dark",
+            "intellectual",
+            "thrilling"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "thriller",
+            "heist-movie",
+            "cat-and-mouse-game"
+          ],
+          "setting": [
+            "modern-day",
+            "urban-environment",
+            "prison-setting"
+          ],
+          "character_archetypes": [
+            "criminal-mastermind",
+            "reluctant-hero",
+            "brilliant-detective",
+            "anti-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "prison-cells",
+            "bank-vaults",
+            "surveillance-cameras",
+            "financial-records"
+          ],
+          "maturity_and_content": [
+            "substance-abuse",
+            "graphic-violence"
+          ]
+        },
+        "keyword_sentence": "The Endgame is a suspenseful thriller that explores themes of justice and morality through the tense cat-and-mouse game between a brilliant detective and a criminal mastermind orchestrating elaborate heists from within a modern-day prison."
+      },
+      "duration_seconds": 68.72465753555298
+    }
+  }
+}

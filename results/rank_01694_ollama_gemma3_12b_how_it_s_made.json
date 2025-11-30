@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "How It's Made",
+    "overview": "Have you ever wondered how the products you use every day are made? How It's Made leads you through the process of how everyday products, such as apple juice, skateboards, engines, contact lenses, and many more objects are manufactured.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2001,
+    "vote_count": 123
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "How It's Made is a documentary series that explores the manufacturing processes behind everyday objects. The show's appeal lies in its ability to demystify complex industrial techniques, revealing the ingenuity and precision involved in creating familiar products. With a focus on visual clarity and concise explanations, it offers a surprisingly engaging look at the world of industrial production. The series caters to a broad audience, appealing to those with a curiosity about how things work and a fascination with the mechanics of modern manufacturing. It's a consistently informative and visually compelling exploration of the industrial world.",
+        "spoiler_rich_plot_summary": "Each episode of How It's Made typically focuses on a specific category of products, such as food items, toys, or automotive components. The narrative follows a chronological structure, beginning with the raw materials and progressing through the various stages of production. Viewers witness the transformation of these materials into finished goods, observing the use of specialized machinery and the expertise of skilled workers. The series often highlights the challenges and innovations involved in the manufacturing process, showcasing the constant drive for efficiency and quality. While there isn't a traditional plot arc, each episode builds a sense of appreciation for the complexity and artistry behind seemingly simple objects, culminating in the final product ready for distribution. The series consistently demonstrates the evolution of manufacturing techniques over time, subtly revealing how technology and automation have reshaped the industrial landscape.",
+        "categorized_keywords": {
+          "themes": [
+            "manufacturing",
+            "industrial-processes",
+            "technology",
+            "innovation",
+            "engineering",
+            "automation"
+          ],
+          "plot_and_concepts": [
+            "documentary-format",
+            "process-explanation",
+            "step-by-step-guide",
+            "industrial-design"
+          ],
+          "mood_and_tone": [
+            "informative",
+            "educational",
+            "neutral",
+            "observational"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "educational-tv"
+          ],
+          "setting": [
+            "industrial-facilities",
+            "manufacturing-plants",
+            "modern-era"
+          ],
+          "character_archetypes": [
+            "skilled-workers",
+            "engineers",
+            "industrial-designers"
+          ],
+          "narrative_style": [
+            "serialized-episodes",
+            "observational-style"
+          ],
+          "target_audience": [
+            "general-audience",
+            "curious-viewers"
+          ],
+          "detail_plot": [
+            "assembly-line",
+            "machinery",
+            "raw-materials",
+            "finished-products",
+            "manufacturing-equipment"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "How It's Made is an informative documentary series that explores the intricacies of modern manufacturing, revealing the step-by-step processes behind everyday products in industrial facilities."
+      },
+      "duration_seconds": 58.813517332077026
+    }
+  }
+}

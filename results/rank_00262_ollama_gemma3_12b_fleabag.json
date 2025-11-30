@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Fleabag",
+    "overview": "A comedy series adapted from the award-winning play about a young woman trying to cope with life in London while coming to terms with a recent tragedy.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2016,
+    "vote_count": 1123
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Fleabag is a darkly comedic and emotionally raw series that follows a young woman navigating grief, family dysfunction, and romantic relationships in London. The show blends sharp wit with poignant vulnerability, exploring themes of loss, guilt, and self-sabotage through a uniquely unreliable and fourth-wall-breaking narrative perspective. Its blend of humor and pathos creates a deeply affecting and often uncomfortable viewing experience, offering a nuanced portrayal of a woman struggling to find her place in the world. The series is notable for its innovative use of direct address to the audience, blurring the lines between performance and reality.",
+        "spoiler_rich_plot_summary": "The series begins with Fleabag, a young woman running a failing guinea pig café in London, grappling with the recent death of her best friend, Boo. She’s estranged from her emotionally distant family, including her cold mother and her younger sister, Claire, who is preparing for her wedding. Fleabag’s coping mechanisms involve self-deprecating humor, casual sex, and a constant stream of sarcastic commentary directed at the audience. As the first season progresses, she confronts her guilt surrounding Boo’s death and begins to examine her dysfunctional relationships with her family. The second season introduces a new character, 'The Hot Priest,' a charismatic and conflicted clergyman who sees through Fleabag’s defenses and forms a complex, forbidden connection with her. This relationship forces Fleabag to confront her deepest insecurities and consider the possibility of genuine connection. Ultimately, she begins a path toward self-acceptance and healing, though the future remains uncertain. The series concludes with Fleabag acknowledging her growth and stepping away from the audience, suggesting a newfound ability to live authentically without relying on performative humor.",
+        "categorized_keywords": {
+          "themes": [
+            "grief",
+            "family-dysfunction",
+            "guilt",
+            "self-discovery",
+            "female-identity",
+            "sexuality",
+            "faith",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "fourth-wall-break",
+            "unreliable-narrator",
+            "forbidden-romance",
+            "coming-of-age",
+            "dark-comedy"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "witty",
+            "poignant",
+            "cynical",
+            "vulnerable"
+          ],
+          "genre_and_tropes": [
+            "british-comedy",
+            "dramedy",
+            "female-led-story",
+            "anti-heroine"
+          ],
+          "setting": [
+            "london-england",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "anti-heroine",
+            "damaged-protagonist",
+            "complex-family-member"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "first-person-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "guinea-pig-cafe",
+            "wedding-dress",
+            "confessional-booth",
+            "funeral-scene"
+          ],
+          "maturity_and_content": [
+            "sexual-content",
+            "profanity"
+          ]
+        },
+        "keyword_sentence": "Fleabag is a darkly comic and poignant British dramedy that explores themes of grief, family dysfunction, and female identity through the perspective of a witty and vulnerable anti-heroine navigating modern-day London."
+      },
+      "duration_seconds": 171.06333947181702
+    }
+  }
+}

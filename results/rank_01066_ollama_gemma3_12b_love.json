@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Love",
+    "overview": "Rebellious Mickey and good-natured Gus navigate the thrills and agonies of modern relationships.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2016,
+    "vote_count": 237
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Love is a comedy-drama series that explores the complexities of modern relationships through the experiences of Mickey and Gus. The show blends humor and pathos, offering a realistic and often awkward portrayal of commitment, communication breakdowns, and personal growth. It avoids easy answers, presenting a nuanced perspective on love and its challenges, appealing to viewers who appreciate character-driven narratives and relatable struggles. The series is known for its naturalistic dialogue and willingness to tackle uncomfortable truths about intimacy and connection.",
+        "spoiler_rich_plot_summary": "The series begins with Mickey and Gus, two very different men, unexpectedly finding themselves in a relationship. Mickey is a self-absorbed, immature, and often infuriating individual, while Gus is a more grounded and empathetic person. Their initial connection is based on a series of misunderstandings and a shared sense of loneliness. As their relationship progresses, they confront their individual flaws and insecurities, leading to frequent arguments and periods of separation. The series follows their attempts to navigate the challenges of commitment, including dealing with family expectations, career pressures, and personal demons. Throughout the show, they repeatedly test the boundaries of their relationship, experiencing both moments of intense joy and devastating heartbreak. While they strive for a lasting connection, their individual growth and evolving perspectives often lead them down divergent paths, forcing them to re-evaluate their future together and the very nature of their love.",
+        "categorized_keywords": {
+          "themes": [
+            "modern-relationships",
+            "commitment-issues",
+            "personal-growth",
+            "communication-breakdown",
+            "intimacy",
+            "self-discovery"
+          ],
+          "plot_and_concepts": [
+            "romantic-comedy",
+            "relationship-drama",
+            "ensemble-cast",
+            "slice-of-life"
+          ],
+          "mood_and_tone": [
+            "awkward",
+            "realistic",
+            "comedic",
+            "pathos",
+            "naturalistic"
+          ],
+          "genre_and_tropes": [
+            "romantic-comedy",
+            "relationship-drama",
+            "slice-of-life"
+          ],
+          "setting": [
+            "modern-day",
+            "urban-setting"
+          ],
+          "character_archetypes": [
+            "immature-protagonist",
+            "grounded-partner",
+            "flawed-characters"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "awkward-moments",
+            "relationship-arguments",
+            "therapy-sessions"
+          ],
+          "maturity_and_content": [
+            "sexual-content",
+            "mature-language"
+          ]
+        },
+        "keyword_sentence": "Love is a realistic and comedic drama series that explores the complexities of modern relationships through the struggles and awkward moments of two flawed characters navigating commitment and personal growth in an urban setting."
+      },
+      "duration_seconds": 58.16324043273926
+    }
+  }
+}

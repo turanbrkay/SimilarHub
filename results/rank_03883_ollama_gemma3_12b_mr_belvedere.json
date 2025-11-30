@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "Mr. Belvedere",
+    "overview": "Mr. Belvedere takes a job as a housekeeper with an American family headed by George Owens.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1985,
+    "vote_count": 30
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Mr. Belvedere is a lighthearted sitcom centered on a sophisticated English butler who becomes the housekeeper for an American family in suburban Pennsylvania. The series explores themes of cultural differences, family dynamics, and the challenges of adapting to new environments, all while maintaining a consistently optimistic and humorous tone. The show's appeal lies in its gentle humor, relatable family situations, and the endearing charm of Mr. Belvedere's dry wit and old-world manners.",
+        "spoiler_rich_plot_summary": "The series begins with the Owens family, struggling to balance work and family life, hiring Mr. Belvedere, a butler from England, to help manage their household. Initially, Mr. Belvedere's formal and proper demeanor clashes with the Owens' more relaxed American style, leading to comedic misunderstandings and cultural clashes. Throughout the series, Mr. Belvedere becomes an integral part of the family, offering advice, mediating conflicts, and providing a unique perspective on American customs. While the show primarily focuses on everyday family situations, recurring storylines involve Mr. Belvedere's attempts to introduce British traditions and etiquette to the Owens, and the family's efforts to help him understand American culture. The series concludes with the Owens family facing a significant life change, prompting a heartfelt farewell to Mr. Belvedere, who returns to England, leaving a lasting impact on their lives.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "cultural-differences",
+            "adaptation",
+            "tradition",
+            "friendship"
+          ],
+          "plot_and_concepts": [
+            "fish-out-of-water",
+            "butler-servant",
+            "sitcom-format",
+            "domestic-comedy"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "optimistic",
+            "gentle-humor"
+          ],
+          "genre_and_tropes": [
+            "family-sitcom",
+            "fish-out-of-water",
+            "domestic-comedy"
+          ],
+          "setting": [
+            "suburban-america",
+            "1980s",
+            "american-family-home"
+          ],
+          "character_archetypes": [
+            "wise-mentor",
+            "eccentric-character",
+            "traditionalist",
+            "family-man"
+          ],
+          "narrative_style": [
+            "episodic-format",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "butler-uniform",
+            "american-suburbs",
+            "family-dinner",
+            "british-accent"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Mr. Belvedere is a lighthearted family sitcom set in suburban America, exploring themes of cultural differences and adaptation through the endearing charm of a traditional British butler."
+      },
+      "duration_seconds": 75.03890681266785
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "Wheel of Fortune",
+    "overview": "This game show sees contestants solve word puzzles, similar to those used in Hangman, to win cash and prizes determined by spinning a giant carnival wheel.",
+    "genres": [
+      "Family",
+      "Reality"
+    ],
+    "release_year": 1983,
+    "vote_count": 65
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Wheel of Fortune is a long-running American game show centered around solving word puzzles. Contestants spin a large wheel to determine prize values and attempt to guess letters to reveal hidden phrases or sayings. The show's appeal lies in its simple premise, engaging format, and the element of chance, creating a lighthearted and accessible entertainment experience for a broad audience. Its enduring popularity stems from its ability to combine skill, luck, and audience participation in a consistently entertaining package.",
+        "spoiler_rich_plot_summary": "The show begins with a puzzle displayed on a screen, with some letters revealed based on a preliminary spin. Contestants take turns spinning the wheel, which determines the dollar value of the letters they choose to reveal. Correct guesses earn the contestant the corresponding dollar value, while incorrect guesses deduct from their total or pass the turn to another player. The game progresses through multiple rounds, with increasingly complex puzzles. The final round often features a high-value puzzle, and the contestant with the highest score at the end of the game wins the accumulated cash and prizes. The show culminates in a celebratory reveal of the winning contestant and their winnings, reinforcing the excitement and reward of the game.",
+        "categorized_keywords": {
+          "themes": [
+            "game-show",
+            "chance",
+            "skill",
+            "competition",
+            "reward"
+          ],
+          "plot_and_concepts": [
+            "puzzle-solving",
+            "wheel-of-fortune",
+            "word-puzzle",
+            "prize-winning"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "family-friendly",
+            "optimistic",
+            "energetic"
+          ],
+          "genre_and_tropes": [
+            "game-show",
+            "reality-television",
+            "audience-participation"
+          ],
+          "setting": [
+            "television-studio",
+            "game-show-set"
+          ],
+          "character_archetypes": [
+            "contestant",
+            "host",
+            "model"
+          ],
+          "narrative_style": [
+            "episodic",
+            "competition-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "general-viewers"
+          ],
+          "detail_plot": [
+            "giant-wheel",
+            "puzzle-board",
+            "letter-tiles",
+            "prize-display"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Wheel of Fortune is a lighthearted and family-friendly game show where contestants compete to solve word puzzles and win prizes by spinning a giant wheel and guessing letters."
+      },
+      "duration_seconds": 49.804513454437256
+    }
+  }
+}

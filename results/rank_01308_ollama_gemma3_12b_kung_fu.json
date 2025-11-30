@@ -1,0 +1,85 @@
+{
+  "input_data": {
+    "title": "Kung Fu",
+    "overview": "The adventures of a Shaolin Monk as he wanders the American West armed only with his skill in Kung Fu.",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Western",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1972,
+    "vote_count": 180
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Kung Fu is a unique blend of action, drama, and Western genres, centered around a Shaolin monk navigating the American frontier. The series follows his journey as he evades capture while using his martial arts skills to help those in need and confront injustice. It combines elements of classic Western narratives with Eastern philosophy and action, creating a compelling and often morally complex exploration of identity, belonging, and the struggle for justice in a lawless land. The show's episodic nature allows for a wide range of stories and characters, while the overarching narrative explores themes of redemption and the search for a place to call home.",
+        "spoiler_rich_plot_summary": "The series begins with Shaolin monk, Kwai Chang Caine, fleeing China after being falsely accused of murdering a man. He arrives in the American West in the 1870s, adopting the alias “Danny Kwan” to avoid detection by the authorities who are relentlessly pursuing him. Throughout the series, Danny travels from town to town, using his martial arts skills to defend the vulnerable and fight against corruption and injustice. He encounters a diverse cast of characters, including Native Americans, outlaws, and settlers, each with their own struggles and motivations. While helping others, Danny grapples with his past and the guilt of leaving his family behind. He occasionally crosses paths with his former mentor, who provides guidance and challenges his understanding of the world. As the series progresses, Danny’s past catches up to him, forcing him to confront the truth about the murder he was accused of and the circumstances that led to his exile. He ultimately seeks to clear his name and find a place where he can finally belong, though his journey is fraught with danger and moral dilemmas.",
+        "categorized_keywords": {
+          "themes": [
+            "redemption",
+            "justice",
+            "identity",
+            "belonging",
+            "moral-ambiguity",
+            "eastern-philosophy",
+            "forgiveness"
+          ],
+          "plot_and_concepts": [
+            "martial-arts",
+            "western-genre",
+            "man-on-the-run",
+            "false-accusation",
+            "revenge",
+            "chase-sequence"
+          ],
+          "mood_and_tone": [
+            "adventurous",
+            "somber",
+            "reflective",
+            "hopeful",
+            "action-packed"
+          ],
+          "genre_and_tropes": [
+            "western",
+            "action-adventure",
+            "man-on-the-run",
+            "eastern-mysticism",
+            "found-family"
+          ],
+          "setting": [
+            "american-west",
+            "1870s",
+            "frontier-towns",
+            "rural-america"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "outlaw",
+            "frontier-settler"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "serialized-story",
+            "travel-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "kung-fu-techniques",
+            "horseback-riding",
+            "saloon-brawl",
+            "sheriffs-hat",
+            "chinese-temple"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Set against the backdrop of the American West in the 1870s, Kung Fu is an adventurous and reflective series following a Shaolin monk’s journey of redemption and justice as he navigates a lawless frontier while seeking forgiveness and belonging."
+      },
+      "duration_seconds": 70.91908669471741
+    }
+  }
+}

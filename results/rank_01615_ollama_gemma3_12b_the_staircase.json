@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "The Staircase",
+    "overview": "An exploration of the life of Michael Peterson, his sprawling North Carolina family, and the suspicious death of his wife, Kathleen Peterson.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "release_year": 2022,
+    "vote_count": 129
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Staircase is a true-crime drama series that meticulously examines the circumstances surrounding the death of Kathleen Peterson and the subsequent trial of her husband, Michael Peterson. The series blends elements of courtroom drama, investigative journalism, and psychological portraiture, exploring themes of guilt, innocence, and the complexities of the American justice system. It delves into the lives of the Peterson family, revealing a web of secrets and potential motives, while questioning the reliability of evidence and the biases that can influence a case. The series maintains a somber and unsettling tone, prompting viewers to question their own perceptions of truth and justice.",
+        "spoiler_rich_plot_summary": "The series begins with the discovery of Kathleen Peterson's body at the bottom of a staircase in the Peterson's Durham, North Carolina home. Michael Peterson claims his wife fell down the stairs, but the investigation quickly focuses on him as a suspect. Evidence emerges suggesting a possible struggle, and the possibility of foul play. The initial trial results in an acquittal, but the case is later reopened due to the discovery of new evidence, including a possible blood spatter pattern inconsistent with a fall. A second trial leads to a guilty verdict, though this is later vacated, and Peterson is released on probation. The series explores the various theories surrounding Kathleen's death, including the possibility of an accidental fall, a deliberate act by Michael, or the involvement of another party. It examines the impact of the case on the Peterson family and the legal professionals involved, highlighting the enduring questions and unresolved mysteries surrounding Kathleen's death.",
+        "categorized_keywords": {
+          "themes": [
+            "true-crime",
+            "guilt-innocence",
+            "family-secrets",
+            "legal-system",
+            "justice-bias",
+            "domestic-suspicion"
+          ],
+          "plot_and_concepts": [
+            "courtroom-drama",
+            "investigative-journalism",
+            "true-crime-investigation",
+            "fall-from-grace",
+            "second-trial"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "unsettling",
+            "suspenseful",
+            "darkly-comic"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "legal-thriller",
+            "true-crime-drama"
+          ],
+          "setting": [
+            "north-carolina",
+            "modern-day",
+            "suburban-home"
+          ],
+          "character_archetypes": [
+            "suspect",
+            "grieving-widower",
+            "investigator",
+            "legal-professional"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "documentary-style"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "staircase",
+            "blood-spatter",
+            "police-investigation",
+            "courtroom-scene"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "legal-proceedings"
+          ]
+        },
+        "keyword_sentence": "The Staircase is a somber and suspenseful true-crime drama that explores themes of guilt, innocence, and the complexities of the American legal system through the investigation of a suspicious death in a North Carolina home."
+      },
+      "duration_seconds": 67.30788064002991
+    }
+  }
+}

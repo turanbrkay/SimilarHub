@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Prey",
+    "overview": "Three-part crime thriller. When detective Marcus Farrow looks into a seemingly forgotten case, he has no idea of the chaos and heartache that will soon follow. He is found at the scene of a murder, and with all the evidence pointing towards him, he is arrested and charged.",
+    "genres": [
+      "Crime"
+    ],
+    "release_year": 2014,
+    "vote_count": 33
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Prey is a three-part British crime thriller centered on a detective who becomes the prime suspect in a murder case. The series explores themes of guilt, suspicion, and the fragility of reputation, as Marcus Farrow navigates a complex investigation while simultaneously fighting to clear his name. The narrative unfolds with a tense, suspenseful atmosphere, questioning the reliability of perception and the potential for devastating consequences when justice is elusive. The series blends elements of police procedural with psychological drama, creating a gripping and unsettling viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Detective Marcus Farrow investigating a cold case, a seemingly minor inquiry that unexpectedly draws him into a web of deceit and danger. Shortly after, Marcus is found at the scene of a murder, and all evidence points to his involvement. He is arrested and charged, forcing him to fight for his freedom and uncover the truth behind the crime. As Marcus attempts to clear his name, he unearths a conspiracy that reaches into the highest echelons of society, revealing a network of corruption and hidden agendas. The investigation leads him to confront individuals he thought he knew, exposing betrayals and challenging his understanding of justice. The series culminates in a confrontation where the true killer is revealed, and Marcus must grapple with the devastating consequences of the events that have transpired, ultimately restoring his reputation but leaving him deeply scarred by the experience.",
+        "categorized_keywords": {
+          "themes": [
+            "guilt",
+            "suspicion",
+            "corruption",
+            "justice",
+            "redemption",
+            "false-accusation"
+          ],
+          "plot_and_concepts": [
+            "police-investigation",
+            "cold-case",
+            "false-imprisonment",
+            "conspiracy",
+            "whodunit"
+          ],
+          "mood_and_tone": [
+            "tense",
+            "suspenseful",
+            "dark",
+            "gritty",
+            "unsettling"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "police-thriller",
+            "legal-drama",
+            "whodunit"
+          ],
+          "setting": [
+            "modern-day",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "detective",
+            "suspect",
+            "corrupt-official",
+            "reluctant-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "limited-series"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "police-station",
+            "crime-scene",
+            "courtroom",
+            "evidence-locker"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "legal-proceedings"
+          ]
+        },
+        "keyword_sentence": "Prey is a tense and suspenseful crime thriller set in a modern urban environment, exploring themes of guilt, corruption, and false accusation as a detective fights to clear his name after being wrongly accused of murder."
+      },
+      "duration_seconds": 76.02081680297852
+    }
+  }
+}

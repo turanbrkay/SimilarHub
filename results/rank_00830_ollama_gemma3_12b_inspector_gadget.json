@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Inspector Gadget",
+    "overview": "Inspector Gadget is a clumsy, dim-witted human cyborg detective with various bionic gadgets built into his body. Gadget stumbles around working the cases while his niece and dog do most of the investigating. Gadget's arch-nemesis is Dr. Claw, the leader of an evil organisation, known as \"M.A.D.\"",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Kids"
+    ],
+    "release_year": 1983,
+    "vote_count": 328
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Inspector Gadget is a lighthearted animated comedy series centered on a well-meaning but inept detective and his supporting cast. The show blends slapstick humor with a simple mystery-solving premise, appealing to a young audience with its colorful visuals and silly gadgets. Recurring themes of family, loyalty, and overcoming limitations are subtly woven into the comedic chaos, creating a wholesome and entertaining experience. The series' enduring popularity stems from its accessible humor and the charm of its endearing characters.",
+        "spoiler_rich_plot_summary": "The series follows Inspector Gadget, a bionic detective who is constantly called upon to solve crimes orchestrated by the nefarious Dr. Claw and his organization, M.A.D. Gadget is unaware that his niece Penny and her dog Brain secretly provide him with the information he needs to succeed, using his gadgets to thwart M.A.D.'s plans. Each episode typically involves a new scheme by Dr. Claw, which Gadget unwittingly foils thanks to Penny and Brain's covert assistance. While Dr. Claw's identity remains largely obscured throughout the series, his persistent efforts to achieve his unknown goals drive the overarching narrative. The dynamic between Gadget, Penny, and Brain forms the core of the show, with their interactions providing both comedic relief and heartwarming moments as they work together to protect Metro City.",
+        "categorized_keywords": {
+          "themes": [
+            "family-loyalty",
+            "overcoming-limitations",
+            "good-vs-evil",
+            "trust",
+            "teamwork"
+          ],
+          "plot_and_concepts": [
+            "mystery-solving",
+            "secret-identity",
+            "gadgets",
+            "conspiracy",
+            "cat-and-mouse"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "silly",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "comedy",
+            "kids-tv",
+            "slapstick-humor",
+            "spy-parody"
+          ],
+          "setting": [
+            "metro-city",
+            "modern-day",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "bumbling-hero",
+            "genius-child",
+            "loyal-sidekick",
+            "supervillain"
+          ],
+          "narrative_style": [
+            "episodic",
+            "monster-of-the-week",
+            "serialized-villain"
+          ],
+          "target_audience": [
+            "children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "gadgets",
+            "batmobile-inspired-car",
+            "hq-building",
+            "mad-organization",
+            "dr-claw"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Inspector Gadget is a lighthearted animated comedy series for children, following a bumbling detective and his secret helpers as they thwart the plans of a mysterious supervillain in a vibrant urban setting."
+      },
+      "duration_seconds": 62.636574268341064
+    }
+  }
+}

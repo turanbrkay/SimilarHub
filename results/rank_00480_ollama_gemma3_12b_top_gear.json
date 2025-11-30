@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Top Gear",
+    "overview": "This fast-paced and stunt-filled motor show tests whether cars, both mundane and extraordinary, live up to their manufacturers' claims. The long-running show travels to locations around the world, performing extreme stunts and challenges to see what the featured cars are capable of doing. The current hosts are Paddy Mcguinness, Chris Harris and Andrew \"Freddie\" Flintoff.",
+    "genres": [
+      "Talk",
+      "Documentary",
+      "Action & Adventure",
+      "Comedy"
+    ],
+    "release_year": 2002,
+    "vote_count": 646
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Top Gear is a long-running, globally-renowned automotive television series that blends car reviews, road trips, and comedic challenges. The show's format revolves around testing vehicles in unconventional ways, often involving stunts and travel to diverse locations. It appeals to a broad audience with its mix of automotive enthusiasm, humor, and adventurous spirit. While primarily focused on cars, the show's charm lies in the presenters' dynamic and their ability to entertain through both technical expertise and lighthearted banter. The series has evolved over the years, adapting to changing tastes and presenter lineups, but consistently delivers a high-energy and engaging experience.",
+        "spoiler_rich_plot_summary": "The series began with Jeremy Clarkson, Richard Hammond, and James May at the helm, establishing a formula of car reviews, 'star in a jar' ratings, and elaborate challenges. Early seasons saw the trio traveling the globe in increasingly outlandish vehicles, from amphibious cars to rocket-powered ice cream vans. As the show gained international popularity, the challenges became more ambitious and the destinations more exotic. Later, with the departure of Clarkson and the subsequent introduction of Chris Evans and Matt LeBlanc, the show attempted to maintain its core appeal while incorporating new perspectives. The current lineup, featuring Paddy McGuinness, Chris Harris, and Andrew Flintoff, continues the tradition of automotive testing and global adventures, striving to recapture the show's original spark while adapting to a new generation of viewers. The series has faced controversies and presenter changes throughout its run, but has consistently remained a dominant force in the automotive entertainment landscape.",
+        "categorized_keywords": {
+          "themes": [
+            "automotive-culture",
+            "adventure",
+            "travel",
+            "humor",
+            "male-bonding",
+            "technology"
+          ],
+          "plot_and_concepts": [
+            "car-review",
+            "stunt",
+            "road-trip",
+            "challenge",
+            "global-travel"
+          ],
+          "mood_and_tone": [
+            "fast-paced",
+            "comedic",
+            "energetic",
+            "lighthearted",
+            "adventurous"
+          ],
+          "genre_and_tropes": [
+            "automotive-show",
+            "travel-documentary",
+            "reality-tv",
+            "stunt-show"
+          ],
+          "setting": [
+            "global",
+            "road",
+            "automotive-industry"
+          ],
+          "character_archetypes": [
+            "car-enthusiast",
+            "adventurer",
+            "comedian",
+            "expert"
+          ],
+          "narrative_style": [
+            "episodic",
+            "travelogue",
+            "challenge-based"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "car-lovers",
+            "adventure-seekers"
+          ],
+          "detail_plot": [
+            "car-test",
+            "stunt-challenge",
+            "road-trip-route",
+            "automotive-brand",
+            "driving-track"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Top Gear is a fast-paced and comedic automotive show that blends car reviews, global travel, and daring stunts to entertain a broad audience with its adventurous spirit and lighthearted approach to the world of cars."
+      },
+      "duration_seconds": 59.11095404624939
+    }
+  }
+}

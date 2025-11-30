@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "The Storyteller",
+    "overview": "The Storyteller aided by his cynical dog, narrates classic folk tales, fables, and legends.",
+    "genres": [
+      "Action & Adventure",
+      "Family",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1988,
+    "vote_count": 188
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Storyteller is an anthology series that reimagines classic folk tales and legends through a fantastical lens. Narrated by a mysterious storyteller accompanied by his dog, each episode presents a self-contained narrative, blending action, adventure, and elements of science fiction and fantasy. The series offers a whimsical and often dark exploration of timeless stories, appealing to a family audience with its blend of humor, suspense, and moral lessons. Its episodic structure allows for a wide range of settings and characters, creating a consistently engaging and imaginative viewing experience.",
+        "spoiler_rich_plot_summary": "Each episode of The Storyteller presents a distinct folk tale or legend, often with a modern or fantastical twist. The Storyteller himself acts as a guide, introducing the narrative and occasionally intervening in subtle ways. The tales frequently involve journeys, quests, and encounters with magical creatures or supernatural forces. While the specific plotlines vary greatly from episode to episode, a common thread is the exploration of universal themes such as courage, sacrifice, and the consequences of one's actions. The series doesn't follow a continuous overarching plot, but rather offers a collection of self-contained narratives, each with its own resolution and moral lesson, leaving the viewer with a sense of wonder and reflection on the power of storytelling.",
+        "categorized_keywords": {
+          "themes": [
+            "folklore",
+            "morality",
+            "good-vs-evil",
+            "redemption",
+            "courage",
+            "sacrifice"
+          ],
+          "plot_and_concepts": [
+            "anthology-series",
+            "folktales",
+            "mythology",
+            "quest",
+            "magic",
+            "supernatural"
+          ],
+          "mood_and_tone": [
+            "whimsical",
+            "darkly-comic",
+            "mysterious",
+            "suspenseful",
+            "fantastical"
+          ],
+          "genre_and_tropes": [
+            "fantasy",
+            "adventure",
+            "family-audience",
+            "mythic-quest"
+          ],
+          "setting": [
+            "fantasy-realm",
+            "timeless",
+            "rural-setting"
+          ],
+          "character_archetypes": [
+            "wise-mentor",
+            "trickster",
+            "hero",
+            "villain"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "narrator-driven"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "talking-dog",
+            "ancient-forest",
+            "magic-amulet",
+            "village-square",
+            "storytellers-hut"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Storyteller weaves together fantastical adventures and timeless folklore, creating a whimsical and suspenseful experience for a family audience through episodic tales of courage and morality."
+      },
+      "duration_seconds": 57.351722240448
+    }
+  }
+}

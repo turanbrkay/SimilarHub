@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "The Ultimate Fighter",
+    "overview": "The Ultimate Fighter is an American reality television series and mixed martial arts (MMA) competition produced by the Ultimate Fighting Championship (UFC) and Pilgrim Media Group currently airing on ESPN+. It previously aired for fourteen seasons on Spike TV. The show features professional MMA fighters living together in Las Vegas, Nevada, and follows them as they train and compete against each other for a prized six-figure contract with the UFC. The series debuted on January 17, 2005.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2005,
+    "vote_count": 38
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Ultimate Fighter is a reality television series centered around a mixed martial arts competition. The show follows aspiring fighters as they live and train together, culminating in a tournament where the winner receives a UFC contract. It blends elements of competition, personal drama, and the demanding world of professional MMA training. The series offers a glimpse into the dedication and sacrifices required to succeed in a high-stakes athletic environment, while also exploring the interpersonal relationships formed between the competitors. It's a format that has proven enduring, consistently attracting viewers interested in both sports and reality television.",
+        "spoiler_rich_plot_summary": "Each season of The Ultimate Fighter begins with a group of aspiring MMA fighters selected to live and train together in a shared house in Las Vegas. These fighters are typically emerging talents, often with professional records but lacking the platform of the UFC. The initial phase involves tryouts and weigh-ins, followed by a series of preliminary fights to narrow the field of competitors. These fights are often intense and emotionally charged, as fighters vie for a spot in the main tournament bracket. The tournament itself progresses through multiple rounds, with fighters facing off in elimination bouts. Coaches, typically established UFC veterans, provide guidance and strategy. As the competition intensifies, rivalries develop and alliances shift, creating dramatic tension. The final fight determines the winner, who is awarded a UFC contract and the opportunity to pursue a professional MMA career. Throughout the series, personal stories and backstories of the fighters are revealed, adding depth and emotional resonance to the competition.",
+        "categorized_keywords": {
+          "themes": [
+            "competition",
+            "athleticism",
+            "dedication",
+            "personal-growth",
+            "rivalry",
+            "underdog-story"
+          ],
+          "plot_and_concepts": [
+            "reality-competition",
+            "elimination-tournament",
+            "training-montage",
+            "underdog-narrative"
+          ],
+          "mood_and_tone": [
+            "intense",
+            "competitive",
+            "dramatic",
+            "motivational"
+          ],
+          "genre_and_tropes": [
+            "sports-reality",
+            "competition-show",
+            "training-arc"
+          ],
+          "setting": [
+            "las-vegas",
+            "mma-training-facility",
+            "shared-house"
+          ],
+          "character_archetypes": [
+            "aspiring-athlete",
+            "underdog",
+            "mentor",
+            "rival"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "elimination-format"
+          ],
+          "target_audience": [
+            "sports-fans",
+            "reality-tv-viewers"
+          ],
+          "detail_plot": [
+            "ufc-contract",
+            "mma-training",
+            "elimination-bout",
+            "weigh-in"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Ultimate Fighter is an intense reality competition series showcasing aspiring MMA athletes as they train and battle for a coveted UFC contract in a shared house environment."
+      },
+      "duration_seconds": 55.32320594787598
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Roots",
+    "overview": "The epic tale of celebrated Pulitzer-prize winning author Alex Haley's ancestors as portrayed in the acclaimed twelve hour mini-series Roots, was first told in his 1976 bestseller Roots: The Saga of an American Family. The docu-drama covers a period of history that begins in mid-1700s Gambia, West Africa and concludes during post-Civil War United States, over 100 years later. This 1977 miniseries eventually won 9 Emmy awards, a Golden Globe award, and a Peabody award, and still stands as the most watched miniseries in U.S. history.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 1977,
+    "vote_count": 201
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Roots is a historical drama mini-series that chronicles the journey of one family through generations, tracing their lineage from West Africa to the American South. The series explores themes of slavery, family, resilience, and the enduring human spirit. It offers a powerful and emotionally resonant portrayal of a painful chapter in American history, emphasizing the importance of remembering and understanding the experiences of enslaved people. The series is notable for its impact on American culture and its contribution to raising awareness about the legacy of slavery.",
+        "spoiler_rich_plot_summary": "The saga begins in Gambia, where Kunta Kinte, a young man of noble status, is captured and sold into slavery. He is forcibly brought to America and renamed Toby, a deliberate attempt to erase his identity and culture. Toby resists assimilation, clinging to his heritage and attempting to escape, but is repeatedly recaptured. The series follows his descendants through multiple generations, each facing unique challenges and hardships under the institution of slavery. One descendant, George, becomes a successful landowner, while another, Chicken George, becomes a renowned blacksmith. The narrative explores the complexities of family relationships, the struggle for freedom, and the enduring hope for a better future. The series culminates with the end of the Civil War and the emancipation of enslaved people, offering a glimpse of hope and the promise of a new beginning for the family’s descendants.",
+        "categorized_keywords": {
+          "themes": [
+            "slavery",
+            "family-loyalty",
+            "identity-quest",
+            "resilience",
+            "cultural-heritage",
+            "social-justice",
+            "historical-memory"
+          ],
+          "plot_and_concepts": [
+            "historical-saga",
+            "generational-story",
+            "slave-narrative",
+            "forced-assimilation",
+            "escape-attempts"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "emotional",
+            "tragic",
+            "hopeful"
+          ],
+          "genre_and_tropes": [
+            "historical-drama",
+            "family-saga",
+            "coming-of-age"
+          ],
+          "setting": [
+            "west-africa",
+            "american-south",
+            "18th-century",
+            "19th-century"
+          ],
+          "character_archetypes": [
+            "noble-protagonist",
+            "enslaved-ancestor",
+            "resilient-hero",
+            "oppressive-antagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "generational-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "slave-ship",
+            "cotton-plantation",
+            "whip",
+            "slave-market",
+            "family-tree"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "sexual-content",
+            "abuse-themes"
+          ]
+        },
+        "keyword_sentence": "Roots is a somber and emotional historical drama that chronicles a family’s journey through generations, exploring themes of slavery, cultural heritage, and resilience against the backdrop of West Africa and the American South."
+      },
+      "duration_seconds": 62.95741152763367
+    }
+  }
+}

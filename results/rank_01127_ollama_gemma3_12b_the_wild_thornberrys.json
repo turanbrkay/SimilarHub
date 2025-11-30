@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "The Wild Thornberrys",
+    "overview": "The Wild Thornberrys is an American animated television series that aired on Nickelodeon.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Action & Adventure"
+    ],
+    "release_year": 1998,
+    "vote_count": 221
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Wild Thornberrys is a lighthearted animated series following a family of wildlife documentarians as they travel the globe, encountering diverse cultures and animals. The show blends adventure, comedy, and educational elements, emphasizing the importance of environmental conservation and cross-cultural understanding. It offers a family-friendly viewing experience with a focus on positive values and exploration, appealing to a younger audience while maintaining charm for older viewers. The series balances humor with moments of genuine emotion, showcasing the bonds within the Thornberry family and their dedication to their unique profession.",
+        "spoiler_rich_plot_summary": "The series centers on the Thornberry family – Nigel, Marian, Debbie, Donnie, and their pet chimpanzee Darwin – who travel the world filming wildlife documentaries. Initially, Darwin possesses the ability to speak, a secret carefully guarded by the family to protect him from exploitation. Throughout their travels, the Thornberrys encounter various challenges, from navigating dangerous terrains to mediating conflicts between different animal species. Debbie, the teenage daughter, often struggles with the unconventional lifestyle and yearns for a more 'normal' existence, while Donnie, the younger brother, provides comic relief with his quirky observations. As the series progresses, the family faces moral dilemmas related to their filming practices and the impact on the environments they document. Darwin's ability to speak becomes a recurring plot device, leading to humorous situations and moments of peril. The series culminates in a broader understanding of the interconnectedness of all living things and the responsibility the Thornberrys have to protect them.",
+        "categorized_keywords": {
+          "themes": [
+            "family-bond",
+            "environmentalism",
+            "cultural-understanding",
+            "adventure",
+            "conservation"
+          ],
+          "plot_and_concepts": [
+            "wildlife-documentary",
+            "talking-animal",
+            "secret-identity",
+            "coming-of-age",
+            "moral-dilemma"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "optimistic",
+            "adventurous",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "animated-comedy",
+            "adventure-series",
+            "found-family",
+            "coming-of-age-story"
+          ],
+          "setting": [
+            "global-travel",
+            "wildlife-habitats",
+            "remote-locations"
+          ],
+          "character_archetypes": [
+            "eccentric-parent",
+            "teenage-rebel",
+            "younger-sibling",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "family-adventure"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-viewers"
+          ],
+          "detail_plot": [
+            "wildlife-camera",
+            "animal-costumes",
+            "mobile-home",
+            "compass",
+            "map"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Wild Thornberrys is a lighthearted animated series that follows a family on a global adventure, emphasizing environmentalism and cultural understanding through comedic situations and a heartwarming family bond."
+      },
+      "duration_seconds": 63.286110401153564
+    }
+  }
+}

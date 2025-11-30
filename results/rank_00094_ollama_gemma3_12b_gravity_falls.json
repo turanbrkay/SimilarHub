@@ -1,0 +1,91 @@
+{
+  "input_data": {
+    "title": "Gravity Falls",
+    "overview": "Twin brother and sister Dipper and Mabel Pines are in for an unexpected adventure when they spend the summer helping their great uncle Stan run a tourist trap in the mysterious town of Gravity Falls, Oregon.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Mystery",
+      "Sci-Fi & Fantasy",
+      "Kids"
+    ],
+    "release_year": 2012,
+    "vote_count": 2512
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Gravity Falls is a critically acclaimed animated series blending humor, mystery, and supernatural elements, targeted towards a family audience but with sophisticated appeal for older viewers. The show follows Dipper and Mabel Pines as they uncover the secrets of the titular town, exploring themes of family, growing up, and the power of believing in the extraordinary. Its episodic structure balances lighthearted comedic moments with increasingly complex overarching narratives, creating a consistently engaging and heartwarming experience.",
+        "spoiler_rich_plot_summary": "The series begins with Dipper and Mabel being sent to Gravity Falls, Oregon, to stay with their eccentric great-uncle Stan, who runs the Mystery Shack, a failing tourist trap. Dipper quickly becomes obsessed with uncovering the town’s secrets, aided by a cryptic journal he discovers. Mabel, meanwhile, embraces the town’s whimsical nature and searches for romance. As the twins investigate, they encounter a host of bizarre creatures and uncover a hidden world of magic and danger, often involving the enigmatic Bill Cipher, a powerful dream demon. Throughout the series, the twins confront personal challenges, learn about their family history, and ultimately work together to prevent Bill Cipher from unleashing chaos upon the world. The final season sees the twins facing their greatest challenge yet, culminating in a confrontation that tests their bond and forces them to make difficult choices about their future and the fate of Gravity Falls.",
+        "categorized_keywords": {
+          "themes": [
+            "family-bond",
+            "growing-up",
+            "mystery-solving",
+            "small-town-life",
+            "belief-in-magic",
+            "sibling-relationship"
+          ],
+          "plot_and_concepts": [
+            "mystery-journal",
+            "cryptids",
+            "dream-realm",
+            "time-loops",
+            "alternate-dimensions",
+            "conspiracy-theory"
+          ],
+          "mood_and_tone": [
+            "whimsical",
+            "humorous",
+            "suspenseful",
+            "lighthearted",
+            "quirky",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "animation-comedy",
+            "mystery-adventure",
+            "found-family",
+            "coming-of-age",
+            "monster-of-the-week",
+            "supernatural-elements"
+          ],
+          "setting": [
+            "oregon",
+            "small-town",
+            "forest-setting",
+            "mystery-shack",
+            "alternate-reality"
+          ],
+          "character_archetypes": [
+            "eccentric-uncle",
+            "optimistic-sister",
+            "curious-brother",
+            "wise-mentor",
+            "antagonist-demon"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-structure",
+            "ensemble-cast",
+            "cliffhanger-endings"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adults"
+          ],
+          "detail_plot": [
+            "mystery-shack",
+            "gravity-falls-sign",
+            "wendigo-statue",
+            "bill-cipher-symbol",
+            "journal-3"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Gravity Falls is a whimsical and humorous animated series that follows two siblings as they unravel the mysteries of a quirky Oregon town filled with supernatural elements and a strong sense of family."
+      },
+      "duration_seconds": 72.52983450889587
+    }
+  }
+}

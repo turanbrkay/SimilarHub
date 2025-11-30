@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Queer Eye",
+    "overview": "An all-new “Fab Five” advise men on fashion, grooming, food, culture and design in this modern reboot of the Emmy Award-winning reality series.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2018,
+    "vote_count": 103
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Queer Eye is a reboot of the original reality series, following the \"Fab Five\" as they offer lifestyle makeovers to a diverse range of individuals. The show blends elements of self-improvement, design, and emotional storytelling, creating a heartwarming and often humorous exploration of personal growth and acceptance. It emphasizes the power of empathy and connection, demonstrating how small changes can have a profound impact on both the individual and their community. The series is known for its positive and uplifting tone, celebrating individuality and promoting inclusivity.",
+        "spoiler_rich_plot_summary": "The series follows the Fab Five – Antoni Porowski (food & wine), Tan France (fashion), Karamo Brown (culture), Bobby Berk (interior design), and Jonathan Van Ness (grooming) – as they travel across the United States, each episode focusing on a different individual, or 'hero.' Each hero is nominated by someone in their life, and the Fab Five work to address their specific needs and challenges, ranging from outdated fashion sense and unhealthy eating habits to strained family relationships and feelings of isolation. The makeovers are not merely superficial; they often involve confronting deeper emotional issues and fostering self-confidence. Throughout the series, the Fab Five and their heroes experience significant personal growth, forging strong bonds and creating lasting positive change in their lives. The show consistently highlights the importance of vulnerability, self-acceptance, and the power of human connection to overcome obstacles and build a more fulfilling life.",
+        "categorized_keywords": {
+          "themes": [
+            "self-improvement",
+            "acceptance",
+            "vulnerability",
+            "connection",
+            "empathy",
+            "personal-growth",
+            "community"
+          ],
+          "plot_and_concepts": [
+            "makeover-series",
+            "lifestyle-transformation",
+            "emotional-support",
+            "human-interest"
+          ],
+          "mood_and_tone": [
+            "heartwarming",
+            "uplifting",
+            "positive",
+            "humorous",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "reality-tv",
+            "makeover-show",
+            "found-family",
+            "feel-good-tv"
+          ],
+          "setting": [
+            "united-states",
+            "modern-day",
+            "domestic-settings"
+          ],
+          "character_archetypes": [
+            "mentor",
+            "expert",
+            "everyman",
+            "vulnerable-individual"
+          ],
+          "narrative_style": [
+            "episodic-format",
+            "character-driven"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "home-makeover",
+            "wardrobe-refresh",
+            "grooming-routine",
+            "cooking-lesson",
+            "cultural-exploration"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Queer Eye is a heartwarming reality series that celebrates personal growth and acceptance through lifestyle transformations and emotional support, fostering connection and promoting a positive, feel-good experience for family audiences across the United States."
+      },
+      "duration_seconds": 63.81025195121765
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Titanic",
+    "overview": "A heart-wrenching journey through Titanic's last moments, featuring both fictional and historical characters, ranging from steerage passengers and crew to upper class guests and staff.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2012,
+    "vote_count": 49
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Titanic is a historical drama series that chronicles the ill-fated voyage of the RMS Titanic, interweaving the stories of passengers from all social classes. The series explores themes of class disparity, love, loss, and survival against the backdrop of a rapidly changing world. Through a blend of fictional characters and real-life accounts, it aims to portray the human drama unfolding during the ship's final hours, highlighting the fragility of life and the enduring power of the human spirit. The series evokes a somber and poignant atmosphere, emphasizing the tragedy and the emotional toll on those aboard.",
+        "spoiler_rich_plot_summary": "The series begins with the opulent preparations for the Titanic's maiden voyage, showcasing the stark contrast between the lavish lives of the upper class and the cramped conditions of those in steerage. Several interconnected storylines emerge, focusing on a young couple from different social strata who fall in love, a wealthy businessman struggling with personal demons, and a group of immigrants seeking a new life in America. As the voyage progresses, tensions rise and secrets are revealed, foreshadowing the impending disaster. The ship strikes an iceberg, and the series depicts the chaotic and desperate attempts to evacuate passengers while the ship rapidly sinks. The narrative follows the fates of various characters as they confront their mortality and grapple with the consequences of the tragedy, ultimately portraying the widespread loss and the enduring legacy of the Titanic.",
+        "categorized_keywords": {
+          "themes": [
+            "class-disparity",
+            "love-and-loss",
+            "survival",
+            "mortality",
+            "social-mobility",
+            "historical-tragedy"
+          ],
+          "plot_and_concepts": [
+            "shipwreck",
+            "historical-fiction",
+            "disaster-story",
+            "forbidden-romance"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "poignant",
+            "melancholy",
+            "tragic"
+          ],
+          "genre_and_tropes": [
+            "historical-drama",
+            "romantic-drama",
+            "disaster-movie"
+          ],
+          "setting": [
+            "early-20th-century",
+            "atlantic-ocean",
+            "titanic-ship"
+          ],
+          "character_archetypes": [
+            "forbidden-lover",
+            "wealthy-businessman",
+            "immigrant",
+            "social-climbing"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "multiple-perspectives"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "titanic-ship",
+            "first-class-cabin",
+            "third-class-passengers",
+            "lifeboat",
+            "wireless-communication"
+          ],
+          "maturity_and_content": [
+            "death-and-grief",
+            "social-inequality"
+          ]
+        },
+        "keyword_sentence": "Titanic is a somber historical drama series exploring themes of love, loss, and social inequality aboard the ill-fated ship, portraying the tragic fates of passengers from all walks of life."
+      },
+      "duration_seconds": 59.301798820495605
+    }
+  }
+}

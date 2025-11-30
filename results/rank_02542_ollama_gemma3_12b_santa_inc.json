@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Santa Inc.",
+    "overview": "The story of Candy Smalls, the highest-ranking female elf in the North Pole. When the successor to Santa Claus is poached by Amazon on Christmas Eve, Candy goes for her ultimate dream— to become the first woman Santa Claus in the history of Christmas.",
+    "genres": [
+      "Comedy",
+      "Animation"
+    ],
+    "release_year": 2021,
+    "vote_count": 64
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Santa Inc. is a comedic animated series that satirizes corporate culture and modern Christmas traditions. The show follows Candy Smalls, a driven and ambitious elf, as she vies for the coveted position of Santa Claus after the incumbent is unexpectedly recruited by Amazon. Through Candy's journey, the series explores themes of gender equality, corporate greed, and the evolving nature of holiday celebrations, blending sharp wit with vibrant animation and a playfully subversive tone.",
+        "spoiler_rich_plot_summary": "The series begins with Candy Smalls, a high-achieving elf and the North Pole's top female executive, frustrated by the limitations placed upon her despite her accomplishments. When Nick Kringle, the current Santa Claus, is lured away by Amazon with promises of increased efficiency and global reach, the North Pole is thrown into chaos. Candy sees this as her opportunity to finally achieve her dream of becoming Santa Claus, a position historically held by men. She navigates a complex political landscape, facing opposition from traditionalists and corporate interests, while attempting to modernize Christmas and prove her worthiness. The series follows her struggles to gain acceptance and implement her vision for a more inclusive and technologically advanced Christmas, ultimately challenging the established order and redefining the very essence of the holiday.",
+        "categorized_keywords": {
+          "themes": [
+            "gender-equality",
+            "corporate-greed",
+            "modern-traditions",
+            "ambition",
+            "legacy",
+            "christmas-spirit"
+          ],
+          "plot_and_concepts": [
+            "corporate-takeover",
+            "succession-crisis",
+            "satire",
+            "fish-out-of-water",
+            "workplace-comedy"
+          ],
+          "mood_and_tone": [
+            "humorous",
+            "satirical",
+            "lighthearted",
+            "witty",
+            "absurdist"
+          ],
+          "genre_and_tropes": [
+            "animation-comedy",
+            "workplace-comedy",
+            "satirical-comedy",
+            "fish-out-of-water"
+          ],
+          "setting": [
+            "north-pole",
+            "modern-day",
+            "christmas-village"
+          ],
+          "character_archetypes": [
+            "ambitious-protagonist",
+            "corporate-executive",
+            "traditionalist-antagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "elf-costumes",
+            "north-pole-workshop",
+            "amazon-headquarters",
+            "sleigh-technology"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Santa Inc. is a humorous animated series that satirizes corporate culture and modern Christmas traditions, following an ambitious elf’s journey to redefine the holiday and challenge established norms."
+      },
+      "duration_seconds": 58.294023275375366
+    }
+  }
+}

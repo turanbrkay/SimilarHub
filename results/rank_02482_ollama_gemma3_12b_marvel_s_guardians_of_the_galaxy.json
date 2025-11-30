@@ -1,0 +1,86 @@
+{
+  "input_data": {
+    "title": "Marvel's Guardians of the Galaxy",
+    "overview": "Peter Quill is Star-Lord, the brash adventurer who, to save the universe from its greatest threats, joins forces with a quartet of disparate misfits — fan-favorite Rocket Raccoon, a tree-like humanoid named Groot, the enigmatic, expert fighter Gamora and the rough edged warrior Drax the Destroyer.",
+    "genres": [
+      "Action & Adventure",
+      "Animation"
+    ],
+    "release_year": 2015,
+    "vote_count": 67
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Marvel's Guardians of the Galaxy is a space opera action-adventure series that blends humor, heart, and high-stakes action. The show follows a ragtag group of intergalactic heroes as they navigate dangerous missions, confront powerful adversaries, and grapple with their own personal demons. The series explores themes of found family, redemption, and the importance of unity in the face of overwhelming odds, offering a lighthearted yet emotionally resonant experience for audiences of all ages. The show’s blend of action, comedy, and character development creates a unique and engaging narrative.",
+        "spoiler_rich_plot_summary": "The series begins with Peter Quill, a human raised among the Ravagers, reluctantly embracing the mantle of Star-Lord after a mission goes awry. He finds himself allied with a group of unlikely heroes: Rocket, a genetically engineered raccoon with a penchant for explosives; Groot, a sentient tree with limited vocabulary; Gamora, a deadly assassin seeking to escape her past; and Drax the Destroyer, a warrior driven by vengeance. Initially motivated by personal gain, the team gradually develops a sense of camaraderie and purpose as they confront threats to the galaxy. They battle Ronan the Accuser, a Kree extremist seeking to destroy Xandar, and uncover a deeper conspiracy involving Thanos and the Infinity Stones. Throughout their adventures, each member confronts their own tragic backstories and struggles with their identities, ultimately forging a strong bond of found family. The series culminates in a confrontation with a powerful cosmic force, testing the team's loyalty and resolve as they fight to protect the universe.",
+        "categorized_keywords": {
+          "themes": [
+            "found-family",
+            "redemption",
+            "sacrifice",
+            "identity-quest",
+            "galactic-conflict",
+            "loss-and-grief"
+          ],
+          "plot_and_concepts": [
+            "space-opera",
+            "galactic-adventure",
+            "artifact-hunt",
+            "cosmic-threat",
+            "villain-redemption",
+            "time-travel"
+          ],
+          "mood_and_tone": [
+            "humorous",
+            "action-packed",
+            "lighthearted",
+            "optimistic",
+            "emotional"
+          ],
+          "genre_and_tropes": [
+            "superhero-action",
+            "sci-fi",
+            "found-family",
+            "buddy-comedy",
+            "ragtag-team"
+          ],
+          "setting": [
+            "outer-space",
+            "alternate-timeline",
+            "galactic-empire",
+            "kree-empire"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "anti-hero",
+            "wise-mentor",
+            "tragic-hero",
+            "skilled-assassin"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "episodic-adventure"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "starship",
+            "infinity-stones",
+            "ravagers",
+            "kree-armor",
+            "rocket-launcher"
+          ],
+          "maturity_and_content": [
+            "sci-fi-violence"
+          ]
+        },
+        "keyword_sentence": "Marvel’s Guardians of the Galaxy is a humorous and action-packed space opera about a ragtag team of galactic heroes who discover the power of found family while battling cosmic threats across the universe."
+      },
+      "duration_seconds": 70.13051390647888
+    }
+  }
+}

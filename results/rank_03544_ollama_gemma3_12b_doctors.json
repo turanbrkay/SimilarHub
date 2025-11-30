@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Doctors",
+    "overview": "Set in the fictional Midlands town of Letherbridge, defined as being close to the city of Birmingham, this soap opera follows the staff and families of a doctor's surgery.",
+    "genres": [
+      "Soap",
+      "Drama"
+    ],
+    "release_year": 2000,
+    "vote_count": 35
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Doctors is a long-running British soap opera centered around the lives of doctors, nurses, and staff at a general practice in the fictional town of Letherbridge. The series explores the personal and professional challenges faced by the medical team, interwoven with the stories of their patients and families. Known for its realistic portrayal of everyday life and its focus on community, Doctors offers a slice-of-life drama that emphasizes relationships and the complexities of human experience within a familiar setting. The show’s longevity is a testament to its ability to resonate with audiences through relatable characters and ongoing storylines.",
+        "spoiler_rich_plot_summary": "The series begins by introducing the core staff of the Letherbridge practice, including Dr. Cameron Bryce, a charismatic but troubled doctor, and his colleagues. Early storylines focus on the personal lives of the staff, exploring their relationships, ambitions, and struggles. As the series progresses, the practice faces numerous challenges, including financial difficulties, staff turnover, and the arrival of new doctors with their own agendas. Patient stories are interwoven throughout, showcasing a wide range of medical conditions and the impact on individuals and their families. Over the years, the series has tackled complex social issues, such as domestic violence, substance abuse, and mental health, often through the lens of the medical professionals involved. Recurring characters form lasting bonds and face evolving personal dramas, while new faces bring fresh perspectives and conflicts to the practice. The overarching narrative focuses on the interconnectedness of the community and the enduring spirit of the medical team as they navigate both professional and personal crises.",
+        "categorized_keywords": {
+          "themes": [
+            "medical-ethics",
+            "community-spirit",
+            "family-relationships",
+            "professional-challenges",
+            "small-town-life",
+            "personal-growth"
+          ],
+          "plot_and_concepts": [
+            "medical-drama",
+            "soap-opera",
+            "slice-of-life",
+            "patient-stories",
+            "workplace-dynamics"
+          ],
+          "mood_and_tone": [
+            "realistic",
+            "heartwarming",
+            "melodramatic",
+            "domestic"
+          ],
+          "genre_and_tropes": [
+            "medical-procedural",
+            "soap-opera-format",
+            "small-town-drama"
+          ],
+          "setting": [
+            "england",
+            "small-town",
+            "general-practice",
+            "midlands"
+          ],
+          "character_archetypes": [
+            "dedicated-doctor",
+            "compassionate-nurse",
+            "patient-advocate",
+            "small-town-resident"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "ongoing-storylines"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "medical-records",
+            "waiting-room",
+            "examination-room",
+            "surgery-building"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Doctors portrays the everyday lives and professional challenges of a medical team in a close-knit English town, offering a realistic and heartwarming drama centered on family, community, and the enduring spirit of those who care for others."
+      },
+      "duration_seconds": 58.92172861099243
+    }
+  }
+}

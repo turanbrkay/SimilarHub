@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Black Lightning",
+    "overview": "Jefferson Pierce is a man wrestling with a secret. As the father of two daughters and principal of a charter high school that also serves as a safe haven for young people in a New Orleans neighborhood overrun by gang violence, he is a hero to his community.",
+    "genres": [
+      "Action & Adventure",
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "release_year": 2018,
+    "vote_count": 797
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Black Lightning is a superhero drama series centered on Jefferson Pierce, a retired electrical engineer who rediscovers his powers and must balance his responsibilities as a father, educator, and community leader while confronting escalating gang violence and corruption in his city. The series blends elements of superhero action with social commentary, exploring themes of family, justice, and the complexities of urban decay. It offers a grounded and emotionally resonant portrayal of a reluctant hero grappling with difficult choices and the weight of responsibility, set against a backdrop of systemic inequality and generational trauma. The show distinguishes itself through its focus on a Black family and community, offering a unique perspective on the superhero genre.",
+        "spoiler_rich_plot_summary": "The series begins with Jefferson Pierce, a retired electrical engineer, attempting to live a quiet life as a high school principal in Freeland, a city plagued by gang violence. When his daughters, Anissa and Jennifer, are caught in the crossfire of a gang war, Jefferson’s latent superpowers resurface, forcing him to don the mantle of Black Lightning to protect his family and community. As he investigates the source of the escalating violence, he uncovers a complex web of corruption involving powerful figures within the city, including politicians and business leaders. His daughters, initially unaware of his double life, eventually discover his powers and begin to develop their own, joining him in the fight against crime. The series explores the origins of the meta-human abilities, revealing a government experiment that has affected many citizens. Throughout the seasons, Jefferson confronts personal tragedies and makes difficult choices that challenge his moral compass, while also battling increasingly formidable adversaries who threaten to destroy everything he holds dear. The fight extends beyond Freeland, revealing connections to larger, more sinister forces and exposing the systemic issues that perpetuate the cycle of violence.",
+        "categorized_keywords": {
+          "themes": [
+            "family-loyalty",
+            "social-justice",
+            "corruption",
+            "redemption",
+            "generational-trauma",
+            "community-responsibility"
+          ],
+          "plot_and_concepts": [
+            "superhero-action",
+            "gang-violence",
+            "government-conspiracy",
+            "meta-human-abilities",
+            "crime-investigation"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "suspenseful",
+            "gritty",
+            "emotional"
+          ],
+          "genre_and_tropes": [
+            "superhero-genre",
+            "crime-procedural",
+            "found-family",
+            "reluctant-hero"
+          ],
+          "setting": [
+            "urban-environment",
+            "new-orleans-setting",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "protective-father",
+            "wise-mentor",
+            "strong-female-lead"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "lightning-bolt",
+            "high-school-setting",
+            "gang-hideout",
+            "police-station"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "Black Lightning is a somber and suspenseful superhero drama set in a modern urban environment, exploring themes of family loyalty and social justice as a reluctant hero confronts corruption and violence within his community."
+      },
+      "duration_seconds": 76.85175919532776
+    }
+  }
+}

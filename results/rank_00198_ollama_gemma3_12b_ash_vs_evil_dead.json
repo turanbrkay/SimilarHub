@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Ash vs Evil Dead",
+    "overview": "Bruce Campbell reprises his role as Ash Williams, an aging lothario and chainsaw-handed monster hunter who’s spent the last three decades avoiding maturity, and the terrors of the Evil Dead. But when a Deadite plague threatens to destroy all of mankind, he’s forced to face his demons — both metaphorical and literal.",
+    "genres": [
+      "Comedy",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2015,
+    "vote_count": 1427
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Ash vs Evil Dead is a comedic horror series that serves as a continuation of the Evil Dead film franchise. The show blends slapstick humor with gruesome special effects and intense action sequences, following Ash Williams as he confronts a resurgence of Deadite demons. It leans heavily into its campy roots, offering a self-aware and irreverent take on the horror genre, while also exploring themes of responsibility, redemption, and confronting past traumas. The series balances over-the-top gore with character development and a surprisingly heartfelt core.",
+        "spoiler_rich_plot_summary": "The series begins with Ash, living a secluded life in Michigan, accidentally unleashing a new wave of Deadites after a mysterious young woman, Ruby, discovers the Necronomicon and its secrets. He is reluctantly reunited with his past, including his daughter-in-law, Kelly, and a new apprentice, Pablo, both of whom become embroiled in the fight against the demonic forces. Throughout the seasons, Ash and his team travel across Michigan and beyond, battling increasingly powerful Deadites and uncovering the origins of the Necronomicon and Ruby's sinister plans. Ruby, revealed to be a powerful sorceress, manipulates events to unleash a greater evil, forcing Ash to confront his past mistakes and make difficult choices. The team faces betrayals, losses, and near-constant peril as they struggle to contain the demonic threat and ultimately face a final, apocalyptic confrontation that tests their skills and resolve. While the team experiences significant losses and changes, Ash ultimately embraces his role as a protector, finding a sense of purpose and connection he had long avoided.",
+        "categorized_keywords": {
+          "themes": [
+            "redemption",
+            "responsibility",
+            "facing-past-trauma",
+            "found-family",
+            "good-vs-evil"
+          ],
+          "plot_and_concepts": [
+            "demonic-possession",
+            "necronomicon",
+            "time-travel",
+            "monster-hunting",
+            "slapstick-comedy"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "campy",
+            "gore",
+            "humorous",
+            "action-packed"
+          ],
+          "genre_and_tropes": [
+            "horror-comedy",
+            "monster-of-the-week",
+            "action-adventure",
+            "found-family",
+            "supernatural"
+          ],
+          "setting": [
+            "michigan",
+            "small-town-usa",
+            "supernatural-realm"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "anti-hero",
+            "wise-mentor",
+            "naive-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "chainsaw",
+            "boomstick",
+            "necronomicon",
+            "deadite-demon",
+            "cabin-in-the-woods"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "gore",
+            "sexual-content"
+          ]
+        },
+        "keyword_sentence": "Ash vs Evil Dead is a darkly comic horror-comedy series set in Michigan, following a reluctant hero and his found family as they battle demonic forces and confront their past traumas with a chainsaw and a healthy dose of gore."
+      },
+      "duration_seconds": 65.13436460494995
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Mickey Mouse Clubhouse",
+    "overview": "Mickey and his friends Minnie, Donald, Pluto, Daisy, Goofy, Pete, Clarabelle and more go on fun and educational adventures.",
+    "genres": [
+      "Kids",
+      "Family",
+      "Animation"
+    ],
+    "release_year": 2006,
+    "vote_count": 292
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Mickey Mouse Clubhouse is a vibrant and interactive animated series designed for preschool-aged children. The show blends familiar Disney characters with educational segments, encouraging participation and problem-solving through simple narratives. It fosters a sense of community and friendship while introducing basic concepts like numbers, shapes, and colors. The series prioritizes positive social interaction and gentle humor, creating a welcoming and engaging experience for young viewers.",
+        "spoiler_rich_plot_summary": "Each episode of Mickey Mouse Clubhouse typically revolves around a problem that Mickey and his friends need to solve. They often seek the help of the audience, prompting viewers to participate by shouting out answers or actions. The stories are generally self-contained, focusing on simple tasks like finding a lost item, preparing for a party, or helping a friend. Throughout the series, recurring characters like Pete often appear, providing comedic conflict and opportunities for learning about sharing and cooperation. The overarching theme is about teamwork and the joy of helping others, culminating in a celebratory resolution where everyone succeeds together.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "teamwork",
+            "problem-solving",
+            "education",
+            "positive-reinforcement"
+          ],
+          "plot_and_concepts": [
+            "interactive-narrative",
+            "problem-solving-quests",
+            "musical-numbers",
+            "simple-tasks"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "playful",
+            "optimistic",
+            "lighthearted"
+          ],
+          "genre_and_tropes": [
+            "childrens-show",
+            "educational-entertainment",
+            "animated-comedy"
+          ],
+          "setting": [
+            "animated-world",
+            "fantasy-setting"
+          ],
+          "character_archetypes": [
+            "lovable-protagonist",
+            "supportive-friends",
+            "comedic-antagonist"
+          ],
+          "narrative_style": [
+            "episodic-format",
+            "direct-audience-interaction"
+          ],
+          "target_audience": [
+            "preschool-children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "mouseketools",
+            "toodles",
+            "mystery-solving",
+            "animated-characters"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Mickey Mouse Clubhouse is a lighthearted and educational animated series that fosters friendship and problem-solving through interactive adventures for a young, family audience."
+      },
+      "duration_seconds": 48.376527309417725
+    }
+  }
+}

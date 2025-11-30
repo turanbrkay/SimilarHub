@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "L.A. Law",
+    "overview": "L.A. Law is an American television legal drama series that ran for eight seasons on NBC from September 15, 1986, to May 19, 1994.\n\nCreated by Steven Bochco and Terry Louise Fisher, it contained many of Bochco's trademark features including a large number of parallel storylines, social drama and off-the-wall humor. It reflected the social and cultural ideologies of the 1980s and early 1990s, and many of the cases featured on the show dealt with hot-topic issues such as abortion, racism, gay rights, homophobia, sexual harassment, AIDS, and domestic violence. The series often also reflected social tensions between the wealthy senior lawyer protagonists and their less well-paid junior staff.\n\nThe show was popular with audiences and critics, and won 15 Emmy Awards throughout its run, four of which were for Outstanding Drama Series.",
+    "genres": [
+      "Drama",
+      "War & Politics"
+    ],
+    "release_year": 1986,
+    "vote_count": 50
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "L.A. Law is a groundbreaking legal drama series that blends courtroom proceedings with complex character relationships and social commentary. The show distinguishes itself through its ensemble cast, exploring the personal and professional lives of lawyers navigating a changing legal landscape. It tackles contemporary social issues with a blend of drama, humor, and a focus on the ethical dilemmas faced by those in the justice system. The series is notable for its realistic portrayal of law firms and the tensions between senior and junior attorneys, offering a nuanced look at the legal profession and its impact on society.",
+        "spoiler_rich_plot_summary": "The series initially introduces a diverse group of lawyers at the prestigious Krantz and Notestine law firm in Los Angeles. Early seasons focus on establishing the characters and their individual approaches to law, often highlighting clashes between idealistic junior attorneys and more pragmatic senior partners. Cases frequently revolve around controversial social issues, forcing the lawyers to confront their own biases and ethical boundaries. As the series progresses, personal relationships between the lawyers become increasingly intertwined, leading to both professional collaborations and intense conflicts. The firm faces internal struggles as partners vie for power and influence, and the lawyers grapple with the consequences of their actions both inside and outside the courtroom. Later seasons explore the evolving legal landscape and the impact of changing social norms on the practice of law, culminating in a complex web of personal and professional challenges for the entire team.",
+        "categorized_keywords": {
+          "themes": [
+            "justice-system",
+            "social-commentary",
+            "ethics",
+            "professionalism",
+            "power-dynamics",
+            "moral-ambiguity"
+          ],
+          "plot_and_concepts": [
+            "courtroom-drama",
+            "legal-thriller",
+            "ensemble-cast",
+            "serialized-story",
+            "social-issues"
+          ],
+          "mood_and_tone": [
+            "dramatic",
+            "realistic",
+            "thought-provoking",
+            "sometimes-humorous"
+          ],
+          "genre_and_tropes": [
+            "legal-drama",
+            "ensemble-cast-drama"
+          ],
+          "setting": [
+            "los-angeles",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "idealistic-protagonist",
+            "pragmatic-mentor",
+            "ambitious-lawyer"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "courtroom-scene",
+            "law-firm-office",
+            "legal-briefs"
+          ],
+          "maturity_and_content": [
+            "legal-proceedings",
+            "social-themes"
+          ]
+        },
+        "keyword_sentence": "L.A. Law is a dramatic legal series set in modern-day Los Angeles, exploring complex ethical dilemmas and power dynamics within a law firm as it tackles significant social issues through a serialized story with an ensemble cast."
+      },
+      "duration_seconds": 55.72066330909729
+    }
+  }
+}

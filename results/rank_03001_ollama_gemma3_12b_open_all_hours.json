@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Open All Hours",
+    "overview": "Open All Hours is a BBC sitcom written by Roy Clarke and starring Ronnie Barker as a miserly shop keeper and David Jason as his put-upon nephew who works as his errand boy.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1976,
+    "vote_count": 48
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Open All Hours is a classic British sitcom revolving around the daily misadventures of a family-run general store. The series blends physical comedy with witty dialogue, exploring the dynamics between a curmudgeonly shopkeeper and his well-meaning but often exasperated nephew. The humor derives from the shopkeeper's relentless pursuit of profit and his interactions with a colorful cast of customers and neighbors. It's a lighthearted and observational comedy that offers a nostalgic glimpse into a bygone era of British life.",
+        "spoiler_rich_plot_summary": "The series centers on Albert, a perpetually scheming shopkeeper, and his nephew, Stanley, who works for him. Albert is obsessed with saving money and constantly devises elaborate schemes to maximize profits, often involving Stanley as an unwitting accomplice. Stanley, despite his frustration with his uncle's miserly nature, remains loyal and attempts to navigate the chaotic environment of the shop. Throughout the series, they encounter a variety of eccentric customers and neighbors, each contributing to the comedic mayhem. While Albert's schemes often backfire, the underlying relationship between uncle and nephew remains a source of warmth and enduring humor, showcasing a complex bond built on exasperation and affection. The series doesn't follow a grand overarching plot, but rather a continuous stream of episodic situations that highlight the absurdity of everyday life and the enduring quirks of human nature.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "miserliness",
+            "small-town-life",
+            "generational-gap",
+            "social-observation"
+          ],
+          "plot_and_concepts": [
+            "sitcom",
+            "physical-comedy",
+            "slapstick",
+            "scheming",
+            "small-business"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "nostalgic"
+          ],
+          "genre_and_tropes": [
+            "british-sitcom",
+            "fish-out-of-water",
+            "eccentric-characters"
+          ],
+          "setting": [
+            "england",
+            "1970s",
+            "general-store",
+            "small-town"
+          ],
+          "character_archetypes": [
+            "miser",
+            "well-meaning-nephew",
+            "eccentric-customer"
+          ],
+          "narrative_style": [
+            "episodic",
+            "sitcom-format"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "general-store",
+            "delivery-boy",
+            "shop-front",
+            "postal-service"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Open All Hours is a lighthearted British sitcom set in a small-town general store, exploring the comedic dynamics between a miserly shopkeeper and his well-meaning nephew through episodic situations and eccentric characters."
+      },
+      "duration_seconds": 58.109654664993286
+    }
+  }
+}

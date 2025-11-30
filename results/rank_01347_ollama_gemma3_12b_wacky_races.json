@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Wacky Races",
+    "overview": "The cartoon revolves around several racers with various themes who are each allowed to use strange gimmicks to compete against other racers in many races across the United States.",
+    "genres": [
+      "Family",
+      "Animation",
+      "Comedy",
+      "Kids"
+    ],
+    "release_year": 1968,
+    "vote_count": 172
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Wacky Races is a vibrant, comedic animated series centered around a group of eccentric racers and their outlandish vehicles competing in a cross-country race. The show's humor derives from the characters' personalities, the vehicles' bizarre designs, and the chaotic situations that arise during the races. It's a lighthearted, family-friendly show emphasizing playful competition and silly antics, appealing to a young audience with its colorful visuals and slapstick comedy. The series is a celebration of creativity and individuality, albeit in a very silly and exaggerated way.",
+        "spoiler_rich_plot_summary": "The series follows Dick Dastardly and Muttley as they attempt to sabotage the other racers in the Wacky Races. Each episode features a different race across a variety of landscapes, with Dastardly employing increasingly elaborate and ridiculous schemes to gain an advantage. Despite his efforts, Dastardly consistently fails, often due to his own incompetence or Muttley's double-crossing. The racers, each with their unique vehicle and personality, engage in playful rivalry, and while there's a clear antagonist, the focus remains on the comedic chaos rather than a serious competition. The races continue indefinitely, with Dastardly's schemes perpetually foiled and Muttley's laughter echoing throughout.",
+        "categorized_keywords": {
+          "themes": [
+            "competition",
+            "friendship",
+            "humor",
+            "rivalry",
+            "silliness",
+            "ingenuity"
+          ],
+          "plot_and_concepts": [
+            "race",
+            "sabotage",
+            "vehicle-design",
+            "slapstick-comedy",
+            "chase-sequence"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "playful"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "family-comedy",
+            "cartoon",
+            "vehicle-race"
+          ],
+          "setting": [
+            "cross-country",
+            "united-states",
+            "cartoon-world"
+          ],
+          "character_archetypes": [
+            "villain",
+            "sidekick",
+            "eccentric-character"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "family-audience",
+            "kids"
+          ],
+          "detail_plot": [
+            "dastardly-vehicle",
+            "muttley-laughter",
+            "race-track",
+            "cartoon-landscape"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Wacky Races is a lighthearted animated cartoon series that follows a group of eccentric racers and their outlandish vehicles as they compete in a cross-country race filled with silly antics and comedic rivalry."
+      },
+      "duration_seconds": 57.072513818740845
+    }
+  }
+}

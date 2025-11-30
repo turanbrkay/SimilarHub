@@ -1,0 +1,66 @@
+{
+  "input_data": {
+    "title": "A Bit of Fry & Laurie",
+    "overview": "A British comedy television series with turns of phrase and elaborate wordplay, written by and starring former Cambridge Footlights members Stephen Fry and Hugh Laurie.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1989,
+    "vote_count": 99
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "A Bit of Fry & Laurie is a British sketch comedy series renowned for its sharp wit, intricate wordplay, and absurdist humor. The show, starring Stephen Fry and Hugh Laurie, showcases their comedic talents through a variety of sketches that often satirize social conventions, historical events, and literary tropes. Its appeal lies in its intellectual and sophisticated brand of comedy, which rewards attentive viewers with layers of meaning and clever references. The series established Fry and Laurie as comedic icons and remains a beloved classic of British television.",
+        "spoiler_rich_plot_summary": "The series doesn't follow a traditional narrative arc but rather presents a collection of self-contained sketches, each exploring different comedic scenarios. Recurring motifs include parodies of historical figures, literary characters, and various professions, often with a satirical edge. Fry and Laurie frequently portray multiple characters within a single sketch, demonstrating their versatility and comedic timing. While there's no overarching plot, the show's consistent tone and style create a cohesive comedic universe. The series concludes with a final collection of sketches, maintaining the established comedic formula and leaving a lasting impression of their unique brand of humor.",
+        "categorized_keywords": {
+          "themes": [
+            "satire",
+            "wordplay",
+            "absurdism",
+            "parody",
+            "intellectual-humor"
+          ],
+          "plot_and_concepts": [
+            "sketch-comedy",
+            "parody-of-history",
+            "literary-references"
+          ],
+          "mood_and_tone": [
+            "witty",
+            "intellectual",
+            "absurdist",
+            "satirical"
+          ],
+          "genre_and_tropes": [
+            "british-comedy",
+            "sketch-comedy"
+          ],
+          "setting": [
+            "modern-day",
+            "british-culture"
+          ],
+          "character_archetypes": [
+            "comedic-duo",
+            "satirical-characters"
+          ],
+          "narrative_style": [
+            "episodic",
+            "sketch-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "historical-costumes",
+            "literary-settings",
+            "satirical-portraits"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "A Bit of Fry & Laurie is a witty British sketch comedy series celebrated for its intellectual humor, satirical portrayals, and clever wordplay rooted in British culture."
+      },
+      "duration_seconds": 52.5570273399353
+    }
+  }
+}

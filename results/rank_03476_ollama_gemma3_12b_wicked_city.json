@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "Wicked City",
+    "overview": "Detectives Jack and Paco investigate a murder spree on the rock ’n’ roll, cocaine-infused revelry of the Sunset Strip.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "release_year": 2015,
+    "vote_count": 36
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Wicked City is a gritty crime drama set against the vibrant and dangerous backdrop of 1980s Los Angeles' Sunset Strip. The series follows detectives Jack Stratton and Paco Aguila as they navigate a world of rock and roll excess, drug trafficking, and brutal murder. It blends procedural elements with a character-driven narrative, exploring themes of morality, ambition, and the corrupting influence of power. The show aims to capture the atmosphere and aesthetic of the era while examining the dark underbelly of a seemingly glamorous scene.",
+        "spoiler_rich_plot_summary": "The series opens with the investigation of a seemingly random murder on the Sunset Strip, quickly revealing a complex web of connections between the victim and a group of influential figures in the music scene. Detectives Jack Stratton, a seasoned but troubled officer, and Paco Aguila, a young and idealistic recruit, are partnered to unravel the mystery. As they delve deeper, they uncover a conspiracy involving a charismatic rock star, a ruthless drug lord, and a network of corrupt officials. Jack's past traumas and Paco's unwavering sense of justice clash as they confront the moral compromises necessary to pursue the truth. The investigation leads them through a labyrinth of nightclubs, recording studios, and opulent mansions, exposing the dark side of fame and fortune. The detectives face betrayals, close calls, and personal sacrifices as they attempt to bring the perpetrators to justice, ultimately revealing a larger conspiracy that threatens to consume them both. The season culminates in a confrontation that forces Jack and Paco to question their beliefs and confront their own demons, leaving their futures uncertain.",
+        "categorized_keywords": {
+          "themes": [
+            "corruption",
+            "justice",
+            "redemption",
+            "ambition",
+            "morality",
+            "power",
+            "vengeance"
+          ],
+          "plot_and_concepts": [
+            "crime-procedural",
+            "murder-mystery",
+            "conspiracy",
+            "police-investigation",
+            "undercover-operation"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "dark",
+            "noir",
+            "suspenseful",
+            "atmospheric"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "police-procedural",
+            "neo-noir",
+            "80s-aesthetic"
+          ],
+          "setting": [
+            "los-angeles",
+            "1980s",
+            "sunset-strip",
+            "nightclubs"
+          ],
+          "character_archetypes": [
+            "troubled-detective",
+            "idealistic-recruit",
+            "corrupt-official",
+            "charismatic-villain"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "police-badge",
+            "nightclub-scene",
+            "recording-studio",
+            "police-car",
+            "vintage-clothing"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "drug-use",
+            "sexual-content"
+          ]
+        },
+        "keyword_sentence": "Set against the vibrant and dangerous backdrop of 1980s Los Angeles, Wicked City is a gritty crime drama exploring themes of corruption and justice through the eyes of troubled detectives navigating a world of rock and roll excess and brutal murder."
+      },
+      "duration_seconds": 62.087278604507446
+    }
+  }
+}

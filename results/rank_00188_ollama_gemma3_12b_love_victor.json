@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Love, Victor",
+    "overview": "Victor is a new student at Creekwood High School on his own journey of self-discovery, facing challenges at home, adjusting to a new city, and struggling with his sexual orientation. When it all seems too much, he reaches out to Simon to help him navigate the ups and downs of high school.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2020,
+    "vote_count": 1478
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Love, Victor is a coming-of-age dramedy that follows Victor, a teenager grappling with his identity and sexuality as he navigates high school and a new city. The series builds upon the world established in the film 'Love, Simon,' exploring themes of family, friendship, and self-acceptance through a relatable and often humorous lens. It offers a heartwarming and optimistic portrayal of personal growth and the importance of community support, particularly for LGBTQ+ youth. The show balances lighthearted moments with genuine emotional depth, creating a nuanced and engaging viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Victor moving to Creekwood High School, struggling to fit in and unsure of his place. He reaches out to Simon Spier, the protagonist of 'Love, Simon,' for guidance, and their correspondence forms a crucial lifeline for Victor. As Victor explores his feelings and begins to understand his sexual orientation, he develops a close friendship with Benji, a charming and openly gay student. However, his feelings for Benji become complicated by his growing attraction to Xander, a seemingly straight classmate. Victor's family life also presents challenges, as his parents struggle to understand his evolving identity. Throughout the series, Victor confronts internal conflicts and external pressures, ultimately striving to find his place within his family, his school, and himself. He navigates romantic relationships, deals with misunderstandings, and learns the importance of honesty and self-acceptance, culminating in a journey of personal growth and a hopeful outlook on the future.",
+        "categorized_keywords": {
+          "themes": [
+            "identity-discovery",
+            "family-acceptance",
+            "friendship",
+            "self-acceptance",
+            "coming-of-age",
+            "lgbtq-youth",
+            "romantic-relationships"
+          ],
+          "plot_and_concepts": [
+            "correspondence",
+            "coming-out-story",
+            "first-love",
+            "high-school-drama"
+          ],
+          "mood_and_tone": [
+            "heartwarming",
+            "optimistic",
+            "lighthearted",
+            "emotional"
+          ],
+          "genre_and_tropes": [
+            "coming-of-age-story",
+            "teen-drama",
+            "romantic-comedy",
+            "found-family"
+          ],
+          "setting": [
+            "suburban-america",
+            "high-school"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "supportive-friend",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "high-school-lockers",
+            "text-messages",
+            "school-dance",
+            "family-dinner"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Love, Victor is a heartwarming and optimistic teen drama that explores themes of identity discovery and self-acceptance as a young man navigates high school, romantic relationships, and the challenges of finding his place within his family and community."
+      },
+      "duration_seconds": 60.42930316925049
+    }
+  }
+}

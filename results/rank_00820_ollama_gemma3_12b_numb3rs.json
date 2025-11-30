@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Numb3rs",
+    "overview": "Inspired by actual cases and experiences, Numb3rs depicts the confluence of police work and mathematics in solving crime as an FBI agent recruits his mathematical genius brother to help solve a wide range of challenging crimes in Los Angeles from a very different perspective.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2005,
+    "vote_count": 333
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Numb3rs is a crime drama that blends police procedural elements with mathematical concepts. The series follows an FBI agent who enlists the help of his mathematically gifted brother to solve crimes in Los Angeles. It explores the intersection of law enforcement and analytical thinking, offering a unique perspective on criminal investigations. The show balances procedural cases with the development of the brothers' relationship and the challenges they face in their personal lives. While the premise is unique, the series maintains a familiar episodic structure with overarching character arcs.",
+        "spoiler_rich_plot_summary": "The series begins with Don Eppes, an FBI agent, recognizing his brother Charlie's extraordinary mathematical abilities and recruiting him to assist in solving crimes. Charlie, a university lecturer, initially resists, preferring the academic world. However, he gradually becomes an integral part of the team, using his skills in pattern recognition, probability, and statistics to predict criminal behavior and identify suspects. Throughout the series, the brothers navigate complex cases ranging from bank robberies and serial killings to terrorism and organized crime. Their relationship is tested by differing approaches to problem-solving and personal conflicts. As the series progresses, Charlie's mathematical abilities become more crucial to solving increasingly dangerous and intricate cases, often involving significant personal risk. The brothers face challenges from within the FBI, as some agents are skeptical of Charlie's methods. Recurring antagonists and complex criminal networks emerge, creating long-term threats that require the brothers to work together and push the boundaries of their abilities. While the brothers achieve successes in solving crimes, they also confront the emotional toll of their work and the sacrifices they must make.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "brotherhood",
+            "justice",
+            "crime-solving",
+            "mathematics",
+            "sacrifice"
+          ],
+          "plot_and_concepts": [
+            "crime-procedural",
+            "mathematical-analysis",
+            "predictive-modeling",
+            "serial-crime",
+            "police-investigation"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "analytical",
+            "serious",
+            "procedural"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "procedural-drama",
+            "buddy-cop",
+            "genius-consultant"
+          ],
+          "setting": [
+            "los-angeles",
+            "modern-day",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "genius-protagonist",
+            "law-enforcement-agent",
+            "reluctant-hero",
+            "analytical-mind"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "crime-scene",
+            "mathematical-equations",
+            "police-badge",
+            "crime-lab",
+            "surveillance-footage"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Numb3rs is a suspenseful crime drama set in Los Angeles, where a dedicated FBI agent collaborates with his mathematically gifted brother to solve complex cases using analytical techniques and predictive modeling."
+      },
+      "duration_seconds": 64.96065425872803
+    }
+  }
+}

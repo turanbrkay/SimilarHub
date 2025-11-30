@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "The Bay",
+    "overview": "Family Liaison Officer Lisa Armstrong becomes a little too emotionally involved with a case (to the point where she might compromise it) concerning a pair of missing Morecambe twins to whose distraught parents she is assigned.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "release_year": 2019,
+    "vote_count": 57
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Bay is a British crime drama series that explores the complexities of family dynamics and the pressures faced by law enforcement. The series centers on a Family Liaison Officer who becomes deeply entangled in a case involving missing children, blurring the lines between professional duty and personal involvement. The show's strength lies in its exploration of moral ambiguities and the emotional toll on those involved in high-stakes investigations, offering a suspenseful and character-driven narrative set against the backdrop of a coastal community.",
+        "spoiler_rich_plot_summary": "The series begins with the disappearance of two young boys, Connor and Ethan, from Morecambe, Lancashire. Family Liaison Officer Lisa Armstrong is assigned to support their parents, prompting a complex and emotionally charged investigation. As Lisa delves deeper into the case, she uncovers a web of secrets and lies within the community, revealing the vulnerabilities and hidden struggles of the families involved. The investigation exposes a network of interconnected relationships and past traumas, leading Lisa to question her own judgment and the integrity of the police force. The search for the boys intensifies, revealing potential suspects and red herrings, while Lisa grapples with her growing emotional attachment to the family and the potential for professional compromise. Ultimately, the truth behind the disappearance is revealed, exposing a tragic sequence of events and leaving a lasting impact on the community and those involved in the search.",
+        "categorized_keywords": {
+          "themes": [
+            "family-secrets",
+            "grief",
+            "moral-ambiguity",
+            "social-class",
+            "community-impact",
+            "loss-of-innocence"
+          ],
+          "plot_and_concepts": [
+            "missing-children",
+            "police-investigation",
+            "courtroom-drama",
+            "false-accusation",
+            "small-town-mystery"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "somber",
+            "gritty",
+            "emotional",
+            "tense"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "police-drama",
+            "whodunit",
+            "slow-burn-mystery"
+          ],
+          "setting": [
+            "coastal-town",
+            "lancashire",
+            "modern-day",
+            "working-class-community"
+          ],
+          "character_archetypes": [
+            "dedicated-officer",
+            "grieving-parent",
+            "morally-gray-protagonist",
+            "small-town-villain"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "police-station",
+            "coastal-landscape",
+            "family-home",
+            "courtroom"
+          ],
+          "maturity_and_content": [
+            "emotional-distress",
+            "suspense"
+          ]
+        },
+        "keyword_sentence": "The Bay is a suspenseful British crime drama exploring themes of family secrets and moral ambiguity within a tight-knit coastal community, as a dedicated officer navigates a complex police investigation."
+      },
+      "duration_seconds": 63.42991018295288
+    }
+  }
+}

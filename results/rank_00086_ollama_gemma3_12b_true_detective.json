@@ -1,0 +1,88 @@
+{
+  "input_data": {
+    "title": "True Detective",
+    "overview": "An American anthology police detective series utilizing multiple timelines in which investigations seem to unearth personal and professional secrets of those involved, both within or outside the law.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2014,
+    "vote_count": 2787
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "True Detective is a dark and philosophical crime anthology series that explores the psychological toll of investigating horrific crimes. Each season features a new cast and a self-contained narrative, delving into themes of morality, nihilism, and the nature of evil. The show blends elements of crime procedural, psychological thriller, and Southern Gothic, creating a brooding and atmospheric viewing experience. Its complex characters and intricate plots invite viewers to contemplate the darkness that exists within individuals and society.",
+        "spoiler_rich_plot_summary": "The first season of True Detective centers on the investigation of a ritualistic murder in rural Louisiana. Detectives Rust Cohle and Martin Hart, vastly different in their personalities and philosophies, are brought back to reopen the case years after the initial investigation stalled. As they delve deeper into the case, they uncover a disturbing network of occult practices and confront their own personal demons. Cohle, a nihilistic intellectual, grapples with a traumatic past and a bleak worldview, while Hart, a family man with a more conventional morality, struggles with infidelity and a growing sense of disillusionment. The investigation leads them to a powerful and enigmatic figure who seems to be at the heart of the evil they are pursuing. The season culminates in a confrontation that reveals shocking truths about the case and the detectives themselves, leaving a lasting impact on their lives. Subsequent seasons continue the anthology format, presenting new detectives and new mysteries, each exploring different facets of human darkness and societal decay.",
+        "categorized_keywords": {
+          "themes": [
+            "nihilism",
+            "morality",
+            "evil",
+            "redemption",
+            "corruption",
+            "existentialism",
+            "loss",
+            "trauma"
+          ],
+          "plot_and_concepts": [
+            "crime-investigation",
+            "serial-killer",
+            "occultism",
+            "ritual-murder",
+            "anthology-series",
+            "police-procedural"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "brooding",
+            "atmospheric",
+            "philosophical",
+            "suspenseful",
+            "grim"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "psychological-thriller",
+            "southern-gothic",
+            "noir",
+            "slow-burn"
+          ],
+          "setting": [
+            "rural-louisiana",
+            "modern-day",
+            "american-south"
+          ],
+          "character_archetypes": [
+            "nihilist",
+            "anti-hero",
+            "reluctant-hero",
+            "morally-gray-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "non-linear-timeline",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "crime-scene",
+            "interrogation-room",
+            "forest-setting",
+            "police-car",
+            "evidence-bag"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "sexual-content",
+            "substance-abuse",
+            "disturbing-imagery"
+          ]
+        },
+        "keyword_sentence": "True Detective is a dark and philosophical crime anthology series set in the American South, exploring themes of nihilism and morality through complex characters and disturbing investigations."
+      },
+      "duration_seconds": 73.13309931755066
+    }
+  }
+}

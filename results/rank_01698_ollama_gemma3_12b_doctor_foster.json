@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Doctor Foster",
+    "overview": "A woman suspects her husband of having an affair. After following several lines of enquiries far more unravels including a streak of violence below the surface.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2015,
+    "vote_count": 122
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Doctor Foster is a British drama series centered on a respected surgeon whose seemingly perfect life is shattered by the suspicion of her husband's infidelity. The series explores themes of betrayal, revenge, and the fragility of appearances, blending psychological suspense with a sharp examination of social dynamics and class distinctions. It offers a tense and emotionally charged viewing experience, driven by a compelling central performance and a narrative that gradually reveals the dark underbelly of a seemingly idyllic community. The series maintains a consistently unsettling tone, fueled by a slow-burn plot and a focus on the protagonist's unraveling.",
+        "spoiler_rich_plot_summary": "The series begins with Gemma Foster, a successful surgeon, discovering inconsistencies in her husband Simon's behavior, leading her to suspect an affair. Her investigation reveals that Simon has been having a long-term relationship with young Anna, a patient's daughter. As Gemma delves deeper, she uncovers a web of lies and deceit that extends beyond the initial affair, revealing a history of manipulation and financial impropriety on Simon's part. Gemma's pursuit of the truth becomes increasingly obsessive and destructive, impacting her career, relationships, and mental state. The series culminates in a confrontation where Gemma exposes Simon's secrets, leading to significant consequences for both of them and those around them. Simon's reputation and social standing are ruined, and Gemma is left to grapple with the aftermath of her actions and the shattered remnants of her former life, facing an uncertain future.",
+        "categorized_keywords": {
+          "themes": [
+            "betrayal",
+            "revenge",
+            "deception",
+            "social-status",
+            "marital-affair",
+            "loss-of-control",
+            "class-conflict"
+          ],
+          "plot_and_concepts": [
+            "suspense-thriller",
+            "affair-plot",
+            "investigation",
+            "slow-burn-plot",
+            "domestic-drama"
+          ],
+          "mood_and_tone": [
+            "tense",
+            "unsettling",
+            "dark",
+            "psychological-thriller",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "domestic-drama",
+            "psychological-thriller",
+            "revenge-plot"
+          ],
+          "setting": [
+            "uk",
+            "suburban-setting",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "unraveling-protagonist",
+            "manipulative-husband",
+            "femme-fatale",
+            "victim"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "slow-burn"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "surgery-scene",
+            "affair-discovery",
+            "investigation-trail",
+            "confrontation"
+          ],
+          "maturity_and_content": [
+            "emotional-abuse",
+            "marital-infidelity",
+            "suspense"
+          ]
+        },
+        "keyword_sentence": "Doctor Foster is a tense and unsettling British drama series exploring themes of betrayal and revenge within a seemingly idyllic suburban setting, following a surgeon whose life unravels after discovering her husband's infidelity."
+      },
+      "duration_seconds": 66.70888352394104
+    }
+  }
+}

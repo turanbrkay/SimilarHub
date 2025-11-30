@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "Inside Man",
+    "overview": "A prisoner on death row in the US, a vicar in a quiet English town, and a maths teacher trapped in a cellar cross paths in the most unexpected way.",
+    "genres": [
+      "Drama",
+      "Crime",
+      "Mystery"
+    ],
+    "release_year": 2022,
+    "vote_count": 192
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Inside Man is a psychological drama and crime mystery series that explores the interconnectedness of seemingly disparate lives. The narrative revolves around a prisoner facing execution, a rural English vicar, and a math teacher held captive, all linked by a series of complex and unsettling events. The series delves into themes of morality, guilt, and the nature of good and evil, offering a suspenseful and thought-provoking viewing experience. The show's strength lies in its intricate plotting and the exploration of human psychology under pressure, creating a tense and unpredictable atmosphere.",
+        "spoiler_rich_plot_summary": "The series begins with Edward Bishop, a prisoner on death row in the United States, who appears to have an uncanny ability to predict events and offer advice to his prison chaplain. Simultaneously, in England, Seymour, a vicar, becomes entangled in a kidnapping case involving Gwendoline, the daughter of a wealthy businessman. A math teacher, Ryan, is abducted and held in a cellar, and Seymour finds himself increasingly involved in the investigation, guided by cryptic messages seemingly originating from Edward. As the story unfolds, it becomes clear that Edward's predictions are not mere coincidence but are rooted in a deep understanding of human behavior and a past connection to the events unfolding in England. The investigation reveals a web of secrets and lies, exposing the dark underbelly of the seemingly idyllic English town and the motivations behind the kidnapping. The series culminates in a confrontation that reveals the full extent of Edward's involvement and the devastating consequences of his actions, leaving a lasting impact on all those involved.",
+        "categorized_keywords": {
+          "themes": [
+            "morality",
+            "guilt",
+            "redemption",
+            "justice",
+            "secrets",
+            "connection",
+            "fate"
+          ],
+          "plot_and_concepts": [
+            "kidnapping",
+            "serial-mystery",
+            "psychological-thriller",
+            "crime-investigation",
+            "false-imprisonment"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "tense",
+            "unsettling",
+            "psychological"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "mystery",
+            "thriller",
+            "serial-mystery"
+          ],
+          "setting": [
+            "england",
+            "united-states",
+            "rural-setting",
+            "prison"
+          ],
+          "character_archetypes": [
+            "prisoner",
+            "vicar",
+            "math-teacher",
+            "kidnapper",
+            "investigator"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "multiple-perspectives"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "prison-cell",
+            "church-interior",
+            "cellar-confinement",
+            "cryptic-messages"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "suspense"
+          ]
+        },
+        "keyword_sentence": "Inside Man is a suspenseful psychological thriller set in England and the United States, exploring themes of morality and connection through the intertwined stories of a prisoner, a vicar, and a captive, revealing dark secrets and unsettling truths."
+      },
+      "duration_seconds": 64.47639584541321
+    }
+  }
+}

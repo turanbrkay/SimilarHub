@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "The A List",
+    "overview": "Romance, rivalry and radical mystery collide as a group of teens attend a remote island sleepaway camp in this suspenseful, supernatural drama.",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Family"
+    ],
+    "release_year": 2018,
+    "vote_count": 83
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The A List is a suspenseful drama series centered around a group of teenagers attending a secretive sleepaway camp. The show blends elements of mystery, romance, and family dynamics, creating a tense atmosphere of intrigue and hidden agendas. The narrative explores themes of identity, loyalty, and the consequences of secrets, as the teens uncover a complex web of relationships and a potentially dangerous truth about the camp and its staff. The series aims to deliver a thrilling and emotionally engaging experience, keeping viewers guessing about the true nature of the camp and the motivations of its inhabitants.",
+        "spoiler_rich_plot_summary": "The series begins with Paige Ellwood Thorne, a seemingly ordinary teenager, invited to attend the exclusive Blackwood Camp, a summer retreat for the children of the wealthy and influential. However, Paige soon discovers that Blackwood is far from what it appears to be. The campers are subjected to rigorous training and psychological manipulation, and they are all part of a secret society known as 'The A List.' Paige, along with other campers like Brandon, Mia, and Jake, begins to suspect that the camp's founder, Ray, and his staff are hiding a dark secret. As they investigate, they uncover a history of manipulation, control, and potentially dangerous experiments. The campers form alliances and rivalries as they try to unravel the truth, facing betrayals and unexpected twists. Paige's own past is revealed to be intertwined with the camp's history, adding another layer of complexity to the mystery. The series culminates in a confrontation where the campers must decide whether to expose the truth or become complicit in the camp's sinister operations, with significant consequences for their futures and the lives of those around them.",
+        "categorized_keywords": {
+          "themes": [
+            "secrets",
+            "identity-quest",
+            "loyalty",
+            "betrayal",
+            "class-divide",
+            "power-dynamics"
+          ],
+          "plot_and_concepts": [
+            "mystery",
+            "coming-of-age",
+            "secret-society",
+            "psychological-manipulation",
+            "conspiracy"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "tense",
+            "atmospheric"
+          ],
+          "genre_and_tropes": [
+            "teen-drama",
+            "mystery-thriller",
+            "coming-of-age",
+            "found-family"
+          ],
+          "setting": [
+            "sleepaway-camp",
+            "remote-location",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "antagonist",
+            "mentor",
+            "outsider"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult"
+          ],
+          "detail_plot": [
+            "camp-counselors",
+            "secret-meetings",
+            "training-exercises",
+            "camp-grounds"
+          ],
+          "maturity_and_content": [
+            "psychological-manipulation",
+            "suspense"
+          ]
+        },
+        "keyword_sentence": "A group of teenagers attending a remote sleepaway camp uncover a web of secrets and psychological manipulation, leading to a suspenseful mystery about power, identity, and the dark side of privilege."
+      },
+      "duration_seconds": 65.6677520275116
+    }
+  }
+}

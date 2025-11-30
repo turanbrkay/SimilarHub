@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "48 Hours",
+    "overview": "This newsmagazine series investigates intriguing crime and justice cases that touch on all aspects of the human experience. Over its long run, the show has helped exonerate wrongly convicted people, driven the reopening — and resolution — of cold cases, and changed numerous lives. CBS News correspondents offer an in-depth look into each story, with the emphasis on solving the mystery at its heart.",
+    "genres": [
+      "Mystery",
+      "News"
+    ],
+    "release_year": 1988,
+    "vote_count": 39
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "48 Hours is a long-running newsmagazine series that delves into true crime cases, focusing on the investigative process and the human stories behind them. The show distinguishes itself by its commitment to uncovering new evidence, often leading to exonerations and the reopening of cold cases. Through in-depth reporting and compelling storytelling, 48 Hours offers viewers a detailed exploration of the complexities of the justice system and the impact of crime on individuals and communities. The series maintains a serious and respectful tone, prioritizing factual accuracy and the presentation of multiple perspectives.",
+        "spoiler_rich_plot_summary": "Each episode of 48 Hours typically focuses on a single crime or justice case, beginning with the initial discovery of the crime and following the subsequent investigation. Correspondents meticulously examine the evidence, interview key witnesses and suspects, and analyze the legal proceedings. The series often highlights the challenges faced by law enforcement, the impact of forensic science, and the role of legal representation. Recurring themes involve wrongful convictions, the pursuit of justice for victims, and the complexities of the criminal justice system. Over the years, 48 Hours has played a significant role in bringing closure to families and uncovering truths that were previously hidden, often leading to the overturning of convictions and the identification of perpetrators in long-unsolved cases. The series concludes with a reflection on the case's resolution and its broader implications.",
+        "categorized_keywords": {
+          "themes": [
+            "true-crime",
+            "justice-system",
+            "investigation",
+            "wrongful-conviction",
+            "cold-cases",
+            "human-interest"
+          ],
+          "plot_and_concepts": [
+            "investigative-journalism",
+            "forensic-science",
+            "legal-proceedings",
+            "cold-case-investigation",
+            "wrongful-conviction-cases"
+          ],
+          "mood_and_tone": [
+            "serious",
+            "respectful",
+            "factual",
+            "analytical"
+          ],
+          "genre_and_tropes": [
+            "news-magazine",
+            "true-crime-documentary"
+          ],
+          "setting": [
+            "united-states",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "investigative-reporter",
+            "law-enforcement",
+            "legal-professional",
+            "victim"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "case-study"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "crime-scene",
+            "police-interview",
+            "courtroom",
+            "forensic-evidence"
+          ],
+          "maturity_and_content": [
+            "crime-themes",
+            "legal-proceedings"
+          ]
+        },
+        "keyword_sentence": "48 Hours is a serious newsmagazine series that investigates true crime cases and legal proceedings across the United States, often uncovering new evidence and highlighting the complexities of the justice system."
+      },
+      "duration_seconds": 54.50013756752014
+    }
+  }
+}

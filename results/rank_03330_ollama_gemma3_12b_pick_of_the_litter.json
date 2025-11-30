@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "Pick of the Litter",
+    "overview": "The stories of a litter of puppies, and their human companions, as they go on a quest to become guide dogs for the blind.",
+    "genres": [
+      "Documentary",
+      "Family"
+    ],
+    "release_year": 2019,
+    "vote_count": 39
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Pick of the Litter is a heartwarming documentary series that follows a litter of golden retriever puppies from birth through their rigorous training to become guide dogs. The series explores the dedication of the trainers, the challenges faced by the puppies, and the profound impact these dogs have on the lives of the blind and visually impaired. It's a feel-good series that celebrates the human-animal bond and the power of perseverance, offering a unique perspective on the world of service animals and the people who rely on them. The documentary blends observational footage with interviews, creating an engaging and emotionally resonant experience for viewers.",
+        "spoiler_rich_plot_summary": "The series begins with the birth of a litter of golden retriever puppies at a specialized breeding facility. Viewers witness their early development, socialization, and initial assessments to determine their suitability for guide dog training. As the puppies grow, they are placed with volunteer puppy raisers who introduce them to various environments and help them develop essential skills. The training process is demanding, with puppies facing numerous challenges and evaluations. Some puppies demonstrate exceptional aptitude, while others struggle or are ultimately deemed unsuitable for guide work. The series follows several individual puppies throughout their journey, highlighting their unique personalities and the emotional connections formed with their trainers and raisers. The final episodes focus on the matching process, where the most promising puppies are paired with blind or visually impaired individuals, showcasing the transformative impact these dogs have on their lives and the bittersweet farewells of the puppy raisers.",
+        "categorized_keywords": {
+          "themes": [
+            "human-animal-bond",
+            "perseverance",
+            "compassion",
+            "service",
+            "responsibility",
+            "hope"
+          ],
+          "plot_and_concepts": [
+            "training-program",
+            "coming-of-age",
+            "rescue-story",
+            "service-animal"
+          ],
+          "mood_and_tone": [
+            "heartwarming",
+            "optimistic",
+            "gentle",
+            "inspiring"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "family-audience",
+            "feel-good"
+          ],
+          "setting": [
+            "modern-day",
+            "united-states"
+          ],
+          "character_archetypes": [
+            "dedicated-trainer",
+            "compassionate-raiser",
+            "visually-impaired-individual"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "observational-documentary"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "golden-retriever-puppies",
+            "puppy-training",
+            "service-dog-harness",
+            "blind-cane"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Pick of the Litter is a heartwarming documentary series that follows golden retriever puppies through a rigorous training program, celebrating the power of compassion and the profound impact of service animals on the lives of visually impaired individuals."
+      },
+      "duration_seconds": 54.16036367416382
+    }
+  }
+}

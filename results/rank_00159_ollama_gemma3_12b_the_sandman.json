@@ -1,0 +1,93 @@
+{
+  "input_data": {
+    "title": "The Sandman",
+    "overview": "After years of imprisonment, Morpheus — the King of Dreams — embarks on a journey across worlds to find what was stolen from him and restore his power.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "release_year": 2022,
+    "vote_count": 1726
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Sandman is a dark fantasy series exploring the realm of dreams and its profound impact on the waking world. Rooted in Neil Gaiman's comic book series, the show blends mythology, horror, and drama, delving into themes of responsibility, loss, and the power of stories. The narrative follows Morpheus, the King of Dreams, as he seeks to reclaim his stolen artifacts and restore order to his realm, encountering a diverse cast of characters and confronting the consequences of his past actions. The series offers a visually stunning and emotionally resonant experience, examining the fragility of reality and the enduring power of imagination.",
+        "spoiler_rich_plot_summary": "The series begins with Morpheus's capture in 1916, orchestrated by a ritual performed by a man desperate to trap a dream to ease his grief. Decades later, he escapes, finding his realm, the Dreaming, in ruins and several powerful artifacts missing. His quest to recover these artifacts leads him across various worlds and timelines, forcing him to confront figures from his past, including his siblings, Desire, Despair, and Delirium. He encounters individuals whose lives have been profoundly affected by his absence, some seeking his aid, others seeking revenge. A significant portion of the narrative focuses on Dream's interactions with Rose Walker, a woman destined to become a vortex, threatening to unravel the fabric of reality. Dream must guide and protect her, ultimately confronting the forces seeking to exploit her power. Throughout his journey, Morpheus grapples with his own flaws and limitations, learning to appreciate the complexities of human emotion and the importance of connection. The series culminates in a confrontation with Lucifer, the ruler of Hell, and a reckoning with the consequences of his actions, ultimately restoring balance to the Dreaming and reaffirming his role as the King of Dreams.",
+        "categorized_keywords": {
+          "themes": [
+            "dreams",
+            "mortality",
+            "responsibility",
+            "loss",
+            "identity",
+            "fate",
+            "power",
+            "redemption",
+            "mythology"
+          ],
+          "plot_and_concepts": [
+            "multiverse",
+            "time-travel",
+            "alternate-reality",
+            "quest",
+            "mythic-journey",
+            "supernatural",
+            "dream-realm"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "atmospheric",
+            "melancholy",
+            "surreal",
+            "epic",
+            "mysterious"
+          ],
+          "genre_and_tropes": [
+            "fantasy",
+            "dark-fantasy",
+            "mythological-fiction",
+            "supernatural-horror",
+            "epic-fantasy"
+          ],
+          "setting": [
+            "dreaming",
+            "hell",
+            "alternate-timeline",
+            "london-england",
+            "various-worlds"
+          ],
+          "character_archetypes": [
+            "king",
+            "anti-hero",
+            "trickster",
+            "guardian",
+            "fallen-angel"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "anthology",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "dream-realm",
+            "sandman",
+            "dreamstone",
+            "coraline",
+            "lucifer-morningstar"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "horror",
+            "supernatural-themes"
+          ]
+        },
+        "keyword_sentence": "The Sandman is a dark and atmospheric fantasy series exploring themes of dreams, responsibility, and mortality as a fallen king journeys across alternate realities to restore balance to the dreaming and confront the consequences of his actions."
+      },
+      "duration_seconds": 70.54749131202698
+    }
+  }
+}

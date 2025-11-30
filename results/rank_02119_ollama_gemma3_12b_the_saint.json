@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "The Saint",
+    "overview": "Simon Templar is The Saint, a handsome, sophisticated, debonair, modern-day Robin Hood who recovers ill-gotten wealth and redistributes it to those in need.",
+    "genres": [
+      "Action & Adventure",
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 1962,
+    "vote_count": 88
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Saint is a stylish action-adventure series centered on Simon Templar, a charming and resourceful gentleman thief who operates outside the law to right wrongs and redistribute stolen wealth. The show blends elements of crime drama, mystery, and action, presenting a morally ambiguous protagonist who navigates a world of corruption and intrigue. Templar's sophisticated demeanor and quick wit are key to his success, as he outmaneuvers criminals and evades authorities while maintaining a veneer of charm and elegance. The series offers a lighthearted and escapist viewing experience, emphasizing action and adventure over deep thematic exploration.",
+        "spoiler_rich_plot_summary": "The series follows Simon Templar, known as The Saint, as he undertakes various assignments, often involving recovering stolen goods or exposing criminal enterprises. Each case presents a new set of challenges, requiring Templar to use his skills in disguise, deduction, and combat. He frequently works alongside a rotating cast of contacts and informants, often finding himself at odds with both law enforcement and the criminals he targets. While Templar’s actions are generally motivated by a desire for justice, his methods often blur the lines between hero and outlaw, leading to complex moral dilemmas. Throughout the series, recurring antagonists and shadowy organizations emerge, hinting at a larger conspiracy that Templar must unravel, though the overarching narrative remains episodic rather than a continuous, season-long arc. The series concludes with Simon continuing his life as a freelance problem-solver, always ready to assist those in need and evade capture.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "redemption",
+            "morality-ambiguity",
+            "wealth-disparity",
+            "crime-and-punishment"
+          ],
+          "plot_and_concepts": [
+            "gentleman-thief",
+            "crime-investigation",
+            "heist",
+            "disguise",
+            "cat-and-mouse"
+          ],
+          "mood_and_tone": [
+            "stylish",
+            "lighthearted",
+            "adventurous",
+            "sophisticated",
+            "charming"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "crime-drama",
+            "mystery",
+            "spy-thriller",
+            "rogue-hero"
+          ],
+          "setting": [
+            "1960s",
+            "international-locations",
+            "modern-era"
+          ],
+          "character_archetypes": [
+            "rogue-hero",
+            "charming-protagonist",
+            "skilled-operative",
+            "enigmatic-figure"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "case-of-the-week"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "sports-car",
+            "stylish-suits",
+            "international-travel",
+            "secret-passages"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Saint is a stylish and adventurous crime drama series set in the 1960s, following a charming rogue hero who uses his skills to redistribute wealth and evade capture while navigating a world of international intrigue."
+      },
+      "duration_seconds": 66.11057114601135
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "My 600-lb Life",
+    "overview": "TLC's My 600-lb Life documents the seven-year journey four individuals undertake to escape obesity and regain control of their lives.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2012,
+    "vote_count": 35
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "My 600-lb Life is a reality television series that follows individuals struggling with extreme obesity as they attempt to lose weight and reclaim their lives. The show documents their physical, emotional, and psychological challenges, often highlighting the complex interplay of genetics, environment, and personal choices that contribute to their condition. It offers a raw and often difficult-to-watch portrayal of the struggles faced by those battling severe obesity, and the dedication of medical professionals working to help them. The series explores themes of personal responsibility, family dynamics, and the pursuit of a healthier future, often with poignant and emotionally charged moments.",
+        "spoiler_rich_plot_summary": "The series begins by introducing individuals who have reached a point of crisis due to their extreme weight, often requiring assistance with basic daily tasks. Each episode typically follows their initial consultation with Dr. Younan Nowzaradan, a bariatric surgeon, who assesses their readiness for surgery. Before being approved for surgery, patients must demonstrate a commitment to lifestyle changes, including dietary restrictions and exercise. This often involves a period of intense struggle and setbacks, as patients grapple with deeply ingrained habits and emotional dependencies. The series chronicles their progress, or lack thereof, through regular weigh-ins and consultations with Dr. Nowzaradan and his team. While some patients achieve significant weight loss and ultimately undergo bariatric surgery, others face ongoing challenges and may not reach their goals. The show highlights the long and arduous journey required to overcome extreme obesity, and the impact it has on their families and relationships. The series concludes with a look at their ongoing progress and the challenges they continue to face.",
+        "categorized_keywords": {
+          "themes": [
+            "obesity",
+            "weight-loss",
+            "health",
+            "family-dynamics",
+            "personal-responsibility",
+            "addiction",
+            "mental-health"
+          ],
+          "plot_and_concepts": [
+            "reality-tv",
+            "medical-journey",
+            "bariatric-surgery",
+            "lifestyle-change",
+            "dietary-restrictions"
+          ],
+          "mood_and_tone": [
+            "emotional",
+            "somber",
+            "raw",
+            "hopeful",
+            "challenging"
+          ],
+          "genre_and_tropes": [
+            "reality-tv",
+            "medical-drama",
+            "self-improvement"
+          ],
+          "setting": [
+            "modern-day",
+            "texas"
+          ],
+          "character_archetypes": [
+            "struggling-individual",
+            "dedicated-doctor",
+            "supportive-family"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "documentary-style"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "weigh-ins",
+            "medical-consultations",
+            "bariatric-surgery",
+            "dietary-plans"
+          ],
+          "maturity_and_content": [
+            "body-shaming",
+            "emotional-distress"
+          ]
+        },
+        "keyword_sentence": "My 600-lb Life is a raw and emotional reality television series documenting the challenging medical journeys of individuals struggling with extreme obesity as they attempt to reclaim their health and lives through dietary changes and, potentially, bariatric surgery."
+      },
+      "duration_seconds": 59.32555437088013
+    }
+  }
+}

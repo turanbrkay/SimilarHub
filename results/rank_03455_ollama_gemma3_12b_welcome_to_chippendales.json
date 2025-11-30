@@ -1,0 +1,85 @@
+{
+  "input_data": {
+    "title": "Welcome to Chippendales",
+    "overview": "The outrageous story of Somen “Steve” Banerjee, an Indian immigrant who became the unlikely founder of the world’s greatest male-stripping empire—and let nothing stand in his way in the process.",
+    "genres": [
+      "Drama",
+      "Crime",
+      "Comedy"
+    ],
+    "release_year": 2022,
+    "vote_count": 36
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Welcome to Chippendales is a biographical drama series chronicling the rise and fall of Somen “Steve” Banerjee, the founder of the Chippendales dance troupe. The series blends elements of crime, comedy, and drama, exploring themes of ambition, immigrant experience, and the dark side of entrepreneurial success. It portrays a complex character driven by a desire for recognition and control, ultimately leading to a web of deceit and escalating consequences. The show offers a darkly comedic and often unsettling look at the creation of a cultural phenomenon and the personal toll it exacts.",
+        "spoiler_rich_plot_summary": "The series begins with Somen Banerjee, an Indian immigrant struggling to find his place in Los Angeles. He initially opens a small, struggling dance studio, but recognizing the potential for a more lucrative venture, he conceives of a male-stripping troupe, the Chippendales. Banerjee, rebranding himself as Steve, meticulously crafts the troupe's image and choreography, aiming for a level of sophistication and artistry that sets them apart. As the Chippendales gain popularity and become a cultural sensation, Steve’s ambition spirals into obsession and paranoia. He implements increasingly restrictive and controlling measures to maintain his grip on the business, leading to internal conflicts and resentment among the dancers. A former dancer, Nick O’Brien, becomes a significant threat, leading to a series of escalating events involving blackmail, arson, and ultimately, a deadly confrontation. Steve’s relentless pursuit of control and his willingness to cross moral and legal boundaries ultimately lead to his downfall, leaving a legacy of both entertainment and tragedy.",
+        "categorized_keywords": {
+          "themes": [
+            "ambition",
+            "immigrant-experience",
+            "entrepreneurship",
+            "control",
+            "deception",
+            "legacy",
+            "cultural-impact",
+            "male-gaze"
+          ],
+          "plot_and_concepts": [
+            "rise-and-fall",
+            "crime",
+            "blackmail",
+            "arson",
+            "business-empire",
+            "cultural-phenomenon"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "suspenseful",
+            "satirical",
+            "gritty",
+            "provocative"
+          ],
+          "genre_and_tropes": [
+            "biographical-drama",
+            "crime-drama",
+            "business-drama",
+            "rise-and-fall-narrative"
+          ],
+          "setting": [
+            "los-angeles",
+            "1980s",
+            "nightclub-scene"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "ruthless-entrepreneur",
+            "immigrant-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "biographical-account"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "male-stripping",
+            "nightclub",
+            "dance-studio",
+            "choreography",
+            "business-deal"
+          ],
+          "maturity_and_content": [
+            "sexual-content",
+            "graphic-violence",
+            "drug-use"
+          ]
+        },
+        "keyword_sentence": "Welcome to Chippendales is a darkly comic and suspenseful biographical drama series exploring themes of ambition and control within the gritty Los Angeles nightclub scene of the 1980s, chronicling the rise and fall of an immigrant entrepreneur and the creation of a cultural phenomenon."
+      },
+      "duration_seconds": 63.2895245552063
+    }
+  }
+}

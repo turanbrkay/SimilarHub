@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "The Real Housewives of New York City",
+    "overview": "A fast-paced reality show that follows several incredibly busy and ambitious Manhattan women. Watch as they balance envious social calendars, challenging careers, and motherhood, with the hustle and bustle of the big city all around.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2008,
+    "vote_count": 52
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Real Housewives of New York City is a reality television series offering a glimpse into the lives of affluent women residing in Manhattan. The show thrives on interpersonal drama, showcasing the complexities of maintaining high-society friendships, navigating demanding careers, and managing family dynamics within a backdrop of luxury and privilege. It's characterized by its fast-paced editing, candid conversations, and the often-unpredictable nature of social interactions among its cast members. The series provides a voyeuristic look into a world of exclusive events, lavish homes, and the pressures of maintaining a particular image. Ultimately, it explores themes of wealth, status, and the challenges of female relationships in a competitive environment.",
+        "spoiler_rich_plot_summary": "The series initially introduces a core group of women, each with distinct personalities and backgrounds, navigating the social and professional landscapes of New York City. Early seasons focus on establishing these relationships and showcasing the women's lifestyles, often punctuated by disagreements over social etiquette, personal choices, and professional endeavors. As the series progresses, alliances shift, rivalries intensify, and personal struggles are revealed, leading to dramatic confrontations and public disagreements. Later seasons introduce new cast members, further complicating the existing dynamics and creating new avenues for conflict. The show chronicles the women's evolving personal lives, including marriages, divorces, career changes, and family challenges, all while maintaining a focus on the social and financial pressures of their environment. While the specific details of each season's drama vary, the overarching narrative involves the constant negotiation of social standing and the exploration of the complexities of female friendship within a world of immense privilege.",
+        "categorized_keywords": {
+          "themes": [
+            "wealth",
+            "female-friendship",
+            "social-status",
+            "family-dynamics",
+            "lifestyle",
+            "privilege"
+          ],
+          "plot_and_concepts": [
+            "reality-television",
+            "social-drama",
+            "interpersonal-conflict",
+            "voyeurism"
+          ],
+          "mood_and_tone": [
+            "fast-paced",
+            "candid",
+            "dramatic",
+            "glamorous"
+          ],
+          "genre_and_tropes": [
+            "reality-tv",
+            "social-climbing",
+            "confessional-format"
+          ],
+          "setting": [
+            "new-york-city",
+            "manhattan",
+            "luxury-homes",
+            "high-society"
+          ],
+          "character_archetypes": [
+            "socialite",
+            "entrepreneur",
+            "housewife"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "confessional-format"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "female-audience"
+          ],
+          "detail_plot": [
+            "confessional-booth",
+            "luxury-apartments",
+            "exclusive-events",
+            "designer-clothing"
+          ],
+          "maturity_and_content": [
+            "adult-language",
+            "social-drama"
+          ]
+        },
+        "keyword_sentence": "The Real Housewives of New York City offers a fast-paced and glamorous look at the lives of affluent women navigating social drama and maintaining their status in the high-society world of Manhattan."
+      },
+      "duration_seconds": 63.20826601982117
+    }
+  }
+}

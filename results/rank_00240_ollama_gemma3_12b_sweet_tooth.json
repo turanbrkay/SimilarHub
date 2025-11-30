@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Sweet Tooth",
+    "overview": "On a perilous adventure across a post-apocalyptic world, a lovable boy who's half-human and half-deer searches for a new beginning with a gruff protector.",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2021,
+    "vote_count": 1237
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Sweet Tooth is a post-apocalyptic fantasy drama centered on a young boy, Gus, who is part human and part deer, navigating a world ravaged by a mysterious plague that has created human-animal hybrids. The series blends elements of adventure, coming-of-age, and social commentary, exploring themes of prejudice, family, and the search for belonging. Gus's journey, accompanied by a hardened protector, is fraught with danger and moral dilemmas as he seeks to uncover the truth about his origins and the nature of the world he inhabits. The tone is generally hopeful, despite the bleak setting, emphasizing the resilience of the human spirit and the power of connection.",
+        "spoiler_rich_plot_summary": "The series begins with Gus, a young boy born with antlers and other deer-like features, being raised in the wilderness by his adoptive father, who tragically dies. Forced to venture out, Gus encounters Jepperd, a hardened traveler who reluctantly becomes his protector. They journey towards a rumored 'Greenmarch,' a safe haven for hybrid children, facing hostility and capture along the way. Gus's existence sparks the attention of the Last Men, a group dedicated to eradicating hybrids, and Dr. Aditya Singh, a scientist researching the origins of the plague and the hybrids. As Gus delves deeper into his past, he discovers a complex history involving scientific experimentation and a hidden community of hybrids. He learns that his existence is tied to a controversial research project led by his biological father. The series follows Gus's evolving understanding of his identity and his role in a world grappling with fear and prejudice, culminating in a confrontation with those seeking to exploit or destroy the hybrid population. While the future remains uncertain, Gus's journey fosters hope and inspires others to challenge the prevailing intolerance.",
+        "categorized_keywords": {
+          "themes": [
+            "family-loyalty",
+            "identity-quest",
+            "prejudice",
+            "hope",
+            "belonging",
+            "survival",
+            "scientific-ethics"
+          ],
+          "plot_and_concepts": [
+            "post-apocalyptic",
+            "hybrid-species",
+            "scientific-experimentation",
+            "found-family",
+            "coming-of-age"
+          ],
+          "mood_and_tone": [
+            "hopeful",
+            "melancholy",
+            "adventurous",
+            "somber"
+          ],
+          "genre_and_tropes": [
+            "fantasy",
+            "sci-fi",
+            "drama",
+            "adventure",
+            "dystopian"
+          ],
+          "setting": [
+            "post-apocalyptic-world",
+            "wilderness",
+            "hidden-community"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "protector",
+            "scientist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "quest-narrative"
+          ],
+          "target_audience": [
+            "young-adult",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "antlers",
+            "hidden-lab",
+            "greenmarch",
+            "protective-jacket"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Sweet Tooth is a hopeful and adventurous drama set in a post-apocalyptic world, where a young hybrid searches for belonging and confronts prejudice on a perilous quest for identity and family."
+      },
+      "duration_seconds": 65.9115047454834
+    }
+  }
+}

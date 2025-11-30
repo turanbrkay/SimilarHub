@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Hawkeye",
+    "overview": "Former Avenger Clint Barton has a seemingly simple mission: get back to his family for Christmas. Possible? Maybe with the help of Kate Bishop, a 22-year-old archer with dreams of becoming a superhero. The two are forced to work together when a presence from Barton’s past threatens to derail far more than the festive spirit.",
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Action & Adventure"
+    ],
+    "release_year": 2021,
+    "vote_count": 2887
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Hawkeye is a Marvel Cinematic Universe television series that follows Clint Barton, a retired Avenger, as he attempts to return to a normal life with his family during the Christmas season. He is unexpectedly paired with Kate Bishop, a skilled archer and aspiring superhero, who forces him to confront unresolved issues from his past. The series blends action and adventure with comedic elements, exploring themes of legacy, mentorship, and the burden of heroism. It offers a lighter, more character-driven experience within the broader MCU narrative, focusing on personal growth and the complexities of being a hero.",
+        "spoiler_rich_plot_summary": "The series begins with Clint Barton attempting to enjoy a Christmas vacation with his family in New York City, but his attempts are repeatedly interrupted by the reappearance of figures connected to his past as Ronin. He reluctantly teams up with Kate Bishop, a young archer who idolizes him and inadvertently exposes his past actions. As they investigate the threats, they uncover a conspiracy orchestrated by Yelena Belova, a former Black Widow seeking revenge for Natasha Romanoff’s death. The investigation reveals that a group of mercenaries, known as Tracksuit and Tie Crew, are being manipulated by a mysterious figure pulling the strings. Through a series of action-packed sequences and comedic encounters, Clint begins to mentor Kate, teaching her the responsibilities and sacrifices that come with being a hero. The series culminates in a confrontation with Yelena, who is initially seeking to kill Clint but ultimately realizes she has been misled. The truth about the conspiracy is revealed, and Clint accepts Kate as his successor, passing on the mantle of the Hawkeye.",
+        "categorized_keywords": {
+          "themes": [
+            "legacy",
+            "mentorship",
+            "redemption",
+            "family-loyalty",
+            "heroism",
+            "grief"
+          ],
+          "plot_and_concepts": [
+            "vigilante",
+            "conspiracy",
+            "secret-identity",
+            "found-family",
+            "revenge"
+          ],
+          "mood_and_tone": [
+            "comedic",
+            "action-adventure",
+            "lighthearted",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "superhero-action",
+            "buddy-cop",
+            "found-family",
+            "coming-of-age"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day",
+            "christmas-season"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "aspiring-hero",
+            "mentor",
+            "vigilante"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "christmas-tree",
+            "archer-target",
+            "vigilante-mask",
+            "black-widow-suit"
+          ],
+          "maturity_and_content": [
+            "violence"
+          ]
+        },
+        "keyword_sentence": "Hawkeye is a lighthearted action-adventure series set in New York City during Christmas, exploring themes of legacy and mentorship as a reluctant hero confronts his past and guides an aspiring archer on a journey of heroism."
+      },
+      "duration_seconds": 69.42669367790222
+    }
+  }
+}

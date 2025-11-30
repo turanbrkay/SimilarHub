@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Alvin and the Chipmunks",
+    "overview": "Three chipmunk brothers, Alvin, Simon, and Theodore are adopted by human, Dave.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "release_year": 1983,
+    "vote_count": 66
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Alvin and the Chipmunks is a long-running animated comedy series centered on the misadventures of three musically gifted chipmunks – Alvin, Simon, and Theodore – and their adoptive human father, Dave. The show blends slapstick humor with musical performances, appealing to a family audience with its lighthearted tone and relatable themes of family dynamics and growing up. While the chipmunks' antics often lead to chaos, the series ultimately emphasizes the importance of love, responsibility, and the bonds that hold a family together. The show's enduring popularity stems from its simple premise, catchy music, and the universal appeal of its comedic situations.",
+        "spoiler_rich_plot_summary": "The series begins with Dave Seville discovering the three chipmunks, Alvin, Simon, and Theodore, in a forest. He brings them home, and they quickly become a musical sensation, recording songs and performing concerts. Throughout the series, the chipmunks' mischievous nature leads to numerous comedic situations, often involving pranks, misunderstandings, and near-disasters. Dave struggles to maintain order and guide the chipmunks, balancing their musical careers with the responsibilities of being a parent. While the chipmunks face challenges and occasional conflicts, their bond remains strong, and they consistently learn valuable lessons about friendship, teamwork, and the importance of family. The series explores the complexities of raising children, even when those children are tiny, singing chipmunks, and celebrates the joy of shared experiences and musical expression. The chipmunks' fame grows, leading to tours and encounters with various celebrities, but their core values and familial connection remain constant.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "growing-up",
+            "friendship",
+            "responsibility",
+            "music",
+            "sibling-rivalry"
+          ],
+          "plot_and_concepts": [
+            "musical-comedy",
+            "slapstick-humor",
+            "animal-protagonist",
+            "found-family"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "family-comedy",
+            "musical-comedy"
+          ],
+          "setting": [
+            "suburban-setting",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "mischievous-protagonist",
+            "responsible-adult",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "chipmunk-costumes",
+            "recording-studio",
+            "microphone",
+            "musical-instruments"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Alvin and the Chipmunks is a lighthearted, animated family comedy series that explores themes of friendship, responsibility, and growing up through the comedic misadventures of three musically gifted chipmunks and their adoptive father."
+      },
+      "duration_seconds": 61.340858697891235
+    }
+  }
+}

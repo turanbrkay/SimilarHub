@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Star Wars Resistance",
+    "overview": "Kazuda Xiono, a young pilot for the Resistance, is tasked with a top secret mission to investigate the First Order, a growing threat in the galaxy.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Animation",
+      "Action & Adventure"
+    ],
+    "release_year": 2018,
+    "vote_count": 108
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Star Wars Resistance is an animated series serving as a bridge between The Force Awakens and The Last Jedi. The show follows a young Resistance pilot, Kazuda Xiono, who is sent on a covert mission to spy on the First Order, leading to a complex web of espionage and adventure. It blends action-adventure with elements of political intrigue and character-driven storytelling, targeting a younger audience while maintaining a connection to the broader Star Wars universe. The series explores themes of loyalty, sacrifice, and the struggle against oppression, offering a lighter tone than some of the live-action Star Wars productions.",
+        "spoiler_rich_plot_summary": "The series begins with Kazuda Xiono, a talented but impulsive pilot, being recruited by the Resistance to infiltrate the First Order’s base on the planet Castellum. He assumes the identity of a mechanic and befriends Torbin, a jaded First Order pilot. As Kazuda gathers intelligence, he struggles with the moral implications of his deception and the danger it poses to his friends and the Resistance. Meanwhile, a group of bounty hunters, led by Tremayne Bespin, are hired to track down Resistance spies. The series follows multiple storylines, including the struggles of the Colum Trachta, a local pilot, and the evolving relationship between Kaz and Torbin, who remains unaware of Kaz’s true allegiance. As the First Order’s power grows, Kaz’s mission becomes increasingly perilous, forcing him to make difficult choices that impact the fate of the galaxy. The series culminates in a confrontation between the Resistance and the First Order, with significant consequences for both sides and a shift in the balance of power.",
+        "categorized_keywords": {
+          "themes": [
+            "loyalty",
+            "deception",
+            "sacrifice",
+            "oppression",
+            "friendship",
+            "duty",
+            "espionage"
+          ],
+          "plot_and_concepts": [
+            "undercover-operation",
+            "space-combat",
+            "political-intrigue",
+            "resistance-movement",
+            "bounty-hunting"
+          ],
+          "mood_and_tone": [
+            "action-adventure",
+            "lighthearted",
+            "suspenseful",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "sci-fi",
+            "animation",
+            "space-opera",
+            "coming-of-age",
+            "found-family"
+          ],
+          "setting": [
+            "space",
+            "galaxy",
+            "modern-spacecraft",
+            "castellum"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "spy",
+            "mentor",
+            "bounty-hunter"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "x-wing",
+            "tie-fighter",
+            "resistance-base",
+            "first-order-base",
+            "starship"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Star Wars Resistance is a lighthearted, animated series following a young pilot’s undercover mission against the First Order, exploring themes of loyalty and sacrifice within a galaxy of space combat and political intrigue."
+      },
+      "duration_seconds": 66.59434223175049
+    }
+  }
+}

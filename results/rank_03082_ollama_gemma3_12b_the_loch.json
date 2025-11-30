@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "The Loch",
+    "overview": "The search for a serial killer becomes a matter of life and death for detective Annie Redford, who is trying to cope with her first murder case.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2017,
+    "vote_count": 45
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Loch is a Scottish crime drama that blends elements of police procedural with psychological thriller. The series follows Detective Annie Redford as she investigates a series of unsettling murders that mirror a cold case from her own past. The narrative explores themes of trauma, guilt, and the dark underbelly of a seemingly idyllic community. The show's atmosphere is consistently bleak and unsettling, driven by a complex protagonist grappling with personal demons while pursuing a dangerous killer. It offers a suspenseful and emotionally charged viewing experience, characterized by its atmospheric setting and morally ambiguous characters.",
+        "spoiler_rich_plot_summary": "The series begins with the discovery of a body in the remote Scottish Highlands, triggering a police investigation led by Detective Annie Redford. As Redford delves into the case, she finds disturbing parallels between the new murder and a cold case involving the disappearance of a young girl years prior, a case that deeply affected her own life. The investigation reveals a web of secrets and lies within the small community, implicating several local residents. Redford's personal history becomes increasingly intertwined with the case, forcing her to confront painful memories and question her own judgment. The killer's identity remains elusive, and the investigation takes a dark and twisted turn, revealing a complex and disturbing motive rooted in past trauma and a desire for revenge. The series culminates in a confrontation that exposes the killer's true nature and forces Redford to make a difficult choice that has lasting consequences for herself and those around her.",
+        "categorized_keywords": {
+          "themes": [
+            "trauma",
+            "guilt",
+            "revenge",
+            "small-town-secrets",
+            "past-haunting",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "cold-case",
+            "police-investigation",
+            "serial-killer",
+            "missing-person",
+            "copycat-crime"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "suspenseful",
+            "bleak",
+            "unsettling",
+            "atmospheric"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "psychological-thriller",
+            "small-town-mystery"
+          ],
+          "setting": [
+            "scotland",
+            "remote-highlands",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "troubled-detective",
+            "morally-gray-protagonist",
+            "enigmatic-suspect"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "mystery"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "remote-loch",
+            "police-station",
+            "crime-scene",
+            "highland-village"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "disturbing-themes"
+          ]
+        },
+        "keyword_sentence": "The Loch is a dark and suspenseful crime drama set in the remote Scottish Highlands, exploring themes of trauma and guilt as a troubled detective investigates a series of disturbing murders connected to a cold case."
+      },
+      "duration_seconds": 63.64936137199402
+    }
+  }
+}

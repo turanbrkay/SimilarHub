@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "Smiling Friends",
+    "overview": "Smiling Friends Inc. is a small company whose main purpose is to bring happiness and make people smile. The series follows the day-to-day lives and misadventures of its representatives, the lazy, cynical Charlie, and the cheerful, optimistic Pim, as they try to cheer up and comfort the troubled people who call their company's hotline. They receive seemingly simple requests but the jobs turn out to be more complicated than they seem, making it difficult to bring happiness to the world.",
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "release_year": 2020,
+    "vote_count": 85
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Smiling Friends is an animated comedy series that satirizes the wellness industry and the pursuit of happiness. The show follows the employees of a company dedicated to bringing smiles to people's faces, but their efforts are often met with bizarre and unsettling situations. It blends absurdist humor with dark undertones, exploring themes of existential dread and the difficulty of genuine connection. The series' unique visual style and offbeat storytelling create a darkly comedic and often surreal viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Charlie and Pim, two representatives for Smiling Friends Inc., receiving calls from individuals in distress. What initially appears to be simple requests for comfort quickly spirals into increasingly bizarre and unsettling scenarios. The company's methods are often ineffective, and the representatives find themselves confronting the darker aspects of human existence. Recurring callers and increasingly complex situations reveal a deeper, more unsettling reality beneath the surface of Smiling Friends Inc. The series explores the futility of manufactured happiness and the challenges of confronting genuine suffering, often blurring the lines between comedy and horror. The company's origins and the true nature of its mission remain shrouded in mystery, hinting at a larger, more sinister purpose.",
+        "categorized_keywords": {
+          "themes": [
+            "existentialism",
+            "manufactured-happiness",
+            "absurdism",
+            "corporate-satire",
+            "loneliness",
+            "corporate-responsibility"
+          ],
+          "plot_and_concepts": [
+            "hotline-service",
+            "satirical-comedy",
+            "absurdist-humor",
+            "corporate-structure"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "surreal",
+            "unsettling",
+            "deadpan"
+          ],
+          "genre_and_tropes": [
+            "animated-comedy",
+            "satire",
+            "dark-humor",
+            "slice-of-life"
+          ],
+          "setting": [
+            "modern-day",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "cynical-protagonist",
+            "optimistic-sidekick",
+            "disillusioned-employee"
+          ],
+          "narrative_style": [
+            "episodic-format",
+            "slice-of-life"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "hotline-call",
+            "company-office",
+            "customer-request"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Smiling Friends is a darkly comic animated series that satirizes the pursuit of happiness through a corporate structure, exploring themes of existentialism and loneliness with a surreal and unsettling tone."
+      },
+      "duration_seconds": 61.08500576019287
+    }
+  }
+}

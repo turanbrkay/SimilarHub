@@ -1,0 +1,66 @@
+{
+  "input_data": {
+    "title": "Whose Line Is It Anyway?",
+    "overview": "An un-scripted comedy show in which four guest performers improvise their way through a series of games, many of which rely on audience suggestions.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1988,
+    "vote_count": 49
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Whose Line Is It Anyway? is a long-running improvisational comedy show centered around four performers who create scenes and games based on audience suggestions. The show's strength lies in its spontaneity and the performers' ability to build humorous situations on the fly. It offers a lighthearted and consistently entertaining experience, relying on quick wit and playful interaction rather than a structured narrative. The show's appeal is its accessibility and the joy of witnessing unscripted creativity.",
+        "spoiler_rich_plot_summary": "The show doesn't follow a traditional plot. Each episode consists of a series of improvisational games, with the performers reacting to audience suggestions for characters, locations, and scenarios. The games vary widely, ranging from short scenes to extended musical numbers. While there's no overarching narrative, recurring jokes and performer dynamics create a sense of familiarity and ongoing amusement. The show's format allows for endless possibilities, ensuring that each episode feels fresh and unpredictable. The performers often build upon each other's ideas, creating a collaborative and chaotic comedic environment.",
+        "categorized_keywords": {
+          "themes": [
+            "improvisation",
+            "comedy",
+            "audience-interaction",
+            "humor",
+            "spontaneity"
+          ],
+          "plot_and_concepts": [
+            "game-show",
+            "improvised-comedy",
+            "audience-suggestions"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "playful",
+            "wholesome",
+            "funny"
+          ],
+          "genre_and_tropes": [
+            "sketch-comedy",
+            "game-show-format"
+          ],
+          "setting": [
+            "stage-performance"
+          ],
+          "character_archetypes": [
+            "comedian",
+            "improviser"
+          ],
+          "narrative_style": [
+            "episodic",
+            "non-linear"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "sound-effects",
+            "costume-changes",
+            "audience-participation"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Whose Line Is It Anyway? is a lighthearted and funny comedy show that relies on improvisation and audience participation to create a playful and entertaining stage performance."
+      },
+      "duration_seconds": 44.63110375404358
+    }
+  }
+}

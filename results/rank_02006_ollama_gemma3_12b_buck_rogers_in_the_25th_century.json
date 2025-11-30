@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Buck Rogers in the 25th Century",
+    "overview": "20th-century astronaut Buck Rogers awakens in the 25th century after a freak accident puts him in suspended animation for 500 years. Upon returning to Earth and discovering the planet is recovering from a nuclear war, Buck uses his combat skills and ingenuity to protect Earth and fight evil throughout the galaxy alongside starfighter pilot Colonel Wilma Deering and robot companion Twiki.",
+    "genres": [
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1979,
+    "vote_count": 96
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Buck Rogers in the 25th Century is a science fiction adventure series that blends classic space opera tropes with a lighthearted, optimistic tone. The show follows the titular character as he navigates a futuristic world recovering from nuclear war, encountering diverse alien civilizations and battling tyrannical forces. It emphasizes action, humor, and a sense of wonder, offering a relatively family-friendly exploration of interstellar conflict and the potential for a brighter future. The series' episodic nature allows for a wide range of stories and characters, creating a consistently engaging and accessible viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with astronaut Stanley Buck Rogers, frozen in suspended animation after an accident in 1987. He awakens in 2491 to find Earth recovering from a devastating nuclear war and under the uneasy control of the Draconian Empire. Buck quickly becomes a hero, utilizing his 20th-century skills and knowledge to aid the Earth Defense Force and fight against the Draconians and other hostile alien factions. Throughout the series, Buck forms a close partnership with Colonel Wilma Deering, a skilled starfighter pilot, and develops a unique bond with Twiki, a diminutive robot companion. He confronts various adversaries, including the ruthless Prince Zarkon, who seeks to conquer Earth and restore the Draconian Empire to its former glory. While the series is episodic, a recurring theme involves the struggle for freedom and the potential for a peaceful coexistence between humans and alien civilizations, though the path to achieving this is fraught with peril and conflict. Buck's actions consistently challenge the status quo and inspire hope for a better future, even as he faces seemingly insurmountable odds.",
+        "categorized_keywords": {
+          "themes": [
+            "space-exploration",
+            "hope",
+            "freedom",
+            "redemption",
+            "humanity",
+            "survival"
+          ],
+          "plot_and_concepts": [
+            "time-travel",
+            "space-opera",
+            "political-intrigue",
+            "alien-invasion",
+            "robotics",
+            "nuclear-war"
+          ],
+          "mood_and_tone": [
+            "optimistic",
+            "lighthearted",
+            "adventurous",
+            "campy",
+            "humorous"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "action-adventure",
+            "found-family",
+            "hero-journey"
+          ],
+          "setting": [
+            "future-earth",
+            "space",
+            "alternate-timeline",
+            "25th-century"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "skilled-pilot",
+            "robot-companion",
+            "villainous-ruler"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "starfighter",
+            "robot-companion",
+            "space-station",
+            "alien-technology"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Buck Rogers in the 25th Century is an optimistic and adventurous science-fiction series set in a future Earth recovering from nuclear war, where a reluctant hero and his robot companion fight for freedom and hope across the galaxy."
+      },
+      "duration_seconds": 67.82354354858398
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "The Andy Griffith Show",
+    "overview": "The Andy Griffith Show is an American sitcom first televised on CBS between October 3, 1960 and April 1, 1968. Andy Griffith portrays the widowed sheriff of the fictional small community of Mayberry, North Carolina. His life is complicated by an inept, but well-meaning deputy, Barney Fife, a spinster aunt and housekeeper, Aunt Bee, and a precocious young son, Opie. Local ne'er-do-wells, bumbling pals, and temperamental girlfriends further complicate his life. Andy Griffith stated in a Today Show interview, with respect to the time period of the show: \"Well, though we never said it, and though it was shot in the '60s, it had a feeling of the '30s. It was when we were doing it, of a time gone by.\"\n\nThe series never placed lower than seventh in the Nielsen ratings and ended its final season at number one. It has been ranked by TV Guide as the 9th-best show in American television history. Though neither Griffith nor the show won awards during its eight-season run, series co-stars Knotts and Bavier accumulated a combined total of six Emmy Awards. The show, a semi-spin-off from an episode of The Danny Thomas Show titled \"Danny Meets Andy Griffith\", spawned its own spin-off series, Gomer Pyle, U.S.M.C., a sequel series, Mayberry R.F.D., and a reunion telemovie, Return to Mayberry. The show's enduring popularity has generated a good deal of show-related merchandise. Reruns currently air on TV Land, and the complete series is available on DVD. All eight seasons are also now available by streaming video services such as Netflix.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1960,
+    "vote_count": 122
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Andy Griffith Show is a classic American sitcom that portrays a nostalgic vision of small-town life in the 1960s, though consciously evoking a 1930s sensibility. The series centers on Sheriff Andy Taylor, his son Opie, and his deputy Barney Fife, navigating the simple, often humorous, challenges of Mayberry, North Carolina. The show's enduring appeal lies in its gentle humor, its focus on family and community, and its idealized depiction of American values. While ostensibly a comedy, the show explores themes of responsibility, mentorship, and the importance of human connection. It offers a comforting and optimistic view of rural America, emphasizing the warmth and support found within a close-knit community.",
+        "spoiler_rich_plot_summary": "The series begins with Sheriff Andy Taylor, a young widower, raising his son Opie with the help of his Aunt Bee. The arrival of the well-meaning but often clumsy Deputy Barney Fife quickly adds a layer of comedic chaos to Mayberry. Throughout the series, Andy and Barney handle a variety of minor offenses and local disputes, often relying on common sense and a gentle approach to resolve conflicts. Opie grows up under Andy’s guidance, learning valuable life lessons and developing a strong sense of responsibility. Aunt Bee provides a maternal presence, offering support and wisdom to both Andy and Opie. As the series progresses, Mayberry faces occasional challenges, such as the arrival of outsiders or the temptation to modernize, but the community consistently rallies together to preserve its unique character. While the show doesn't feature dramatic plot twists, it explores the gradual maturation of its characters and the enduring strength of their relationships. The series concludes with a sense of contentment and a reaffirmation of the values that define Mayberry, leaving viewers with a feeling of warmth and nostalgia.",
+        "categorized_keywords": {
+          "themes": [
+            "family-values",
+            "small-town-life",
+            "community",
+            "mentorship",
+            "nostalgia",
+            "growing-up"
+          ],
+          "plot_and_concepts": [
+            "slice-of-life",
+            "fish-out-of-water",
+            "small-town-crime"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "lighthearted",
+            "optimistic",
+            "gentle-humor"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "family-comedy",
+            "small-town-drama"
+          ],
+          "setting": [
+            "rural-america",
+            "1960s",
+            "small-town-usa",
+            "north-carolina"
+          ],
+          "character_archetypes": [
+            "wise-sheriff",
+            "clumsy-deputy",
+            "maternal-figure",
+            "precocious-child"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "sheriffs-hat",
+            "small-town-courthouse",
+            "general-store",
+            "fishing-rod",
+            "pie"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Andy Griffith Show offers a lighthearted and nostalgic glimpse into small-town American life, celebrating family values and community spirit through the gentle humor of a wise sheriff, a clumsy deputy, and the simple joys of growing up in a close-knit rural setting."
+      },
+      "duration_seconds": 71.8339364528656
+    }
+  }
+}

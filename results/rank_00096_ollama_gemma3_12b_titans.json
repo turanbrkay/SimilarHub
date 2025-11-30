@@ -1,0 +1,85 @@
+{
+  "input_data": {
+    "title": "Titans",
+    "overview": "A team of young superheroes led by Nightwing (formerly Batman's first Robin) form to combat evil and other perils.",
+    "genres": [
+      "Action & Adventure",
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "release_year": 2018,
+    "vote_count": 2487
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Titans is a dark and gritty superhero series that follows a team of young, troubled heroes as they navigate a world of crime and corruption. Departing from the more traditional superhero narratives, the show explores the psychological toll of vigilantism and the complexities of morality. The series blends action and drama, focusing on character development and the challenges of forming a found family amidst constant danger. It offers a more mature and realistic portrayal of superheroes, examining their flaws and the consequences of their actions.",
+        "spoiler_rich_plot_summary": "The series begins with Dick Grayson, formerly Robin, striking out on his own and assembling a team of young heroes: Starfire, Beast Boy, Raven, and Kid Flash. Initially, their mission is to locate and protect a young man named Jason Todd, who was previously Robin and was murdered by the Joker. Their search leads them to Detroit, a city plagued by crime and corruption, where they confront various threats, including the Joker and his henchmen. As the team faces numerous challenges, they grapple with their own personal demons and the trauma of their pasts. Starfire struggles to adapt to Earth and control her powers, while Beast Boy grapples with his identity and his ability to transform into animals. Raven battles her inner darkness and the potential for destructive power, and Kid Flash struggles with the responsibility of his speed. Throughout the series, the team faces betrayals, losses, and difficult choices that test their loyalty and their commitment to their mission. Jason Todd's return as Red Hood adds further complexity, as his methods clash with the team's approach to justice. The series explores themes of found family, redemption, and the consequences of violence, culminating in a confrontation with powerful adversaries and a reshaping of the team's dynamic.",
+        "categorized_keywords": {
+          "themes": [
+            "found-family",
+            "redemption",
+            "vigilantism",
+            "trauma",
+            "identity-quest",
+            "morality",
+            "corruption"
+          ],
+          "plot_and_concepts": [
+            "superhero-team",
+            "crime-fighting",
+            "revenge",
+            "secret-identity",
+            "found-family-dynamic"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "gritty",
+            "action-packed",
+            "suspenseful",
+            "emotional"
+          ],
+          "genre_and_tropes": [
+            "superhero-action",
+            "crime-procedural",
+            "dark-superhero",
+            "coming-of-age"
+          ],
+          "setting": [
+            "urban-landscape",
+            "modern-day",
+            "detroit"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "anti-hero",
+            "troubled-youth",
+            "mentor-figure"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "robin-costume",
+            "nightwing-symbol",
+            "starfire-powers",
+            "beast-boy-transformations",
+            "raven-shadows"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "emotional-trauma",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "Titans is a dark and gritty superhero series that follows a team of young heroes as they confront crime and trauma in a modern urban landscape, exploring themes of found family and redemption."
+      },
+      "duration_seconds": 75.36008882522583
+    }
+  }
+}

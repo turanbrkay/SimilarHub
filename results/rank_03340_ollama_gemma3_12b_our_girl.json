@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Our Girl",
+    "overview": "Drama following the extraordinary adventures of female medics in the British Army.",
+    "genres": [
+      "Drama",
+      "War & Politics"
+    ],
+    "release_year": 2014,
+    "vote_count": 39
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Our Girl is a British drama series that follows the experiences of young female medics serving in the British Army. The show blends elements of military procedural, coming-of-age story, and adventure drama, exploring themes of duty, resilience, and the psychological toll of conflict. It offers a realistic portrayal of military life, focusing on the personal and professional challenges faced by its protagonist as she navigates dangerous deployments and complex moral dilemmas. The series is characterized by its intense realism, emotional depth, and focus on the human cost of war.",
+        "spoiler_rich_plot_summary": "The series initially introduces viewers to Private Molly Davies, a young woman seeking direction in her life who joins the British Army as a medic. Her early deployments, initially in Afghanistan, showcase the realities of frontline service, highlighting the dangers faced by medical personnel and the emotional strain of treating injured soldiers. Molly's experiences shape her significantly, transforming her from a naive recruit into a seasoned and capable medic. Subsequent seasons see Molly deployed to various locations, including Somalia, where she confronts increasingly complex and dangerous situations. These deployments test her skills, her relationships with her fellow soldiers, and her own sense of purpose. Throughout the series, Molly develops close bonds with her comrades, experiencing both the camaraderie and the heartbreak inherent in military life. The narrative explores the long-term impact of trauma and the challenges of reintegrating into civilian life after prolonged exposure to conflict. While Molly's career progresses, she faces personal losses and moral compromises that force her to question her choices and the nature of her duty.",
+        "categorized_keywords": {
+          "themes": [
+            "duty-and-honor",
+            "military-service",
+            "trauma-and-recovery",
+            "female-empowerment",
+            "loss-and-grief",
+            "moral-dilemmas"
+          ],
+          "plot_and_concepts": [
+            "military-procedural",
+            "coming-of-age",
+            "war-drama",
+            "medical-drama",
+            "deployment-narrative"
+          ],
+          "mood_and_tone": [
+            "intense",
+            "realistic",
+            "emotional",
+            "somber",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "war-drama",
+            "military-procedural",
+            "coming-of-age-story"
+          ],
+          "setting": [
+            "modern-day",
+            "afghanistan",
+            "somalia",
+            "military-base"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "strong-female-lead",
+            "military-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "medical-kit",
+            "military-uniform",
+            "combat-zone",
+            "field-hospital"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "emotional-distress"
+          ]
+        },
+        "keyword_sentence": "Our Girl is an intense and realistic drama series that follows a young female medic’s journey through challenging military deployments, exploring themes of duty, trauma, and resilience in modern-day conflict zones."
+      },
+      "duration_seconds": 59.54989695549011
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "The Get Down",
+    "overview": "In 1977 New York City, the talented and soulful youth of the South Bronx chase dreams and breakneck beats to transform music history.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2016,
+    "vote_count": 151
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Get Down is a vibrant, music-driven drama series set in the late 1970s Bronx, chronicling the birth of hip-hop and the intertwined lives of several young people pursuing dreams of musical stardom. The series blends historical fiction with a heightened, almost operatic tone, exploring themes of ambition, poverty, and the power of artistic expression. It's a visually arresting and emotionally resonant portrayal of a pivotal moment in cultural history, characterized by its energetic soundtrack and complex character relationships.",
+        "spoiler_rich_plot_summary": "The series follows Ezekiel 'Zig' Johnson, a young man with aspirations of becoming a poet, and Mylene Campos, a talented singer struggling with a difficult family situation. Their paths intertwine within the burgeoning Bronx music scene, alongside other aspiring artists like Clarence Wyche and Samantha Flores. Zig and Mylene navigate the challenges of poverty, gang violence, and familial pressures while striving for recognition and a chance to escape their circumstances. The series explores the complex dynamics of the music industry, the rise of disco and punk, and the social and political landscape of 1970s New York. As the characters pursue their dreams, they confront betrayals, heartbreak, and the harsh realities of their environment, ultimately shaping the future of hip-hop and their own lives. The narrative culminates in a pivotal moment where the characters must make difficult choices that will determine their individual destinies and the trajectory of the music revolution.",
+        "categorized_keywords": {
+          "themes": [
+            "ambition",
+            "poverty",
+            "artistic-expression",
+            "social-change",
+            "identity-quest",
+            "family-dynamics",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "music-scene",
+            "coming-of-age",
+            "historical-fiction",
+            "gang-violence",
+            "social-revolution"
+          ],
+          "mood_and_tone": [
+            "energetic",
+            "gritty",
+            "nostalgic",
+            "hopeful",
+            "melancholy"
+          ],
+          "genre_and_tropes": [
+            "drama",
+            "musical",
+            "coming-of-age-story",
+            "historical-drama"
+          ],
+          "setting": [
+            "1970s-new-york-city",
+            "south-bronx",
+            "alternate-timeline"
+          ],
+          "character_archetypes": [
+            "aspiring-artist",
+            "reluctant-hero",
+            "troubled-youth",
+            "mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "disco-ball",
+            "vinyl-records",
+            "graffiti-art",
+            "boombox"
+          ],
+          "maturity_and_content": [
+            "substance-abuse",
+            "sexual-content"
+          ]
+        },
+        "keyword_sentence": "Set against the vibrant backdrop of 1970s New York City, The Get Down is a gritty and energetic drama exploring themes of ambition, poverty, and the birth of hip-hop through the intertwined stories of aspiring artists navigating a changing world."
+      },
+      "duration_seconds": 64.61325979232788
+    }
+  }
+}

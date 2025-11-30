@@ -1,0 +1,68 @@
+{
+  "input_data": {
+    "title": "The Graham Norton Show",
+    "overview": "Each week celebrity guests join Irish comedian Graham Norton to discuss what's being going on around the world that week. The guests poke fun and share their opinions on the main news stories. Graham is often joined by a band or artist to play the show out.",
+    "genres": [
+      "Comedy",
+      "Talk"
+    ],
+    "release_year": 2007,
+    "vote_count": 216
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Graham Norton Show is a long-running, lighthearted talk show hosted by Irish comedian Graham Norton. Each episode features a rotating cast of celebrity guests who engage in humorous conversations and playful banter with Norton. The show's relaxed atmosphere and Norton's quick wit create a welcoming environment for both guests and viewers. It's a consistently popular program known for its charm and celebrity interactions, offering a brief respite from more serious news and entertainment.",
+        "spoiler_rich_plot_summary": "The Graham Norton Show doesn't follow a traditional narrative arc. Each episode is self-contained, built around the interactions between Norton and his guests. The show's structure revolves around introducing guests, facilitating conversations about their current projects and personal anecdotes, and culminating in musical performances or comedic sketches. While there's no overarching plot, recurring segments and inside jokes between Norton and his guests create a sense of familiarity and continuity across seasons. The show's appeal lies in the spontaneity and unpredictable nature of celebrity interactions, rather than a pre-determined storyline.",
+        "categorized_keywords": {
+          "themes": [
+            "celebrity-culture",
+            "humor",
+            "conversation",
+            "entertainment"
+          ],
+          "plot_and_concepts": [
+            "talk-show-format",
+            "interview",
+            "musical-performance"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "witty",
+            "relaxed",
+            "playful"
+          ],
+          "genre_and_tropes": [
+            "talk-show",
+            "comedy"
+          ],
+          "setting": [
+            "television-studio",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "charismatic-host",
+            "celebrity-guest"
+          ],
+          "narrative_style": [
+            "episodic",
+            "unscripted"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "armchair",
+            "stage",
+            "microphone",
+            "band"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Graham Norton Show is a lighthearted and witty talk show that offers a relaxed and entertaining glimpse into the world of celebrity culture through unscripted conversations and musical performances."
+      },
+      "duration_seconds": 47.84020709991455
+    }
+  }
+}

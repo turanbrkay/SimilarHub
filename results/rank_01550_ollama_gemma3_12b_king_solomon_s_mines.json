@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "King Solomon's Mines",
+    "overview": "Renowned safari hunter Allan Quatermain is lured back into the unknown recesses of the African jungles to find a man who disappeared while searching for the fabled King Solomon's Mines--a destination of legendary riches from which no soul has ever returned alive.",
+    "genres": [
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2004,
+    "vote_count": 136
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "King Solomon's Mines is an action-adventure film blending elements of classic pulp fiction with a fantastical quest narrative. The story follows Allan Quatermain, a seasoned hunter drawn into a perilous expedition to locate a missing man and uncover the legendary King Solomon's Mines, a place rumored to hold immense wealth and untold dangers. The film emphasizes themes of courage, loyalty, and the allure of the unknown, set against a backdrop of exotic landscapes and perilous encounters. It offers a thrilling, albeit somewhat familiar, adventure experience with a focus on action and spectacle.",
+        "spoiler_rich_plot_summary": "The film begins with Allan Quatermain, a celebrated hunter, living a quiet life after a previous adventure. He is approached by a mysterious benefactor, John Roxton, who seeks Quatermain's help in finding his brother, Percy, who disappeared while searching for the legendary King Solomon's Mines. Quatermain reluctantly agrees, and they are joined by Elizabeth, Percy's fiancée, and Umbopo, a native guide. Their journey takes them deep into uncharted territory, facing numerous obstacles including hostile tribes and treacherous terrain. They discover that Percy had been captured by a ruthless warlord, Sukho, who is guarding the entrance to the mines. After a series of confrontations and escapes, the group finally reaches the mines, only to find that they are not what legend describes. The mines are a technologically advanced, ancient civilization, built by a race that vanished long ago. They uncover the truth about the mines' origins and Sukho's connection to them. Ultimately, they confront Sukho, recover Percy, and escape the collapsing mines, leaving the secrets of King Solomon's Mines undisturbed.",
+        "categorized_keywords": {
+          "themes": [
+            "adventure",
+            "treasure-hunt",
+            "lost-civilization",
+            "courage",
+            "loyalty",
+            "greed",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "lost-world",
+            "ancient-technology",
+            "treasure-map",
+            "kidnapping",
+            "escape-narrative"
+          ],
+          "mood_and_tone": [
+            "adventurous",
+            "suspenseful",
+            "action-packed",
+            "dark"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "pulp-fiction",
+            "lost-world-trope",
+            "treasure-hunt-trope"
+          ],
+          "setting": [
+            "africa",
+            "jungle",
+            "ancient-ruins",
+            "lost-city"
+          ],
+          "character_archetypes": [
+            "seasoned-hunter",
+            "reluctant-hero",
+            "damsel-in-distress",
+            "native-guide"
+          ],
+          "narrative_style": [
+            "linear-narrative",
+            "quest-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "treasure-map",
+            "ancient-temple",
+            "jungle-terrain",
+            "native-village",
+            "lost-city-gates"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "peril"
+          ]
+        },
+        "keyword_sentence": "King Solomon's Mines delivers an adventurous action-adventure experience set in the perilous jungles of Africa, following a seasoned hunter on a quest for lost treasure and ancient secrets."
+      },
+      "duration_seconds": 72.1854829788208
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Collateral",
+    "overview": "When a pizza delivery driver is shot dead in south London, a tenacious detective goes after the people traffickers behind his murder and unravels a conspiracy that goes to the top.",
+    "genres": [
+      "Drama",
+      "Crime",
+      "Mystery"
+    ],
+    "release_year": 2018,
+    "vote_count": 143
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Collateral is a British crime drama series that follows a determined detective investigating the murder of a pizza delivery driver, uncovering a complex web of human trafficking and corruption. The series blends procedural elements with a focus on character development and explores themes of justice, morality, and the consequences of unchecked power. Its gritty realism and suspenseful narrative create a tense and engaging viewing experience, examining the dark underbelly of modern society and the personal toll on those who seek to expose it. The series maintains a consistently bleak tone, emphasizing the moral ambiguities faced by law enforcement.",
+        "spoiler_rich_plot_summary": "The series begins with the shooting of a pizza delivery driver, seemingly a random act of violence. Detective Kip Wellman is assigned to the case and quickly discovers that the driver was unwittingly involved in a human trafficking operation. As Kip delves deeper, she uncovers a sophisticated network of traffickers operating across Europe, exploiting vulnerable individuals for profit. Her investigation leads her to a prominent businessman, Julian Feck, who is revealed to be the mastermind behind the operation. Kip faces significant obstacles, including internal resistance within the police force and threats to her own safety. The investigation exposes a conspiracy reaching into the highest echelons of power, forcing Kip to confront uncomfortable truths about the institutions she serves. The series culminates in a confrontation with Feck and his associates, with Kip ultimately bringing them to justice, though not without significant personal cost and a lingering sense of the systemic issues that enabled the trafficking to flourish.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "corruption",
+            "human-trafficking",
+            "moral-ambiguity",
+            "police-brutality",
+            "social-inequality"
+          ],
+          "plot_and_concepts": [
+            "crime-procedural",
+            "conspiracy-thriller",
+            "undercover-operation",
+            "police-investigation",
+            "serial-crime"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "suspenseful",
+            "bleak",
+            "tense",
+            "noir"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "police-procedural",
+            "thriller",
+            "conspiracy-thriller"
+          ],
+          "setting": [
+            "south-london",
+            "modern-day",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "tenacious-detective",
+            "corrupt-official",
+            "vulnerable-victim",
+            "reluctant-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "pizza-delivery",
+            "police-car",
+            "crime-scene",
+            "interrogation-room"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "drug-abuse",
+            "sexual-content"
+          ]
+        },
+        "keyword_sentence": "Collateral is a gritty crime drama set in modern-day south London, exploring themes of justice and corruption through a suspenseful police investigation into human trafficking."
+      },
+      "duration_seconds": 66.0021607875824
+    }
+  }
+}

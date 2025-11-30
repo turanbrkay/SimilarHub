@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Studio 60 on the Sunset Strip",
+    "overview": "A behind-the-scenes look at a fictional sketch-comedy TV show.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2006,
+    "vote_count": 102
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Studio 60 on the Sunset Strip offers a satirical and dramatic exploration of the television industry, focusing on the creative and personal struggles behind the production of a live sketch comedy show. The series blends humor and pathos, examining the pressures of network television, the complexities of artistic collaboration, and the toll that relentless performance takes on the individuals involved. It's a character-driven show that delves into themes of ambition, compromise, and the search for authenticity within a manufactured world. The series offers a cynical yet insightful look at the entertainment business, balancing comedic moments with genuine emotional depth.",
+        "spoiler_rich_plot_summary": "The series begins with the struggling live sketch comedy show, 'Sunset Studios,' facing cancellation. Matt Albie, a seasoned television producer, is brought in to revive the show, partnering with Jordan McHenry, the show's creator and head writer. Their differing approaches – Matt’s pragmatic and business-oriented versus Jordan’s idealistic and artistically driven – immediately create tension. The first season focuses on the challenges of keeping the show on the air, navigating network interference, and dealing with the eccentric cast and crew. As the show gains popularity, the personal lives of Matt and Jordan become increasingly intertwined, leading to a complex and often fraught relationship. The second season sees the show facing new creative and financial hurdles, forcing the characters to confront their own ambitions and compromises. The series explores the sacrifices made in the pursuit of success and the blurred lines between professional and personal lives, ultimately examining the cost of maintaining a live television show in a demanding industry. The show's future remains uncertain, reflecting the precarious nature of the entertainment world.",
+        "categorized_keywords": {
+          "themes": [
+            "ambition",
+            "compromise",
+            "authenticity",
+            "creative-process",
+            "professional-ethics",
+            "power-dynamics",
+            "relationships"
+          ],
+          "plot_and_concepts": [
+            "behind-the-scenes",
+            "live-television",
+            "network-television",
+            "sketch-comedy",
+            "creative-conflict"
+          ],
+          "mood_and_tone": [
+            "satirical",
+            "dramatic",
+            "cynical",
+            "witty",
+            "fast-paced"
+          ],
+          "genre_and_tropes": [
+            "workplace-comedy",
+            "drama",
+            "ensemble-cast",
+            "behind-the-scenes-look"
+          ],
+          "setting": [
+            "los-angeles",
+            "television-studio",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "seasoned-producer",
+            "idealistic-creator",
+            "eccentric-cast",
+            "ambitious-executive"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "television-studio",
+            "sketch-comedy-show",
+            "network-executive",
+            "writer's-room"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Studio 60 on the Sunset Strip offers a satirical and dramatic look at the pressures and compromises inherent in the live television industry, exploring the creative process and complex relationships within a fast-paced, ensemble-driven show set in Los Angeles."
+      },
+      "duration_seconds": 69.05337429046631
+    }
+  }
+}

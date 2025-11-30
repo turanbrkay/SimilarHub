@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "My Family",
+    "overview": "Ben Harper is a moderately successful family man and dentist. He is also undergoing a mid-life crisis and trying to cope with the bizarre reality of raising teenage children. His wife Susan seems quite happy, enjoys her job as a London tour guide, however at home her ability to find her way around a cookbook or pantry is less successful.\n\nTheir three children Nick, Janey, and Michael are as different as chalk and cheese. Nick (19) is on his gap year, but doesn't get much further than the sofa or job centre, Janey is as sharp as a tack and 16 going on 25, while Michael is a very bright, computer-nerdish 12 year old who is just discovering girls.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2000,
+    "vote_count": 57
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "My Family is a British sitcom that humorously explores the everyday challenges and absurdities of family life. The series follows the Harper family as they navigate the complexities of raising teenagers, dealing with marital dynamics, and confronting the frustrations of modern existence. With a blend of observational comedy and relatable situations, the show offers a lighthearted and often chaotic portrayal of a family trying to find its way. The series relies on character-driven humor and awkward situations to create a comedic and heartwarming experience for the audience.",
+        "spoiler_rich_plot_summary": "The series begins with Ben Harper, a dentist experiencing a mid-life crisis, struggling to connect with his teenage children, Nick, Janey, and Michael, and his seemingly content wife, Susan. Nick's extended gap year proves to be a source of constant frustration, while Janey's sharp wit and precocious nature often lead to clashes with her parents. Michael's burgeoning interest in computers and girls adds another layer of comedic tension. Throughout the series, the Harpers face a constant stream of embarrassing and hilarious situations, from disastrous family holidays to awkward encounters with neighbors. Relationships evolve as the children grow older and begin to assert their independence, leading to both heartwarming moments and frustrating conflicts. While the series maintains a generally lighthearted tone, it also touches on deeper themes of family dynamics, personal growth, and the challenges of maintaining a sense of humor in the face of everyday chaos. The series concludes with the family continuing to evolve, facing new challenges and celebrating the enduring bonds that tie them together.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "mid-life-crisis",
+            "parenting",
+            "marital-relationships",
+            "growing-up",
+            "generational-gaps"
+          ],
+          "plot_and_concepts": [
+            "sitcom",
+            "family-comedy",
+            "coming-of-age",
+            "domestic-humor"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "humorous",
+            "wholesome",
+            "observational-comedy"
+          ],
+          "genre_and_tropes": [
+            "british-sitcom",
+            "family-sitcom",
+            "domestic-comedy"
+          ],
+          "setting": [
+            "modern-day",
+            "london-uk",
+            "suburban-home"
+          ],
+          "character_archetypes": [
+            "family-man",
+            "teenager",
+            "wise-parent",
+            "quirky-spouse"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "family-dinner",
+            "teenage-bedroom",
+            "london-tour",
+            "dentist-office"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "My Family is a lighthearted British sitcom that humorously portrays the everyday challenges and absurdities of a modern family navigating teenage years, marital relationships, and the complexities of suburban life."
+      },
+      "duration_seconds": 59.97930884361267
+    }
+  }
+}

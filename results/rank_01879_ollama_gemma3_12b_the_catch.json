@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "The Catch",
+    "overview": "Strong and successful Alice Martin is a fraud investigator who's about to be the victim of fraud by her fiancé. Between her cases, she is determined to find him before it ruins her career.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "release_year": 2016,
+    "vote_count": 106
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Catch is a crime drama centered on Alice Martin, a highly skilled fraud investigator who finds herself targeted by her own fiancé. The series blends procedural elements with a cat-and-mouse dynamic, exploring themes of trust, betrayal, and the complexities of relationships within a world of financial crime. It offers a suspenseful and intelligent viewing experience, balancing intricate plots with character-driven narratives and a focus on the psychological toll of deception. The show maintains a relatively fast pace, driven by Alice's determination to expose her fiancé and protect her reputation.",
+        "spoiler_rich_plot_summary": "The series begins with Alice Martin, a renowned fraud investigator, discovering that her fiancé, Ben Lapari, is a sophisticated con artist who has been manipulating her and numerous others for years. As Alice investigates Ben's schemes, she finds herself caught in a web of deceit, forced to use her skills to outwit him while simultaneously protecting her career and reputation. Ben, a master manipulator, consistently stays one step ahead, using his charm and intelligence to evade capture. Throughout the series, Alice enlists the help of her colleagues and friends, forming a team to unravel Ben's complex operations. The investigation leads them across various locations and exposes a network of individuals complicit in Ben's schemes. As Alice gets closer to uncovering the truth, she faces personal and professional challenges, questioning her judgment and the people she trusts. The series culminates in a confrontation between Alice and Ben, where the full extent of his manipulations is revealed, and Alice must make a difficult choice to bring him to justice, even if it means sacrificing her own happiness.",
+        "categorized_keywords": {
+          "themes": [
+            "deception",
+            "trust",
+            "betrayal",
+            "redemption",
+            "revenge",
+            "financial-crime"
+          ],
+          "plot_and_concepts": [
+            "cat-and-mouse",
+            "con-artist",
+            "fraud-investigation",
+            "undercover-operation",
+            "romantic-suspense"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "tense",
+            "intelligent",
+            "fast-paced"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "romantic-suspense",
+            "cat-and-mouse-game"
+          ],
+          "setting": [
+            "modern-day",
+            "new-york-city"
+          ],
+          "character_archetypes": [
+            "strong-female-lead",
+            "mastermind",
+            "charming-villain"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "financial-records",
+            "undercover-identity",
+            "investigation-team"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Catch is a suspenseful crime drama centered on a strong female lead who investigates a charming con artist, exploring themes of deception and betrayal within a fast-paced, modern-day setting."
+      },
+      "duration_seconds": 64.34311962127686
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "input_data": {
+    "title": "Marvel's Cloak & Dagger",
+    "overview": "Two teenagers from very different backgrounds awaken to newly acquired superpowers which mysteriously link them to one another.",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2018,
+    "vote_count": 534
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "error": "Ollama API hatası: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download."
+      },
+      "duration_seconds": 2.0781071186065674
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "input_data": {
+    "title": "Marvel's Daredevil",
+    "overview": "Lawyer-by-day Matt Murdock uses his heightened senses from being blinded as a young boy to fight crime at night on the streets of Hell’s Kitchen as Daredevil.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Action & Adventure"
+    ],
+    "release_year": 2015,
+    "vote_count": 4046
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Marvel's Daredevil follows blind lawyer Matt Murdock as he balances his day job defending the innocent with his night‑time crusade against crime in Hell’s Kitchen. The series blends gritty crime‑drama with superhero action, exploring themes of justice, identity, and moral ambiguity through a psychologically complex anti‑hero. Its noir‑inspired tone and realistic portrayal of a city’s underbelly set it apart from conventional comic adaptations, while its serialized storytelling deepens character arcs over three seasons.",
+        "spoiler_rich_plot_summary": "Season 1 introduces Matt Murdock’s dual life, his mentor Stick, and the corrupt law firm of Wilson Fisk’s allies, culminating in a confrontation where Murdock is forced to choose between protecting his secret identity and saving a client, leading to a partial defeat of Fisk’s initial plans. Season 2 expands the scope with the introduction of the enigmatic Kingpin, a new adversary who manipulates the city’s legal system, and explores Murdock’s relationship with fellow vigilante Elektra, resulting in a series of brutal battles and the temporary loss of his mentor. Season 3 sees Murdock confronting the deeper corruption of the city’s institutions, facing off against a new incarnation of the Kingpin, and ultimately choosing to leave New York to protect his loved ones, while the city’s crime landscape shifts under the influence of new power players.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "identity-crisis",
+            "moral-ambiguity",
+            "redemption",
+            "law-and-order",
+            "vigilantism",
+            "psychological-trauma"
+          ],
+          "plot_and_concepts": [
+            "blind-hero",
+            "night-hero",
+            "daredevil",
+            "lawyer",
+            "hell-kitchen",
+            "secret-identity",
+            "vigilante-justice",
+            "legal-drama",
+            "federal-judicial-system",
+            "kingpin",
+            "elektra"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "gritty",
+            "intense",
+            "dramatic",
+            "psychological"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "action-adventure",
+            "superhero",
+            "vigilante",
+            "legal-drama",
+            "neo-noir"
+          ],
+          "setting": [
+            "modern-new-york",
+            "hell-kitchen",
+            "city",
+            "nighttime",
+            "urban"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "lawyer",
+            "vigilante",
+            "mentor",
+            "love-interest",
+            "villain",
+            "supporting-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "character-driven",
+            "slow-burn"
+          ],
+          "target_audience": [
+            "mature-audiences",
+            "superhero-fans",
+            "crime-drama-lovers"
+          ],
+          "detail_plot": [
+            "blindness",
+            "night-vision",
+            "scent-sensing",
+            "law-firm",
+            "hell-kitchen",
+            "night-club",
+            "daredevil-mask",
+            "fighting-gear",
+            "lawyer-office",
+            "federal-judicial-system"
+          ]
+        },
+        "keyword_sentence": "Daredevil blends gritty crime‑drama and superhero action with a dark, psychological tone, centering on a blind lawyer‑turned‑night‑hero who confronts corruption in modern New York’s Hell’s Kitchen while navigating identity crisis, moral ambiguity, and vigilantism."
+      },
+      "duration_seconds": 147.78770184516907
+    }
+  }
+}

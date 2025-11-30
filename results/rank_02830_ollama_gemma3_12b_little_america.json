@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Little America",
+    "overview": "An anthology series that goes beyond the headlines to look at the funny, romantic, heartfelt, inspiring and surprising stories of immigrants in America at a time when they are more relevant than ever.",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "release_year": 2020,
+    "vote_count": 53
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Little America is an anthology series presenting a diverse collection of stories centered on the immigrant experience in the United States. Moving beyond typical news narratives, the show explores the everyday joys, struggles, and triumphs of individuals navigating new lives and cultures. With a blend of drama and comedy, the series aims to foster empathy and understanding through relatable characters and authentic portrayals of the immigrant journey. The show's episodic structure allows for a wide range of perspectives and narratives, creating a nuanced and humanizing portrait of a complex social landscape. Ultimately, Little America seeks to celebrate the richness and resilience of immigrant communities.",
+        "spoiler_rich_plot_summary": "Each episode of Little America tells a self-contained story, focusing on different characters and their unique paths to America and their subsequent experiences. Some episodes depict the challenges of navigating unfamiliar customs and language barriers, while others highlight the warmth and humor found in unexpected connections. Stories range from a young woman's pursuit of a baking career to a man's struggle to reunite with his family, and a couple's journey to find love amidst cultural differences. While individual episodes may explore themes of prejudice and discrimination, the overarching narrative emphasizes the strength and adaptability of the human spirit and the potential for connection across cultural divides. The series avoids a singular, overarching plot, instead opting to showcase a mosaic of individual stories that collectively paint a portrait of the American immigrant experience.",
+        "categorized_keywords": {
+          "themes": [
+            "immigration",
+            "cultural-identity",
+            "family-relationships",
+            "hope",
+            "resilience",
+            "belonging",
+            "acceptance",
+            "cross-cultural-understanding"
+          ],
+          "plot_and_concepts": [
+            "anthology-series",
+            "slice-of-life",
+            "coming-of-age",
+            "fish-out-of-water",
+            "personal-narrative"
+          ],
+          "mood_and_tone": [
+            "heartwarming",
+            "optimistic",
+            "reflective",
+            "gentle",
+            "hopeful"
+          ],
+          "genre_and_tropes": [
+            "drama",
+            "comedy",
+            "slice-of-life",
+            "anthology"
+          ],
+          "setting": [
+            "united-states",
+            "modern-day",
+            "diverse-communities"
+          ],
+          "character_archetypes": [
+            "immigrant",
+            "newcomer",
+            "family-member",
+            "community-leader"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "baking-shop",
+            "airport-terminal",
+            "community-center",
+            "family-dinner"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Little America is a heartwarming anthology series that explores the diverse and hopeful stories of immigrants navigating life, family, and belonging in the modern-day United States."
+      },
+      "duration_seconds": 57.41129779815674
+    }
+  }
+}

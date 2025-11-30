@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "The Mentalist",
+    "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2008,
+    "vote_count": 3378
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Mentalist follows Patrick Jane, a former psychic who uses his extraordinary observation skills to solve crimes for the California Bureau of Investigation. The series blends procedural detective work with a long-running personal vendetta against the serial killer Red John, creating a tense, dark atmosphere that frequently questions the line between illusion and reality. Jane’s cynical, sometimes manipulative approach places him in moral gray areas while fostering a reluctant partnership with Lisbon, the seasoned CBI director. Over seven seasons, the show explores themes of obsession, trust, and identity while delivering a steady stream of suspenseful, episodic mysteries.",
+        "spoiler_rich_plot_summary": "The Mentalist follows Patrick Jane, a former psychic who uses his exceptional observation skills to solve crimes for the California Bureau of Investigation. Jane’s cynical, anti-hero detective persona is driven by a personal obsession with justice and a long-running vendetta against the serial killer Red John, whose identity remains a mystery for most of the series. Over seven seasons, Jane’s investigations of serial killers, combined with his use of psychic-illusion and keen observation, create a suspenseful, dark procedural that balances episodic casework with a serialized arc. In the final season, Jane confronts and ultimately kills Red John, bringing closure to his personal quest, while Lisbon remains at the bureau and Jane departs to start a new chapter in his life.",
+        "themes": [
+          "obsession-with-justice",
+          "psychology",
+          "moral-ambiguity",
+          "trust",
+          "identity-crisis"
+        ],
+        "plot_and_concepts": [
+          "serial-killer-investigation",
+          "psychic-illusion",
+          "red-john",
+          "cbi",
+          "crime-solving",
+          "observation-skills"
+        ],
+        "mood_and_tone": [
+          "suspenseful",
+          "dark",
+          "intense",
+          "mysterious"
+        ],
+        "genre_and_tropes": [
+          "crime-drama",
+          "mystery",
+          "procedural",
+          "serial-killer-arc",
+          "anti-hero"
+        ],
+        "setting": [
+          "modern-California"
+        ],
+        "character_archetypes": [
+          "anti-hero",
+          "mentor",
+          "detective",
+          "serial-killer",
+          "psychic-illusionist",
+          "law-enforcement"
+        ],
+        "narrative_style": [
+          "serialized-story",
+          "procedural",
+          "episodic"
+        ],
+        "target_audience": [
+          "mature-audiences",
+          "crime-drama-fans",
+          "mystery-lovers"
+        ],
+        "detail_plot": [
+          "red-john",
+          "cbi-briefing-room",
+          "red-john-letter",
+          "red-john-cryptic-photo",
+          "jane-obsession-with-red-john",
+          "jane-obsession-with-justice"
+        ],
+        "keyword_sentence": "The Mentalist is a modern-California crime-drama featuring a cynical anti-hero detective obsessed with justice and a serial killer named red-john, using observation-skills and psychic-illusion to solve cases in a procedural, serialized-story format that balances suspenseful, dark, and mysterious tones."
+      },
+      "duration_seconds": 226.15664196014404
+    }
+  }
+}

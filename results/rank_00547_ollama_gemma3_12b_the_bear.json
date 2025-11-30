@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "The Bear",
+    "overview": "Carmy, a young fine-dining chef, comes home to Chicago to run his family sandwich shop. As he fights to transform the shop and himself, he works alongside a rough-around-the-edges crew that ultimately reveal themselves as his chosen family.",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "release_year": 2022,
+    "vote_count": 565
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Bear is a darkly comedic drama series centered on a talented chef who returns to his family's struggling sandwich shop in Chicago. The show explores themes of grief, family dynamics, and the pressures of pursuing excellence in a chaotic environment. It blends intense, fast-paced kitchen scenes with moments of poignant character development, creating a visceral and emotionally resonant experience. The series examines the challenges of legacy, the search for belonging, and the transformative power of unexpected connections.",
+        "spoiler_rich_plot_summary": "The series begins with Carmy Berzatto, a celebrated chef from the fine-dining world, returning to Chicago after a family tragedy. He inherits his family's Italian beef sandwich shop, 'The Original Beef of Chicagoland,' a chaotic and financially precarious establishment. Carmy immediately clashes with the existing staff, a group of long-time employees resistant to change and deeply entrenched in their routines. He attempts to implement fine-dining practices and elevate the shop's quality, facing constant pushback and internal conflicts. As Carmy struggles to modernize the business, he uncovers hidden financial problems and confronts the complex history of his family and the shop. He begins to form unexpected bonds with the staff, particularly Sydney, an ambitious young chef who joins the team, and Richie, his volatile and often frustrating cousin. The first season culminates in a desperate attempt to secure funding and transform the shop into a more refined restaurant, 'The Bear,' while grappling with the emotional baggage of the past. Subsequent seasons delve deeper into the individual stories of the staff, exploring their personal struggles and motivations, and further developing the restaurant’s evolution and the characters’ growth.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "grief",
+            "redemption",
+            "legacy",
+            "mental-health",
+            "found-family",
+            "perfectionism"
+          ],
+          "plot_and_concepts": [
+            "restaurant-business",
+            "coming-of-age",
+            "culinary-arts",
+            "financial-struggle",
+            "generational-trauma"
+          ],
+          "mood_and_tone": [
+            "tense",
+            "darkly-comic",
+            "gritty",
+            "intense",
+            "realistic"
+          ],
+          "genre_and_tropes": [
+            "drama",
+            "comedy",
+            "slice-of-life",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "chicago",
+            "restaurant-kitchen",
+            "working-class"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "mentor",
+            "volatile-character",
+            "ambitious-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "italian-beef-sandwich",
+            "restaurant-menu",
+            "kitchen-equipment",
+            "cash-register"
+          ],
+          "maturity_and_content": [
+            "stress-themes",
+            "profanity"
+          ]
+        },
+        "keyword_sentence": "The Bear is a gritty and darkly comedic drama series set in Chicago, exploring themes of family, grief, and redemption through the lens of a struggling restaurant and its complex ensemble cast."
+      },
+      "duration_seconds": 57.66685605049133
+    }
+  }
+}

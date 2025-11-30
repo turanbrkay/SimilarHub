@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Boston Public",
+    "overview": "Principal Steven Harper runs Winslow High School as best as he can while dealing with the demands of the faculty, the students and their parents.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2000,
+    "vote_count": 38
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Boston Public is a character-driven drama series that explores the challenges and triumphs within a public high school. The show focuses on the relationships between students, teachers, and administrators, highlighting the systemic issues affecting education and the individuals striving to overcome them. It blends realistic portrayals of adolescent struggles with the complexities of institutional bureaucracy, offering a nuanced and often poignant look at the American education system. The series emphasizes empathy and understanding, showcasing the dedication of educators and the resilience of students facing adversity. While maintaining a generally hopeful tone, it doesn's shy away from depicting the frustrations and limitations inherent in the system.",
+        "spoiler_rich_plot_summary": "The series begins with Principal Steven Harper taking over Winslow High School, inheriting a school plagued by low morale, budget cuts, and a history of mismanagement. He immediately faces resistance from the faculty and the school board, who are skeptical of his progressive ideas. Throughout the early seasons, Harper works to implement reforms, such as smaller class sizes and more student support services, while battling bureaucratic obstacles and parental concerns. Students grapple with personal struggles, including poverty, family issues, and academic pressure, often finding guidance and mentorship from the dedicated teachers. As the series progresses, the school faces various crises, from budget cuts to safety concerns, testing the resilience of the staff and students. Relationships between the teachers evolve, with some forming close bonds while others clash over differing philosophies. The series culminates in a sense of cautious optimism, with the school demonstrating progress but acknowledging the ongoing challenges of providing quality education in a resource-constrained environment. While some students graduate and move on, the core faculty remain committed to their roles, continuing to advocate for their students and the school’s future.",
+        "categorized_keywords": {
+          "themes": [
+            "education-reform",
+            "social-justice",
+            "adolescence",
+            "family-dynamics",
+            "hope",
+            "community"
+          ],
+          "plot_and_concepts": [
+            "high-school-drama",
+            "coming-of-age",
+            "bureaucracy",
+            "mentor-student-relationship"
+          ],
+          "mood_and_tone": [
+            "realistic",
+            "poignant",
+            "hopeful",
+            "melancholy"
+          ],
+          "genre_and_tropes": [
+            "teen-drama",
+            "slice-of-life",
+            "character-driven"
+          ],
+          "setting": [
+            "urban-high-school",
+            "modern-day",
+            "boston-massachusetts"
+          ],
+          "character_archetypes": [
+            "dedicated-teacher",
+            "struggling-student",
+            "progressive-administrator",
+            "skeptical-parent"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "school-board-meeting",
+            "classroom",
+            "guidance-counselors-office",
+            "basketball-court"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Boston Public is a realistic and poignant teen drama series set in a modern-day urban high school, exploring themes of education reform, adolescence, and community through the perspectives of dedicated teachers and struggling students."
+      },
+      "duration_seconds": 60.10078477859497
+    }
+  }
+}

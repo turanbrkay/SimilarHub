@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Garfield and Friends",
+    "overview": "The animated stories of Garfield the cat, Odie the dog, their owner Jon and the trouble they get into. And also Orson the Pig and his adventures on a farm with his fellow farm animals.",
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "release_year": 1988,
+    "vote_count": 324
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Garfield and Friends is a lighthearted animated series centered around the perpetually hungry and sarcastic Garfield, his long-suffering owner Jon, and the energetic dog Odie. Interspersed with Garfield's antics are the adventures of Orson Pig and his farm animal friends. The show's appeal lies in its simple humor, relatable characters, and gentle exploration of friendship and everyday life. It's a nostalgic and comforting series aimed at a family audience, offering a blend of slapstick comedy and heartwarming moments.",
+        "spoiler_rich_plot_summary": "The series primarily follows Garfield's attempts to indulge in food and avoid responsibility, often leading to humorous conflicts with Jon and the well-meaning but clumsy Odie. Each segment typically involves a new scheme or mishap, with Garfield frequently outsmarting Jon and causing chaos. Alongside Garfield's stories, the 'Orson Pig' segments depict the farm animals' adventures, often involving problem-solving and teamwork. While there are no overarching plotlines or dramatic twists, the series maintains a consistent tone and character dynamics throughout its run, offering a continuous stream of comedic situations and lighthearted entertainment. The show concludes without any major resolutions, leaving the characters in their familiar, amusing circumstances.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "family",
+            "humor",
+            "food",
+            "laziness"
+          ],
+          "plot_and_concepts": [
+            "slapstick-comedy",
+            "animal-antics",
+            "farm-life",
+            "misunderstandings"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "nostalgic"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "comedy",
+            "slice-of-life"
+          ],
+          "setting": [
+            "suburban-home",
+            "farm"
+          ],
+          "character_archetypes": [
+            "lazy-cat",
+            "clumsy-dog",
+            "well-meaning-owner",
+            "farm-animal"
+          ],
+          "narrative_style": [
+            "anthology",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "lasagna",
+            "cat-nap",
+            "farm-animals",
+            "dog-bowl"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Garfield and Friends is a lighthearted animated series that follows the comedic adventures of a lazy cat, a clumsy dog, and their friends on a farm, offering a nostalgic and wholesome experience for family audiences."
+      },
+      "duration_seconds": 52.848060607910156
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "input_data": {
+    "title": "America's Funniest Home Videos",
+    "overview": "America's Funniest Home Videos is the longest-running primetime entertainment show in ABC history. Each week AFV shines the spotlight on hilarious videos. Fans tune in to witness failures and fiascos and to submit their own mishaps for their chance at stardom.",
+    "genres": [
+      "Comedy",
+      "Talk"
+    ],
+    "release_year": 1989,
+    "vote_count": 35
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "America's Funniest Home Videos is a long-running, lighthearted television show that compiles user-submitted videos of humorous mishaps and everyday moments. The show's appeal lies in its relatable content and the shared experience of laughter. It's a family-friendly program that celebrates the joy of spontaneous, often clumsy, events captured on camera. The show's longevity speaks to its simple premise and universal appeal, offering a consistent source of light entertainment for viewers of all ages. It's a celebration of everyday life and the humor found within it.",
+        "spoiler_rich_plot_summary": "The show's format remains consistent throughout its run: viewers submit home videos, and a panel of judges (initially Bob Saget, later Alfonso Ribeiro) selects the funniest clips to be featured in the weekly episode. Each episode showcases a variety of videos, ranging from children's antics to pets causing chaos and adults experiencing embarrassing situations. Winners are awarded prizes, encouraging continued submissions and maintaining the show's vibrant community. While there are occasional themed episodes or special guests, the core concept of showcasing user-generated comedic content remains unchanged, ensuring a familiar and comforting viewing experience for loyal fans. The show's success is built on the ongoing stream of new submissions, guaranteeing a constant supply of fresh, funny moments.",
+        "categorized_keywords": {
+          "themes": [
+            "family-entertainment",
+            "user-generated-content",
+            "everyday-life",
+            "humor",
+            "relatability"
+          ],
+          "plot_and_concepts": [
+            "competition",
+            "prize-winning",
+            "montage",
+            "comedic-compilation"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "joyful",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "reality-television",
+            "talk-show",
+            "family-audience"
+          ],
+          "setting": [
+            "domestic-settings",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "ordinary-people"
+          ],
+          "narrative_style": [
+            "episodic",
+            "compilation"
+          ],
+          "target_audience": [
+            "family-audience",
+            "all-ages"
+          ],
+          "detail_plot": [
+            "home-videos",
+            "prize-winning",
+            "judges-panel"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "America's Funniest Home Videos is a lighthearted, family-friendly talk show that celebrates the humor found in everyday life through a compilation of user-submitted home videos."
+      },
+      "duration_seconds": 49.567195653915405
+    }
+  }
+}

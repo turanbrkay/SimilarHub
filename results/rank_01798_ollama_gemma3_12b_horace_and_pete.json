@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Horace and Pete",
+    "overview": "The owners of a dive bar in Brooklyn, Horace and Pete, along with bar regulars share their experiences and lives with each other while drinking or working at the bar.",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "release_year": 2016,
+    "vote_count": 112
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Horace and Pete is a darkly comedic drama series centered around the lives of two brothers and the regulars who frequent their struggling Brooklyn dive bar. The show explores themes of family, loss, addiction, and the passage of time through a blend of absurdist humor and poignant character studies. It offers a melancholic yet often hilarious look at the challenges of aging, the complexities of familial relationships, and the search for meaning in everyday existence. The series' unconventional narrative style and improvisational feel contribute to its unique and often unsettling atmosphere.",
+        "spoiler_rich_plot_summary": "The series begins with Horace and Pete, two brothers, attempting to keep their family's bar afloat in Brooklyn. Pete, the more outwardly responsible brother, struggles with financial pressures and the weight of past mistakes, while Horace grapples with addiction and a troubled past. The bar serves as a microcosm of their lives, attracting a colorful cast of regulars who become intertwined in their struggles. As the series progresses, flashbacks reveal the brothers' complicated history and the events that led to their current predicament. The bar's precarious financial situation becomes a constant source of tension, forcing the brothers to confront their past failures and make difficult choices about the bar's future. Recurring characters, including a long-time bartender and a series of eccentric patrons, contribute to the bar's unique atmosphere and offer glimpses into the broader community. The series culminates in a poignant reflection on the enduring power of family and the bittersweet nature of letting go.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "loss-and-grief",
+            "addiction",
+            "aging",
+            "redemption",
+            "generational-trauma"
+          ],
+          "plot_and_concepts": [
+            "flashbacks",
+            "improvisational-comedy",
+            "small-town-life",
+            "family-business"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "melancholic",
+            "absurdist",
+            "poignant"
+          ],
+          "genre_and_tropes": [
+            "drama",
+            "comedy",
+            "slice-of-life",
+            "character-study"
+          ],
+          "setting": [
+            "brooklyn-city",
+            "modern-day",
+            "dive-bar"
+          ],
+          "character_archetypes": [
+            "troubled-protagonist",
+            "wise-mentor",
+            "eccentric-character"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "dive-bar-interior",
+            "whiskey-bottle",
+            "pool-table",
+            "neon-sign"
+          ],
+          "maturity_and_content": [
+            "substance-abuse",
+            "mature-language"
+          ]
+        },
+        "keyword_sentence": "Horace and Pete explores the complexities of family and loss through a darkly comedic drama set in a Brooklyn dive bar, examining themes of addiction and aging with a poignant and often absurd tone."
+      },
+      "duration_seconds": 64.66201639175415
+    }
+  }
+}

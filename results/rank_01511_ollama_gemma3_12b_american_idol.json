@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "American Idol",
+    "overview": "Each year, hopeful singers from all over the country audition to be part of one of the biggest shows in American television history. Who will become the new American Idol?",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2002,
+    "vote_count": 143
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "American Idol is a long-running reality television competition series where aspiring singers audition for a panel of judges and compete for a recording contract and national recognition. The show's format revolves around public voting, creating a dynamic between contestant performance and audience preference. It has significantly impacted the music industry, launching the careers of numerous artists and shaping the landscape of televised talent shows. The series blends elements of performance, competition, and personal narrative, offering a glimpse into the dreams and struggles of those pursuing a career in music. Its enduring popularity stems from its accessibility and the emotional investment viewers develop in the contestants.",
+        "spoiler_rich_plot_summary": "Each season of American Idol begins with thousands of hopeful singers auditioning across the country. These initial auditions are narrowed down to a smaller group who perform for the judges and a live audience. The contestants then progress through various rounds, including Hollywood week and live performances, where they are judged by a panel of industry experts and voted on by the American public. Throughout the competition, contestants face challenges, develop relationships, and showcase their musical talents. The show culminates in a final showdown between the top two or three finalists, where the winner is determined by a nationwide vote. While the specific journeys of each contestant vary, the overarching narrative follows a familiar arc of hope, perseverance, and the pursuit of a dream, often punctuated by unexpected eliminations and surprising performances. The winner receives a recording contract and the opportunity to launch a music career, though the long-term success of each winner varies greatly.",
+        "categorized_keywords": {
+          "themes": [
+            "fame-and-fortune",
+            "competition",
+            "perseverance",
+            "dreams-and-ambition",
+            "public-opinion",
+            "talent-discovery"
+          ],
+          "plot_and_concepts": [
+            "talent-show",
+            "voting-system",
+            "elimination-rounds",
+            "live-performance",
+            "judging-panel"
+          ],
+          "mood_and_tone": [
+            "hopeful",
+            "exciting",
+            "emotional",
+            "tense",
+            "celebratory"
+          ],
+          "genre_and_tropes": [
+            "reality-television",
+            "singing-competition",
+            "rags-to-riches",
+            "underdog-story"
+          ],
+          "setting": [
+            "american-television",
+            "music-industry",
+            "live-stage"
+          ],
+          "character_archetypes": [
+            "aspiring-singer",
+            "judges-panel",
+            "underdog",
+            "frontrunner"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "elimination-format",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "judges-comments",
+            "voting-results",
+            "live-performance",
+            "elimination-ceremony"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "American Idol is a hopeful reality television competition that showcases aspiring singers pursuing their dreams on the American stage, judged by a panel and ultimately decided by public opinion."
+      },
+      "duration_seconds": 65.94363260269165
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "The Winchesters",
+    "overview": "Before Sam and Dean, there was John and Mary. Told from the perspective of narrator Dean Winchester, this is the epic, untold love story of how John met Mary, and how they put it all on the line to not only save their love, but the entire world.",
+    "genres": [
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2022,
+    "vote_count": 207
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Winchesters serves as a prequel to the long-running series Supernatural, chronicling the early romance and monster-hunting adventures of John and Mary Winchester. The series blends elements of romance, action, and supernatural horror, offering a lighter tone than its predecessor while retaining the core themes of family, destiny, and battling dark forces. Told through the framing device of Dean Winchester narrating his father's and mother's story, the show explores the origins of the Winchester legacy and the events that set the stage for the original series' narrative.",
+        "spoiler_rich_plot_summary": "The series begins with a young John Winchester, a skilled mechanic and reluctant monster hunter, crossing paths with Mary, a seemingly ordinary college student who harbors a hidden connection to the supernatural. Their burgeoning romance is quickly complicated by the discovery of a looming apocalypse, orchestrated by a group known as the 'Harvesters' who seek to open a gateway for demonic forces. John and Mary, along with their friends Carlos and Castiel, form a hunter team dedicated to preventing the apocalypse. Throughout the series, they investigate various supernatural occurrences, uncover ancient prophecies, and confront increasingly powerful adversaries. As they delve deeper into the mysteries surrounding the Harvesters, they discover a complex web of secrets and betrayals that threaten to unravel their mission and endanger their lives. The series culminates in a confrontation with the Harvesters, where John and Mary must make difficult choices that will shape their destinies and determine the fate of the world, ultimately setting the stage for the events of Supernatural.",
+        "categorized_keywords": {
+          "themes": [
+            "family-legacy",
+            "forbidden-love",
+            "destiny",
+            "supernatural-threat",
+            "sacrifice",
+            "good-vs-evil"
+          ],
+          "plot_and_concepts": [
+            "monster-hunting",
+            "apocalypse-prevention",
+            "ancient-prophecy",
+            "time-travel",
+            "alternate-timeline"
+          ],
+          "mood_and_tone": [
+            "action-adventure",
+            "romantic",
+            "suspenseful",
+            "darkly-comic"
+          ],
+          "genre_and_tropes": [
+            "supernatural-horror",
+            "found-family",
+            "monster-of-the-week",
+            "slow-burn-romance"
+          ],
+          "setting": [
+            "1970s",
+            "american-suburbs",
+            "small-town-usa"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "strong-female-lead",
+            "wise-mentor",
+            "skilled-mechanic"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "framing-device"
+          ],
+          "target_audience": [
+            "young-adult",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "vintage-car",
+            "hunting-knife",
+            "grimoire",
+            "hunting-cabin"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "supernatural-horror"
+          ]
+        },
+        "keyword_sentence": "The Winchesters blends action-adventure and romantic elements to tell the story of a young couple battling supernatural threats and fulfilling a destined legacy in 1970s America."
+      },
+      "duration_seconds": 65.0171058177948
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "3rd Rock from the Sun",
+    "overview": "3rd Rock from the Sun is an American sitcom that aired from 1996 to 2001 on NBC. The show is about four extraterrestrials who are on an expedition to Earth, which they consider to be a very insignificant planet. The extraterrestrials pose as a human family in order to observe the behavior of human beings.",
+    "genres": [
+      "Family",
+      "Sci-Fi & Fantasy",
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 1996,
+    "vote_count": 422
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "3rd Rock from the Sun is a sitcom that blends science fiction and family comedy, following a group of aliens tasked with observing human behavior while posing as a typical suburban family. The show's humor derives from the aliens' literal interpretations of human customs and their struggles to blend in, offering a satirical look at American culture and family dynamics. While maintaining a lighthearted tone, the series explores themes of belonging, identity, and the challenges of understanding different perspectives. The show's appeal lies in its quirky characters and its ability to find humor in the mundane aspects of everyday life.",
+        "spoiler_rich_plot_summary": "The series begins with a team of aliens, Dick Solomon, Harry Nesbit, and Sally Tacker, sent to Earth to study humanity. They assume the identities of the Solomon family, with Dick posing as the father, Harry as the son, and Sally as the daughter. Their mission is complicated by the arrival of Nina, a local waitress who becomes aware of their true identities and is brought into their household as a housekeeper and reluctant confidante. Throughout the series, the aliens encounter various social situations and cultural norms, often misinterpreting them and creating comedic chaos. As the series progresses, the aliens begin to develop genuine affection for the humans they are observing, blurring the lines between their mission and their personal lives. While maintaining their cover, they navigate romantic relationships, family conflicts, and personal growth, ultimately learning valuable lessons about humanity and themselves. The series concludes with the aliens preparing to return to their home planet, having completed their mission and formed lasting bonds with the humans they've come to care for.",
+        "categorized_keywords": {
+          "themes": [
+            "alien-encounter",
+            "cultural-misunderstanding",
+            "family-dynamics",
+            "identity-quest",
+            "belonging",
+            "observation"
+          ],
+          "plot_and_concepts": [
+            "disguise",
+            "sitcom-format",
+            "fish-out-of-water",
+            "observation-mission"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "quirky",
+            "satirical"
+          ],
+          "genre_and_tropes": [
+            "sci-fi-comedy",
+            "family-sitcom",
+            "fish-out-of-water"
+          ],
+          "setting": [
+            "suburban-america",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "eccentric-scientist",
+            "naive-protagonist",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "alien-spaceship",
+            "suburban-house",
+            "disguise-costumes"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "3rd Rock from the Sun is a lighthearted sci-fi comedy that follows a quirky alien family as they observe and satirize American culture while navigating the challenges of belonging and identity in a suburban setting."
+      },
+      "duration_seconds": 60.563831090927124
+    }
+  }
+}

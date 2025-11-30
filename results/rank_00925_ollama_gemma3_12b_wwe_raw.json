@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "WWE Raw",
+    "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 1993,
+    "vote_count": 285
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "WWE Raw is a long-running, live professional wrestling program that serves as a cornerstone of the WWE brand. The show features a rotating cast of wrestlers, storylines, and matches, designed to entertain a broad audience with a blend of athletic competition and theatrical storytelling. Raw's format emphasizes spectacle and ongoing narratives, with frequent shifts in alliances and championships to maintain viewer engagement. It's a weekly event that combines athleticism, performance, and a dedicated fanbase, creating a unique and enduring entertainment product.",
+        "spoiler_rich_plot_summary": "WWE Raw debuted in 1993 as a counter-programming effort against rival promotions. Initially, the show focused on established wrestling stars and classic match types. Over the years, Raw has evolved significantly, introducing new talent, evolving storylines, and incorporating increasingly elaborate production elements. Championship reigns are frequent and often contested in high-profile matches, with alliances and betrayals shaping the landscape of the show. The storylines often involve complex rivalries, with wrestlers forming temporary partnerships and then turning on each other. While individual matches are important, the overarching narrative arcs, involving title changes, and shifting allegiances, are central to the show's appeal. The show has seen numerous periods of dominance by various wrestlers, and the constant evolution of the roster ensures a dynamic and unpredictable viewing experience. The show continues to be a flagship program for WWE, adapting to changing tastes and maintaining a loyal following.",
+        "categorized_keywords": {
+          "themes": [
+            "competition",
+            "rivalry",
+            "performance",
+            "entertainment",
+            "loyalty",
+            "betrayal"
+          ],
+          "plot_and_concepts": [
+            "professional-wrestling",
+            "championship-reigns",
+            "storyline-arcs",
+            "heel-face-turns",
+            "tag-team-matches"
+          ],
+          "mood_and_tone": [
+            "energetic",
+            "dramatic",
+            "exciting",
+            "theatrical"
+          ],
+          "genre_and_tropes": [
+            "reality-television",
+            "sports-entertainment",
+            "heel-face-dynamic",
+            "revenge-plot"
+          ],
+          "setting": [
+            "wrestling-ring",
+            "live-event",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "hero",
+            "villain",
+            "wrestler",
+            "champion"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "weekly-format",
+            "live-broadcast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "sports-fans"
+          ],
+          "detail_plot": [
+            "wrestling-belts",
+            "entrance-music",
+            "signature-moves",
+            "crowd-chants"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "WWE Raw is a weekly, live sports-entertainment program that combines athletic competition and theatrical storytelling with dramatic rivalries and signature moves, captivating a family audience with its energetic and exciting performances."
+      },
+      "duration_seconds": 58.032795667648315
+    }
+  }
+}

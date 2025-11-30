@@ -1,0 +1,64 @@
+{
+  "input_data": {
+    "title": "Two Guys and a Girl",
+    "overview": "This story revolves around the lives of three teenagers, Berg, Pete and Sharon and how their lives are entwined. It further deals with the bonds they share with each other.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1998,
+    "vote_count": 135
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Two Guys and a Girl is a sitcom that explores the complexities of friendship and burgeoning romance through the experiences of three young adults. The series blends comedic situations with relatable themes of navigating adulthood, relationships, and personal growth. It offers a lighthearted and optimistic portrayal of the challenges and joys of early adulthood, focusing on the dynamics between the titular characters as they support each other through various life events. The show's humor derives from awkward situations, misunderstandings, and the everyday struggles of finding one's place in the world.",
+        "spoiler_rich_plot_summary": "The series begins with Berg, Pete, and Sharon, three friends living together in a shared apartment. Berg and Pete are longtime friends, and Sharon joins their dynamic as a roommate. The initial episodes focus on establishing their individual personalities and the humorous clashes that arise from their differing lifestyles. As the series progresses, romantic tensions develop between the characters, particularly between Berg and Sharon, and Pete and another recurring character. The show explores the difficulties of balancing friendship and romantic interests, leading to misunderstandings and comedic conflicts. Throughout the series, each character faces personal challenges, such as career aspirations, family issues, and relationship struggles, which are often resolved through the support of their friends. While the series maintains a generally lighthearted tone, it also touches upon more serious themes of commitment, responsibility, and the evolving nature of relationships. The series concludes with the characters having matured and gained a better understanding of themselves and each other, solidifying their bond of friendship and hinting at potential future romantic developments.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "romance",
+            "coming-of-age",
+            "relationships",
+            "personal-growth"
+          ],
+          "plot_and_concepts": [
+            "sitcom",
+            "roommate-comedy",
+            "love-triangle"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "optimistic",
+            "humorous"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "romantic-comedy"
+          ],
+          "setting": [
+            "modern-day",
+            "urban-living"
+          ],
+          "character_archetypes": [
+            "best-friends",
+            "quirky-characters"
+          ],
+          "narrative_style": [
+            "episodic-format"
+          ],
+          "target_audience": [
+            "young-adults"
+          ],
+          "detail_plot": [
+            "shared-apartment",
+            "awkward-moments",
+            "romantic-conflicts"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Two Guys and a Girl is a lighthearted sitcom about the challenges and joys of friendship and romance as three young adults navigate the complexities of urban living and coming-of-age."
+      },
+      "duration_seconds": 58.29710841178894
+    }
+  }
+}

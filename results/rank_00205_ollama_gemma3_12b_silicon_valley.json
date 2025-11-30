@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Silicon Valley",
+    "overview": "In the high-tech gold rush of modern Silicon Valley, the people most qualified to succeed are the least capable of handling success. Partially inspired by Mike Judge’s own experiences as a Silicon Valley engineer in the late ‘80s, Silicon Valley is an American sitcom that centers around six programmers who are living together and trying to make it big in the Silicon Valley.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2014,
+    "vote_count": 1379
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Silicon Valley is a satirical comedy series that follows a group of programmers navigating the absurdities and cutthroat competition of the tech industry. The show blends sharp wit with insightful commentary on startup culture, venture capital, and the pursuit of innovation. It explores themes of ambition, friendship, and the challenges of maintaining integrity in a world driven by profit and hype. The series offers a humorous yet critical look at the modern tech landscape, often highlighting the disconnect between idealistic aspirations and the realities of the business world.",
+        "spoiler_rich_plot_summary": "The series begins with Richard Hendricks and his friends, Dinesh, Gilfoyle, and Jared, struggling to gain recognition for their innovative compression algorithm, Pied Piper. They secure funding from Peter Gregory, a reclusive billionaire, and move into a shared house, quickly finding themselves embroiled in the complex world of venture capital and startup competition. Richard faces constant challenges, including rival companies attempting to steal their technology, navigating the demands of investors like Gavin Belson, and dealing with the internal dynamics of his own team. Throughout the series, Pied Piper experiences periods of rapid growth and near-collapse, forcing Richard to make difficult decisions that test his values and relationships. The company's journey involves multiple acquisitions, legal battles, and shifts in leadership, ultimately culminating in a complex resolution that reflects the unpredictable nature of the tech industry and the sacrifices made in the pursuit of success. The series explores the evolution of the company and its founders, showcasing their personal and professional growth amidst the ever-changing landscape of Silicon Valley.",
+        "categorized_keywords": {
+          "themes": [
+            "startup-culture",
+            "ambition",
+            "friendship",
+            "innovation",
+            "corporate-greed",
+            "social-commentary",
+            "authenticity"
+          ],
+          "plot_and_concepts": [
+            "venture-capital",
+            "intellectual-property",
+            "corporate-espionage",
+            "algorithmic-innovation",
+            "business-competition"
+          ],
+          "mood_and_tone": [
+            "satirical",
+            "darkly-comic",
+            "cynical",
+            "absurdist",
+            "witty"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "workplace-comedy",
+            "fish-out-of-water",
+            "rags-to-riches"
+          ],
+          "setting": [
+            "silicon-valley",
+            "modern-day",
+            "tech-industry"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "eccentric-genius",
+            "corporate-villain",
+            "loyal-sidekick"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "pied-piper",
+            "hooli-hq",
+            "shared-house",
+            "compression-algorithm"
+          ],
+          "maturity_and_content": [
+            "profanity",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "Silicon Valley is a darkly comic sitcom that satirizes the relentless ambition and absurdities of the modern tech industry, exploring themes of innovation, friendship, and corporate greed within the unique setting of California’s tech hub."
+      },
+      "duration_seconds": 63.455519676208496
+    }
+  }
+}

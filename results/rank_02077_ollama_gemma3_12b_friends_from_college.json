@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Friends from College",
+    "overview": "Twenty years after graduation, a tight-knit group of college friends reconnects and discovers that love hasn't gotten easier with age.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2017,
+    "vote_count": 90
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Friends from College is a darkly comedic series exploring the complexities of long-term friendships and the anxieties of adulthood. Set against the backdrop of New York City's elite circles, the show examines themes of privilege, regret, and the challenges of maintaining relationships across decades. It blends observational humor with a cynical edge, offering a nuanced portrayal of characters grappling with their past choices and the pressures of present-day expectations. The series utilizes a serialized narrative, delving into the characters' personal lives and the ripple effects of their actions, creating a blend of awkwardness and relatability.",
+        "spoiler_rich_plot_summary": "The series begins with a reunion of college friends, primarily focusing on Max and Libby. Max, a successful author, finds himself entangled with Libby, a former classmate who is now married. Their rekindled connection sparks a series of increasingly complicated and morally ambiguous situations, exposing the underlying tensions and resentments within the group. As the series progresses, past betrayals and hidden desires are revealed, leading to a breakdown of trust and a re-evaluation of the friendships. The narrative explores the characters' struggles with professional setbacks, marital discord, and the weight of their past mistakes. While the initial premise revolves around a casual affair, the series expands to encompass the broader dynamics of the friend group, revealing secrets and confronting the characters with the consequences of their actions. The ending sees the characters facing the fallout of their choices, with the future of their friendships uncertain and the characters forced to confront their own flaws and vulnerabilities.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship-dynamics",
+            "regret",
+            "privilege",
+            "adulting",
+            "moral-ambiguity",
+            "identity-crisis"
+          ],
+          "plot_and_concepts": [
+            "affair",
+            "reunion",
+            "serialized-story",
+            "romantic-comedy",
+            "social-satire"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "cynical",
+            "awkward",
+            "satirical"
+          ],
+          "genre_and_tropes": [
+            "romantic-comedy",
+            "satirical-comedy",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "flawed-protagonist",
+            "privileged-elite"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "manhattan-apartment",
+            "book-signing",
+            "dinner-party",
+            "art-gallery"
+          ],
+          "maturity_and_content": [
+            "sexual-content",
+            "infidelity"
+          ]
+        },
+        "keyword_sentence": "Friends from College is a darkly comedic series set in modern-day New York City, exploring the complexities of long-term friendships and the anxieties of adulthood through a satirical lens."
+      },
+      "duration_seconds": 63.73871064186096
+    }
+  }
+}

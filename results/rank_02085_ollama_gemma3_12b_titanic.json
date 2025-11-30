@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Titanic",
+    "overview": "Titanic is a made-for-TV dramatization that premiered as a 2-part miniseries on CBS in 1996. Titanic follows several characters on board the RMS Titanic when she sinks on her maiden voyage in 1912. The miniseries was directed by Robert Lieberman. The original music score was composed by Lennie Niehaus. This is the first Titanic movie to show the ship breaking in two.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 1996,
+    "vote_count": 90
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Titanic is a dramatic miniseries depicting the tragic events surrounding the sinking of the RMS Titanic in 1912. The series focuses on a diverse cast of characters, exploring themes of class disparity, love, loss, and the fragility of human ambition against the backdrop of a seemingly unsinkable vessel. It aims to recreate the historical disaster with a focus on human stories and emotional impact, offering a glimpse into the lives of those aboard during the ship's final hours. The series blends historical accuracy with fictionalized narratives to create a compelling and ultimately heartbreaking portrayal of a pivotal moment in history. It is a somber and emotionally charged experience, emphasizing the devastating consequences of hubris and the enduring power of the human spirit.",
+        "spoiler_rich_plot_summary": "The miniseries 'Titanic' introduces a variety of characters from different social classes aboard the RMS Titanic's maiden voyage. We follow a young couple from different backgrounds whose budding romance is tested by societal expectations and the unfolding disaster. As the voyage progresses, the ship strikes an iceberg, and the seemingly impenetrable vessel begins to take on water. The series meticulously portrays the escalating panic and chaos as the crew struggles to contain the damage and the passengers realize the gravity of the situation. The ship’s eventual break in two is depicted graphically, highlighting the immense scale of the tragedy. The series follows the struggles of various passengers as they attempt to secure places on the limited number of lifeboats, showcasing acts of heroism and heartbreaking sacrifices. Ultimately, the series concludes with the sinking of the Titanic and the aftermath, focusing on the survivors and the profound loss experienced by those left behind, emphasizing the long-lasting impact of the disaster.",
+        "categorized_keywords": {
+          "themes": [
+            "class-disparity",
+            "love-and-loss",
+            "hubris",
+            "disaster",
+            "survival",
+            "historical-tragedy"
+          ],
+          "plot_and_concepts": [
+            "shipwreck",
+            "disaster-movie",
+            "historical-drama",
+            "romance",
+            "social-commentary"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "tragic",
+            "melancholy",
+            "emotional",
+            "heartbreaking"
+          ],
+          "genre_and_tropes": [
+            "historical-drama",
+            "disaster-film",
+            "romance-drama"
+          ],
+          "setting": [
+            "1912",
+            "rms-titanic",
+            "ocean-liner",
+            "atlantic-ocean"
+          ],
+          "character_archetypes": [
+            "star-crossed-lovers",
+            "heroic-sacrifice",
+            "social-elite",
+            "working-class"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "lifeboat",
+            "iceberg",
+            "ship-breaking",
+            "rms-titanic"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "death-and-loss"
+          ]
+        },
+        "keyword_sentence": "Titanic is a somber historical drama depicting the tragic sinking of the RMS Titanic in 1912, exploring themes of class disparity, love, and loss against the backdrop of a devastating disaster."
+      },
+      "duration_seconds": 67.7501540184021
+    }
+  }
+}

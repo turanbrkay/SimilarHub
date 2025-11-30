@@ -1,0 +1,88 @@
+{
+  "input_data": {
+    "title": "Marvel's The Defenders",
+    "overview": "Daredevil, Jessica Jones, Luke Cage and Iron Fist join forces to take on common enemies as a sinister conspiracy threatens New York City.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Crime"
+    ],
+    "release_year": 2017,
+    "vote_count": 1246
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Marvel's The Defenders unites four previously established street-level heroes – Daredevil, Jessica Jones, Luke Cage, and Iron Fist – into a single team to combat a growing threat to New York City. The series blends gritty crime drama with superhero action, exploring themes of justice, redemption, and the burden of responsibility. Each hero brings their unique skills and personal demons to the table, creating a complex dynamic as they navigate a conspiracy that tests their abilities and forces them to confront their individual pasts. The show offers a darker, more grounded take on the superhero genre, emphasizing the psychological toll of vigilantism and the challenges of collaboration.",
+        "spoiler_rich_plot_summary": "The series begins with each hero operating independently in their respective corners of New York City. Daredevil continues his fight against organized crime, Jessica Jones grapples with the aftermath of her past trauma, Luke Cage battles systemic injustice, and Iron Fist struggles to maintain his legacy. However, a series of coordinated attacks and the emergence of a mysterious criminal organization, The Hand, reveal a larger conspiracy at play. Wesley, a former Daredevil adversary, becomes a key figure in The Hand's plans, manipulating events to destabilize the city and resurrect ancient powers. As the heroes' paths converge, they reluctantly form an uneasy alliance, recognizing the need to combine their strengths to face the escalating threat. They uncover a plot to unleash a powerful mystical force, requiring them to confront not only physical enemies but also their own internal struggles and past mistakes. The final confrontation involves a desperate battle against The Hand's forces and a resurrected mystical entity, pushing the Defenders to their limits and forcing them to make difficult sacrifices to protect New York City. While they succeed in thwarting the immediate threat, the experience leaves them fractured and questioning their future as a team.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "redemption",
+            "vigilantism",
+            "corruption",
+            "teamwork",
+            "responsibility",
+            "past-trauma"
+          ],
+          "plot_and_concepts": [
+            "superhero-team",
+            "crime-syndicate",
+            "mystical-powers",
+            "conspiracy",
+            "revenge",
+            "martial-arts"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "gritty",
+            "action-packed",
+            "suspenseful",
+            "noir"
+          ],
+          "genre_and_tropes": [
+            "superhero",
+            "crime-procedural",
+            "martial-arts",
+            "team-up",
+            "urban-fantasy"
+          ],
+          "setting": [
+            "new-york-city",
+            "urban-environment",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "vigilante",
+            "anti-hero",
+            "reluctant-hero",
+            "mentor",
+            "corrupted-antagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "dark-noir"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "hand-ninja",
+            "daredevils-suit",
+            "iron-fist-chi",
+            "jessica-jones-investigations",
+            "luke-cages-strength"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "substance-abuse",
+            "sexual-content"
+          ]
+        },
+        "keyword_sentence": "Marvel’s The Defenders delivers a dark and gritty superhero team-up set in New York City, exploring themes of justice and redemption as a group of vigilantes confronts a dangerous conspiracy and their own past traumas."
+      },
+      "duration_seconds": 69.28446912765503
+    }
+  }
+}

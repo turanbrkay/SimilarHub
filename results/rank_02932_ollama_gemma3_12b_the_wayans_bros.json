@@ -1,0 +1,67 @@
+{
+  "input_data": {
+    "title": "The Wayans Bros.",
+    "overview": "The Wayans Bros. is a situation comedy that aired from January 1995 to May 1999 on The WB. The series starred real-life brothers Shawn and Marlon Wayans. Both brothers were already well-known from the sketch comedy show In Living Color that aired from 1990 to 1994 on Fox. The series also starred John Witherspoon and Anna Maria Horsford.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1995,
+    "vote_count": 50
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Wayans Bros. is a sitcom centered on two brothers navigating life in New York City. The series blends physical comedy with relatable sibling dynamics and workplace humor. It offers a lighthearted and often absurd portrayal of everyday challenges and aspirations, drawing on the brothers' established comedic style from their previous work on 'In Living Color.' The show's appeal lies in its accessible humor and the genuine chemistry between the lead actors, creating a consistently entertaining and feel-good viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Shawn and Marlon Wayans relocating to New York City to pursue their dreams, often clashing with their landlord and facing various comedic misadventures. Throughout the show's run, they encounter a revolving door of eccentric characters and navigate the ups and downs of their personal and professional lives. While the brothers often stumble and make mistakes, they consistently rely on each other for support and comedic relief. The series explores themes of family, ambition, and the pursuit of happiness, culminating in a generally positive outlook on life and the importance of staying true to oneself. While individual episodes often feature self-contained plots, recurring characters and ongoing family dynamics provide a sense of continuity and emotional depth.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "sibling-rivalry",
+            "pursuit-of-dreams",
+            "urban-life",
+            "coming-of-age"
+          ],
+          "plot_and_concepts": [
+            "sitcom-format",
+            "workplace-comedy",
+            "fish-out-of-water",
+            "physical-comedy"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "feel-good"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "family-comedy"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "comedic-duo",
+            "quirky-neighbor"
+          ],
+          "narrative_style": [
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "apartment-building",
+            "comedy-club",
+            "landlord"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Wayans Bros. is a lighthearted family-comedy sitcom set in New York City, exploring themes of sibling rivalry and the pursuit of dreams through a series of episodic adventures."
+      },
+      "duration_seconds": 53.93192529678345
+    }
+  }
+}

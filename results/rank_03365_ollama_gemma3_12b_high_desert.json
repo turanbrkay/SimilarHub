@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "High Desert",
+    "overview": "Peggy Newman, a woman with a checkered past, makes the life-changing decision to become a private investigator following the death of her beloved mother, who she lived with in the small desert town of Yucca Valley, California.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2023,
+    "vote_count": 38
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "High Desert is a darkly comedic series centered on a flawed protagonist navigating a small desert town. The show blends elements of crime drama with a quirky, character-driven narrative, exploring themes of grief, redemption, and the complexities of human connection. Peggy's journey as a fledgling private investigator is punctuated by eccentric characters and unexpected challenges, creating a unique and often absurd atmosphere. The series offers a blend of humor and pathos, inviting viewers to empathize with a protagonist struggling to find purpose and meaning in a seemingly desolate landscape.",
+        "spoiler_rich_plot_summary": "The series begins with Peggy Newman reeling from the death of her mother, with whom she lived a quiet, somewhat aimless life in Yucca Valley, California. Driven by a desire to escape her past and find a new direction, Peggy impulsively decides to become a private investigator, despite having little to no experience. Her initial cases are often small-time and comical, but they gradually lead her into more complex and dangerous situations, exposing her to the underbelly of the desert community. As Peggy investigates, she uncovers secrets and lies that connect various town residents, forcing her to confront her own demons and the dark history of Yucca Valley. The series follows her evolving skills and the deepening relationships she forms with a cast of eccentric characters, all while grappling with the legacy of her mother and the challenges of self-discovery. While initially motivated by a desire for change, Peggy's journey becomes increasingly intertwined with the lives of those around her, blurring the lines between investigator and participant.",
+        "categorized_keywords": {
+          "themes": [
+            "grief",
+            "redemption",
+            "self-discovery",
+            "small-town-life",
+            "family-dynamics",
+            "past-trauma"
+          ],
+          "plot_and_concepts": [
+            "private-investigation",
+            "crime-comedy",
+            "mystery",
+            "fish-out-of-water"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "quirky",
+            "absurdist",
+            "melancholy"
+          ],
+          "genre_and_tropes": [
+            "crime-comedy",
+            "small-town-mystery",
+            "found-family"
+          ],
+          "setting": [
+            "yucca-valley-california",
+            "desert-landscape",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "flawed-protagonist",
+            "eccentric-characters",
+            "reluctant-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "character-driven"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "private-eye-office",
+            "desert-road",
+            "local-bar",
+            "vintage-car"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "High Desert is a darkly comic series set in a quirky desert town, following a flawed protagonist’s journey of self-discovery as she navigates a small-town mystery and grapples with grief and past trauma."
+      },
+      "duration_seconds": 56.788596391677856
+    }
+  }
+}

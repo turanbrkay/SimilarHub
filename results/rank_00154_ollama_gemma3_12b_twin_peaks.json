@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Twin Peaks",
+    "overview": "The body of Laura Palmer is washed up on a beach near the small Washington state town of Twin Peaks. FBI Special Agent Dale Cooper is called in to investigate her strange demise only to uncover a web of mystery that ultimately leads him deep into the heart of the surrounding woodland and his very own soul.",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 1990,
+    "vote_count": 1775
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Twin Peaks is a surreal mystery drama that blends crime procedural elements with Lynchian dream logic. The series follows FBI Agent Dale Cooper's investigation into the murder of homecoming queen Laura Palmer, uncovering a disturbing undercurrent of secrets and darkness within the seemingly idyllic town. Known for its distinctive visual style, atmospheric soundtrack, and eccentric characters, Twin Peaks explores themes of duality, identity, and the hidden evils lurking beneath the surface of small-town America. The show's innovative approach to storytelling and its influence on subsequent television series are undeniable.",
+        "spoiler_rich_plot_summary": "The series begins with the shocking discovery of Laura Palmer's body, prompting FBI Agent Dale Cooper to be dispatched to Twin Peaks. As Cooper investigates, he encounters a cast of peculiar townspeople, each harboring their own secrets and connections to Laura's life. The investigation reveals that Laura was leading a double life, entangled in a complex web of abuse and exploitation orchestrated by her father, Leland Palmer, who is secretly possessed by an ancient evil. Cooper's pursuit of the killer leads him to uncover a supernatural realm known as the Black Lodge, a source of immense power and malevolence. The series culminates in a confrontation with the forces of darkness, blurring the lines between reality and nightmare, and leaving Cooper in a precarious state, trapped within the Lodge itself. The unresolved mysteries and lingering sense of dread establish a foundation for future explorations of the Twin Peaks mythology.",
+        "categorized_keywords": {
+          "themes": [
+            "small-town-secrets",
+            "good-versus-evil",
+            "identity-crisis",
+            "duality",
+            "loss-and-grief",
+            "supernatural-horror"
+          ],
+          "plot_and_concepts": [
+            "murder-mystery",
+            "police-investigation",
+            "supernatural-elements",
+            "dream-logic",
+            "alternate-reality"
+          ],
+          "mood_and_tone": [
+            "surreal",
+            "atmospheric",
+            "eerie",
+            "darkly-comic",
+            "unsettling"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "mystery-drama",
+            "neo-noir",
+            "small-town-horror"
+          ],
+          "setting": [
+            "pacific-northwest",
+            "small-town-america",
+            "forest-setting"
+          ],
+          "character_archetypes": [
+            "enigmatic-hero",
+            "troubled-protagonist",
+            "eccentric-villain",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "non-linear-timeline",
+            "dream-sequence"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "red-curtains",
+            "damn-fine-coffee",
+            "giant-mannequin",
+            "black-lodge",
+            "cherry-pie"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "sexual-content",
+            "drug-abuse"
+          ]
+        },
+        "keyword_sentence": "Twin Peaks is a surreal mystery drama set in a seemingly idyllic small town, where a police investigation uncovers dark secrets and supernatural elements, creating an unsettling atmosphere of loss and duality."
+      },
+      "duration_seconds": 73.7558798789978
+    }
+  }
+}

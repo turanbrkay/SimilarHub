@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "Doctor Zhivago",
+    "overview": "Young and beautiful Lara is loved by three men: a revolutionary, a mogul, and a doctor. Their lives become intertwined with the drama of Russian revolution. Doctor Zhivago is still married when he meets Lara. Their love story is unfolding against the backdrop of revolution which affects the doctor's career, his family, and his love to Lara.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2002,
+    "vote_count": 51
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Doctor Zhivago is a sweeping historical drama centered on a love triangle and the impact of the Russian Revolution on individual lives. The series explores themes of love, loss, societal upheaval, and the enduring human spirit amidst political turmoil. It blends romance with historical fiction, offering a poignant portrayal of a man torn between personal desires and the forces of a changing world. The narrative is characterized by its melancholic tone and focus on the complexities of human relationships against a backdrop of profound historical change. It is a character-driven story, emphasizing the emotional journeys of those caught in the crossfire of revolution.",
+        "spoiler_rich_plot_summary": "The story begins with Yuri Zhivago, a young doctor and poet, who is already married to Tonya when he meets Lara Antipova. Their passionate and forbidden love affair unfolds against the backdrop of growing political unrest in Russia. As the revolution intensifies, Yuri and Lara's lives become increasingly intertwined with the turmoil, forcing them to make difficult choices that impact their families and their futures. Yuri's career as a doctor is disrupted by the revolution, and he struggles to reconcile his personal desires with his responsibilities. Lara's own life is marked by tragedy and loss, as she navigates the dangers of a society in chaos. The revolution separates Yuri and Lara multiple times, testing the strength of their love and forcing them to confront the harsh realities of a world transformed by violence and political upheaval. Ultimately, their paths diverge, leaving a legacy of enduring love and profound regret amidst the ruins of a fallen empire.",
+        "categorized_keywords": {
+          "themes": [
+            "love-triangle",
+            "forbidden-love",
+            "social-upheaval",
+            "loss",
+            "regret",
+            "political-turmoil",
+            "personal-sacrifice",
+            "enduring-love"
+          ],
+          "plot_and_concepts": [
+            "russian-revolution",
+            "forbidden-romance",
+            "historical-fiction",
+            "love-affair",
+            "social-class-conflict"
+          ],
+          "mood_and_tone": [
+            "melancholic",
+            "poignant",
+            "romantic",
+            "tragic",
+            "somber"
+          ],
+          "genre_and_tropes": [
+            "historical-drama",
+            "romantic-drama",
+            "forbidden-romance",
+            "epic-romance"
+          ],
+          "setting": [
+            "russia",
+            "early-20th-century",
+            "st-petersburg",
+            "russian-countryside"
+          ],
+          "character_archetypes": [
+            "tormented-hero",
+            "femme-fatale",
+            "tragic-lover",
+            "intellectual-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "character-driven",
+            "epic-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "love-letters",
+            "poetic-verse",
+            "aristocratic-estate",
+            "red-army",
+            "snow-covered-landscape"
+          ],
+          "maturity_and_content": [
+            "romantic-content",
+            "political-violence"
+          ]
+        },
+        "keyword_sentence": "Doctor Zhivago is a sweeping, melancholic historical drama set in Russia, exploring themes of forbidden love and personal sacrifice amidst the turmoil of the Russian Revolution."
+      },
+      "duration_seconds": 68.16608548164368
+    }
+  }
+}

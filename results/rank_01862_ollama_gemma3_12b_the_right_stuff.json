@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "The Right Stuff",
+    "overview": "At the height of the Cold War, newly formed NASA selects seven of the military’s best test pilots to become astronauts. Competing to be the first in space, these men achieve the extraordinary, inspiring the world to turn towards a new horizon of ambition and hope.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2020,
+    "vote_count": 107
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Right Stuff is a historical drama series exploring the early days of the American space program and the seven test pilots selected to become the first astronauts. The series blends elements of biography, political thriller, and character study, examining the intense competition, personal sacrifices, and national pride that fueled the space race. It portrays the astronauts as complex individuals, grappling with their own egos, ambitions, and the immense pressure of representing a nation on the cusp of a new era. The show’s tone is a mix of stoic heroism and darkly comedic observations of the era’s cultural and political landscape, offering a nuanced perspective on a pivotal moment in history.",
+        "spoiler_rich_plot_summary": "The series begins with the formation of NASA and the search for test pilots to spearhead the nascent space program. Seven pilots – Chuck Yeager, Hamill, Cooper, Shephard, Glenn, Carpenter, and McKay – are selected, each bringing their own distinct personalities and backgrounds to the table. The initial focus is on their rigorous training and the intense competition to be the first in space, with Chuck Yeager’s record-breaking flight serving as a defining moment. As the program progresses, the pilots face numerous challenges, including technical setbacks, political maneuvering, and the constant scrutiny of the public eye. Personal relationships are strained by the demands of the mission, and the pilots grapple with the psychological toll of pushing the boundaries of human endurance. The series explores the complex relationship between the astronauts and the engineers, highlighting the collaborative effort required to achieve the seemingly impossible. The narrative culminates in the first American orbital flight, marking a significant victory in the space race and solidifying the astronauts' place in history, though the series hints at the long-term consequences and the sacrifices made in pursuit of this achievement.",
+        "categorized_keywords": {
+          "themes": [
+            "national-pride",
+            "cold-war",
+            "exploration",
+            "sacrifice",
+            "ambition",
+            "competition",
+            "male-bonding",
+            "scientific-progress"
+          ],
+          "plot_and_concepts": [
+            "space-race",
+            "test-pilots",
+            "biography",
+            "historical-drama",
+            "political-thriller"
+          ],
+          "mood_and_tone": [
+            "stoic",
+            "heroic",
+            "tense",
+            "patriotic",
+            "reflective"
+          ],
+          "genre_and_tropes": [
+            "historical-drama",
+            "biographical-drama",
+            "cold-war-thriller"
+          ],
+          "setting": [
+            "1950s-america",
+            "cold-war-era",
+            "new-mexico",
+            "edwards-air-force-base"
+          ],
+          "character_archetypes": [
+            "test-pilot",
+            "reluctant-hero",
+            "maverick",
+            "ambitious-man",
+            "military-officer"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "historical-account"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "rocket-launch",
+            "test-flight",
+            "space-suit",
+            "military-uniform",
+            "control-room"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Right Stuff portrays the intense competition and personal sacrifices of the first American astronauts during the Cold War, blending historical drama with a stoic and patriotic tone as they push the boundaries of exploration and national pride."
+      },
+      "duration_seconds": 71.47936511039734
+    }
+  }
+}

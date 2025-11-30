@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Baptiste",
+    "overview": "Battered by life, detective Julien Baptiste will investigate to the brink of obsession. Whatever the cost. Whatever it takes.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2019,
+    "vote_count": 64
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Baptiste is a dark and brooding crime drama that serves as a spin-off from the acclaimed series 'The Missing.' The series follows the titular character, a troubled and experienced detective grappling with personal demons as he investigates complex and disturbing cases. The show explores themes of guilt, redemption, and the psychological toll of relentless pursuit of justice, often delving into the murky depths of human behavior. With a focus on atmospheric tension and character-driven narratives, 'Baptiste' offers a suspenseful and emotionally resonant viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Julien Baptiste, still recovering from a stroke and haunted by past failures, being approached by a London police officer to investigate the disappearance of a young girl in Amsterdam. The investigation quickly spirals into a labyrinthine case involving human trafficking, organized crime, and a network of seemingly ordinary individuals harboring dark secrets. As Baptiste delves deeper, he uncovers connections to previous cases, forcing him to confront his own past traumas and the consequences of his actions. The search for the missing girl leads him across Europe, exposing him to a world of violence and exploitation. Throughout the series, Baptiste struggles with his physical and mental health, relying on medication and the support of his estranged family. The case ultimately reveals a complex web of deceit and betrayal, forcing Baptiste to make difficult choices that challenge his moral compass and test the limits of his resilience. The series concludes with a sense of uneasy resolution, leaving Baptiste forever marked by the darkness he has witnessed.",
+        "categorized_keywords": {
+          "themes": [
+            "guilt",
+            "redemption",
+            "moral-ambiguity",
+            "trauma",
+            "justice",
+            "family-dynamics"
+          ],
+          "plot_and_concepts": [
+            "crime-investigation",
+            "missing-person",
+            "human-trafficking",
+            "organized-crime",
+            "serial-investigation"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "brooding",
+            "suspenseful",
+            "gritty",
+            "atmospheric"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "police-drama",
+            "noir",
+            "slow-burn-mystery"
+          ],
+          "setting": [
+            "europe",
+            "amsterdam",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "troubled-detective",
+            "anti-hero",
+            "morally-gray-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "police-car",
+            "crime-scene",
+            "interrogation-room",
+            "medical-records"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "sexual-content",
+            "drug-use"
+          ]
+        },
+        "keyword_sentence": "Baptiste is a dark and brooding crime drama set in Europe, following a troubled detective as he investigates complex cases of human trafficking and grapples with his own personal demons."
+      },
+      "duration_seconds": 64.41807436943054
+    }
+  }
+}

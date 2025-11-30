@@ -1,0 +1,85 @@
+{
+  "input_data": {
+    "title": "Shadowplay",
+    "overview": "In 1946 Berlin, an American cop searches for his missing brother while helping a novice German policewoman fight the violent crimes engulfing the city.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2020,
+    "vote_count": 43
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Shadowplay is a neo-noir drama series set in post-World War II Berlin, exploring the complexities of justice, trauma, and rebuilding in a fractured society. The series blends elements of police procedural with a character-driven narrative, focusing on the psychological toll of violence and the moral ambiguities faced by those striving for order amidst chaos. It offers a somber and atmospheric viewing experience, examining themes of brotherhood, guilt, and the enduring consequences of war. The series is notable for its stark visuals and its nuanced portrayal of a city grappling with its past.",
+        "spoiler_rich_plot_summary": "The series begins with American soldier Miles August arriving in Berlin in 1946, searching for his missing brother, Paul, who was stationed there. He joins forces with Greta Köhler, a young and idealistic German police officer, to investigate a series of brutal crimes plaguing the city. As they delve deeper into the criminal underworld, they uncover a web of corruption and conspiracy that reaches into the highest echelons of power. Miles struggles with his own demons and the lingering trauma of war, while Greta confronts the harsh realities of a society still reeling from the Nazi regime. The investigation reveals that Paul’s disappearance is intrinsically linked to the criminal activities, and Miles must confront the possibility that his brother was involved in something dangerous. The series follows a winding path through the dark corners of Berlin, exposing the city’s deep scars and the challenges of establishing justice in a morally compromised environment. The search for Paul ultimately leads Miles and Greta to uncover a larger conspiracy involving former Nazi officials and black market operations, forcing them to make difficult choices with far-reaching consequences. The series culminates in a confrontation that exposes the truth about Paul’s fate and the extent of the corruption within the city’s power structures.",
+        "categorized_keywords": {
+          "themes": [
+            "post-war-trauma",
+            "brotherhood",
+            "justice",
+            "corruption",
+            "redemption",
+            "moral-ambiguity",
+            "guilt",
+            "loss"
+          ],
+          "plot_and_concepts": [
+            "police-procedural",
+            "crime-investigation",
+            "conspiracy",
+            "black-market",
+            "missing-person",
+            "neo-noir"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "dark",
+            "atmospheric",
+            "gritty",
+            "tense"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "neo-noir",
+            "mystery",
+            "thriller"
+          ],
+          "setting": [
+            "post-war-berlin",
+            "1940s",
+            "germany",
+            "urban-setting"
+          ],
+          "character_archetypes": [
+            "troubled-protagonist",
+            "idealistic-cop",
+            "veteran",
+            "corrupt-official"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "investigative-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "police-station",
+            "crime-scene",
+            "black-market-deal",
+            "interrogation-room",
+            "war-debris"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "crime",
+            "dark-themes"
+          ]
+        },
+        "keyword_sentence": "Shadowplay is a somber neo-noir crime drama set in post-war Berlin, exploring themes of brotherhood, corruption, and justice amidst the dark realities of a city rebuilding after immense trauma."
+      },
+      "duration_seconds": 69.34081625938416
+    }
+  }
+}

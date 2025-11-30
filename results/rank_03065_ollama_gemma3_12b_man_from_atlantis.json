@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Man from Atlantis",
+    "overview": "Atlantis survivor Mark Harris breathes underwater, withstands extreme depth pressures and wields superhuman strength.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Action & Adventure"
+    ],
+    "release_year": 1977,
+    "vote_count": 46
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Man from Atlantis is a 1970s science fiction drama centered on a man discovered living in the ocean, possessing extraordinary abilities and struggling to adapt to the human world. The series explores themes of acceptance, prejudice, and the conflict between nature and civilization, blending action-adventure elements with a focus on the protagonist's personal journey. The tone is generally optimistic, emphasizing the potential for understanding and co-existence, though it also addresses societal anxieties about the unknown and the fear of difference. The show's blend of fantastical elements and human drama creates a unique viewing experience, appealing to audiences interested in both action and character-driven narratives.",
+        "spoiler_rich_plot_summary": "The series begins with the discovery of Mark Harris, a man living in the Atlantic Ocean, possessing superhuman strength, the ability to breathe underwater, and resistance to extreme pressures. He is brought to the surface and introduced to the human world, where he struggles to understand human customs and faces prejudice due to his differences. Dr. Ruth Gale, a marine biologist, becomes his advocate and helps him navigate this new environment. As Mark adjusts to life on land, he encounters various threats, both natural and man-made, that challenge his abilities and force him to confront the darker aspects of human nature. Throughout the series, Mark's past remains shrouded in mystery, hinting at a lost civilization and a tragic event that led to his isolation. He grapples with his identity, torn between his Atlantean heritage and his growing connection to humanity, while also protecting both worlds from those who would exploit his powers or destroy his way of life. The series culminates in a confrontation with forces seeking to control Mark's abilities, ultimately leading to a resolution that balances his Atlantean origins with his place in the human world.",
+        "categorized_keywords": {
+          "themes": [
+            "acceptance",
+            "prejudice",
+            "identity-quest",
+            "nature-vs-civilization",
+            "isolation",
+            "lost-civilization"
+          ],
+          "plot_and_concepts": [
+            "superhuman-abilities",
+            "fish-out-of-water",
+            "lost-world",
+            "marine-biology",
+            "government-conspiracy"
+          ],
+          "mood_and_tone": [
+            "optimistic",
+            "adventurous",
+            "mysterious",
+            "hopeful"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "action-adventure",
+            "fish-out-of-water",
+            "superhero-origins"
+          ],
+          "setting": [
+            "atlantic-ocean",
+            "1970s",
+            "coastal-city"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "scientist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-adventure"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "underwater-city",
+            "marine-lab",
+            "government-facility",
+            "diving-suit"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Man from Atlantis is an optimistic science-fiction adventure series set in the 1970s, exploring themes of acceptance and identity as a superhuman struggles to find his place in a world that fears what it doesn't understand."
+      },
+      "duration_seconds": 64.70298600196838
+    }
+  }
+}

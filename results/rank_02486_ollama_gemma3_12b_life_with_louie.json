@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Life with Louie",
+    "overview": "Life with Louie is an American animated series. The show is based on the childhood of stand-up comedian Louie Anderson, growing up with his family in Wisconsin.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "release_year": 1994,
+    "vote_count": 67
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Life with Louie is a nostalgic animated sitcom that draws heavily on the childhood experiences of comedian Louie Anderson. The series offers a lighthearted and often chaotic portrayal of family life in 1950s Wisconsin, emphasizing the humorous struggles and heartwarming moments of growing up. With its simple animation style and focus on relatable family dynamics, the show aims to evoke a sense of warmth and familiarity for viewers of all ages. The series blends comedic situations with gentle life lessons, creating a wholesome and entertaining experience.",
+        "spoiler_rich_plot_summary": "The series chronicles the everyday life of Louie, a young boy growing up in a large, boisterous family in Wisconsin. Each episode typically revolves around a common childhood experience, such as dealing with school, siblings, or family gatherings. Louie's father, a well-meaning but often clumsy man, frequently finds himself in humorous predicaments, while Louie's mother strives to maintain order within the chaotic household. Throughout the series, Louie navigates the challenges of growing up, learning valuable lessons about family, friendship, and responsibility. While the show doesn't feature overarching plotlines, recurring themes of sibling rivalry, parental guidance, and the joys of simple pleasures shape the narrative arc. The series concludes with Louie maturing and gaining a deeper appreciation for his family and the unique experiences that shaped his childhood.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "childhood-nostalgia",
+            "growing-up",
+            "sibling-rivalry",
+            "parental-guidance",
+            "simple-pleasures"
+          ],
+          "plot_and_concepts": [
+            "sitcom-format",
+            "animated-comedy",
+            "slice-of-life",
+            "coming-of-age"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "nostalgic",
+            "humorous"
+          ],
+          "genre_and_tropes": [
+            "family-sitcom",
+            "animated-comedy",
+            "coming-of-age-story"
+          ],
+          "setting": [
+            "1950s-america",
+            "wisconsin",
+            "suburban-home"
+          ],
+          "character_archetypes": [
+            "boisterous-father",
+            "loving-mother",
+            "mischievous-child"
+          ],
+          "narrative_style": [
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "animated-family",
+            "suburban-house",
+            "1950s-car"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Life with Louie is a lighthearted and nostalgic animated sitcom that portrays the humorous and heartwarming experiences of a family growing up in 1950s Wisconsin."
+      },
+      "duration_seconds": 59.396507024765015
+    }
+  }
+}

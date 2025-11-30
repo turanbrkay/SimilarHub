@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Informer",
+    "overview": "Raza, a young second-generation British-Pakistani man from London is coerced by Gabe, a counterterrorism officer, into informing.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "release_year": 2018,
+    "vote_count": 31
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Informer is a British crime drama series that explores the complex and morally ambiguous world of counterterrorism. The series follows Raza, a young man pressured into becoming an informant for a police officer, Gabe, forcing him to navigate a dangerous web of deceit and risk. It delves into themes of loyalty, identity, and the sacrifices made in the name of national security, offering a gritty and suspenseful portrayal of undercover operations and their impact on individuals and communities. The series maintains a tense atmosphere, driven by the constant threat of exposure and the blurring lines between right and wrong.",
+        "spoiler_rich_plot_summary": "The series begins with Raza, a seemingly ordinary young man living in London, being approached by Gabe, a counterterrorism officer. Gabe coerces Raza into becoming an informant, leveraging a past mistake to ensure his compliance. Raza is tasked with infiltrating a network of individuals suspected of planning terrorist acts, feeding information back to Gabe and his team. As Raza delves deeper into the underworld, he develops relationships with those he is supposed to be informing on, further complicating his loyalties and putting him at increasing risk. The series follows Raza's attempts to balance his double life, struggling with the moral implications of his actions and the constant fear of being discovered. Gabe, meanwhile, manipulates events to maintain control over Raza and the investigation, often pushing Raza to take increasingly dangerous actions. The investigation intensifies, revealing a larger conspiracy that reaches into the highest levels of power, forcing Raza to confront uncomfortable truths about those he trusts and the true nature of the forces at play. The series culminates in a confrontation where Raza's identity is threatened, and he must make a critical decision that will determine his fate and the outcome of the investigation.",
+        "categorized_keywords": {
+          "themes": [
+            "loyalty",
+            "identity",
+            "deception",
+            "moral-ambiguity",
+            "national-security",
+            "coercion",
+            "social-justice"
+          ],
+          "plot_and_concepts": [
+            "undercover-operation",
+            "terrorism",
+            "police-investigation",
+            "double-life",
+            "conspiracy"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "gritty",
+            "tense",
+            "dark"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "police-procedural",
+            "thriller",
+            "social-realism"
+          ],
+          "setting": [
+            "london",
+            "modern-day",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "manipulative-authority",
+            "undercover-informant"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "undercover-identity",
+            "police-surveillance",
+            "informant-network"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "drug-use",
+            "profanity"
+          ]
+        },
+        "keyword_sentence": "Informer is a tense and gritty crime drama set in modern-day London, exploring themes of loyalty and deception as a reluctant hero navigates a dangerous world of terrorism and police surveillance."
+      },
+      "duration_seconds": 81.02135515213013
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "input_data": {
+    "title": "Castle Rock",
+    "overview": "Based on the stories of Stephen King, the series intertwines characters and themes from the fictional town of Castle Rock.",
+    "genres": [
+      "Mystery",
+      "Drama"
+    ],
+    "release_year": 2018,
+    "vote_count": 494
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Castle Rock is an anthology drama series drawing inspiration from the extensive works of Stephen King. The show explores the dark underbelly of a seemingly ordinary town, Castle Rock, Maine, revealing a history of unsettling events and interconnected characters. It blends elements of mystery, horror, and psychological thriller, creating a suspenseful atmosphere steeped in dread and paranoia. The series delves into themes of small-town secrets, inherited trauma, and the enduring power of the past, offering a slow-burn narrative that prioritizes atmosphere and character development over jump scares.",
+        "spoiler_rich_plot_summary": "The first season centers around the simultaneous arrival of a mysterious stranger, Alan Pangborn, and the escape of a convicted murderer, Floyd Tillman, in Castle Rock. Pangborn, a former Sheriff, is haunted by a past tragedy and seeks to uncover the truth behind Tillman's escape and a series of unsettling events plaguing the town. As he investigates, he uncovers connections to the Skrags, a secretive group with a long history in Castle Rock, and the disappearance of several individuals years prior. The season culminates in a confrontation with the Skrags, revealing their involvement in a ritualistic practice and the cyclical nature of violence in the town. The second season shifts focus, exploring a new set of characters and a different mystery tied to the town's history, involving a deadly virus and a troubled family. It further expands on the interconnectedness of Castle Rock's past and present, demonstrating how the town's dark legacy continues to shape the lives of its residents. While each season presents a self-contained narrative, they are linked by recurring themes and characters, creating a larger, overarching story about the enduring darkness that permeates Castle Rock.",
+        "categorized_keywords": {
+          "themes": [
+            "small-town-secrets",
+            "inherited-trauma",
+            "past-haunting",
+            "supernatural-horror",
+            "moral-ambiguity",
+            "fate-vs-free-will"
+          ],
+          "plot_and_concepts": [
+            "anthology-series",
+            "mystery-investigation",
+            "serial-killer",
+            "supernatural-phenomena",
+            "small-town-corruption",
+            "ritualistic-practices"
+          ],
+          "mood_and_tone": [
+            "darkly-atmospheric",
+            "suspenseful",
+            "paranoid",
+            "eerie",
+            "slow-burn"
+          ],
+          "genre_and_tropes": [
+            "horror",
+            "mystery",
+            "drama",
+            "anthology",
+            "small-town-horror"
+          ],
+          "setting": [
+            "maine",
+            "small-town-usa",
+            "alternate-timeline"
+          ],
+          "character_archetypes": [
+            "haunted-protagonist",
+            "enigmatic-stranger",
+            "corrupt-official",
+            "wise-elder"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "mystery-box",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "sheriffs-hat",
+            "small-town-jail",
+            "abandoned-mine",
+            "town-square",
+            "old-church"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "psychological-horror",
+            "disturbing-imagery"
+          ]
+        },
+        "keyword_sentence": "Castle Rock is a darkly atmospheric drama series exploring the unsettling secrets and inherited trauma that haunt a small town in Maine, blending elements of mystery, horror, and psychological suspense."
+      },
+      "duration_seconds": 95.27155780792236
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "The Rising",
+    "overview": "Neve Kelly is dead. She is stuck in limbo and must find out who killed her. This adaptation of the mystery series Beau Séjour impresses on account of its young cast and the breath-taking landscapes of England’s Lake District.",
+    "genres": [
+      "Crime",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2022,
+    "vote_count": 30
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Rising is a British mystery series that blends crime procedural elements with a supernatural premise. The narrative centers on Neve Kelly, a young woman who returns from the dead to uncover the truth behind her murder. The series distinguishes itself through its youthful cast and the visually striking backdrop of the Lake District. It explores themes of grief, justice, and the complexities of memory, offering a suspenseful and emotionally resonant viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with the apparent death of Neve Kelly, a young woman whose life is abruptly cut short. However, Neve doesn't find peace; instead, she exists in a liminal state, unable to move on until she discovers who is responsible for her demise. She is tethered to the world of the living, observing her family and friends as they grapple with her loss while simultaneously investigating the circumstances surrounding her death. As Neve delves deeper into the mystery, she uncovers a web of secrets and lies within her community, revealing hidden relationships and long-held resentments. The investigation leads her to suspect several individuals, each with their own motives and potential for deception. Throughout her quest for justice, Neve struggles to reconcile her memories of her former life with the unsettling reality of her current existence, and the truth proves far more complex and tragic than she initially imagined. The series culminates in the revelation of the killer's identity and their motives, exposing a devastating truth about the fragility of life and the enduring power of love and loss.",
+        "categorized_keywords": {
+          "themes": [
+            "grief",
+            "justice",
+            "memory",
+            "revenge",
+            "loss",
+            "family-secrets"
+          ],
+          "plot_and_concepts": [
+            "limbo",
+            "ghost-story",
+            "murder-mystery",
+            "revenge-plot",
+            "small-town-secrets"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "melancholy",
+            "atmospheric",
+            "eerie"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "supernatural-mystery",
+            "ghost-story",
+            "small-town-mystery"
+          ],
+          "setting": [
+            "lake-district",
+            "england",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "ghost",
+            "investigator",
+            "suspect",
+            "grieving-family"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "mystery-thriller"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "lake-scenery",
+            "grieving-family",
+            "police-investigation",
+            "limbo-state"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Rising is a suspenseful British mystery series set in the atmospheric Lake District, exploring themes of grief and revenge as a young woman returns from the dead to uncover the truth behind her murder."
+      },
+      "duration_seconds": 76.29586386680603
+    }
+  }
+}

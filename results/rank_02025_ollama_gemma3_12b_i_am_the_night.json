@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "I Am the Night",
+    "overview": "Fauna Hodel, who was given away by her teenage birth mother, begins to investigate the secrets to her past, following a sinister trail that swirls ever closer to an infamous Hollywood gynecologist connected to the legendary Black Dahlia murder.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2019,
+    "vote_count": 94
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "I Am the Night is a crime drama series that blends true crime elements with a fictionalized narrative. The show follows Fauna Hodel as she unravels the mystery of her birth and the dark secrets surrounding her birth mother and a notorious Hollywood doctor. It explores themes of identity, family, and the corrosive effects of secrets, all set against the backdrop of 1960s Los Angeles and its lingering shadows. The series maintains a suspenseful and atmospheric tone, drawing viewers into a complex web of deception and danger.",
+        "spoiler_rich_plot_summary": "The series begins with Fauna Hodel, raised by adoptive parents, discovering she was abandoned as a baby. A journalist, Chad Tremblay, seeking to rehabilitate his career, approaches Fauna with information suggesting her birth mother, Coralee, was involved in a series of disturbing events connected to Dr. Harold Bloom, a renowned gynecologist. As Fauna investigates her past, she uncovers a network of lies, betrayals, and potential criminal activity surrounding Bloom and his associates. The investigation leads Fauna closer to the infamous Black Dahlia murder case, revealing connections between Bloom and the unsolved crime. She encounters resistance and threats from those who want to keep the truth buried, forcing her to confront dangerous individuals and question the people she thought she knew. The series culminates in a confrontation with Bloom and the exposure of his crimes, revealing the extent of his manipulation and the devastating impact on those whose lives he touched. Fauna ultimately finds a degree of closure regarding her origins, though the revelations leave a lasting impact on her and those around her.",
+        "categorized_keywords": {
+          "themes": [
+            "identity-quest",
+            "family-secrets",
+            "true-crime",
+            "redemption",
+            "deception",
+            "social-class"
+          ],
+          "plot_and_concepts": [
+            "cold-case",
+            "missing-person",
+            "serial-killer",
+            "police-investigation",
+            "conspiracy",
+            "unsolved-murder"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "atmospheric",
+            "noir",
+            "tense"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "mystery",
+            "true-crime-drama",
+            "noir-mystery"
+          ],
+          "setting": [
+            "1960s-los-angeles",
+            "hollywood",
+            "california"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "investigative-journalist",
+            "enigmatic-doctor",
+            "abandoned-child"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "true-crime-adaptation"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "black-dahlia-murder",
+            "adoption-records",
+            "medical-records",
+            "vintage-cars",
+            "1960s-fashion"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "sexual-content",
+            "abuse-themes"
+          ]
+        },
+        "keyword_sentence": "I Am the Night is a suspenseful crime drama series set in 1960s Los Angeles, exploring themes of identity and family secrets through a true-crime investigation into a notorious doctor and his connection to the infamous Black Dahlia murder."
+      },
+      "duration_seconds": 69.23282194137573
+    }
+  }
+}

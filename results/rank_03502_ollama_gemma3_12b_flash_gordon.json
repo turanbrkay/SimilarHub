@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Flash Gordon",
+    "overview": "Flash Gordon is an American science fiction television series that debuted on Sci Fi in the United States on August 10, 2007 and continued airing new episodes through February 8, 2008. It has also appeared on the United Kingdom Sci Fi Channel and SPACE in Canada. The series was developed by Peter Hume, who served as executive producer/show runner and wrote the first and last episodes, among others.",
+    "genres": [
+      "Action & Adventure",
+      "Comedy",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2007,
+    "vote_count": 36
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Flash Gordon is a science fiction adventure series that blends action, comedy, and drama within a space opera setting. The show follows a charismatic Earthman who finds himself thrust into a galactic conflict, forced to navigate complex political landscapes and confront formidable adversaries. It explores themes of heroism, responsibility, and the clash between cultures, offering a blend of thrilling action sequences and character-driven narratives. The series aims to capture the spirit of the classic pulp adventures while updating the story for a modern audience, creating a visually dynamic and entertaining experience.",
+        "spoiler_rich_plot_summary": "The series begins with Flash Gordon, a celebrated American football star, abducted from Earth and transported to the planet Mongo, ruled by the tyrannical Emperor Ming. Ming, fearing a prophecy that foretells his downfall at the hands of an Earthman, initially attempts to manipulate Flash into serving his purposes. However, Flash quickly aligns himself with Princess Aura and the rebel forces fighting against Ming's oppressive regime. Throughout the series, Flash and his allies engage in a series of battles against Ming's armies, uncovering conspiracies and forging alliances with various alien factions. Flash's journey involves mastering new skills, confronting personal demons, and ultimately embracing his role as a leader in the fight for Mongo's freedom. The conflict escalates as Ming unveils increasingly dangerous weapons and schemes, pushing Flash and his companions to their limits. While the fight for Mongo continues, Flash grapples with the responsibility of his newfound power and the potential consequences of his actions, ultimately striving to bring peace and justice to the galaxy.",
+        "categorized_keywords": {
+          "themes": [
+            "heroism",
+            "responsibility",
+            "cultural-clash",
+            "galactic-conflict",
+            "tyranny",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "space-opera",
+            "prophecy",
+            "rebellion",
+            "political-intrigue",
+            "alien-invasion"
+          ],
+          "mood_and_tone": [
+            "adventurous",
+            "humorous",
+            "dramatic",
+            "action-packed"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "pulp-adventure",
+            "found-family",
+            "hero-journey"
+          ],
+          "setting": [
+            "outer-space",
+            "alternate-timeline",
+            "alien-planet",
+            "mongo"
+          ],
+          "character_archetypes": [
+            "hero",
+            "tyrant",
+            "princess",
+            "rebel-leader"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "spacecraft",
+            "laser-weapon",
+            "royal-palace",
+            "alien-armor"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Flash Gordon is an adventurous science fiction series that blends action, drama, and humor within a galactic conflict, following a hero’s journey across an alien planet as he confronts tyranny and embraces his role in a rebellion."
+      },
+      "duration_seconds": 57.72619867324829
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Unsolved Mysteries",
+    "overview": "Combines four to five segments of dramatic re-enactments, interviews and updates of real human and paranormal mysteries. An audience interactive call-to-action request allowed viewers to call in with tips to help solve the cases.",
+    "genres": [
+      "Mystery",
+      "Drama"
+    ],
+    "release_year": 1988,
+    "vote_count": 123
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Unsolved Mysteries is a long-running anthology series that presents real-life mysteries, ranging from disappearances and murders to paranormal events. The show's format relies heavily on dramatic reenactments and interviews with individuals connected to the cases, often soliciting viewer assistance in solving them. Its appeal lies in its ability to tap into the human fascination with the unexplained and the desire to uncover the truth. The series blends true crime with paranormal investigations, creating a unique and engaging viewing experience. The show's interactive element, encouraging audience participation, further enhances its immersive quality.",
+        "spoiler_rich_plot_summary": "Each episode of Unsolved Mysteries typically features several distinct cases, presented in a chronological order that builds suspense. The narratives often begin with a detailed recounting of the events leading up to the mystery, followed by interviews with family members, friends, and law enforcement officials. Dramatic reenactments are used to visualize key moments and provide a sense of immediacy. Throughout the series, updates are periodically provided on the status of the cases, sometimes revealing new leads or potential suspects. While many cases remain unsolved, the show occasionally highlights breakthroughs achieved through viewer tips and collaborative efforts. The overarching narrative is the ongoing quest for answers and the enduring hope of finding closure for those affected by these mysteries.",
+        "categorized_keywords": {
+          "themes": [
+            "true-crime",
+            "mystery",
+            "disappearance",
+            "unexplained-phenomena",
+            "justice",
+            "hope",
+            "closure"
+          ],
+          "plot_and_concepts": [
+            "reenactment",
+            "investigation",
+            "cold-case",
+            "audience-participation",
+            "anthology-series"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "somber",
+            "eerie",
+            "introspective"
+          ],
+          "genre_and_tropes": [
+            "true-crime",
+            "mystery-drama",
+            "investigative-journalism"
+          ],
+          "setting": [
+            "various-locations",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "victim",
+            "investigator",
+            "witness",
+            "family-member"
+          ],
+          "narrative_style": [
+            "episodic",
+            "anthology"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "reenactment-scene",
+            "interview-room",
+            "crime-scene",
+            "police-file"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "disturbing-content"
+          ]
+        },
+        "keyword_sentence": "Unsolved Mysteries is a suspenseful anthology series that explores true crime and unexplained phenomena through dramatic reenactments and interviews, often seeking audience participation to uncover the truth behind disturbing mysteries."
+      },
+      "duration_seconds": 60.04258394241333
+    }
+  }
+}

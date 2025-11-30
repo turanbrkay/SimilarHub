@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "The Untouchables",
+    "overview": "Special Agent Eliot Ness and his elite team of incorruptible agents battle organized crime in 1930s Chicago.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "release_year": 1959,
+    "vote_count": 107
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Untouchables is a classic crime drama series set in 1930s Chicago, focusing on the efforts of Eliot Ness and his team to dismantle Al Capone's criminal empire. The show blends historical events with heightened drama and stylized action, exploring themes of justice, corruption, and the struggle against overwhelming odds. Its episodic structure allows for a focus on individual cases while maintaining a larger narrative arc of Capone's eventual downfall. The series is known for its iconic characters, memorable dialogue, and a distinctive visual style that evokes the era.",
+        "spoiler_rich_plot_summary": "The series begins with Eliot Ness, a Treasury agent, arriving in Chicago with a mandate to bring down Al Capone. He assembles a small, dedicated team – Lieutenant Sean O'Brien, Officer Jimmy Malone, and Agent Chester Goule – to combat Capone’s vast network of corruption. Early episodes focus on building the team and exposing Capone’s influence over the police force and judiciary. Ness and his men face constant threats and betrayals, with Goule eventually revealed to be a double agent working for Capone. Malone, a former cop, provides crucial insights into the criminal underworld, while O'Brien struggles with his own moral compass and familial ties to the Irish mob. As the series progresses, Ness and his team systematically target Capone’s operations, disrupting his bootlegging empire and exposing his crimes. The relentless pressure eventually leads to Capone’s conviction and imprisonment, though the fight against organized crime continues with new challenges and adversaries emerging.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "corruption",
+            "law-enforcement",
+            "organized-crime",
+            "moral-ambiguity",
+            "revenge",
+            "loyalty"
+          ],
+          "plot_and_concepts": [
+            "crime-procedural",
+            "undercover-operation",
+            "mob-ster",
+            "prohibition-era",
+            "revenge-plot",
+            "betrayal"
+          ],
+          "mood_and_tone": [
+            "noir",
+            "tense",
+            "gritty",
+            "dramatic",
+            "somber"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "historical-drama",
+            "police-procedural",
+            "revenge-story"
+          ],
+          "setting": [
+            "1930s-chicago",
+            "prohibition-era",
+            "urban-setting"
+          ],
+          "character_archetypes": [
+            "lawman",
+            "corrupt-official",
+            "mob-boss",
+            "double-agent",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "speakeasy",
+            "police-raid",
+            "courtroom-scene",
+            "fedora",
+            "tommy-gun"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "alcoholism"
+          ]
+        },
+        "keyword_sentence": "Set against the backdrop of 1930s Chicago during Prohibition, The Untouchables is a gritty crime drama exploring themes of justice and corruption as a dedicated team battles a powerful mob boss and his network of deceit."
+      },
+      "duration_seconds": 68.5465235710144
+    }
+  }
+}

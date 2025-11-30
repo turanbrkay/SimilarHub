@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "The Angry Beavers",
+    "overview": "The Angry Beavers is an American animated television series created by Mitch Schauer for the Nickelodeon channel. The series revolves around Daggett and Norbert Beaver, two young beaver brothers who have left their home to become bachelors in the forest near the fictional Wayouttatown, Oregon.",
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "release_year": 1997,
+    "vote_count": 193
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Angry Beavers is a comedic animated series centered on two young beaver brothers, Daggett and Norbert, who venture out to establish their own bachelor lifestyle in the wilderness. The show's humor derives from the brothers' chaotic antics, their dysfunctional relationship, and their interactions with the quirky inhabitants of the surrounding forest. It's a lighthearted and absurd exploration of sibling rivalry and the challenges of independence, delivered through a distinctive and often surreal animation style. The series blends slapstick comedy with quirky character designs and a whimsical setting, creating a consistently humorous and entertaining experience.",
+        "spoiler_rich_plot_summary": "The series begins with Daggett and Norbert leaving their parents' home to forge their own path as bachelors in the forest near Wayouttatown. Their attempts at independent living are consistently undermined by their own incompetence and their ongoing feud. Throughout the series, they encounter a variety of eccentric characters, including Stu Pine, a perpetually frustrated park ranger, and various forest creatures, each encounter escalating their chaotic behavior. While the brothers frequently clash and sabotage each other's plans, they also occasionally demonstrate a begrudging affection and reliance on one another. The series doesn't follow a grand overarching narrative, but rather a collection of self-contained episodes that showcase their misadventures and the absurdity of their existence. The brothers never truly mature or resolve their core issues, maintaining their immature and often destructive dynamic throughout the show's run.",
+        "categorized_keywords": {
+          "themes": [
+            "sibling-rivalry",
+            "independence",
+            "absurdity",
+            "immaturity",
+            "chaos"
+          ],
+          "plot_and_concepts": [
+            "slapstick-comedy",
+            "fish-out-of-water",
+            "ensemble-cast",
+            "monster-of-the-week"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "surreal",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "comedy",
+            "sitcom"
+          ],
+          "setting": [
+            "forest",
+            "oregon",
+            "wilderness"
+          ],
+          "character_archetypes": [
+            "mischievous-protagonist",
+            "quirky-sidekick"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "beaver-dam",
+            "pine-tree",
+            "forest-creatures"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Angry Beavers is a lighthearted animated comedy series that explores the chaotic and absurd adventures of two young beaver brothers as they navigate independence and sibling rivalry in the Oregon wilderness."
+      },
+      "duration_seconds": 56.48566508293152
+    }
+  }
+}

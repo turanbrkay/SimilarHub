@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Red vs. Blue",
+    "overview": "In the distant future, two groups of soldiers battle for control of the least desirable piece of real estate in the known universe: a box canyon in the middle of nowhere.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2003,
+    "vote_count": 55
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Red vs. Blue is a long-running comedic animated series that parodies real-time strategy games and military science fiction tropes. The show's premise revolves around two teams, Red and Blue, engaged in an endless, often absurd conflict over a desolate canyon. Its humor derives from character interactions, improvisational dialogue, and the subversion of genre conventions. The series blends elements of improvisation, satire, and surprisingly poignant character development, creating a unique and enduring comedic experience. The show's longevity is due to its ability to evolve its humor and storytelling while maintaining its core comedic foundation.",
+        "spoiler_rich_plot_summary": "The series initially presents a simple conflict: the Red and Blue teams are locked in a perpetual battle for control of a box canyon. Early seasons focus on the escalating absurdity of the conflict, with both sides employing increasingly ridiculous tactics and weaponry. As the series progresses, the characters begin to develop more complex personalities and relationships, often blurring the lines between the two teams. Flashbacks reveal the origins of the conflict and the characters' individual backstories, adding layers of depth and emotional resonance. Later seasons introduce new characters and storylines, exploring themes of friendship, betrayal, and the futility of war. The series culminates in a resolution that attempts to reconcile the opposing factions, though the underlying conflict remains a recurring element, suggesting a cyclical nature to their struggles. The characters grapple with existential questions and the meaning of their endless conflict, ultimately finding moments of connection and understanding amidst the chaos.",
+        "categorized_keywords": {
+          "themes": [
+            "war-satire",
+            "existentialism",
+            "friendship",
+            "betrayal",
+            "absurdism",
+            "identity-crisis"
+          ],
+          "plot_and_concepts": [
+            "real-time-strategy-parody",
+            "military-sci-fi",
+            "flashback-narrative",
+            "ongoing-conflict",
+            "character-driven-comedy"
+          ],
+          "mood_and_tone": [
+            "comedic",
+            "satirical",
+            "absurdist",
+            "lighthearted",
+            "witty"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "sci-fi-comedy",
+            "military-parody",
+            "found-family"
+          ],
+          "setting": [
+            "distant-future",
+            "box-canyon",
+            "alternate-reality"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "reluctant-leader",
+            "comedic-rival"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-comedy",
+            "character-focused"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "gamer-audience"
+          ],
+          "detail_plot": [
+            "box-canyon",
+            "laser-fire",
+            "mech-suits",
+            "command-center"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Red vs. Blue is a long-running animated series that satirizes military science fiction through absurdist humor and character-driven comedy, set in a distant future where two teams engage in an endless, lighthearted conflict over a desolate box canyon."
+      },
+      "duration_seconds": 57.31220555305481
+    }
+  }
+}

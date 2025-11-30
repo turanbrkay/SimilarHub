@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Mr. Mayor",
+    "overview": "A retired businessman runs for mayor of Los Angeles to prove he's \"still got it.\" Once he wins, he has to figure out what he stands for, gain the respect of his biggest critic and connect with his teenage daughter, all while trying to get anything right for America's second weirdest city.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2021,
+    "vote_count": 57
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Mr. Mayor is a comedic series centered on a retired businessman's unexpected foray into politics. The show explores themes of civic responsibility, family dynamics, and the challenges of leadership, blending lighthearted humor with moments of genuine reflection. It portrays a fish-out-of-water scenario as the protagonist navigates the complexities of Los Angeles city government while attempting to reconnect with his daughter and earn the respect of a skeptical city council member. The series aims to be a feel-good comedy with a focus on character development and relatable struggles.",
+        "spoiler_rich_plot_summary": "The series begins with James Beaumont, a successful businessman, impulsively deciding to run for mayor of Los Angeles as a publicity stunt. To everyone's surprise, he wins the election, forcing him to confront the realities of public service. He quickly finds himself at odds with his sharp-tongued press secretary, Mikaela, who constantly challenges his decisions and exposes his lack of political experience. Throughout the first season, James struggles to define his political stance, often relying on well-meaning but misguided advice from his staff. He attempts to bridge the gap with his teenage daughter, who is initially embarrassed by his newfound fame. As the season progresses, James begins to understand the weight of his position and the importance of genuine connection with the people he serves, slowly earning the respect of Mikaela and demonstrating a commitment to improving the city. The series follows his ongoing attempts to balance his personal life with the demands of his office, facing various crises and learning valuable lessons about leadership and responsibility.",
+        "categorized_keywords": {
+          "themes": [
+            "civic-responsibility",
+            "family-dynamics",
+            "leadership",
+            "political-comedy",
+            "redemption",
+            "generational-gap"
+          ],
+          "plot_and_concepts": [
+            "fish-out-of-water",
+            "political-satire",
+            "public-service",
+            "generational-conflict"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "optimistic",
+            "wholesome",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "political-comedy",
+            "fish-out-of-water"
+          ],
+          "setting": [
+            "los-angeles",
+            "modern-day",
+            "city-government"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "skeptical-mentor",
+            "teenage-daughter"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "city-hall",
+            "press-conference",
+            "political-campaign",
+            "teenage-daughter"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Mr. Mayor is a lighthearted comedic series set in Los Angeles, exploring themes of civic responsibility and family dynamics as a retired businessman navigates the challenges of public service and reconnects with his teenage daughter."
+      },
+      "duration_seconds": 61.62264537811279
+    }
+  }
+}

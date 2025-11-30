@@ -1,0 +1,99 @@
+{
+  "input_data": {
+    "title": "Arcane",
+    "overview": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
+    "genres": [
+      "Animation",
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "release_year": 2021,
+    "vote_count": 3341
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Arcane is a visually stunning animated drama that explores the stark class divide between the glittering city of Piltover and the grim undercity of Zaun, centering on the complex sibling relationship of Vi and Jinx. The series delves into trauma, identity crisis, and the clash between technology and magic as a crystal explosion unleashes a wave of political corruption and gang violence. Its gritty, emotional tone is amplified by a serialized, flashback‑rich narrative that blends action‑adventure with steampunk aesthetics.",
+        "spoiler_rich_plot_summary": "The story begins with a mysterious crystal experiment that goes awry, sending a powerful shard into the streets of Zaun and igniting a war between Piltover’s elite and Zaun’s rebellious factions. Vi, a skilled enforcer, and her sister Jinx, a volatile chemist, become entangled in a conflict that pits sorcerer‑technology against raw arcane power. Over ten episodes, their bond is tested by betrayal, political corruption, and gang violence, culminating in a climactic battle at the Piltover bridge where Vi confronts Jinx and Silco’s fate hangs in the balance, leaving the series on a dramatic cliffhanger that sets up future conflict.",
+        "themes": [
+          "class-divide",
+          "sibling-relationship",
+          "trauma",
+          "identity-crisis",
+          "corruption",
+          "technology-vs-magic",
+          "retribution",
+          "fate"
+        ],
+        "plot_and_concepts": [
+          "crystal-explosion",
+          "sorcerer-technology",
+          "sibling-rivalry",
+          "political-corruption",
+          "gang-violence",
+          "arcane-research",
+          "steampunk",
+          "vi-weapon",
+          "pocket-rocket",
+          "piltover-technology",
+          "zaun-chemistry"
+        ],
+        "mood_and_tone": [
+          "gritty",
+          "dark",
+          "emotional",
+          "intense",
+          "dramatic"
+        ],
+        "genre_and_tropes": [
+          "animated-drama",
+          "sci-fi-fantasy",
+          "action-adventure",
+          "sibling-drama",
+          "underclass-rebellion",
+          "techno-magic",
+          "steampunk"
+        ],
+        "setting": [
+          "piltover",
+          "zaun",
+          "modern-fantasy",
+          "steampunk-city"
+        ],
+        "character_archetypes": [
+          "anti-hero",
+          "tragedy",
+          "mentor",
+          "villain",
+          "sibling"
+        ],
+        "narrative_style": [
+          "serialized-story",
+          "flashback-structure"
+        ],
+        "target_audience": [
+          "mature-audiences"
+        ],
+        "detail_plot": [
+          "crystal",
+          "vi-weapon",
+          "pocket-rocket",
+          "factory",
+          "lab",
+          "piltover-bridge",
+          "zaun-docks",
+          "sorcerer-gear",
+          "alchemy-potion",
+          "techno-magic",
+          "shard",
+          "skull",
+          "pyramid",
+          "copper-gate"
+        ],
+        "keyword_sentence": "Arcane blends class-divide, sibling-relationship, technology-vs-magic, and trauma within a gritty, emotional, steampunk setting, featuring Vi and Jinx as anti-heroes in a serialized, action‑adventure narrative of crystal-explosion and political-corruption."
+      },
+      "duration_seconds": 235.75562381744385
+    }
+  }
+}

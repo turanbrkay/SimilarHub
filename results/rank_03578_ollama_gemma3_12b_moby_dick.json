@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Moby Dick",
+    "overview": "The sole survivor of a lost whaling ship relates the tale of his captain's self-destructive obsession to hunt the white whale, Moby Dick.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2011,
+    "vote_count": 34
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Moby Dick is a 2011 television miniseries that explores the psychological depths of obsession and the destructive power of nature. Based on Herman Melville's classic novel, the series follows a young sailor's account of his experiences aboard a whaling ship led by the enigmatic Captain Ahab, whose relentless pursuit of the legendary white whale, Moby Dick, consumes him and threatens the lives of his crew. The series blends elements of adventure, psychological drama, and maritime adventure, offering a visually stunning and emotionally intense portrayal of a man driven to the brink by his own demons. It examines themes of revenge, fate, and the insignificance of humanity in the face of the vast and indifferent ocean.",
+        "spoiler_rich_plot_summary": "The story begins with an unnamed narrator, a young man seeking adventure at sea, joining the whaling ship Pequod. He quickly learns that the ship is under the command of the driven and haunted Captain Ahab, who is consumed by a singular goal: to hunt and kill Moby Dick, the white whale that took his leg years prior. As the voyage progresses, Ahab's obsession intensifies, pushing the crew to their limits and disregarding safety protocols. The hunt for Moby Dick becomes a perilous journey, fraught with storms, encounters with other ships, and the constant threat of the whale's wrath. The crew, initially drawn to the adventure, gradually become wary of Ahab's increasingly erratic behavior and the potential consequences of his relentless pursuit. The final confrontation with Moby Dick is a catastrophic event, resulting in the destruction of the Pequod and the loss of all but the narrator, who is rescued after drifting at sea for days, forever marked by the tragedy he witnessed.",
+        "categorized_keywords": {
+          "themes": [
+            "obsession",
+            "revenge",
+            "fate",
+            "man-vs-nature",
+            "isolation",
+            "mortality",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "whaling-voyage",
+            "sea-adventure",
+            "manhunt",
+            "quest-for-vengeance",
+            "shipwreck"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "melancholy",
+            "epic",
+            "ominous",
+            "brooding"
+          ],
+          "genre_and_tropes": [
+            "adventure-drama",
+            "historical-drama",
+            "sea-faring-adventure",
+            "tragic-hero"
+          ],
+          "setting": [
+            "19th-century",
+            "atlantic-ocean",
+            "whaling-ship"
+          ],
+          "character_archetypes": [
+            "obsessed-captain",
+            "tragic-hero",
+            "young-protagonist",
+            "experienced-sailor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "first-person-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "whaling-harpoon",
+            "ship's-wheel",
+            "storm-at-sea",
+            "whale-blubber",
+            "captain's-cabin"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "death-and-loss"
+          ]
+        },
+        "keyword_sentence": "A dark and epic adventure drama set in the 19th century, Moby Dick explores themes of obsession and revenge as a young man recounts a tragic whaling voyage led by a captain consumed by his quest to destroy a legendary whale."
+      },
+      "duration_seconds": 64.43519926071167
+    }
+  }
+}

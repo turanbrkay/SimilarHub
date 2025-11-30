@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Highlander: The Series",
+    "overview": "Duncan MacLeod cannot die -- he is a 400-year-old immortal, who has seen his share of humanity's history. Still, he risks his life in battle against other immortals and tries to save people from harm.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Action & Adventure"
+    ],
+    "release_year": 1992,
+    "vote_count": 335
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Highlander: The Series follows Duncan MacLeod, an immortal warrior who has lived for centuries, as he battles other immortals in a quest for self-discovery and to protect humanity. The series blends action, fantasy, and drama, exploring themes of mortality, legacy, and the burden of eternal life. The show's episodic structure often features MacLeod confronting new immortals with unique abilities and motivations, while also delving into his personal history and the consequences of his extended existence. It's a show about finding purpose and connection across vast stretches of time, punctuated by thrilling sword fights and a melancholic sense of loss.",
+        "spoiler_rich_plot_summary": "The series begins with Duncan MacLeod, a seemingly ordinary man living in modern-day New York City, discovering his true nature as an immortal – a being who can only be killed by beheading. He is guided by his mentor, Jacob Kell, another immortal who teaches him about the Game, a secretive competition among immortals where they seek to defeat each other and claim the Prize, a vast accumulation of knowledge and power. As Duncan learns to navigate the Game, he confronts numerous enemies, each with their own agendas and fighting styles. Flashbacks reveal pieces of Duncan’s long and complex history, showcasing his involvement in significant historical events and the loss of loved ones throughout the centuries. He forms alliances and rivalries with other immortals, some seeking to help him, others determined to destroy him. The overarching narrative involves a recurring threat from powerful and ancient immortals, including the Kandarian, who seeks to dominate the Game and amass ultimate power. Duncan's quest for self-understanding and his desire to protect the innocent lead him on a journey across continents and through time, ultimately confronting his own demons and the true meaning of immortality.",
+        "categorized_keywords": {
+          "themes": [
+            "immortality",
+            "legacy",
+            "redemption",
+            "loss",
+            "identity-quest",
+            "good-vs-evil",
+            "fate"
+          ],
+          "plot_and_concepts": [
+            "sword-fighting",
+            "time-travel",
+            "secret-society",
+            "mentor-student-relationship",
+            "revenge",
+            "ancient-rivalries"
+          ],
+          "mood_and_tone": [
+            "melancholic",
+            "action-adventure",
+            "mysterious",
+            "dark"
+          ],
+          "genre_and_tropes": [
+            "fantasy",
+            "action-adventure",
+            "sword-and-sorcery",
+            "monster-of-the-week",
+            "epic-quest"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day",
+            "historical-settings",
+            "alternate-timeline"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "anti-hero",
+            "skilled-warrior"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "sword",
+            "beheading",
+            "prize",
+            "kandarian"
+          ],
+          "maturity_and_content": [
+            "violence"
+          ]
+        },
+        "keyword_sentence": "Highlander: The Series is a melancholic action-adventure series about an immortal warrior who battles ancient rivals across time, grappling with themes of legacy and loss in a world of sword fights and secret societies."
+      },
+      "duration_seconds": 70.2995719909668
+    }
+  }
+}

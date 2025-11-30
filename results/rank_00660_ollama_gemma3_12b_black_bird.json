@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Black Bird",
+    "overview": "As Jimmy Keene begins a 10-year prison sentence, he gets an incredible offer: If he can elicit a confession from suspected killer Larry Hall, Jimmy will be freed. Completing this mission becomes the challenge of a lifetime.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "release_year": 2022,
+    "vote_count": 433
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Black Bird is a tense psychological drama centered on a convicted drug dealer offered a chance at freedom by infiltrating a prison to extract a confession from a suspected serial killer. The series explores themes of guilt, redemption, and the complexities of morality, blurring the lines between perpetrator and investigator. It maintains a claustrophobic atmosphere, driven by compelling performances and a focus on the psychological toll of the investigation. The narrative unfolds as a cat-and-mouse game, examining the dark underbelly of the criminal justice system and the human capacity for both cruelty and compassion.",
+        "spoiler_rich_plot_summary": "The series begins with Jimmy Keene, a former high school football star, being sentenced to ten years in prison for drug trafficking. Desperate for a way out, he accepts a proposition from a federal agent: to befriend and interrogate Larry Hall, a suspected serial killer who claims to have murdered over a hundred people but has never been convicted. Jimmy enters the prison, attempting to gain Hall's trust while under constant surveillance. As Jimmy and Larry develop a complex relationship, Jimmy begins to question Hall's claims and the motivations of the agents orchestrating the operation. The investigation reveals unsettling truths about the prison system, the justice system, and the potential for manipulation on all sides. The series culminates in a tense confrontation where Jimmy must decide whether to believe Hall's confession and risk his own reputation and safety, or expose the potential for a larger conspiracy.",
+        "categorized_keywords": {
+          "themes": [
+            "redemption",
+            "guilt",
+            "justice-system",
+            "prison-life",
+            "manipulation",
+            "moral-ambiguity"
+          ],
+          "plot_and_concepts": [
+            "undercover-operation",
+            "serial-killer",
+            "confession",
+            "prison-investigation",
+            "true-crime"
+          ],
+          "mood_and_tone": [
+            "tense",
+            "suspenseful",
+            "dark",
+            "claustrophobic"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "psychological-thriller",
+            "true-crime-drama"
+          ],
+          "setting": [
+            "prison",
+            "modern-day",
+            "united-states"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "anti-hero",
+            "enigmatic-villain",
+            "corrupt-official"
+          ],
+          "narrative_style": [
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "prison-cell",
+            "interrogation-room",
+            "prison-yard",
+            "federal-agent"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "substance-abuse",
+            "sexual-content"
+          ]
+        },
+        "keyword_sentence": "Black Bird is a tense, suspenseful crime drama set within the confines of a prison, exploring themes of guilt, redemption, and the complexities of the justice system through a psychological thriller narrative."
+      },
+      "duration_seconds": 57.79923129081726
+    }
+  }
+}

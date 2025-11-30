@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Static Shock",
+    "overview": "The adventures of a teenage superhero who fights crime in Dakota City.",
+    "genres": [
+      "Action & Adventure",
+      "Animation",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2000,
+    "vote_count": 184
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Static Shock is an animated superhero series centered on Virgil Hawkins, a teenager who gains electromagnetic powers after a freak accident. The show blends action-adventure with social commentary, exploring themes of identity, responsibility, and community in a vibrant, urban setting. It balances thrilling superhero battles with relatable teen struggles and addresses issues of prejudice and inequality, offering a positive and empowering message for young viewers. The series is known for its dynamic animation style and its incorporation of contemporary music and cultural references.",
+        "spoiler_rich_plot_summary": "The series begins with Virgil Hawkins, a bright and ambitious student, relocating from Chicago to Dakota City with his family. During a lab accident, Virgil gains the ability to control electricity, transforming him into Static. Initially, Virgil struggles to control his powers and keep his identity secret from his family and friends. He begins fighting crime alongside his best friend Richie Foley, who becomes his tech support and confidant. As Static, Virgil confronts a variety of villains, including Ebon Hawk, a former friend who blames Virgil for a tragic event. Throughout the series, Virgil grapples with the responsibility of his powers and the challenges of balancing his superhero life with his personal life. He faces moral dilemmas, confronts systemic injustice, and learns the importance of teamwork and community. Recurring antagonists and complex storylines explore themes of redemption, forgiveness, and the consequences of violence. The series culminates in a final confrontation where Static must use all his skills and the support of his allies to protect Dakota City from a devastating threat, solidifying his role as a symbol of hope and justice.",
+        "categorized_keywords": {
+          "themes": [
+            "responsibility",
+            "identity-quest",
+            "social-justice",
+            "community",
+            "redemption",
+            "family-loyalty"
+          ],
+          "plot_and_concepts": [
+            "superhero-action",
+            "origin-story",
+            "revenge",
+            "scientific-accident",
+            "secret-identity"
+          ],
+          "mood_and_tone": [
+            "optimistic",
+            "action-oriented",
+            "lighthearted",
+            "empowering"
+          ],
+          "genre_and_tropes": [
+            "teen-drama",
+            "superhero-genre",
+            "found-family",
+            "coming-of-age"
+          ],
+          "setting": [
+            "urban-setting",
+            "modern-day",
+            "dakota-city"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "best-friend",
+            "antagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "young-adult",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "electromagnetic-powers",
+            "lab-accident",
+            "superhero-costume",
+            "tech-support"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Static Shock is an optimistic and action-oriented animated series that follows a young hero’s journey of responsibility and identity as he uses his electromagnetic powers to fight crime and champion social justice in a vibrant urban setting."
+      },
+      "duration_seconds": 62.158605098724365
+    }
+  }
+}

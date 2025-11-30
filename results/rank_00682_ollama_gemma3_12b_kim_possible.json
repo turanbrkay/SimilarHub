@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Kim Possible",
+    "overview": "If there's danger or trouble, Kim Possible is there on the double to save the world from villains... and still make it home in time for cheerleading practice! Luckily, Kim has her sidekick Ron Stoppable and his pet naked mole-rat Rufus by her side.",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Comedy",
+      "Kids"
+    ],
+    "release_year": 2002,
+    "vote_count": 417
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Kim Possible is a fast-paced, comedic action-adventure series aimed at a younger audience. The show blends elements of spy thrillers with high school life, following a teenage girl who balances saving the world with the everyday challenges of adolescence. It's characterized by its lighthearted tone, witty dialogue, and dynamic protagonist who defies traditional superhero tropes. The series explores themes of friendship, responsibility, and self-discovery, all while delivering action-packed sequences and humorous situations.",
+        "spoiler_rich_plot_summary": "The series begins with Kim Possible, a skilled teenage girl, teaming up with her clumsy but loyal best friend Ron Stoppable to combat various threats to the world. Their missions are often assigned by a shadowy organization known as Galactica, led by the exasperated Dr. Drakken and his bumbling henchman, Shego. Throughout the series, Kim and Ron face a recurring cast of villains, each with their own elaborate schemes. Ron's pet mole-rat, Rufus, frequently provides unexpected assistance. As the series progresses, Kim and Ron's relationship deepens, navigating the complexities of friendship and burgeoning feelings. They consistently thwart Dr. Drakken and Shego's plans, often dealing with personal challenges alongside global crises. The overarching narrative involves the ongoing battle against recurring villains and the evolution of Kim and Ron's skills and maturity.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "responsibility",
+            "self-discovery",
+            "teamwork",
+            "coming-of-age"
+          ],
+          "plot_and_concepts": [
+            "spy-thriller",
+            "action-comedy",
+            "villain-of-the-week",
+            "secret-identity",
+            "mission-based"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "humorous",
+            "optimistic",
+            "energetic"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "teen-comedy",
+            "superhero-parody",
+            "found-family"
+          ],
+          "setting": [
+            "modern-day",
+            "suburban-setting",
+            "high-school"
+          ],
+          "character_archetypes": [
+            "capable-heroine",
+            "loyal-sidekick",
+            "comedic-relief",
+            "eccentric-villain"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "kids",
+            "young-adults"
+          ],
+          "detail_plot": [
+            "naked-mole-rat",
+            "high-school-uniform",
+            "mission-briefing",
+            "villain-lair"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Kim Possible is a lighthearted action-adventure series for kids and young adults, blending high-school life with comedic spy thrills and a focus on friendship, responsibility, and a capable heroine saving the world with her loyal sidekick."
+      },
+      "duration_seconds": 55.32237219810486
+    }
+  }
+}

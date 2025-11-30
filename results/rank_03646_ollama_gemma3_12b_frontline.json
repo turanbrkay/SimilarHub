@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Frontline",
+    "overview": "Since it began in 1983, Frontline has been airing public-affairs documentaries that explore a wide scope of the complex human experience. Frontline's goal is to extend the impact of the documentary beyond its initial broadcast by serving as a catalyst for change.",
+    "genres": [
+      "Documentary",
+      "News",
+      "Talk"
+    ],
+    "release_year": 1983,
+    "vote_count": 33
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Frontline is a long-running American documentary series known for its in-depth investigations of complex social, political, and scientific issues. The series distinguishes itself through its meticulous research, balanced perspectives, and commitment to exploring challenging topics. Frontline aims to inform and engage audiences, often sparking public debate and contributing to a deeper understanding of critical events and trends. Its longevity speaks to its ability to adapt to changing landscapes while maintaining a core journalistic integrity. The series offers a thoughtful and often sobering look at the world, encouraging viewers to critically examine the information they consume.",
+        "spoiler_rich_plot_summary": "Frontline's format eschews a traditional narrative arc, instead presenting a series of independent documentaries each focusing on a specific topic. Early episodes explored issues like the AIDS crisis and the Iran-Contra affair, establishing a pattern of investigating significant events and controversies. Subsequent seasons have tackled subjects ranging from financial crises and political campaigns to technological advancements and social movements. Each documentary typically involves extensive interviews, archival footage, and investigative reporting, revealing hidden truths and challenging conventional wisdom. While there is no overarching plot, recurring themes of power, corruption, and social responsibility emerge across the series' many investigations, demonstrating the cyclical nature of human failings and the ongoing need for vigilance and accountability. The series consistently revisits topics, demonstrating the evolution of understanding and the persistence of underlying problems.",
+        "categorized_keywords": {
+          "themes": [
+            "investigative-journalism",
+            "social-responsibility",
+            "political-corruption",
+            "power-dynamics",
+            "accountability",
+            "public-affairs"
+          ],
+          "plot_and_concepts": [
+            "documentary-format",
+            "investigative-reporting",
+            "archival-footage",
+            "interview-driven",
+            "serialized-investigation"
+          ],
+          "mood_and_tone": [
+            "serious",
+            "thought-provoking",
+            "sobering",
+            "analytical",
+            "objective"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "news-magazine",
+            "public-affairs"
+          ],
+          "setting": [
+            "global",
+            "contemporary"
+          ],
+          "character_archetypes": [
+            "investigative-reporter",
+            "expert-witness",
+            "political-figure"
+          ],
+          "narrative_style": [
+            "non-linear-timeline",
+            "episodic-structure"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "informed-citizens"
+          ],
+          "detail_plot": [
+            "interview-segments",
+            "archival-video",
+            "data-visualization",
+            "expert-analysis"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Frontline is a long-running documentary series that provides a serious and analytical exploration of global public affairs, utilizing investigative reporting and expert analysis to shed light on complex social and political issues."
+      },
+      "duration_seconds": 71.29270839691162
+    }
+  }
+}

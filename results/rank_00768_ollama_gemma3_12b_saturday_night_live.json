@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Saturday Night Live",
+    "overview": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which parody contemporary culture and politics, are performed by a large and varying cast of repertory and newer cast members. Each episode is hosted by a celebrity guest, who usually delivers an opening monologue and performs in sketches with the cast, and features performances by a musical guest.",
+    "genres": [
+      "Comedy",
+      "News"
+    ],
+    "release_year": 1975,
+    "vote_count": 366
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Saturday Night Live is a long-running American sketch comedy and variety show known for its topical humor, celebrity hosts, and musical guests. The show's strength lies in its ability to satirize current events and pop culture through a rotating cast of performers. It has significantly influenced American comedy and continues to be a platform for emerging comedic talent. The show's format, blending live performance with pre-planned sketches, creates a unique and often unpredictable viewing experience. Its longevity is a testament to its adaptability and ability to reflect the ever-changing landscape of American society.",
+        "spoiler_rich_plot_summary": "Saturday Night Live debuted in 1975, quickly establishing itself as a cultural touchstone with its irreverent and often politically charged humor. Early seasons were marked by the rise of iconic performers and memorable sketches that defined a generation's comedic sensibilities. As the show progressed, it navigated shifts in political climates and evolving comedic tastes, consistently adapting its format and cast to remain relevant. Throughout its history, SNL has featured numerous celebrity hosts and musical guests, many of whom have become household names. While the show's format has remained largely consistent, the specific content and comedic style have evolved over the decades, reflecting changes in American culture and humor. The show has faced periods of transition and criticism, but has consistently rebounded, demonstrating its enduring appeal and ability to remain a vital part of the entertainment landscape.",
+        "categorized_keywords": {
+          "themes": [
+            "satire",
+            "pop-culture",
+            "political-commentary",
+            "celebrity-culture",
+            "social-criticism"
+          ],
+          "plot_and_concepts": [
+            "sketch-comedy",
+            "live-performance",
+            "monologue",
+            "parody",
+            "improvisation"
+          ],
+          "mood_and_tone": [
+            "irreverent",
+            "witty",
+            "satirical",
+            "humorous",
+            "topical"
+          ],
+          "genre_and_tropes": [
+            "sketch-comedy",
+            "variety-show",
+            "sitcom-parody",
+            "political-satire"
+          ],
+          "setting": [
+            "new-york-city",
+            "studio-setting",
+            "contemporary-setting"
+          ],
+          "character_archetypes": [
+            "comedian",
+            "host",
+            "musical-guest",
+            "recurring-character"
+          ],
+          "narrative_style": [
+            "episodic",
+            "anthology",
+            "live-broadcast"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "studio-audience",
+            "opening-monologue",
+            "cold-open",
+            "musical-performance",
+            "recurring-sketches"
+          ],
+          "maturity_and_content": [
+            "adult-humor",
+            "political-satire"
+          ]
+        },
+        "keyword_sentence": "Saturday Night Live is a long-running, live-broadcast variety show known for its satirical and irreverent adult humor, consistently commenting on pop culture and political events through a rotating cast of comedians and celebrity guests."
+      },
+      "duration_seconds": 58.69432282447815
+    }
+  }
+}

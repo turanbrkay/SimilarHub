@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "Maury",
+    "overview": "Veteran TV journalist Maury Povich tackles volatile issues with his guests and studio audience on this daily, hourlong talk show.",
+    "genres": [
+      "Talk"
+    ],
+    "release_year": 1991,
+    "vote_count": 36
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Maury is a long-running daily talk show hosted by journalist Maury Povich, known for its focus on volatile and often sensationalized social issues. The show's format typically involves interviews with guests discussing personal struggles, relationship conflicts, and controversial topics, often leading to emotionally charged confrontations and dramatic reveals. While offering a platform for individuals to share their stories, Maury has also been criticized for its exploitation of vulnerable people and its contribution to the sensationalization of personal struggles. The show's enduring popularity speaks to a public fascination with human drama and the exploration of complex social dynamics.",
+        "spoiler_rich_plot_summary": "Maury's narrative structure is episodic, revolving around individual guest segments that explore a specific conflict or personal challenge. Each episode presents a series of these segments, often dealing with relationship issues, paternity disputes, or other emotionally charged situations. The show's format relies heavily on audience participation and the revelation of surprising information, often culminating in dramatic confrontations between guests. While there isn't a continuous overarching plot, recurring themes of family, loyalty, and the consequences of personal choices emerge across multiple episodes. The show's longevity is due to its ability to consistently present relatable, albeit often extreme, human experiences to a broad audience, offering a glimpse into the complexities of interpersonal relationships and the challenges of navigating modern life.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "relationship-conflict",
+            "social-issues",
+            "personal-struggle",
+            "loyalty",
+            "consequences"
+          ],
+          "plot_and_concepts": [
+            "talk-show-format",
+            "audience-participation",
+            "revelation",
+            "confrontation"
+          ],
+          "mood_and_tone": [
+            "sensational",
+            "dramatic",
+            "volatile",
+            "emotional"
+          ],
+          "genre_and_tropes": [
+            "talk-show",
+            "reality-tv",
+            "human-interest"
+          ],
+          "setting": [
+            "studio-setting",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "vulnerable-individual",
+            "conflicted-participant"
+          ],
+          "narrative_style": [
+            "episodic-storytelling"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "studio-audience",
+            "confessional-interview",
+            "dna-test",
+            "surprise-revelation"
+          ],
+          "maturity_and_content": [
+            "emotional-distress",
+            "relationship-drama"
+          ]
+        },
+        "keyword_sentence": "Maury is a long-running talk show that explores volatile relationship conflicts and personal struggles through dramatic confrontations and surprise revelations in a studio setting."
+      },
+      "duration_seconds": 52.00319457054138
+    }
+  }
+}

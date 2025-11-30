@@ -1,0 +1,87 @@
+{
+  "input_data": {
+    "title": "The Watch",
+    "overview": "A group of misfit cops rise up from decades of helplessness to save their corrupt city from catastrophe. Inspired by the characters created by Sir Terry Pratchett’s famous “Discworld” novels.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "release_year": 2021,
+    "vote_count": 52
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Watch is a comedic fantasy series that reimagines Sir Terry Pratchett's Discworld as a contemporary urban fantasy setting. The show follows a group of unlikely law enforcement officers in the city of Ankh-Morpork, who must confront a rising tide of crime and corruption. Blending elements of police procedural, dark humor, and fantastical world-building, the series explores themes of justice, redemption, and the struggle against systemic inequality. The tone is generally lighthearted, but with a cynical edge, as the characters navigate a morally ambiguous world.",
+        "spoiler_rich_plot_summary": "The series begins with the death of a respected Watch officer, prompting a reluctant Captain Samuel Vimes to investigate. He assembles a team of unconventional recruits, including Carrot Ironfoundersson, a naive but honorable dwarf raised by humans, Angua von Überwald, a werewolf struggling with her dual nature, and Nobby Nobbs, a goblin with a checkered past. As they delve deeper into the investigation, they uncover a conspiracy that reaches the highest levels of Ankh-Morpork's government, revealing a plot to destabilize the city and seize power. The team faces numerous challenges, battling both mundane criminals and fantastical creatures, while confronting their own personal demons and questioning their roles in a corrupt system. Throughout the series, they uncover a larger threat that requires them to confront powerful forces and make difficult choices that will determine the fate of the city. The team's journey is marked by betrayals, unexpected alliances, and a gradual shift in their understanding of justice and responsibility.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "corruption",
+            "redemption",
+            "found-family",
+            "social-inequality",
+            "duty",
+            "moral-ambiguity"
+          ],
+          "plot_and_concepts": [
+            "police-investigation",
+            "conspiracy",
+            "urban-fantasy",
+            "crime-procedural",
+            "mystery",
+            "political-intrigue"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "satirical",
+            "cynical",
+            "witty",
+            "gritty"
+          ],
+          "genre_and_tropes": [
+            "fantasy",
+            "crime",
+            "satire",
+            "found-family",
+            "buddy-cop"
+          ],
+          "setting": [
+            "ankh-morpork",
+            "fantasy-city",
+            "modern-day",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "anti-hero",
+            "naive-protagonist",
+            "morally-gray-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "mystery-driven"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "police-badge",
+            "fantasy-creatures",
+            "city-streets",
+            "underworld-club",
+            "gothic-architecture"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "dark-humor"
+          ]
+        },
+        "keyword_sentence": "Set in the fantastical city of Ankh-Morpork, The Watch is a darkly comic crime series that follows a group of misfit cops as they confront corruption and fight for justice in a morally ambiguous world."
+      },
+      "duration_seconds": 66.77857041358948
+    }
+  }
+}

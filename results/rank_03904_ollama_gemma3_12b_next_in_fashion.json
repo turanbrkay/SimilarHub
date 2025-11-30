@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Next in Fashion",
+    "overview": "Talented designers from around the world compete for $250,000 and the chance to become the next big thing in fashion.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2020,
+    "vote_count": 29
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Next in Fashion is a reality competition series showcasing emerging fashion designers vying for a significant cash prize and industry recognition. The show blends design challenges with personal narratives, exploring the creative process and the pressures of the fashion world. It offers a lighthearted and inspiring look at the talent and ambition driving the next generation of fashion innovators, appealing to a broad audience interested in design, creativity, and entrepreneurial spirit. The series emphasizes innovation and pushing boundaries within the fashion industry, fostering a sense of community among the contestants.",
+        "spoiler_rich_plot_summary": "The series begins with a diverse group of designers from around the globe, each presenting their unique style and vision. Throughout the competition, they face weekly design challenges that test their skills in various areas, from creating cohesive collections to adapting to unexpected materials and themes. The designers are judged on their creativity, technical ability, and overall aesthetic. As the competition progresses, the challenges become increasingly difficult, forcing the designers to push their limits and showcase their ability to innovate. Eliminations occur after each challenge, narrowing the field of competitors. The final episode features a head-to-head challenge where the remaining designers present their best work to a panel of judges and a live audience. Ultimately, one designer is crowned the winner, receiving the grand prize and the opportunity to advance their career in the fashion industry.",
+        "categorized_keywords": {
+          "themes": [
+            "fashion-design",
+            "competition",
+            "creativity",
+            "innovation",
+            "entrepreneurship",
+            "self-expression"
+          ],
+          "plot_and_concepts": [
+            "design-challenges",
+            "elimination-rounds",
+            "fashion-show",
+            "judging-panel"
+          ],
+          "mood_and_tone": [
+            "inspiring",
+            "lighthearted",
+            "competitive",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "reality-competition",
+            "fashion-show",
+            "design-contest"
+          ],
+          "setting": [
+            "fashion-industry",
+            "design-studio",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "aspiring-designer",
+            "creative-visionary",
+            "fashion-innovator"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "elimination-format"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "fashion-enthusiasts"
+          ],
+          "detail_plot": [
+            "design-brief",
+            "runway-show",
+            "judges-comments",
+            "final-collection"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Next in Fashion is an inspiring reality competition series showcasing the creativity and ambition of aspiring designers as they navigate design challenges and strive to become the next big thing in the fashion industry."
+      },
+      "duration_seconds": 72.82859516143799
+    }
+  }
+}

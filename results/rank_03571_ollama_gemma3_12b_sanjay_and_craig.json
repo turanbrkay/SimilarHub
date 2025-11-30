@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "Sanjay and Craig",
+    "overview": "Sanjay and Craig is an American animated television series produced by Nickelodeon. The show is about a 12-year-old boy named Sanjay Patel who owns a talking pet snake named Craig.",
+    "genres": [
+      "Family",
+      "Animation",
+      "Comedy"
+    ],
+    "release_year": 2013,
+    "vote_count": 34
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Sanjay and Craig is a Nickelodeon animated series geared towards a younger audience, blending comedic elements with a focus on friendship and adventure. The show centers on the unlikely bond between a boy and his talking snake, exploring everyday situations through a whimsical and often absurd lens. It's a lighthearted and visually engaging series that emphasizes the power of imagination and the importance of embracing differences. The show's humor is largely slapstick and situational, appealing to a family-friendly demographic. Overall, it offers a simple, entertaining narrative focused on the joys of childhood and the unique perspective of having a talking pet.",
+        "spoiler_rich_plot_summary": "The series begins with Sanjay Patel discovering that his pet snake, Craig, can talk. They quickly become best friends and embark on various adventures together, often involving schemes to improve their social standing at school or to experience something new and exciting. Throughout the series, Sanjay and Craig navigate the challenges of friendship, dealing with rivalries, misunderstandings, and the complexities of growing up. They frequently encounter eccentric characters and bizarre situations, leading to humorous and often chaotic outcomes. While they face setbacks and learn valuable lessons about responsibility and loyalty, their bond remains strong, and they continue to find creative ways to entertain themselves and their friends. The show maintains a consistent tone of lighthearted fun, with no major overarching conflicts or dramatic resolutions, focusing instead on episodic adventures and the enduring friendship between a boy and his talking snake.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "adventure",
+            "growing-up",
+            "family",
+            "acceptance",
+            "imagination"
+          ],
+          "plot_and_concepts": [
+            "talking-animal",
+            "slapstick-comedy",
+            "school-life",
+            "episodes"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "humorous",
+            "playful"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "comedy",
+            "family-comedy"
+          ],
+          "setting": [
+            "modern-day",
+            "suburban-setting"
+          ],
+          "character_archetypes": [
+            "unlikely-friends",
+            "mischievous-protagonist"
+          ],
+          "narrative_style": [
+            "episodic-story"
+          ],
+          "target_audience": [
+            "children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "talking-snake",
+            "school-bus",
+            "pizza-shop",
+            "neighborhood"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Sanjay and Craig is a lighthearted animated comedy series about the enduring friendship between a boy and his talking snake, exploring themes of adventure and growing up in a playful suburban setting."
+      },
+      "duration_seconds": 51.97434592247009
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Love/Hate",
+    "overview": "Modern-day underworld characters Nidge and John Boy wrestle for control of Dublin's illicit drug trade in this forceful crime drama.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2010,
+    "vote_count": 36
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Love/Hate is a gritty crime drama series set in modern-day Dublin, Ireland, offering a stark and unflinching portrayal of the city's criminal underworld. The series explores the complex dynamics of drug trafficking, gang violence, and the personal lives of those involved, examining themes of loyalty, betrayal, and the cyclical nature of violence. It distinguishes itself through its realistic depiction of Irish culture and its focus on the psychological toll of a life immersed in crime. The series offers a tense and often disturbing viewing experience, characterized by its raw intensity and lack of romanticization of criminal activity.",
+        "spoiler_rich_plot_summary": "The series initially centers on the Dublin City Gang (DCG), led by Nidge and Fran, as they navigate the competitive drug trade. Early seasons establish the power struggles within the gang and the escalating violence as rival factions, particularly the Delorean gang, challenge their dominance. Fran's death triggers a chain of events that further destabilizes the DCG, leading to increased paranoia and internal conflict. Nidge, struggling with grief and a growing sense of isolation, becomes increasingly ruthless in his pursuit of power and revenge. Later seasons introduce new characters and explore the impact of the criminal lifestyle on families and communities, showcasing the devastating consequences of choices made within the underworld. The series culminates in a tense and unpredictable resolution, leaving the future of the remaining characters uncertain and highlighting the enduring legacy of violence and loss.",
+        "categorized_keywords": {
+          "themes": [
+            "crime",
+            "violence",
+            "loyalty",
+            "betrayal",
+            "grief",
+            "power",
+            "redemption",
+            "family-dynamics"
+          ],
+          "plot_and_concepts": [
+            "drug-trade",
+            "gang-war",
+            "revenge-plot",
+            "police-investigation",
+            "organized-crime"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "dark",
+            "tense",
+            "realistic",
+            "bleak"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "gangster-film",
+            "noir",
+            "slow-burn"
+          ],
+          "setting": [
+            "dublin-city",
+            "modern-day",
+            "irish-culture"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "ruthless-gangster",
+            "corrupt-official",
+            "reluctant-informant"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "drug-deal",
+            "police-raid",
+            "gang-meeting",
+            "prison-cell"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "drug-abuse",
+            "profanity"
+          ]
+        },
+        "keyword_sentence": "Love/Hate is a gritty crime drama set in modern-day Dublin, exploring themes of violence, loyalty, and betrayal within the complex world of the Irish drug trade."
+      },
+      "duration_seconds": 57.69227957725525
+    }
+  }
+}

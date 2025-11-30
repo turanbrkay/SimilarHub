@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Total Drama Action",
+    "overview": "After losing a chance to win a million dollars, campers from \"Total Drama Island\" get a second chance to win a million dollars through movie-oriented challenges for the next 6 weeks.",
+    "genres": [
+      "Action & Adventure",
+      "Animation",
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2009,
+    "vote_count": 48
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Total Drama Action is an animated reality competition series that follows a group of teenagers as they compete in a series of film-themed challenges for a chance to win a million dollars. The show blends elements of action, adventure, comedy, and drama, creating a fast-paced and often chaotic viewing experience. It relies heavily on character-driven humor and interpersonal conflict, exploring themes of ambition, friendship, and the pressures of competition. The series maintains a lighthearted tone despite the high stakes, offering a comedic take on the reality television format.",
+        "spoiler_rich_plot_summary": "Following their defeat on Total Drama Island, a group of campers are given a second chance at fame and fortune by competing in a series of film-themed challenges. The season begins with the campers divided into two teams, led by Chris McLean and Duncan. Throughout the challenges, the teams face increasingly difficult and dangerous scenarios, often involving stunts and special effects. Internal conflicts and rivalries within the teams escalate, leading to betrayals and unexpected eliminations. As the competition progresses, the campers are forced to confront their own limitations and the lengths they will go to for victory. The season culminates in a final showdown between the remaining contestants, where one team will ultimately claim the million-dollar prize, though the victory is often bittersweet given the sacrifices made along the way.",
+        "categorized_keywords": {
+          "themes": [
+            "competition",
+            "friendship",
+            "ambition",
+            "rivalry",
+            "sacrifice",
+            "fame"
+          ],
+          "plot_and_concepts": [
+            "reality-competition",
+            "film-themed-challenges",
+            "team-based-competition",
+            "elimination-format"
+          ],
+          "mood_and_tone": [
+            "comedic",
+            "fast-paced",
+            "chaotic",
+            "lighthearted"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "animated-comedy",
+            "reality-tv",
+            "found-family"
+          ],
+          "setting": [
+            "various-locations",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "rivals",
+            "underdog",
+            "comedic-relief",
+            "ambitious-contestant"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult"
+          ],
+          "detail_plot": [
+            "film-sets",
+            "stunt-sequences",
+            "elimination-ceremony",
+            "challenge-courses"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Total Drama Action is a fast-paced, animated reality competition series that blends action, comedy, and drama as a group of teenagers compete in film-themed challenges for a chance at fame and fortune."
+      },
+      "duration_seconds": 56.67822980880737
+    }
+  }
+}

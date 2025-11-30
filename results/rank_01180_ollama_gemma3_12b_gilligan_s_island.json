@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Gilligan's Island",
+    "overview": "The slapstick adventures of hapless Gilligan, long-suffering Skipper and their gang of mismatched castaways, all stranded on an uncharted desert isle after their tiny ship hit stormy weather.",
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "release_year": 1964,
+    "vote_count": 208
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Gilligan's Island is a classic American sitcom centered on a group of disparate individuals shipwrecked on a deserted island. The series blends physical comedy with situational humor, exploring the challenges and absurdities of survival and interpersonal dynamics in an isolated environment. While ostensibly lighthearted, the show subtly examines themes of resourcefulness, cooperation, and the resilience of the human spirit, all wrapped in a consistently optimistic and family-friendly package. The enduring appeal of Gilligan's Island lies in its simple premise, charming characters, and timeless comedic sensibilities.",
+        "spoiler_rich_plot_summary": "The series begins with a group of strangers – including a movie star, a millionaire, a professor, a castaway, a photographer, a tour guide, and the perpetually inept Gilligan – aboard a small yacht en route to a Hawaiian vacation. A sudden storm shipwrecks them on a seemingly deserted island in the Pacific. Each episode typically revolves around their attempts to escape the island or to improve their living conditions, often resulting in comical failures and unexpected discoveries. The Professor, a brilliant but eccentric inventor, frequently attempts to build a radio or other device to signal for help, while Gilligan's blunders consistently thwart these efforts. Over time, the castaways adapt to their surroundings, building a makeshift society and developing unique skills. Despite numerous close calls and fleeting hopes of rescue, they remain stranded, their fates intertwined by circumstance and their shared predicament. The series concludes with a mysterious and unexplained rescue, leaving the audience to ponder the true nature of their island and the forces that governed their experience.",
+        "categorized_keywords": {
+          "themes": [
+            "survival",
+            "friendship",
+            "optimism",
+            "resourcefulness",
+            "isolation",
+            "comedy-of-errors"
+          ],
+          "plot_and_concepts": [
+            "shipwreck",
+            "desert-island",
+            "comedy-sitcom",
+            "invention",
+            "rescue-attempt"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "slapstick",
+            "optimistic",
+            "family-friendly"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "comedy",
+            "fish-out-of-water",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "desert-island",
+            "pacific-ocean",
+            "1960s"
+          ],
+          "character_archetypes": [
+            "bumbling-sidekick",
+            "eccentric-genius",
+            "wealthy-socialite",
+            "resourceful-leader"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "bamboo-hut",
+            "coconut",
+            "swiss-family-robertson",
+            "life-raft",
+            "radio-transmitter"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Gilligan's Island is a lighthearted and family-friendly sitcom about a group of quirky characters stranded on a desert island, where they navigate comical survival challenges with optimism and resourcefulness."
+      },
+      "duration_seconds": 62.8681902885437
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "The Watcher",
+    "overview": "A family moves into their suburban dream home, only to discover they've inherited a nightmare.",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2022,
+    "vote_count": 466
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Watcher is a psychological drama and mystery series centered on a family's unsettling experience after purchasing a seemingly idyllic suburban home. The series explores themes of paranoia, familial secrets, and the dark underbelly of seemingly perfect communities. The narrative unfolds with a slow-burn tension, blurring the lines between reality and delusion as the family grapples with the unsettling presence of a mysterious watcher. The show blends elements of suspense and psychological horror, creating a claustrophobic atmosphere and questioning the trustworthiness of those around them. Ultimately, it's a story about the fragility of the American dream and the enduring power of the past.",
+        "spoiler_rich_plot_summary": "The series begins with Nora and Dean Brannock purchasing their dream home at 657 Blissview Drive. Shortly after moving in, they begin receiving anonymous letters from someone calling themselves 'The Watcher,' claiming to be observing the family and hinting at a dark history connected to the house. As the letters escalate, the Brannocks become increasingly paranoid and desperate to uncover the identity of The Watcher. Their investigation leads them down a rabbit hole of local legends, past residents, and unsettling discoveries about the house's previous owners. They uncover a complex web of secrets and lies, suggesting that the house has been a focal point for unsettling events for decades. The family's relationships are strained as they struggle to cope with the psychological torment and the growing suspicion that someone within their own community is responsible. The search for The Watcher reveals a disturbing connection to a local cult and a long-standing feud between families in the neighborhood. Ultimately, the identity of The Watcher is revealed to be more complex than initially suspected, involving multiple individuals and a shared history of trauma and obsession. The series concludes with the Brannocks confronting the truth about their new home and the dark legacy it holds, leaving them forever changed by their experience.",
+        "categorized_keywords": {
+          "themes": [
+            "paranoia",
+            "family-secrets",
+            "suburban-nightmare",
+            "identity-crisis",
+            "past-haunting",
+            "obsession"
+          ],
+          "plot_and_concepts": [
+            "anonymous-letters",
+            "mystery-investigation",
+            "cult-activity",
+            "small-town-secrets",
+            "generational-trauma"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "creepy",
+            "claustrophobic",
+            "psychological-horror",
+            "unsettling"
+          ],
+          "genre_and_tropes": [
+            "psychological-thriller",
+            "mystery",
+            "domestic-suspense",
+            "small-town-mystery"
+          ],
+          "setting": [
+            "suburban-america",
+            "modern-day",
+            "new-jersey"
+          ],
+          "character_archetypes": [
+            "paranoid-protagonist",
+            "skeptical-spouse",
+            "enigmatic-neighbor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "slow-burn-mystery"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "anonymous-note",
+            "old-photographs",
+            "basement-door",
+            "neighborhood-gossip"
+          ],
+          "maturity_and_content": [
+            "psychological-manipulation",
+            "stalking"
+          ]
+        },
+        "keyword_sentence": "The Watcher is a suspenseful psychological thriller set in suburban America, exploring themes of paranoia and family secrets as a family confronts a mysterious stalker and uncovers a dark history within their new home."
+      },
+      "duration_seconds": 82.32329893112183
+    }
+  }
+}

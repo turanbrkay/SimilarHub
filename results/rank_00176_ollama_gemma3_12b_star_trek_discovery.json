@@ -1,0 +1,85 @@
+{
+  "input_data": {
+    "title": "Star Trek: Discovery",
+    "overview": "Follow the voyages of Starfleet on their missions to discover new worlds and new life forms, and one Starfleet officer who must learn that to truly understand all things alien, you must first understand yourself.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "release_year": 2017,
+    "vote_count": 1542
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Star Trek: Discovery is a science fiction series that serves as a continuation of the Star Trek franchise, exploring themes of identity, morality, and the consequences of war. The series follows a new crew aboard the starship Discovery as they embark on perilous missions, often blurring the lines between right and wrong. It blends action-adventure with character-driven drama, examining the psychological toll of conflict and the complexities of leadership. The show aims to reinvigorate the Star Trek universe for a modern audience, incorporating serialized storytelling and a more emotionally intense narrative style.",
+        "spoiler_rich_plot_summary": "The series begins with Michael Burnham, a human raised by Vulcan parents, being dishonorably discharged from Starfleet after a disastrous first contact incident. Years later, the Federation is embroiled in a devastating war with the Klingon Empire. Discovery is tasked with a clandestine mission to find a way to end the conflict, leading the crew into uncharted territory and forcing them to confront difficult ethical dilemmas. The crew encounters numerous challenges, including internal conflicts, betrayals, and encounters with advanced alien civilizations. As the war escalates, the crew discovers a mysterious signal originating from a previously unknown region of space, leading them on a quest to uncover its secrets. The discovery of the signal ultimately leads to a confrontation with the Mirror Universe, a dark reflection of the Federation, and a desperate attempt to prevent a catastrophic event that could threaten the entire galaxy. The series explores the ramifications of time travel, alternate realities, and the enduring struggle between hope and despair, culminating in a reshaping of the established Star Trek timeline.",
+        "categorized_keywords": {
+          "themes": [
+            "identity-quest",
+            "morality-conflict",
+            "war-and-peace",
+            "redemption",
+            "hope-and-despair",
+            "alternate-realities"
+          ],
+          "plot_and_concepts": [
+            "time-travel",
+            "alternate-universe",
+            "first-contact",
+            "war-strategy",
+            "political-intrigue",
+            "space-exploration"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "suspenseful",
+            "action-packed",
+            "emotionally-intense",
+            "grim"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "space-opera",
+            "military-sci-fi",
+            "found-family",
+            "serialized-story"
+          ],
+          "setting": [
+            "space-exploration",
+            "alternate-timeline",
+            "galactic-empire",
+            "starship-discovery"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "morally-gray-protagonist",
+            "wise-mentor",
+            "military-leader"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "starship-discovery",
+            "warp-drive",
+            "phaser-weapon",
+            "tricorder",
+            "uniforms"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "political-tension"
+          ]
+        },
+        "keyword_sentence": "Star Trek: Discovery is a darkly comic and emotionally intense science fiction series that explores themes of identity and morality amidst a galactic war, blending space exploration with political intrigue and a serialized narrative style."
+      },
+      "duration_seconds": 67.03965306282043
+    }
+  }
+}

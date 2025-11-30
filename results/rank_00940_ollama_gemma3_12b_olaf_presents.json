@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Olaf Presents",
+    "overview": "Frozen’s beloved snowman retelling several classic Disney tales as only he can.",
+    "genres": [
+      "Animation",
+      "Family",
+      "Comedy"
+    ],
+    "release_year": 2021,
+    "vote_count": 280
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Olaf Presents is a lighthearted animated series that reimagines classic Disney stories through the naive and enthusiastic perspective of Olaf, the snowman from Frozen. The show blends comedy and heartwarming moments as Olaf attempts to narrate these familiar tales, often with humorous and unexpected results due to his limited understanding and tendency to embellish. It's a family-friendly series designed to evoke nostalgia and charm audiences with its whimsical storytelling and Olaf's infectious optimism. The series leans heavily on meta-humor and self-referential jokes, appealing to both children and adults familiar with the Disney canon.",
+        "spoiler_rich_plot_summary": "The series follows Olaf as he decides to become a storyteller, inspired by his love of tales. Each episode centers around a different Disney classic, which Olaf attempts to recount to his friends Sven, Kristoff, and Anna. However, Olaf's retelling is often inaccurate and filled with his own imaginative interpretations, leading to comical misunderstandings and altered plot points. He frequently inserts himself into the stories, creating humorous scenarios and often disrupting the original narrative. While the core essence of the Disney stories remains recognizable, Olaf's narration introduces a layer of playful chaos and unexpected twists. The series doesn't present a grand overarching plot, but rather a collection of self-contained comedic episodes, each offering a fresh and amusing take on beloved Disney stories. Olaf's journey is one of self-discovery as he learns about the power of storytelling and the importance of accuracy, though his enthusiasm often gets the better of him.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "storytelling",
+            "nostalgia",
+            "imagination",
+            "self-discovery"
+          ],
+          "plot_and_concepts": [
+            "reimagining-classics",
+            "meta-humor",
+            "comedic-retelling",
+            "anthology-series"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "charming",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "animated-comedy",
+            "family-audience",
+            "anthology",
+            "reboot"
+          ],
+          "setting": [
+            "arendelle",
+            "fantasy-world",
+            "disney-canon"
+          ],
+          "character_archetypes": [
+            "naive-protagonist",
+            "optimistic-friend",
+            "comic-relief"
+          ],
+          "narrative_style": [
+            "episodic",
+            "anthology-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "snowman",
+            "reindeer",
+            "frozen-characters",
+            "disney-villains"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Olaf Presents is a lighthearted animated series that reimagines classic Disney stories through the eyes of a naive and optimistic snowman, offering a charming and wholesome experience for the whole family."
+      },
+      "duration_seconds": 56.823156118392944
+    }
+  }
+}

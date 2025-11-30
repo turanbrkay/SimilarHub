@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "The Flash",
+    "overview": "When a bolt of lightening crashes through a police crime lab, a mix of electrically charged substances bathes chemist Barry Allen, transforming him into the fastest man alive--The Flash.",
+    "genres": [
+      "Action & Adventure",
+      "Crime",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1990,
+    "vote_count": 442
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Flash, originating as a 1990 television series, is a superhero action-adventure show centered on Barry Allen, a forensic scientist imbued with superhuman speed. The series blends elements of crime procedural with fantastical science fiction, exploring themes of responsibility, sacrifice, and the consequences of extraordinary power. It offers a generally lighthearted and optimistic tone, punctuated by moments of dramatic tension as Barry confronts both criminal threats and personal challenges related to his newfound abilities. The show's appeal lies in its blend of action, humor, and a focus on character development as Barry navigates his dual life.",
+        "spoiler_rich_plot_summary": "The series begins with Barry Allen, a police forensic scientist, being struck by lightning during a lab accident, granting him superhuman speed. He adopts the identity of The Flash to fight crime in Central City, initially focusing on stopping the Weather Warrior and other metahuman threats. As the series progresses, Barry confronts a recurring nemesis in the form of Captain Cold and his Rogues Gallery, a group of criminals with unique abilities. Throughout his crime-fighting endeavors, Barry grapples with the personal cost of his powers, balancing his responsibilities as a hero with his relationships with friends and family. The series explores the origins of these villains and their connection to Barry's past, revealing complex motivations and tragic backstories. While consistently battling new threats, Barry also faces moral dilemmas and must confront the potential for his powers to be misused, leading to significant personal growth and a deeper understanding of his role as a protector of Central City. The overarching narrative involves a constant struggle to maintain balance and prevent the emergence of even greater dangers, ultimately showcasing the enduring importance of hope and perseverance in the face of adversity.",
+        "categorized_keywords": {
+          "themes": [
+            "responsibility",
+            "sacrifice",
+            "hope",
+            "perseverance",
+            "good-vs-evil",
+            "identity-quest"
+          ],
+          "plot_and_concepts": [
+            "superhero-action",
+            "crime-fighting",
+            "metahuman-powers",
+            "rogues-gallery",
+            "dual-identity",
+            "time-travel"
+          ],
+          "mood_and_tone": [
+            "optimistic",
+            "lighthearted",
+            "dramatic",
+            "action-packed"
+          ],
+          "genre_and_tropes": [
+            "superhero-genre",
+            "crime-procedural",
+            "sci-fi-fantasy",
+            "origin-story"
+          ],
+          "setting": [
+            "central-city",
+            "modern-day",
+            "police-lab"
+          ],
+          "character_archetypes": [
+            "superhero",
+            "forensic-scientist",
+            "villain",
+            "mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "lightning-bolt",
+            "police-uniform",
+            "speed-force",
+            "rogues-gallery"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Flash is an optimistic and action-packed superhero series blending crime-fighting and sci-fi fantasy elements, following a forensic scientist who must balance his dual identity and confront a rogues gallery while embracing themes of responsibility and perseverance in a modern-day setting."
+      },
+      "duration_seconds": 59.29284310340881
+    }
+  }
+}

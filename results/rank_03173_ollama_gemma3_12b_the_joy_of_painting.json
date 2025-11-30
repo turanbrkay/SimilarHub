@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "The Joy of Painting",
+    "overview": "The Joy of Painting was an American television show hosted by painter Bob Ross that taught its viewers techniques for landscape oil painting. Although Ross could complete a painting in half an hour, the intent of the show was not to teach viewers \"speed painting\". Rather, he intended for viewers to learn certain techniques within the time that the show was allotted. The show began on January 11, 1983, and lasted until May 17, 1994, a year before Ross' death.",
+    "genres": [
+      "Family",
+      "Documentary"
+    ],
+    "release_year": 1983,
+    "vote_count": 43
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Joy of Painting is a beloved American television series that offers viewers a calming and accessible introduction to landscape oil painting. Hosted by Bob Ross, the show emphasizes relaxation and creativity, encouraging viewers to explore their artistic potential regardless of experience. The program's gentle tone and Ross's soothing demeanor create a uniquely therapeutic viewing experience, fostering a sense of peace and accomplishment. It's a celebration of nature and the power of artistic expression, appealing to a broad audience seeking a respite from the stresses of daily life.",
+        "spoiler_rich_plot_summary": "The Joy of Painting doesn't follow a traditional narrative arc. Each episode begins with Bob Ross introducing the landscape he intends to paint, typically a serene vista featuring mountains, trees, or water. He then systematically demonstrates various painting techniques, explaining his choices and encouraging viewers to experiment. While there's no overarching plot, each episode culminates in a completed painting, representing a small victory and a testament to the power of creativity. The series' longevity and enduring popularity stem from its consistent format and Ross's ability to connect with viewers on a personal level, offering a sense of comfort and inspiration throughout its run.",
+        "categorized_keywords": {
+          "themes": [
+            "art-therapy",
+            "nature-appreciation",
+            "creative-expression",
+            "relaxation",
+            "self-discovery"
+          ],
+          "plot_and_concepts": [
+            "painting-tutorial",
+            "step-by-step-guide",
+            "landscape-painting",
+            "oil-painting"
+          ],
+          "mood_and_tone": [
+            "calming",
+            "peaceful",
+            "wholesome",
+            "optimistic",
+            "gentle"
+          ],
+          "genre_and_tropes": [
+            "educational-tv",
+            "how-to-show",
+            "family-entertainment"
+          ],
+          "setting": [
+            "studio-setting",
+            "natural-landscapes"
+          ],
+          "character_archetypes": [
+            "gentle-mentor",
+            "artistic-guide"
+          ],
+          "narrative_style": [
+            "episodic-format",
+            "demonstration-based"
+          ],
+          "target_audience": [
+            "family-audience",
+            "beginners"
+          ],
+          "detail_plot": [
+            "oil-paints",
+            "brushes",
+            "canvas",
+            "happy-little-trees",
+            "bob-ross-wig"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Joy of Painting offers a calming and accessible introduction to landscape oil painting, fostering creative expression and appreciation for nature through a gentle and optimistic demonstration-based format."
+      },
+      "duration_seconds": 58.91839289665222
+    }
+  }
+}

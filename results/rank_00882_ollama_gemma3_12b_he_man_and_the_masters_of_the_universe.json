@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "He-Man and the Masters of the Universe",
+    "overview": "When Adam, Prince of the planet Eternia, raises his magic sword he transforms into He-Man (the most powerful man in the universe).  With his allies and friends, he battles the evil Skeletor and his minions to protect the secrets of Castle Greyskull.",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1983,
+    "vote_count": 302
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "He-Man and the Masters of the Universe is a vibrant animated action-adventure series centered on the ongoing battle between the heroic He-Man and the villainous Skeletor for control of Castle Greyskull and the power it holds. The show blends elements of fantasy, science fiction, and action, targeting a younger audience with its colorful visuals and straightforward morality. Recurring themes of good versus evil, courage, and friendship are explored through episodic adventures and a consistent power dynamic. The series offers a lighthearted and energetic viewing experience, emphasizing action and spectacle over complex narrative depth.",
+        "spoiler_rich_plot_summary": "The series begins with Adam, a young prince of Eternia, discovering he can transform into He-Man by wielding the Sword of Power. Guided by his mentor, Man-At-Arms, and the Sorceress of Castle Greyskull, he must defend Eternia from Skeletor, a powerful sorcerer seeking to conquer Castle Greyskull and harness its immense power. Skeletor, along with his henchmen like Beast Man and Evil-Lyn, constantly schemes to seize control, launching attacks on Eternia’s cities and attempting to infiltrate Castle Greyskull. Throughout the series, He-Man and his allies, including Teela, Stratos, and Ram Man, thwart Skeletor’s plans, often relying on teamwork and ingenuity. While Skeletor’s schemes are repeatedly foiled, he remains a persistent threat, constantly evolving his tactics and seeking new sources of power. The underlying conflict revolves around the control of Castle Greyskull and its secrets, with the fate of Eternia hanging in the balance. The series maintains a consistent power dynamic, with He-Man consistently outmatching Skeletor, but never fully defeating him, ensuring the ongoing struggle for Eternia’s safety.",
+        "categorized_keywords": {
+          "themes": [
+            "good-vs-evil",
+            "courage",
+            "friendship",
+            "power-responsibility",
+            "heroism",
+            "loyalty"
+          ],
+          "plot_and_concepts": [
+            "transformation",
+            "magic-sword",
+            "castle-siege",
+            "heroic-quest",
+            "villain-scheme"
+          ],
+          "mood_and_tone": [
+            "action-packed",
+            "lighthearted",
+            "energetic",
+            "optimistic",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "action-adventure",
+            "sci-fi-fantasy",
+            "superhero",
+            "found-family"
+          ],
+          "setting": [
+            "eternia",
+            "castle-greyskull",
+            "fantasy-world",
+            "sci-fi-setting"
+          ],
+          "character_archetypes": [
+            "hero",
+            "mentor",
+            "villain",
+            "sidekick",
+            "powerful-sorceress"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story",
+            "monster-of-the-week"
+          ],
+          "target_audience": [
+            "children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "sword-of-power",
+            "castle-greyskull",
+            "beast-man",
+            "evil-lyn",
+            "man-at-arms"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "He-Man and the Masters of the Universe is a lighthearted and energetic animated series set on the fantasy world of Eternia, where a heroic champion battles a powerful villain for control of a magical castle and the fate of the realm."
+      },
+      "duration_seconds": 68.00724411010742
+    }
+  }
+}

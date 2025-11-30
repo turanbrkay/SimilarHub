@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Lucky Louie",
+    "overview": "Lucky Louie is an American television sitcom created by Louis C.K., which aired on HBO for one season in 2006. C.K. stars as the eponymous Louie, a part-time mechanic. The show revolves around the life of Louie, who lives with his wife, Kim, who is a full-time nurse, and their four-year-old daughter, Lucy. A first for HBO, Lucky Louie was filmed before a live studio audience, in a multiple-camera setup.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2006,
+    "vote_count": 103
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Lucky Louie is a single-season sitcom created by and starring Louis C.K., offering a darkly comedic and often uncomfortable look at the everyday struggles of a working-class family. The show's unique format, filmed before a live studio audience, contributes to its raw and improvisational feel. It explores themes of marriage, parenthood, and the mundane realities of life, often pushing boundaries with its frank and sometimes shocking humor. The series' short run and unconventional style set it apart from traditional sitcoms, offering a more grounded and realistic portrayal of family dynamics.",
+        "spoiler_rich_plot_summary": "The series follows Louie, a part-time mechanic, and his wife, Kim, a nurse, as they navigate the challenges of raising their young daughter, Lucy. The show's premise revolves around the unexpected arrival of Louie's long-lost father, who moves in with the family, disrupting their established routines and forcing them to confront uncomfortable truths about their past. Throughout the season, Louie and Kim grapple with financial pressures, marital tensions, and the complexities of parenting, often resorting to unconventional and sometimes inappropriate coping mechanisms. The series culminates in a chaotic and unresolved state, reflecting the messy and unpredictable nature of family life, without offering a neat resolution to the various conflicts that arise.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "marital-tension",
+            "parenthood",
+            "working-class-life",
+            "unexpected-guests",
+            "midlife-crisis"
+          ],
+          "plot_and_concepts": [
+            "live-studio-audience",
+            "sitcom",
+            "unexpected-reunion",
+            "family-comedy"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "awkward",
+            "cringe-comedy",
+            "realistic"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "family-comedy",
+            "cringe-comedy"
+          ],
+          "setting": [
+            "suburban-home",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "working-class-protagonist",
+            "frustrated-father",
+            "overworked-mother"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "single-camera-setup"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "suburban-house",
+            "family-car",
+            "kitchen-table",
+            "childs-toys"
+          ],
+          "maturity_and_content": [
+            "sexual-content",
+            "profanity"
+          ]
+        },
+        "keyword_sentence": "Lucky Louie is a darkly comic sitcom that explores the messy realities of family life and marital tension through the lens of a working-class protagonist navigating unexpected challenges in a modern-day suburban home."
+      },
+      "duration_seconds": 60.30817008018494
+    }
+  }
+}

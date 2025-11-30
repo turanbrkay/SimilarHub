@@ -1,0 +1,94 @@
+{
+  "input_data": {
+    "title": "Riverdale",
+    "overview": "Set in the present, the series offers a bold, subversive take on Archie, Betty, Veronica and their friends, exploring the surreality of small-town life, the darkness and weirdness bubbling beneath Riverdale’s wholesome facade.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2017,
+    "vote_count": 13180
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Riverdale reimagines the classic Archie comics as a dark, stylized teen‑drama where the glossy veneer of a small town hides a web of murder, secrets, and supernatural intrigue. The series blends crime‑drama with gothic romance, pushing its characters into moral gray zones while exploring identity, friendship, and sexuality. Its narrative is fast‑paced and serialized, with recurring motifs of cryptic symbols and hidden rooms that deepen the mystery. The tone oscillates between suspenseful and melodramatic, appealing to a mature, young‑adult audience.",
+        "spoiler_rich_plot_summary": "The series opens with the murder of Jason Blossom, setting off a chain of investigations that pull Archie, Betty, Veronica, and their friends into a labyrinth of secrets. Over nine seasons, the town of River Dale is revealed to be a breeding ground for cults, political corruption, and supernatural forces, with recurring arcs involving the secret society of the Black Sisters, the death of Jughead, the rise of a serial killer known as the \"Red Raven,\" and the revelation that the town’s founding families are entangled in a curse. Relationships fracture and reform: Archie’s love triangle with Veronica and Betty evolves into a complex love‑hate dynamic; Betty’s ambition leads her into a dangerous partnership with a powerful businessman; Veronica’s quest for power brings her into conflict with her own family. The final season culminates in a showdown that unravels the town’s darkest secrets, resolves several long‑running mysteries, and ends with a bittersweet, ambiguous closure that leaves the future of River Dale uncertain.",
+        "categorized_keywords": {
+          "themes": [
+            "small-town-illusion",
+            "darkness-beneath-vanity",
+            "identity-crisis",
+            "sexuality",
+            "moral-ambiguity",
+            "family-secret",
+            "psychological-destruction"
+          ],
+          "plot_and_concepts": [
+            "murder-mystery",
+            "secret-society",
+            "cult",
+            "political-corruption",
+            "supernatural-entities",
+            "school-life",
+            "blackmail"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "satirical",
+            "stylized",
+            "psychological",
+            "dramatic"
+          ],
+          "genre_and_tropes": [
+            "teen-drama",
+            "crime-drama",
+            "mystery",
+            "dark-reboot",
+            "supernatural",
+            "serial-arc",
+            "ensemble"
+          ],
+          "setting": [
+            "present-day",
+            "riverdale",
+            "small-town",
+            "suburban-america",
+            "high-school"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "femme-fatale",
+            "wise-mentor",
+            "rebel",
+            "outsider",
+            "villain",
+            "protagonist",
+            "love-triangle"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "fast-paced",
+            "mystery-arc",
+            "episodic"
+          ],
+          "target_audience": [
+            "mature-audiences",
+            "young-adult",
+            "teen-drama-fans"
+          ],
+          "detail_plot": [
+            "cryptic-letters",
+            "hidden-rooms",
+            "blood-red-flowers",
+            "secret-park",
+            "cursed-amulet"
+          ]
+        },
+        "keyword_sentence": "Riverdale blends a dark, stylized teen‑drama with crime‑mystery and supernatural intrigue, featuring a small‑town setting, complex love triangles, and recurring motifs of secret societies and cryptic symbols that explore identity, morality, and the hidden darkness beneath a seemingly wholesome facade."
+      },
+      "duration_seconds": 108.7904760837555
+    }
+  }
+}

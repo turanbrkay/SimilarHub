@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Haven",
+    "overview": "FBI agent Audrey Parker arrives in the small town of Haven, Maine to solve a murder and soon discovers the town's many secrets—which also hold the key to unlocking the mysteries of her lost past.",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Mystery"
+    ],
+    "release_year": 2010,
+    "vote_count": 410
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Haven is a supernatural drama series centered on an FBI agent who stumbles upon a town populated by people with extraordinary abilities, known as 'Troubles.' The series blends mystery, sci-fi, and fantasy elements, exploring themes of identity, belonging, and the burden of extraordinary power. As Audrey Parker investigates the Troubles and their origins, she also confronts fragmented memories of her own past, becoming increasingly entangled in the town's complex history and the lives of its inhabitants. The show maintains a balance between procedural investigation and overarching narrative arcs, creating a suspenseful and emotionally resonant experience.",
+        "spoiler_rich_plot_summary": "FBI agent Audrey Parker is sent to Haven, Maine, to investigate a murder, but quickly discovers the town is plagued by 'Troubles' – individuals with unique and often dangerous supernatural abilities. She encounters Nathan Wuornos, a local man who has been confined to his home for years due to his ability to absorb Troubles' powers. As Audrey investigates the Troubles and their connection to the murder, she begins to experience fragmented memories of her own past, realizing she has a deeper connection to Haven than she initially suspected. Throughout the series, Audrey and Nathan work together to contain the Troubles and uncover the truth behind their origins, facing opposition from a shadowy organization seeking to exploit the Troubles for their own purposes. The series explores the cyclical nature of the Troubles, revealing that they are not a recent phenomenon but have plagued Haven for generations. Audrey's own identity is gradually revealed to be tied to the Troubles, and she must confront her past and embrace her role in the town's fate. The series culminates in a confrontation with the source of the Troubles, forcing Audrey and the residents of Haven to make difficult choices that will determine the town's future and the nature of the supernatural forces at play.",
+        "categorized_keywords": {
+          "themes": [
+            "identity-quest",
+            "memory-loss",
+            "small-town-secrets",
+            "supernatural-burden",
+            "fate-vs-free-will",
+            "found-family"
+          ],
+          "plot_and_concepts": [
+            "supernatural-abilities",
+            "time-loop",
+            "memory-manipulation",
+            "government-conspiracy",
+            "small-town-mystery",
+            "serial-mystery"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "mysterious",
+            "hopeful",
+            "darkly-comic"
+          ],
+          "genre_and_tropes": [
+            "supernatural-drama",
+            "small-town-mystery",
+            "memory-loss-trope",
+            "found-family-trope"
+          ],
+          "setting": [
+            "new-england",
+            "small-town-usa",
+            "alternate-timeline"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "amnesiac-protagonist",
+            "wise-mentor",
+            "enigmatic-figure"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "mystery-procedural"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "troubles-abilities",
+            "amnesia-flashbacks",
+            "small-town-church",
+            "police-station",
+            "troubles-containment"
+          ],
+          "maturity_and_content": [
+            "violence"
+          ]
+        },
+        "keyword_sentence": "Haven is a suspenseful supernatural drama series set in a small New England town, where an amnesiac FBI agent investigates a community plagued by individuals with extraordinary abilities and confronts a past shrouded in mystery."
+      },
+      "duration_seconds": 65.61451435089111
+    }
+  }
+}

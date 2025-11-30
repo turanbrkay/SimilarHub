@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Scarlett",
+    "overview": "Scarlett is a six hour miniseries loosely based on the sequel to Margaret Mitchell's novel, Gone with the Wind, written by Alexandra Ripley.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 1994,
+    "vote_count": 30
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Scarlett is a historical drama miniseries that serves as a sequel to Margaret Mitchell's 'Gone with the Wind,' exploring the continued struggles and evolving relationships of Scarlett O'Hara and Rhett Butler in the post-Civil War South. The series delves into themes of resilience, ambition, and the complexities of love and loss against a backdrop of societal upheaval and economic hardship. It aims to capture the spirit of the original novel while charting a new course for its iconic characters, offering a blend of romance, melodrama, and historical context. The series examines the enduring impact of the war on individuals and communities, portraying a world grappling with change and rebuilding from devastation.",
+        "spoiler_rich_plot_summary": "Following the events of 'Gone with the Wind,' Scarlett O'Hara, still driven by ambition and a desire to restore her family's fortune, finds herself embroiled in new conflicts and challenges. The series picks up years after the end of the Civil War, with Scarlett attempting to rebuild Tara and secure her place in a rapidly changing South. Rhett Butler, initially supportive, grows increasingly disillusioned with Scarlett's relentless pursuit of wealth and status, leading to tensions in their marriage. The narrative introduces new characters and explores previously hinted-at storylines from the original novel, revealing secrets and betrayals that complicate Scarlett's path. As Scarlett navigates financial ruin, romantic entanglements, and familial obligations, she confronts the consequences of her past actions and the limitations of her dreams. The series culminates in a confrontation with her past and a reevaluation of her priorities, ultimately shaping her future and the fate of those around her.",
+        "categorized_keywords": {
+          "themes": [
+            "ambition",
+            "loss",
+            "redemption",
+            "family-loyalty",
+            "social-class",
+            "post-war-reconstruction",
+            "romantic-obsession"
+          ],
+          "plot_and_concepts": [
+            "historical-fiction",
+            "sequel",
+            "romantic-drama",
+            "family-saga",
+            "economic-hardship"
+          ],
+          "mood_and_tone": [
+            "melodramatic",
+            "somber",
+            "romantic",
+            "tragic"
+          ],
+          "genre_and_tropes": [
+            "historical-drama",
+            "southern-gothic",
+            "romantic-tragedy"
+          ],
+          "setting": [
+            "post-civil-war-south",
+            "georgia",
+            "1870s"
+          ],
+          "character_archetypes": [
+            "ambitious-woman",
+            "tragic-heroine",
+            "wealthy-suitor",
+            "complex-villain"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "tara-plantation",
+            "atlanta-city",
+            "cotton-fields",
+            "carriage-rides"
+          ],
+          "maturity_and_content": [
+            "romantic-content",
+            "social-inequality"
+          ]
+        },
+        "keyword_sentence": "Set in the post-Civil War South, Scarlett is a melodramatic historical drama exploring themes of ambition, loss, and romantic obsession as a complex heroine navigates economic hardship and social inequality."
+      },
+      "duration_seconds": 83.83504271507263
+    }
+  }
+}

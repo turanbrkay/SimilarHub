@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "Green Lantern: The Animated Series",
+    "overview": "The Green Lanterns Hal and his partner Kilowog fight against the forces of the Red Lanterns.",
+    "genres": [
+      "Action & Adventure",
+      "Animation",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2011,
+    "vote_count": 165
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Green Lantern: The Animated Series is a superhero action show centered on the intergalactic peacekeeping efforts of the Green Lantern Corps. The series blends space opera elements with traditional superhero tropes, focusing on the partnership between Hal Jordan and Kilowog as they confront the Red Lantern Corps and other cosmic threats. The show explores themes of responsibility, sacrifice, and the struggle between order and chaos, delivered with a vibrant animation style and a focus on dynamic action sequences. It aims to capture the scope and wonder of the Green Lantern mythology for a younger audience while maintaining a compelling narrative for seasoned fans.",
+        "spoiler_rich_plot_summary": "The series begins with Hal Jordan's induction into the Green Lantern Corps, quickly pairing him with the veteran Kilowog for training and missions across the universe. Early arcs establish the ongoing conflict with the Red Lantern Corps, led by Atrocitus, who seeks to plunge the universe into a state of perpetual rage. Hal struggles to master his powers and often clashes with Kilowog's traditional methods, leading to both comedic and dramatic moments. As the series progresses, the threat of Parallax looms, hinting at a deeper connection to Hal's past and the potential for corruption. The Red Lanterns' influence spreads, causing unrest and challenging the Corps' authority. Hal and Kilowog face betrayals and forge alliances with other Lantern Corps members, ultimately confronting Atrocitus in a climactic battle that tests their resolve and the stability of the Green Lantern Corps. The series concludes with Hal embracing his role as a protector of the universe, prepared to face future challenges alongside his comrades.",
+        "categorized_keywords": {
+          "themes": [
+            "responsibility",
+            "sacrifice",
+            "order-vs-chaos",
+            "redemption",
+            "intergalactic-conflict"
+          ],
+          "plot_and_concepts": [
+            "lantern-corps",
+            "space-opera",
+            "superhero-team",
+            "red-lanterns",
+            "intergalactic-war"
+          ],
+          "mood_and_tone": [
+            "action-packed",
+            "heroic",
+            "optimistic",
+            "serious",
+            "epic"
+          ],
+          "genre_and_tropes": [
+            "superhero-action",
+            "sci-fi",
+            "animation",
+            "found-family",
+            "mentor-student"
+          ],
+          "setting": [
+            "outer-space",
+            "alternate-universe",
+            "galactic-federation",
+            "oan-planet",
+            "korugar"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "veteran-warrior",
+            "antagonist-leader",
+            "green-lantern"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "episodic-adventure"
+          ],
+          "target_audience": [
+            "young-adult",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "power-ring",
+            "green-lantern-corps-headquarters",
+            "red-lantern-rage",
+            "kilowog-training",
+            "hal-jordan"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Green Lantern: The Animated Series is an action-packed sci-fi adventure that follows a young hero and his veteran mentor as they battle intergalactic threats and uphold the principles of the Green Lantern Corps."
+      },
+      "duration_seconds": 66.27601456642151
+    }
+  }
+}

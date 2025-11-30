@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "The IT Crowd",
+    "overview": "Two I.T. nerds and their clueless female manager, who work in the basement of a very successful company. When they are called on for help, they are never treated with any respect at all.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2006,
+    "vote_count": 1171
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The IT Crowd is a British sitcom that satirizes corporate culture and the often-overlooked world of IT support. The series follows two socially awkward IT specialists and their well-meaning but inept manager as they navigate the absurdities of their workplace and the demands of the company's employees. The humor is largely derived from the characters' eccentric personalities, their interactions with the outside world, and the ridiculous situations they find themselves in. The show blends observational comedy with slapstick and absurdist humor, creating a consistently funny and relatable portrayal of modern office life.",
+        "spoiler_rich_plot_summary": "The series begins with Roy and Moss, two IT technicians, reluctantly accepting positions at Reynholm Industries after being evicted from their previous residence. They are assigned to the basement, a neglected and isolated area of the company, and are overseen by Jen Barber, a marketing graduate who is hired as their manager despite having no technical expertise. Throughout the series, Roy and Moss consistently struggle to provide adequate IT support while dealing with the demands of the company's employees and the incompetence of their colleagues. Jen, meanwhile, attempts to bridge the gap between the IT department and the rest of the company, often with disastrous results. Recurring plotlines involve the IT department's attempts to avoid work, their interactions with the eccentric Reynholm brothers, and their various schemes to escape their mundane existence. The series maintains a largely episodic structure, with each episode presenting a new set of challenges and comedic situations, but with an overarching theme of the IT department's struggle for recognition and respect within the corporate hierarchy. The characters' relationships evolve over time, with Roy and Moss developing a begrudging respect for Jen, and Jen gradually learning to appreciate the unique talents of the IT department.",
+        "categorized_keywords": {
+          "themes": [
+            "corporate-satire",
+            "social-awkwardness",
+            "underdog-story",
+            "friendship",
+            "workplace-comedy"
+          ],
+          "plot_and_concepts": [
+            "fish-out-of-water",
+            "workplace-comedy",
+            "misunderstanding",
+            "situational-comedy"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "absurdist",
+            "quirky",
+            "humorous"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "workplace-comedy",
+            "british-humor"
+          ],
+          "setting": [
+            "modern-day",
+            "office-environment",
+            "basement-office"
+          ],
+          "character_archetypes": [
+            "nerd",
+            "socially-awkward",
+            "incompetent-manager",
+            "eccentric-character"
+          ],
+          "narrative_style": [
+            "episodic",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "basement-office",
+            "computer-equipment",
+            "cubicle",
+            "company-logo"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The IT Crowd is a lighthearted British sitcom that satirizes corporate culture through the experiences of two socially awkward IT specialists and their well-meaning but inept manager working in a neglected basement office."
+      },
+      "duration_seconds": 62.840402364730835
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Our Planet",
+    "overview": "Experience our planet's natural beauty and examine how climate change impacts all living creatures in this ambitious documentary of spectacular scope.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2019,
+    "vote_count": 283
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Our Planet is a visually stunning nature documentary series that aims to showcase the beauty and fragility of Earth's ecosystems. The series combines breathtaking cinematography with a focus on the impact of climate change on wildlife and habitats. It seeks to raise awareness about environmental issues and inspire conservation efforts. The tone is both awe-inspiring and sobering, blending moments of wonder with stark depictions of ecological damage. The series aims to connect viewers emotionally to the natural world and motivate them to take action.",
+        "spoiler_rich_plot_summary": "The series is structured around different biomes, each episode exploring a specific habitat and the creatures that inhabit it. From the Arctic ice sheets to the Amazon rainforest, the series reveals the intricate relationships between species and their environment. A central narrative thread throughout the series is the accelerating impact of climate change, showing how rising temperatures, deforestation, and pollution are disrupting ecosystems and threatening countless species. Viewers witness firsthand the consequences of human activity on vulnerable populations, including polar bears struggling to find ice, coral reefs bleaching, and forests succumbing to drought. While the series highlights the severity of the situation, it also showcases ongoing conservation efforts and potential solutions, offering a message of hope alongside the stark realities of environmental degradation. The overarching story is one of interconnectedness, demonstrating how the health of one ecosystem directly impacts the others, and ultimately, the future of the planet.",
+        "categorized_keywords": {
+          "themes": [
+            "environmentalism",
+            "conservation",
+            "climate-change",
+            "biodiversity",
+            "fragility-of-nature",
+            "interconnectedness"
+          ],
+          "plot_and_concepts": [
+            "biome-exploration",
+            "wildlife-photography",
+            "documentary-format",
+            "environmental-impact",
+            "conservation-efforts"
+          ],
+          "mood_and_tone": [
+            "awe-inspiring",
+            "sobering",
+            "urgent",
+            "hopeful",
+            "visually-stunning"
+          ],
+          "genre_and_tropes": [
+            "nature-documentary",
+            "environmental-film",
+            "conservation-advocacy"
+          ],
+          "setting": [
+            "arctic",
+            "amazon-rainforest",
+            "coral-reefs",
+            "savannah",
+            "polar-regions"
+          ],
+          "character_archetypes": [
+            "wildlife-photographer",
+            "conservationist",
+            "environmental-scientist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "biome-focused",
+            "observational-documentary"
+          ],
+          "target_audience": [
+            "general-audience",
+            "environmentally-conscious-viewers"
+          ],
+          "detail_plot": [
+            "polar-bear",
+            "coral-bleaching",
+            "deforestation",
+            "wildlife-migration",
+            "drone-footage"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Our Planet is a visually stunning nature documentary series that explores diverse biomes and reveals the urgent impact of climate change on Earth’s fragile ecosystems, inspiring conservation efforts and a deeper appreciation for the natural world."
+      },
+      "duration_seconds": 58.69896197319031
+    }
+  }
+}

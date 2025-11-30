@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "NCIS: Los Angeles",
+    "overview": "The exploits of the Los Angeles–based Office of Special Projects (OSP), an elite division of the Naval Criminal Investigative Service that specializes in undercover assignments.",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Crime",
+      "Mystery"
+    ],
+    "release_year": 2009,
+    "vote_count": 1053
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "NCIS: Los Angeles is a procedural drama series that blends action, crime investigation, and a focus on a specialized NCIS team operating in Los Angeles. The show emphasizes teamwork, camaraderie, and a blend of serious cases with lighter, character-driven moments. It follows a formula of weekly cases interspersed with ongoing character arcs and a focus on the team's personal lives and relationships. The series offers a mix of suspenseful investigations and a sense of optimism and loyalty within the team.",
+        "spoiler_rich_plot_summary": "NCIS: Los Angeles begins with the formation of the Office of Special Projects (OSP), a specialized NCIS division led by Operations Manager Henrietta Lange and Special Agents G. Callen and Kensi Blye. The team, which expands to include Eric Beale, Nell Jones, and Marty Deeks, tackles complex cases involving national security threats, terrorism, and espionage. Throughout the series, the team faces numerous challenges, including betrayals, personal losses, and the constant threat of danger. Recurring antagonists and complex conspiracies emerge, testing the team's skills and loyalty. Relationships evolve, with romantic tensions and personal sacrifices shaping the team's dynamics. While the team experiences setbacks and losses, they consistently demonstrate resilience and a commitment to justice, ultimately resolving cases and maintaining a sense of stability within the OSP.",
+        "categorized_keywords": {
+          "themes": [
+            "teamwork",
+            "loyalty",
+            "justice",
+            "national-security",
+            "friendship",
+            "sacrifice"
+          ],
+          "plot_and_concepts": [
+            "crime-investigation",
+            "undercover-operations",
+            "espionage",
+            "terrorism",
+            "procedural-drama"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "action-oriented",
+            "optimistic",
+            "serious",
+            "lighthearted"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "action-adventure",
+            "police-drama",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "los-angeles",
+            "modern-day",
+            "coastal-city"
+          ],
+          "character_archetypes": [
+            "skilled-agent",
+            "operations-manager",
+            "tech-expert",
+            "rookie-agent"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "weekly-cases"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "ncis-headquarters",
+            "undercover-disguises",
+            "surveillance-equipment",
+            "crime-lab"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "NCIS: Los Angeles is a suspenseful crime procedural set in Los Angeles, focusing on a team of skilled agents who tackle national security threats through undercover operations and weekly cases, demonstrating loyalty and sacrifice in their pursuit of justice."
+      },
+      "duration_seconds": 59.642173290252686
+    }
+  }
+}

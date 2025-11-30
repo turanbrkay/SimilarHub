@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "Dickinson",
+    "overview": "Emily Dickinson. Poet. Daughter. Total rebel. In this coming-of-age story, Emily’s determined to become the world’s greatest poet.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2019,
+    "vote_count": 834
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Dickinson is a comedic drama series reimagining the life of poet Emily Dickinson. The show blends historical fiction with a modern sensibility, exploring themes of family, ambition, and societal expectations through a distinctly unconventional lens. Dickinson's journey is portrayed as a rebellion against the constraints of 19th-century New England, highlighting her intellectual curiosity and artistic aspirations. The series utilizes a stylized visual aesthetic and a contemporary soundtrack to create a unique and engaging portrayal of a literary icon.",
+        "spoiler_rich_plot_summary": "The series begins with a young Emily Dickinson chafing under the expectations of her family and community in Amherst, Massachusetts. She grapples with her burgeoning poetic talent, often clashing with her parents and siblings over her unconventional views and desire for independence. As Emily matures, she finds solace and intellectual stimulation in her relationships with friends like Mabel Todd and Sue Gilbert, who encourage her artistic pursuits. The series explores Emily’s complex relationship with her father, a prominent lawyer, and her struggles to reconcile her personal ambitions with her familial duties. Throughout the seasons, Emily confronts themes of mortality, faith, and the search for meaning, all while continuing to hone her craft and defy societal norms. The show culminates in a poignant reflection on Emily’s legacy and the enduring power of her poetry, leaving the audience to contemplate the complexities of her life and the impact of her work.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "artistic-expression",
+            "rebellion",
+            "mortality",
+            "identity-quest",
+            "social-constraints"
+          ],
+          "plot_and_concepts": [
+            "coming-of-age",
+            "historical-fiction",
+            "literary-biography"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "whimsical",
+            "melancholy"
+          ],
+          "genre_and_tropes": [
+            "period-drama",
+            "teen-drama",
+            "found-family"
+          ],
+          "setting": [
+            "19th-century-new-england",
+            "amherst-massachusetts"
+          ],
+          "character_archetypes": [
+            "rebellious-protagonist",
+            "eccentric-genius",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "character-driven"
+          ],
+          "target_audience": [
+            "young-adult",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "poetry-manuscript",
+            "carriage-ride",
+            "family-estate",
+            "candlelight-dinner"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Dickinson is a darkly comic period drama exploring themes of rebellion and artistic expression as a young woman defies social constraints and pursues her identity in 19th-century New England."
+      },
+      "duration_seconds": 56.68526530265808
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "NCIS",
+    "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has a shred of evidence connected to Navy and Marine Corps personnel, regardless of rank or position.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Action & Adventure"
+    ],
+    "release_year": 2003,
+    "vote_count": 2047
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "NCIS is a long-running procedural drama series that blends crime investigation with military themes. The show follows a team of special agents who investigate crimes involving the U.S. Navy and Marine Corps. Known for its ensemble cast and blend of action, humor, and character-driven storylines, NCIS offers a formulaic but consistently engaging viewing experience, appealing to audiences interested in both crime solving and military life. The series balances intense investigations with lighter moments, fostering a sense of camaraderie among the team members and providing a comforting familiarity for its loyal fanbase.",
+        "spoiler_rich_plot_summary": "The series begins with the investigation of a Marine Corps officer's murder, quickly establishing the team's dynamic and investigative style. Over the seasons, the team tackles a wide range of cases, from terrorist plots to espionage, often involving high-ranking officials and complex political maneuvering. Recurring storylines involve the personal lives of the team members, exploring their relationships and past traumas. Key characters face professional and personal challenges, leading to shifts in team dynamics and leadership roles. While individual cases are resolved within episodes, overarching narratives develop over multiple seasons, often involving threats to national security and the uncovering of deep-seated conspiracies. The series explores themes of loyalty, duty, and sacrifice, showcasing the dedication of the NCIS agents in protecting the nation. Throughout its run, the team faces betrayals, losses, and triumphs, solidifying their bond and commitment to justice.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "duty",
+            "loyalty",
+            "sacrifice",
+            "military-life",
+            "national-security",
+            "teamwork"
+          ],
+          "plot_and_concepts": [
+            "crime-investigation",
+            "military-procedural",
+            "espionage",
+            "terrorism",
+            "conspiracy"
+          ],
+          "mood_and_tone": [
+            "procedural",
+            "action-oriented",
+            "humorous",
+            "serious",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "military-drama",
+            "ensemble-cast",
+            "found-family"
+          ],
+          "setting": [
+            "washington-dc",
+            "modern-day",
+            "naval-base"
+          ],
+          "character_archetypes": [
+            "special-agent",
+            "military-officer",
+            "forensic-expert",
+            "team-leader"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "crime-lab",
+            "interrogation-room",
+            "naval-vessel",
+            "forensic-analysis"
+          ],
+          "maturity_and_content": [
+            "graphic-violence"
+          ]
+        },
+        "keyword_sentence": "NCIS is a long-running crime procedural drama series set in Washington, D.C., that blends military themes, suspenseful investigations, and a found-family dynamic to deliver a consistently engaging viewing experience."
+      },
+      "duration_seconds": 65.20774459838867
+    }
+  }
+}

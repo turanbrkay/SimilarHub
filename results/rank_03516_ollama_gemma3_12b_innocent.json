@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Innocent",
+    "overview": "After seven years in prison, David Collins is acquitted of the murder of his wife. Now, he must fight to rebuild his shattered life while police search for the real murderer.",
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Drama"
+    ],
+    "release_year": 2018,
+    "vote_count": 35
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Innocent is a crime drama centered on David Collins, a man wrongly convicted of murdering his wife and subsequently released after seven years. The series explores themes of redemption, justice, and the complexities of rebuilding a life after profound injustice. It blends elements of a police procedural with a character-driven narrative, focusing on David's struggle to clear his name and uncover the truth while navigating public scrutiny and personal trauma. The tone is generally somber and suspenseful, driven by the mystery surrounding his wife's death and the challenges of reintegrating into a society that initially condemned him.",
+        "spoiler_rich_plot_summary": "The series begins with David Collins's release from prison after new evidence exonerates him for the murder of his wife, Emily. While he is free, he faces a society that still views him as a convicted killer. Determined to prove his innocence and find the real murderer, David begins his own investigation, often clashing with the police, particularly Detective Thorne, who initially believes in his guilt. As David delves deeper, he uncovers a web of secrets and lies within his former life, revealing that many people had motives to harm Emily. The investigation leads him to question his former friends, business partners, and even members of his own family. Throughout the series, David grapples with the psychological toll of his wrongful imprisonment and the constant suspicion he faces. The search for Emily’s killer exposes a complex conspiracy involving financial crimes and hidden relationships, ultimately leading to a shocking revelation about the true perpetrator and their connection to David’s past. While David eventually clears his name, the experience leaves him forever changed, struggling to reconcile his past with his present and find peace in a world that once condemned him.",
+        "categorized_keywords": {
+          "themes": [
+            "redemption",
+            "false-accusation",
+            "justice",
+            "family-secrets",
+            "wrongful-conviction",
+            "trust",
+            "revenge"
+          ],
+          "plot_and_concepts": [
+            "police-investigation",
+            "murder-mystery",
+            "conspiracy",
+            "financial-crime",
+            "wrongful-imprisonment"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "somber",
+            "tense",
+            "gritty"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "legal-drama",
+            "mystery",
+            "thriller"
+          ],
+          "setting": [
+            "modern-day",
+            "urban-setting"
+          ],
+          "character_archetypes": [
+            "wrongfully-accused",
+            "detective",
+            "anti-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "investigative-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "police-station",
+            "courtroom",
+            "prison-cell",
+            "financial-records"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "legal-proceedings"
+          ]
+        },
+        "keyword_sentence": "Innocent is a suspenseful crime drama exploring themes of wrongful conviction and redemption as a man fights to clear his name and uncover a complex web of secrets within a gritty, modern-day setting."
+      },
+      "duration_seconds": 60.478829860687256
+    }
+  }
+}

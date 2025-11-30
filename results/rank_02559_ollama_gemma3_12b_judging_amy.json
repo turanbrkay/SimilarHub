@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Judging Amy",
+    "overview": "Judging Amy is an American television drama that was telecast from September 19, 1999, through May 3, 2005, on CBS-TV. This TV series starred Amy Brenneman and Tyne Daly. Its main character is a judge who serves in a family court, and in addition to the family-related cases that she adjudicates, many episodes of the show focus on her own experiences as a divorced mother, and on the experiences of her mother, a social worker who works in the field of child welfare. This series was based on the life experiences of Brenneman's mother.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 1999,
+    "vote_count": 64
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Judging Amy is a legal drama centered on a family court judge navigating both complex cases and personal challenges as a divorced mother. The series blends courtroom proceedings with intimate portrayals of family dynamics and the social work profession. It explores themes of justice, motherhood, and the complexities of the child welfare system, offering a blend of procedural elements and character-driven storytelling. The show's grounded realism and focus on relatable family struggles contribute to its emotional resonance and appeal to a broad audience.",
+        "spoiler_rich_plot_summary": "The series begins with Amy Brenneman's character, Judge Amy Gray, returning home to Hartford, Connecticut, to take a position as a family court judge. She is divorced and raising two children, while her mother, Maxine, works as a social worker. The show follows Amy as she presides over a variety of family law cases, ranging from custody battles to adoption proceedings, while simultaneously dealing with her own personal life and the challenges of co-parenting. Throughout the series, Amy and Maxine often find themselves at odds, their differing perspectives on justice and social work creating tension and conflict. As the series progresses, Amy confronts difficult ethical dilemmas and witnesses the devastating impact of poverty and abuse on families. The show explores the complexities of the child welfare system, highlighting the dedication of social workers and the limitations of the legal process. While Amy strives to make fair and compassionate rulings, she often grapples with the emotional toll of her work and the knowledge that she cannot always achieve the outcomes she desires. The series concludes with Amy finding a measure of personal and professional stability, having navigated numerous challenges and strengthened her relationships with her children and her mother.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "justice-system",
+            "motherhood",
+            "social-work",
+            "child-welfare",
+            "divorce",
+            "ethical-dilemmas"
+          ],
+          "plot_and_concepts": [
+            "courtroom-drama",
+            "legal-proceedings",
+            "family-law",
+            "custody-battles",
+            "adoption"
+          ],
+          "mood_and_tone": [
+            "realistic",
+            "emotional",
+            "grounded",
+            "somber"
+          ],
+          "genre_and_tropes": [
+            "legal-drama",
+            "family-drama",
+            "procedural-drama"
+          ],
+          "setting": [
+            "hartford-connecticut",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "judge",
+            "social-worker",
+            "divorced-mother",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "courtroom-scene",
+            "social-work-office",
+            "family-home",
+            "child-welfare-records"
+          ],
+          "maturity_and_content": [
+            "sensitive-topics",
+            "child-abuse"
+          ]
+        },
+        "keyword_sentence": "Judging Amy is a realistic and emotional legal drama exploring the complexities of family law, motherhood, and the dedication of social workers within the modern-day setting of Hartford, Connecticut."
+      },
+      "duration_seconds": 66.06310391426086
+    }
+  }
+}

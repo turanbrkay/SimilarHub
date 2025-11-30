@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "The Walking Dead: Daryl Dixon",
+    "overview": "Daryl washes ashore in France and struggles to piece together how he got there and why. The series tracks his journey across a broken but resilient France as he hopes to find a way back home. As he makes the journey, though, the connections he forms along the way complicate his ultimate plan.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "release_year": 2023,
+    "vote_count": 165
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Walking Dead: Daryl Dixon follows the fan-favorite character Daryl as he finds himself stranded in France, far from his familiar world. The series blends post-apocalyptic survival with a character-driven narrative, exploring themes of belonging, redemption, and the complexities of human connection in a fractured society. Daryl's journey is one of self-discovery and adaptation as he navigates a new landscape filled with both dangers and unexpected allies, ultimately questioning his desire to return home. The tone is a mix of gritty realism and moments of hope, offering a compelling exploration of resilience and the search for meaning in a world overrun by the undead.",
+        "spoiler_rich_plot_summary": "Following a storm at sea, Daryl Dixon awakens on the French coastline, disoriented and separated from the main Walking Dead group. He quickly discovers that France, while ravaged by the zombie apocalypse, has developed its own unique societal structures and factions. Initially focused on finding a way back to America, Daryl's path is complicated by his encounters with various communities, including a rural village struggling to survive and a more organized group with its own agenda. He forms bonds with several individuals, particularly a young boy named Etienne, whose fate becomes intertwined with Daryl's. As Daryl delves deeper into the French landscape, he uncovers a conspiracy involving a powerful religious order and a mysterious threat that endangers the fragile peace of the region. His desire to return home is increasingly challenged by his growing sense of responsibility towards the people he meets and the realization that his skills are needed to protect them from a looming darkness. The series culminates in a confrontation with the religious order, forcing Daryl to make a difficult choice that will determine the future of France and his own destiny.",
+        "categorized_keywords": {
+          "themes": [
+            "survival",
+            "redemption",
+            "belonging",
+            "loss",
+            "faith",
+            "hope",
+            "duty",
+            "sacrifice"
+          ],
+          "plot_and_concepts": [
+            "zombie-apocalypse",
+            "post-apocalyptic-society",
+            "fish-out-of-water",
+            "found-family",
+            "religious-cult",
+            "political-intrigue"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "hopeful",
+            "suspenseful",
+            "melancholy",
+            "dark"
+          ],
+          "genre_and_tropes": [
+            "post-apocalyptic",
+            "action-adventure",
+            "survival-horror",
+            "fish-out-of-water"
+          ],
+          "setting": [
+            "france",
+            "rural-setting",
+            "post-apocalyptic-europe"
+          ],
+          "character_archetypes": [
+            "lone-wolf",
+            "reluctant-hero",
+            "protector",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "character-driven"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "zombies",
+            "rural-village",
+            "religious-symbols",
+            "fishing-boat",
+            "crossbow"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "zombie-gore"
+          ]
+        },
+        "keyword_sentence": "Stranded in a post-apocalyptic France, Daryl Dixon’s journey of survival blends action and suspense as he confronts a dangerous religious cult and searches for belonging amidst the ruins."
+      },
+      "duration_seconds": 67.86307692527771
+    }
+  }
+}

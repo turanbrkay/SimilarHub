@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Below Deck",
+    "overview": "The upstairs and downstairs worlds collide when this young and single crew of \"yachties\" live, love and work together onboard a luxurious mega yacht while tending to the ever-changing needs of their wealthy, demanding charter guests.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2013,
+    "vote_count": 40
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Below Deck is a reality television series that offers a glimpse into the lives of yacht crew members as they cater to the whims of wealthy charter guests. The show explores the dynamics between the crew, highlighting their professional challenges, interpersonal relationships, and personal struggles against the backdrop of a luxurious yachting lifestyle. It blends elements of workplace drama, interpersonal conflict, and aspirational lifestyle content, offering viewers a voyeuristic look into a unique and often chaotic environment. The series thrives on the contrast between the crew's demanding work and the guests' expectations, creating a constant source of tension and entertainment.",
+        "spoiler_rich_plot_summary": "Each season of Below Deck follows a new crew and a series of charter guests aboard a mega yacht. The primary narrative revolves around the crew's efforts to provide exceptional service while navigating their own personal and professional conflicts. Early episodes typically introduce the crew members and establish the hierarchy, often revealing pre-existing tensions or personality clashes. As the season progresses, charter guests arrive with increasingly elaborate requests and demanding personalities, pushing the crew to their limits. Romantic relationships and workplace rivalries frequently develop among the crew, adding layers of drama and complexity. Throughout the season, the captain must manage both the guests' expectations and the crew's performance, often making difficult decisions that impact the team's dynamics. The season culminates in a final charter, where any unresolved conflicts often come to a head, and the crew reflects on their experiences before the yacht is prepared for the next group of guests.",
+        "categorized_keywords": {
+          "themes": [
+            "workplace-dynamics",
+            "social-class",
+            "luxury-lifestyle",
+            "interpersonal-relationships",
+            "service-industry",
+            "power-dynamics"
+          ],
+          "plot_and_concepts": [
+            "reality-competition",
+            "voyeurism",
+            "charter-yacht",
+            "service-drama"
+          ],
+          "mood_and_tone": [
+            "aspirational",
+            "humorous",
+            "tense",
+            "voyeuristic"
+          ],
+          "genre_and_tropes": [
+            "reality-tv",
+            "workplace-comedy",
+            "social-experiment"
+          ],
+          "setting": [
+            "mega-yacht",
+            "luxury-travel",
+            "international-locations"
+          ],
+          "character_archetypes": [
+            "demanding-guest",
+            "strict-captain",
+            "struggling-crew",
+            "entitled-passenger"
+          ],
+          "narrative_style": [
+            "episodic",
+            "seasonal"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "luxury-enthusiasts"
+          ],
+          "detail_plot": [
+            "charter-request",
+            "cocktail-service",
+            "deck-maintenance",
+            "guest-cabins",
+            "captain's-quarters"
+          ],
+          "maturity_and_content": [
+            "profanity",
+            "alcohol-consumption"
+          ]
+        },
+        "keyword_sentence": "Below Deck offers a voyeuristic glimpse into the lives of yacht crew members as they navigate demanding guests and interpersonal conflicts within a luxurious, international setting, showcasing the dynamics of a unique service industry."
+      },
+      "duration_seconds": 58.3856418132782
+    }
+  }
+}

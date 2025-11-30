@@ -1,0 +1,85 @@
+{
+  "input_data": {
+    "title": "The Purge",
+    "overview": "Set in a dystopian America ruled by a totalitarian political party, the series follows several seemingly unrelated characters living in a small city. Tying them all together is a mysterious savior who’s impeccably equipped for everything the night throws at them. As the clock winds down with their fates hanging in the balance, each character is forced to reckon with their pasts as they discover how far they will go to survive the night.",
+    "genres": [
+      "Mystery",
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2018,
+    "vote_count": 3204
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Purge is a dystopian crime drama series set in a near-future America where, for twelve hours each year, all crime is legal. The show explores the societal and psychological consequences of this annual event, examining themes of class disparity, morality, and the fragility of social order. Through the interwoven stories of various characters, the series delves into the darkness of human nature and the lengths people will go to survive. The tone is suspenseful and often brutal, blending elements of action, thriller, and social commentary to create a gripping and unsettling viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins by introducing several characters in a small city preparing for the annual Purge – a twelve-hour period where all crimes are legal. Among them are a young couple struggling with debt, a police officer grappling with his role in enforcing the law, and a seemingly ordinary family hiding a dark secret. As the Purge begins, chaos erupts, and the characters' lives become intertwined in unexpected ways. A mysterious figure, known only as the Savior, emerges, equipped to navigate the night's dangers and seemingly connected to a larger conspiracy. Throughout the season, the characters confront their own demons and make difficult choices to survive, revealing hidden connections and challenging the established order. The season culminates in a confrontation that exposes the true nature of the Purge and its impact on the community, leaving the characters forever changed and the future uncertain.",
+        "categorized_keywords": {
+          "themes": [
+            "social-inequality",
+            "moral-ambiguity",
+            "survival",
+            "political-oppression",
+            "class-conflict",
+            "justice",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "dystopian-society",
+            "crime-wave",
+            "vigilante",
+            "conspiracy",
+            "secret-identity"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "gritty",
+            "violent",
+            "tense"
+          ],
+          "genre_and_tropes": [
+            "crime-thriller",
+            "dystopian-fiction",
+            "action-thriller",
+            "found-family"
+          ],
+          "setting": [
+            "small-town-usa",
+            "near-future",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "reluctant-hero",
+            "corrupt-official",
+            "vigilante"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "multiple-perspectives"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "purge-night",
+            "savior-figure",
+            "police-station",
+            "abandoned-warehouse",
+            "security-camera"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "sexual-content",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "Set in a dystopian America, The Purge is a suspenseful crime thriller exploring themes of social inequality and survival through the interwoven stories of characters confronting graphic violence and moral ambiguity during an annual night of legalized crime."
+      },
+      "duration_seconds": 68.88905835151672
+    }
+  }
+}

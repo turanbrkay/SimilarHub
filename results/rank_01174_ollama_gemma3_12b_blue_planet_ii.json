@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "Blue Planet II",
+    "overview": "There is nowhere more powerful and unforgiving yet more beautiful and compelling than the ocean. Join us and explore the greatest yet least known parts of our planet.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2017,
+    "vote_count": 209
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Blue Planet II is a visually stunning nature documentary series that explores the diverse and often surprising ecosystems of Earth's oceans. Combining cutting-edge camera technology with scientific expertise, the series reveals previously unseen behaviors and habitats, highlighting the fragility and interconnectedness of marine life. It aims to inspire awe and promote conservation efforts by showcasing the beauty and importance of the underwater world. The series blends scientific rigor with breathtaking cinematography, creating an immersive and emotionally resonant experience for viewers. It serves as both an educational resource and a powerful call to action for ocean protection.",
+        "spoiler_rich_plot_summary": "The series is structured around distinct oceanic environments, beginning with the Arctic and Antarctic regions, showcasing the unique adaptations of creatures thriving in icy waters. Subsequent episodes delve into the mesopelagic zone, the deep sea, coral reefs, and mangrove forests, each revealing a new layer of complexity and wonder. The series documents the challenges faced by marine life, including the impacts of climate change, pollution, and overfishing. Viewers witness the intricate relationships between species, from predator-prey dynamics to symbiotic partnerships. The final episodes emphasize the urgent need for conservation efforts to protect these vulnerable ecosystems and the creatures that call them home, highlighting the potential for both recovery and irreversible loss.",
+        "categorized_keywords": {
+          "themes": [
+            "nature-conservation",
+            "ocean-exploration",
+            "environmental-awareness",
+            "biodiversity",
+            "climate-change"
+          ],
+          "plot_and_concepts": [
+            "underwater-photography",
+            "scientific-discovery",
+            "ecosystem-interdependence",
+            "marine-biology"
+          ],
+          "mood_and_tone": [
+            "awe-inspiring",
+            "serene",
+            "educational",
+            "urgent"
+          ],
+          "genre_and_tropes": [
+            "nature-documentary",
+            "wildlife-photography"
+          ],
+          "setting": [
+            "arctic-ocean",
+            "antarctic-ocean",
+            "deep-sea",
+            "coral-reefs",
+            "mangrove-forests"
+          ],
+          "character_archetypes": [
+            "marine-biologist",
+            "wildlife-photographer"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-exploration"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "underwater-camera",
+            "coral-habitat",
+            "deep-sea-creatures",
+            "arctic-ice"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Blue Planet II is an awe-inspiring nature documentary series that explores the diverse and fragile ecosystems of Earth's oceans, highlighting the urgent need for conservation through stunning underwater photography and scientific discovery."
+      },
+      "duration_seconds": 55.99694085121155
+    }
+  }
+}

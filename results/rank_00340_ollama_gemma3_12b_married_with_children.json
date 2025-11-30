@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Married... with Children",
+    "overview": "Al Bundy is an unsuccessful middle aged shoe salesman with a miserable life and an equally dysfunctional family. He hates his job, his wife is lazy, his son is dysfunctional (especially with women), and his daughter is dim-witted and promiscuous.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 1987,
+    "vote_count": 883
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Married... with Children is a satirical sitcom that lampoons the idealized American family sitcoms of the 1950s and 1960s. The series follows the perpetually frustrated Al Bundy and his family as they navigate the absurdities of everyday life. Known for its dark humor and subversive commentary on consumerism and societal expectations, the show offers a cynical yet comedic perspective on the pursuit of the American dream. Its longevity stemmed from its willingness to challenge conventional sitcom tropes and embrace a more irreverent and relatable portrayal of family dysfunction.",
+        "spoiler_rich_plot_summary": "The series centers on Al Bundy, a shoe salesman struggling to provide for his family in suburban Chicago. His wife, Peggy, is a lazy and materialistic homemaker, while his children, Kelly and Bud, embody different forms of adolescent angst and rebellion. Throughout the series, Al constantly schemes to escape his miserable existence, often involving get-rich-quick schemes and elaborate fantasies. The show consistently portrays the family's financial struggles and Al's frustration with his job and Peggy's spending habits. While the family faces numerous challenges, their interactions are consistently played for comedic effect, highlighting the absurdity of their situation and the resilience of their dysfunctional bond. The series concludes with the family still facing their everyday struggles, but with a deeper understanding of their shared dysfunction and a continued ability to find humor in their circumstances.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dysfunction",
+            "consumerism",
+            "social-satire",
+            "marital-frustration",
+            "working-class-struggle",
+            "american-dream"
+          ],
+          "plot_and_concepts": [
+            "sitcom",
+            "satirical-comedy",
+            "get-rich-quick-schemes",
+            "working-class-comedy"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "cynical",
+            "irreverent",
+            "absurdist"
+          ],
+          "genre_and_tropes": [
+            "family-sitcom",
+            "satirical-comedy",
+            "working-class-comedy"
+          ],
+          "setting": [
+            "suburban-chicago",
+            "1980s-america",
+            "middle-class-home"
+          ],
+          "character_archetypes": [
+            "frustrated-husband",
+            "lazy-wife",
+            "rebellious-teenager",
+            "dysfunctional-family"
+          ],
+          "narrative_style": [
+            "episodic-format",
+            "sitcom-structure"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "shoe-store",
+            "family-dinner",
+            "television-set",
+            "shopping-mall"
+          ],
+          "maturity_and_content": [
+            "sexual-humor",
+            "crude-language"
+          ]
+        },
+        "keyword_sentence": "Married... with Children satirically portrays a dysfunctional working-class family in 1980s suburban America, using dark humor to critique consumerism and the idealized sitcom format."
+      },
+      "duration_seconds": 73.31041812896729
+    }
+  }
+}

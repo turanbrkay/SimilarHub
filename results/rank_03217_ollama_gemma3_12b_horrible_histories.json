@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Horrible Histories",
+    "overview": "Based on the best-selling children's books and liberally splattered with guts, blood and poo, a group of British comedians offer an anarchic and unconventional take on some of history's most gruesome and funny moments, with topics including the Stone Age, the Middle Ages, the Egyptians and the Romans, among others.",
+    "genres": [
+      "Family",
+      "Comedy"
+    ],
+    "release_year": 2009,
+    "vote_count": 42
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Horrible Histories is a comedic history series aimed at a family audience, blending educational content with irreverent humor and slapstick. The show utilizes a fast-paced, sketch-based format to explore historical events and figures, often exaggerating or satirizing them for comedic effect. It aims to make history engaging and accessible to children while appealing to adults with its witty writing and physical comedy. The series' unique blend of education and entertainment creates a lighthearted and often absurd portrayal of the past.",
+        "spoiler_rich_plot_summary": "The series doesn't follow a traditional narrative arc but instead presents a series of self-contained historical vignettes. Each episode typically focuses on a specific period or event, such as the Stone Age, Ancient Egypt, or the Roman Empire. Characters from different eras often interact and collide in humorous and unexpected ways, creating anachronistic situations and satirical commentary on historical figures and events. The show frequently employs comedic reenactments of battles, royal court dramas, and everyday life, often with exaggerated violence and absurd situations. While there's no overarching plot, recurring characters and running gags contribute to a sense of continuity across episodes, and the series consistently revisits historical themes and figures, offering fresh comedic perspectives.",
+        "categorized_keywords": {
+          "themes": [
+            "history-education",
+            "satire",
+            "anachronism",
+            "comedy",
+            "family-entertainment"
+          ],
+          "plot_and_concepts": [
+            "sketch-comedy",
+            "historical-reenactment",
+            "time-travel-humor",
+            "anachronistic-situations"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "absurd",
+            "slapstick",
+            "humorous",
+            "irreverent"
+          ],
+          "genre_and_tropes": [
+            "family-comedy",
+            "historical-comedy",
+            "sketch-comedy"
+          ],
+          "setting": [
+            "ancient-egypt",
+            "roman-empire",
+            "stone-age",
+            "middle-ages",
+            "historical-periods"
+          ],
+          "character_archetypes": [
+            "historical-figures",
+            "comedic-characters"
+          ],
+          "narrative_style": [
+            "episodic",
+            "sketch-based"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "historical-costumes",
+            "comedic-violence",
+            "royal-court",
+            "ancient-artifacts"
+          ],
+          "maturity_and_content": [
+            "comedic-violence"
+          ]
+        },
+        "keyword_sentence": "Horrible Histories is a lighthearted and irreverent family comedy series that uses sketch-based reenactments and comedic violence to explore historical periods and figures in an absurd and entertaining way."
+      },
+      "duration_seconds": 52.76339244842529
+    }
+  }
+}

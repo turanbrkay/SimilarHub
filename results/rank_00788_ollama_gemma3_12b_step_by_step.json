@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Step by Step",
+    "overview": "Step by Step is an American television sitcom with two single parents, who spontaneously get married after meeting one another during a vacation, resulting in them becoming the heads of a large blended family",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1991,
+    "vote_count": 354
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Step by Step is a family sitcom centered on the merging of two very different households after a spontaneous marriage. The series explores the challenges and humorous situations that arise when a more affluent, traditional family blends with a more laid-back, working-class one. It offers a lighthearted and optimistic portrayal of blended family dynamics, focusing on the comedic clashes and eventual bonds formed between the parents and their children. The show's appeal lies in its relatable themes of family, acceptance, and finding common ground despite differences.",
+        "spoiler_rich_plot_summary": "The series begins with Jeff Stone, a widower raising three boys, and Suzanne Krinsky, a single mother raising three girls, meeting and quickly marrying after a chance encounter. The initial seasons focus on the culture clash between the Stone and Krinsky families, highlighting the differences in their lifestyles, values, and parenting styles. Jeff's family is more affluent and traditional, while Suzanne's is more relaxed and financially modest. The children struggle to adjust to their new living arrangements, leading to numerous comedic misunderstandings and sibling rivalries. Over time, the families gradually learn to appreciate each other's differences and build stronger bonds. Recurring storylines involve the children navigating school, relationships, and personal growth, all within the context of their blended family. While challenges and conflicts arise, the overarching narrative emphasizes the importance of love, forgiveness, and the creation of a new, unified family unit. The series concludes with the children growing up and pursuing their own paths, leaving Jeff and Suzanne to reflect on the journey they're taken together.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "blended-family",
+            "cultural-differences",
+            "parenting",
+            "acceptance",
+            "love",
+            "forgiveness"
+          ],
+          "plot_and_concepts": [
+            "culture-clash",
+            "family-comedy",
+            "coming-of-age",
+            "sibling-rivalry"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "optimistic",
+            "feel-good"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "family-drama",
+            "found-family"
+          ],
+          "setting": [
+            "suburban-usa",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "single-parent",
+            "traditional-father",
+            "working-class-mother",
+            "teenager",
+            "child"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "family-dinner",
+            "school-bus",
+            "teenage-romance",
+            "family-vacation"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Step by Step is a lighthearted family sitcom that explores the humorous and heartwarming challenges of blending two different households and embracing the joys of a found family in modern-day suburban America."
+      },
+      "duration_seconds": 59.384785413742065
+    }
+  }
+}

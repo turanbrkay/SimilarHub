@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Heidi",
+    "overview": "After charming her reclusive grandfather and falling in love with the beautiful mountain he calls home, Heidi is uprooted and sent to Frankfurt where she befriends Klara, a young girl confined to a wheelchair.",
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "release_year": 1993,
+    "vote_count": 35
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Heidi is a heartwarming family drama centered on a young girl's journey of self-discovery and the profound impact of human connection. The series explores themes of nature, family, and the resilience of the human spirit, contrasting the idyllic simplicity of mountain life with the complexities of urban existence. It offers a gentle, optimistic narrative, emphasizing the power of kindness and the importance of finding beauty in unexpected places. The series is characterized by its wholesome tone and focus on character development, appealing to a broad audience seeking a comforting and uplifting viewing experience.",
+        "spoiler_rich_plot_summary": "The story begins with Heidi, an orphaned young girl, being taken to live with her gruff but kind grandfather in the Swiss Alps. She quickly adapts to the mountain life, forming a deep connection with nature and her grandfather. Her idyllic existence is disrupted when she is brought down to Frankfurt to be a companion to Klara, a young girl confined to a wheelchair and living a sheltered life. Heidi's infectious joy and genuine warmth gradually break through Klara's isolation, fostering a close friendship between the two girls. However, Heidi's adjustment to city life proves challenging, and she longs for the mountains and her grandfather. Through a series of events, Heidi's health deteriorates due to the unfamiliar environment, highlighting the importance of her connection to nature. Eventually, with the help of her grandfather and the support of those who care for her, Heidi returns to the Alps, where she fully recovers and continues to live a happy and fulfilling life, forever bound to the mountains and her cherished friendships.",
+        "categorized_keywords": {
+          "themes": [
+            "nature-connection",
+            "family-bonds",
+            "friendship",
+            "resilience",
+            "social-class",
+            "innocence",
+            "healing"
+          ],
+          "plot_and_concepts": [
+            "coming-of-age",
+            "disability-representation",
+            "mountain-setting",
+            "city-life-contrast"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "optimistic",
+            "gentle",
+            "heartwarming"
+          ],
+          "genre_and_tropes": [
+            "family-drama",
+            "coming-of-age-story",
+            "found-family"
+          ],
+          "setting": [
+            "swiss-alps",
+            "frankfurt-germany",
+            "mountain-village",
+            "urban-setting"
+          ],
+          "character_archetypes": [
+            "innocent-child",
+            "gruff-but-kind-grandfather",
+            "disabled-companion",
+            "compassionate-caregiver"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "character-driven"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "mountain-goats",
+            "wheelchair",
+            "alpine-flowers",
+            "grandfather's-hut"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Heidi is a heartwarming family drama set against the stunning backdrop of the Swiss Alps, exploring themes of friendship, resilience, and the healing power of nature as a young girl navigates the challenges of city life and finds solace in the bonds of family."
+      },
+      "duration_seconds": 59.95606589317322
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Get Smart",
+    "overview": "Get Smart is a short-lived American comedy television series that aired in 1995 on FOX. The series was a sequel to the original Get Smart television series that ran from 1965 to 1970. The series premiered on January 8, 1995 and ended its original run on February 19, 1995.",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Mystery"
+    ],
+    "release_year": 1995,
+    "vote_count": 119
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Get Smart is a comedic reimagining of the classic 1960s spy series. The show blends elements of crime, mystery, and slapstick humor, following the misadventures of a CONTROL agent and his partner as they navigate the world of espionage. It aims to capture the spirit of the original while updating the humor for a modern audience, often relying on situational comedy and character-driven interactions. Despite its initial promise, the series faced challenges and ultimately had a brief run.",
+        "spoiler_rich_plot_summary": "The series follows Maxwell Smart, a hapless but well-meaning CONTROL agent, and Agent 13, his capable partner, as they attempt to thwart the schemes of the villainous Siegfried and his organization, whose goals are to destabilize the world. Maxwell's incompetence frequently leads to chaotic situations and near-disasters, requiring Agent 13 to constantly save the day. Throughout the short run, they encounter various adversaries and navigate complex missions, often involving elaborate disguises and technological gadgets. While the series attempts to maintain a lighthearted tone, underlying tensions and betrayals within CONTROL add a layer of intrigue, though the overarching narrative remains largely unresolved due to the show's premature cancellation.",
+        "categorized_keywords": {
+          "themes": [
+            "espionage",
+            "incompetence",
+            "partnership",
+            "deception",
+            "satire"
+          ],
+          "plot_and_concepts": [
+            "spy-gadgets",
+            "disguise",
+            "crime-investigation",
+            "mystery",
+            "satirical-comedy"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "absurdist"
+          ],
+          "genre_and_tropes": [
+            "spy-comedy",
+            "fish-out-of-water",
+            "sequel",
+            "slapstick-comedy"
+          ],
+          "setting": [
+            "modern-day",
+            "espionage-world"
+          ],
+          "character_archetypes": [
+            "bumbling-hero",
+            "capable-partner",
+            "villain"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "spy-gadgets",
+            "disguise",
+            "hq-building"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Get Smart is a lighthearted family-audience comedy that satirizes the world of espionage through the misadventures of a bumbling hero and his capable partner, relying on slapstick humor and spy-gadgets to create a comedic and episodic narrative."
+      },
+      "duration_seconds": 58.09549021720886
+    }
+  }
+}

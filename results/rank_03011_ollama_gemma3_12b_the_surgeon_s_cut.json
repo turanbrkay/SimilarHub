@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "The Surgeon's Cut",
+    "overview": "They're philosophers, storytellers and pioneers in their fields. Four surgeons reflect on their lives and professions in this inspiring docuseries.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2020,
+    "vote_count": 47
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Surgeon's Cut is a documentary series offering intimate portraits of pioneering surgeons and their perspectives on life, death, and the profound responsibility of their profession. Through reflective interviews and observational footage, the series explores the emotional and intellectual challenges faced by these individuals, highlighting their dedication to innovation and patient care. It's a contemplative exploration of the human condition viewed through the lens of surgical expertise, offering a blend of medical insight and philosophical musings. The series aims to inspire and provoke thought about the complexities of healing and the pursuit of excellence. Ultimately, it's a celebration of the human spirit and the power of perseverance.",
+        "spoiler_rich_plot_summary": "The series follows four distinct surgeons, each with their own unique backgrounds and areas of specialization. Each episode delves into their personal journeys, revealing pivotal moments that shaped their careers and philosophies. We see them grapple with difficult ethical dilemmas, confront the emotional toll of their work, and reflect on the impact they've had on their patients' lives. The series doesn't follow a traditional narrative arc, but rather presents a collection of interconnected stories, each offering a glimpse into the surgeon's world. Recurring themes include the importance of mentorship, the constant pursuit of knowledge, and the profound responsibility that comes with holding a patient's life in one's hands. The series concludes with each surgeon offering their final thoughts on their careers and the future of medicine, leaving a lasting impression on the viewer.",
+        "categorized_keywords": {
+          "themes": [
+            "medical-ethics",
+            "professional-responsibility",
+            "human-condition",
+            "innovation",
+            "healing",
+            "mentorship"
+          ],
+          "plot_and_concepts": [
+            "medical-documentary",
+            "reflective-narrative",
+            "biographical-profile"
+          ],
+          "mood_and_tone": [
+            "contemplative",
+            "inspiring",
+            "thought-provoking",
+            "somber"
+          ],
+          "genre_and_tropes": [
+            "documentary-series",
+            "biography"
+          ],
+          "setting": [
+            "operating-room",
+            "modern-day",
+            "hospital-setting"
+          ],
+          "character_archetypes": [
+            "expert",
+            "innovator",
+            "mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "interview-driven"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "medical-professionals"
+          ],
+          "detail_plot": [
+            "scalpel",
+            "surgical-gown",
+            "operating-table",
+            "medical-chart"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Surgeon's Cut is a contemplative documentary series that explores the profound responsibilities and innovative spirit of pioneering surgeons through reflective interviews and observations within the modern hospital setting."
+      },
+      "duration_seconds": 56.171058177948
+    }
+  }
+}

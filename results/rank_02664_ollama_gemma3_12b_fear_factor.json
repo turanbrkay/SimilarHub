@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Fear Factor",
+    "overview": "Competition reality series in which contestants must decide if they have the guts and determination to face their fears while outpacing the competition.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2001,
+    "vote_count": 60
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Fear Factor is a reality competition series centered around contestants confronting and overcoming their deepest fears. The show's premise revolves around physical and psychological challenges designed to test limits and entertain audiences with visceral reactions. It blends elements of endurance, gross-out humor, and competitive spirit, creating a spectacle of human resilience and discomfort. The series' appeal lies in its ability to tap into primal anxieties and offer a vicarious thrill for viewers.",
+        "spoiler_rich_plot_summary": "Each episode of Fear Factor features several contestants who are presented with a series of challenges designed to elicit fear and disgust. These challenges often involve handling live insects, consuming unusual foods, or enduring physically demanding tasks in unsettling environments. Contestants are ranked based on their performance in each challenge, and the lowest-ranked contestant is eliminated. The final challenge pits the remaining contestants against each other in a high-stakes test of endurance and mental fortitude. The winner is crowned the 'Fear Factor' champion and receives a cash prize. Throughout the series, the challenges escalate in intensity, pushing contestants to their absolute limits and showcasing the diverse range of human fears.",
+        "categorized_keywords": {
+          "themes": [
+            "fear",
+            "challenge",
+            "competition",
+            "endurance",
+            "human-limits",
+            "resilience"
+          ],
+          "plot_and_concepts": [
+            "gross-out-humor",
+            "physical-challenge",
+            "psychological-challenge",
+            "elimination-format"
+          ],
+          "mood_and_tone": [
+            "tense",
+            "unsettling",
+            "exciting",
+            "visceral"
+          ],
+          "genre_and_tropes": [
+            "reality-competition",
+            "gross-out-challenge",
+            "endurance-challenge"
+          ],
+          "setting": [
+            "varied-locations",
+            "outdoor-environment"
+          ],
+          "character_archetypes": [
+            "competitive-personality",
+            "fearful-contestant",
+            "resilient-individual"
+          ],
+          "narrative_style": [
+            "episodic-format",
+            "elimination-based"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "live-insects",
+            "unusual-food",
+            "physical-task",
+            "elimination-ceremony"
+          ],
+          "maturity_and_content": [
+            "disturbing-imagery",
+            "animal-handling"
+          ]
+        },
+        "keyword_sentence": "Fear Factor is a reality competition series that challenges contestants to confront their deepest fears through physically and psychologically demanding tasks, often involving unsettling imagery and animal handling, creating a tense and exciting spectacle for adult viewers."
+      },
+      "duration_seconds": 54.461703062057495
+    }
+  }
+}

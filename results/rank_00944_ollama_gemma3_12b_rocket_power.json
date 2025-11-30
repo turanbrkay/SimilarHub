@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Rocket Power",
+    "overview": "The daily lives of four friends who enjoy extreme sports, surfing, and getting into some crazy situations.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "release_year": 1999,
+    "vote_count": 280
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Rocket Power is a lighthearted animated series centered on a group of friends navigating adolescence through extreme sports and coastal living. The show blends comedic elements with themes of friendship, family, and personal growth, often exploring the challenges of growing up in a vibrant, sun-drenched environment. It offers a feel-good experience, emphasizing the importance of teamwork and embracing individuality. The series' appeal lies in its energetic pace, relatable characters, and celebration of an active lifestyle.",
+        "spoiler_rich_plot_summary": "Rocket Power follows the adventures of Otto, Reggie, Sam, and Twister as they pursue their passion for surfing, skateboarding, and other extreme sports in Ocean Shores, California. The series begins with the friends establishing their reputation as skilled athletes and navigating the social dynamics of their community. Throughout the show's run, they encounter various challenges, including rivalries with other athletes, personal conflicts within their group, and the complexities of family relationships. The characters frequently face situations that test their courage and loyalty, often requiring them to work together to overcome obstacles. As they mature, they learn valuable lessons about responsibility, perseverance, and the importance of staying true to themselves, while continuing to enjoy the thrill of extreme sports and the bonds of friendship.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "family",
+            "growing-up",
+            "perseverance",
+            "teamwork",
+            "self-discovery"
+          ],
+          "plot_and_concepts": [
+            "extreme-sports",
+            "coming-of-age",
+            "rivalry",
+            "adventure"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "energetic",
+            "optimistic",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "comedy",
+            "family-audience",
+            "sports-comedy"
+          ],
+          "setting": [
+            "california",
+            "coastal-town",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "athlete",
+            "best-friends",
+            "teenager"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "surfboard",
+            "skateboard",
+            "ocean-beach",
+            "extreme-sports-arena"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Rocket Power is a lighthearted animated series that celebrates friendship, family, and the thrill of extreme sports in a vibrant California coastal town."
+      },
+      "duration_seconds": 53.87146830558777
+    }
+  }
+}

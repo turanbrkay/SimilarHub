@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Code of a Killer",
+    "overview": "Based on the extraordinary true story of Alec Jeffreys' discovery of DNA fingerprinting and its first use by Detective Chief Superintendent David Baker in catching a double murderer.",
+    "genres": [
+      "Drama",
+      "Crime",
+      "Mystery"
+    ],
+    "release_year": 2015,
+    "vote_count": 39
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Code of a Killer is a gripping drama that explores the intersection of groundbreaking scientific discovery and a complex criminal investigation. The series delves into the story of Alec Jeffreys' accidental invention of DNA fingerprinting and its subsequent application by police in a high-profile murder case. It examines the ethical and societal implications of this new technology while portraying the intense pressure faced by investigators and the profound impact on the lives of those involved. The series blends elements of crime procedural and biographical drama, offering a suspenseful and thought-provoking narrative.",
+        "spoiler_rich_plot_summary": "The series begins with the story of Alec Jeffreys, a geneticist working to map the human genome. While pursuing his research, he inadvertently makes a monumental discovery: DNA fingerprinting. Simultaneously, a brutal double murder rocks the English Midlands, and Detective Chief Superintendent David Baker is assigned to the case. Initially, the investigation focuses on several suspects, but the lack of conventional evidence hampers progress. Recognizing the potential of Jeffreys' new technique, Baker approaches the geneticist, and DNA fingerprinting is employed to analyze evidence from the crime scene. The process reveals unexpected connections and leads to a shocking revelation about the true perpetrator, overturning initial assumptions and highlighting the power of scientific innovation in solving complex crimes. The series follows the legal proceedings and the profound impact of the discovery on the lives of the victims' families and the accused, ultimately demonstrating the transformative effect of DNA fingerprinting on the criminal justice system.",
+        "categorized_keywords": {
+          "themes": [
+            "scientific-discovery",
+            "criminal-justice",
+            "ethics",
+            "truth-seeking",
+            "impact-of-technology",
+            "moral-responsibility"
+          ],
+          "plot_and_concepts": [
+            "dna-fingerprinting",
+            "police-investigation",
+            "cold-case",
+            "forensic-science",
+            "true-crime"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "serious",
+            "thought-provoking",
+            "somber"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "biographical-drama",
+            "forensic-thriller"
+          ],
+          "setting": [
+            "england",
+            "modern-day",
+            "police-station",
+            "laboratory"
+          ],
+          "character_archetypes": [
+            "brilliant-scientist",
+            "dedicated-detective",
+            "moral-ambiguity"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "true-story-adaptation"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "dna-sample",
+            "crime-scene",
+            "police-badge",
+            "laboratory-equipment"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "legal-proceedings"
+          ]
+        },
+        "keyword_sentence": "Code of a Killer is a serious and suspenseful crime procedural that explores the profound impact of scientific discovery, specifically dna fingerprinting, on a police investigation in modern-day England."
+      },
+      "duration_seconds": 56.49233818054199
+    }
+  }
+}

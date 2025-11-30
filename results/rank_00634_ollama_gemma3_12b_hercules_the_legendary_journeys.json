@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Hercules: The Legendary Journeys",
+    "overview": "The legendary son of Zeus journeys across the earth fighting monsters and helping people.",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1995,
+    "vote_count": 452
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Hercules: The Legendary Journeys is a long-running action-adventure series centered on the mythological hero Hercules as he travels the ancient world, righting wrongs and battling a wide array of monsters and villains. The show blends action sequences with fantasy elements and occasional forays into science fiction, creating a lighthearted and episodic format. While rooted in Greek mythology, the series often incorporates contemporary themes and social commentary, appealing to a broad audience with its blend of heroic action and fantastical storytelling. The show's episodic nature allows for a constant stream of new challenges and characters, maintaining a sense of adventure and escapism.",
+        "spoiler_rich_plot_summary": "The series begins with Hercules, banished from Mount Olympus, embarking on a journey across ancient lands. He is often accompanied by his loyal companion, Iolaus, and encounters a diverse cast of characters, both benevolent and malevolent. Hercules frequently intervenes in conflicts between kingdoms, battles mythical creatures like centaurs and harpies, and confronts powerful sorcerers seeking to exploit ancient magic. Throughout his travels, Hercules grapples with his own identity and the legacy of his divine parentage, often facing moral dilemmas and questioning his role as a hero. Recurring antagonists include various gods and demigods seeking to undermine his efforts or exploit his power. As the series progresses, Hercules's adventures become increasingly complex, involving larger-scale conflicts and deeper explorations of his own past and destiny. While he consistently strives to uphold justice and protect the innocent, his path is fraught with peril and sacrifice, ultimately shaping him into a legendary figure.",
+        "categorized_keywords": {
+          "themes": [
+            "heroism",
+            "justice",
+            "good-vs-evil",
+            "fate",
+            "redemption",
+            "divine-parentage"
+          ],
+          "plot_and_concepts": [
+            "mythology",
+            "monster-hunting",
+            "ancient-world",
+            "quest",
+            "epic-adventure",
+            "time-travel"
+          ],
+          "mood_and_tone": [
+            "action-packed",
+            "lighthearted",
+            "fantastical",
+            "optimistic",
+            "adventurous"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "fantasy",
+            "mythological-fiction",
+            "heroic-journey",
+            "monster-of-the-week"
+          ],
+          "setting": [
+            "ancient-greece",
+            "mythical-lands",
+            "ancient-world"
+          ],
+          "character_archetypes": [
+            "hero",
+            "loyal-companion",
+            "villain",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "centaur",
+            "harpies",
+            "greek-mythology",
+            "iolau",
+            "olympus"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Hercules: The Legendary Journeys is a lighthearted action-adventure series set in the ancient world, following a heroic figure as he battles monsters and champions justice through episodic quests rooted in Greek mythology."
+      },
+      "duration_seconds": 59.99497199058533
+    }
+  }
+}

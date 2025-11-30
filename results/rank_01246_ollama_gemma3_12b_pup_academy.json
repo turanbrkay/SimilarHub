@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Pup Academy",
+    "overview": "Welcome to a secret world where pups learn to be a human's best friend. Follow three unlikely puppies - and their human friends - as they work together to discover the power of friendship and create everlasting bonds between dogs and humans.",
+    "genres": [
+      "Kids",
+      "Comedy"
+    ],
+    "release_year": 2019,
+    "vote_count": 192
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Pup Academy is a lighthearted children's series centered around a unique school where puppies train to become companions to humans. The show emphasizes themes of friendship, teamwork, and responsibility, presented in a comedic and accessible format for a young audience. It blends elements of animal-centric storytelling with a focus on character development and positive social messaging, creating a wholesome and entertaining experience for families.",
+        "spoiler_rich_plot_summary": "The series begins with three puppies – Wally, Bruce, and Stella – being brought to Pup Academy, a hidden school dedicated to training dogs to become the perfect companions. Initially, the puppies struggle to adapt to the rigorous training program and face challenges in understanding the expectations of their human counterparts. Throughout the series, they encounter various obstacles, including mischievous rivals and unexpected situations that test their abilities and strengthen their bonds. As they progress, the puppies learn valuable lessons about trust, perseverance, and the importance of working together. The series culminates in a final challenge where the puppies must demonstrate their skills and prove their worth, ultimately forging lasting connections with their human friends and solidifying the power of the human-animal bond.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "teamwork",
+            "responsibility",
+            "animal-bonding",
+            "self-discovery"
+          ],
+          "plot_and_concepts": [
+            "training-montage",
+            "coming-of-age",
+            "secret-location",
+            "animal-school"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "lighthearted",
+            "optimistic",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "kids-comedy",
+            "animal-adventure",
+            "coming-of-age-story",
+            "found-family"
+          ],
+          "setting": [
+            "secret-academy",
+            "modern-day",
+            "animal-world"
+          ],
+          "character_archetypes": [
+            "mischievous-pup",
+            "reluctant-hero",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-children"
+          ],
+          "detail_plot": [
+            "training-course",
+            "puppy-playpen",
+            "human-instructor"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Pup Academy is a lighthearted kids' comedy series that explores themes of friendship and responsibility as three puppies learn to become the perfect companions in a secret training academy."
+      },
+      "duration_seconds": 53.71419715881348
+    }
+  }
+}

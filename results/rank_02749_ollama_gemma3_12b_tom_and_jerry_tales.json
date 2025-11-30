@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Tom and Jerry Tales",
+    "overview": "Tom and Jerry Tales is an American animated television series featuring the cat-and-mouse duo Tom and Jerry.",
+    "genres": [
+      "Animation",
+      "Kids"
+    ],
+    "release_year": 2006,
+    "vote_count": 57
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Tom and Jerry Tales is a revival of the classic animated series, designed for a younger audience while retaining the slapstick humor and timeless chase dynamic that defined the original. The series blends traditional animation styles with modern storytelling techniques, presenting familiar scenarios and characters in new and imaginative ways. It offers a lighthearted and consistently entertaining experience, emphasizing visual gags and comedic misunderstandings between the mischievous cat and mouse.",
+        "spoiler_rich_plot_summary": "The series reimagines classic Tom and Jerry shorts, often incorporating fairy tale and folklore elements. Episodes frequently feature Tom's attempts to catch Jerry, which are thwarted by Jerry's cleverness and often involve elaborate traps and comedic mishaps. The stories often introduce new characters and settings, drawing inspiration from various children's stories and myths. While the core dynamic remains the same – Tom pursuing Jerry – the series expands on the world and characters, occasionally exploring themes of friendship and forgiveness amidst the chaos. The series maintains a consistently playful tone, avoiding darker or more complex narratives, and concludes with the enduring promise of more comedic chases to come.",
+        "categorized_keywords": {
+          "themes": [
+            "cat-and-mouse",
+            "friendship",
+            "mischief",
+            "slapstick-humor"
+          ],
+          "plot_and_concepts": [
+            "cartoon-physics",
+            "chase-sequence",
+            "reimagining",
+            "fairy-tale-elements"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "playful"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "childrens-comedy",
+            "reboot",
+            "classic-cartoon"
+          ],
+          "setting": [
+            "domestic-setting",
+            "fantasy-setting",
+            "timeless"
+          ],
+          "character_archetypes": [
+            "trickster",
+            "pursuer",
+            "mischievous-character"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic",
+            "anthology"
+          ],
+          "target_audience": [
+            "children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "mouse-trap",
+            "cartoon-explosion",
+            "animated-cheese",
+            "cat-and-mouse-game"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Tom and Jerry Tales is a lighthearted animated series for children and families, reimagining the classic cat-and-mouse dynamic with playful humor and timeless appeal."
+      },
+      "duration_seconds": 51.887470960617065
+    }
+  }
+}

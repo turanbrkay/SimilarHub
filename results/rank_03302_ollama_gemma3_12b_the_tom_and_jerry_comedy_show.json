@@ -1,0 +1,68 @@
+{
+  "input_data": {
+    "title": "The Tom and Jerry Comedy Show",
+    "overview": "The Tom and Jerry Comedy Show is an animated television program produced by Filmation for MGM Television in 1980, on CBS for Saturday mornings. The show lasted one season and the individual episodes were eventually added to syndicated Tom and Jerry packages, and also occasionally appeared on Cartoon Network and Boomerang. Most voices were done by Frank Welker and Lou Scheimer.",
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "release_year": 1980,
+    "vote_count": 40
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Tom and Jerry Comedy Show, produced by Filmation, is a revival of the classic animated series aimed at a younger audience. Maintaining the core premise of a cat-and-mouse rivalry, the show utilizes slapstick humor and cartoon violence to entertain viewers. While retaining the familiar characters and visual style, the series incorporates elements of situational comedy and broader comedic scenarios, often involving supporting characters and more elaborate gags. It represents a continuation of the franchise's legacy, adapting the formula for a new generation.",
+        "spoiler_rich_plot_summary": "The series follows the ongoing conflict between Tom, the house cat, and Jerry, the resourceful mouse, as they engage in a relentless battle for dominance. Each episode typically presents a new scheme or challenge for either Tom or Jerry, leading to chaotic and destructive consequences for their surroundings. While the series maintains the core dynamic of their rivalry, it introduces new characters and scenarios to keep the humor fresh. The episodes generally conclude with a comedic resolution, often leaving the status quo unchanged, ensuring the cycle of conflict continues. The series doesn't feature a grand overarching narrative, instead focusing on self-contained comedic episodes that showcase the enduring appeal of the cat-and-mouse chase.",
+        "categorized_keywords": {
+          "themes": [
+            "cat-and-mouse",
+            "rivalry",
+            "humor",
+            "chaos"
+          ],
+          "plot_and_concepts": [
+            "slapstick-comedy",
+            "cartoon-violence",
+            "chase-sequence",
+            "situational-comedy"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "comedy",
+            "classic-cartoon"
+          ],
+          "setting": [
+            "domestic-setting",
+            "animated-world"
+          ],
+          "character_archetypes": [
+            "trickster",
+            "pursuer"
+          ],
+          "narrative_style": [
+            "episodic",
+            "self-contained"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "mouse-trap",
+            "cartoon-physics",
+            "animated-kitchen"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Tom and Jerry Comedy Show is a lighthearted animated series centered on the enduring rivalry between a cat and a mouse, delivering classic cartoon humor and slapstick comedy for a family audience."
+      },
+      "duration_seconds": 47.36170840263367
+    }
+  }
+}

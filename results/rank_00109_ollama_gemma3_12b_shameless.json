@@ -1,0 +1,85 @@
+{
+  "input_data": {
+    "title": "Shameless",
+    "overview": "Chicagoan Frank Gallagher is the proud single dad of six smart, industrious, independent kids, who without him would be... perhaps better off. When Frank's not at the bar spending what little money they have, he's passed out on the floor. But the kids have found ways to grow up in spite of him. They may not be like any family you know, but they make no apologies for being exactly who they are.",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "release_year": 2011,
+    "vote_count": 2268
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Shameless is a darkly comedic drama series that follows the Gallagher family, a poverty-stricken and dysfunctional clan living in Chicago's South Side. The show explores themes of family, survival, and morality through the lens of their unconventional and often chaotic lifestyle. It blends humor and pathos, depicting the Gallaghers' struggles with poverty, addiction, and crime while also showcasing their resilience and loyalty to one another. The series offers a raw and unflinching portrayal of marginalized communities and the lengths people will go to protect their own.",
+        "spoiler_rich_plot_summary": "The series begins with Frank Gallagher, a neglectful and alcoholic patriarch, seemingly abandoning his six children. The eldest, Fiona, takes on the responsibility of raising her siblings, navigating the challenges of poverty and keeping the family afloat. As the series progresses, each Gallagher child develops their own unique coping mechanisms and pursues their individual ambitions, often leading them down morally ambiguous paths. Relationships are complex and fraught with conflict, as the children grapple with their father's absence and the consequences of their own choices. Over the seasons, the Gallaghers encounter a revolving door of colorful characters, both allies and adversaries, who further complicate their lives. While they experience moments of joy and connection, they also face betrayals, losses, and the constant threat of their precarious existence collapsing. The series culminates with the family facing a final crisis that forces them to confront their past and determine their future, ultimately demonstrating the enduring power of family bonds despite their dysfunction.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dysfunction",
+            "poverty",
+            "addiction",
+            "survival",
+            "morality",
+            "social-inequality",
+            "redemption",
+            "loyalty"
+          ],
+          "plot_and_concepts": [
+            "found-family",
+            "crime",
+            "alcoholism",
+            "generational-trauma",
+            "social-realism"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "gritty",
+            "cynical",
+            "raw",
+            "unflinching"
+          ],
+          "genre_and_tropes": [
+            "family-drama",
+            "crime-drama",
+            "social-commentary",
+            "anti-hero"
+          ],
+          "setting": [
+            "chicago-south-side",
+            "urban-poverty",
+            "working-class"
+          ],
+          "character_archetypes": [
+            "neglectful-father",
+            "resilient-protagonist",
+            "anti-hero",
+            "working-class-heroine"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "trailer-park",
+            "bar-scene",
+            "stolen-goods",
+            "illegal-business",
+            "social-worker"
+          ],
+          "maturity_and_content": [
+            "sexual-content",
+            "substance-abuse",
+            "graphic-violence",
+            "profanity"
+          ]
+        },
+        "keyword_sentence": "Shameless is a darkly comic drama series set in Chicago’s South Side, exploring themes of family dysfunction, poverty, and survival through the lens of a resilient working-class family grappling with addiction and social inequality."
+      },
+      "duration_seconds": 75.58218955993652
+    }
+  }
+}

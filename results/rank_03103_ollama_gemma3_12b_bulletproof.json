@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Bulletproof",
+    "overview": "Police duo Bishop and Pike are two best mates bonded by the same moral code, despite their differences. Packed full of humour, action and emotion, Bulletproof is about friendship, conspiracies and ghosts from the past.",
+    "genres": [
+      "Action & Adventure",
+      "Crime"
+    ],
+    "release_year": 2018,
+    "vote_count": 44
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Bulletproof is a British action-crime series centered on two best friends and police officers, Bishop and Pike, who navigate the complexities of law enforcement while grappling with personal demons and a shared history. The series blends action sequences with comedic elements and explores themes of loyalty, morality, and the blurred lines between justice and vengeance. It offers a fast-paced, character-driven narrative with a focus on the dynamic between the two protagonists and the conspiracies they uncover. The show’s tone is generally lighthearted despite the serious subject matter, creating a unique blend of action and humor.",
+        "spoiler_rich_plot_summary": "The series begins with Bishop and Pike, partners in the Serious Crime Unit, investigating a series of crimes linked to their father's past. Bishop, driven by a desire for justice, often clashes with Pike, who prioritizes following protocol. As they delve deeper into the cases, they uncover a web of corruption within the police force and a conspiracy that reaches the highest levels of power. Their investigation forces them to confront their own family histories and the choices their father made. Throughout the series, the brothers face betrayals from within their unit and must rely on each other to survive. The series culminates in a confrontation with the individuals responsible for the conspiracy, forcing Bishop and Pike to make difficult choices that will impact their careers and their relationship.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "loyalty",
+            "family-secrets",
+            "corruption",
+            "redemption",
+            "moral-ambiguity"
+          ],
+          "plot_and_concepts": [
+            "police-procedural",
+            "conspiracy-thriller",
+            "revenge-plot",
+            "undercover-operation"
+          ],
+          "mood_and_tone": [
+            "action-packed",
+            "humorous",
+            "suspenseful",
+            "darkly-comic"
+          ],
+          "genre_and_tropes": [
+            "buddy-cop",
+            "crime-drama",
+            "action-adventure"
+          ],
+          "setting": [
+            "modern-day",
+            "london-city"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "reluctant-hero",
+            "moral-gray-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "police-car-chase",
+            "firearms",
+            "interrogation-room",
+            "crime-scene"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "strong-language"
+          ]
+        },
+        "keyword_sentence": "Bulletproof is a darkly comic crime drama set in modern-day London, following two loyal police officers as they navigate a thrilling conspiracy while confronting family secrets and moral ambiguities."
+      },
+      "duration_seconds": 55.25951600074768
+    }
+  }
+}

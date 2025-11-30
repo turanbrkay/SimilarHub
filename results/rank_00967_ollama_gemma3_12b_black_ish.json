@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "black-ish",
+    "overview": "A family man struggles to gain a sense of cultural identity while raising his kids in a predominantly white, upper-middle-class neighborhood.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2014,
+    "vote_count": 271
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Black-ish is a comedic sitcom that explores the complexities of race, class, and identity in contemporary America. The series follows an African American family navigating the challenges of raising children in a predominantly white, affluent suburb. Through humor and heartfelt moments, the show tackles sensitive topics with nuance and insight, offering a relatable and often poignant reflection on the American experience. It blends observational comedy with social commentary, creating a show that is both entertaining and thought-provoking. The series emphasizes family dynamics and the search for belonging within a rapidly changing cultural landscape.",
+        "spoiler_rich_plot_summary": "The series begins with Dre, a successful marketing executive, and his wife, Bow, a doctor, realizing their children are losing touch with their African American heritage. They decide to move from the city to a predominantly white, upscale neighborhood, hoping to provide their children with better opportunities. However, this move exposes the family to a new set of challenges, including cultural misunderstandings, microaggressions, and the pressure to assimilate. Throughout the series, Dre and Bow grapple with how to instill a sense of pride and identity in their children while also preparing them for the realities of a society marked by racial inequality. The show explores various cultural touchstones and historical events, using humor to address serious issues. As the series progresses, the family expands with the addition of twins, further complicating their journey. Later seasons delve into the experiences of the children as they grow older and confront their own identities, with spin-off series focusing on individual family members. The overarching narrative revolves around the ongoing quest for balance between embracing their heritage and navigating a world that often demands conformity.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "cultural-identity",
+            "race-relations",
+            "class-consciousness",
+            "parenting",
+            "belonging",
+            "social-commentary"
+          ],
+          "plot_and_concepts": [
+            "fish-out-of-water",
+            "sitcom-format",
+            "family-comedy",
+            "social-satire"
+          ],
+          "mood_and_tone": [
+            "humorous",
+            "lighthearted",
+            "warm",
+            "observational",
+            "satirical"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "family-comedy",
+            "social-comedy"
+          ],
+          "setting": [
+            "suburban-america",
+            "modern-day",
+            "upper-middle-class"
+          ],
+          "character_archetypes": [
+            "family-man",
+            "doctor",
+            "teenager",
+            "parent"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "marketing-campaign",
+            "family-dinner",
+            "school-event",
+            "neighborhood-block"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Black-ish is a humorous and lighthearted family comedy that explores themes of cultural identity and race relations within a modern-day suburban setting."
+      },
+      "duration_seconds": 61.896677017211914
+    }
+  }
+}

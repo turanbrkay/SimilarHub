@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Arthur",
+    "overview": "The show revolves around the lives of 8-year-old Arthur Read, an anthropomorphic aardvark, his friends and family, and their daily interactions with each other.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Kids",
+      "Family"
+    ],
+    "release_year": 1996,
+    "vote_count": 133
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Arthur is a long-running animated series aimed at young children, focusing on the everyday experiences of Arthur Read and his friends and family. The show utilizes humor and relatable situations to explore themes of friendship, family, and personal growth. It aims to be both entertaining and educational, promoting positive values and social-emotional learning through its gentle storytelling and diverse cast of characters. The series' enduring popularity stems from its ability to resonate with both children and parents, offering a comforting and familiar portrayal of childhood.",
+        "spoiler_rich_plot_summary": "The series begins with introducing Arthur Read, an aardvark, and his family and friends in the fictional town of Elwood City. Early episodes focus on establishing the core relationships, particularly Arthur's bond with his older sister D.W., his best friend Buster, and his loyal dog Pal. Throughout the series, Arthur and his friends navigate common childhood challenges, such as dealing with schoolwork, resolving conflicts with siblings, and learning about responsibility. Recurring storylines involve family vacations, school events, and the exploration of different hobbies and interests. While the series doesn't feature overarching dramatic arcs, it consistently reinforces positive values and provides gentle lessons about friendship, honesty, and perseverance. The show concludes with a sense of continuity and optimism, leaving viewers with a feeling of warmth and a celebration of the joys of childhood.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "family-dynamics",
+            "personal-growth",
+            "responsibility",
+            "honesty",
+            "perseverance"
+          ],
+          "plot_and_concepts": [
+            "coming-of-age",
+            "slice-of-life",
+            "school-life"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "lighthearted",
+            "optimistic",
+            "gentle"
+          ],
+          "genre_and_tropes": [
+            "childrens-animation",
+            "family-comedy"
+          ],
+          "setting": [
+            "small-town-usa",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "loyal-friend",
+            "mischievous-sibling"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "young-children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "aardvark-character",
+            "family-home",
+            "school-building",
+            "pet-dog"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Arthur is a lighthearted and wholesome children's animation series that explores themes of friendship and family dynamics through the everyday experiences of a young aardvark and his friends in a small-town setting."
+      },
+      "duration_seconds": 57.741619348526
+    }
+  }
+}

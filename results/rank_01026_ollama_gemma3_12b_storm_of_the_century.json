@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Storm of the Century",
+    "overview": "When a blizzard hits an isolated island town it brings with it a mysterious stranger intent on terrorizing the people for a sinister purpose.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "release_year": 1999,
+    "vote_count": 248
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Storm of the Century is a chilling miniseries blending science fiction, drama, and suspense. Set on a remote island, the narrative explores the fragility of community and the darkness that can emerge when faced with extraordinary circumstances. The series masterfully builds tension through a combination of atmospheric dread, psychological manipulation, and a compelling mystery surrounding a charismatic stranger whose arrival coincides with a devastating storm. It examines themes of paranoia, trust, and the potential for ordinary people to succumb to fear and prejudice under duress, offering a bleak but captivating exploration of human nature.",
+        "spoiler_rich_plot_summary": "The series begins with the residents of a small island town preparing for an unusually severe storm. Shortly before the blizzard hits, a mysterious stranger, known only as Isaac, arrives and is initially welcomed by the community. As the storm intensifies, Isaac subtly manipulates the townspeople, exploiting their fears and insecurities to sow discord and paranoia. He plays on existing tensions and past grievances, turning neighbor against neighbor. The storm serves as a catalyst, isolating the town and amplifying Isaac's influence. As the blizzard rages, the town descends into chaos, with accusations and violence erupting. The true nature of Isaac's motives remain shrouded in mystery, and the townspeople struggle to uncover the truth while battling the elements and their own inner demons. The series culminates in a confrontation where the town must confront not only the storm but also the darkness within themselves and the unsettling truth about the stranger who brought it.",
+        "categorized_keywords": {
+          "themes": [
+            "isolation",
+            "paranoia",
+            "trust",
+            "fear",
+            "community",
+            "manipulation",
+            "supernatural",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "mystery",
+            "small-town-drama",
+            "supernatural-threat",
+            "psychological-thriller",
+            "storm-as-metaphor"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "suspenseful",
+            "bleak",
+            "ominous",
+            "tense"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "drama",
+            "mystery-thriller",
+            "small-town-mystery"
+          ],
+          "setting": [
+            "remote-island",
+            "modern-day",
+            "coastal-town"
+          ],
+          "character_archetypes": [
+            "enigmatic-stranger",
+            "vulnerable-community",
+            "morally-grey-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "slow-burn-suspense"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "blizzard",
+            "isolated-town",
+            "storm-damage",
+            "island-community"
+          ],
+          "maturity_and_content": [
+            "psychological-manipulation",
+            "tense-situations"
+          ]
+        },
+        "keyword_sentence": "Set on a remote island, Storm of the Century is a dark and suspenseful drama exploring themes of isolation, paranoia, and the fragility of community as a mysterious stranger exploits the fears of a small town during a devastating blizzard."
+      },
+      "duration_seconds": 57.992536544799805
+    }
+  }
+}

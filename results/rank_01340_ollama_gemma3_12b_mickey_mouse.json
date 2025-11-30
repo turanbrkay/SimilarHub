@@ -1,0 +1,70 @@
+{
+  "input_data": {
+    "title": "Mickey Mouse",
+    "overview": "In this series of cartoon shorts, Mickey Mouse finds himself in silly situations all around the world! From New York to Paris to Tokyo, Mickey experiences new adventures with his friends!",
+    "genres": [
+      "Animation",
+      "Kids"
+    ],
+    "release_year": 2013,
+    "vote_count": 174
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Mickey Mouse is a series of animated shorts designed for a young audience, following the iconic character and his friends as they navigate humorous and lighthearted adventures across various global locations. The show emphasizes friendship, problem-solving, and cultural exploration through a gentle and optimistic lens. It aims to entertain and introduce children to different cultures in a safe and accessible format, maintaining the classic charm of Mickey Mouse while updating the animation style for a modern audience. The series is characterized by its cheerful tone and focus on positive values.",
+        "spoiler_rich_plot_summary": "The series begins with Mickey and his friends, Donald Duck, Goofy, Daisy Duck, and Pluto, embarking on a series of adventures that take them from their familiar stomping grounds to exciting new locales around the world. Each episode typically presents a new challenge or situation, often involving a misunderstanding or a quirky local custom. Throughout their travels, Mickey and his friends learn valuable lessons about friendship, teamwork, and respecting different cultures. While the series doesn's have a grand overarching narrative, recurring themes of community and helping others emerge as the characters consistently face new and amusing circumstances. The adventures continue, showcasing the enduring appeal of Mickey Mouse and his ability to connect with audiences of all ages through relatable and heartwarming stories.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "teamwork",
+            "cultural-exploration",
+            "optimism",
+            "community"
+          ],
+          "plot_and_concepts": [
+            "travel-adventure",
+            "misunderstanding",
+            "problem-solving"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "cheerful",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "kids-entertainment",
+            "slice-of-life"
+          ],
+          "setting": [
+            "global-locations",
+            "new-york-city",
+            "paris",
+            "tokyo"
+          ],
+          "character_archetypes": [
+            "optimistic-hero",
+            "loyal-friend",
+            "goofy-sidekick"
+          ],
+          "narrative_style": [
+            "episodic-storytelling"
+          ],
+          "target_audience": [
+            "young-children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "mickey-mouse-ears",
+            "donald-duck-hat",
+            "goofy-shoes"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "This animated series follows Mickey Mouse and his friends as they experience lighthearted adventures and explore different cultures around the world, emphasizing friendship and positive values for a young audience."
+      },
+      "duration_seconds": 53.53527760505676
+    }
+  }
+}

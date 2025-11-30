@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Comrade Detective",
+    "overview": "In the 1980s, millions of Romanians tuned in to Comrade Detective, a gritty, sexy, communist buddy cop show that has now been digitally remastered and dubbed into English for the first time.",
+    "genres": [
+      "Action & Adventure",
+      "Comedy"
+    ],
+    "release_year": 2017,
+    "vote_count": 30
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Comrade Detective is a unique and satirical series that blends the aesthetics and tropes of 1980s Romanian television with a modern, absurdist sensibility. The show presents itself as a newly discovered, dubbed version of a classic communist-era buddy cop show, complete with intentionally awkward translations and a deliberately low-budget feel. It's a darkly comedic exploration of Cold War culture, police procedural conventions, and the peculiarities of international television production, offering a surreal and often hilarious viewing experience.",
+        "spoiler_rich_plot_summary": "The series follows two detectives, Gregor and Jerry, as they investigate a series of seemingly minor crimes in Bucharest during the 1980s. The cases themselves are often bizarre and nonsensical, ranging from stolen sausages to suspicious disappearances, and are presented with a deadpan seriousness that underscores the show's satirical nature. As the detectives progress through their investigations, they encounter a cast of eccentric characters, including corrupt officials, shadowy informants, and enigmatic strangers. The show’s narrative structure is episodic, with each case offering a glimpse into the strange and often oppressive atmosphere of communist Romania. While the crimes themselves are relatively low-stakes, the underlying themes of surveillance, paranoia, and political maneuvering create a sense of unease and absurdity. The detectives' relationship evolves throughout the series, marked by a mixture of camaraderie and frustration as they navigate the complexities of their work and the peculiarities of their environment. The show culminates in a final case that ties together the various threads of the earlier episodes, revealing a larger conspiracy that implicates high-ranking officials.",
+        "categorized_keywords": {
+          "themes": [
+            "cold-war-culture",
+            "political-satire",
+            "surveillance",
+            "absurdism",
+            "corruption",
+            "bureaucracy"
+          ],
+          "plot_and_concepts": [
+            "buddy-cop",
+            "police-procedural",
+            "mystery",
+            "satirical-crime",
+            "dubbing-error"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "surreal",
+            "deadpan",
+            "absurdist",
+            "ironic"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "satirical-comedy",
+            "mockumentary",
+            "retro-aesthetic"
+          ],
+          "setting": [
+            "bucharest",
+            "1980s",
+            "communist-romania",
+            "eastern-europe"
+          ],
+          "character_archetypes": [
+            "gruff-detective",
+            "naive-detective",
+            "corrupt-official",
+            "enigmatic-informant"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "dubbed-dialogue",
+            "vintage-cars",
+            "communist-era-buildings",
+            "police-station",
+            "vintage-clothing"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Comrade Detective is a darkly comic and surreal series that satirizes Cold War culture and police procedural tropes through a mockumentary style set in 1980s Bucharest."
+      },
+      "duration_seconds": 80.82651376724243
+    }
+  }
+}

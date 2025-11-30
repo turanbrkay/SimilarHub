@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "Night Court",
+    "overview": "Night Court is an American television situation comedy that aired on NBC from January 4, 1984 to May 31, 1992. The setting was the night shift of a Manhattan court, presided over by the young, unorthodox Judge Harold T. \"Harry\" Stone. It was created by comedy writer Reinhold Weege, who had previously worked on Barney Miller in the 1970s and early 1980s.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1984,
+    "vote_count": 98
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Night Court is a long-running American sitcom centered on the unconventional happenings within a Manhattan courtroom during the night shift. The series blends courtroom procedural elements with absurdist humor and character-driven comedy, exploring the dynamics between a quirky judge and his eccentric staff and the unusual cases that come before them. The show's appeal lies in its lighthearted tone and its ability to find humor in everyday situations, offering a comforting and consistently funny viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Judge Harold T. 'Harry' Stone, a young and idealistic judge assigned to the night shift of a Manhattan court. Initially, Harry struggles to maintain order and professionalism amidst the chaotic environment and the unusual characters he encounters – from his loyal bailiff, John, to the eccentric prosecutor, Dan Fielding. Over the seasons, the show explores the personal and professional lives of the courtroom staff, showcasing their evolving relationships and individual struggles. Recurring storylines involve romantic entanglements, career ambitions, and the constant challenge of maintaining a semblance of order within the unpredictable courtroom. While the show maintains a generally lighthearted tone, it occasionally delves into more serious themes, such as personal growth and the complexities of human relationships, ultimately reinforcing the importance of friendship and acceptance.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "acceptance",
+            "personal-growth",
+            "workplace-comedy",
+            "found-family"
+          ],
+          "plot_and_concepts": [
+            "courtroom-comedy",
+            "workplace-sitcom",
+            "ensemble-cast",
+            "serialized-story"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "optimistic",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "workplace-comedy",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "new-york-city",
+            "courtroom",
+            "night-shift"
+          ],
+          "character_archetypes": [
+            "eccentric-judge",
+            "loyal-bailiff",
+            "naive-prosecutor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "courtroom",
+            "bailiff",
+            "prosecutor",
+            "judge"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Night Court is a lighthearted and optimistic workplace sitcom set in a New York City courtroom, celebrating friendship and acceptance through the comedic interactions of an eccentric judge and his loyal staff."
+      },
+      "duration_seconds": 55.761539936065674
+    }
+  }
+}

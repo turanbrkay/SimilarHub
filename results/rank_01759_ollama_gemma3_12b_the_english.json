@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "The English",
+    "overview": "An aristocratic Englishwoman, Lady Cornelia Locke, arrives into the new and wild landscape of the West to wreak revenge on the man she sees as responsible for the death of her son.",
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "release_year": 2022,
+    "vote_count": 116
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The English is a revisionist Western drama that blends historical fiction with elements of mystery and revenge. The series follows Lady Cornelia Locke as she journeys across the American West, seeking retribution for a personal tragedy. It explores themes of loss, identity, and the brutal realities of westward expansion, examining the complex relationship between settlers and Native Americans. The narrative is characterized by a somber tone, a focus on character development, and a deliberate subversion of traditional Western tropes, offering a nuanced and often unsettling portrayal of the era.",
+        "spoiler_rich_plot_summary": "Lady Cornelia Locke, an aristocratic Englishwoman, arrives in the American West seeking vengeance for her son’s death, which she blames on a ruthless outlaw named Eli Wirtham. She is guided by a former Royal Marine, Arnold, who is haunted by his own past. Their journey intertwines with that of a Pawnee man, Odie, who is also seeking justice for his people. As they travel, they encounter various dangers and injustices, including corrupt lawmen, opportunistic settlers, and the harsh realities of frontier life. Cornelia’s quest for revenge leads her to confront not only Eli but also the deep-seated prejudices and violence that define the West. Along the way, she forms an unlikely bond with Arnold and Odie, finding a sense of purpose and belonging in their shared struggle. The series reveals a conspiracy involving powerful figures who manipulate events to exploit the land and its people, forcing Cornelia, Arnold, and Odie to confront a larger system of oppression. Ultimately, their individual quests for justice converge, leading to a confrontation that challenges their beliefs and forces them to make difficult choices about the future.",
+        "categorized_keywords": {
+          "themes": [
+            "revenge",
+            "loss",
+            "identity",
+            "justice",
+            "oppression",
+            "colonialism",
+            "redemption",
+            "frontier-life"
+          ],
+          "plot_and_concepts": [
+            "western-revenge",
+            "historical-fiction",
+            "road-movie",
+            "conspiracy",
+            "frontier-justice"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "gritty",
+            "melancholy",
+            "atmospheric"
+          ],
+          "genre_and_tropes": [
+            "western",
+            "historical-drama",
+            "revisionist-western",
+            "found-family"
+          ],
+          "setting": [
+            "american-west",
+            "1800s",
+            "frontier-territory"
+          ],
+          "character_archetypes": [
+            "aristocrat",
+            "ex-marine",
+            "native-american",
+            "vigilante"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "character-driven"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "stagecoach",
+            "horses",
+            "dusty-landscape",
+            "native-american-village",
+            "saloon"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "historical-injustice"
+          ]
+        },
+        "keyword_sentence": "Set against the backdrop of the American West in the 1800s, The English is a somber and gritty historical drama exploring themes of revenge, loss, and injustice through the journeys of an aristocratic woman, an ex-marine, and a Native American man."
+      },
+      "duration_seconds": 68.98872256278992
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "The Blue Planet",
+    "overview": "David Attenborough narrates a natural history of the oceans.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2001,
+    "vote_count": 289
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Blue Planet is a landmark documentary series offering a breathtaking exploration of marine life and ocean ecosystems. Narrated by David Attenborough, the series combines stunning visuals with insightful commentary, revealing the beauty, complexity, and fragility of the underwater world. It aims to educate viewers about the importance of ocean conservation while showcasing the incredible diversity of species inhabiting these environments. The series blends scientific rigor with a sense of wonder, creating an immersive and emotionally resonant experience.",
+        "spoiler_rich_plot_summary": "The series is structured around distinct oceanic habitats, from the frozen polar regions to vibrant coral reefs and the deep, dark abyss. Each episode delves into the unique challenges and adaptations of the creatures that call these environments home. Viewers witness incredible hunting strategies, complex social structures, and the delicate balance of marine food webs. The series highlights the impact of human activity on ocean health, including pollution, overfishing, and climate change, emphasizing the urgent need for conservation efforts. While not a narrative in the traditional sense, the series follows a loose arc of discovery, revealing increasingly remote and previously unseen aspects of the ocean's depths, culminating in a sobering reflection on the future of these vital ecosystems.",
+        "categorized_keywords": {
+          "themes": [
+            "nature-conservation",
+            "biodiversity",
+            "ocean-life",
+            "environmentalism",
+            "scientific-discovery"
+          ],
+          "plot_and_concepts": [
+            "documentary-film",
+            "natural-history",
+            "underwater-exploration",
+            "ecosystem-study"
+          ],
+          "mood_and_tone": [
+            "awe-inspiring",
+            "educational",
+            "sobering",
+            "immersive"
+          ],
+          "genre_and_tropes": [
+            "nature-documentary",
+            "wildlife-photography"
+          ],
+          "setting": [
+            "ocean",
+            "coral-reefs",
+            "polar-regions",
+            "deep-sea"
+          ],
+          "character_archetypes": [
+            "naturalist",
+            "explorer"
+          ],
+          "narrative_style": [
+            "observational-documentary"
+          ],
+          "target_audience": [
+            "general-audience",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "whale-migration",
+            "coral-reef",
+            "deep-sea-creatures",
+            "underwater-camera",
+            "david-attenborough"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Blue Planet is an awe-inspiring nature documentary that explores the beauty and fragility of ocean life, revealing the importance of conservation through immersive underwater exploration and the insightful narration of David Attenborough."
+      },
+      "duration_seconds": 52.53032326698303
+    }
+  }
+}

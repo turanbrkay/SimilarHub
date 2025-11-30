@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Happy Days",
+    "overview": "In 1950s Milwaukee the Cunningham family must contend with Fonzie, a motorcycle riding Casanova.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1974,
+    "vote_count": 230
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Happy Days is a nostalgic sitcom that transports viewers to 1950s Milwaukee, focusing on the Cunningham family and their friends. The series explores themes of family, friendship, and adolescence against the backdrop of a simpler era, often with a lighthearted and optimistic tone. While primarily a comedy, the show occasionally delves into more serious issues relevant to the time period, offering a sentimental and often idealized portrayal of American life. The enduring appeal of Happy Days lies in its ability to evoke a sense of warmth and familiarity, celebrating the values of community and traditional family structures.",
+        "spoiler_rich_plot_summary": "Happy Days initially centers on Richie Cunningham, a typical teenager navigating the challenges of high school and first love, alongside his family and friends. The introduction of Arthur Fonzarelli, or 'The Fonz,' a cool and charismatic greaser, quickly establishes him as a central figure, often serving as a mentor and source of advice for Richie. Throughout the series, Richie experiences various romantic interests, including his eventual long-term relationship with Lori Beth. The show explores the social dynamics of the time, including the burgeoning rock and roll scene and the changing roles of women. As the series progresses, the focus expands beyond Richie's immediate circle, introducing new characters and storylines that reflect the evolving social landscape of the 1950s and 1960s. While maintaining its comedic core, the show occasionally addresses more serious issues, such as the Korean War and the changing attitudes towards race and class. The series concludes with a sense of closure, celebrating the enduring bonds of friendship and family, and reflecting on the passage of time.",
+        "categorized_keywords": {
+          "themes": [
+            "family-values",
+            "friendship",
+            "nostalgia",
+            "coming-of-age",
+            "1950s-culture"
+          ],
+          "plot_and_concepts": [
+            "sitcom",
+            "teen-romance",
+            "friendship-dynamics",
+            "social-commentary"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "optimistic",
+            "sentimental",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "family-sitcom",
+            "teen-drama",
+            "nostalgic-tv"
+          ],
+          "setting": [
+            "1950s-america",
+            "milwaukee-wisconsin",
+            "small-town-usa"
+          ],
+          "character_archetypes": [
+            "teenager",
+            "cool-greaser",
+            "family-man",
+            "wise-mentor"
+          ],
+          "narrative_style": [
+            "episodic-storytelling",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "drive-in-movie",
+            "milkshake",
+            "record-hop",
+            "classic-car"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Happy Days offers a lighthearted and nostalgic glimpse into 1950s America, celebrating family values and friendship through the eyes of teenagers in a small Wisconsin town."
+      },
+      "duration_seconds": 63.969786643981934
+    }
+  }
+}

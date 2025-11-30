@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Johnny Test",
+    "overview": "Young Johnny is gung-ho and full of courage. Johnny's brainiac twin sisters, Susan and Mary, use Johnny as their guinea pig for their outrageous scientific experiments. If they can dream it up, Johnny will do it; as long as his genetically engineered super dog, Dukey, can come along.",
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "release_year": 2005,
+    "vote_count": 166
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Johnny Test is a Canadian-American animated comedy series centered on a relentlessly optimistic and adventurous young boy who serves as the test subject for his highly intelligent twin sisters' outlandish scientific experiments. The show's humor derives from the absurd situations Johnny finds himself in, often involving fantastical creatures, bizarre inventions, and chaotic consequences. It's a lighthearted and silly series aimed at a younger audience, emphasizing slapstick comedy and over-the-top scenarios. The dynamic between Johnny and his sisters, along with his loyal dog Dukey, forms the core of the show's appeal, creating a consistently chaotic and entertaining experience.",
+        "spoiler_rich_plot_summary": "The series begins with Johnny and his sisters, Susan and Mary, living a seemingly normal life. However, it quickly becomes apparent that Susan and Mary are brilliant but eccentric scientists who use Johnny as their primary test subject for their inventions and experiments. These experiments range from granting Johnny superpowers to transforming him into various objects or creatures. Throughout the series, Johnny consistently faces bizarre and often dangerous situations, frequently involving encounters with fantastical beings and villains. While Johnny often finds himself in trouble, he maintains a relentlessly positive attitude and a willingness to try anything, often with Dukey by his side. The show doesn't follow a strict overarching narrative, instead focusing on episodic adventures that explore the limitless possibilities of scientific experimentation and the consequences of unchecked ambition. Recurring characters, including Johnny's parents and various antagonists, add depth and humor to the ongoing chaos.",
+        "categorized_keywords": {
+          "themes": [
+            "sibling-rivalry",
+            "scientific-innovation",
+            "optimism",
+            "absurdity",
+            "family-dynamics"
+          ],
+          "plot_and_concepts": [
+            "scientific-experimentation",
+            "superpowers",
+            "transformation",
+            "monster-of-the-week",
+            "slapstick-comedy"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "silly",
+            "chaotic",
+            "humorous",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "comedy",
+            "found-family",
+            "parody"
+          ],
+          "setting": [
+            "suburban-setting",
+            "alternate-reality"
+          ],
+          "character_archetypes": [
+            "optimistic-protagonist",
+            "eccentric-genius",
+            "loyal-companion"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "serialized-comedy"
+          ],
+          "target_audience": [
+            "children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "scientific-invention",
+            "super-dog",
+            "twin-sisters",
+            "laboratory"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Johnny Test is a lighthearted and silly animated comedy series about a relentlessly optimistic boy and his eccentric twin sisters who use him as a test subject for their outlandish scientific inventions in a chaotic suburban setting."
+      },
+      "duration_seconds": 59.801939964294434
+    }
+  }
+}

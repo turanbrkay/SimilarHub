@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "The Event",
+    "overview": "The Event is an emotional, high-octane conspiracy thriller that follows Sean Walker, an everyman who investigates the mysterious disappearance of his would-be fiancée Leila, and unwittingly begins to expose the biggest cover-up in U.S. history.",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Mystery",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2010,
+    "vote_count": 185
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Event is a conspiracy thriller centered on Sean Walker's desperate search for his fiancée, which unexpectedly unravels a vast government cover-up. The series blends elements of action, drama, and science fiction, exploring themes of identity, loyalty, and the fragility of truth. It maintains a suspenseful tone, driven by a sense of urgency and the constant threat of discovery. The narrative focuses on the personal cost of uncovering secrets and the moral compromises individuals make in the face of powerful institutions. The show aims to deliver a gripping, emotionally charged experience, keeping viewers engaged with its intricate plot and complex characters.",
+        "spoiler_rich_plot_summary": "The series begins with Sean Walker's fiancée, Leila, vanishing without a trace. His investigation leads him to a series of unsettling discoveries, revealing that Leila is not who she seems. She is, in fact, an alien from a dying planet, sent to Earth to assess humanity's potential for destruction. A shadowy government agency, known as the President's Emergency Council for National Security (PECANS), is aware of Leila's true identity and is determined to capture her to prevent a potential alien invasion. As Sean delves deeper, he uncovers a decades-long conspiracy involving multiple presidents and powerful figures, all complicit in concealing the existence of extraterrestrial life. He is joined by a diverse group of allies, including a former intelligence operative and a disillusioned government scientist, who assist him in exposing the truth. The series follows a cat-and-mouse game between Sean and PECANS, with betrayals and shifting alliances constantly complicating the situation. The ultimate goal becomes not just finding Leila, but preventing a catastrophic conflict between Earth and the alien civilization she represents, while confronting the moral implications of humanity's potential destruction.",
+        "categorized_keywords": {
+          "themes": [
+            "identity-crisis",
+            "government-cover-up",
+            "alien-contact",
+            "moral-ambiguity",
+            "truth-seeking",
+            "loyalty",
+            "sacrifice"
+          ],
+          "plot_and_concepts": [
+            "alien-invasion",
+            "conspiracy-thriller",
+            "government-secrecy",
+            "time-travel",
+            "political-intrigue"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "tense",
+            "urgent",
+            "dark",
+            "mysterious"
+          ],
+          "genre_and_tropes": [
+            "sci-fi-thriller",
+            "political-thriller",
+            "found-family",
+            "conspiracy-theory"
+          ],
+          "setting": [
+            "washington-dc",
+            "modern-day",
+            "united-states"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "government-agent",
+            "enigmatic-figure",
+            "disillusioned-scientist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "mystery"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "government-facility",
+            "alien-technology",
+            "secret-meeting",
+            "encrypted-message"
+          ],
+          "maturity_and_content": [
+            "political-deception",
+            "suspense"
+          ]
+        },
+        "keyword_sentence": "The Event is a suspenseful political thriller set in modern-day Washington D.C., exploring themes of identity and government secrecy as a man uncovers a dangerous alien conspiracy and questions the very foundations of truth."
+      },
+      "duration_seconds": 69.66549229621887
+    }
+  }
+}

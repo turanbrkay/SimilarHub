@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "The Witness for the Prosecution",
+    "overview": "The hunt is on to find the murderer of a wealthy glamorous heiress who is found dead in her London townhouse. Based on the short story by Agatha Christie.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2016,
+    "vote_count": 64
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Witness for the Prosecution is a limited-series crime drama based on Agatha Christie's short story, offering a suspenseful and morally ambiguous narrative centered around a murder investigation and a complex legal trial. The series blends elements of classic mystery with psychological intrigue, exploring themes of deception, justice, and the fallibility of human perception. The story unfolds with a deliberate pace, building tension through shifting perspectives and unreliable characters, ultimately questioning the nature of truth and the reliability of eyewitness testimony. The series offers a compelling exploration of the legal system and the dark underbelly of London society.",
+        "spoiler_rich_plot_summary": "The series begins with the discovery of the body of Emily Brent, a wealthy heiress, in her London townhouse. Inspector Walcott, a seasoned detective, takes charge of the investigation, quickly identifying a pool of suspects, each with a potential motive. As the investigation progresses, a man named Billy Strade is arrested and charged with the murder. His barrister, John Hilliard, takes on his case, believing in his innocence. However, Billy's testimony is complicated by the sudden appearance of a mysterious woman, Christine Vole, who claims to be his wife. Her testimony casts doubt on Billy's character and raises questions about his guilt. The trial becomes a battle of wits between the prosecution and the defense, with each side attempting to manipulate the jury and uncover the truth. As the trial reaches its climax, shocking revelations about the suspects' pasts and connections to the victim come to light, ultimately revealing a web of deceit and betrayal. The true killer is exposed, and their motives are tied to a long-held grudge and a desire for revenge, demonstrating the devastating consequences of secrets and lies.",
+        "categorized_keywords": {
+          "themes": [
+            "deception",
+            "justice",
+            "revenge",
+            "secrets",
+            "betrayal",
+            "moral-ambiguity",
+            "fallibility"
+          ],
+          "plot_and_concepts": [
+            "murder-mystery",
+            "courtroom-drama",
+            "legal-thriller",
+            "unreliable-narrator",
+            "false-witness"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "intricate",
+            "atmospheric"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "whodunit",
+            "legal-drama"
+          ],
+          "setting": [
+            "london-england",
+            "1950s",
+            "townhouse"
+          ],
+          "character_archetypes": [
+            "detective",
+            "barrister",
+            "suspect",
+            "femme-fatale"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "mystery-thriller"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "courtroom",
+            "police-station",
+            "witness-stand",
+            "suspect-interrogation"
+          ],
+          "maturity_and_content": [
+            "murder",
+            "deception"
+          ]
+        },
+        "keyword_sentence": "The Witness for the Prosecution is a suspenseful legal thriller set in 1950s London, exploring themes of deception and betrayal through a complex murder mystery and courtroom drama."
+      },
+      "duration_seconds": 66.62973928451538
+    }
+  }
+}

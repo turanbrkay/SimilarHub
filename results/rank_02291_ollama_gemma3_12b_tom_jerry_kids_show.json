@@ -1,0 +1,69 @@
+{
+  "input_data": {
+    "title": "Tom & Jerry Kids Show",
+    "overview": "Tom and Jerry in their childhood days, playing cat-and-mouse games even then.",
+    "genres": [
+      "Animation"
+    ],
+    "release_year": 1990,
+    "vote_count": 78
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Tom & Jerry Kids Show reimagines the classic cat-and-mouse duo as children, retaining the slapstick humor and chaotic energy of the original while introducing a more narrative structure and supporting characters. The series maintains a lighthearted and whimsical tone, appealing to a younger audience with its focus on playful rivalry and comedic misunderstandings. While the core dynamic remains unchanged, the show explores themes of friendship and sibling-like competition in a gentle and entertaining way. It's a nostalgic return to the beloved characters, presented in a format suitable for family viewing.",
+        "spoiler_rich_plot_summary": "The series follows young Tom and Jerry as they navigate childhood adventures, constantly engaging in elaborate games of chase and mischief. While their rivalry is central, the show introduces supporting characters like Spike, Butch, and Tuffy, who often become entangled in their antics. Episodes typically revolve around a central problem or challenge, such as a lost toy, a mischievous prank gone wrong, or a competition for a coveted prize. Throughout the series, Tom and Jerry's relationship evolves from pure antagonism to a more complex dynamic, occasionally demonstrating moments of cooperation and even a semblance of friendship. While their games remain chaotic and destructive, the overall narrative arc emphasizes the importance of forgiveness and understanding, suggesting that even the fiercest rivals can find common ground.",
+        "categorized_keywords": {
+          "themes": [
+            "rivalry",
+            "friendship",
+            "childhood",
+            "mischief",
+            "forgiveness"
+          ],
+          "plot_and_concepts": [
+            "cat-and-mouse-game",
+            "slapstick-comedy",
+            "chase-sequence",
+            "problem-solving"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "playful",
+            "chaotic"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "childrens-comedy",
+            "classic-cartoon"
+          ],
+          "setting": [
+            "domestic-setting",
+            "childhood-home"
+          ],
+          "character_archetypes": [
+            "mischievous-protagonist",
+            "rival"
+          ],
+          "narrative_style": [
+            "episodic-storytelling"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-children"
+          ],
+          "detail_plot": [
+            "mouse-trap",
+            "cartoon-physics",
+            "pie-in-face",
+            "cartoon-explosion"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "This lighthearted animated series follows the classic rivalry of Tom and Jerry as children, delivering chaotic and playful comedy suitable for a family audience."
+      },
+      "duration_seconds": 53.68771982192993
+    }
+  }
+}

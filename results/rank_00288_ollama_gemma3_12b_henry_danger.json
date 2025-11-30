@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Henry Danger",
+    "overview": "When 13-year-old Henry Hart lands a job as Danger, the sidekick-in-training to superhero Captain Man, he must learn to navigate a double life balancing the challenges of 8th grade with the crazy adventures of a real-life crime fighter!",
+    "genres": [
+      "Comedy",
+      "Family",
+      "Kids"
+    ],
+    "release_year": 2014,
+    "vote_count": 1032
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Henry Danger is a Nickelodeon comedy series geared towards a family audience, blending superhero tropes with the everyday struggles of adolescence. The show follows Henry Hart, a young boy who becomes the apprentice to a local superhero, Captain Man, leading to a chaotic double life balancing school and crime-fighting. The series emphasizes humor and lighthearted adventure, exploring themes of responsibility, friendship, and the challenges of keeping a secret. It offers a generally upbeat and entertaining experience suitable for younger viewers and their families.",
+        "spoiler_rich_plot_summary": "The series begins with Henry Hart, a typical 13-year-old, accidentally stumbling upon the secret identity of Captain Man, Swich Wartz. He's offered the job of Kid Danger, Captain Man's sidekick, and must sign a secrecy agreement to protect their identities. Throughout the first few seasons, Henry struggles to balance his school life with his superhero duties, often leading to comedic misunderstandings and near-exposures. He develops a close friendship with Jasper Dunlop, a tech-savvy inventor who provides crucial support. As the series progresses, Henry's skills and confidence as Kid Danger grow, and he faces increasingly complex threats alongside Captain Man. The show explores the challenges of maintaining a double life and the importance of teamwork and trust. Later seasons introduce new villains and challenges, pushing Henry and Captain Man to their limits, while still maintaining the show's comedic tone. The series culminates in a final confrontation where Henry must fully embrace his role as a hero and protect his city.",
+        "categorized_keywords": {
+          "themes": [
+            "responsibility",
+            "friendship",
+            "double-life",
+            "coming-of-age",
+            "heroism",
+            "teamwork"
+          ],
+          "plot_and_concepts": [
+            "superhero-sidekick",
+            "secret-identity",
+            "fish-out-of-water",
+            "comedy-of-errors"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "family-friendly"
+          ],
+          "genre_and_tropes": [
+            "family-comedy",
+            "superhero-comedy",
+            "kids-comedy"
+          ],
+          "setting": [
+            "suburban-city",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "loyal-friend"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "kids",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "secret-lair",
+            "costume-design",
+            "gadget-creation",
+            "superhero-training"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Henry Danger is a lighthearted family comedy series about a young boy who juggles the challenges of adolescence with the responsibilities of being a superhero sidekick in a suburban city."
+      },
+      "duration_seconds": 49.7294225692749
+    }
+  }
+}

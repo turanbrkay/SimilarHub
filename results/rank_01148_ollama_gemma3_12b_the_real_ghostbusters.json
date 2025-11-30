@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "The Real Ghostbusters",
+    "overview": "The continuing adventures of paranormal investigators Dr. Peter Venkman, Dr. Egon Spengler, Dr. Ray Stantz, Winston Zeddemore, their secretary Janine Melnitz and their mascot ghost Slimer.",
+    "genres": [
+      "Action & Adventure",
+      "Animation",
+      "Comedy",
+      "Mystery"
+    ],
+    "release_year": 1986,
+    "vote_count": 216
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Real Ghostbusters is a comedic animated series that expands upon the film franchise of the same name. Following a team of paranormal investigators, the show blends action, adventure, and humor as they capture and contain ghosts and other supernatural entities plaguing New York City. The series emphasizes teamwork, scientific problem-solving, and the importance of facing fears, all while maintaining a lighthearted and often slapstick tone. It appeals to a broad audience with its accessible humor and engaging characters, offering a family-friendly exploration of the supernatural.",
+        "spoiler_rich_plot_summary": "The series begins with Dr. Peter Venkman, Dr. Egon Spengler, Dr. Ray Stantz, and Winston Zeddemore establishing a ghost-catching business funded by the city of New York. They quickly become the go-to team for dealing with paranormal disturbances, encountering a wide variety of ghosts, monsters, and supernatural phenomena. Throughout the series, the team faces increasingly complex and dangerous threats, often involving powerful entities and elaborate schemes. They develop new technologies and strategies to combat these threats, while also dealing with bureaucratic red tape and the skepticism of the public. Recurring villains emerge, posing significant challenges to the Ghostbusters' efforts to protect the city. While the team experiences setbacks and internal conflicts, they ultimately persevere, solidifying their reputation as the premier paranormal defense force and continually expanding their understanding of the supernatural world. The series concludes with the team facing a major crisis, demonstrating their continued dedication to safeguarding New York City from the forces of the unknown.",
+        "categorized_keywords": {
+          "themes": [
+            "teamwork",
+            "scientific-discovery",
+            "facing-fears",
+            "urban-paranormal",
+            "bureaucracy"
+          ],
+          "plot_and_concepts": [
+            "monster-of-the-week",
+            "paranormal-investigation",
+            "ghost-hunting",
+            "technological-innovation"
+          ],
+          "mood_and_tone": [
+            "comedic",
+            "lighthearted",
+            "slapstick",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "animation-comedy",
+            "monster-fighting",
+            "found-family"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "eccentric-scientist",
+            "reluctant-hero",
+            "optimistic-inventor",
+            "skeptical-professional"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "proton-pack",
+            "ghost-trap",
+            "ectoplasmic-sludge",
+            "slimers-antics"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Real Ghostbusters is a lighthearted animated series that follows a team of paranormal investigators as they use scientific innovation and teamwork to face urban supernatural threats in New York City."
+      },
+      "duration_seconds": 62.2346875667572
+    }
+  }
+}

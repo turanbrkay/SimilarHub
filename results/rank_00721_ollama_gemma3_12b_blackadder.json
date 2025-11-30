@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Blackadder",
+    "overview": "Cunning plans and cutting comedy as the Blackadder dynasty plot their way through British history.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1983,
+    "vote_count": 390
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Blackadder is a British historical comedy series renowned for its satirical wit and cynical worldview. Each series is set during a different era of British history, following the misadventures of the Blackadder character and his long-suffering servant, Baldrick. The show employs a fast-paced, dialogue-driven style, frequently mocking social conventions, political figures, and the very notion of heroism. Its humor is dark, irreverent, and often relies on absurd situations and clever wordplay, offering a comedic deconstruction of historical narratives.",
+        "spoiler_rich_plot_summary": "The first series, 'The Black Adder,' is set in the 15th century and follows the scheming Lord Edmund Blackadder as he attempts to rise in status through manipulation and deceit, often with the reluctant assistance of his dim-witted servant, Baldrick. He navigates the court of King Edward IV, plotting to eliminate rivals and secure advantageous positions. The second series, 'Blackadder II,' transports the duo to the court of Queen Elizabeth I, where Edmund continues his relentless pursuit of power and prestige, engaging in elaborate schemes and double-crosses. He frequently clashes with the cunning and formidable figures of the Elizabethan court. Subsequent series, 'Blackadder the Third' and 'Blackadder Goes Forth,' shift the setting to the 18th century and World War I respectively, maintaining the core dynamic of Edmund's scheming and Baldrick's bumbling, but adapting the humor to the specific historical context. Throughout the series, the characters face constant setbacks and humiliations, highlighting the futility of their ambitions and the absurdity of the situations they find themselves in.",
+        "categorized_keywords": {
+          "themes": [
+            "social-satire",
+            "power-struggle",
+            "class-conflict",
+            "historical-irony",
+            "cynicism",
+            "absurdism"
+          ],
+          "plot_and_concepts": [
+            "historical-fiction",
+            "scheming",
+            "court-intrigue",
+            "servant-master-dynamic",
+            "black-comedy"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "irreverent",
+            "cynical",
+            "satirical"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "historical-comedy",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "15th-century-england",
+            "16th-century-england",
+            "18th-century-england",
+            "world-war-i"
+          ],
+          "character_archetypes": [
+            "scheming-villain",
+            "dim-witted-sidekick",
+            "aristocrat",
+            "servant"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "dialogue-driven"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "royal-court",
+            "period-costumes",
+            "servants-quarters",
+            "battlefield"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Blackadder is a darkly comic British sitcom that satirizes historical periods through the scheming of an aristocrat and his bumbling servant, offering a cynical and irreverent look at power struggles and social conventions."
+      },
+      "duration_seconds": 61.62599420547485
+    }
+  }
+}

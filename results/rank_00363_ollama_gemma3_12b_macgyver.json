@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "MacGyver",
+    "overview": "20-something Angus MacGyver creates a clandestine organization where he uses his knack for solving problems in unconventional ways to help prevent disasters from happening.",
+    "genres": [
+      "Drama",
+      "Action & Adventure"
+    ],
+    "release_year": 2016,
+    "vote_count": 840
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "MacGyver is a fast-paced action-adventure series centered on a resourceful problem-solver who utilizes his ingenuity and scientific knowledge to avert global crises. The show blends elements of espionage, thriller, and procedural drama, emphasizing teamwork and the power of unconventional solutions. It offers a mix of high-stakes action sequences and character-driven moments, exploring themes of loyalty, sacrifice, and the responsibility that comes with extraordinary abilities. The series aims to deliver a thrilling and optimistic viewing experience, showcasing the potential for good in a world facing constant threats.",
+        "spoiler_rich_plot_summary": "The series begins with Angus MacGyver reluctantly joining the Phoenix Foundation, a covert organization dedicated to preventing disasters. Initially working as a field operative, MacGyver quickly discovers that the Foundation is not what it seems, uncovering a web of secrets and betrayals within its ranks. He forms a close-knit team, including Riley Davis, a skilled hacker, and Jack Dalton, a charming pilot, who become his trusted allies in navigating dangerous missions. Throughout the series, MacGyver confronts adversaries who seek to exploit global events for their own gain, often requiring him to improvise solutions using everyday objects. As the team faces increasingly complex challenges, they uncover a conspiracy that reaches the highest levels of government, forcing them to question their allegiances and fight to protect the world from a catastrophic threat. MacGyver's past is gradually revealed, showcasing his personal struggles and the events that shaped him into the resourceful hero he is today, ultimately leading to a confrontation with those who seek to control his abilities and manipulate the Foundation’s mission.",
+        "categorized_keywords": {
+          "themes": [
+            "problem-solving",
+            "teamwork",
+            "loyalty",
+            "sacrifice",
+            "responsibility",
+            "espionage",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "action-adventure",
+            "espionage-thriller",
+            "improvised-solutions",
+            "conspiracy",
+            "secret-organization"
+          ],
+          "mood_and_tone": [
+            "optimistic",
+            "fast-paced",
+            "thrilling",
+            "action-oriented"
+          ],
+          "genre_and_tropes": [
+            "action-procedural",
+            "found-family",
+            "secret-agent",
+            "techno-thriller"
+          ],
+          "setting": [
+            "global-locations",
+            "modern-day",
+            "undercover-operations"
+          ],
+          "character_archetypes": [
+            "resourceful-hero",
+            "skilled-hacker",
+            "charming-pilot",
+            "enigmatic-mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "mission-based"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "improvised-gadgets",
+            "secret-headquarters",
+            "high-tech-vehicles",
+            "mission-briefing-room"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "MacGyver is a thrilling action-adventure series that follows a resourceful hero and his team as they use improvised solutions and technological expertise to thwart global conspiracies and protect the world from imminent danger."
+      },
+      "duration_seconds": 68.69879388809204
+    }
+  }
+}

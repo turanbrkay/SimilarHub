@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "The Fugitive",
+    "overview": "Richard Kimble is falsely convicted of his wife's murder and given the death penalty. En route to death row, Kimble's train derails and crashes, allowing him to escape and begin a cross-country search for the real killer, a \"one-armed man\". At the same time, Dr. Kimble is hounded by the authorities, most notably dogged by Police Lieutenant Philip Gerard.",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 1963,
+    "vote_count": 44
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Fugitive is a gripping television series centered on a man wrongly convicted of his wife's murder who escapes custody to clear his name and hunt down the true killer. The show blends elements of action, drama, and mystery, creating a suspenseful cat-and-mouse game between Kimble and the relentless authorities pursuing him. Its enduring appeal lies in its exploration of justice, identity, and the lengths one will go to for redemption, all while maintaining a consistently high level of suspense and intrigue.",
+        "spoiler_rich_plot_summary": "The series begins with Dr. Richard Kimble's wife, Laura, being murdered in their home. Kimble is framed for the crime and sentenced to death. During a train transfer to prison, a catastrophic derailment allows him to escape, initiating a desperate flight across the country. He is relentlessly pursued by U.S. Marshal Samuel Gerard, who is determined to bring him back to justice. Kimble’s search for the one-armed man, the true killer, leads him through a series of dangerous encounters and reveals a complex web of deceit and conspiracy. Throughout his journey, Kimble encounters various individuals who offer assistance or hinder his progress, further complicating his quest. The series follows Kimble’s evolving understanding of the events surrounding his wife’s death and the powerful forces working against him, culminating in a relentless pursuit of the truth and a confrontation with the real perpetrator.",
+        "categorized_keywords": {
+          "themes": [
+            "wrongful-conviction",
+            "justice",
+            "redemption",
+            "pursuit-of-truth",
+            "identity",
+            "conspiracy"
+          ],
+          "plot_and_concepts": [
+            "man-on-the-run",
+            "cat-and-mouse-game",
+            "false-accusation",
+            "serial-mystery",
+            "police-procedural"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "tense",
+            "grim",
+            "action-packed"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "crime-drama",
+            "thriller",
+            "legal-thriller"
+          ],
+          "setting": [
+            "american-south",
+            "1960s-america",
+            "cross-country-road"
+          ],
+          "character_archetypes": [
+            "wrongfully-accused",
+            "reluctant-hero",
+            "determined-lawman",
+            "enigmatic-villain"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "train-derailment",
+            "one-armed-man",
+            "sheriffs-hat",
+            "police-badge",
+            "wanted-poster"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Fugitive is a suspenseful crime drama set in 1960s America, following a wrongfully-convicted man’s relentless pursuit of justice and the truth while being doggedly pursued by the authorities."
+      },
+      "duration_seconds": 67.71819043159485
+    }
+  }
+}

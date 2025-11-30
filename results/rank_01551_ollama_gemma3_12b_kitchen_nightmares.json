@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Kitchen Nightmares",
+    "overview": "Chef Ramsay attempts to do the impossible: turn one ordinary and empty restaurant into the most popular, sought-after venue in town. There's no time for polite small talk as he embarks on his mission to turn around the fortunes of each restaurant in just one week and save them from their living nightmares.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2007,
+    "vote_count": 136
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Kitchen Nightmares is a reality television series where celebrity chef Gordon Ramsay visits struggling restaurants in an attempt to revitalize their operations. The show blends elements of culinary expertise, business management, and human drama as Ramsay confronts dysfunctional staff, outdated menus, and often deeply personal issues affecting the restaurant owners. It offers a fast-paced, often stressful viewing experience, showcasing both the potential for redemption and the harsh realities of the hospitality industry. The series is characterized by its blunt honesty and the dramatic transformations it attempts to achieve within a single week.",
+        "spoiler_rich_plot_summary": "Each episode of Kitchen Nightmares follows a similar structure. Chef Ramsay arrives at a failing restaurant, often greeted by a tense atmosphere and a palpable sense of desperation. He begins with a 'fly-on-the-wall' assessment, observing the kitchen's operations, the staff's interactions, and the quality of the food. This initial evaluation typically reveals significant problems, ranging from poor hygiene and outdated recipes to dysfunctional management and deeply rooted personal conflicts among the owners and employees. Ramsay then confronts the restaurant owner, often delivering a brutally honest assessment of the situation. Following this confrontation, Ramsay works with the staff to revamp the menu, improve kitchen practices, and address underlying management issues. The week culminates in a relaunch event, where the restaurant hopes to attract new customers and demonstrate the improvements made. While some restaurants experience a genuine turnaround, others remain stubbornly resistant to change, highlighting the complex challenges of the hospitality industry and the limitations of even a celebrity chef's intervention.",
+        "categorized_keywords": {
+          "themes": [
+            "redemption",
+            "business-failure",
+            "family-dynamics",
+            "professional-growth",
+            "second-chances"
+          ],
+          "plot_and_concepts": [
+            "restaurant-revival",
+            "business-makeover",
+            "fly-on-the-wall",
+            "undercover-assessment"
+          ],
+          "mood_and_tone": [
+            "tense",
+            "stressful",
+            "confrontational",
+            "hopeful"
+          ],
+          "genre_and_tropes": [
+            "reality-television",
+            "business-reality",
+            "makeover-show"
+          ],
+          "setting": [
+            "restaurants",
+            "united-states"
+          ],
+          "character_archetypes": [
+            "celebrity-chef",
+            "struggling-entrepreneur",
+            "dysfunctional-staff"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "food-enthusiasts"
+          ],
+          "detail_plot": [
+            "kitchen-equipment",
+            "restaurant-menu",
+            "customer-service",
+            "staff-uniform"
+          ],
+          "maturity_and_content": [
+            "strong-language",
+            "confrontational-behavior"
+          ]
+        },
+        "keyword_sentence": "Kitchen Nightmares is a tense reality television series where a celebrity chef attempts to revitalize struggling restaurants by confronting dysfunctional staff and outdated practices, often revealing the complex challenges of the hospitality industry."
+      },
+      "duration_seconds": 63.79462480545044
+    }
+  }
+}

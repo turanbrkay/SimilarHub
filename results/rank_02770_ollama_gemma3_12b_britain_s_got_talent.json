@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Britain's Got Talent",
+    "overview": "Britain's best (and worst) variety acts compete to win a spot at the Royal Variety Show.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2007,
+    "vote_count": 56
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Britain's Got Talent is a long-running reality television competition showcasing a wide range of performers vying for a place at the Royal Variety Show. The series blends elements of talent scouting, audience participation, and lighthearted entertainment, offering a platform for both extraordinary and eccentric acts. Its appeal lies in the unpredictable nature of the performances and the emotional connection viewers develop with the contestants. The show's format fosters a sense of community and celebrates diverse talents from across the United Kingdom.",
+        "spoiler_rich_plot_summary": "Each season of Britain's Got Talent follows a similar structure: thousands of hopefuls audition before a panel of judges and a live audience. Successful acts progress to the theatre stage, where they compete for public votes. The competition narrows down to a final showdown, where the top contenders perform for the judges and a national television audience. The winner receives the coveted opportunity to perform at the Royal Variety Show, a prestigious event attended by members of the British Royal Family. Throughout the series, memorable acts often emerge, captivating audiences with their unique skills and personalities, and creating a narrative arc of hope, perseverance, and the pursuit of dreams. While the ultimate goal is to win, the journey itself often proves to be transformative for the contestants, regardless of the outcome.",
+        "categorized_keywords": {
+          "themes": [
+            "talent-competition",
+            "pursuit-of-dreams",
+            "public-opinion",
+            "celebrity-culture",
+            "hope",
+            "perseverance"
+          ],
+          "plot_and_concepts": [
+            "elimination-rounds",
+            "public-voting",
+            "judging-panel",
+            "performance-pressure",
+            "unexpected-talent"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "optimistic",
+            "exciting",
+            "emotional",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "reality-television",
+            "talent-show",
+            "feel-good-entertainment"
+          ],
+          "setting": [
+            "united-kingdom",
+            "theatre-stage",
+            "television-studio"
+          ],
+          "character_archetypes": [
+            "aspiring-performer",
+            "celebrity-judge",
+            "supportive-audience"
+          ],
+          "narrative_style": [
+            "episodic-structure",
+            "elimination-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "general-viewers"
+          ],
+          "detail_plot": [
+            "judges-panel",
+            "royal-variety-show",
+            "microphone",
+            "stage-lights",
+            "confetti"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Britain's Got Talent is a lighthearted reality television competition set in the United Kingdom, showcasing aspiring performers pursuing their dreams and captivating audiences with unexpected talent in the hope of reaching the prestigious Royal Variety Show."
+      },
+      "duration_seconds": 57.59489154815674
+    }
+  }
+}

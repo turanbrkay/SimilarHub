@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Challenger: The Final Flight",
+    "overview": "Engineers, officials and the crew members' families provide their perspective on the 1986 Space Shuttle Challenger disaster and its aftermath.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2020,
+    "vote_count": 113
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Challenger: The Final Flight is a documentary series that meticulously examines the 1986 Space Shuttle Challenger disaster. Through interviews with engineers, officials, and the families of the crew, the series explores the technical failures, organizational pressures, and human cost of the tragedy. It offers a somber and reflective look at the events leading up to the disaster and its lasting impact, emphasizing the complexities of risk assessment and the weight of responsibility in high-stakes environments. The series avoids sensationalism, instead opting for a detailed and respectful portrayal of a pivotal moment in space exploration history.",
+        "spoiler_rich_plot_summary": "The series unfolds chronologically, beginning with the design and construction of the Space Shuttle program and highlighting the initial successes. It then delves into the concerns raised by engineers regarding the O-rings, which were known to be susceptible to cold temperatures. Despite these warnings, the launch proceeded, driven by political and budgetary pressures. The documentary meticulously recreates the events of the launch, culminating in the catastrophic explosion shortly after liftoff. Following the disaster, the series examines the subsequent investigations, the finger-pointing among various agencies, and the eventual grounding of the shuttle program. It portrays the grief and resilience of the families who lost loved ones, and the long-term consequences of the tragedy on NASA and the nation's space ambitions. The series concludes by reflecting on the lessons learned and the ongoing efforts to ensure the safety of future space missions.",
+        "categorized_keywords": {
+          "themes": [
+            "tragedy",
+            "responsibility",
+            "risk-assessment",
+            "loss",
+            "grief",
+            "accountability",
+            "human-error"
+          ],
+          "plot_and_concepts": [
+            "space-exploration",
+            "disaster-investigation",
+            "technical-failure",
+            "engineering-ethics",
+            "political-pressure"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "reflective",
+            "respectful",
+            "analytical",
+            "melancholy"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "true-crime",
+            "disaster-drama"
+          ],
+          "setting": [
+            "kennedy-space-center",
+            "1980s",
+            "united-states"
+          ],
+          "character_archetypes": [
+            "engineer",
+            "official",
+            "grieving-family"
+          ],
+          "narrative_style": [
+            "chronological-narrative",
+            "interview-driven"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "history-buffs"
+          ],
+          "detail_plot": [
+            "challenger-shuttle",
+            "o-rings",
+            "launch-pad",
+            "space-suit",
+            "investigation-report"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Challenger: The Final Flight is a somber documentary that explores the tragedy of the 1986 space shuttle disaster, examining the technical failures, political pressures, and enduring grief experienced by engineers, officials, and the families left behind."
+      },
+      "duration_seconds": 64.64326000213623
+    }
+  }
+}

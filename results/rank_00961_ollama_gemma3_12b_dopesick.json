@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Dopesick",
+    "overview": "The story of how one company triggered the worst drug epidemic in American history. Look into the epicenter of America's struggle with opioid addiction, from a distressed Virginia mining community, to the hallways of the DEA, and to the opulence of \"one percenter\" Big Pharma Manhattan.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "release_year": 2021,
+    "vote_count": 274
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Dopesick is a gripping drama series that explores the origins and devastating consequences of the opioid crisis in America. The series weaves together multiple perspectives, from affected communities and law enforcement to the pharmaceutical company responsible for the widespread distribution of OxyContin. It's a stark and unflinching portrayal of corporate greed, systemic failures, and the human toll of addiction, blending elements of crime procedural and social commentary to deliver a powerful and unsettling narrative. The series aims to expose the complex web of responsibility and the long-lasting impact on individuals and society.",
+        "spoiler_rich_plot_summary": "The series begins by introducing several key characters in different locations across Appalachia, where the opioid crisis is already taking hold. Dr. Samuel Finn, a compassionate physician, is among the first to recognize the potential dangers of Purdue Pharma's new painkiller, OxyContin, but his concerns are dismissed. Meanwhile, Betsy Mallum, a young coal miner, becomes addicted to the drug after an injury, illustrating the devastating impact on individuals and families. DEA agent Bridget Meyer investigates suspicious opioid shipments, uncovering a pattern of deceptive marketing and illegal distribution practices by Purdue Pharma. Richard Sackler, a member of the Sackler family and a key executive at Purdue Pharma, aggressively pushes for increased sales, prioritizing profits over patient safety. As the crisis escalates, the series follows the efforts of whistleblowers and investigators to expose the company's misconduct, facing significant legal and political obstacles. The narrative culminates in a protracted legal battle and a reckoning for those responsible, though the long-term consequences of the opioid epidemic remain a persistent challenge.",
+        "categorized_keywords": {
+          "themes": [
+            "corporate-greed",
+            "addiction",
+            "social-justice",
+            "whistleblowing",
+            "loss-of-innocence",
+            "systemic-failure"
+          ],
+          "plot_and_concepts": [
+            "legal-thriller",
+            "crime-procedural",
+            "investigative-journalism",
+            "pharmaceutical-industry",
+            "opioid-crisis"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "gritty",
+            "suspenseful",
+            "unsettling"
+          ],
+          "genre_and_tropes": [
+            "medical-drama",
+            "crime-drama",
+            "legal-drama"
+          ],
+          "setting": [
+            "appalachia",
+            "modern-day",
+            "pharmaceutical-industry"
+          ],
+          "character_archetypes": [
+            "whistleblower",
+            "corrupt-executive",
+            "compassionate-doctor",
+            "victim"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "multiple-perspectives"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "oxycontin-pills",
+            "coal-mining-town",
+            "courtroom-scene",
+            "dea-raid",
+            "pharmaceutical-lab"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "substance-abuse",
+            "addiction-themes"
+          ]
+        },
+        "keyword_sentence": "Dopesick is a somber and unsettling drama series that exposes the devastating consequences of corporate greed and systemic failures within the pharmaceutical industry, revealing the human toll of the opioid crisis in modern-day Appalachia."
+      },
+      "duration_seconds": 62.862112045288086
+    }
+  }
+}

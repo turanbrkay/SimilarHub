@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "Pixar Popcorn",
+    "overview": "A collection of mini shorts starring some of your favorite Pixar characters in all-new, bite size stories.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "release_year": 2021,
+    "vote_count": 175
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Pixar Popcorn is a 2021 anthology series presenting short, comedic stories featuring beloved characters from Pixar's filmography. Designed for a family audience, the series offers a lighthearted and accessible viewing experience, revisiting familiar worlds and personalities in brief, self-contained narratives. The tone is consistently upbeat and playful, emphasizing humor and heartwarming moments rather than complex storylines. It serves as a delightful extension of the Pixar universe, offering a quick dose of nostalgia and entertainment.",
+        "spoiler_rich_plot_summary": "The series unfolds as a series of interconnected vignettes, each showcasing a different Pixar character or group of characters in a new, comedic scenario. Stories range from Woody and Buzz Lightyear navigating everyday situations to Remy and Emile from Ratatouille getting into culinary mischief. While each short is largely self-contained, recurring gags and visual callbacks to the original films create a sense of continuity and shared universe. The shorts often explore themes of friendship, family, and embracing the unexpected, culminating in a collection of charming and satisfying mini-adventures. The series concludes with a final short that brings together several characters from across the Pixar filmography, offering a celebratory and heartwarming send-off.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "family",
+            "humor",
+            "nostalgia",
+            "wholesome-entertainment"
+          ],
+          "plot_and_concepts": [
+            "anthology-series",
+            "mini-stories",
+            "shared-universe",
+            "comedic-situations"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "playful",
+            "wholesome",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "comedy",
+            "family-film",
+            "anthology"
+          ],
+          "setting": [
+            "pixar-universe",
+            "familiar-worlds"
+          ],
+          "character_archetypes": [
+            "beloved-characters"
+          ],
+          "narrative_style": [
+            "serialized-shorts",
+            "self-contained-stories"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "woody-doll",
+            "buzz-lightyear",
+            "ratatouille-restaurant",
+            "pixar-shorts"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Pixar Popcorn delivers a lighthearted and playful collection of mini-stories featuring beloved characters from across the Pixar universe, offering a wholesome and nostalgic experience for the whole family."
+      },
+      "duration_seconds": 52.83961868286133
+    }
+  }
+}

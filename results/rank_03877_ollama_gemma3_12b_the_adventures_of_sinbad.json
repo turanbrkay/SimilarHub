@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "The Adventures of Sinbad",
+    "overview": "The Adventures of Sinbad is a Canadian television series which aired from 1996 to 1998. It follows on the story from the pilot of the same name, and revolves around the series' protagonist, Sinbad. The series is a re-telling of the adventures of Sinbad from The Arabian Nights.",
+    "genres": [
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1996,
+    "vote_count": 30
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Adventures of Sinbad is a fantasy adventure series drawing inspiration from the classic Arabian Nights tales. The show blends action, science fiction, and fantasy elements, following the titular character on a series of quests and encounters with mythical creatures and advanced technology. It aims to deliver a lighthearted and family-friendly experience, emphasizing themes of courage, friendship, and overcoming adversity. The series combines traditional storytelling with a modern sensibility, creating a visually engaging and entertaining narrative for a broad audience.",
+        "spoiler_rich_plot_summary": "The series begins with Sinbad, a young and adventurous sailor, embarking on a journey across fantastical lands and oceans. He is often accompanied by his loyal crew and a diverse group of allies, each possessing unique skills and backgrounds. Throughout his voyages, Sinbad confronts powerful sorcerers, monstrous beasts, and treacherous rivals who seek to exploit ancient artifacts or control magical realms. He frequently uncovers hidden truths about his own past and the origins of the mystical world he inhabits. As the series progresses, Sinbad's adventures become increasingly complex, involving him in conflicts between warring factions and forcing him to make difficult choices that impact the fate of entire civilizations. While he faces numerous setbacks and losses, Sinbad ultimately strives to protect the innocent and uphold justice, leaving a legacy of heroism and inspiring others to embrace their own potential.",
+        "categorized_keywords": {
+          "themes": [
+            "heroism",
+            "friendship",
+            "adventure",
+            "courage",
+            "justice",
+            "fate"
+          ],
+          "plot_and_concepts": [
+            "mythical-creatures",
+            "ancient-artifacts",
+            "magical-realms",
+            "treasure-hunt",
+            "quest"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "optimistic",
+            "action-adventure"
+          ],
+          "genre_and_tropes": [
+            "fantasy-adventure",
+            "sword-and-sorcery",
+            "found-family",
+            "hero-journey"
+          ],
+          "setting": [
+            "arabian-nights",
+            "mythical-world",
+            "ancient-civilizations"
+          ],
+          "character_archetypes": [
+            "hero",
+            "loyal-companion",
+            "wise-mentor",
+            "villain"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-adventure"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "magic-carpet",
+            "ancient-temple",
+            "treasure-chest",
+            "mythical-beast"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Adventures of Sinbad is a lighthearted fantasy adventure series drawing inspiration from Arabian Nights, following a heroic protagonist on a quest through a mythical world filled with magical creatures and ancient civilizations."
+      },
+      "duration_seconds": 78.8161895275116
+    }
+  }
+}

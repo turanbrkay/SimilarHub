@@ -1,0 +1,86 @@
+{
+  "input_data": {
+    "title": "Lost in Space",
+    "overview": "After crash-landing on an alien planet, the Robinson family fights against all odds to survive and escape. But they're surrounded by hidden dangers.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Drama"
+    ],
+    "release_year": 2018,
+    "vote_count": 1402
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Lost in Space is a reimagining of the classic 1960s series, presenting a Robinson family stranded on a distant planet after a crash. The show blends science fiction adventure with family drama, exploring themes of survival, resilience, and the challenges of adapting to an unknown environment. It offers a visually stunning and emotionally engaging experience, balancing action sequences with character-driven narratives and the complexities of familial relationships under extreme pressure. The series emphasizes the importance of hope and ingenuity in the face of overwhelming adversity, while also examining the ethical dilemmas that arise when humanity encounters the unknown.",
+        "spoiler_rich_plot_summary": "The series begins with the Robinson family – John, Maureen, and their children Judy, Penny, and Will – preparing to embark on a mission to colonize a new planet. However, a saboteur attack on their spacecraft forces them to crash-land on an uncharted alien world. They quickly discover that they are not alone, encountering both benevolent and hostile alien lifeforms. Will forms a bond with a mysterious alien robot, who becomes a vital ally in their struggle for survival. As the family attempts to repair their ship and signal for rescue, they uncover a larger conspiracy involving the saboteur and the true purpose of the colonization mission. The Robinsons face numerous challenges, including dangerous alien creatures, dwindling resources, and internal conflicts. They encounter other survivors from the original mission, some of whom are hostile and driven by their own agendas. Over time, the family adapts to their new environment, developing unique skills and forging alliances. The series culminates in a confrontation with the saboteur, revealing a deeper connection to the planet and the Robinsons' past. While rescue seems possible, the family must make difficult choices that will determine their future and the fate of the planet.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "survival",
+            "exploration",
+            "hope",
+            "adaptation",
+            "sacrifice",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "space-exploration",
+            "alien-encounter",
+            "crash-landing",
+            "conspiracy",
+            "sabotage",
+            "found-family"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "adventurous",
+            "hopeful",
+            "tense",
+            "emotional"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "adventure",
+            "family-drama",
+            "survival-story",
+            "found-family"
+          ],
+          "setting": [
+            "alien-planet",
+            "spacecraft",
+            "distant-future",
+            "unknown-world"
+          ],
+          "character_archetypes": [
+            "resourceful-parent",
+            "rebellious-teenager",
+            "wise-mentor",
+            "enigmatic-alien"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "spacecraft-wreckage",
+            "alien-robot",
+            "survival-kit",
+            "communication-device",
+            "alien-landscape"
+          ],
+          "maturity_and_content": [
+            "graphic-violence"
+          ]
+        },
+        "keyword_sentence": "Lost in Space is a suspenseful science-fiction adventure that follows a family’s struggle for survival and exploration on a distant alien planet, highlighting themes of hope, adaptation, and the enduring power of family dynamics."
+      },
+      "duration_seconds": 70.63837599754333
+    }
+  }
+}

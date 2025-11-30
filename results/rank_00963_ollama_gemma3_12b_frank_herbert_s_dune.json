@@ -1,0 +1,86 @@
+{
+  "input_data": {
+    "title": "Frank Herbert's Dune",
+    "overview": "Frank Herbert's Dune is a three-part miniseries written and directed by John Harrison and based on Frank Herbert's 1965 novel Dune.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "release_year": 2000,
+    "vote_count": 272
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Frank Herbert's Dune is a sprawling science fiction epic that adapts the seminal 1965 novel. The miniseries explores themes of power, religion, ecology, and destiny against a backdrop of interstellar politics and a harsh desert planet. It presents a complex narrative with intricate world-building and a focus on the psychological and spiritual journeys of its characters. The series aims to capture the scope and depth of Herbert's original work, offering a visually striking and intellectually stimulating experience for fans of the genre.",
+        "spoiler_rich_plot_summary": "The story begins on the desert planet Arrakis, the sole source of the spice melange, a substance that extends life and grants prescience. Duke Leto Atreides is assigned stewardship of Arrakis by the Emperor, a move that is secretly a trap orchestrated by his political rivals, the Harkonnens. Leto takes his concubine Lady Jessica and their son Paul to Arrakis, knowing the danger they face. The Harkonnens launch a brutal attack, decimating the Atreides forces and killing Duke Leto. Paul and Jessica escape into the desert, where they find refuge with the Fremen, the native people of Arrakis. Paul begins to develop his latent psychic abilities, guided by Jessica's Bene Gesserit training and the influence of the spice. He embraces the Fremen prophecy of the Mahdi, becoming a powerful leader who unites the tribes and wages a rebellion against the Harkonnens and the Emperor. The series culminates in a confrontation where Paul seizes control of Arrakis and begins to reshape the political landscape of the known universe, setting the stage for a new era of power and conflict.",
+        "categorized_keywords": {
+          "themes": [
+            "power-struggle",
+            "destiny",
+            "ecology",
+            "religion",
+            "political-intrigue",
+            "fate",
+            "survival"
+          ],
+          "plot_and_concepts": [
+            "spice-melange",
+            "desert-planet",
+            "bene-gesserit",
+            "fremen-culture",
+            "prophecy",
+            "rebellion",
+            "interstellar-politics"
+          ],
+          "mood_and_tone": [
+            "epic",
+            "gritty",
+            "mysterious",
+            "somber",
+            "intense"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "space-opera",
+            "desert-punk",
+            "hero-journey",
+            "political-thriller"
+          ],
+          "setting": [
+            "arrakis",
+            "desert-world",
+            "interstellar-empire",
+            "futuristic-society"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "ruthless-villain",
+            "powerful-matriarch"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "complex-worldbuilding"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "spice-harvest",
+            "sandworm",
+            "stillsuit",
+            "ornithopter",
+            "fremen-stillsuit"
+          ],
+          "maturity_and_content": [
+            "graphic-violence"
+          ]
+        },
+        "keyword_sentence": "Frank Herbert's Dune is an epic science fiction saga set on a harsh desert planet, exploring themes of power, destiny, and survival through a complex narrative of political intrigue and a reluctant hero's journey."
+      },
+      "duration_seconds": 65.63065361976624
+    }
+  }
+}

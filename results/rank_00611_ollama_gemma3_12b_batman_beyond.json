@@ -1,0 +1,85 @@
+{
+  "input_data": {
+    "title": "Batman Beyond",
+    "overview": "As new villains overrun Gotham City of the future, the aging Bruce Wayne hangs up the cape of the once invincible Batman. But when troubled teenager Terry McGinnis stumbles upon the Dark Knight's secret, a new alliance is forged. And a triumphant new Batman is born.",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Mystery"
+    ],
+    "release_year": 1999,
+    "vote_count": 474
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Batman Beyond is an animated superhero series set in a futuristic Gotham City, exploring themes of legacy, mentorship, and the evolving nature of heroism. The series follows Terry McGinnis, a teenager unexpectedly chosen to become the new Batman, inheriting the mantle from a retired and aging Bruce Wayne. It blends action-adventure with mystery and a touch of social commentary, offering a compelling narrative about responsibility, identity, and the challenges of living up to a legendary predecessor. The show maintains a balance between thrilling action sequences and thoughtful character development, appealing to both longtime Batman fans and new audiences.",
+        "spoiler_rich_plot_summary": "The series begins with Bruce Wayne, now an older and more contemplative figure, having retired from his role as Batman. However, a surge in crime and the emergence of dangerous new villains force him to reconsider his decision. Terry McGinnis, a troubled teenager with a complicated relationship with his parents, inadvertently becomes involved in Bruce's activities and is ultimately chosen to become the new Batman. Bruce acts as Terry's mentor, guiding him through the challenges of crime-fighting and imparting valuable lessons about justice and responsibility. Throughout the series, Terry confronts a variety of adversaries, some of whom are connected to Bruce's past, revealing deeper layers of Gotham's history and the enduring consequences of his actions. As Terry matures, he grapples with the weight of the Batman legacy and strives to forge his own identity as a hero, ultimately facing a personal crisis that tests his resolve and forces him to confront difficult truths about himself and his mentor. The series culminates in a confrontation with a powerful enemy that threatens to destroy everything Bruce and Terry have worked to protect, forcing them to make a difficult choice that will shape the future of Gotham.",
+        "categorized_keywords": {
+          "themes": [
+            "legacy",
+            "mentorship",
+            "responsibility",
+            "identity",
+            "justice",
+            "redemption",
+            "coming-of-age"
+          ],
+          "plot_and_concepts": [
+            "futuristic-setting",
+            "inherited-mantle",
+            "crime-fighting",
+            "superhero-action",
+            "revenge",
+            "generational-conflict"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "action-packed",
+            "suspenseful",
+            "hopeful",
+            "reflective"
+          ],
+          "genre_and_tropes": [
+            "superhero",
+            "animation",
+            "action-adventure",
+            "mystery",
+            "coming-of-age-story"
+          ],
+          "setting": [
+            "futuristic-gotham-city",
+            "neo-noir",
+            "urban-landscape"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "troubled-teenager",
+            "retired-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-adventure"
+          ],
+          "target_audience": [
+            "young-adult",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "bat-suit",
+            "futuristic-batmobile",
+            "gotham-city-skyline",
+            "neo-gotham-architecture"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "cyberpunk-themes"
+          ]
+        },
+        "keyword_sentence": "Set in a futuristic Gotham City, Batman Beyond is an animated action-adventure series exploring themes of legacy and responsibility as a troubled teenager inherits the mantle of the Dark Knight under the guidance of a retired mentor."
+      },
+      "duration_seconds": 85.03548169136047
+    }
+  }
+}

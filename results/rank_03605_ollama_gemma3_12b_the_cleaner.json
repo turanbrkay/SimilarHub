@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "The Cleaner",
+    "overview": "After CSI have done their stuff, the cleaner mops up the grisly remains. For Wicky, a bloodbath and the pub is all in a day's work.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2021,
+    "vote_count": 33
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Cleaner is a darkly comedic series that follows Wicky, a professional cleaner tasked with sanitizing crime scenes after forensic investigations are complete. The show blends morbid humor with a surprisingly poignant look at the aftermath of violence and the people who deal with its consequences. It explores themes of detachment, routine, and the unexpected connections that can form in the most unusual circumstances, offering a unique perspective on the darker side of human existence through a darkly humorous lens.",
+        "spoiler_rich_plot_summary": "The series centers on Wicky, a man who finds solace and a peculiar sense of purpose in cleaning up after violent crimes. Each episode typically presents a new crime scene, showcasing the aftermath of a murder or other violent event. Wicky's interactions with the police and the victims' families are often laced with awkward humor and unexpected moments of empathy. As the series progresses, we learn more about Wicky's own backstory and the reasons behind his unusual profession, revealing a man grappling with his own personal demons while navigating a world of death and destruction. While the crimes themselves are often gruesome, the focus remains on Wicky's perspective and his attempts to find normalcy and connection in a chaotic world. The series doesn't follow a traditional overarching plot, but rather presents a series of self-contained episodes, each exploring a different facet of Wicky's life and the impact of his work.",
+        "categorized_keywords": {
+          "themes": [
+            "death-and-grief",
+            "isolation",
+            "morbid-humor",
+            "routine",
+            "coping-mechanisms",
+            "existentialism"
+          ],
+          "plot_and_concepts": [
+            "crime-scene-cleanup",
+            "dark-comedy",
+            "serialized-story",
+            "episodic-format"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "somber",
+            "absurdist",
+            "unsettling"
+          ],
+          "genre_and_tropes": [
+            "black-comedy",
+            "crime-procedural",
+            "character-study"
+          ],
+          "setting": [
+            "modern-day",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "eccentric-protagonist"
+          ],
+          "narrative_style": [
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "crime-scene",
+            "cleaning-supplies",
+            "police-tape",
+            "body-bag"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "mature-themes"
+          ]
+        },
+        "keyword_sentence": "The Cleaner is a darkly comic series that explores themes of death, isolation, and the absurd through the eyes of a man who finds purpose in cleaning up crime scenes in a modern urban environment."
+      },
+      "duration_seconds": 53.72139239311218
+    }
+  }
+}

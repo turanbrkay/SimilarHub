@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Dalgliesh",
+    "overview": "A recent widower and acclaimed poet, enigmatic Inspector Adam Dalgliesh employs his exceptional empathy and insight to plumb the darker depths of the human psyche while investigating complex crimes in 1970s England.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2021,
+    "vote_count": 30
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Dalgliesh is a crime drama series set in 1970s England, centered on the introspective and poetic Inspector Adam Dalgliesh. The series blends police procedural elements with a character-driven narrative, exploring the psychological toll of crime and the personal struggles of a man grappling with grief and identity. It offers a somber and atmospheric viewing experience, characterized by its meticulous attention to period detail and its nuanced portrayal of human fallibility. The series examines themes of loss, justice, and the complexities of the human condition, offering a thoughtful and often melancholic exploration of crime and its consequences.",
+        "spoiler_rich_plot_summary": "The series follows Inspector Dalgliesh, a recent widower and accomplished poet, as he navigates a series of complex murder investigations. Each case forces him to confront not only the brutality of the crime but also his own personal demons and the lingering pain of his wife's death. Early cases involve intricate plots and seemingly unconnected victims, requiring Dalgliesh to delve deep into the lives of suspects and witnesses. As the series progresses, the investigations become increasingly personal, blurring the lines between professional duty and emotional involvement. Dalgliesh's past resurfaces, impacting his judgment and creating internal conflicts. The series explores the ripple effects of trauma and the challenges of maintaining objectivity in the face of profound loss, culminating in a series of investigations that test his resilience and force him to confront uncomfortable truths about himself and the world around him.",
+        "categorized_keywords": {
+          "themes": [
+            "grief",
+            "loss",
+            "justice",
+            "identity",
+            "trauma",
+            "moral-ambiguity",
+            "social-class"
+          ],
+          "plot_and_concepts": [
+            "police-investigation",
+            "murder-mystery",
+            "crime-procedural",
+            "serial-investigation"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "melancholy",
+            "atmospheric",
+            "introspective"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "mystery",
+            "period-drama"
+          ],
+          "setting": [
+            "1970s-england",
+            "british-society",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "introspective-detective",
+            "grieving-widower",
+            "poet-detective"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "character-driven"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "police-station",
+            "crime-scene",
+            "interrogation-room",
+            "victorian-era-clothing"
+          ],
+          "maturity_and_content": [
+            "graphic-violence"
+          ]
+        },
+        "keyword_sentence": "Set in 1970s England, Dalgliesh is a somber and atmospheric crime drama that explores themes of grief, loss, and moral ambiguity through the eyes of an introspective detective grappling with personal tragedy."
+      },
+      "duration_seconds": 75.86865162849426
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Mr. Bean: The Animated Series",
+    "overview": "The animated daily trials and tribulations of clueless yet clever loner Mr Bean (aided by his best friend Teddy of course!) as he stumbles from one mishap to the next, always finding complex solutions to the simplest of problems.",
+    "genres": [
+      "Kids",
+      "Animation",
+      "Comedy"
+    ],
+    "release_year": 2002,
+    "vote_count": 359
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Mr. Bean: The Animated Series is a comedic adaptation of the original live-action sitcom, retaining the core character's hapless charm and physical humor. The series follows Mr. Bean's misadventures as he navigates everyday situations with a unique blend of ingenuity and utter incompetence. Targeted towards a family audience, the show utilizes animation to expand the scope of Bean's antics, allowing for increasingly elaborate and visually engaging scenarios. The humor is largely slapstick and situational, relying on visual gags and Bean's reactions to his own blunders. It's a lighthearted and consistently funny show, perfect for audiences of all ages.",
+        "spoiler_rich_plot_summary": "The animated series follows a similar structure to the original, with each episode presenting a self-contained problem that Mr. Bean attempts to solve, invariably making things worse along the way. Early episodes see Bean struggling with simple tasks like grocery shopping or attending a party, escalating into increasingly complex situations involving travel, construction, and even space exploration. While the series maintains a largely episodic format, recurring themes emerge, such as Bean's attempts to impress others and his constant battle against the consequences of his actions. Teddy, his stuffed bear companion, serves as a silent observer and occasional participant in Bean's chaotic world. The series doesn't feature a grand overarching narrative, but rather a continuous stream of comedic mishaps and near-disasters, culminating in a perpetual state of amusing disorder.",
+        "categorized_keywords": {
+          "themes": [
+            "incompetence",
+            "slapstick-humor",
+            "everyday-life",
+            "childlike-innocence"
+          ],
+          "plot_and_concepts": [
+            "physical-comedy",
+            "situational-comedy",
+            "problem-solving",
+            "cartoon-physics"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "absurdist",
+            "playful"
+          ],
+          "genre_and_tropes": [
+            "animation-comedy",
+            "family-comedy",
+            "slapstick",
+            "cartoon"
+          ],
+          "setting": [
+            "domestic-setting",
+            "modern-world",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "bumbler",
+            "naive-protagonist",
+            "lovable-fool"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "sitcom-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "teddy-bear",
+            "cartoon-car",
+            "domestic-appliances",
+            "cartoon-house"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Mr. Bean: The Animated Series is a lighthearted and playful family comedy that follows a lovable fool as he navigates everyday life with a unique blend of slapstick humor and cartoon physics."
+      },
+      "duration_seconds": 57.14294385910034
+    }
+  }
+}

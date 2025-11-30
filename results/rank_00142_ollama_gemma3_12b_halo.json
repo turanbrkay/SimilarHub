@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "Halo",
+    "overview": "Depicting an epic 26th-century conflict between humanity and an alien threat known as the Covenant, the series weaves deeply drawn personal stories with action, adventure and a richly imagined vision of the future.",
+    "genres": [
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2022,
+    "vote_count": 1926
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Halo is a science fiction action series set in the 26th century, depicting a war between humanity and a powerful alien alliance known as the Covenant. The series blends large-scale military conflict with character-driven narratives, exploring themes of faith, sacrifice, and the cost of survival. It aims to capture the scope and mythology of the popular video game franchise while appealing to a broader audience with its focus on personal stories amidst a galactic war. The tone is generally serious and action-packed, with moments of hope and despair as humanity fights for its existence.",
+        "spoiler_rich_plot_summary": "The series begins with a UNSC (United Nations Space Command) colony world, Reach, under attack by the Covenant. Master Chief, a genetically enhanced super-soldier, is activated and tasked with protecting a vital artifact known as the Pillar of Autumn. During the desperate retreat, the Pillar of Autumn crash-lands on a mysterious ringworld, later revealed to be Halo. The series explores Master Chief's relationship with his AI companion, Cortana, as they navigate the dangers of Halo and uncover its purpose: a weapon capable of wiping out all sentient life in the galaxy. A civilian, Kwan Haewatcher, becomes entangled in the conflict, revealing a hidden connection to the ringworld and its secrets. The Covenant, fractured by internal power struggles, presents a complex and multifaceted threat, with various factions vying for control. As the war intensifies, Master Chief confronts difficult choices and questions his own purpose, while humanity struggles to understand the true nature of the Covenant and the devastating power of Halo.",
+        "categorized_keywords": {
+          "themes": [
+            "war-and-conflict",
+            "faith",
+            "sacrifice",
+            "survival",
+            "artificial-intelligence",
+            "humanity",
+            "destiny"
+          ],
+          "plot_and_concepts": [
+            "ringworld",
+            "super-soldier",
+            "alien-invasion",
+            "galactic-war",
+            "artifact-quest",
+            "artificial-intelligence"
+          ],
+          "mood_and_tone": [
+            "serious",
+            "action-packed",
+            "hopeful",
+            "despairing",
+            "epic"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "military-science-fiction",
+            "space-opera",
+            "superhero-action"
+          ],
+          "setting": [
+            "space",
+            "ringworld",
+            "future-earth",
+            "distant-planets"
+          ],
+          "character_archetypes": [
+            "super-soldier",
+            "artificial-intelligence",
+            "reluctant-hero",
+            "military-commander"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "master-chief",
+            "cortana",
+            "pillar-of-autumn",
+            "covenant-ship",
+            "halo-ring"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "military-conflict"
+          ]
+        },
+        "keyword_sentence": "Halo is a serious and action-packed science fiction series set in space, depicting a galactic war between humanity and an alien threat, exploring themes of sacrifice and survival through the journey of a genetically enhanced super-soldier and his artificial intelligence companion."
+      },
+      "duration_seconds": 69.56198334693909
+    }
+  }
+}

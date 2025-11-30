@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Breadwinners",
+    "overview": "Two ducks fly around in a rocket-powered van, delivering bread to other ducks in Pondgea.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Kids",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2014,
+    "vote_count": 30
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Breadwinners is a vibrant, comedic animated series geared towards a young audience. The show follows two duck protagonists as they navigate the whimsical world of Pondgea, delivering bread via a rocket-powered van. It blends elements of action-adventure with science fiction and fantasy, creating a lighthearted and visually engaging experience. The series emphasizes friendship, resourcefulness, and the joys of a simple, albeit unusual, profession.",
+        "spoiler_rich_plot_summary": "The series centers on Charles and Hugo, two ducks who operate a bread delivery service in the bustling city of Pondgea. Initially, they struggle to establish their business, facing competition from other delivery services and encountering various obstacles along the way. As they progress, they uncover secrets about Pondgea's history and the origins of their bread-delivering profession. The brothers encounter eccentric characters and navigate increasingly complex situations, often involving fantastical creatures and advanced technology. While the series maintains a comedic tone, it explores themes of brotherhood, perseverance, and the importance of finding joy in everyday life. The brothers’ adventures lead them to discover more about their family history and the true nature of their unique bread-delivery operation, ultimately strengthening their bond and solidifying their place in Pondgea.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "brotherhood",
+            "perseverance",
+            "resourcefulness",
+            "adventure"
+          ],
+          "plot_and_concepts": [
+            "delivery-service",
+            "rocket-powered-vehicle",
+            "alternate-world",
+            "coming-of-age"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "comedy",
+            "kids-tv",
+            "action-adventure",
+            "sci-fi-fantasy"
+          ],
+          "setting": [
+            "pondgea",
+            "urban-setting",
+            "fantasy-world"
+          ],
+          "character_archetypes": [
+            "dynamic-duo",
+            "resourceful-protagonist",
+            "optimistic-hero"
+          ],
+          "narrative_style": [
+            "episodic-format",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "young-children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "rocket-van",
+            "bread-delivery",
+            "duck-characters"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Breadwinners is a lighthearted and optimistic animated comedy series for young audiences, following two duck brothers as they deliver bread through a fantastical urban world via a rocket-powered van."
+      },
+      "duration_seconds": 67.93216228485107
+    }
+  }
+}

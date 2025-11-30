@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "The Kings",
+    "overview": "A four-part series featuring four champions who ushered in a boxing renaissance. The series showcases the dominance of Roberto Duran, Marvelous Marvin Hagler, Thomas Hearns and Sugar Ray Leonard and their battles in and out of the ring.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2021,
+    "vote_count": 32
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Kings is a four-part documentary series chronicling the careers and rivalries of four legendary boxers: Roberto Duran, Marvelous Marvin Hagler, Thomas Hearns, and Sugar Ray Leonard. The series explores not only their extraordinary boxing skills and championship battles but also the personal struggles, controversies, and complex relationships that defined their eras. Through archival footage and interviews, the documentary aims to capture the essence of a boxing renaissance and the enduring legacy of these iconic athletes. It offers a compelling look at the intersection of sport, ambition, and the human condition.",
+        "spoiler_rich_plot_summary": "The series begins by introducing each boxer individually, detailing their early lives, training regimens, and initial ascents to prominence. Roberto Duran’s story highlights his raw talent and aggressive fighting style, culminating in his infamous 'No Mas' surrender. Marvelous Marvin Hagler’s narrative focuses on his relentless pursuit of a title and his eventual, hard-fought championship reign. Thomas Hearns’ story showcases his incredible physical gifts and devastating power, alongside his personal challenges. Sugar Ray Leonard’s arc follows his charismatic rise to fame and his pursuit of greatness. The documentary then meticulously reconstructs the legendary bouts between these four men, emphasizing the strategic nuances and the emotional toll of competition. The series concludes by examining the lasting impact of their careers on the sport of boxing and their individual journeys beyond the ring, acknowledging their triumphs and acknowledging the complexities of their personal lives.",
+        "categorized_keywords": {
+          "themes": [
+            "sports-rivalry",
+            "athletic-achievement",
+            "personal-struggle",
+            "boxing-culture",
+            "legacy",
+            "ambition"
+          ],
+          "plot_and_concepts": [
+            "boxing-match",
+            "sports-documentary",
+            "rise-to-fame",
+            "championship-fight",
+            "athlete-biography"
+          ],
+          "mood_and_tone": [
+            "intense",
+            "reflective",
+            "celebratory",
+            "nostalgic"
+          ],
+          "genre_and_tropes": [
+            "sports-genre",
+            "biographical-drama",
+            "documentary-film"
+          ],
+          "setting": [
+            "boxing-ring",
+            "modern-era",
+            "united-states"
+          ],
+          "character_archetypes": [
+            "champion",
+            "rival",
+            "underdog",
+            "legend"
+          ],
+          "narrative_style": [
+            "chronological-narrative",
+            "biographical-account"
+          ],
+          "target_audience": [
+            "sports-fans",
+            "boxing-enthusiasts"
+          ],
+          "detail_plot": [
+            "boxing-gloves",
+            "title-belt",
+            "training-camp",
+            "corner-man"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Kings is a compelling sports documentary that explores the intense rivalries, personal struggles, and enduring legacy of four legendary boxers who defined a golden era of boxing culture."
+      },
+      "duration_seconds": 71.36173748970032
+    }
+  }
+}

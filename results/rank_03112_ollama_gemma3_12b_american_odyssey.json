@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "American Odyssey",
+    "overview": "In this \"Traffic\"-like action drama, an international conspiracy explodes when three strangers' lives unexpectedly collide - a female soldier, a corporate lawyer and a political activist.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2015,
+    "vote_count": 44
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "American Odyssey is a tense, action-driven drama that explores the complexities of international conflict and its impact on seemingly ordinary lives. The series follows the interwoven stories of a soldier, a lawyer, and an activist as they uncover a far-reaching conspiracy with global implications. It blends elements of political thriller and procedural drama, maintaining a suspenseful tone and examining themes of loyalty, betrayal, and the search for truth in a world of deception. The narrative focuses on the personal cost of uncovering uncomfortable truths and the challenges of navigating a system riddled with corruption.",
+        "spoiler_rich_plot_summary": "The series begins with U.S. Army Lieutenant Kate McGregor being held captive after a military operation in Afghanistan goes wrong. Simultaneously, Franklin Allison, a corporate lawyer, finds himself embroiled in a legal battle involving a controversial tech company, and Peter Decker, a political activist, investigates a series of suspicious events. As the narrative unfolds, it becomes clear that these three individuals are connected by a larger conspiracy involving a rogue military faction and a shadowy organization manipulating global events. Kate escapes captivity and, along with Franklin and Peter, begins a perilous journey to expose the truth, facing constant threats and betrayals. They uncover evidence of a plot to destabilize governments and exploit resources, realizing that powerful forces are working against them. The investigation leads them across continents, revealing a web of deceit and corruption that reaches the highest levels of power. While they manage to expose some aspects of the conspiracy, they face setbacks and losses, and the full scope of the threat remains elusive, suggesting a continuing struggle for justice and accountability.",
+        "categorized_keywords": {
+          "themes": [
+            "international-conflict",
+            "political-corruption",
+            "search-for-truth",
+            "loyalty",
+            "betrayal",
+            "justice",
+            "accountability"
+          ],
+          "plot_and_concepts": [
+            "conspiracy-thriller",
+            "rogue-military",
+            "international-espionage",
+            "legal-battle",
+            "political-activism"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "tense",
+            "dark",
+            "serious"
+          ],
+          "genre_and_tropes": [
+            "political-thriller",
+            "action-drama",
+            "procedural-drama",
+            "espionage"
+          ],
+          "setting": [
+            "afghanistan",
+            "international",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "soldier",
+            "lawyer",
+            "political-activist",
+            "conspirator"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "military-operation",
+            "legal-documents",
+            "political-rallies",
+            "secret-meetings"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "political-intrigue"
+          ]
+        },
+        "keyword_sentence": "American Odyssey is a suspenseful action drama that explores themes of political corruption and the search for truth amidst international conflict, following a soldier, a lawyer, and a political activist as they navigate a world of espionage and danger."
+      },
+      "duration_seconds": 69.84014391899109
+    }
+  }
+}

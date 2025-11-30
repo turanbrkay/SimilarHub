@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Cold Justice",
+    "overview": "From Executive Producer Dick Wolf, this true crime investigative series follows veteran prosecutor Kelly Siegler, and her rotating team of seasoned detectives, as they travel to small towns across the country and help local law-enforcement agencies dig into unsolved homicide cases that have lingered for years without answers or justice for the victims due to lack of funding and proper forensic technology.",
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Documentary"
+    ],
+    "release_year": 2013,
+    "vote_count": 30
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Cold Justice is a true crime documentary series that follows former prosecutor Kelly Siegler and her team as they assist local law enforcement in revisiting cold cases. The series blends investigative procedural elements with a focus on the emotional toll of unsolved crimes on victims' families and communities. Siegler's expertise and the team's resources help to uncover new leads and bring closure to cases that have long gone unsolved, highlighting the challenges faced by smaller jurisdictions with limited resources. The show offers a blend of legal process, forensic science, and human drama, emphasizing the pursuit of justice for those who have been forgotten.",
+        "spoiler_rich_plot_summary": "Each episode of Cold Justice focuses on a different cold case in a different location. Kelly Siegler and her team arrive and quickly immerse themselves in the existing case files, interviewing original witnesses and family members. They often identify overlooked evidence or inconsistencies in the original investigation, prompting a renewed search for clues. Forensic technology, often unavailable at the time of the original crime, is employed to re-examine evidence and potentially identify new suspects. The team works closely with local law enforcement, navigating jurisdictional complexities and bureaucratic hurdles to pursue leads. While the series doesn't follow a continuous narrative, each episode culminates in a renewed focus on the investigation, often leading to the identification of a suspect or the uncovering of previously unknown information that could potentially lead to an arrest or a clearer understanding of the crime. The series consistently demonstrates the impact of time and technological advancements on the pursuit of justice, and the enduring pain experienced by the families of victims.",
+        "categorized_keywords": {
+          "themes": [
+            "true-crime",
+            "justice",
+            "grief",
+            "family-loss",
+            "cold-cases",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "investigative-procedural",
+            "forensic-science",
+            "cold-case-investigation",
+            "legal-process"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "suspenseful",
+            "melancholy",
+            "serious"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "documentary",
+            "investigative-journalism"
+          ],
+          "setting": [
+            "small-town-america",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "investigator",
+            "prosecutor",
+            "victim-family"
+          ],
+          "narrative_style": [
+            "episodic",
+            "case-file"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "case-files",
+            "crime-scene",
+            "forensic-evidence",
+            "police-badge"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "crime-themes"
+          ]
+        },
+        "keyword_sentence": "Cold Justice is a somber documentary series that investigates cold cases across small-town America, blending forensic science and legal process to pursue justice and offer solace to grieving families."
+      },
+      "duration_seconds": 80.14432048797607
+    }
+  }
+}

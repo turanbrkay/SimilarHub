@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "Love Life",
+    "overview": "A romantic comedy anthology series which follows a different protagonist each season on the journey from first love to last love, with each half-hour episode chronicling one of their relationships.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2020,
+    "vote_count": 75
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Love Life is a romantic anthology series that explores the complexities of relationships through the eyes of different protagonists each season. The show blends comedic and dramatic elements to portray the ups and downs of love, from initial infatuation to heartbreak and eventual acceptance. Each season offers a fresh perspective on the universal experience of finding and losing love, emphasizing the transformative power of relationships and the lessons learned along the way. The episodic format allows for diverse storytelling and character development, creating a relatable and emotionally resonant viewing experience. Ultimately, Love Life is a celebration of the messy, beautiful, and often unpredictable journey of finding your way through love.",
+        "spoiler_rich_plot_summary": "The first season follows Darby, a young woman navigating her twenties and searching for lasting love. She chronicles her romantic encounters in a journal, detailing each relationship's impact on her personal growth. Darby experiences a series of relationships, each offering different lessons and shaping her understanding of what she desires in a partner. As she matures, she realizes that her initial definition of love was flawed and that true connection requires vulnerability and self-awareness. Subsequent seasons introduce new protagonists, each with their own unique romantic journeys and challenges. These stories explore different facets of love, including long-distance relationships, unconventional partnerships, and the complexities of family dynamics. While each season presents a self-contained narrative, recurring themes of self-discovery and the enduring power of human connection weave throughout the series, demonstrating how past relationships shape future ones and contribute to a broader understanding of love’s transformative power. The series concludes with a sense of hope and acceptance, suggesting that even after heartbreak, the possibility of finding lasting love remains.",
+        "categorized_keywords": {
+          "themes": [
+            "love",
+            "relationships",
+            "self-discovery",
+            "personal-growth",
+            "heartbreak",
+            "acceptance",
+            "vulnerability",
+            "connection"
+          ],
+          "plot_and_concepts": [
+            "anthology-series",
+            "romantic-comedy",
+            "journaling",
+            "coming-of-age",
+            "episodic-narrative"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "emotional",
+            "reflective",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "romantic-comedy",
+            "coming-of-age",
+            "slice-of-life"
+          ],
+          "setting": [
+            "modern-day",
+            "urban-setting"
+          ],
+          "character_archetypes": [
+            "young-adult",
+            "romantic-lead"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-narrative"
+          ],
+          "target_audience": [
+            "young-adult"
+          ],
+          "detail_plot": [
+            "journal-entries",
+            "romantic-encounters"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Love Life is a lighthearted and emotional anthology series that explores the complexities of young adult relationships and self-discovery through a serialized narrative of romantic encounters and journal entries."
+      },
+      "duration_seconds": 63.8878972530365
+    }
+  }
+}

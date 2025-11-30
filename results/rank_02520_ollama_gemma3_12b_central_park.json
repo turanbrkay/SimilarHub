@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Central Park",
+    "overview": "An animated musical comedy about the Tillermans, a family that lives in a castle in Central Park. Owen, the park manager, and Paige, his journalist wife, raise their kids Molly and Cole in the world’s most famous park, while fending off a hotel heiress, Bitsy Brandenham, who would love nothing more than to turn the park into condos.",
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "release_year": 2020,
+    "vote_count": 65
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Central Park is a vibrant, animated musical comedy series that follows the lives of the Tillerman family, caretakers of Central Park in New York City. The show blends whimsical humor with heartfelt family dynamics, exploring themes of community, responsibility, and the preservation of public spaces. Through catchy musical numbers and quirky characters, Central Park offers a lighthearted and optimistic portrayal of urban life and the importance of connection.",
+        "spoiler_rich_plot_summary": "The series introduces the Tillerman family: Owen, the park manager; Paige, his journalist wife; and their children, Molly and Cole. They reside in a beautiful castle within Central Park, a privilege that comes with significant responsibility. The primary antagonist is Bitsy Brandenham, a wealthy heiress determined to develop Central Park into luxury condominiums. Each season sees Bitsy devising increasingly elaborate schemes to seize control of the park, while the Tillermans work to thwart her plans, often with the help of their eccentric friends and colleagues. The show explores the challenges of maintaining a beloved public space while navigating personal relationships and the pressures of modern life. Molly, the eldest child, often grapples with her identity and place within the family, while Cole explores his interests and develops his own unique perspective on the world. The series consistently reinforces the importance of community and the enduring value of Central Park as a vital part of New York City’s cultural heritage.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "community-spirit",
+            "environmental-preservation",
+            "social-responsibility",
+            "urban-life",
+            "class-conflict"
+          ],
+          "plot_and_concepts": [
+            "musical-comedy",
+            "property-development",
+            "antagonist-scheme",
+            "found-family",
+            "generational-conflict"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "optimistic",
+            "wholesome",
+            "quirky",
+            "humorous"
+          ],
+          "genre_and_tropes": [
+            "animated-comedy",
+            "family-sitcom",
+            "fish-out-of-water",
+            "slice-of-life"
+          ],
+          "setting": [
+            "new-york-city",
+            "central-park",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "eccentric-family",
+            "wealthy-villain",
+            "responsible-adult",
+            "spirited-child"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "castle-residence",
+            "park-management",
+            "journalism-career",
+            "development-plans",
+            "musical-numbers"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Central Park is a lighthearted animated comedy series that celebrates family, community, and the importance of preserving urban spaces through catchy musical numbers and quirky characters in the heart of New York City."
+      },
+      "duration_seconds": 61.62362289428711
+    }
+  }
+}

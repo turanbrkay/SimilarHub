@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "The Adventures of Batman",
+    "overview": "The adventures of Batman, with Robin, the Boy Wonder! Batman and Robin, the Dynamic Duo against crime and corruption, whose real identities as millionaire philanthropist Bruce Wayne and his young ward Dick Grayson and known only to Alfred, the faithful butler. Ever alert, they respond swiftly to a signal from the police, and moments later, from the secret Batcave deep beneath Wayne Manor, they roar out to protect life, limb and property as Batman and Robin, caped crimefighters! Batman and Robin, scourge of Gotham City's kooky criminals: The Joker, Clown Prince of Crime - The Penguin, pudgy purveyor of perfidy - and the cool, cruel, Mr. Freeze! Watch out, villains, here come... Batman and Robin!",
+    "genres": [
+      "Animation",
+      "Action & Adventure"
+    ],
+    "release_year": 1968,
+    "vote_count": 30
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Adventures of Batman is a vibrant, comedic superhero series that blends action and adventure with a playful, self-aware tone. It follows the crime-fighting duo of Batman and Robin as they confront a rogues' gallery of eccentric villains in Gotham City. The series is characterized by its campy humor, exaggerated performances, and a lighthearted approach to the superhero genre, offering a family-friendly and entertaining experience.",
+        "spoiler_rich_plot_summary": "The series primarily operates as a collection of standalone episodes, each featuring a different villain and a unique scheme to terrorize Gotham City. Batman and Robin consistently thwart these plans, often through a combination of detective work, gadgetry, and physical prowess. While the series doesn't have a continuous overarching narrative, recurring villains like The Joker, The Penguin, and Mr. Freeze consistently reappear, each presenting new and increasingly elaborate challenges for the Dynamic Duo. The series concludes with Batman and Robin successfully maintaining order in Gotham, ensuring the city remains safe from the clutches of its colorful cast of criminals, though the threat of new villains always looms.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "good-vs-evil",
+            "friendship",
+            "courage",
+            "family-founding"
+          ],
+          "plot_and_concepts": [
+            "detective-work",
+            "superhero-action",
+            "rogues-gallery",
+            "mystery",
+            "crime-fighting"
+          ],
+          "mood_and_tone": [
+            "campy",
+            "comedic",
+            "lighthearted",
+            "wholesome",
+            "playful"
+          ],
+          "genre_and_tropes": [
+            "superhero-genre",
+            "buddy-cop",
+            "crime-procedural",
+            "animation"
+          ],
+          "setting": [
+            "gotham-city",
+            "modern-day",
+            "urban-setting"
+          ],
+          "character_archetypes": [
+            "superhero",
+            "sidekick",
+            "eccentric-villain",
+            "faithful-butler"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "bat-signal",
+            "batcave",
+            "batmobile",
+            "cape",
+            "utility-belt"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Adventures of Batman is a lighthearted and comedic animated series following the crime-fighting duo as they protect Gotham City from a colorful cast of eccentric villains, embodying the classic superhero genre with a playful and family-friendly tone."
+      },
+      "duration_seconds": 70.02690386772156
+    }
+  }
+}

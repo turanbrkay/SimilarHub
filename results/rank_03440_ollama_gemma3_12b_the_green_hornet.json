@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "The Green Hornet",
+    "overview": "The Green Hornet is a television series on the ABC US television network that aired for the 1966–1967 TV season starring Van Williams as the Green Hornet/Britt Reid and Bruce Lee as Kato.",
+    "genres": [
+      "Action & Adventure",
+      "Crime",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1966,
+    "vote_count": 37
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Green Hornet is a 1960s action-adventure series blending crime procedural elements with fantastical technology and martial arts. Following the masked vigilante and his enigmatic sidekick, the show delivers a blend of pulp adventure and comedic action. It explores themes of justice, duality, and the blurred lines between hero and criminal, all wrapped in a visually stylish package characteristic of the era. The series is known for its innovative use of gadgets and Bruce Lee's iconic portrayal of Kato, contributing to its lasting cultural impact.",
+        "spoiler_rich_plot_summary": "The series follows Britt Reid, a wealthy playboy who secretly operates as the Green Hornet, a masked crime fighter. After witnessing his father's murder, Reid dedicates himself to battling corruption in the city, using his family fortune to fund his operations and employing a skilled martial artist, Kato, as his partner. Each week, Reid poses as a reckless socialite while Kato investigates criminal activity, leading to confrontations with a variety of villains, from mob bosses to corrupt officials. The Green Hornet utilizes advanced technology, including a high-speed Black Beauty automobile and various gadgets, to outwit his adversaries. Throughout the series, the Green Hornet and Kato work to expose the city's underbelly and bring criminals to justice, often facing challenges from both the criminal underworld and those within law enforcement who disapprove of their methods. While the series maintains a lighthearted tone, it consistently underscores the moral complexities of vigilantism and the struggle to maintain justice in a corrupt system. The show concludes with the ongoing battle against crime, leaving the Green Hornet and Kato poised to continue their fight for justice.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "vigilantism",
+            "corruption",
+            "revenge",
+            "dual-identity",
+            "wealth-and-power"
+          ],
+          "plot_and_concepts": [
+            "masked-hero",
+            "crime-fighting",
+            "secret-identity",
+            "gadget-based-action",
+            "pulp-adventure"
+          ],
+          "mood_and_tone": [
+            "action-packed",
+            "comedic",
+            "lighthearted",
+            "stylized",
+            "retro"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "crime-procedural",
+            "superhero-action",
+            "pulp-fiction",
+            "buddy-cop"
+          ],
+          "setting": [
+            "1960s",
+            "urban-setting",
+            "retro-futurism"
+          ],
+          "character_archetypes": [
+            "masked-hero",
+            "enigmatic-sidekick",
+            "wealthy-playboy",
+            "corrupt-official"
+          ],
+          "narrative_style": [
+            "episodic-format",
+            "serialized-elements"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "black-beauty",
+            "masked-costume",
+            "kato-s-martial-arts",
+            "gadget-belt",
+            "newspaper-front-page"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Green Hornet is a retro action-adventure series blending crime-fighting and gadget-based action with a lighthearted tone, following a masked hero and his enigmatic sidekick as they battle corruption in a stylized urban setting."
+      },
+      "duration_seconds": 62.46114778518677
+    }
+  }
+}

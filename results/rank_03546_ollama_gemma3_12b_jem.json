@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Jem",
+    "overview": "Using a holographic computer she inherited from her father, Jerrica Benton turns herself and her pals into pop-music group Jem and the Holograms.",
+    "genres": [
+      "Animation",
+      "Sci-Fi & Fantasy",
+      "Kids"
+    ],
+    "release_year": 1985,
+    "vote_count": 35
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Jem is a vibrant, animated series that blends music, friendship, and business savvy. The show follows Jerrica Benton, who, with the help of her robotic assistant, creates the pop sensation Jem and the Holograms. It explores themes of identity, ambition, and the complexities of fame, all wrapped in a colorful, energetic package aimed at a younger audience. The series balances lighthearted musical performances with underlying narratives about family, loyalty, and the challenges of maintaining a public persona.",
+        "spoiler_rich_plot_summary": "The series begins with Jerrica Benton, a young woman who inherits her father’s company and discovers a holographic computer that allows her to create the pop group Jem and the Holograms. As Jem and the Holograms rise to fame, Jerrica struggles to balance her dual identities, keeping her true self hidden from the public and her business rival, Patricia Williamson. Patricia, driven by ambition and a desire to control the music industry, constantly attempts to sabotage Jem’s success, leading to various conflicts and schemes. Throughout the series, the Holograms navigate the pressures of fame, deal with personal relationships, and confront challenges to their music and image. The series explores the darker side of the entertainment industry, highlighting the sacrifices and compromises required for success, while ultimately celebrating the power of friendship and creativity. While Jerrica tries to maintain her secret, her past and the complexities of her family relationships continue to surface, creating ongoing tension and driving the narrative forward.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "fame",
+            "identity",
+            "family-dynamics",
+            "ambition",
+            "business-ethics"
+          ],
+          "plot_and_concepts": [
+            "holographic-technology",
+            "dual-identity",
+            "rivalry",
+            "music-industry",
+            "secret-identity"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "optimistic",
+            "energetic",
+            "lighthearted"
+          ],
+          "genre_and_tropes": [
+            "animated-series",
+            "coming-of-age",
+            "found-family",
+            "musical-drama"
+          ],
+          "setting": [
+            "modern-day",
+            "entertainment-industry",
+            "los-angeles"
+          ],
+          "character_archetypes": [
+            "entrepreneur",
+            "pop-star",
+            "rival",
+            "inventor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "kids",
+            "young-adults"
+          ],
+          "detail_plot": [
+            "holographic-computer",
+            "stage-performance",
+            "recording-studio",
+            "music-video"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Jem is a lighthearted, animated series about friendship and ambition, following a young woman who creates a pop group using holographic technology and navigating the complexities of fame within the entertainment industry."
+      },
+      "duration_seconds": 55.80017900466919
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "input_data": {
+    "title": "The Company",
+    "overview": "The Company tells the thrilling story of Cold War CIA agents imprisoned in double lives, fighting an amoral, elusive, formidable enemy – and each other – in an internecine battle within the Company itself.",
+    "genres": [
+      "Action & Adventure",
+      "Drama"
+    ],
+    "release_year": 2007,
+    "vote_count": 37
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Company is a Cold War espionage thriller centered on a covert CIA unit operating within a shadowy organization. The series explores themes of loyalty, betrayal, and the moral compromises inherent in intelligence work. The narrative blends action and suspense with a focus on complex character dynamics and a pervasive atmosphere of paranoia and distrust. The show examines the blurred lines between right and wrong in a world of clandestine operations and shifting allegiances, offering a tense and morally ambiguous viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with a team of CIA operatives, led by Jack Horton, tasked with investigating a series of mysterious deaths linked to a rogue faction within the agency known only as 'The Company.' As they delve deeper, they uncover a web of deceit and double-crosses, realizing that their own colleagues are involved in the conspiracy. Horton and his team are forced to confront the reality that the enemy is not a foreign power, but a deeply entrenched group operating within the CIA itself, manipulating events for their own agenda. The investigation leads them to uncover a history of covert operations and compromised loyalties, revealing that the origins of 'The Company' stretch back decades. Throughout the series, team members face personal betrayals and are forced to question the motives of those they trust. The pursuit of the truth becomes a dangerous game, with the protagonists constantly at risk of being exposed and eliminated. The series culminates in a confrontation with the leaders of 'The Company,' revealing their ultimate goal and the extent of their influence. The final episodes explore the consequences of their actions and the uncertain future of the CIA.",
+        "categorized_keywords": {
+          "themes": [
+            "cold-war",
+            "espionage",
+            "betrayal",
+            "loyalty",
+            "moral-ambiguity",
+            "conspiracy",
+            "paranoia",
+            "deception"
+          ],
+          "plot_and_concepts": [
+            "double-agent",
+            "rogue-agency",
+            "cover-identity",
+            "political-thriller",
+            "conspiracy-theory",
+            "intelligence-gathering"
+          ],
+          "mood_and_tone": [
+            "tense",
+            "suspenseful",
+            "dark",
+            "gritty",
+            "cynical"
+          ],
+          "genre_and_tropes": [
+            "spy-thriller",
+            "action-adventure",
+            "political-intrigue",
+            "government-conspiracy"
+          ],
+          "setting": [
+            "cold-war-era",
+            "washington-dc",
+            "international-locations"
+          ],
+          "character_archetypes": [
+            "spy",
+            "double-agent",
+            "government-operative",
+            "antagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "mystery",
+            "thriller"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "cia-headquarters",
+            "surveillance-equipment",
+            "encrypted-messages",
+            "safe-house"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "deception",
+            "political-manipulation"
+          ]
+        },
+        "keyword_sentence": "The Company is a tense, suspenseful spy thriller set during the Cold War, exploring themes of betrayal and loyalty within a shadowy government agency engaged in political intrigue and deception."
+      },
+      "duration_seconds": 60.89523792266846
+    }
+  }
+}

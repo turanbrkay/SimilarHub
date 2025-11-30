@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "The Temptations",
+    "overview": "Biography of the singers who formed the hit Motown musical act, The Temptations.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 1998,
+    "vote_count": 31
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Temptations is a biographical drama series chronicling the rise and struggles of the iconic Motown group. The show explores the complex dynamics within the band, the pressures of fame, and the personal demons that threatened to derail their success. It blends musical performances with a narrative focused on the interpersonal relationships and the sacrifices made in pursuit of artistic achievement. The series aims to portray the human cost of fame and the enduring power of music.",
+        "spoiler_rich_plot_summary": "The series begins with the formation of The El-Rays in Detroit, following their early struggles and eventual signing with Motown Records. The narrative charts their ascent to stardom, showcasing their groundbreaking performances and the impact they had on the music industry. As their fame grows, internal conflicts arise, fueled by ego clashes, romantic entanglements, and the pressures of maintaining their image. The series delves into the personal lives of the band members, revealing their individual struggles with addiction, infidelity, and the toll that constant touring takes on their families. The narrative follows the group through various lineup changes and periods of both immense success and devastating setbacks, ultimately portraying the enduring legacy of The Temptations and the sacrifices made to achieve it. The show highlights the impact of Berry Gordy and Motown's business practices on the group's trajectory, and the challenges they faced in maintaining creative control.",
+        "categorized_keywords": {
+          "themes": [
+            "music-industry",
+            "fame-and-fortune",
+            "family-dynamics",
+            "addiction",
+            "creative-control",
+            "legacy",
+            "betrayal"
+          ],
+          "plot_and_concepts": [
+            "biography",
+            "musical-performance",
+            "rise-to-fame",
+            "motown-sound",
+            "group-dynamics"
+          ],
+          "mood_and_tone": [
+            "melancholy",
+            "nostalgic",
+            "dramatic",
+            "reflective"
+          ],
+          "genre_and_tropes": [
+            "biographical-drama",
+            "music-biography",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "detroit-michigan",
+            "1960s",
+            "1970s",
+            "motown-records"
+          ],
+          "character_archetypes": [
+            "troubled-artist",
+            "ambitious-manager",
+            "enigmatic-leader"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "chronological-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "music-fans"
+          ],
+          "detail_plot": [
+            "motown-studio",
+            "stage-performance",
+            "record-contract",
+            "group-photo"
+          ],
+          "maturity_and_content": [
+            "substance-abuse",
+            "infidelity"
+          ]
+        },
+        "keyword_sentence": "The Temptations is a dramatic biographical series exploring the rise and fall of a legendary Motown group, showcasing the complexities of fame, family, and the enduring power of music against a backdrop of 1960s and 70s Detroit."
+      },
+      "duration_seconds": 75.93187689781189
+    }
+  }
+}

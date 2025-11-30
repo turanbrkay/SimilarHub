@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "NOVA",
+    "overview": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demystifies science and technology, and highlights the people involved in scientific pursuits.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 1974,
+    "vote_count": 94
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "NOVA is a long-running and highly respected science documentary series that aims to make complex scientific concepts accessible to a broad audience. Through in-depth explorations of various fields, from physics and astronomy to biology and archaeology, the series fosters scientific literacy and encourages curiosity about the world around us. NOVA distinguishes itself through its commitment to rigorous research, compelling storytelling, and visually engaging presentation, making it a cornerstone of public television.",
+        "spoiler_rich_plot_summary": "NOVA's format eschews a traditional narrative arc, instead focusing on individual episodes that delve into specific scientific topics. Early episodes explored the history of science and technology, while later seasons tackled contemporary issues like climate change, genetic engineering, and the search for extraterrestrial life. Each episode typically follows a chronological or thematic progression, presenting evidence, interviewing experts, and illustrating complex processes through animation and real-world footage. While there are no overarching plotlines or character arcs, each episode builds a case for a particular scientific understanding, often challenging existing theories and prompting further investigation. The series consistently revisits and updates its coverage of key scientific advancements, reflecting the ever-evolving nature of knowledge.",
+        "categorized_keywords": {
+          "themes": [
+            "scientific-discovery",
+            "knowledge-pursuit",
+            "human-innovation",
+            "exploration",
+            "education"
+          ],
+          "plot_and_concepts": [
+            "documentary-format",
+            "scientific-investigation",
+            "historical-analysis",
+            "expert-interviews",
+            "visual-explanation"
+          ],
+          "mood_and_tone": [
+            "informative",
+            "objective",
+            "thought-provoking",
+            "curious",
+            "educational"
+          ],
+          "genre_and_tropes": [
+            "science-documentary",
+            "educational-television",
+            "non-fiction"
+          ],
+          "setting": [
+            "global",
+            "laboratories",
+            "historical-sites",
+            "research-institutions"
+          ],
+          "character_archetypes": [
+            "scientist",
+            "researcher",
+            "expert"
+          ],
+          "narrative_style": [
+            "episodic",
+            "non-linear"
+          ],
+          "target_audience": [
+            "general-audience",
+            "students",
+            "educators"
+          ],
+          "detail_plot": [
+            "laboratory-equipment",
+            "scientific-data",
+            "computer-simulations",
+            "archaeological-finds"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "NOVA is an educational science documentary series that explores a wide range of topics through rigorous investigation and expert interviews, fostering a global audience's understanding of scientific discovery and innovation."
+      },
+      "duration_seconds": 56.75476694107056
+    }
+  }
+}

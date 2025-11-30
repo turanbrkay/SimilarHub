@@ -1,0 +1,69 @@
+{
+  "input_data": {
+    "title": "The Addams Family",
+    "overview": "A satirical inversion of the ideal of the perfect American nuclear family, they are an eccentric wealthy family who delight in everything grotesque and macabre, and are never really aware that people find them bizarre or frightening. In fact, they themselves are often terrified by \"normal\" people.",
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "release_year": 1964,
+    "vote_count": 326
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Addams Family is a darkly comedic sitcom that subverts the traditional American family dynamic by presenting a macabre and eccentric clan who revel in the grotesque. The series satirizes societal norms and expectations through the Addams' unconventional lifestyle and their interactions with the 'normal' world. With a blend of gothic aesthetics and witty humor, the show explores themes of family loyalty, acceptance, and the absurdity of conformity, offering a unique and enduringly popular comedic perspective.",
+        "spoiler_rich_plot_summary": "The series primarily follows the Addams family as they navigate their unusual existence in a suburban neighborhood. While the premise revolves around their eccentricities, the core narrative involves their interactions with outsiders, particularly the 'normal' families who find them unsettling. Recurring storylines involve attempts by various characters to understand or exploit the Addams' wealth and peculiarities. Morticia and Gomez's deep and passionate love for each other remains a constant, as does their dedication to their children, Wednesday and Pugsley, who often engage in mischievous and sometimes dangerous activities. Throughout the series, the Addams family consistently defends their values and way of life, often leading to humorous clashes with the outside world and reinforcing their unique identity.",
+        "categorized_keywords": {
+          "themes": [
+            "family-loyalty",
+            "social-satire",
+            "acceptance",
+            "conformity",
+            "gothic-romance"
+          ],
+          "plot_and_concepts": [
+            "fish-out-of-water",
+            "satirical-comedy",
+            "monster-of-the-week"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "wholesome",
+            "eccentric"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "gothic-comedy",
+            "found-family"
+          ],
+          "setting": [
+            "suburban-neighborhood",
+            "gothic-mansion",
+            "1960s-america"
+          ],
+          "character_archetypes": [
+            "eccentric-family",
+            "gothic-hero",
+            "romantic-couple"
+          ],
+          "narrative_style": [
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "gothic-mansion",
+            "thing-the-hand",
+            "wednesday-addams",
+            "lurch-the-butler"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Addams Family is a darkly comic sitcom that satirizes American society through the lens of an eccentric, gothic family living in a suburban neighborhood."
+      },
+      "duration_seconds": 53.00344896316528
+    }
+  }
+}

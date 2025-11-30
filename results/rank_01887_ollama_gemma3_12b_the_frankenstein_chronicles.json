@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "The Frankenstein Chronicles",
+    "overview": "Inspector John Marlott investigates a series of crimes in 19th Century London, which may have been committed by a scientist intent on re-animating the dead.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "release_year": 2015,
+    "vote_count": 105
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Frankenstein Chronicles is a dark and atmospheric drama set in 1830s London, blending historical fiction with elements of science fiction and horror. The series follows Inspector John Marlott as he investigates gruesome murders that bear a striking resemblance to the work of Victor Frankenstein. It explores themes of ambition, morality, and the consequences of playing God, all while maintaining a suspenseful and unsettling tone. The show’s blend of procedural investigation and gothic horror creates a unique and compelling viewing experience, steeped in Victorian-era aesthetics and psychological tension.",
+        "spoiler_rich_plot_summary": "The series begins with Inspector Marlott investigating a series of murders that mirror the methods described in Victor Frankenstein's journals. Marlott discovers that someone is attempting to recreate Frankenstein's experiments, reanimating corpses and creating monstrous beings. As Marlott delves deeper into the case, he uncovers a conspiracy involving powerful figures who are funding and protecting the reanimator's work. Marlott's investigation leads him to question the nature of life, death, and the boundaries of scientific progress. He confronts the ethical implications of tampering with the natural order and the potential for catastrophic consequences. The series explores the legacy of Frankenstein's creation and the ongoing struggle to control the power of reanimation, revealing a complex web of secrets and betrayals that threaten to unravel the fabric of Victorian society. Marlott ultimately faces a confrontation with the reanimator, forcing him to make difficult choices that will determine the fate of London and the future of scientific innovation.",
+        "categorized_keywords": {
+          "themes": [
+            "life-and-death",
+            "scientific-hubris",
+            "moral-ambiguity",
+            "social-class",
+            "revenge",
+            "grief"
+          ],
+          "plot_and_concepts": [
+            "reanimation",
+            "monster-creation",
+            "police-investigation",
+            "conspiracy",
+            "serial-crime"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "gothic",
+            "suspenseful",
+            "atmospheric",
+            "grim"
+          ],
+          "genre_and_tropes": [
+            "historical-fiction",
+            "science-fiction",
+            "horror",
+            "crime-procedural",
+            "mystery"
+          ],
+          "setting": [
+            "19th-century-london",
+            "victorian-era",
+            "foggy-streets",
+            "london-underground"
+          ],
+          "character_archetypes": [
+            "gruff-detective",
+            "tormented-scientist",
+            "corrupt-aristocrat",
+            "reluctant-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "mystery-thriller"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "reanimated-corpse",
+            "victor-frankensteins-journals",
+            "fog-bound-streets",
+            "london-gaslight",
+            "police-hat"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "body-horror"
+          ]
+        },
+        "keyword_sentence": "Set in the fog-bound streets of 19th-century London, The Frankenstein Chronicles is a dark and suspenseful drama exploring themes of scientific hubris and moral ambiguity through a grim police investigation into reanimated corpses."
+      },
+      "duration_seconds": 70.38478136062622
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "The Tom and Jerry Show",
+    "overview": "The iconic cat and mouse rivals are back in a fresh take on the classic series. Preserving the look, characters and sensibility of the original, this series shines a brightly colored, high-definition lens on the madcap slapstick and never-ending battle that has made Tom and Jerry two of the most beloved characters of all time.",
+    "genres": [
+      "Family",
+      "Animation",
+      "Comedy"
+    ],
+    "release_year": 2014,
+    "vote_count": 49
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Tom and Jerry Show is a revival of the classic animated series, maintaining the core premise of a cat and mouse engaged in chaotic, slapstick comedy. The show aims to recapture the timeless appeal of the original, utilizing updated animation and high-definition visuals while preserving the familiar characters and comedic style. It offers a lighthearted and universally accessible form of entertainment, relying on visual gags and physical humor rather than complex narratives. The series is designed for a broad audience, particularly families, and provides a nostalgic experience for long-time fans while introducing the characters to a new generation.",
+        "spoiler_rich_plot_summary": "The series follows the enduring rivalry between Tom, a house cat, and Jerry, a resourceful mouse who has taken up residence in Tom's home. Each episode typically revolves around Tom's attempts to catch Jerry, which invariably backfire in increasingly elaborate and destructive ways. Jerry consistently outsmarts Tom, utilizing his wit and ingenuity to evade capture and often turning the tables on his feline nemesis. While the show maintains a largely episodic structure, recurring characters and minor plot threads occasionally emerge, adding a layer of familiarity to the ongoing battle. The dynamic between Tom and Jerry remains central, with their interactions driving the comedic action and showcasing their unique personalities. The series concludes with the ongoing cycle of pursuit and evasion, reinforcing the timeless nature of their rivalry.",
+        "categorized_keywords": {
+          "themes": [
+            "cat-and-mouse",
+            "rivalry",
+            "humor",
+            "resourcefulness",
+            "chaos"
+          ],
+          "plot_and_concepts": [
+            "slapstick-comedy",
+            "chase-sequence",
+            "cartoon-violence",
+            "physical-comedy"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "playful"
+          ],
+          "genre_and_tropes": [
+            "animated-comedy",
+            "classic-cartoon",
+            "family-entertainment"
+          ],
+          "setting": [
+            "domestic-setting",
+            "animated-world"
+          ],
+          "character_archetypes": [
+            "trickster",
+            "pursuer",
+            "comedic-protagonist"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "gag-driven"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "mouse-trap",
+            "cartoon-physics",
+            "pie-in-face",
+            "cartoon-explosion"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Tom and Jerry Show is a lighthearted animated comedy series centered on the timeless rivalry between a cat and a mouse, delivering family-friendly entertainment through slapstick gags and cartoon physics."
+      },
+      "duration_seconds": 53.79286789894104
+    }
+  }
+}

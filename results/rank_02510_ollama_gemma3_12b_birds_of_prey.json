@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Birds of Prey",
+    "overview": "Huntress, Dinah, Oracle are determined to carry on Batman's fight for justice against the ruthless criminals of New Gotham City.",
+    "genres": [
+      "Drama",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2002,
+    "vote_count": 66
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Birds of Prey is a superhero drama series set in a Gotham City operating without Batman's direct presence. The show focuses on a team of female crimefighters – Huntress, Black Canary, and Oracle – who work to protect the city from escalating criminal threats. It blends action, superhero elements, and family dynamics, exploring themes of legacy, justice, and the challenges of operating in a morally ambiguous world. The series offers a gritty and action-packed experience, emphasizing strong female characters and their complex relationships.",
+        "spoiler_rich_plot_summary": "The series begins with Dinah Lance, a singer and vigilante known as Black Canary, reluctantly taking in her orphaned niece, Helena Bertinelli, after her parents' murder. Helena, driven by vengeance, adopts the identity of the Huntress, a ruthless vigilante targeting Gotham's criminal underworld. Oracle, formerly known as Barbara Gordon, provides crucial intelligence and tactical support from her base of operations. As the team confronts increasingly dangerous adversaries, including the Joker and Black Mask, they grapple with their differing approaches to justice and the personal sacrifices required to protect the city. Helena’s methods often clash with Dinah’s more measured approach, creating internal conflict within the team. The series explores the legacy of Batman and the impact his absence has on Gotham's criminal landscape, with the Birds of Prey striving to fill the void while navigating their own complicated pasts and present-day challenges. The team faces betrayals and losses, forcing them to re-evaluate their mission and their bonds with one another.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "vengeance",
+            "family-loyalty",
+            "legacy",
+            "female-empowerment",
+            "moral-ambiguity"
+          ],
+          "plot_and_concepts": [
+            "vigilantism",
+            "crime-fighting",
+            "superhero-team",
+            "secret-identity",
+            "criminal-underworld"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "gritty",
+            "action-packed",
+            "serious"
+          ],
+          "genre_and_tropes": [
+            "superhero-action",
+            "crime-procedural",
+            "found-family",
+            "female-led"
+          ],
+          "setting": [
+            "gotham-city",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "vigilante",
+            "mentor",
+            "anti-heroine",
+            "information-broker"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "teen-adults"
+          ],
+          "detail_plot": [
+            "batman-legacy",
+            "secret-base",
+            "vigilante-costume",
+            "criminal-hideout"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "crime"
+          ]
+        },
+        "keyword_sentence": "Operating in a dark and gritty Gotham City without Batman’s presence, Birds of Prey explores themes of justice and female empowerment through a team of vigilantes battling crime and forging a found family."
+      },
+      "duration_seconds": 61.29184007644653
+    }
+  }
+}

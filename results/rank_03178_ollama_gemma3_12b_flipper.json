@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Flipper",
+    "overview": "Flipper, from Ivan Tors Films in association with Metro-Goldwyn-Mayer Television, is an American television program first broadcast on NBC from September 19, 1964, until April 15, 1967. Flipper, a bottlenose dolphin, is the companion animal of Porter Ricks, Chief Warden at fictional Coral Key Park and Marine Preserve in southern Florida, and his two young sons, Sandy and Bud. The show has been dubbed an \"aquatic Lassie\", and a considerable amount of juvenile merchandise inspired by the show was produced during its first-run.",
+    "genres": [
+      "Action & Adventure",
+      "Family",
+      "Drama"
+    ],
+    "release_year": 1964,
+    "vote_count": 43
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Flipper is a family-oriented action-adventure series centered around the bond between a park warden and a friendly dolphin. The show blends elements of drama and exploration, focusing on the adventures and challenges faced by the Ricks family as they navigate the natural beauty and occasional dangers of their marine environment. It emphasizes themes of friendship, responsibility, and respect for nature, offering a wholesome and optimistic portrayal of family life and outdoor exploration. The series' appeal lies in its combination of exciting underwater sequences and relatable family dynamics, creating a lighthearted and engaging viewing experience.",
+        "spoiler_rich_plot_summary": "The series primarily follows Porter Ricks, the warden of Coral Key Park, and his sons, Sandy and Bud, as they encounter various situations requiring their ingenuity and courage. Flipper, a bottlenose dolphin, becomes their constant companion and invaluable ally, assisting them in rescues, solving mysteries, and navigating the challenges of their unique environment. Throughout the series, the Ricks family faces threats from poachers, dangerous marine creatures, and natural disasters, relying on their skills and Flipper's abilities to overcome these obstacles. While the show maintains a generally optimistic tone, it explores themes of environmental conservation and the importance of protecting marine life, often highlighting the consequences of human interference with the natural world. The series concludes with the Ricks family continuing their stewardship of Coral Key Park, demonstrating their commitment to preserving the beauty and wonder of the marine ecosystem.",
+        "categorized_keywords": {
+          "themes": [
+            "family-bond",
+            "environmental-conservation",
+            "friendship",
+            "responsibility",
+            "adventure",
+            "marine-life"
+          ],
+          "plot_and_concepts": [
+            "rescue-mission",
+            "marine-adventure",
+            "animal-companion",
+            "mystery-solving"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "optimistic",
+            "lighthearted",
+            "adventurous"
+          ],
+          "genre_and_tropes": [
+            "family-drama",
+            "animal-adventure",
+            "aquatic-setting",
+            "coming-of-age"
+          ],
+          "setting": [
+            "florida-keys",
+            "coral-reef",
+            "marine-environment",
+            "1960s"
+          ],
+          "character_archetypes": [
+            "responsible-father",
+            "resourceful-children",
+            "loyal-companion",
+            "park-warden"
+          ],
+          "narrative_style": [
+            "episodic-format",
+            "serialized-elements"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "dolphin-encounter",
+            "coral-key-park",
+            "marine-rescue",
+            "park-warden-uniform"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Flipper is a lighthearted family adventure series set in the Florida Keys, celebrating the bond between a park warden and his sons as they navigate the wonders and challenges of the marine environment."
+      },
+      "duration_seconds": 57.870259284973145
+    }
+  }
+}

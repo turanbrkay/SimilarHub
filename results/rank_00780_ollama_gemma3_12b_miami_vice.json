@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "Miami Vice",
+    "overview": "The story of the Miami Police Department's vice squad and its efforts to end drug trafficking and prostitution, centered on the unlikely partnership of Sonny Crockett and Ricardo Tubbs - who first meet when Tubbs is undercover in a drug cartel.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 1984,
+    "vote_count": 358
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Miami Vice is a stylish crime drama that blends police procedural elements with a distinctive 1980s aesthetic. The series follows undercover detectives Sonny Crockett and Ricardo Tubbs as they navigate the vibrant and dangerous world of Miami's criminal underworld. Known for its synth-heavy soundtrack, neon-lit visuals, and exploration of social issues, the show offers a compelling look at law enforcement and the complexities of morality in a city grappling with crime and corruption. The partnership between Crockett and Tubbs is central, evolving from professional colleagues to close friends, and their personal lives are often intertwined with their cases.",
+        "spoiler_rich_plot_summary": "The series begins with the formation of the Miami Vice unit, tasked with combating the city's escalating drug trade and organized crime. Sonny Crockett, a troubled detective with a penchant for unconventional methods, is partnered with Ricardo Tubbs, a former undercover narcotics officer seeking vengeance for his father's murder. Throughout the series, Crockett and Tubbs infiltrate various criminal organizations, from drug cartels to money laundering schemes, often blurring the lines between law enforcement and the criminal lifestyle. Crockett experiences significant personal turmoil, including the loss of his girlfriend, Gina, and struggles with substance abuse. Tubbs, driven by his past, relentlessly pursues those responsible for his father's death, eventually finding closure and a sense of justice. The series explores themes of redemption, loyalty, and the corrosive effects of power, culminating in a final confrontation with a powerful and elusive crime lord, leaving a lasting impact on both detectives and the city they serve.",
+        "categorized_keywords": {
+          "themes": [
+            "crime-and-punishment",
+            "justice",
+            "redemption",
+            "friendship",
+            "corruption",
+            "loss",
+            "identity"
+          ],
+          "plot_and_concepts": [
+            "undercover-operation",
+            "police-investigation",
+            "revenge",
+            "drug-trade",
+            "organized-crime"
+          ],
+          "mood_and_tone": [
+            "stylish",
+            "noir",
+            "gritty",
+            "melancholy",
+            "tense"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "police-drama",
+            "buddy-cop",
+            "neon-noir"
+          ],
+          "setting": [
+            "miami-city",
+            "1980s",
+            "florida",
+            "beachfront"
+          ],
+          "character_archetypes": [
+            "troubled-detective",
+            "vigilante",
+            "stoic-partner",
+            "corrupt-official"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "neon-lights",
+            "sports-cars",
+            "pastel-suits",
+            "boat-chase",
+            "nightclub"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "drug-use",
+            "sexual-content"
+          ]
+        },
+        "keyword_sentence": "Miami Vice is a stylish and gritty police drama set in 1980s Miami, exploring themes of crime, justice, and redemption through the partnership of two detectives navigating a world of drug trade and corruption."
+      },
+      "duration_seconds": 62.87875962257385
+    }
+  }
+}

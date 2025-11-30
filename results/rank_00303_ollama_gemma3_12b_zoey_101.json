@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Zoey 101",
+    "overview": "Zoey 101 is an American television series which originally aired on Nickelodeon from January 9, 2005 until May 2, 2008. It focuses on the lives of teenager Zoey Brooks and her friends as they attend Pacific Coast Academy, a fictional boarding school in Southern California. It was created by Dan Schneider. It was initially filmed at Pepperdine University in Malibu, California, then at stages in Valencia, California beginning in season 3. It was nominated for an \"Outstanding Children's Program\" Emmy in 2005. Zoey 101 was the most expensive production ever for Nickelodeon series, as it was shot completely on location in Malibu. It was also Nickelodeon's best performance for a series premiere in almost eight years. Despite this, many critics have made negative comments about the show, its setting, and its characters.",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "release_year": 2005,
+    "vote_count": 975
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Zoey 101 is a teen comedy-drama series centered on a young woman navigating the challenges of boarding school life. The show explores themes of friendship, identity, and belonging within a privileged setting. It blends comedic situations with relatable adolescent struggles, offering a lighthearted and often aspirational portrayal of high school experiences. While aiming for a feel-good atmosphere, the series has faced criticism for its perceived superficiality and reliance on familiar tropes.",
+        "spoiler_rich_plot_summary": "The series begins with Zoey Brooks, a teenager from Los Angeles, unexpectedly enrolling at Pacific Coast Academy, a prestigious boarding school in Southern California, after her parents accept a job overseas. Initially an outsider, Zoey quickly befriends a group of boys who have been attending the school for years. Throughout the series, Zoey and her friends navigate typical teenage issues like crushes, school dances, and academic pressures. Romantic relationships develop and evolve, often complicated by misunderstandings and rivalries. As the series progresses, the characters face more significant challenges, including family issues and personal growth experiences, ultimately solidifying their bonds and shaping their individual paths. The final seasons see the group facing decisions about their futures and the possibility of separation as they prepare for college, leaving a sense of bittersweet closure.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "identity",
+            "belonging",
+            "growing-up",
+            "first-love",
+            "privilege"
+          ],
+          "plot_and_concepts": [
+            "boarding-school",
+            "teen-romance",
+            "coming-of-age",
+            "social-dynamics"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "optimistic",
+            "aspirational",
+            "teen-drama"
+          ],
+          "genre_and_tropes": [
+            "teen-comedy",
+            "teen-drama",
+            "found-family",
+            "high-school-romance"
+          ],
+          "setting": [
+            "boarding-school",
+            "southern-california",
+            "malibu"
+          ],
+          "character_archetypes": [
+            "new-girl",
+            "popular-boy",
+            "nerd",
+            "jock"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "teen-viewers",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "school-dance",
+            "dorm-room",
+            "basketball-court",
+            "school-bus"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Zoey 101 is a lighthearted teen comedy-drama series set in a prestigious boarding school in Southern California, exploring themes of friendship, identity, and belonging as a group of young people navigate the challenges of growing up."
+      },
+      "duration_seconds": 63.46180820465088
+    }
+  }
+}

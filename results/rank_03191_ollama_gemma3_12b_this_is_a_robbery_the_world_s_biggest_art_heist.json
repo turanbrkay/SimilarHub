@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "This Is a Robbery: The World's Biggest Art Heist",
+    "overview": "In 1990, two men dressed as cops con their way into a Boston museum and steal a fortune in art. Take a deep dive into this daring and notorious crime.",
+    "genres": [
+      "Documentary",
+      "Crime"
+    ],
+    "release_year": 2021,
+    "vote_count": 42
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "This Is a Robbery: The World's Biggest Art Heist is a documentary series chronicling the 1990 Isabella Stewart Gardner Museum heist, considered the largest unsolved art theft in history. The series explores the meticulous planning, execution, and aftermath of the crime, featuring interviews with investigators, museum staff, and those connected to the case. It examines the motivations behind the theft, the impact on the museum and the art world, and the ongoing search for the stolen masterpieces. The documentary blends investigative journalism with a true-crime narrative, offering a compelling look at a remarkable and baffling event.",
+        "spoiler_rich_plot_summary": "The series begins by establishing the unique character of the Isabella Stewart Gardner Museum and its eccentric founder. It then details the planning stages of the heist, revealing how two thieves, posing as police officers, gained access to the museum under false pretenses. The documentary meticulously reconstructs the night of the robbery, showcasing how the perpetrators successfully bypassed security measures and absconded with thirteen works of art, including paintings by Rembrandt, Vermeer, and Degas. The investigation that followed proved frustratingly complex, hampered by a lack of evidence and conflicting leads. The series explores various theories about the thieves' identities and potential motives, ranging from organized crime to a sophisticated art forgery scheme. Despite numerous attempts to recover the stolen artwork, the paintings remain missing, and the case continues to intrigue investigators and art enthusiasts alike. The documentary concludes by highlighting the enduring mystery surrounding the heist and the hope that the stolen masterpieces will one day be recovered.",
+        "categorized_keywords": {
+          "themes": [
+            "art-theft",
+            "crime-investigation",
+            "mystery",
+            "justice",
+            "greed",
+            "cultural-heritage"
+          ],
+          "plot_and_concepts": [
+            "undercover-operation",
+            "police-impersonation",
+            "art-forgery",
+            "insurance-fraud",
+            "heist-narrative"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "investigative",
+            "intricate",
+            "somber"
+          ],
+          "genre_and_tropes": [
+            "true-crime",
+            "documentary",
+            "heist-film",
+            "investigative-journalism"
+          ],
+          "setting": [
+            "boston-massachusetts",
+            "1990s",
+            "museum-setting",
+            "art-world"
+          ],
+          "character_archetypes": [
+            "mastermind",
+            "investigator",
+            "victim",
+            "art-expert"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "investigative-report"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "true-crime-fans"
+          ],
+          "detail_plot": [
+            "rembrandt-painting",
+            "vermeer-painting",
+            "degas-painting",
+            "museum-security",
+            "police-uniform"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "This gripping documentary series explores the intricate details of the 1990 Isabella Stewart Gardner Museum heist, a true-crime mystery that blends investigative reporting with the suspense of a classic heist narrative, set against the backdrop of the art world in Boston."
+      },
+      "duration_seconds": 60.62182283401489
+    }
+  }
+}

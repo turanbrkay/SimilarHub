@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Utopia",
+    "overview": "A group of young adults who met online are mercilessly hunted by a shadowy deep state organization after they come into possession of a near-mythical cult underground graphic novel.",
+    "genres": [
+      "Drama",
+      "Action & Adventure",
+      "Mystery"
+    ],
+    "release_year": 2020,
+    "vote_count": 399
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Utopia is a British thriller series centered on a group of individuals who stumble upon a mysterious graphic novel containing disturbing predictions. Hunted by a powerful and secretive organization, they must unravel the novel's secrets while fighting for their survival. The series blends elements of action, mystery, and social commentary, creating a tense and paranoid atmosphere. It explores themes of government corruption, surveillance, and the dangers of unchecked power, offering a gripping and unsettling viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with a group of strangers – Becky, Sam, Pip, Grant, and Hannah – independently searching for a rare copy of 'The Utopia Solution,' a graphic novel rumored to predict future global catastrophes. After acquiring the novel, they quickly realize they are being targeted by a shadowy organization known as 'The Network,' led by the enigmatic Thomas Ashworth. As they delve deeper into the graphic novel's contents, they discover that the predictions are coming true, and that The Network is actively manipulating events to fulfill them. The group attempts to expose The Network's activities, but their efforts are met with increasingly violent and sophisticated countermeasures. They uncover a vast conspiracy involving government agencies, corporations, and influential figures, revealing a disturbing level of control and manipulation. The characters face betrayals, loss, and moral compromises as they struggle to survive and fight back against a seemingly insurmountable enemy. The series culminates in a confrontation where the true scope of The Network's power and the graphic novel's purpose are revealed, leaving the remaining characters to grapple with the consequences of their actions and the uncertain future.",
+        "categorized_keywords": {
+          "themes": [
+            "government-corruption",
+            "surveillance",
+            "unchecked-power",
+            "conspiracy",
+            "fate-vs-free-will",
+            "moral-ambiguity"
+          ],
+          "plot_and_concepts": [
+            "graphic-novel-mystery",
+            "conspiracy-thriller",
+            "catastrophic-prediction",
+            "secret-society",
+            "deep-state-coverup"
+          ],
+          "mood_and_tone": [
+            "tense",
+            "paranoid",
+            "dark",
+            "suspenseful",
+            "gritty"
+          ],
+          "genre_and_tropes": [
+            "action-thriller",
+            "mystery",
+            "conspiracy-theory",
+            "found-family",
+            "cat-and-mouse"
+          ],
+          "setting": [
+            "modern-day",
+            "uk",
+            "urban-landscape"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "enigmatic-antagonist",
+            "skilled-operative",
+            "moral-grey-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "fast-paced"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "graphic-novel",
+            "secret-base",
+            "surveillance-equipment",
+            "encrypted-communication"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "suspenseful-tension"
+          ]
+        },
+        "keyword_sentence": "Utopia is a tense and paranoid British thriller series that explores themes of government corruption and unchecked power through the lens of a group of individuals hunted by a shadowy organization after discovering a graphic novel predicting catastrophic events."
+      },
+      "duration_seconds": 62.83748197555542
+    }
+  }
+}

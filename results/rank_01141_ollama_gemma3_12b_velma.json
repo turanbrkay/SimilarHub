@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Velma",
+    "overview": "Jinkies! This raucous reimagining of the Scooby-Doo franchise unravels the mysterious origins of Mystery, Inc. – as seen through the eyes of the gang’s beloved bespectacled detective Velma.",
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "release_year": 2023,
+    "vote_count": 217
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Velma is a comedic animated series that re-imagines the Scooby-Doo universe from the perspective of Velma Dinkley. The show delves into her backstory, exploring the events that shaped her into the brilliant detective she is known to be. It blends elements of mystery, comedy, and coming-of-age narratives, offering a fresh take on familiar characters and tropes while maintaining a lighthearted and humorous tone. The series aims to appeal to a younger audience while also providing nostalgic appeal for long-time fans of the franchise.",
+        "spoiler_rich_plot_summary": "The series begins with Velma's childhood in Coolsville, Ohio, revealing a complex family history and early experiences that contribute to her intellectual development and her initial distrust of others. As she investigates local mysteries alongside her friends, Shaggy, Daphne, and Fred, Velma uncovers a deeper conspiracy involving a secret society and a series of unexplained phenomena. Throughout the series, Velma confronts personal demons and challenges her own beliefs as she grapples with the darker side of her hometown and the secrets of her family. The mysteries she solves often intertwine with her own past, forcing her to confront uncomfortable truths and re-evaluate her relationships with her friends and family. The overarching narrative explores the origins of the monsters and supernatural occurrences that plague Coolsville, hinting at a larger, interconnected web of secrets and danger.",
+        "categorized_keywords": {
+          "themes": [
+            "mystery-solving",
+            "coming-of-age",
+            "family-secrets",
+            "friendship",
+            "self-discovery",
+            "small-town-life"
+          ],
+          "plot_and_concepts": [
+            "monster-hunting",
+            "conspiracy-theory",
+            "origin-story",
+            "serialized-story",
+            "mystery-procedural"
+          ],
+          "mood_and_tone": [
+            "comedic",
+            "lighthearted",
+            "suspenseful",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "comedy",
+            "mystery",
+            "found-family",
+            "teen-drama"
+          ],
+          "setting": [
+            "small-town-usa",
+            "modern-day",
+            "coolsville-ohio"
+          ],
+          "character_archetypes": [
+            "intelligent-detective",
+            "nerd",
+            "reluctant-hero",
+            "loyal-friend"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "mystery-clues",
+            "secret-society",
+            "monster-costumes",
+            "dinkley-family-mansion"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Velma is a comedic animated series that explores the origins of a brilliant detective and her friends as they unravel mysteries and confront family secrets in a small town setting."
+      },
+      "duration_seconds": 60.78940963745117
+    }
+  }
+}

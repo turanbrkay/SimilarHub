@@ -1,0 +1,66 @@
+{
+  "input_data": {
+    "title": "Who Wants to Be a Millionaire?",
+    "overview": "American version of the tense gameshow where contestants tackle a series of multiple-choice questions to win large cash prizes.",
+    "genres": [
+      "Talk"
+    ],
+    "release_year": 1999,
+    "vote_count": 31
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Who Wants to Be a Millionaire? is a high-stakes game show that blends elements of suspense, competition, and intellectual challenge. The show's premise revolves around a contestant answering increasingly difficult multiple-choice questions for a chance to win a million dollars. The tension builds with each correct answer, creating a captivating viewing experience. The show's success lies in its ability to tap into universal desires for wealth and the thrill of risk-taking, while also showcasing a range of knowledge and personalities.",
+        "spoiler_rich_plot_summary": "The show's format remains consistent across its run: contestants begin with relatively simple questions and progress through increasingly difficult ones. They have access to lifelines – 'phone a friend,' 'ask the audience,' and '50:50' – to aid them. As the prize money escalates, the questions become more obscure, testing not only general knowledge but also specialized expertise. The show's drama stems from the contestants' struggles with the questions, the strategic use of lifelines, and the potential for sudden, heartbreaking losses. While there's no overarching narrative, each episode features a new contestant facing the ultimate test of knowledge and composure, culminating in either a triumphant million-dollar win or a disappointing exit at a lower prize level.",
+        "categorized_keywords": {
+          "themes": [
+            "wealth",
+            "competition",
+            "risk-taking",
+            "knowledge",
+            "chance"
+          ],
+          "plot_and_concepts": [
+            "game-show",
+            "multiple-choice",
+            "lifelines",
+            "prize-money"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "tense",
+            "exciting"
+          ],
+          "genre_and_tropes": [
+            "quiz-show",
+            "high-stakes"
+          ],
+          "setting": [
+            "television-studio"
+          ],
+          "character_archetypes": [
+            "contestant",
+            "host"
+          ],
+          "narrative_style": [
+            "episodic"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "million-dollar-prize",
+            "hot-seat",
+            "lifeline-phone-a-friend",
+            "question-board"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Who Wants to Be a Millionaire? is a suspenseful quiz show where contestants compete for a million-dollar prize, testing their knowledge and taking risks under the bright lights of a television studio."
+      },
+      "duration_seconds": 61.93429613113403
+    }
+  }
+}

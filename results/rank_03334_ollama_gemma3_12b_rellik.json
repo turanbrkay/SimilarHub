@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Rellik",
+    "overview": "A serial killer thriller told in reverse, unravelling the truth behind a series of murders as DCI Gabriel Markham hunts down a brutal killer.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2017,
+    "vote_count": 39
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Rellik is a British crime drama presented in a unique reverse chronological order, creating suspense and intrigue as the audience pieces together the events leading up to a series of brutal murders. The narrative focuses on Detective Inspector Gabriel Markham's relentless pursuit of a killer while grappling with his own personal struggles. The reverse storytelling structure challenges conventional crime procedural tropes, offering a fresh perspective on the genre and emphasizing the psychological toll on both the detective and the victims. The series blends elements of psychological thriller and police procedural, creating a dark and unsettling atmosphere.",
+        "spoiler_rich_plot_summary": "The series begins with Detective Inspector Gabriel Markham seemingly on the verge of collapse, having just witnessed a devastating event. As the narrative unfolds in reverse, we see Markham's investigation into a series of murders gradually reveal the killer's identity and the events that led to the crimes. The investigation is complicated by Markham's own deteriorating health and a past trauma that resurfaces as he delves deeper into the case. The killer, a seemingly ordinary individual, is revealed to have meticulously planned the murders, targeting victims connected to Markham's past. The reverse chronology allows for a gradual unveiling of the killer's motives and the intricate web of connections between the victims. As the story progresses towards its beginning, the audience witnesses the events that triggered Markham's downward spiral and the initial stages of the killer's planning. The series culminates in the events that set the entire chain of events in motion, leaving the audience to re-evaluate everything they're seen.",
+        "categorized_keywords": {
+          "themes": [
+            "revenge",
+            "guilt",
+            "loss",
+            "justice",
+            "redemption",
+            "corruption"
+          ],
+          "plot_and_concepts": [
+            "reverse-chronology",
+            "serial-killer",
+            "police-investigation",
+            "false-memory",
+            "conspiracy"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "suspenseful",
+            "gritty",
+            "unsettling",
+            "psychological-thriller"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "police-thriller",
+            "reverse-narrative",
+            "noir"
+          ],
+          "setting": [
+            "modern-day",
+            "urban-environment",
+            "uk"
+          ],
+          "character_archetypes": [
+            "damaged-detective",
+            "antagonist",
+            "victim"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "crime-scene",
+            "police-station",
+            "interrogation-room"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "psychological-distress"
+          ]
+        },
+        "keyword_sentence": "Rellik is a dark and suspenseful crime drama that unravels a series of brutal murders through a gripping reverse-chronological narrative, exploring themes of guilt, loss, and justice within a gritty urban environment."
+      },
+      "duration_seconds": 57.13764214515686
+    }
+  }
+}

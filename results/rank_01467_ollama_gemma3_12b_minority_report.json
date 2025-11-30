@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Minority Report",
+    "overview": "Ten years after the demise of Precrime, crime-solving is different and justice leans more on sophisticated and trusted technology than on the instincts of the precogs—individuals who able to see the future. In Washington, D.C., a man haunted by the future and a cop haunted by her past race to stop the worst crimes of the year 2065 before they happen.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2015,
+    "vote_count": 150
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Minority Report is a science fiction crime drama series that reimagines the Philip K. Dick story for a modern setting. The show explores themes of free will versus determinism, the ethics of predictive policing, and the potential for abuse of advanced technology. Set ten years after the original Precrime unit was shut down, the series follows a new team utilizing similar technology to prevent crime, grappling with the moral implications of their actions and the potential for false positives. The tone is suspenseful and morally ambiguous, blending procedural elements with a broader philosophical inquiry into the nature of justice and the future of law enforcement.",
+        "spoiler_rich_plot_summary": "The series begins with the dismantling of Precrime, the system that used precognitive individuals to prevent crimes before they happened. Ten years later, a new, more sophisticated system is implemented in Washington, D.C., utilizing advanced technology and a modified approach to predictive policing. The story centers on Max, a former 'precog' struggling to adjust to a life without visions, and Olivia, a detective investigating a series of crimes that seem to defy the new system's predictions. As Olivia delves deeper, she uncovers a conspiracy that suggests the original Precrime system was not as defunct as believed, and that someone is manipulating the future to their own ends. Max's past and his unique ability to perceive fragments of the future become crucial to unraveling the truth. The investigation leads to a confrontation with powerful figures who seek to control the future and maintain their influence, forcing Max and Olivia to confront their own beliefs about justice and the potential for abuse of power. The series explores the idea that even with advanced technology, predicting and preventing crime is fraught with ethical dilemmas and the risk of unintended consequences.",
+        "categorized_keywords": {
+          "themes": [
+            "free-will",
+            "determinism",
+            "ethics",
+            "predictive-policing",
+            "abuse-of-power",
+            "justice",
+            "future-of-law-enforcement"
+          ],
+          "plot_and_concepts": [
+            "predictive-crime",
+            "conspiracy",
+            "false-positives",
+            "time-manipulation",
+            "police-investigation"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "morally-ambiguous",
+            "dark",
+            "cerebral"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "crime-procedural",
+            "thriller",
+            "dystopian"
+          ],
+          "setting": [
+            "washington-d-c",
+            "future-city",
+            "technological-society"
+          ],
+          "character_archetypes": [
+            "haunted-protagonist",
+            "detective",
+            "former-precog",
+            "corrupt-official"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "procedural-elements"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "predictive-algorithm",
+            "future-technology",
+            "police-station",
+            "crime-scene",
+            "security-surveillance"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "moral-dilemmas"
+          ]
+        },
+        "keyword_sentence": "Minority Report is a suspenseful science fiction crime drama set in a technologically advanced future, exploring the ethical dilemmas of predictive policing and the struggle between free will and determinism."
+      },
+      "duration_seconds": 66.77769160270691
+    }
+  }
+}

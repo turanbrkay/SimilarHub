@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Saint X",
+    "overview": "A young woman's mysterious death during an idyllic Caribbean vacation creates a traumatic ripple effect that eventually pulls her surviving sister into a dangerous pursuit of the truth.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2023,
+    "vote_count": 36
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Saint X is a mystery drama series centered around the death of a young woman during a family vacation in the Caribbean. The narrative explores the complex dynamics within a family grappling with grief, secrets, and the unraveling of a seemingly perfect facade. The series blends elements of crime procedural and psychological thriller, creating a suspenseful atmosphere as the surviving sister investigates the circumstances surrounding her sister's death. Themes of family loyalty, guilt, and the pursuit of truth are central to the series' emotional core, offering a nuanced exploration of trauma and its lasting consequences.",
+        "spoiler_rich_plot_summary": "The series begins with the idyllic vacation of the Diaz family in Saint Thomas, which is shattered by the sudden and unexplained death of their youngest daughter, Alba. Initially ruled an accidental drowning, the family struggles to cope with the loss, each member processing the tragedy in their own way. Years later, Alba’s older sister, Maya, becomes increasingly convinced that her sister’s death was not as it seemed. Driven by a desire for closure and a growing suspicion of foul play, Maya embarks on a relentless investigation, uncovering long-buried secrets and confronting uncomfortable truths about her family and the community. Her search leads her down a dangerous path, exposing a web of lies, betrayals, and hidden agendas. As Maya delves deeper, she discovers that several individuals had motives and opportunities to harm Alba, and that the truth is far more complicated and sinister than she initially imagined. The investigation forces Maya to confront her own past and the fragility of her family's bonds, ultimately leading her to a shocking revelation about the circumstances surrounding Alba's death and the identities of those responsible.",
+        "categorized_keywords": {
+          "themes": [
+            "family-secrets",
+            "grief",
+            "revenge",
+            "truth-seeking",
+            "social-class",
+            "identity-quest"
+          ],
+          "plot_and_concepts": [
+            "mystery-thriller",
+            "cold-case",
+            "revenge-plot",
+            "investigation"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "brooding",
+            "atmospheric"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "mystery",
+            "slow-burn-thriller"
+          ],
+          "setting": [
+            "caribbean",
+            "tropical-island",
+            "wealthy-community"
+          ],
+          "character_archetypes": [
+            "grieving-sibling",
+            "reluctant-detective",
+            "enigmatic-villain"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "tropical-vacation",
+            "family-mansion",
+            "beach-scene",
+            "police-investigation"
+          ],
+          "maturity_and_content": [
+            "emotional-trauma",
+            "suspense"
+          ]
+        },
+        "keyword_sentence": "Saint X is a suspenseful mystery drama series set on a tropical island, exploring themes of grief, family secrets, and the relentless pursuit of truth through the eyes of a grieving sibling."
+      },
+      "duration_seconds": 59.44183039665222
+    }
+  }
+}

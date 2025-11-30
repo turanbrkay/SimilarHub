@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Dora the Explorer",
+    "overview": "A young girl named Dora goes on adventures with her red boot-wearing monkey named Boots.",
+    "genres": [
+      "Action & Adventure",
+      "Animation",
+      "Family",
+      "Kids"
+    ],
+    "release_year": 2000,
+    "vote_count": 258
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Dora the Explorer is a vibrant and interactive animated series aimed at preschool-aged children. The show follows Dora and her companion Boots as they embark on quests, solving problems and learning basic skills along the way. Its educational focus is interwoven with adventure and music, encouraging active participation from the audience. The series emphasizes problem-solving, language acquisition, and cultural awareness through engaging storytelling and a positive, supportive environment. Dora the Explorer fosters a sense of exploration and encourages children to believe in their abilities.",
+        "spoiler_rich_plot_summary": "Each episode of Dora the Explorer typically follows a similar structure: Dora and Boots are presented with a goal, such as reaching a specific location or retrieving an object. They are joined by a variety of recurring characters, including Swiper the fox, who attempts to steal items. Dora and Boots must navigate obstacles and solve puzzles, often requiring the audience's help to choose paths or remember key phrases. They utilize a map and a singing backpack to guide them. Throughout their journey, they encounter challenges that require them to count, identify objects, and learn new words. While the specific destinations and challenges vary, the overarching narrative arc involves Dora consistently demonstrating resilience and resourcefulness, ultimately achieving her goal and reinforcing positive values. The series consistently emphasizes the importance of friendship, perseverance, and embracing new experiences.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "problem-solving",
+            "exploration",
+            "perseverance",
+            "cultural-awareness",
+            "education"
+          ],
+          "plot_and_concepts": [
+            "interactive-storytelling",
+            "quest-narrative",
+            "treasure-hunt",
+            "map-based-navigation"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "optimistic",
+            "playful",
+            "educational"
+          ],
+          "genre_and_tropes": [
+            "childrens-animation",
+            "adventure-series",
+            "educational-tv"
+          ],
+          "setting": [
+            "fantasy-world",
+            "tropical-environment"
+          ],
+          "character_archetypes": [
+            "resourceful-heroine",
+            "loyal-companion",
+            "mischievous-trickster"
+          ],
+          "narrative_style": [
+            "episodic-format",
+            "direct-address"
+          ],
+          "target_audience": [
+            "preschool-children"
+          ],
+          "detail_plot": [
+            "map",
+            "backpack",
+            "boots",
+            "swiper-fox"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Dora the Explorer is a playful and educational children's animation series that follows a resourceful heroine and her loyal companion as they embark on interactive adventures, fostering problem-solving and cultural awareness in a vibrant, tropical setting."
+      },
+      "duration_seconds": 54.77054452896118
+    }
+  }
+}

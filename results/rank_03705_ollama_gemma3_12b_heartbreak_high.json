@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "Heartbreak High",
+    "overview": "The ins and outs of the classroom lives of a group of students who attend the fictional Hartley High School in Sydney.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 1994,
+    "vote_count": 32
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Heartbreak High is a coming-of-age drama series that explores the complexities of adolescence through the experiences of a diverse group of high school students. The show delves into themes of friendship, romance, identity, and social pressures, portraying the awkwardness and vulnerability of teenage life with a blend of humor and pathos. It offers a relatable and often poignant look at the challenges of navigating relationships, self-discovery, and the transition to adulthood, set against the backdrop of a typical Australian high school. The series aims to capture the universal struggles of adolescence while showcasing the unique cultural context of its setting.",
+        "spoiler_rich_plot_summary": "The series initially focuses on a group of students at Hartley High, introducing their individual struggles and relationships. Early seasons explore the dynamics between popular cliques and those on the fringes, highlighting the social hierarchies and the pressures to conform. Romantic relationships blossom and falter, often complicated by misunderstandings and insecurities. As the series progresses, characters confront personal challenges, including family issues, academic pressures, and identity crises. Significant plot arcs involve characters grappling with their sexuality, dealing with grief, and navigating the complexities of first love. Later seasons see the introduction of new students and storylines, further expanding the scope of the series and exploring more mature themes. While the core group remains central, the narrative evolves to encompass a wider range of experiences and perspectives, ultimately portraying the bittersweet journey of growing up and leaving adolescence behind.",
+        "categorized_keywords": {
+          "themes": [
+            "adolescence",
+            "friendship",
+            "romance",
+            "identity",
+            "social-pressure",
+            "growing-up",
+            "self-discovery"
+          ],
+          "plot_and_concepts": [
+            "coming-of-age",
+            "high-school-drama",
+            "teen-romance",
+            "social-hierarchy"
+          ],
+          "mood_and_tone": [
+            "poignant",
+            "awkward",
+            "relatable",
+            "humorous"
+          ],
+          "genre_and_tropes": [
+            "teen-drama",
+            "coming-of-age-story"
+          ],
+          "setting": [
+            "australia",
+            "high-school"
+          ],
+          "character_archetypes": [
+            "teenager",
+            "student"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "teenagers",
+            "young-adults"
+          ],
+          "detail_plot": [
+            "school-uniform",
+            "classroom",
+            "locker",
+            "school-dance"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Heartbreak High portrays the relatable and often humorous struggles of adolescence through a serialized story of teenagers navigating friendship, romance, and identity within the setting of an Australian high school."
+      },
+      "duration_seconds": 69.35190939903259
+    }
+  }
+}

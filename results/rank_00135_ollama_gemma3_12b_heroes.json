@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Heroes",
+    "overview": "Common people discover that they have super powers. Their lives intertwine as a devastating event must be prevented.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "release_year": 2006,
+    "vote_count": 2018
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Heroes is a superhero drama series that explores the lives of seemingly ordinary individuals who suddenly manifest extraordinary abilities. The show blends action, suspense, and character-driven narratives, examining themes of responsibility, destiny, and the burden of power. It follows a diverse group of characters as they grapple with their newfound abilities and attempt to prevent a catastrophic event, forging unexpected alliances and confronting formidable adversaries. The series is notable for its ensemble cast and its exploration of the human condition within a fantastical context, offering a blend of thrilling action sequences and emotionally resonant character arcs.",
+        "spoiler_rich_plot_summary": "The series begins with a mysterious man named Peter Petrelli discovering he can absorb the powers of others after his brother Nathan, a motivational speaker, manifests the ability to fly. Simultaneously, other individuals across the country begin to develop powers, including Claire Bennet, who possesses regenerative abilities, Hiro Nakamura, a time traveler, and Niki Sanders, who can transform into her alter ego, Jessica Sanders. As these 'Heroes' come to terms with their abilities, they are drawn together by a shared vision of a devastating future event. Nathan Petrelli attempts to control the powered individuals, leading to conflict and mistrust. The first season culminates in an attempt to prevent the destruction of New York City. Subsequent seasons introduce new heroes and villains, exploring complex storylines involving conspiracies, alternate timelines, and the origins of the powers. Characters face betrayals, personal sacrifices, and the constant threat of those seeking to exploit their abilities for nefarious purposes. The narrative evolves beyond the initial apocalyptic threat, delving into the philosophical implications of power and the nature of free will, ultimately leading to a complex and interconnected web of destinies.",
+        "categorized_keywords": {
+          "themes": [
+            "destiny",
+            "responsibility",
+            "power-corrupts",
+            "identity-quest",
+            "sacrifice",
+            "free-will",
+            "found-family"
+          ],
+          "plot_and_concepts": [
+            "superpowers",
+            "time-travel",
+            "alternate-timeline",
+            "conspiracy",
+            "apocalypse-prevention",
+            "doppelganger"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "melancholy",
+            "hopeful"
+          ],
+          "genre_and_tropes": [
+            "superhero-action",
+            "serialized-story",
+            "ensemble-cast",
+            "mystery"
+          ],
+          "setting": [
+            "modern-day",
+            "new-york-city",
+            "american-suburbs"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "mentor",
+            "anti-hero",
+            "tragic-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "flashbacks",
+            "multiple-perspectives"
+          ],
+          "target_audience": [
+            "young-adult",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "superpower-manifestation",
+            "time-travel-device",
+            "flashback-sequence",
+            "hero-training"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "emotional-trauma"
+          ]
+        },
+        "keyword_sentence": "Heroes explores themes of destiny and responsibility through a suspenseful narrative of ordinary people discovering extraordinary superpowers in a modern American setting."
+      },
+      "duration_seconds": 72.93853616714478
+    }
+  }
+}

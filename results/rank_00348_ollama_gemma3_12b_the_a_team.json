@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "The A-Team",
+    "overview": "A fictional group of ex-United States Army Special Forces personnel work as soldiers of fortune while on the run from the Army after being branded as war criminals for a \"crime they didn't commit\".",
+    "genres": [
+      "Action & Adventure"
+    ],
+    "release_year": 1983,
+    "vote_count": 865
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The A-Team is a fast-paced action-adventure series centered on a group of former Special Forces soldiers falsely accused of a crime they didn't commit. Operating as mercenaries, they use their unique skills and resourcefulness to help those in need while evading the relentless pursuit of a shadowy Colonel Decker. The show blends action sequences with comedic elements and a strong emphasis on teamwork and loyalty, offering a lighthearted and escapist viewing experience. Its episodic structure and focus on problem-solving make it a consistently entertaining and accessible action series.",
+        "spoiler_rich_plot_summary": "The series begins with the four members – Hannibal, B.A., Face, and Murdock – incarcerated and facing court-martial. Hannibal, the mastermind, orchestrates a daring escape, branding them as wanted criminals to ensure their freedom and create a legend that will keep them one step ahead of Decker. Throughout the series, the team takes on various missions, often involving rescuing the oppressed, recovering stolen goods, or exposing corruption. Each case presents unique challenges requiring the team to utilize their diverse skillsets, from Hannibal's strategic planning to B.A.'s demolition expertise, Face's negotiation abilities, and Murdock's unpredictable piloting. While they consistently outwit their adversaries and help those in need, the shadow of their past and Decker's relentless pursuit remain constant threats. The series doesn't offer a definitive resolution to their legal troubles, maintaining their status as fugitives and allowing for ongoing adventures.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "redemption",
+            "teamwork",
+            "loyalty",
+            "escapism",
+            "underdog-story"
+          ],
+          "plot_and_concepts": [
+            "mercenary-work",
+            "manhunt",
+            "false-accusation",
+            "crime-solving",
+            "rescue-mission"
+          ],
+          "mood_and_tone": [
+            "action-packed",
+            "comedic",
+            "lighthearted",
+            "adventurous"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "buddy-cop",
+            "found-family",
+            "fish-out-of-water"
+          ],
+          "setting": [
+            "united-states",
+            "modern-day",
+            "various-locations"
+          ],
+          "character_archetypes": [
+            "mastermind",
+            "muscle",
+            "con-man",
+            "eccentric-pilot"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "van-vehicle",
+            "explosives",
+            "disguises",
+            "military-gear"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The A-Team is a lighthearted action-adventure series about a team of wrongly accused soldiers who use their diverse skills to help those in need while on the run from the authorities."
+      },
+      "duration_seconds": 66.66685652732849
+    }
+  }
+}

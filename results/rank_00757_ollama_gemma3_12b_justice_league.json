@@ -1,0 +1,83 @@
+{
+  "input_data": {
+    "title": "Justice League",
+    "overview": "The long-awaited rebirth of the greatest superhero team of all time: Batman, Superman, The Flash, Wonder Woman, Hawkgirl, Green Lantern and Martian Manhunter.",
+    "genres": [
+      "Action & Adventure",
+      "Animation",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2001,
+    "vote_count": 374
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Justice League is an animated superhero series that brings together seven iconic DC Comics heroes to defend Earth from extraordinary threats. The show blends action-packed superhero battles with compelling character dynamics and a touch of humor. It explores themes of teamwork, responsibility, and the challenges of balancing personal lives with the burden of protecting the world. The series aims to deliver a visually dynamic and narratively engaging experience for fans of superhero stories, appealing to both longtime comic readers and newcomers to the genre.",
+        "spoiler_rich_plot_summary": "The series begins with the formation of the Justice League, initiated by the mysterious disappearance of several metahumans. Batman, ever the strategist, assembles a team including Superman, The Flash, Wonder Woman, Hawkgirl, and Green Lantern, each possessing unique abilities and perspectives. Their initial investigations lead them to confront various threats, from interdimensional invaders to powerful villains like Darkseid, who seeks to conquer Earth. Throughout the series, the team grapples with internal conflicts and differing approaches to problem-solving, while also uncovering a larger conspiracy involving ancient prophecies and the origins of their powers. The heroes face betrayals, personal sacrifices, and the constant pressure of safeguarding humanity from forces beyond comprehension, ultimately solidifying their bond as a formidable alliance against overwhelming odds. The series culminates in a confrontation with Darkseid, where the League must utilize their combined strengths to prevent his invasion and secure the future of Earth.",
+        "categorized_keywords": {
+          "themes": [
+            "teamwork",
+            "responsibility",
+            "sacrifice",
+            "good-vs-evil",
+            "heroism",
+            "fate"
+          ],
+          "plot_and_concepts": [
+            "superhero-team",
+            "alien-invasion",
+            "ancient-prophecy",
+            "metahumans",
+            "interdimensional-travel",
+            "secret-identity"
+          ],
+          "mood_and_tone": [
+            "action-packed",
+            "serious",
+            "hopeful",
+            "epic",
+            "heroic"
+          ],
+          "genre_and_tropes": [
+            "superhero-action",
+            "sci-fi-fantasy",
+            "found-family",
+            "team-up"
+          ],
+          "setting": [
+            "earth",
+            "metropolis",
+            "gotham-city",
+            "space"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "powerful-alien",
+            "strategic-leader"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "episodic-adventure"
+          ],
+          "target_audience": [
+            "young-adult",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "bat-signal",
+            "superman-cape",
+            "wonder-woman-tiara",
+            "green-lantern-ring",
+            "flash-lightning"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Justice League is an action-packed animated series that explores themes of heroism and responsibility as a team of powerful metahumans defends Earth from alien invasions and ancient prophecies."
+      },
+      "duration_seconds": 59.04331946372986
+    }
+  }
+}

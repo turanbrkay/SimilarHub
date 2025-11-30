@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Girl Meets World",
+    "overview": "The adventures of relatable and adventurous Riley Matthews, the tween daughter of Cory and Topanga Matthews, and her bold best friend Maya as they traverse the twists and turns of teenage years at Manhattan's John Quincy Adams Middle School where Riley's dad is their History teacher.",
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "release_year": 2014,
+    "vote_count": 647
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Girl Meets World is a coming-of-age sitcom that follows the experiences of Riley Matthews and her best friend Maya as they navigate middle school and adolescence. The series builds upon the legacy of its predecessor, Boy Meets World, exploring themes of friendship, family, identity, and responsibility through a comedic lens. It aims to provide a relatable and heartwarming portrayal of the challenges and joys of growing up, emphasizing the importance of strong relationships and personal growth. The show blends humor with moments of genuine emotion, offering a nostalgic and optimistic perspective on the teenage years.",
+        "spoiler_rich_plot_summary": "The series begins with Riley and Maya entering middle school, where they face typical adolescent challenges like navigating friendships, dealing with crushes, and understanding their place in the world. Riley's father, Cory, serves as their history teacher, providing guidance and wisdom based on his own experiences growing up. Throughout the series, Riley and Maya encounter various situations that test their friendship and force them to confront difficult choices. They explore themes of social justice, environmental responsibility, and the importance of standing up for what's right. As they progress through high school, Riley and Maya grapple with more complex issues, including romantic relationships, career aspirations, and the pressures of adulthood. The series culminates in a poignant farewell as Riley and Maya prepare to embark on their own paths, leaving behind the familiar comfort of middle school and embracing the uncertainties of the future, forever bound by their enduring friendship.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "family-values",
+            "coming-of-age",
+            "identity-discovery",
+            "responsibility",
+            "social-justice",
+            "personal-growth"
+          ],
+          "plot_and_concepts": [
+            "sitcom",
+            "legacy-sequel",
+            "school-setting",
+            "coming-of-age-story",
+            "mentor-student-relationship"
+          ],
+          "mood_and_tone": [
+            "heartwarming",
+            "optimistic",
+            "lighthearted",
+            "nostalgic"
+          ],
+          "genre_and_tropes": [
+            "family-sitcom",
+            "teen-drama",
+            "school-comedy"
+          ],
+          "setting": [
+            "new-york-city",
+            "middle-school",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "best-friends"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "school-lockers",
+            "history-classroom",
+            "school-bus",
+            "text-messaging"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Girl Meets World is a heartwarming family sitcom set in modern-day New York City, exploring themes of friendship, identity, and responsibility as two best friends navigate the challenges of growing up."
+      },
+      "duration_seconds": 55.46128797531128
+    }
+  }
+}

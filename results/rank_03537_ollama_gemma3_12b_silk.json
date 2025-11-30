@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Silk",
+    "overview": "Silk is a British television drama series produced by the BBC and first shown in 2011. Written by Peter Moffat, the series follows a set of barristers, and what they do to attain the rank of Queen's Counsel, known as \"taking silk.\"",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2011,
+    "vote_count": 35
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Silk is a British legal drama series that offers a nuanced and often morally ambiguous portrayal of the competitive world of barristers striving for the prestigious rank of Queen's Counsel. The series explores the personal and professional sacrifices required to achieve this status, delving into the ethical dilemmas and complex relationships that arise within the legal profession. With a focus on character development and intricate courtroom proceedings, Silk provides a compelling look at the human cost of ambition and the compromises necessary to succeed in a high-stakes environment. The series balances intense legal battles with intimate portrayals of the barristers' lives, offering a sophisticated and thought-provoking drama.",
+        "spoiler_rich_plot_summary": "The series begins with a group of junior barristers, including Jake Thorne, Ellie Sims, and Clare Thornton, all vying for pupillage and the opportunity to establish their careers. As they navigate the demanding world of the Inns of Court, they encounter a series of challenging cases that test their legal skills and moral compass. The pursuit of 'silk' – the rank of Queen's Counsel – becomes a central driving force, creating intense competition and fostering complex alliances. Throughout the series, characters grapple with ethical compromises, personal relationships strained by ambition, and the consequences of their actions both inside and outside the courtroom. Jake Thorne's journey is particularly fraught with challenges, as he confronts personal demons and professional setbacks while striving for recognition. The series culminates in a tense and dramatic selection process for Queen's Counsel, where the characters' fates are determined and the true cost of ambition is revealed, leaving some victorious and others facing profound consequences for their choices.",
+        "categorized_keywords": {
+          "themes": [
+            "ambition",
+            "ethics",
+            "justice",
+            "professionalism",
+            "moral-dilemmas",
+            "social-hierarchy"
+          ],
+          "plot_and_concepts": [
+            "courtroom-drama",
+            "legal-thriller",
+            "professional-competition",
+            "career-advancement",
+            "british-legal-system"
+          ],
+          "mood_and_tone": [
+            "serious",
+            "intense",
+            "thought-provoking",
+            "sophisticated"
+          ],
+          "genre_and_tropes": [
+            "legal-drama",
+            "british-tv-series",
+            "professional-setting"
+          ],
+          "setting": [
+            "london-england",
+            "modern-day",
+            "courtroom",
+            "inns-of-court"
+          ],
+          "character_archetypes": [
+            "ambitious-lawyer",
+            "moral-protagonist",
+            "career-driven",
+            "ethical-dilemma"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "character-driven",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "court-transcripts",
+            "legal-briefs",
+            "barrister-robes",
+            "queen-s-counsel-selection"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Silk is a serious and thought-provoking British legal drama that explores the intense competition and moral dilemmas faced by ambitious barristers striving for professional advancement within a sophisticated and hierarchical system."
+      },
+      "duration_seconds": 59.32525634765625
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "A Confession",
+    "overview": "The story of how Detective Superintendent Steve Fulcher deliberately breached police procedure and protocol to catch a killer, a decision that ultimately cost him his career and reputation.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2019,
+    "vote_count": 50
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "A Confession is a gripping British crime drama that explores the complexities of police procedure and the psychological toll of pursuing justice. The series centers on a detective superintendent's unorthodox methods in a high-profile murder case, blurring the lines between ethical conduct and achieving a conviction. It's a character-driven narrative that examines the consequences of obsession and the fragility of reputation, offering a tense and morally ambiguous viewing experience. The series is notable for its minimalist style and focus on the internal struggles of its protagonist.",
+        "spoiler_rich_plot_summary": "The series begins with the disappearance of a young woman, Sophie Mason, and quickly focuses on the investigation led by Detective Superintendent Steve Fulcher. Initial suspects are pursued and eliminated, leading Fulcher to focus on Mark Lewis, a seemingly ordinary man who initially denies involvement. As evidence mounts, Fulcher makes a controversial decision to confront Lewis outside of standard police protocol, believing it will elicit a confession. This unorthodox approach leads to a confession from Lewis, but also exposes Fulcher to intense scrutiny and ultimately leads to his downfall. The series then delves into the aftermath of the case, examining the legal challenges and professional repercussions faced by Fulcher, highlighting the systemic pressures and ethical dilemmas inherent in the pursuit of justice. The narrative culminates in a stark portrayal of the personal cost of Fulcher's actions and the long shadow cast by the case.",
+        "categorized_keywords": {
+          "themes": [
+            "justice-system",
+            "police-ethics",
+            "moral-ambiguity",
+            "obsession",
+            "reputation",
+            "guilt",
+            "consequences"
+          ],
+          "plot_and_concepts": [
+            "police-investigation",
+            "confession",
+            "true-crime",
+            "legal-proceedings"
+          ],
+          "mood_and_tone": [
+            "tense",
+            "grim",
+            "somber",
+            "suspenseful",
+            "unsettling"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "police-drama",
+            "true-crime-adaptation"
+          ],
+          "setting": [
+            "modern-day",
+            "england"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "morally-gray-protagonist",
+            "dedicated-detective"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "character-driven"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "police-station",
+            "interrogation-room",
+            "courtroom",
+            "crime-scene"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "legal-themes"
+          ]
+        },
+        "keyword_sentence": "A Confession is a tense and somber British crime drama that explores the complexities of police ethics and the devastating consequences of obsession within the modern justice system."
+      },
+      "duration_seconds": 69.04069423675537
+    }
+  }
+}

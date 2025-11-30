@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Last Chance U",
+    "overview": "In a docuseries set at one of NCAA football's most fertile recruiting grounds, guys with red flags seek to prove their worth on the field and in class.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2016,
+    "vote_count": 42
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Last Chance U is a documentary series that follows the football team at a community college, providing a raw and intimate look at the lives of student-athletes facing significant personal and academic challenges. The series explores themes of redemption, second chances, and the pressures of pursuing a dream while navigating complex circumstances. It blends sports drama with social commentary, highlighting the systemic issues that often lead promising athletes to community college and the dedication required to overcome them. The tone is often gritty and realistic, showcasing both the triumphs and struggles of the players and coaches.",
+        "spoiler_rich_plot_summary": "The series initially focuses on East Mississippi Community College (EMCC), a school known for its ability to recruit players with troubled pasts and offer them a path back to competitive football. Each season introduces a new cohort of athletes, many of whom have faced expulsion from four-year universities due to academic issues, disciplinary problems, or personal struggles. The narrative follows their journey through the football season, showcasing intense training sessions, demanding academic requirements, and the emotional toll of their circumstances. Coaches, particularly Buddy Ray Thornton, play a pivotal role, providing mentorship and support while pushing players to reach their full potential. As the seasons progress, the series expands to include other community colleges, revealing similar patterns of recruitment, challenges, and the pursuit of a future in football. Players often face difficult choices regarding their education, family obligations, and the possibility of transferring to a larger university, ultimately striving to achieve their dreams while confronting the realities of their situations.",
+        "categorized_keywords": {
+          "themes": [
+            "redemption",
+            "second-chances",
+            "social-mobility",
+            "education-access",
+            "athletic-pressure",
+            "personal-struggle",
+            "family-obligations"
+          ],
+          "plot_and_concepts": [
+            "sports-documentary",
+            "recruitment-process",
+            "academic-challenges",
+            "transfer-student",
+            "underdog-story"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "realistic",
+            "motivational",
+            "intense",
+            "hopeful"
+          ],
+          "genre_and_tropes": [
+            "sports-drama",
+            "documentary-series",
+            "underdog-story"
+          ],
+          "setting": [
+            "community-college",
+            "american-south",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "mentor",
+            "troubled-athlete",
+            "dedicated-coach"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "character-driven"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "sports-fans"
+          ],
+          "detail_plot": [
+            "football-practice",
+            "classroom-setting",
+            "coachs-office",
+            "locker-room",
+            "game-day"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Last Chance U is a gritty and realistic documentary series that explores themes of redemption and second chances as troubled athletes navigate academic challenges and athletic pressure within the American community college system."
+      },
+      "duration_seconds": 57.04328465461731
+    }
+  }
+}

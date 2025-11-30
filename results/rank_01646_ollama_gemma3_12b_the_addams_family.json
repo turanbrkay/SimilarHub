@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "The Addams Family",
+    "overview": "The Addams Family is an American animated series based on the eponymous comic strip characters and the second Addams Family Cartoon.",
+    "genres": [
+      "Animation",
+      "Kids",
+      "Comedy"
+    ],
+    "release_year": 1992,
+    "vote_count": 127
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Addams Family is a comedic animated series that reimagines the iconic, macabre family for a younger audience. Maintaining the core elements of their dark humor and unconventional lifestyle, the show blends slapstick comedy with a quirky, gothic aesthetic. It explores themes of family loyalty, embracing individuality, and finding joy in the unusual, all while satirizing suburban norms and societal expectations. The series offers a lighthearted and entertaining experience, appealing to both children and adults familiar with the original characters.",
+        "spoiler_rich_plot_summary": "The series follows Gomez, Morticia, Wednesday, Pugsley, Uncle Fester, and Lurch as they navigate life in their spooky mansion and interact with the often bewildered townspeople of New Jersey. Recurring storylines involve Wednesday's mischievous schemes, Pugsley's dangerous 'experiments' (often involving his parents), and the family's ongoing attempts to maintain their unique identity in a world that doesn't quite understand them. The series frequently features visits from distant relatives, each with their own eccentricities and agendas, leading to chaotic and humorous situations. While the family faces occasional challenges from outsiders who disapprove of their lifestyle, their strong familial bonds and unwavering acceptance of one another ultimately prevail, reinforcing their unconventional but loving dynamic. The series concludes with the Addams family continuing their peculiar existence, embracing their differences and finding joy in their unconventional family life.",
+        "categorized_keywords": {
+          "themes": [
+            "family-loyalty",
+            "individuality",
+            "dark-humor",
+            "satire",
+            "acceptance",
+            "gothic-lifestyle"
+          ],
+          "plot_and_concepts": [
+            "monster-of-the-week",
+            "slapstick-comedy",
+            "family-dynamics",
+            "eccentric-characters"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "lighthearted",
+            "comedic",
+            "quirky"
+          ],
+          "genre_and_tropes": [
+            "animated-comedy",
+            "family-sitcom",
+            "gothic-comedy"
+          ],
+          "setting": [
+            "new-jersey",
+            "spooky-mansion",
+            "suburban-setting"
+          ],
+          "character_archetypes": [
+            "eccentric-family",
+            "mischievous-child",
+            "gothic-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "kids",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "spooky-mansion",
+            "gomez-addams",
+            "morticia-addams",
+            "wednesday-addams",
+            "pugsley-addams",
+            "uncle-fester"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Addams Family is a lighthearted animated comedy series that celebrates individuality and family loyalty through a quirky, gothic lens, set within a spooky mansion and embracing a uniquely eccentric lifestyle."
+      },
+      "duration_seconds": 64.07269406318665
+    }
+  }
+}

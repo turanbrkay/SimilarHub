@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "The Finder",
+    "overview": "Walter Sherman, an Iraq War veteran, has the extraordinary ability to help people find the unfindable.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2012,
+    "vote_count": 127
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Finder is a procedural drama series centered on Walter Sherman, a former Iraq War veteran with a unique ability to locate missing persons and objects. The show blends elements of mystery, adventure, and character drama, exploring themes of redemption, second chances, and the complexities of human connection. Walter's past trauma and unconventional methods often lead him into morally ambiguous situations, creating a compelling narrative that balances suspense with moments of humor and heartfelt emotion. The series offers a generally optimistic tone, focusing on Walter's ability to bring closure and hope to those in need.",
+        "spoiler_rich_plot_summary": "The series begins with Walter Sherman, a man haunted by his past experiences in Iraq, using his extraordinary ability to find lost items and people. He operates out of a houseboat in Seattle, often assisted by Willmore Kirk, a former FBI agent, and Inspector Galen, a local police officer. Walter's past is gradually revealed through flashbacks, showcasing the events that led to his unique ability and the trauma he carries. Throughout the series, Walter takes on increasingly complex cases, often involving missing persons, stolen artifacts, and uncovering hidden secrets. He frequently clashes with criminals and confronts his own demons, seeking redemption for past mistakes. As the series progresses, Walter's relationships with Willmore and Galen deepen, forming a found-family dynamic that provides him with support and understanding. The overarching narrative explores Walter's journey towards healing and finding purpose in helping others, while also delving into the personal struggles of those around him. While the series was cancelled prematurely, the final episodes hinted at Walter facing a significant threat related to his past, suggesting a potential resolution that never materialized.",
+        "categorized_keywords": {
+          "themes": [
+            "redemption",
+            "found-family",
+            "second-chances",
+            "loss-and-grief",
+            "moral-ambiguity"
+          ],
+          "plot_and_concepts": [
+            "missing-persons",
+            "artifact-recovery",
+            "police-investigation",
+            "flashbacks",
+            "procedural-drama"
+          ],
+          "mood_and_tone": [
+            "optimistic",
+            "suspenseful",
+            "heartfelt",
+            "humorous"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "mystery",
+            "adventure",
+            "character-drama"
+          ],
+          "setting": [
+            "seattle-washington",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "veteran",
+            "reluctant-hero",
+            "wise-mentor",
+            "former-agent"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "houseboat",
+            "artifact",
+            "police-badge",
+            "flashback-sequence"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Finder is an optimistic crime procedural drama series set in modern-day Seattle, following a veteran with a unique ability to locate missing persons and artifacts, exploring themes of redemption and second chances within a found-family dynamic."
+      },
+      "duration_seconds": 65.59028649330139
+    }
+  }
+}

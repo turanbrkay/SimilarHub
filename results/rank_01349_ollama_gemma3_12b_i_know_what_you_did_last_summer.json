@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "I Know What You Did Last Summer",
+    "overview": "In a sun-soaked Hawaiian town with a mysterious past, a group of friends is left with a dark secret after a tragic accident. One year later, a member of the group receives a threatening message, and the friends now know that someone intends to make them pay for last summer.",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2021,
+    "vote_count": 171
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "I Know What You Did Last Summer is a teen drama and mystery series centered around a group of friends haunted by a tragic accident and the subsequent threat of exposure. The series explores themes of guilt, secrets, and the fragility of friendship under pressure. With a blend of suspense and interpersonal drama, it offers a compelling narrative about the consequences of past actions and the lengths people will go to protect their reputations. The series maintains a suspenseful atmosphere, punctuated by moments of emotional vulnerability and escalating danger.",
+        "spoiler_rich_plot_summary": "The series begins with a group of friends – Johnny, Chrissy, Lennon, and Keegan – involved in a fatal hit-and-run accident on a Hawaiian island. Panicked, they bury the body and swear to secrecy. A year later, a series of threatening messages and escalating events suggest that someone knows their secret and intends to expose them. As the friends investigate, they uncover a complex web of lies, betrayals, and hidden connections within the seemingly idyllic island community. The initial threat evolves into a full-blown mystery, revealing a deeper conspiracy linked to the original accident and the victim's family. The friends are forced to confront their individual roles in the tragedy and the dangerous forces seeking to punish them. The series culminates in a confrontation where the true identity of the stalker is revealed, exposing a shocking motive and forcing the friends to make difficult choices to protect themselves and their futures.",
+        "categorized_keywords": {
+          "themes": [
+            "guilt",
+            "secrets",
+            "revenge",
+            "friendship",
+            "conspiracy",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "stalker",
+            "hit-and-run",
+            "mystery",
+            "revenge-plot",
+            "small-town-secrets"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "tense",
+            "mysterious"
+          ],
+          "genre_and_tropes": [
+            "teen-drama",
+            "mystery-thriller",
+            "whodunit",
+            "small-town-mystery"
+          ],
+          "setting": [
+            "hawaiian-islands",
+            "modern-day",
+            "tropical-setting"
+          ],
+          "character_archetypes": [
+            "guilty-protagonist",
+            "troubled-teen",
+            "enigmatic-figure"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "mystery-box"
+          ],
+          "target_audience": [
+            "young-adult"
+          ],
+          "detail_plot": [
+            "threatening-notes",
+            "island-community",
+            "tropical-landscape"
+          ],
+          "maturity_and_content": [
+            "suspense",
+            "emotional-distress"
+          ]
+        },
+        "keyword_sentence": "I Know What You Did Last Summer is a suspenseful teen drama set on a tropical island, exploring themes of guilt and revenge as a group of friends confronts a dark secret and a mysterious stalker."
+      },
+      "duration_seconds": 59.67278838157654
+    }
+  }
+}

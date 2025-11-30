@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Emma",
+    "overview": "Nothing delights Emma more than meddling in the love lives of others. But when she takes protege Harriet Smith under her wing, her plans can only end in disaster...",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "release_year": 2009,
+    "vote_count": 115
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Emma is a witty and insightful period drama and comedy that satirizes social conventions and romantic missteps. The series follows the titular character, a well-meaning but often misguided young woman who enjoys orchestrating the romantic lives of her friends and acquaintances. Through her interventions, the series explores themes of class, social status, and the complexities of human relationships, offering a humorous and ultimately heartwarming portrayal of self-discovery and the importance of genuine connection. The series blends sharp dialogue with charming visuals, creating a lighthearted yet thought-provoking viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Emma, a wealthy and privileged young woman, confidently believing she possesses a keen understanding of romance and social dynamics. She takes Harriet Smith, a naive and impressionable young woman, under her wing, attempting to guide her towards a suitable match. Emma's meddling, however, leads to a series of misunderstandings and disappointments, as she misinterprets signals and pushes Harriet towards unsuitable suitors. Throughout the series, Emma's own romantic prospects are complicated by her close friendship with Mr. Knightley, a man who consistently challenges her assumptions and offers a grounded perspective on her actions. As Emma's schemes unravel and her own feelings become increasingly complex, she is forced to confront her own flaws and the consequences of her interference. The series culminates in a gradual realization of her own romantic feelings and a shift in her understanding of love and happiness, ultimately leading to a more mature and self-aware perspective.",
+        "categorized_keywords": {
+          "themes": [
+            "social-class",
+            "romantic-misunderstandings",
+            "self-discovery",
+            "friendship",
+            "social-satire",
+            "personal-growth"
+          ],
+          "plot_and_concepts": [
+            "romantic-comedy",
+            "meddling",
+            "misguided-advice",
+            "social-dynamics",
+            "courtship-rituals"
+          ],
+          "mood_and_tone": [
+            "witty",
+            "charming",
+            "lighthearted",
+            "satirical",
+            "humorous"
+          ],
+          "genre_and_tropes": [
+            "period-drama",
+            "romantic-comedy",
+            "social-comedy",
+            "will-they-won-t-they"
+          ],
+          "setting": [
+            "england",
+            "regency-era",
+            "rural-estate"
+          ],
+          "character_archetypes": [
+            "naive-protagonist",
+            "wise-mentor",
+            "social-butterfly",
+            "romantic-lead"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "carriage-rides",
+            "ballroom-dancing",
+            "country-estate",
+            "social-calls"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Set in the English countryside during the Regency era, Emma is a witty and charming period drama that satirizes social conventions and explores themes of romantic misunderstandings and personal growth through the misadventures of a well-meaning but often misguided protagonist."
+      },
+      "duration_seconds": 65.8169207572937
+    }
+  }
+}

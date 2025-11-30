@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "The Bold and the Beautiful",
+    "overview": "Continuing drama combining romance and intrigue set against the glittering backdrop of Beverly Hills and the American fashion industry.",
+    "genres": [
+      "Soap",
+      "Drama"
+    ],
+    "release_year": 1987,
+    "vote_count": 116
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Bold and the Beautiful is a long-running American soap opera centered on the Forrester family and their fashion empire. The series explores complex relationships, betrayals, and romantic entanglements within the glamorous world of high fashion. Recurring themes include family loyalty, ambition, and the pursuit of love amidst wealth and social status. The show maintains a consistent, melodramatic tone, focusing on interpersonal conflicts and dramatic reveals, appealing to a dedicated audience seeking ongoing emotional engagement.",
+        "spoiler_rich_plot_summary": "The Bold and the Beautiful initially focuses on the rivalry between John and Brooke Logan and Ridge Forrester, all vying for love and control within the Forrester Creations fashion house. Over the years, numerous characters have been introduced, each with their own intricate storylines and connections to the central families. Relationships shift constantly, with marriages, divorces, and betrayals frequently occurring. Characters often grapple with secrets from the past that resurface to complicate their present lives. While the core families remain central, new generations emerge, inheriting the drama and continuing the cycle of love, loss, and ambition. The series consistently introduces new romantic interests and conflicts, ensuring a continuous stream of dramatic events and maintaining the audience's investment in the ongoing saga.",
+        "categorized_keywords": {
+          "themes": [
+            "family-drama",
+            "romantic-rivalry",
+            "social-status",
+            "ambition",
+            "betrayal",
+            "generational-conflict"
+          ],
+          "plot_and_concepts": [
+            "soap-opera",
+            "fashion-industry",
+            "love-triangle",
+            "secret-revelations",
+            "inherited-wealth"
+          ],
+          "mood_and_tone": [
+            "melodramatic",
+            "romantic",
+            "glamorous",
+            "emotional"
+          ],
+          "genre_and_tropes": [
+            "soap-opera",
+            "romantic-drama",
+            "generational-saga"
+          ],
+          "setting": [
+            "beverly-hills",
+            "american-fashion"
+          ],
+          "character_archetypes": [
+            "fashion-mogul",
+            "romantic-rival",
+            "socialite",
+            "inherited-wealth"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "generational-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "fashion-show",
+            "designer-clothing",
+            "penthouse-apartment",
+            "family-business"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Set against the backdrop of the American fashion industry in Beverly Hills, The Bold and the Beautiful is a long-running soap opera exploring themes of family drama, romantic rivalry, and generational conflict through a melodramatic and glamorous narrative."
+      },
+      "duration_seconds": 58.5054886341095
+    }
+  }
+}

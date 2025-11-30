@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "The New Scooby-Doo Mysteries",
+    "overview": "Picking up where 'The New Scooby and Scappy Doo Show' left off. The main difference being that the team is now occasionally joined by Fred Jones and Velma Dinkley to solve mysteries together.",
+    "genres": [
+      "Animation",
+      "Family",
+      "Comedy",
+      "Kids",
+      "Mystery"
+    ],
+    "release_year": 1984,
+    "vote_count": 90
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The New Scooby-Doo Mysteries continues the established formula of the franchise, blending comedic slapstick with lighthearted mystery-solving. The series maintains a family-friendly tone, appealing to younger audiences with its colorful animation and silly humor. While retaining the core dynamic of Shaggy, Scooby, Daphne, and the occasional appearance of Fred and Velma, the show emphasizes teamwork and problem-solving through a series of supernatural-themed adventures. The series offers a consistently cheerful and accessible viewing experience, perfect for children and families seeking lighthearted entertainment.",
+        "spoiler_rich_plot_summary": "The series follows the continuing adventures of Shaggy, Scooby-Doo, Daphne, Fred, and Velma as they travel the world, encountering various spooky situations and solving mysteries. Each episode typically involves the gang investigating a local legend or supernatural phenomenon, often involving a seemingly haunted location or creature. Through a combination of disguises, chases, and clever deductions, the team uncovers the truth behind the mystery, revealing a human culprit behind the elaborate scheme. While the series maintains a lighthearted tone, the mysteries often involve elements of suspense and danger, keeping the audience engaged. The dynamic between Shaggy and Scooby remains a central comedic element, as they consistently try to avoid the dangers they encounter, while the rest of the team focuses on solving the mystery. The occasional inclusion of Fred and Velma adds a layer of intellectual problem-solving to the team's efforts, providing a balance to the more chaotic elements of the show.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "teamwork",
+            "mystery-solving",
+            "courage",
+            "humor"
+          ],
+          "plot_and_concepts": [
+            "monster-of-the-week",
+            "disguise",
+            "chase-sequence",
+            "unmasking",
+            "mystery-solving"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "comedic",
+            "wholesome",
+            "family-friendly"
+          ],
+          "genre_and_tropes": [
+            "animated-comedy",
+            "mystery",
+            "slapstick-humor",
+            "found-family"
+          ],
+          "setting": [
+            "various-locations",
+            "small-town-usa",
+            "animated-world"
+          ],
+          "character_archetypes": [
+            "comedic-duo",
+            "reluctant-hero",
+            "intelligent-detective",
+            "resourceful-heroine"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "kids",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "mystery-machine",
+            "monster-mask",
+            "trap-sequence",
+            "disguise-kit"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The New Scooby-Doo Mysteries is a lighthearted animated comedy series for families, following a team of friends as they solve spooky mysteries and embrace a spirit of teamwork and humor across various locations."
+      },
+      "duration_seconds": 65.81866073608398
+    }
+  }
+}

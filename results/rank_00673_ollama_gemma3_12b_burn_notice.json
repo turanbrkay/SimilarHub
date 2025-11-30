@@ -1,0 +1,87 @@
+{
+  "input_data": {
+    "title": "Burn Notice",
+    "overview": "A formerly blacklisted spy uses his unique skills and training to help people in desperate situations.",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Crime"
+    ],
+    "release_year": 2007,
+    "vote_count": 424
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Burn Notice is a spy drama centered on Michael Westen, a covert operative who is suddenly and inexplicably burned – essentially blacklisted – from his agency. Stripped of his resources and unable to discover why he was betrayed, he uses his skills to help those in need in his Miami community while simultaneously attempting to uncover the truth behind his burn notice. The series blends action, humor, and a touch of mystery, exploring themes of loyalty, redemption, and the moral ambiguities of the intelligence world. It offers a satisfying mix of thrilling action sequences and character-driven stories, appealing to audiences who enjoy espionage narratives with a human touch.",
+        "spoiler_rich_plot_summary": "The series begins with Michael Westen abruptly finding himself unable to access his accounts and resources, effectively blacklisted from the intelligence community. He's stranded in Miami, forced to rely on his former handler, Fiona Glenanne, and his mother, Madeline Westen, for support. As he navigates this new reality, he uses his skills to assist ordinary people facing extraordinary problems, often involving criminal activity or injustice. Throughout the series, Michael investigates the circumstances of his burn notice, uncovering a complex web of conspiracies and betrayals within his former agency. He is aided by his friends Sam Axe, a former Navy SEAL, and Jesse Porter, a skilled thief and information broker. As Michael gets closer to the truth, he faces increasingly dangerous adversaries, including former colleagues and powerful figures who want to keep his past buried. The investigation reveals a deep-seated corruption within the agency, and Michael must confront those responsible while protecting his loved ones. The series culminates in a final confrontation where Michael uncovers the full extent of the conspiracy and must make a difficult choice that will determine his future and the fate of those around him.",
+        "categorized_keywords": {
+          "themes": [
+            "redemption",
+            "loyalty",
+            "betrayal",
+            "corruption",
+            "family-ties",
+            "justice"
+          ],
+          "plot_and_concepts": [
+            "spy-thriller",
+            "blackmail",
+            "conspiracy",
+            "undercover-operation",
+            "revenge",
+            "crime-solving"
+          ],
+          "mood_and_tone": [
+            "action-oriented",
+            "suspenseful",
+            "darkly-humorous",
+            "tense",
+            "fast-paced"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "spy-genre",
+            "action-adventure",
+            "found-family",
+            "underdog-story"
+          ],
+          "setting": [
+            "miami-florida",
+            "modern-day",
+            "coastal-city",
+            "subtropical-climate"
+          ],
+          "character_archetypes": [
+            "ex-spy",
+            "skilled-operative",
+            "resourceful-handler",
+            "supportive-mother",
+            "loyal-friend"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "case-of-the-week",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "burner-phone",
+            "explosives",
+            "surveillance-equipment",
+            "safe-house",
+            "miami-beach"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "profanity"
+          ]
+        },
+        "keyword_sentence": "Burn Notice is a fast-paced action-thriller set in Miami, following an ex-spy who uses his skills to help others while uncovering a dangerous conspiracy and navigating complex family ties."
+      },
+      "duration_seconds": 68.65454626083374
+    }
+  }
+}

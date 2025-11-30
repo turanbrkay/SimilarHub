@@ -1,0 +1,70 @@
+{
+  "input_data": {
+    "title": "Dr. Ken",
+    "overview": "Dr. Ken is a brilliant physician with no bedside manner. He is always trying to be a good doctor, as well as a good husband and dad to his two kids. However, these good intentions have a way of driving everyone crazy at both work and at home. Luckily, his therapist wife Allison is just the right partner to keep things sane.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2015,
+    "vote_count": 54
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Dr. Ken is a sitcom centered on a highly skilled but socially awkward physician navigating the challenges of his career, family life, and marriage. The series blends medical humor with relatable family dynamics, often highlighting the clash between Ken's professional expertise and his personal shortcomings. The show's comedic tone derives from Ken's blunt observations and his attempts to apply his medical logic to everyday situations, creating a lighthearted and often chaotic portrayal of modern family life. It aims to provide a humorous and heartwarming exploration of the struggles and joys of balancing a demanding career with the responsibilities of parenthood and partnership.",
+        "spoiler_rich_plot_summary": "The series begins with Dr. Ken Huang accepting a position at a struggling clinic in Oregon, hoping for a fresh start with his wife, Allison, a therapist, and their two children. Ken's unconventional methods and blunt honesty often lead to humorous misunderstandings with his colleagues and patients, creating a constant source of conflict and comedic situations. Throughout the series, Ken strives to improve his bedside manner and become a better doctor and husband, often with Allison's guidance and support. The show explores the challenges of raising a family while pursuing professional ambitions, and the importance of communication and compromise in maintaining a strong marriage. While Ken's initial struggles with social cues persist, he gradually learns to appreciate the value of empathy and connection, ultimately finding a balance between his professional identity and his personal relationships. The series concludes with the Huang family finding stability and happiness, having navigated the ups and downs of family life and career aspirations.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "career-aspirations",
+            "marriage-challenges",
+            "cultural-identity",
+            "work-life-balance"
+          ],
+          "plot_and_concepts": [
+            "fish-out-of-water",
+            "sitcom-format",
+            "medical-humor",
+            "cultural-clash"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "family-sitcom",
+            "medical-comedy",
+            "fish-out-of-water"
+          ],
+          "setting": [
+            "modern-day",
+            "oregon"
+          ],
+          "character_archetypes": [
+            "quirky-protagonist",
+            "supportive-spouse",
+            "family-man"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "medical-clinic",
+            "family-home",
+            "therapy-session"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Dr. Ken is a lighthearted family sitcom that explores the challenges of balancing a demanding medical career with the joys and struggles of modern family life, often highlighting cultural differences and the importance of communication."
+      },
+      "duration_seconds": 60.011985778808594
+    }
+  }
+}

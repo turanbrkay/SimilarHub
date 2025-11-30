@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Spooks",
+    "overview": "Tense drama series about the different challenges faced by the British Security Service as they work against the clock to safeguard the nation. The title is a popular colloquialism for spies, and the series follows the work of a group of MI5 officers based at the service's Thames House headquarters, in a highly secure suite of offices known as The Grid.",
+    "genres": [
+      "Drama",
+      "Action & Adventure",
+      "Crime"
+    ],
+    "release_year": 2002,
+    "vote_count": 104
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Spooks is a tense and gripping British espionage drama that offers a realistic portrayal of the work of MI5. The series focuses on a core team of intelligence officers as they confront immediate threats to national security, often operating under immense pressure and with limited resources. Its blend of action, political intrigue, and character-driven drama creates a consistently suspenseful and engaging viewing experience. The show explores themes of loyalty, sacrifice, and the moral complexities inherent in intelligence work, offering a nuanced perspective on the world of espionage.",
+        "spoiler_rich_plot_summary": "The series begins with the introduction of a new team of MI5 agents, including Matthew Dearden, as they are thrust into a series of high-stakes operations. Early seasons focus on immediate threats, such as terrorist plots and international conspiracies, showcasing the team's ability to adapt and overcome challenges. As the series progresses, the characters face increasingly complex moral dilemmas and personal sacrifices, often blurring the lines between right and wrong. Relationships within the team evolve, with betrayals, romances, and shifting loyalties impacting their effectiveness. Later seasons introduce larger-scale political machinations and internal power struggles within MI5, forcing the team to confront not only external enemies but also those within their own organization. While individual agents experience significant personal losses and career setbacks, the core team perseveres, continually striving to protect the nation from evolving threats, though the cost is often substantial.",
+        "categorized_keywords": {
+          "themes": [
+            "national-security",
+            "loyalty",
+            "sacrifice",
+            "moral-ambiguity",
+            "political-intrigue",
+            "betrayal"
+          ],
+          "plot_and_concepts": [
+            "espionage",
+            "counter-terrorism",
+            "intelligence-gathering",
+            "political-thriller",
+            "conspiracy"
+          ],
+          "mood_and_tone": [
+            "tense",
+            "suspenseful",
+            "realistic",
+            "gritty",
+            "serious"
+          ],
+          "genre_and_tropes": [
+            "spy-drama",
+            "crime-procedural",
+            "thriller",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "uk",
+            "modern-day",
+            "london"
+          ],
+          "character_archetypes": [
+            "spy",
+            "intelligence-officer",
+            "anti-hero",
+            "mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "procedural-drama"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "mi5-headquarters",
+            "grid",
+            "surveillance-equipment",
+            "encrypted-communications"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "political-tension"
+          ]
+        },
+        "keyword_sentence": "Spooks is a tense and realistic British spy drama that explores themes of loyalty and sacrifice as a team of intelligence officers confronts immediate threats to national security within the gritty setting of London’s MI5 headquarters."
+      },
+      "duration_seconds": 64.06125569343567
+    }
+  }
+}

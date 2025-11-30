@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Mr. Corman",
+    "overview": "With better luck, better choices, better posture...Josh Corman could’ve been a rock star. Now he teaches fifth grade, and though he loves his students, he still struggles to find happiness and meaning in a world that sometimes feels short on both.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2021,
+    "vote_count": 49
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Mr. Corman is a character-driven comedy-drama exploring the anxieties and existential ponderings of a middle school teacher. The series blends humor with poignant introspection, examining themes of regret, ambition, and the search for meaning in everyday life. Through a blend of surrealism and realism, the show delves into the protagonist's inner world, often contrasting his outward appearance of stability with his internal struggles. The series offers a nuanced portrayal of modern anxieties and the challenges of finding purpose in a seemingly ordinary existence, resonating with audiences grappling with similar questions.",
+        "spoiler_rich_plot_summary": "The series centers on Josh Corman, a fifth-grade teacher in Los Angeles, who grapples with a sense of unfulfilled potential. Flashbacks reveal a past filled with musical aspirations that never materialized, contributing to his current state of quiet desperation. Throughout the series, Josh navigates the complexities of his relationships with his wife, Roxanne, a successful actress, and his parents, whose own anxieties and expectations further complicate his search for happiness. The narrative frequently shifts between Josh's present-day teaching experiences and surreal, dreamlike sequences that offer glimpses into his subconscious fears and regrets. As the series progresses, Josh confronts uncomfortable truths about himself and his family, leading to moments of both comedic absurdity and profound emotional vulnerability. While he attempts to find solace in his teaching and his marriage, the series explores the persistent feeling that something is missing, leaving Josh to question his choices and his place in the world. The narrative ultimately suggests that finding meaning isn't about achieving grand ambitions, but about accepting imperfections and appreciating the small moments of connection.",
+        "categorized_keywords": {
+          "themes": [
+            "existentialism",
+            "regret",
+            "family-dynamics",
+            "midlife-crisis",
+            "anxiety",
+            "self-discovery",
+            "unfulfilled-potential"
+          ],
+          "plot_and_concepts": [
+            "flashbacks",
+            "surrealism",
+            "dream-sequences",
+            "coming-of-age",
+            "character-study"
+          ],
+          "mood_and_tone": [
+            "melancholy",
+            "quirky",
+            "wistful",
+            "comedic-drama",
+            "introspective"
+          ],
+          "genre_and_tropes": [
+            "character-driven",
+            "slice-of-life",
+            "dark-comedy",
+            "family-drama"
+          ],
+          "setting": [
+            "los-angeles",
+            "modern-day",
+            "suburban-life"
+          ],
+          "character_archetypes": [
+            "anxious-protagonist",
+            "disillusioned-artist",
+            "complex-family"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "classroom",
+            "family-dinner",
+            "therapy-session",
+            "music-studio"
+          ],
+          "maturity_and_content": [
+            "anxiety-themes"
+          ]
+        },
+        "keyword_sentence": "Mr. Corman is a darkly comedic and introspective series exploring themes of regret and anxiety as a disillusioned teacher grapples with unfulfilled potential and complex family dynamics in modern-day Los Angeles."
+      },
+      "duration_seconds": 60.983319997787476
+    }
+  }
+}

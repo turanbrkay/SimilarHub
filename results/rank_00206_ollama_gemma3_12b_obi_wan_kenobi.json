@@ -1,0 +1,85 @@
+{
+  "input_data": {
+    "title": "Obi-Wan Kenobi",
+    "overview": "During the reign of the Galactic Empire, former Jedi Master, Obi-Wan Kenobi, embarks on a crucial mission to confront allies turned enemies and face the wrath of the Empire.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "release_year": 2022,
+    "vote_count": 1378
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Obi-Wan Kenobi is a limited series set within the Star Wars universe, bridging the gap between Episodes III and IV. The series follows a reclusive Obi-Wan Kenobi as he grapples with the fall of the Jedi Order and his self-imposed exile on Tatooine. It's a character-driven narrative exploring themes of duty, sacrifice, and redemption, blending action-adventure sequences with introspective moments. The series aims to recapture the spirit of the original trilogy while expanding on the backstory of a beloved character, offering a nostalgic yet fresh perspective on the Star Wars saga.",
+        "spoiler_rich_plot_summary": "The series begins ten years after the events of Revenge of the Sith, with Obi-Wan Kenobi living in self-imposed exile on Tatooine, haunted by the loss of Anakin Skywalker and the destruction of the Jedi Order. His solitude is disrupted when a young Princess Leia Organa is kidnapped by the Empire, prompting Obi-Wan to embark on a perilous rescue mission. This mission forces him to confront Darth Vader, now a powerful enforcer of the Emperor, and Reva Sevander, a Jedi Inquisitor driven by a personal vendetta against Obi-Wan and the remaining Jedi. Throughout his journey, Obi-Wan encounters familiar faces and forges new alliances, gradually regaining his confidence and preparing himself for the role he must eventually play in the Rebel Alliance. The series culminates in a confrontation between Obi-Wan and Vader, a deeply emotional battle that echoes their past relationship and sets the stage for Luke Skywalker's emergence as a beacon of hope against the Empire. Reva's own motivations are revealed, and she ultimately chooses a path of redemption, though her future remains uncertain.",
+        "categorized_keywords": {
+          "themes": [
+            "duty-and-honor",
+            "redemption",
+            "loss-and-grief",
+            "sacrifice",
+            "hope-and-faith",
+            "mentor-student-relationship"
+          ],
+          "plot_and_concepts": [
+            "galactic-empire",
+            "jedi-order",
+            "force-powers",
+            "lightsaber-combat",
+            "kidnapping-plot",
+            "rebellion-origins"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "nostalgic",
+            "action-packed",
+            "introspective",
+            "somber"
+          ],
+          "genre_and_tropes": [
+            "space-opera",
+            "action-adventure",
+            "hero-journey",
+            "mentor-protagonist"
+          ],
+          "setting": [
+            "tatooine",
+            "galactic-empire",
+            "coruscant",
+            "space-setting"
+          ],
+          "character_archetypes": [
+            "fallen-hero",
+            "reluctant-hero",
+            "mentor",
+            "villain",
+            "rebel-leader"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "limited-series"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "star-wars-fans"
+          ],
+          "detail_plot": [
+            "lightsaber",
+            "rebel-alliance",
+            "imperial-starship",
+            "force-ghost",
+            "jedi-robes"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "dark-themes"
+          ]
+        },
+        "keyword_sentence": "Obi-Wan Kenobi is a dark and nostalgic space-opera limited series following a fallen hero’s journey of redemption within the oppressive reign of the Galactic Empire, exploring themes of duty and sacrifice."
+      },
+      "duration_seconds": 70.42533326148987
+    }
+  }
+}

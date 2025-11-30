@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Dracula",
+    "overview": "Transylvania, 1897. The blood-drinking Count Dracula is drawing his plans against Victorian London. And be warned: the dead travel fast.",
+    "genres": [
+      "Drama",
+      "Action & Adventure"
+    ],
+    "release_year": 2020,
+    "vote_count": 608
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Dracula is a reimagining of the classic vampire myth, blending historical drama with action and supernatural horror. The series explores the origins of Dracula and his subsequent arrival in Victorian London, where he confronts a society grappling with modernity and faith. It's a dark and stylish production, examining themes of identity, faith, and the clash between tradition and progress, with a focus on the vampire's perspective and the consequences of his actions. The series aims to be a fresh take on a familiar story, emphasizing psychological depth and a sense of dread.",
+        "spoiler_rich_plot_summary": "The series begins in Transylvania, 1897, where Dracula, a nobleman burdened by a tragic past and a desire to end a plague ravaging his people, makes a pact with dark forces to become a vampire. He travels to London, intending to destroy the demonic forces that enabled his transformation. However, his arrival coincides with a series of mysterious deaths and a growing sense of unease within the city. He becomes entangled with a group of vampire hunters, led by Jonathan Harker and Mina Murray, who are determined to stop him. As Dracula’s influence spreads, he manipulates events and targets key figures, exploiting their vulnerabilities and turning them into his allies. The narrative explores Dracula’s complex motivations, revealing his past traumas and his struggle to reconcile his humanity with his monstrous nature. The series culminates in a confrontation between Dracula and his adversaries, with the fate of London hanging in the balance, and Dracula’s ultimate goal being revealed as something far more complex than simple destruction.",
+        "categorized_keywords": {
+          "themes": [
+            "identity-crisis",
+            "faith-vs-reason",
+            "good-vs-evil",
+            "revenge",
+            "corruption",
+            "modernity-vs-tradition"
+          ],
+          "plot_and_concepts": [
+            "vampire-mythology",
+            "monster-origin-story",
+            "supernatural-horror",
+            "historical-fiction",
+            "revenge-plot"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "gothic",
+            "suspenseful",
+            "atmospheric",
+            "brooding"
+          ],
+          "genre_and_tropes": [
+            "vampire-fiction",
+            "historical-drama",
+            "monster-story",
+            "gothic-horror"
+          ],
+          "setting": [
+            "transylvania",
+            "victorian-london",
+            "19th-century"
+          ],
+          "character_archetypes": [
+            "tragic-hero",
+            "reluctant-monster",
+            "vampire-hunter",
+            "innocent-victim"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "vampire-fangs",
+            "victorian-era-clothing",
+            "london-fog",
+            "ancient-manor"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "sexual-content"
+          ]
+        },
+        "keyword_sentence": "Set against the backdrop of Victorian London and Transylvania, Dracula is a dark and suspenseful historical drama exploring themes of identity, faith, and the clash between tradition and modernity through the tragic story of a vampire seeking revenge."
+      },
+      "duration_seconds": 61.60355567932129
+    }
+  }
+}

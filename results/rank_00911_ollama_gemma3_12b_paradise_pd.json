@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Paradise PD",
+    "overview": "An eager young rookie joins the ragtag small-town police force led by his dad as they bumble, squabble and snort their way through a big drug case.",
+    "genres": [
+      "Comedy",
+      "Animation"
+    ],
+    "release_year": 2018,
+    "vote_count": 289
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Paradise PD is a satirical animated comedy series that lampoons small-town police forces and the war on drugs. The show employs absurd humor and over-the-top characters to critique institutional incompetence and societal norms. Its irreverent tone and graphic content make it a darkly comedic exploration of law enforcement and its consequences. The series blends elements of workplace comedy with social commentary, creating a chaotic and often uncomfortable viewing experience. The dynamic between the eager rookie and his flawed father figure drives much of the narrative, highlighting generational differences and the challenges of upholding justice.",
+        "spoiler_rich_plot_summary": "The series follows Dusty Marvin, a newly appointed police officer in the town of Paradise, Oregon, and his father, Chief Randall Crawford, who leads the dysfunctional Paradise PD. The initial episodes focus on Dusty's attempts to reform the department and tackle the town's burgeoning drug problem, often clashing with his father's unorthodox and frequently illegal methods. As the series progresses, the department becomes embroiled in increasingly bizarre and dangerous situations, involving rival gangs, corrupt politicians, and bizarre local phenomena. The investigation into the drug trade reveals a complex web of connections within the town, exposing the hypocrisy and moral failings of many prominent citizens. Throughout the series, the officers grapple with their own personal demons and professional shortcomings, leading to a constant cycle of mistakes, cover-ups, and escalating chaos. The show's narrative arc revolves around the ongoing struggle to maintain order in a town spiraling out of control, while simultaneously satirizing the very institutions meant to uphold it.",
+        "categorized_keywords": {
+          "themes": [
+            "police-corruption",
+            "small-town-life",
+            "satire",
+            "drug-abuse",
+            "generational-conflict",
+            "incompetence"
+          ],
+          "plot_and_concepts": [
+            "police-procedural",
+            "satirical-comedy",
+            "undercover-operation",
+            "small-town-mystery"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "absurdist",
+            "irreverent",
+            "grotesque"
+          ],
+          "genre_and_tropes": [
+            "animated-comedy",
+            "workplace-comedy",
+            "satirical-animation"
+          ],
+          "setting": [
+            "small-town-usa",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "eager-rookie",
+            "corrupt-authority",
+            "bumbling-officer"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "police-station",
+            "drug-stash",
+            "evidence-room",
+            "police-car"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "sexual-content",
+            "drug-use",
+            "profanity"
+          ]
+        },
+        "keyword_sentence": "Paradise PD is a darkly comic animated series that satirizes small-town police forces and their struggles with drug abuse and corruption, offering an irreverent and grotesque look at American law enforcement."
+      },
+      "duration_seconds": 62.94876146316528
+    }
+  }
+}

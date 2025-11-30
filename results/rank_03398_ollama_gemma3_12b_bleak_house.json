@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Bleak House",
+    "overview": "The generous John Jarndyce, struggling with his own past, and his two young wards Richard and Ada, are all caught up, like Lady Dedlock, in the infamous case of Jarndyce vs. Jarndyce, which will make one of them rich beyond imagination if it can ever be brought to a conclusion. As Tulkinghorn digs deeper into Lady Dedlock's past, he unearths a secret that will change their lives forever, and which is almost as astounding as the final outcome of the Jarndyce case.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2005,
+    "vote_count": 38
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Bleak House is a sprawling Victorian drama centered around a protracted legal case that exposes the corruption and social injustices of 19th-century England. The series follows multiple interconnected narratives, exploring themes of inheritance, class disparity, and the failings of the legal system. With a complex web of characters and a deliberate, atmospheric pace, it offers a richly detailed portrait of a society grappling with profound moral and economic challenges. The tone is somber and observant, blending elements of mystery and social commentary to create a compelling and ultimately tragic experience.",
+        "spoiler_rich_plot_summary": "The story begins with John Jarndyce inheriting a large sum of money and tasked with caring for his young wards, Richard Carstone and Ada Clare, as part of the ongoing legal case of Jarndyce vs. Jarndyce. The case, ostensibly about inheritance, consumes vast sums of money and time, impacting the lives of numerous individuals caught in its orbit. Richard, drawn to the promise of wealth, becomes increasingly obsessed with the case, neglecting his studies and personal relationships. Ada, meanwhile, develops a quiet affection for Jarndyce, while Richard becomes entangled with Esther Summerson, a woman with a mysterious past who works for Jarndyce. As the case progresses, secrets are revealed about Lady Dedlock, a prominent figure whose past is intertwined with the legal proceedings. Tulkinghorn, a relentless lawyer, investigates Lady Dedlock’s past, uncovering a hidden child and threatening to expose her secrets. The legal battle ultimately concludes, but the outcome is bittersweet, leaving many characters irrevocably changed and highlighting the devastating consequences of legal entanglement and societal prejudice. Richard's obsession with the case leads to his premature death, and Ada finds happiness with Jarndyce, though the legal proceedings have left a lasting mark on all involved.",
+        "categorized_keywords": {
+          "themes": [
+            "inheritance",
+            "social-injustice",
+            "legal-corruption",
+            "class-disparity",
+            "secrets",
+            "redemption",
+            "loss",
+            "identity"
+          ],
+          "plot_and_concepts": [
+            "courtroom-drama",
+            "legal-thriller",
+            "mystery",
+            "serialized-story",
+            "found-family"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "atmospheric",
+            "tragic",
+            "melancholy"
+          ],
+          "genre_and_tropes": [
+            "victorian-era",
+            "historical-drama",
+            "gothic-elements"
+          ],
+          "setting": [
+            "19th-century-england",
+            "london-city",
+            "victorian-society"
+          ],
+          "character_archetypes": [
+            "tragic-hero",
+            "wise-mentor",
+            "mysterious-figure",
+            "social-outcast"
+          ],
+          "narrative_style": [
+            "multiple-narratives",
+            "complex-plot",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "courtroom-scene",
+            "legal-documents",
+            "manor-house",
+            "carriage-travel"
+          ],
+          "maturity_and_content": [
+            "social-themes",
+            "legal-proceedings"
+          ]
+        },
+        "keyword_sentence": "Bleak House is a somber Victorian drama exploring themes of inheritance and social injustice through a complex legal case and a sprawling cast of characters navigating the challenges of 19th-century England."
+      },
+      "duration_seconds": 63.62381029129028
+    }
+  }
+}

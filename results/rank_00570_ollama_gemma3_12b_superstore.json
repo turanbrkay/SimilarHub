@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Superstore",
+    "overview": "A hilarious workplace comedy about a unique family of employees at a super-sized mega store. From the bright-eyed newbies and the seen-it-all veterans to the clueless summer hires and the in-it-for-life managers, together they hilariously tackle the day-to-day grind of rabid bargain hunters, riot-causing sales and nap-worthy training sessions.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2015,
+    "vote_count": 529
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Superstore is a workplace comedy series that satirizes the retail industry and explores the lives of a diverse group of employees at a big-box store. The show blends humor with surprisingly poignant moments, examining themes of family, community, and economic struggles. It offers a relatable and often absurd portrayal of everyday life for those working in low-wage jobs, while also showcasing the bonds that form between colleagues. The series balances lighthearted comedic situations with more serious commentary on labor practices and social issues, creating a uniquely engaging and heartwarming experience.",
+        "spoiler_rich_plot_summary": "The series begins with the introduction of Amy Sosa, a long-time employee at Cloud 9, and her interactions with the store's eccentric manager, Glenn Sturgis, and the rest of the staff, including the cynical Jonah Simms. As the series progresses, the employees navigate various challenges, from corporate restructuring and unionization efforts to personal crises and romantic relationships. Jonah's attempts to improve the store and its employees often lead to humorous and chaotic situations. Amy's relationship with Jonah evolves, adding a romantic subplot to the workplace dynamics. Throughout the seasons, the store faces numerous corporate decisions, including sales events, policy changes, and even a potential buyout, impacting the employees' jobs and livelihoods. The series culminates with the store being sold, forcing the employees to confront an uncertain future and ultimately decide whether to remain together or pursue new opportunities, highlighting the strong sense of community that has developed among them.",
+        "categorized_keywords": {
+          "themes": [
+            "workplace-dynamics",
+            "economic-struggle",
+            "found-family",
+            "social-commentary",
+            "retail-industry",
+            "community"
+          ],
+          "plot_and_concepts": [
+            "workplace-comedy",
+            "unionization",
+            "corporate-restructuring",
+            "retail-sales",
+            "employee-relationships"
+          ],
+          "mood_and_tone": [
+            "humorous",
+            "lighthearted",
+            "satirical",
+            "warmhearted",
+            "absurd"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "workplace-comedy",
+            "ensemble-cast",
+            "romantic-comedy"
+          ],
+          "setting": [
+            "big-box-store",
+            "suburban-america",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "eccentric-manager",
+            "idealistic-newbie",
+            "cynical-employee",
+            "long-time-employee"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "price-tag",
+            "shopping-cart",
+            "employee-locker",
+            "break-room",
+            "customer-service-desk"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Superstore is a lighthearted and humorous sitcom that explores the dynamics of a diverse group of employees navigating the challenges and absurdities of working in a big-box retail store, ultimately highlighting themes of community and economic struggle."
+      },
+      "duration_seconds": 58.27881145477295
+    }
+  }
+}

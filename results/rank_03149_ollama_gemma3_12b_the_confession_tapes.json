@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "The Confession Tapes",
+    "overview": "This true crime documentary series investigates cases where people convicted of murder claim their confessions were coerced, involuntary or false.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2017,
+    "vote_count": 43
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Confession Tapes is a documentary series that critically examines the reliability of coerced confessions in criminal investigations. Each episode focuses on a specific case where a convicted individual maintains their innocence and alleges that their confession was obtained through questionable or manipulative tactics. The series explores the psychological pressures and potential for false confessions, raising serious questions about the justice system and the validity of convictions based solely on confessions. It blends investigative journalism with legal analysis, offering a nuanced perspective on a complex and often overlooked aspect of the criminal justice process. The series aims to provoke discussion about police interrogation techniques and the potential for wrongful convictions.",
+        "spoiler_rich_plot_summary": "Each episode of The Confession Tapes presents a distinct case of a person convicted of murder who claims their confession was false. The series meticulously reconstructs the events leading up to the confession, often revealing inconsistencies in the prosecution's case and highlighting the interrogation techniques employed by law enforcement. These techniques frequently involve prolonged questioning, sleep deprivation, and psychological manipulation, preying on the suspect's vulnerabilities. The series then examines the trial and subsequent conviction, often showcasing the limited evidence beyond the confession itself. While the individuals maintain their innocence, the series doesn't explicitly declare them innocent; instead, it presents the evidence and arguments that cast doubt on the validity of the confessions and the fairness of the legal proceedings, leaving the viewer to consider the possibility of wrongful conviction. The series concludes by showing the ongoing legal battles and appeals undertaken by the individuals, highlighting the challenges of overturning a conviction based on a contested confession.",
+        "categorized_keywords": {
+          "themes": [
+            "false-confessions",
+            "criminal-justice",
+            "wrongful-conviction",
+            "police-accountability",
+            "legal-ethics",
+            "innocence"
+          ],
+          "plot_and_concepts": [
+            "true-crime",
+            "documentary-series",
+            "investigative-journalism",
+            "interrogation-techniques",
+            "legal-proceedings"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "thought-provoking",
+            "unsettling",
+            "critical"
+          ],
+          "genre_and_tropes": [
+            "true-crime-documentary",
+            "legal-drama",
+            "investigative-documentary"
+          ],
+          "setting": [
+            "american-courtrooms",
+            "police-stations",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "accused",
+            "law-enforcement",
+            "legal-professionals"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "investigative-report"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "interrogation-room",
+            "police-recordings",
+            "courtroom-scene",
+            "confession-statement"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "police-brutality",
+            "legal-proceedings"
+          ]
+        },
+        "keyword_sentence": "The Confession Tapes is a suspenseful documentary series that critically examines the potential for false confessions and wrongful convictions within the American criminal justice system, raising unsettling questions about police accountability and legal ethics."
+      },
+      "duration_seconds": 68.55975675582886
+    }
+  }
+}

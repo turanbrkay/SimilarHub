@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "DC's Stargirl",
+    "overview": "Courtney Whitmore, a smart, athletic and above all else kind girl, discovers her step-father has a secret: he used to be the sidekick to a superhero. \"Borrowing\" the long-lost hero’s cosmic staff, she becomes the unlikely inspiration for an entirely new generation of superheroes.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure",
+      "Drama"
+    ],
+    "release_year": 2020,
+    "vote_count": 1035
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "DC's Stargirl is a superhero series that blends classic comic book elements with a hopeful, family-oriented tone. The show follows Courtney Whitmore, a teenager who discovers her stepfather's secret past as a former sidekick and embraces a heroic identity. It explores themes of legacy, redemption, and the power of kindness, offering a more optimistic and accessible take on the superhero genre. The series emphasizes the importance of community and the potential for second chances, appealing to a younger audience while retaining the core values of the DC universe.",
+        "spoiler_rich_plot_summary": "The series begins with Courtney Whitmore discovering that her stepfather, Pat Dugan, was once S.T.R.I.P.E., the sidekick to the legendary superhero Starman. Initially unaware of the dangers surrounding her newfound knowledge, Courtney impulsively takes possession of Starman’s cosmic staff, becoming Stargirl and inadvertently drawing the attention of the Justice Society of America (JSA). The JSA, a group of retired superheroes, attempts to mentor Courtney, but she struggles to balance her newfound responsibilities with her family and personal life. As Courtney delves deeper into Starman’s past, she uncovers a sinister plot involving the Injustice Society, a group of villains seeking to exploit Starman’s legacy. Throughout the series, Courtney confronts her own insecurities and learns to embrace her role as a hero, forging strong bonds with her family and the JSA while battling the Injustice Society’s escalating threats. The series culminates in a final confrontation where Courtney and her allies must overcome their personal struggles and work together to defeat the Injustice Society and protect their community, solidifying Stargirl’s place as a beacon of hope for a new generation of heroes.",
+        "categorized_keywords": {
+          "themes": [
+            "legacy",
+            "redemption",
+            "family-loyalty",
+            "hope",
+            "kindness",
+            "second-chances"
+          ],
+          "plot_and_concepts": [
+            "superhero-team",
+            "legacy-plot",
+            "coming-of-age",
+            "villain-redemption",
+            "secret-identity"
+          ],
+          "mood_and_tone": [
+            "hopeful",
+            "optimistic",
+            "lighthearted",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "superhero-action",
+            "coming-of-age-story",
+            "found-family",
+            "legacy-sequel"
+          ],
+          "setting": [
+            "small-town-usa",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "teenager-hero",
+            "former-sidekick"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "cosmic-staff",
+            "stripe-suit",
+            "justice-society-hq",
+            "starman-legacy"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "DC's Stargirl is a hopeful and lighthearted superhero series set in a small town, following a teenager who embraces a legacy of heroism and discovers the power of family and second chances."
+      },
+      "duration_seconds": 55.356350898742676
+    }
+  }
+}

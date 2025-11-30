@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "Star Trek: Picard",
+    "overview": "Set twenty years after the events of Star Trek Nemesis, we follow the now-retired Admiral Picard into the next chapter of his life.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "release_year": 2020,
+    "vote_count": 1533
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Star Trek: Picard serves as a continuation of the Star Trek universe, focusing on the titular character, Jean-Luc Picard, decades after his command of the Enterprise. The series blends familiar sci-fi themes of exploration and diplomacy with a more mature and introspective tone, exploring themes of legacy, regret, and the consequences of past decisions. Picard grapples with his own mortality and confronts unresolved issues from his career, while navigating a complex political landscape and facing new threats to the Federation. The show offers a blend of action-adventure and character-driven drama, appealing to long-time fans and newcomers alike.",
+        "spoiler_rich_plot_summary": "The series begins with Picard haunted by a vision connected to Romulus and the destruction of its people. This leads him to uncover a conspiracy involving a synthetic being named Dahj, who is revealed to be one of a pair of children created from a Romulan scientist's memories. Picard and his former Enterprise crew – Riker, Troi, Data, Crusher, Worf, and LaForge – reunite to investigate the origins of these synths and the forces behind their creation. Their investigation takes them across the galaxy, uncovering a dark secret about Starfleet’s past and the exploitation of synthetic life. The team confronts a shadowy organization seeking to destabilize the Federation and exploit the synths for their own purposes. Picard confronts his own past mistakes and the legacy of Starfleet’s involvement in the Romulan conflict. The series culminates in a confrontation with the true architects of the conspiracy, revealing a deeper connection to Picard’s own history and the fate of the Federation. The final season sees Picard and his crew facing a new threat that requires them to confront their own mortality and make difficult choices to protect the future of the galaxy.",
+        "categorized_keywords": {
+          "themes": [
+            "legacy",
+            "regret",
+            "redemption",
+            "artificial-intelligence",
+            "exploration",
+            "political-intrigue",
+            "identity-crisis",
+            "found-family"
+          ],
+          "plot_and_concepts": [
+            "time-travel",
+            "artificial-intelligence",
+            "conspiracy",
+            "political-thriller",
+            "space-exploration",
+            "synthetic-life"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "reflective",
+            "suspenseful",
+            "melancholy",
+            "hopeful"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "space-opera",
+            "found-family",
+            "ensemble-cast",
+            "political-thriller"
+          ],
+          "setting": [
+            "space",
+            "future",
+            "federation",
+            "starship"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "former-captain",
+            "artificial-intelligence"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "starship-enterprise",
+            "holodeck",
+            "tricorder",
+            "phaser"
+          ],
+          "maturity_and_content": [
+            "violence"
+          ]
+        },
+        "keyword_sentence": "Star Trek: Picard explores themes of legacy and regret within a somber science-fiction setting, following a former captain and his crew as they confront political intrigue and artificial intelligence in a serialized story."
+      },
+      "duration_seconds": 66.70096755027771
+    }
+  }
+}

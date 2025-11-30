@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Blood & Treasure",
+    "overview": "An antiquities expert teams up with an art thief to catch a terrorist who funds his attacks using stolen artifacts.",
+    "genres": [
+      "Drama",
+      "Action & Adventure"
+    ],
+    "release_year": 2019,
+    "vote_count": 105
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Blood & Treasure is a globe-trotting action-adventure series blending historical mystery, thrilling chases, and a touch of humor. The show follows a skilled antiquities expert and a charming art thief as they pursue a ruthless terrorist who finances his operations through stolen artifacts. The series explores themes of redemption, loyalty, and the clash between ancient history and modern-day conflict, offering a fast-paced and visually engaging experience with a focus on action and intrigue.",
+        "spoiler_rich_plot_summary": "The series begins with Daniel Fletcher, a former agent, teaming up with Ava Sharma, a skilled thief, to track down Nur Zaman, a terrorist who is stealing priceless artifacts to fund his global network. Zaman is revealed to be connected to Daniel’s past, having been responsible for the death of Daniel’s mentor. Their pursuit takes them across various historical locations, from Rome to Morocco, as they decipher clues hidden within ancient relics. As they delve deeper into Zaman’s operations, they uncover a vast conspiracy involving powerful figures and long-lost secrets. Ava’s past is also explored, revealing her own complicated history and motivations. The chase intensifies, leading to confrontations with Zaman’s forces and exposing betrayals within their own team. Ultimately, Daniel and Ava must confront Zaman and his organization, battling to stop his plans and seeking closure for their own personal losses, while navigating a web of deceit and ancient power.",
+        "categorized_keywords": {
+          "themes": [
+            "redemption",
+            "loyalty",
+            "ancient-history",
+            "conspiracy",
+            "revenge",
+            "treasure-hunting"
+          ],
+          "plot_and_concepts": [
+            "artifact-theft",
+            "terrorism-funding",
+            "treasure-hunt",
+            "historical-mystery",
+            "international-intrigue"
+          ],
+          "mood_and_tone": [
+            "action-packed",
+            "adventurous",
+            "fast-paced",
+            "humorous",
+            "suspenseful"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "treasure-hunting",
+            "buddy-cop",
+            "international-espionage"
+          ],
+          "setting": [
+            "rome-italy",
+            "morocco",
+            "international-locations",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "former-agent",
+            "skilled-thief",
+            "ruthless-villain",
+            "mentor-figure"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-adventure"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "ancient-relics",
+            "treasure-map",
+            "chase-scene",
+            "hidden-passage"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "perilous-situations"
+          ]
+        },
+        "keyword_sentence": "Blood & Treasure is an action-packed adventure series following a former agent and a skilled thief as they pursue a ruthless villain across international locations, uncovering ancient relics and a dangerous conspiracy."
+      },
+      "duration_seconds": 64.07404494285583
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Creepshow",
+    "overview": "A young boy's horror comic book comes to life in this anthology series of terrifying tales.",
+    "genres": [
+      "Mystery",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2019,
+    "vote_count": 234
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Creepshow is an anthology horror series inspired by the 1982 film of the same name. Each episode presents a self-contained story, often drawing from classic horror tropes and comic book aesthetics. The series blends dark humor with genuinely unsettling moments, creating a playful yet macabre viewing experience. Recurring segments, including a comic book framing device and a creepy host, tie the disparate tales together, offering a nostalgic and consistently unsettling atmosphere. The show aims to deliver a fun, accessible horror experience for fans of the genre.",
+        "spoiler_rich_plot_summary": "The series unfolds as a young boy, Billy, discovers a horror comic book that mysteriously comes to life. Each episode presents a different story from the comic, brought to terrifying reality. Stories range from vengeful spirits and gruesome murders to bizarre scientific experiments and monstrous transformations. Characters often face karmic retribution for their actions, with a darkly comedic edge. While the individual stories are self-contained, the framing device of Billy and the comic book provides a continuous thread, and the host character, Creepshow, offers sardonic commentary on the unfolding horrors. The series explores themes of revenge, consequence, and the power of imagination, often with shocking and violent outcomes for those who cross the wrong people or tamper with forces beyond their understanding. The comic book itself seems to have a life of its own, influencing events and blurring the lines between fiction and reality.",
+        "categorized_keywords": {
+          "themes": [
+            "revenge",
+            "consequence",
+            "dark-humor",
+            "supernatural",
+            "karmic-retribution",
+            "imagination"
+          ],
+          "plot_and_concepts": [
+            "anthology-series",
+            "comic-book-adaptation",
+            "supernatural-horror",
+            "karmic-justice",
+            "monster-of-the-week"
+          ],
+          "mood_and_tone": [
+            "macabre",
+            "playful",
+            "darkly-comic",
+            "unsettling",
+            "gothic"
+          ],
+          "genre_and_tropes": [
+            "horror",
+            "anthology",
+            "comic-book-horror",
+            "supernatural-thriller"
+          ],
+          "setting": [
+            "modern-day",
+            "small-town-america"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "victim",
+            "villain"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "self-contained-episodes"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "horror-fans"
+          ],
+          "detail_plot": [
+            "comic-book-panels",
+            "creepy-host",
+            "blood-splatter",
+            "monster-transformation"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "gore",
+            "suspense"
+          ]
+        },
+        "keyword_sentence": "Creepshow is a darkly comic anthology horror series that blends supernatural thrills and graphic violence with a playful nod to classic comic book aesthetics, delivering a macabre and unsettling experience for adult viewers."
+      },
+      "duration_seconds": 62.86866569519043
+    }
+  }
+}

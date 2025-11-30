@@ -1,0 +1,87 @@
+{
+  "input_data": {
+    "title": "The Avengers: Earth's Mightiest Heroes",
+    "overview": "When the powers of a single hero are not enough to save the world, the world’s greatest heroes—Iron Man, Thor, Captain America, The Hulk, Ant-Man/Giant Man and Wasp—assemble to form the Avengers.",
+    "genres": [
+      "Action & Adventure",
+      "Animation",
+      "Sci-Fi & Fantasy",
+      "Family"
+    ],
+    "release_year": 2010,
+    "vote_count": 620
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Avengers: Earth's Mightiest Heroes is an animated superhero series centered on a team of extraordinary individuals who unite to defend the planet from a variety of threats. The show blends action-packed sequences with comedic elements and explores themes of teamwork, responsibility, and sacrifice. It caters to a family audience with its accessible storytelling and vibrant character designs, while still delivering a compelling narrative for older viewers familiar with the Marvel universe. The series emphasizes the importance of cooperation and the challenges of balancing personal lives with the demands of being a superhero.",
+        "spoiler_rich_plot_summary": "The series begins with the formation of the Avengers, brought together by Nick Fury to combat threats too large for individual heroes to handle. Early storylines involve facing off against Loki and his schemes to conquer Earth, requiring the team to learn to work together despite their differing personalities and approaches. As the series progresses, the Avengers confront increasingly complex challenges, including incursions from alternate realities and confrontations with powerful cosmic entities. Internal conflicts arise as the heroes grapple with the consequences of their actions and the burden of their responsibilities. Throughout their adventures, the team faces betrayals, losses, and moments of doubt, ultimately solidifying their bond and demonstrating the strength of their collective purpose. The series culminates in a final confrontation with a formidable foe, testing the Avengers' abilities and resolve to their absolute limits, ultimately reaffirming their role as Earth's first and foremost line of defense.",
+        "categorized_keywords": {
+          "themes": [
+            "teamwork",
+            "responsibility",
+            "sacrifice",
+            "heroism",
+            "redemption",
+            "friendship",
+            "good-vs-evil"
+          ],
+          "plot_and_concepts": [
+            "superhero-team",
+            "alternate-realities",
+            "invasion",
+            "cosmic-threats",
+            "villain-origin",
+            "secret-identity"
+          ],
+          "mood_and_tone": [
+            "action-adventure",
+            "lighthearted",
+            "comedic",
+            "optimistic",
+            "heroic"
+          ],
+          "genre_and_tropes": [
+            "superhero-action",
+            "found-family",
+            "origin-story",
+            "team-dynamics",
+            "comic-book-adaptation"
+          ],
+          "setting": [
+            "marvel-universe",
+            "earth",
+            "new-york-city",
+            "alternate-dimensions"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "powerful-villain",
+            "tech-genius",
+            "muscle-bound-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "episodic-adventure"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "avengers-tower",
+            "shield-hq",
+            "iron-man-armor",
+            "thor-hammer",
+            "hulk-smash"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Avengers: Earth's Mightiest Heroes is a lighthearted and action-packed animated series about a team of extraordinary individuals who unite to defend Earth from cosmic threats, emphasizing themes of teamwork, heroism, and the importance of found-family."
+      },
+      "duration_seconds": 60.811628341674805
+    }
+  }
+}

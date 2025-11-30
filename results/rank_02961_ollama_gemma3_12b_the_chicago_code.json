@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "The Chicago Code",
+    "overview": "The series follows officers of the Chicago Police Department as they fight crime on the streets and try to expose political corruption within the city. ",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2011,
+    "vote_count": 49
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Chicago Code is a gritty police procedural drama that delves into the complexities of law enforcement in a major city. The series explores the challenges faced by officers battling crime while simultaneously uncovering corruption within the political system. It blends realistic depictions of police work with a suspenseful narrative, examining themes of justice, loyalty, and the blurred lines between right and wrong. The show aims to portray a nuanced view of urban policing, highlighting both the dedication of officers and the systemic issues that hinder their efforts. It offers a tense and morally ambiguous viewing experience, focusing on the human cost of fighting crime.",
+        "spoiler_rich_plot_summary": "The series begins with a seemingly straightforward case of a drug bust that quickly spirals into a larger conspiracy involving corrupt politicians and powerful criminal organizations. Detective Terrence 'Terry' Maxwell, a dedicated officer, finds himself increasingly entangled in the web of deceit as he investigates the case. His pursuit of justice leads him to uncover a network of corruption that reaches the highest levels of Chicago's government. As Terry delves deeper, he faces threats and betrayals from unexpected sources, forcing him to question his allegiances and the very foundations of the justice system. The investigation exposes the deep-seated problems within the police department and the city's political landscape, leading to significant shifts in power and challenging the status quo. Throughout the series, Terry struggles to maintain his integrity while navigating a system designed to protect itself, ultimately leading to a confrontation with those who seek to silence him and bury the truth.",
+        "categorized_keywords": {
+          "themes": [
+            "corruption",
+            "justice",
+            "loyalty",
+            "police-ethics",
+            "urban-crime",
+            "power-abuse"
+          ],
+          "plot_and_concepts": [
+            "police-procedural",
+            "political-conspiracy",
+            "undercover-operation",
+            "whistleblower",
+            "crime-investigation"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "suspenseful",
+            "dark",
+            "realistic",
+            "tense"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "police-procedural",
+            "political-thriller"
+          ],
+          "setting": [
+            "chicago-city",
+            "modern-day",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "dedicated-detective",
+            "corrupt-politician",
+            "moral-ambiguity",
+            "whistleblower"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "police-badge",
+            "crime-scene",
+            "courtroom",
+            "city-hall"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "The Chicago Code is a gritty crime drama set in modern-day Chicago, exploring themes of corruption and justice through the eyes of dedicated police officers battling a complex web of political intrigue and urban crime."
+      },
+      "duration_seconds": 59.98482155799866
+    }
+  }
+}

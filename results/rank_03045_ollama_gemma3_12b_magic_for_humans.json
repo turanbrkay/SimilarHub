@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Magic for Humans",
+    "overview": "From baffling people on the street to orchestrating elaborate tricks, Justin Willman blends good-natured magic with grown-up laughs.",
+    "genres": [
+      "Comedy",
+      "Reality"
+    ],
+    "release_year": 2018,
+    "vote_count": 46
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Magic for Humans is a reality comedy series that follows magician Justin Willman as he performs street magic and creates elaborate illusions. The show blends humor and spectacle, showcasing Willman's talent for engaging with audiences and pushing the boundaries of traditional magic. It offers a lighthearted and entertaining experience, appealing to viewers who enjoy both magic and comedic performances. The series emphasizes the human connection between performer and audience, highlighting the joy and wonder of live entertainment.",
+        "spoiler_rich_plot_summary": "The series primarily follows Justin Willman as he travels to various locations, devising and executing increasingly complex magic routines. Each episode typically begins with Justin scouting a new environment and identifying potential marks for his illusions. He then meticulously plans and rehearses his routines, often involving elaborate props and the assistance of his team. The show documents the challenges and triumphs of creating these illusions, from dealing with unexpected audience reactions to overcoming technical difficulties. While the focus remains on the magic itself, the series also provides glimpses into Justin's personal life and his interactions with his crew, showcasing the collaborative effort behind the performances. The show culminates in larger-scale illusions and performances, demonstrating Justin's growth as a magician and entertainer.",
+        "categorized_keywords": {
+          "themes": [
+            "performance-art",
+            "illusion",
+            "humor",
+            "entertainment",
+            "skill",
+            "creativity"
+          ],
+          "plot_and_concepts": [
+            "street-magic",
+            "illusionism",
+            "reality-television",
+            "performance-design"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "comedic",
+            "wholesome",
+            "playful"
+          ],
+          "genre_and_tropes": [
+            "reality-tv",
+            "comedy",
+            "magic-show"
+          ],
+          "setting": [
+            "public-spaces",
+            "urban-environments"
+          ],
+          "character_archetypes": [
+            "entertainer",
+            "magician",
+            "comedian"
+          ],
+          "narrative_style": [
+            "episodic",
+            "behind-the-scenes"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "magic-tricks",
+            "stage-props",
+            "audience-interaction",
+            "camera-work"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Magic for Humans is a lighthearted reality comedy series that showcases the skill and creativity of a magician as he performs playful illusions and interacts with audiences in public spaces."
+      },
+      "duration_seconds": 50.83191227912903
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "The Exes",
+    "overview": "A sitcom about three divorced men sharing an apartment across the hall from their female divorce attorney, who is also their landlord.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2011,
+    "vote_count": 43
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Exes is a sitcom centered on the comedic trials and tribulations of three recently divorced men navigating life together in a shared apartment complex. Their lives are further complicated by their landlord and divorce attorney, a woman who represents them legally but finds herself increasingly entangled in their personal dramas. The series explores themes of friendship, second chances, and the challenges of moving on from past relationships, all while maintaining a lighthearted and humorous tone. It blends situational comedy with romantic and relationship-driven storylines, offering a relatable and entertaining portrayal of modern dating and the complexities of adulting.",
+        "spoiler_rich_plot_summary": "The series begins with Scout, Holly, and Casey, three men reeling from divorce, finding themselves unexpectedly sharing an apartment due to financial hardship and the intervention of their divorce attorney and landlord, Eden. Eden, initially intending to maintain a professional distance, finds herself increasingly drawn into their chaotic lives, often providing legal advice and emotional support, blurring the lines between her role as their attorney and their friend. Throughout the series, each man confronts the reasons for their divorces and attempts to rebuild their lives, often with hilarious and awkward results. Romantic interests emerge for each of the exes, leading to further complications and misunderstandings. The series explores the challenges of co-parenting, dating after divorce, and the importance of male friendship, culminating in a general sense of growth and acceptance as the men find a new sense of stability and purpose in their shared living situation. While romantic entanglements and legal battles continue to arise, the core of the show remains focused on the evolving dynamics between the three exes and their evolving relationship with Eden.",
+        "categorized_keywords": {
+          "themes": [
+            "divorce",
+            "friendship",
+            "second-chances",
+            "relationships",
+            "male-bonding",
+            "legal-issues"
+          ],
+          "plot_and_concepts": [
+            "sitcom",
+            "shared-living",
+            "romantic-comedy",
+            "legal-drama",
+            "found-family"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "humorous",
+            "optimistic",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "romantic-comedy",
+            "found-family",
+            "will-they-won't-they"
+          ],
+          "setting": [
+            "modern-day",
+            "apartment-complex",
+            "urban-setting"
+          ],
+          "character_archetypes": [
+            "divorced-men",
+            "female-protagonist",
+            "legal-professional",
+            "reluctant-hero"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "apartment-building",
+            "legal-briefs",
+            "courtroom-scene",
+            "divorce-papers"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Exes is a lighthearted sitcom about three divorced men finding friendship and second chances while navigating legal issues and romantic entanglements in a shared apartment complex."
+      },
+      "duration_seconds": 63.38154196739197
+    }
+  }
+}

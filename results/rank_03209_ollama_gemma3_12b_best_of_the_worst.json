@@ -1,0 +1,71 @@
+{
+  "input_data": {
+    "title": "Best of the Worst",
+    "overview": "Mike, Jay, Rich and the rest of the Red Letter Media crew brave some of the worst movies ever created by man.",
+    "genres": [
+      "Comedy",
+      "Talk"
+    ],
+    "release_year": 2013,
+    "vote_count": 42
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Best of the Worst is a comedic talk show produced by Red Letter Media, where a group of hosts review and dissect notoriously bad films. The show's humor derives from the hosts' often sarcastic and irreverent commentary on the films' technical flaws, narrative incoherence, and overall absurdity. It's a low-budget, intentionally amateur production that embraces its own limitations, creating a unique and self-aware comedic experience for viewers who appreciate a darkly humorous and critical perspective on cinema.",
+        "spoiler_rich_plot_summary": "The show's format is simple: each episode focuses on a single film, typically chosen from a pool of exceptionally poor-quality movies. The hosts, Mike Stoklasa, Jay Bauman, and Rich Evans, along with occasional guests, provide commentary throughout the film, often interrupting the narrative with jokes, observations, and increasingly outlandish reactions. The humor escalates as the film progresses, with the hosts' commentary becoming more absurd and self-referential. Recurring segments include 'The Re-Cut,' where the hosts attempt to improve the film by rearranging scenes, and 'The Pitch Meeting,' where they satirize the filmmaking process. While there isn't a traditional narrative arc, the show's overall trajectory involves a gradual descent into comedic chaos as the hosts' reactions to the films become increasingly unhinged. The show's longevity stems from its ability to consistently find humor in the most unlikely of places, celebrating the joy of shared laughter at the expense of truly terrible movies.",
+        "categorized_keywords": {
+          "themes": [
+            "cinema-criticism",
+            "irony",
+            "satire",
+            "humor",
+            "shared-experience"
+          ],
+          "plot_and_concepts": [
+            "film-review",
+            "mockumentary",
+            "running-gag",
+            "improvised-comedy"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "irreverent",
+            "absurdist",
+            "self-aware"
+          ],
+          "genre_and_tropes": [
+            "talk-show",
+            "comedy",
+            "mock-cinema"
+          ],
+          "setting": [
+            "low-budget-studio",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "comedian",
+            "film-critic",
+            "anti-establishment"
+          ],
+          "narrative_style": [
+            "episodic",
+            "unscripted"
+          ],
+          "target_audience": [
+            "film-buffs",
+            "comedy-fans"
+          ],
+          "detail_plot": [
+            "film-projector",
+            "microphone",
+            "low-budget-equipment"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Best of the Worst is a darkly comic talk show that finds humor in the absurdity of truly terrible films, offering a self-aware and irreverent cinematic experience for comedy and film fans."
+      },
+      "duration_seconds": 53.73549771308899
+    }
+  }
+}

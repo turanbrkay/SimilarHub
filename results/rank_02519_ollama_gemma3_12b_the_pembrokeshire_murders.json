@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "The Pembrokeshire Murders",
+    "overview": "Detective superintendent reopens two unsolved murder cases from the 1980s. Forensic methods link the crimes to a string of burglaries. Steve's team has to find more evidence before the perpetrator is released from prison.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2021,
+    "vote_count": 65
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Pembrokeshire Murders is a gripping British crime drama that meticulously reconstructs two unsolved murders from the 1980s. The series focuses on Detective Superintendent Steve Arnott's relentless pursuit of justice, utilizing advancements in forensic science to re-examine cold cases. It's a procedural drama with a strong emphasis on character development and the psychological toll of investigating disturbing crimes, offering a tense and atmospheric exploration of justice and the passage of time. The series blends elements of police procedural with a character-driven narrative, creating a compelling and emotionally resonant viewing experience.",
+        "spoiler_rich_plot_summary": "The series centers on Detective Superintendent Steve Arnott's investigation into the murders of Joyce Moxley and Pauline Gammon, crimes that occurred in Pembrokeshire, Wales, in the 1980s. Initially, the cases were investigated but ultimately remained unsolved. Years later, advancements in forensic techniques, particularly DNA analysis, offer a new avenue for investigation. Arnott's team discovers a potential link between the murders and a series of burglaries committed around the same time. The investigation focuses on a suspect already incarcerated for other crimes, leading to a tense cat-and-mouse game as evidence is gathered and scrutinized. The series explores the complexities of the legal system and the challenges of proving guilt beyond a reasonable doubt, culminating in a courtroom drama where the truth is finally revealed and justice, after decades, is served. The investigation uncovers a web of secrets and lies, forcing Arnott to confront the dark underbelly of his community and the enduring impact of unsolved crimes.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "cold-case",
+            "redemption",
+            "police-corruption",
+            "past-trauma",
+            "community-secrets"
+          ],
+          "plot_and_concepts": [
+            "police-procedural",
+            "cold-case-investigation",
+            "forensic-science",
+            "courtroom-drama",
+            "serial-crime"
+          ],
+          "mood_and_tone": [
+            "tense",
+            "atmospheric",
+            "somber",
+            "suspenseful",
+            "grim"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "british-tv",
+            "true-crime",
+            "slow-burn-mystery"
+          ],
+          "setting": [
+            "wales",
+            "pembrokeshire",
+            "1980s",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "dedicated-detective",
+            "morally-gray-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "crime-scene",
+            "police-badge",
+            "courtroom",
+            "prison-cell",
+            "forensic-lab"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "crime-themes"
+          ]
+        },
+        "keyword_sentence": "The Pembrokeshire Murders is a tense British crime drama that explores themes of justice and trauma through a meticulous cold-case investigation, utilizing forensic science to unravel a decades-old mystery in rural Wales."
+      },
+      "duration_seconds": 65.95606660842896
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "input_data": {
+    "title": "The Yogi Bear Show",
+    "overview": "From his home in Jellystone Park, Yogi Bear dreams of nothing more in life than to outwit as many unsuspecting tourists as he can and grab their prized picnic baskets all while staying one step ahead of the ever-exasperated Ranger Smith. Yogi's little buddy, Boo-Boo, tries to keep Yogi out of trouble but rarely succeeds. That's okay because not even Ranger Smith can stay mad for long at the lovable, irresistible Yogi Bear.",
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "release_year": 1961,
+    "vote_count": 185
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Yogi Bear Show is a classic animated sitcom centered around a mischievous bear and his loyal companion, Boo-Boo, as they repeatedly attempt to pilfer picnic baskets from unsuspecting tourists in Jellystone Park. The series blends slapstick comedy with gentle humor, creating a lighthearted and family-friendly experience. Yogi's constant scheming and Ranger Smith's futile attempts to thwart him form the core of the show's enduring appeal, offering a nostalgic and consistently amusing viewing experience.",
+        "spoiler_rich_plot_summary": "The series follows Yogi Bear and Boo-Boo as they reside in Jellystone Park, a popular tourist destination. Yogi, driven by a desire for picnic baskets, constantly devises elaborate schemes to outsmart Ranger Smith, the park's authority figure. Boo-Boo, ever the voice of reason, often tries to dissuade Yogi from his plans, but his efforts are usually unsuccessful. Ranger Smith, despite his frustration, maintains a generally good-natured demeanor, and the dynamic between the three characters remains consistently playful and comedic throughout the series. While Yogi's schemes are always foiled, the underlying premise of the bear's desire for picnic baskets and the ranger's attempts to stop him remains the central narrative driver, creating a cyclical and predictable, yet entertaining, storyline.",
+        "categorized_keywords": {
+          "themes": [
+            "mischief",
+            "friendship",
+            "humor",
+            "resourcefulness"
+          ],
+          "plot_and_concepts": [
+            "slapstick-comedy",
+            "cat-and-mouse",
+            "recurring-villain"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "playful"
+          ],
+          "genre_and_tropes": [
+            "animated-comedy",
+            "family-audience",
+            "classic-cartoon"
+          ],
+          "setting": [
+            "national-park",
+            "1960s-america"
+          ],
+          "character_archetypes": [
+            "trickster",
+            "loyal-companion",
+            "authority-figure"
+          ],
+          "narrative_style": [
+            "episodic-format"
+          ],
+          "target_audience": [
+            "children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "picnic-basket",
+            "ranger-hat",
+            "jellystone-park"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Yogi Bear Show is a lighthearted animated comedy series centered around a mischievous bear and his friend as they playfully outwit a park ranger in a classic cartoon setting."
+      },
+      "duration_seconds": 52.821051597595215
+    }
+  }
+}

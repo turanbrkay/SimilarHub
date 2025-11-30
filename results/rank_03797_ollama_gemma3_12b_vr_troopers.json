@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "VR Troopers",
+    "overview": "Join the VR troopers as they use `Virtual Reality' to stop the evil GrimLord creating havoc.",
+    "genres": [
+      "Action & Adventure",
+      "Sci-Fi & Fantasy",
+      "Kids"
+    ],
+    "release_year": 1994,
+    "vote_count": 31
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "VR Troopers is a children's action-adventure series blending live-action and CGI animation. The show follows a team of virtual reality troopers who enter a digital world to combat the villainous GrimLord and his forces. It combines elements of science fiction, fantasy, and action, offering a lighthearted and visually engaging experience geared towards a younger audience. The series explores themes of courage, teamwork, and the power of imagination within a vibrant, digitally-rendered environment. The narrative structure is episodic, with each episode presenting a new challenge for the VR Troopers to overcome.",
+        "spoiler_rich_plot_summary": "The series centers on the VR Troopers, a team of agents who use virtual reality technology to enter the digital world of Proteus, where the GrimLord and his minions threaten to disrupt the balance between the virtual and real worlds. Each Trooper is linked to a specific avatar within Proteus, allowing them to fight the GrimLord's forces and prevent his schemes from spilling over into reality. The GrimLord, a powerful and malevolent entity, constantly seeks to expand his influence and conquer both worlds. Throughout the series, the VR Troopers face numerous challenges, battling various monsters and thwarting the GrimLord's plans to unleash chaos. The Troopers must rely on their skills, teamwork, and the support of their headquarters team to succeed. While the GrimLord is consistently defeated, his schemes evolve, ensuring a constant threat and requiring the Troopers to adapt and improve their strategies. The series concludes with the ongoing struggle against the GrimLord, suggesting a perpetual battle for the safety of both worlds.",
+        "categorized_keywords": {
+          "themes": [
+            "courage",
+            "teamwork",
+            "imagination",
+            "good-vs-evil",
+            "virtual-reality"
+          ],
+          "plot_and_concepts": [
+            "virtual-reality",
+            "monster-of-the-week",
+            "digital-world",
+            "alternate-dimension",
+            "heroic-team"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "action-packed",
+            "adventurous",
+            "wholesome",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "sci-fi",
+            "fantasy",
+            "action-adventure",
+            "kids-show",
+            "heroic-team"
+          ],
+          "setting": [
+            "virtual-world",
+            "digital-realm",
+            "modern-day",
+            "alternate-reality"
+          ],
+          "character_archetypes": [
+            "hero",
+            "villain",
+            "team-leader",
+            "sidekick"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "kids",
+            "young-adults"
+          ],
+          "detail_plot": [
+            "virtual-avatar",
+            "grimlord",
+            "vr-trooper",
+            "digital-world",
+            "heroic-team"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "VR Troopers is a lighthearted action-adventure series for kids, blending science fiction and fantasy elements as a heroic team battles a villain in a vibrant digital world."
+      },
+      "duration_seconds": 78.60729646682739
+    }
+  }
+}

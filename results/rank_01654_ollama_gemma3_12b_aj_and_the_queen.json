@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "AJ and the Queen",
+    "overview": "While traveling across the country in a run-down RV, drag queen Ruby Red discovers an unlikely sidekick in AJ: a tough-talking 10-year-old stowaway.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2020,
+    "vote_count": 126
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "AJ and the Queen is a heartwarming dramedy series centered on an unexpected bond between a young boy and a drag queen. The series explores themes of family, acceptance, and self-discovery as they navigate the open road, confronting personal challenges and societal prejudices along the way. With a blend of humor and emotional depth, the show offers a feel-good narrative about finding belonging and embracing individuality. The series is notable for its positive representation of LGBTQ+ individuals and its focus on the power of human connection.",
+        "spoiler_rich_plot_summary": "The series begins with AJ, a resilient 10-year-old boy, hiding in an RV owned by Ruby Red, a charismatic drag queen. AJ is on the run from his estranged father and a difficult past, while Ruby is traveling to Los Angeles to pursue her dreams. As they journey across the country, they form an unlikely friendship, learning to rely on each other for support and understanding. Along the way, they encounter various characters who challenge their perspectives and force them to confront their own vulnerabilities. Ruby helps AJ to open up about his past trauma, while AJ encourages Ruby to pursue her ambitions and embrace her true self. Their travels reveal the complexities of family and the importance of finding your own chosen family. The series culminates in a poignant resolution where both characters face their pasts and forge a path toward a more hopeful future, solidifying their bond as a unique and loving family unit.",
+        "categorized_keywords": {
+          "themes": [
+            "found-family",
+            "acceptance",
+            "self-discovery",
+            "lgbtq-representation",
+            "childhood-trauma",
+            "redemption",
+            "hope"
+          ],
+          "plot_and_concepts": [
+            "road-trip",
+            "unlikely-friendship",
+            "coming-of-age",
+            "chosen-family"
+          ],
+          "mood_and_tone": [
+            "heartwarming",
+            "optimistic",
+            "emotional",
+            "lighthearted"
+          ],
+          "genre_and_tropes": [
+            "dramedy",
+            "road-trip-movie",
+            "found-family-trope"
+          ],
+          "setting": [
+            "american-road",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "resilient-child",
+            "charismatic-performer",
+            "unconventional-parent"
+          ],
+          "narrative_style": [
+            "serialized-story"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "rv-life",
+            "drag-costumes",
+            "open-road"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "AJ and the Queen is a heartwarming dramedy about an unlikely friendship between a young boy and a drag queen as they journey across America, exploring themes of acceptance, found family, and the power of self-discovery."
+      },
+      "duration_seconds": 60.55564260482788
+    }
+  }
+}

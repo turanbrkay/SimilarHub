@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "National Treasure: Edge of History",
+    "overview": "While searching for history's greatest treasure, Jess Valenzuela unburies her family's secret past.",
+    "genres": [
+      "Action & Adventure"
+    ],
+    "release_year": 2022,
+    "vote_count": 151
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "National Treasure: Edge of History is an action-adventure series that follows Jess Valenzuela as she investigates her family's connection to a historical treasure hunt. The show blends historical mysteries with modern-day intrigue, offering a fast-paced narrative driven by puzzles, clues, and a quest for a hidden legacy. It aims to capture the spirit of the original films while introducing a new protagonist and expanding the mythology. The series balances action sequences with moments of family drama and personal discovery, appealing to audiences interested in historical puzzles and adventure stories.",
+        "spoiler_rich_plot_summary": "The series begins with Jess Valenzuela, a brilliant young archivist, discovering a cryptic clue left by her deceased father, a renowned treasure hunter. This clue hints at a vast treasure hidden somewhere in the United States, linked to a secret society and a pivotal moment in American history. Jess, along with her friends and a seasoned treasure hunter, embarks on a journey to decipher the clues, uncovering a complex web of historical events and betrayals. As they progress, they encounter obstacles from a shadowy organization also seeking the treasure, leading to thrilling chases and dangerous confrontations. The search reveals long-held secrets about Jess's family history, forcing her to confront uncomfortable truths about her father's past and her own identity. The treasure hunt ultimately leads to a confrontation with the antagonists, revealing a deeper conspiracy that threatens to rewrite American history. Jess must use her intelligence and resourcefulness to protect the truth and secure the treasure, ultimately embracing her family's legacy and finding her place in the world.",
+        "categorized_keywords": {
+          "themes": [
+            "family-legacy",
+            "historical-mystery",
+            "treasure-hunt",
+            "identity-discovery",
+            "conspiracy",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "puzzle-solving",
+            "cryptography",
+            "secret-society",
+            "historical-conspiracy",
+            "treasure-map"
+          ],
+          "mood_and_tone": [
+            "adventurous",
+            "suspenseful",
+            "fast-paced",
+            "optimistic"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "historical-fiction",
+            "treasure-hunting",
+            "found-family"
+          ],
+          "setting": [
+            "united-states",
+            "modern-day",
+            "historical-sites"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "skilled-investigator"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "cryptic-clue",
+            "treasure-map",
+            "historical-document",
+            "secret-archive"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "National Treasure: Edge of History is an adventurous action-adventure series set in the United States, following a reluctant hero as she unravels a historical conspiracy and treasure hunt, ultimately discovering her family legacy and embracing a fast-paced quest for truth."
+      },
+      "duration_seconds": 69.92089486122131
+    }
+  }
+}

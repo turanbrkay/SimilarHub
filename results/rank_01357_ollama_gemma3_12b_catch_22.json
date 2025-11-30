@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Catch-22",
+    "overview": "Pianosa Island, Italy, World War II. Bombardier John Yossarian tries to fulfill his duty, maintain sanity and return home as soon as possible, but incompetence and bureaucracy constantly stand in his way.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "War & Politics"
+    ],
+    "release_year": 2019,
+    "vote_count": 170
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Catch-22 is a darkly comedic and satirical war drama series based on Joseph Heller's novel. Set during World War II, the show follows bombardier John Yossarian's desperate attempts to escape the absurdity and bureaucratic madness of military life. The series blends humor and tragedy, exploring themes of sanity, duty, and the dehumanizing effects of war through a surreal and often chaotic narrative. It offers a cynical yet poignant commentary on the futility of conflict and the resilience of the human spirit.",
+        "spoiler_rich_plot_summary": "The series begins with Yossarian, a bombardier stationed on the island of Pianosa, desperately trying to reduce his assigned number of bombing missions. He feigns illness and attempts various schemes to avoid flying, all while navigating a system riddled with illogical rules and self-serving officers. As the war progresses, Yossarian witnesses the horrors of combat and the increasing absurdity of the military's demands. He becomes entangled with a cast of eccentric characters, including the ambitious and ruthless Colonel Cathcart, who continually raises the required number of missions. Yossarian's attempts to escape the war lead him to consider desertion, and he ultimately makes a fateful decision to abandon his post and seek refuge in Sweden, leaving behind a complex web of relationships and unresolved conflicts. The narrative explores the psychological toll of war and the lengths to which individuals will go to preserve their sanity and autonomy.",
+        "categorized_keywords": {
+          "themes": [
+            "war-absurdity",
+            "sanity-vs-insanity",
+            "duty-vs-survival",
+            "bureaucratic-oppression",
+            "moral-ambiguity",
+            "anti-war"
+          ],
+          "plot_and_concepts": [
+            "satirical-comedy",
+            "military-drama",
+            "absurdist-narrative",
+            "court-martial",
+            "desertion"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "surreal",
+            "cynical",
+            "satirical"
+          ],
+          "genre_and_tropes": [
+            "war-comedy",
+            "black-comedy",
+            "anti-hero",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "world-war-ii",
+            "italian-island",
+            "military-base"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "corrupt-officer",
+            "eccentric-character"
+          ],
+          "narrative_style": [
+            "non-linear-timeline",
+            "ensemble-cast",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "bombing-mission",
+            "military-uniform",
+            "courtroom-scene",
+            "italian-landscape"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "substance-abuse"
+          ]
+        },
+        "keyword_sentence": "Set against the backdrop of World War II, Catch-22 is a darkly comic and satirical drama exploring themes of sanity, duty, and bureaucratic oppression through a surreal narrative and an ensemble cast of eccentric characters."
+      },
+      "duration_seconds": 63.618661642074585
+    }
+  }
+}

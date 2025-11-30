@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Animaniacs",
+    "overview": "The two Warner Brothers Yakko and Wakko and their Warner sister Dot had been (supposedly) created in the 1930's, but their cartoons were too screwy for the general public to handle. The three Warners were locked up in the studio water tower until they escaped in the 90's. There, they run wild, causing chaos everywhere!",
+    "genres": [
+      "Animation",
+      "Kids",
+      "Comedy",
+      "Family"
+    ],
+    "release_year": 1993,
+    "vote_count": 633
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Animaniacs is a fast-paced, irreverent animated comedy series that blends slapstick humor, witty satire, and pop culture references. The show's premise revolves around the Warner siblings – Yakko, Wakko, and Dot – who wreak havoc on the world after being released from a long confinement. It's a chaotic and energetic show aimed at a family audience, utilizing a variety of animation styles and musical numbers to deliver a consistently silly and unpredictable experience. The series is known for its clever wordplay and meta-humor, appealing to both children and adults.",
+        "spoiler_rich_plot_summary": "The series begins with the Warner siblings' escape from the water tower where they were hidden away for decades due to their chaotic nature. They are then unleashed upon the world, causing mayhem and disrupting the routines of various characters and settings. Each episode typically features a series of short, self-contained segments, often parodying classic cartoons, movies, and historical events. Recurring characters include the inept director, Steven Spielberg, and the hapless security guard, Ralph. Throughout the series, the Warner siblings consistently challenge authority and societal norms, often with humorous and absurd consequences. While the show maintains a largely episodic structure, there's a subtle underlying theme of the siblings finding their place in a world that doesn't quite understand them, and occasionally confronting the consequences of their actions, though always returning to their chaotic antics.",
+        "categorized_keywords": {
+          "themes": [
+            "chaos",
+            "sibling-rivalry",
+            "satire",
+            "parody",
+            "rebellion",
+            "humor"
+          ],
+          "plot_and_concepts": [
+            "slapstick-comedy",
+            "sketch-comedy",
+            "parody",
+            "meta-humor",
+            "fourth-wall-breaks"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "lighthearted",
+            "zany",
+            "energetic",
+            "silly"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "comedy",
+            "family-audience",
+            "sketch-comedy"
+          ],
+          "setting": [
+            "animated-world",
+            "hollywood-studio",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "trickster",
+            "mischief-maker",
+            "comedic-relief"
+          ],
+          "narrative_style": [
+            "anthology",
+            "sketch-comedy",
+            "episodic"
+          ],
+          "target_audience": [
+            "family-audience",
+            "children"
+          ],
+          "detail_plot": [
+            "water-tower",
+            "animated-characters",
+            "studio-backlot",
+            "musical-numbers"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Animaniacs is a lighthearted and zany animated comedy series for a family audience, known for its chaotic sibling antics and clever parodies of pop culture."
+      },
+      "duration_seconds": 54.61535930633545
+    }
+  }
+}

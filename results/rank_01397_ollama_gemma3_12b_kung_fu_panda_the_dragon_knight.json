@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Kung Fu Panda: The Dragon Knight",
+    "overview": "Follow the adventures of Po, who partners up with a no-nonsense English knight named Wandering Blade to find a collection of four powerful weapons before a mysterious pair of weasels do, and save the world from destruction.",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Comedy"
+    ],
+    "release_year": 2022,
+    "vote_count": 163
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Kung Fu Panda: The Dragon Knight is an animated action-comedy series that continues the story of Po, the unlikely panda warrior. This installment sees him partnering with a new character, Wandering Blade, a skilled knight from England, to recover four powerful artifacts. The series blends martial arts action with comedic elements and explores themes of friendship, responsibility, and cultural understanding. It offers a lighthearted and entertaining experience suitable for a family audience, maintaining the charm and humor of the original films while introducing fresh dynamics and challenges for the protagonist.",
+        "spoiler_rich_plot_summary": "The series begins with Po, now serving as the Dragon Knight, facing a new threat: a pair of weasels seeking to obtain four ancient weapons of immense power. Recognizing he cannot handle this alone, Po reluctantly teams up with Wandering Blade, a stoic and highly skilled English knight. Their initial partnership is fraught with cultural clashes and differing approaches to combat, creating comedic tension. As they journey across various landscapes, they uncover the weasels' motivations, which are tied to a larger, shadowy organization seeking to exploit the weapons' power for nefarious purposes. The quest for the weapons leads them to confront formidable adversaries and navigate complex moral dilemmas. Throughout their journey, Po and Wandering Blade gradually develop a deep respect and friendship, learning from each other's strengths and overcoming their differences. The series culminates in a confrontation with the weasels and their allies, where Po and Wandering Blade must combine their skills to prevent the weapons from falling into the wrong hands and safeguard the world from destruction.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "responsibility",
+            "cultural-understanding",
+            "heroism",
+            "teamwork"
+          ],
+          "plot_and_concepts": [
+            "artifact-hunt",
+            "martial-arts",
+            "ancient-weapons",
+            "secret-organization",
+            "quest"
+          ],
+          "mood_and_tone": [
+            "comedic",
+            "lighthearted",
+            "action-packed",
+            "humorous"
+          ],
+          "genre_and_tropes": [
+            "animated-comedy",
+            "action-adventure",
+            "buddy-cop",
+            "hero's-journey"
+          ],
+          "setting": [
+            "fantasy-realm",
+            "ancient-china",
+            "english-countryside"
+          ],
+          "character_archetypes": [
+            "unlikely-hero",
+            "stoic-mentor",
+            "skilled-warrior",
+            "comedic-relief"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "dragon-scrolls",
+            "kung-fu-training",
+            "ancient-temple",
+            "panda-village"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Kung Fu Panda: The Dragon Knight is a lighthearted animated action-comedy series that follows an unlikely hero and a skilled warrior on a quest to recover ancient weapons and safeguard the world through friendship and teamwork."
+      },
+      "duration_seconds": 63.56132888793945
+    }
+  }
+}

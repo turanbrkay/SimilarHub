@@ -1,0 +1,112 @@
+{
+  "input_data": {
+    "title": "The Falcon and the Winter Soldier",
+    "overview": "Following the events of “Avengers: Endgame”, the Falcon, Sam Wilson and the Winter Soldier, Bucky Barnes team up in a global adventure that tests their abilities, and their patience.",
+    "genres": [
+      "Action & Adventure",
+      "Drama"
+    ],
+    "release_year": 2021,
+    "vote_count": 8008
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Falcon and the Winter Soldier follows former Avengers Sam Wilson and Bucky Barnes as they navigate a world reshaped after the Snap, confronting a shadowy global conspiracy while wrestling with their own identities and the weight of legacy. The series blends high-octane action with sharp social commentary, exploring themes of racial inequality, mental trauma, and the moral complexities of power. A tense, character-driven narrative examines friendship, betrayal, and the struggle to redefine what it means to be a hero in a post-heroic era.",
+        "spoiler_rich_plot_summary": "After the events of Avengers: Endgame, Sam Wilson (Falcon) and Bucky Barnes (Winter Soldier) are thrust into a global adventure when a young man’s death leads them to uncover a covert organization called Flag, a secret paramilitary group that has been manipulating events behind the scenes. The duo travels from Washington D.C. to Paris and London, confronting former allies and new enemies, including John Walker, a disgraced U.S. Army Ranger who has been installed as a new Captain America. Along the way, they meet Maya Lopez, a young woman with a scar who claims a connection to Hawkeye, and Yelena Belova, a former Black Widow, both of whom become integral to the unfolding conspiracy. Bucky’s past as a Soviet-era operative is revealed through a series of archival discoveries, while Sam struggles with the political implications of wielding the shield. The series culminates in Flag’s exposure, the death of a Flag operative, and a confrontation with Walker that ends with Walker’s downfall. In the final episode, Sam is offered the shield by the U.S. government but ultimately chooses to become the new Captain America, while Bucky, though still scarred and haunted, remains alive and vows to protect people in his own way.",
+        "categorized_keywords": {
+          "themes": [
+            "identity-crisis",
+            "legacy",
+            "social-justice",
+            "racial-inequality",
+            "mental-health",
+            "friendship",
+            "betrayal",
+            "power-dynamics",
+            "retribution"
+          ],
+          "plot_and_concepts": [
+            "post-Avengers",
+            "flag-organization",
+            "new-captain-america",
+            "bucky-barnes",
+            "sam-wilson",
+            "john-walker",
+            "maya-lopez",
+            "yelena-belova",
+            "government-conspiracy",
+            "black-ops",
+            "soviet-archives",
+            "global-adventure",
+            "political-thriller"
+          ],
+          "mood_and_tone": [
+            "intense",
+            "dark",
+            "action-packed",
+            "dramatic",
+            "political",
+            "gritty"
+          ],
+          "genre_and_tropes": [
+            "superhero",
+            "action-adventure",
+            "drama",
+            "buddy-cop",
+            "post-hero",
+            "political-thriller",
+            "character-driven"
+          ],
+          "setting": [
+            "modern-day",
+            "global",
+            "United-States",
+            "Washington-D.C.",
+            "New-York",
+            "Paris",
+            "London",
+            "Soviet-Union"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "hero",
+            "reformed-mercenary",
+            "sidekick",
+            "mentor",
+            "villain",
+            "young-prodigy",
+            "new-captain"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "fast-paced",
+            "action-driven",
+            "character-driven"
+          ],
+          "target_audience": [
+            "mature-audiences",
+            "superhero-fans",
+            "young-adults",
+            "teenagers"
+          ],
+          "detail_plot": [
+            "flag-organization",
+            "bucky-barnes",
+            "sam-wilson",
+            "john-walker",
+            "maya-lopez",
+            "yelena-belova",
+            "new-captain-america",
+            "black-ops",
+            "government-conspiracy",
+            "soviet-archives",
+            "global-adventure"
+          ]
+        },
+        "keyword_sentence": "A gritty, action-packed post-Avengers drama where Sam Wilson and Bucky Barnes confront a global conspiracy led by the flag organization, exploring identity, legacy, and social justice while ultimately seeing Wilson become the new Captain America."
+      },
+      "duration_seconds": 233.82972288131714
+    }
+  }
+}

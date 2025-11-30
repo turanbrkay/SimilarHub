@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Rugrats",
+    "overview": "A reinvention of the beloved 90s cartoon, Rugrats follows a group of adventurous babies as they discover the big world around them. Lead by Tommy Pickles, this toddler crew explores the world from their pint-sized and wildly imaginative perspective.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Kids"
+    ],
+    "release_year": 2021,
+    "vote_count": 117
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Rugrats is a reboot of the classic Nickelodeon cartoon, designed for a new generation while retaining the charm and humor of the original. The series follows a group of toddlers as they navigate their world, experiencing everyday situations through a uniquely childlike and often surreal perspective. It blends slapstick comedy with surprisingly poignant observations about family, friendship, and growing up, appealing to both children and nostalgic adults. The show's strength lies in its ability to find wonder and excitement in the mundane, all while maintaining a lighthearted and optimistic tone.",
+        "spoiler_rich_plot_summary": "The series begins with Tommy Pickles, Chuckie Finster, Phil DeVille, Lil DeVille, Angelica Pickles, and Susie Carmichael as a group of babies exploring their surroundings. Tommy, the adventurous leader, often concocts elaborate schemes and 'rescues' that lead to humorous and chaotic situations. Chuckie, the cautious one, frequently expresses his fears and anxieties, providing a comedic counterpoint to Tommy's boldness. Angelica, the older and often manipulative sister, frequently tries to thwart the babies' plans, leading to conflicts and misunderstandings. As the series progresses, the babies encounter various challenges and learn valuable lessons about friendship, cooperation, and problem-solving. They navigate family dynamics, deal with new experiences, and ultimately strengthen their bonds as a group, always viewing the world through their innocent and imaginative eyes. The series maintains a consistent tone of playful exploration and heartwarming family moments, without major overarching plotlines or dramatic resolutions.",
+        "categorized_keywords": {
+          "themes": [
+            "childhood-innocence",
+            "family-dynamics",
+            "friendship",
+            "imagination",
+            "exploration",
+            "growing-up"
+          ],
+          "plot_and_concepts": [
+            "toddler-perspective",
+            "slapstick-comedy",
+            "rescue-missions",
+            "misunderstandings"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "optimistic",
+            "playful"
+          ],
+          "genre_and_tropes": [
+            "childrens-comedy",
+            "animated-comedy",
+            "found-family"
+          ],
+          "setting": [
+            "suburban-home",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "adventurous-leader",
+            "cautious-friend",
+            "manipulative-sibling"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "children",
+            "families"
+          ],
+          "detail_plot": [
+            "playpen",
+            "diapers",
+            "baby-bottle",
+            "stroller"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Rugrats is a lighthearted animated comedy series that explores themes of childhood innocence and family dynamics through the eyes of a group of adventurous toddlers navigating their world with imagination and playful exploration."
+      },
+      "duration_seconds": 61.63707256317139
+    }
+  }
+}

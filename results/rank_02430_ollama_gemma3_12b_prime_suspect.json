@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Prime Suspect",
+    "overview": "Highly skilled Detective Inspector Jane Tennison battles to prove herself in a male dominated world.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 1991,
+    "vote_count": 70
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Prime Suspect is a British crime drama series centered on Detective Inspector Jane Tennison as she navigates the challenges of a male-dominated police force while investigating complex and often disturbing criminal cases. The series is known for its realistic portrayal of police procedure, its nuanced character development, and its exploration of gender dynamics within law enforcement. Tennison's relentless pursuit of justice is often complicated by personal struggles and professional skepticism, creating a compelling and psychologically rich viewing experience. The show's gritty realism and strong performances established a new standard for police dramas.",
+        "spoiler_rich_plot_summary": "The series initially follows Detective Inspector Jane Tennison as she takes on a high-profile murder case, facing immediate skepticism and resistance from her male colleagues. Tennison's sharp intellect and unwavering determination allow her to uncover crucial evidence and identify the perpetrator, but she must also contend with the pressures of proving herself in a system that often undermines her authority. Throughout the series, Tennison investigates a range of complex crimes, each presenting unique challenges and forcing her to confront her own biases and vulnerabilities. As her career progresses, she rises through the ranks, encountering further obstacles and navigating the complexities of leadership while maintaining her commitment to justice. Personal relationships become intertwined with her professional life, adding layers of emotional depth and conflict to her journey. The series explores the toll that a demanding career takes on Tennison's personal life, and the sacrifices she makes in pursuit of her duty.",
+        "categorized_keywords": {
+          "themes": [
+            "gender-equality",
+            "police-corruption",
+            "justice-system",
+            "professional-integrity",
+            "female-leadership",
+            "moral-ambiguity"
+          ],
+          "plot_and_concepts": [
+            "police-investigation",
+            "crime-procedural",
+            "serial-crime",
+            "interrogation-room",
+            "courtroom-drama"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "realistic",
+            "suspenseful",
+            "somber",
+            "dark"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "police-procedural",
+            "slow-burn",
+            "strong-female-lead"
+          ],
+          "setting": [
+            "modern-day",
+            "london-uk",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "anti-heroine",
+            "reluctant-hero",
+            "strong-female-lead",
+            "morally-gray-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "crime-scene",
+            "police-car",
+            "evidence-bag",
+            "interview-room"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "sexual-content",
+            "abuse-themes"
+          ]
+        },
+        "keyword_sentence": "Prime Suspect is a gritty and realistic crime drama series set in London, exploring themes of gender equality and professional integrity as a strong female lead navigates the complexities of a police investigation."
+      },
+      "duration_seconds": 63.74584984779358
+    }
+  }
+}

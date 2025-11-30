@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Ted Lasso",
+    "overview": "Ted Lasso, an American football coach, moves to England when he’s hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2020,
+    "vote_count": 1260
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Ted Lasso is a feel-good comedy-drama series centered on an American football coach who unexpectedly takes on the role of manager for a professional English soccer team. The show explores themes of optimism, empathy, and the power of human connection, often contrasting a relentlessly positive outlook with the cynicism and complexities of the world. It blends humor with genuine emotional depth, examining personal growth, team dynamics, and the challenges of adapting to new environments. The series offers a heartwarming and uplifting narrative, emphasizing the importance of kindness and believing in oneself and others.",
+        "spoiler_rich_plot_summary": "The series begins with Ted Lasso, a successful American football coach, being hired to manage AFC Richmond, a struggling English soccer team, as part of a scheme by the team's owner, Rebecca Welton, to sabotage the club. Rebecca intends to drive the team into the ground as revenge against her ex-husband, who previously owned the team. Ted, with his unwavering optimism and folksy charm, quickly clashes with the team's cynical players, the skeptical British media, and Rebecca herself. Over the course of the first season, Ted gradually wins over the players and begins to chip away at Rebecca's bitterness. The team faces relegation from the Premier League, but Ted's influence inspires a renewed sense of hope and camaraderie. Subsequent seasons delve deeper into the personal lives of the characters, revealing their vulnerabilities and past traumas. Rebecca confronts her own demons and begins to genuinely support the team. Key players like Roy Kent and Jamie Tartt undergo significant character arcs, evolving from abrasive rivals to valuable teammates. The series explores themes of forgiveness, redemption, and the importance of human connection, culminating in a hopeful, albeit bittersweet, resolution where the team faces an uncertain future but with a strengthened sense of unity and purpose.",
+        "categorized_keywords": {
+          "themes": [
+            "optimism",
+            "empathy",
+            "redemption",
+            "forgiveness",
+            "teamwork",
+            "personal-growth",
+            "friendship",
+            "sportsmanship"
+          ],
+          "plot_and_concepts": [
+            "fish-out-of-water",
+            "underdog-story",
+            "sports-drama",
+            "redemption-arc",
+            "rivalry-to-friendship"
+          ],
+          "mood_and_tone": [
+            "heartwarming",
+            "uplifting",
+            "humorous",
+            "sincere",
+            "feel-good"
+          ],
+          "genre_and_tropes": [
+            "sports-comedy",
+            "found-family",
+            "slow-burn-romance",
+            "mentor-student-relationship"
+          ],
+          "setting": [
+            "england",
+            "soccer-stadium",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "optimistic-hero",
+            "grumpy-mentor",
+            "arrogant-rival",
+            "complex-antagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "biscuits",
+            "believe-sign",
+            "locker-room",
+            "team-bus",
+            "match-day"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Ted Lasso is a heartwarming and humorous sports-comedy series set in England, exploring themes of optimism, friendship, and personal growth through the journey of an American football coach navigating the world of professional soccer."
+      },
+      "duration_seconds": 69.92638087272644
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "The Prisoner",
+    "overview": "After resigning, a secret agent is abducted and taken to what looks like an idyllic village, but is really a bizarre Kafkaesque prison. His warders demand information. He gives them nothing, but only tries to escape.",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Mystery"
+    ],
+    "release_year": 1967,
+    "vote_count": 159
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Prisoner is a surreal and enigmatic British television series exploring themes of identity, freedom, and the dangers of conformity. Set in a mysterious village, a former intelligence agent is held captive and relentlessly interrogated, resisting all attempts to break his spirit. The show's ambiguous setting and unconventional narrative style create a pervasive sense of paranoia and disorientation, challenging viewers to question the nature of authority and the value of individuality. Its experimental approach to storytelling and its philosophical depth have made it a cult classic, influencing countless works of art and media.",
+        "spoiler_rich_plot_summary": "The series begins with a high-ranking British intelligence agent abruptly resigning and being immediately abducted. He awakens in a seemingly idyllic village, 'The Village,' where he is held prisoner. He is assigned a number, 'Number Six,' and subjected to constant surveillance and psychological manipulation by the enigmatic 'Number One,' who represents the unseen authority. Throughout his captivity, Number Six attempts numerous escapes, each thwarted by increasingly elaborate and bizarre methods. He encounters a rotating cast of fellow prisoners, each with their own stories and motivations, some aiding his efforts, others hindering them. The nature of The Village and the identities of its inhabitants remain deliberately ambiguous, blurring the lines between reality and illusion. Number Six's resistance sparks a series of escalating conflicts, revealing deeper layers of conspiracy and challenging the very foundations of his understanding of the world. The series culminates in a final confrontation that questions the true meaning of freedom and the nature of control, leaving the audience to ponder the ultimate fate of Number Six and the enduring power of the system.",
+        "categorized_keywords": {
+          "themes": [
+            "identity-crisis",
+            "freedom-vs-control",
+            "conformity",
+            "paranoia",
+            "resistance",
+            "memory",
+            "truth-vs-illusion"
+          ],
+          "plot_and_concepts": [
+            "psychological-thriller",
+            "captivity",
+            "surveillance",
+            "mind-control",
+            "mystery",
+            "conspiracy"
+          ],
+          "mood_and_tone": [
+            "surreal",
+            "enigmatic",
+            "disturbing",
+            "claustrophobic",
+            "philosophical"
+          ],
+          "genre_and_tropes": [
+            "spy-thriller",
+            "science-fiction",
+            "absurdist-humor",
+            "dystopian"
+          ],
+          "setting": [
+            "village-setting",
+            "alternate-reality",
+            "cold-war-era"
+          ],
+          "character_archetypes": [
+            "rebel",
+            "authority-figure",
+            "enigmatic-villain",
+            "prisoner"
+          ],
+          "narrative_style": [
+            "episodic",
+            "non-linear-narrative",
+            "experimental-tv"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "number-six",
+            "number-one",
+            "village-gates",
+            "interrogation-room",
+            "white-tunic"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Prisoner is a surreal and enigmatic British television series that explores themes of identity and freedom within a dystopian setting, utilizing experimental storytelling to create a deeply unsettling and philosophical viewing experience."
+      },
+      "duration_seconds": 65.06721806526184
+    }
+  }
+}

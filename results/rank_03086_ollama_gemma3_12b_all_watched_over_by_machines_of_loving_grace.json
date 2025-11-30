@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "All Watched Over by Machines of Loving Grace",
+    "overview": "We have been colonised by the machines we have built. Although we don't realise it, the way we see everything in the world today is through the eyes of the computers.",
+    "genres": [
+      "Documentary"
+    ],
+    "release_year": 2011,
+    "vote_count": 45
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "All Watched Over by Machines of Loving Grace is a documentary exploring the unintended consequences of early computer programming and the shift in human perception influenced by algorithms. It posits that the values and biases of the original programmers have subtly shaped our understanding of the world, leading to a pervasive sense of alienation and a loss of agency. The film blends historical footage, interviews with key figures in computer science, and philosophical reflections to examine the complex relationship between technology, ideology, and human consciousness. It offers a cautionary tale about the potential for technology to shape our reality in ways we may not fully comprehend, prompting viewers to question the nature of control and the future of human autonomy.",
+        "spoiler_rich_plot_summary": "The documentary traces the evolution of computer programming from its idealistic beginnings in the 1960s, when programmers envisioned technology as a tool for liberation and social progress. It highlights the shift towards more complex and opaque algorithms, driven by commercial interests and a desire for greater efficiency. The film reveals how early programming languages, initially designed to be transparent and accessible, gradually became more abstract and proprietary, limiting public understanding of their inner workings. Through interviews with pioneers like Alan Kay and Stewart Brand, the documentary exposes how the values embedded in these early systems – often reflecting a particular worldview or set of assumptions – have subtly influenced our perception of reality. The narrative culminates in a reflection on the current state of technology, where algorithms increasingly govern our lives, often without our awareness or consent, raising profound questions about the future of human agency and the potential for a technologically mediated dystopia.",
+        "categorized_keywords": {
+          "themes": [
+            "technology-and-society",
+            "algorithmic-bias",
+            "loss-of-agency",
+            "ideology",
+            "control",
+            "human-consciousness"
+          ],
+          "plot_and_concepts": [
+            "computer-programming",
+            "algorithmic-governance",
+            "early-computing",
+            "proprietary-software",
+            "digital-ideology"
+          ],
+          "mood_and_tone": [
+            "thought-provoking",
+            "critical",
+            "reflective",
+            "cautionary"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "technological-critique",
+            "social-commentary"
+          ],
+          "setting": [
+            "1960s",
+            "digital-age",
+            "computer-science"
+          ],
+          "character_archetypes": [
+            "computer-pioneer",
+            "technological-visionary"
+          ],
+          "narrative_style": [
+            "historical-analysis",
+            "interview-driven"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "technology-enthusiasts"
+          ],
+          "detail_plot": [
+            "early-programming-languages",
+            "computer-terminals",
+            "punch-cards",
+            "mainframe-computers"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "This documentary critically examines how early computer programming, driven by idealistic visions, has subtly shaped human perception and raised concerns about algorithmic bias and the potential loss of agency in a technologically mediated world."
+      },
+      "duration_seconds": 60.33076357841492
+    }
+  }
+}

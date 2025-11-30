@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "The Lazarus Project",
+    "overview": "George wakes up to find himself several months in the past before being recruited for the Lazarus Project – a secret organisation that turns back time when the world is at threat of extinction.",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Action & Adventure"
+    ],
+    "release_year": 2022,
+    "vote_count": 78
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Lazarus Project is a British science fiction drama series centered on a man who discovers he's been recruited into a clandestine organization dedicated to repeatedly resetting time to prevent global catastrophes. The series blends action, suspense, and philosophical questions about free will and the consequences of altering the past. It explores themes of identity, sacrifice, and the burden of responsibility as the protagonist grapples with the moral implications of his actions and the fractured nature of his own timeline. The show maintains a fast-paced narrative with a focus on character development and the escalating stakes of preventing increasingly complex threats.",
+        "spoiler_rich_plot_summary": "George Blue discovers he's been repeatedly reliving the same period of time after a seemingly random event. He's then recruited into The Lazarus Project, a secretive organization led by Miriam Bellweather, who explains that they use a device to rewind time and prevent global disasters. George learns that he is not the first 're-starter' and that the process is taking a toll on his memory and mental state. As the team confronts various threats, they uncover a deeper conspiracy within the organization itself, revealing that Miriam's motivations are not as altruistic as they appear. The team faces internal conflicts and betrayals as they struggle to understand the true nature of the Lazarus Protocol and the forces manipulating them. George's past is revealed to be more intertwined with the project than he initially believed, and he must confront his own personal demons while battling to save the world from impending doom. The series culminates in a confrontation with a powerful adversary who seeks to exploit the time-rewinding technology for their own nefarious purposes, forcing George and his team to make difficult choices with potentially devastating consequences for the timeline.",
+        "categorized_keywords": {
+          "themes": [
+            "time-travel",
+            "free-will",
+            "identity-crisis",
+            "sacrifice",
+            "moral-responsibility",
+            "conspiracy"
+          ],
+          "plot_and_concepts": [
+            "time-loop",
+            "alternate-timeline",
+            "secret-organization",
+            "global-threat",
+            "memory-loss"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "fast-paced",
+            "thrilling"
+          ],
+          "genre_and_tropes": [
+            "sci-fi-thriller",
+            "action-adventure",
+            "found-family",
+            "secret-society"
+          ],
+          "setting": [
+            "modern-day",
+            "london-uk"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "enigmatic-mentor",
+            "anti-villain"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "time-rewinding-device",
+            "secret-lab",
+            "flashback-sequence"
+          ],
+          "maturity_and_content": [
+            "violence"
+          ]
+        },
+        "keyword_sentence": "The Lazarus Project is a suspenseful sci-fi thriller set in modern-day London, where a secret organization repeatedly rewinds time to prevent global threats, forcing a reluctant hero to confront his identity and the moral responsibility of altering the timeline."
+      },
+      "duration_seconds": 69.82996010780334
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Joan of Arc",
+    "overview": "Joan of Arc is born in 1412 in the village of Domrémy in the war zone of Northern France. During her youth she often witnesses the horrors of war, but her spirit is kept high by the legend of the Maiden of Lorraine. This says that a young maiden one day will unite the divided country and lead the people to freedom.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 1999,
+    "vote_count": 60
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Joan of Arc is a historical drama chronicling the life of the iconic French heroine. The series explores Joan's journey from a young peasant girl to a pivotal figure in the Hundred Years' War, examining her faith, her visions, and her role in rallying a fractured nation. The narrative blends historical accuracy with dramatic storytelling, portraying the political intrigue and religious fervor of 15th-century France. It's a character-driven story focused on Joan's internal struggles and the immense pressure she faces as she attempts to fulfill what she believes to be a divine mission. The series aims to portray a complex portrait of a woman who defied societal norms and left an indelible mark on history.",
+        "spoiler_rich_plot_summary": "The series begins with Joan's childhood in Domrémy, where she experiences the devastation of war firsthand. As she grows, she begins to receive visions and hears voices that she believes are divine, urging her to aid the Dauphin, Charles, in reclaiming the French throne from the English. Joan travels to Vaucouleurs and convinces Robert de Baudricourt to provide her with an escort to Chinon, where she meets Charles. After proving her identity to Charles, she is given command of a French army and leads them to victory at Orléans, significantly boosting French morale and turning the tide of the war. Joan continues to lead French forces, liberating several cities and paving the way for Charles's coronation at Reims. However, her successes are met with political maneuvering and betrayal. Joan is eventually captured by Burgundian forces, sold to the English, and put on trial for heresy. Despite her impassioned defense, she is found guilty and burned at the stake. Years later, Charles, now King, initiates a posthumous inquiry into Joan's trial, which ultimately declares her innocent and recognizes her as a saint.",
+        "categorized_keywords": {
+          "themes": [
+            "faith",
+            "divine-mission",
+            "nationalism",
+            "political-intrigue",
+            "redemption",
+            "martyrdom",
+            "war-and-conflict",
+            "social-justice"
+          ],
+          "plot_and_concepts": [
+            "historical-drama",
+            "courtroom-drama",
+            "posthumous-inquiry",
+            "religious-persecution",
+            "trial-by-ordeal"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "epic",
+            "tragic",
+            "historical"
+          ],
+          "genre_and_tropes": [
+            "historical-fiction",
+            "biopic",
+            "war-epic"
+          ],
+          "setting": [
+            "15th-century-france",
+            "medieval-europe",
+            "domremy"
+          ],
+          "character_archetypes": [
+            "martyr",
+            "prophet",
+            "reluctant-hero",
+            "corrupt-politician"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "biographical"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "burning-at-the-stake",
+            "coronation-ceremony",
+            "trial-record",
+            "medieval-armor",
+            "royal-court"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "religious-themes"
+          ]
+        },
+        "keyword_sentence": "Joan of Arc is a somber historical drama set in 15th-century France, exploring themes of faith, nationalism, and martyrdom as a young woman rises to become a pivotal figure in a war-torn nation."
+      },
+      "duration_seconds": 74.6700382232666
+    }
+  }
+}

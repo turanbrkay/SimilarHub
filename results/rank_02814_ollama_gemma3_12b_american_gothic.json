@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "American Gothic",
+    "overview": "A prominent Boston family attempts to redefine itself in the wake of a chilling discovery that links their recently deceased patriarch to a string of murders spanning decades — amid the mounting suspicion that one of them may have been his accomplice.",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2016,
+    "vote_count": 54
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "American Gothic is a dark and suspenseful drama series that explores the disintegration of a seemingly respectable Boston family as they grapple with the shocking revelation of their father's dark past. The series blends elements of mystery, psychological thriller, and family drama, creating a tense atmosphere of suspicion and paranoia. As the family investigates their father's crimes, they are forced to confront their own secrets and question their identities, leading to a complex examination of legacy, morality, and the fragility of the American dream. The series maintains a slow-burn pace, emphasizing character development and psychological tension over immediate action.",
+        "spoiler_rich_plot_summary": "The series begins with the sudden death of Thomas Jefferson, the patriarch of the wealthy and influential Jefferson family. His death triggers a chain of events that unravels the family's carefully constructed facade of respectability. As the family begins to investigate their father's past, they uncover a disturbing pattern of unsolved murders spanning decades, all seemingly connected to Thomas. The investigation reveals that Thomas was a meticulous and manipulative man who had built his empire on a foundation of lies and violence. As the family delves deeper, they discover that one of them may have been an accomplice to his crimes, creating a web of suspicion and betrayal. The series follows the Jefferson siblings as they confront their father's legacy and attempt to clear their names, while also battling their own inner demons and the weight of their family's dark secrets. The truth about Thomas's crimes and the identity of his accomplice remains elusive, leading to a tense and unpredictable climax where the family's bonds are tested to their breaking point.",
+        "categorized_keywords": {
+          "themes": [
+            "family-secrets",
+            "legacy-of-crime",
+            "moral-corruption",
+            "identity-crisis",
+            "class-privilege",
+            "guilt-and-redemption"
+          ],
+          "plot_and_concepts": [
+            "cold-case-investigation",
+            "serial-killer",
+            "whodunit",
+            "family-dynasty",
+            "false-accusation"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "suspenseful",
+            "paranoia",
+            "tense",
+            "brooding"
+          ],
+          "genre_and_tropes": [
+            "mystery-thriller",
+            "family-drama",
+            "psychological-thriller",
+            "whodunit"
+          ],
+          "setting": [
+            "boston-massachusetts",
+            "modern-day",
+            "wealthy-suburbs"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "morally-gray-protagonist",
+            "dutiful-daughter",
+            "troubled-son"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "slow-burn",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "jefferson-mansion",
+            "police-evidence",
+            "family-portrait",
+            "courtroom-scene"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "suspense",
+            "dark-themes"
+          ]
+        },
+        "keyword_sentence": "American Gothic is a dark and suspenseful mystery-thriller set in modern-day Boston, exploring themes of family secrets, moral corruption, and the weight of a dark legacy within a wealthy family."
+      },
+      "duration_seconds": 72.26466751098633
+    }
+  }
+}

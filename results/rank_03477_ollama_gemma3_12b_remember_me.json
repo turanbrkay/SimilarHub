@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Remember Me",
+    "overview": "Tom Parfitt fakes an injury in order to escape from his monotonous lifestyle and head to a care center. However, upon his arrival, the staff experiences several strange instances, including a murder.",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2014,
+    "vote_count": 36
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Remember Me is a British mystery drama series that explores themes of identity, deception, and the fragility of memory. The series follows a man who fabricates an injury to escape his life and infiltrates a care center, only to uncover a web of secrets and a potential murder. The narrative unfolds with a suspenseful tone, blending elements of psychological thriller and social commentary, as the protagonist navigates a world of vulnerable individuals and hidden agendas. The series examines the complexities of human nature and the lengths people will go to protect their secrets.",
+        "spoiler_rich_plot_summary": "The series begins with Tom Parfitt, a man deeply dissatisfied with his life, staging an injury to gain entry to a care center. He intends to live a new life, free from his previous constraints. However, upon arrival, he discovers that the care center is rife with unusual occurrences and a palpable sense of unease. As Tom integrates himself into the environment, he begins to suspect that something sinister is afoot, and the seemingly idyllic setting hides a dark secret. A murder occurs, further escalating the tension and drawing Tom deeper into the mystery. He must unravel the truth behind the death while simultaneously maintaining his false identity and avoiding suspicion from the staff and residents. The investigation reveals a complex network of relationships and hidden motives, with several individuals potentially involved in the crime. Tom's carefully constructed facade is constantly threatened as he attempts to expose the truth and bring the perpetrator to justice, all while confronting his own moral compromises and the consequences of his deception.",
+        "categorized_keywords": {
+          "themes": [
+            "identity-deception",
+            "moral-compromise",
+            "social-isolation",
+            "memory-loss",
+            "vulnerability",
+            "class-disparity"
+          ],
+          "plot_and_concepts": [
+            "false-identity",
+            "mystery-thriller",
+            "crime-investigation",
+            "whodunit",
+            "undercover-operation"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "tense",
+            "unsettling",
+            "psychological-thriller"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "mystery",
+            "drama",
+            "undercover-story"
+          ],
+          "setting": [
+            "care-center",
+            "modern-day",
+            "rural-england"
+          ],
+          "character_archetypes": [
+            "deceptive-protagonist",
+            "vulnerable-victim",
+            "enigmatic-authority",
+            "morally-grey-character"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "mystery-driven",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "care-center-building",
+            "medical-records",
+            "security-cameras",
+            "patient-rooms"
+          ],
+          "maturity_and_content": [
+            "deception",
+            "suspense"
+          ]
+        },
+        "keyword_sentence": "Remember Me is a suspenseful British drama series that explores themes of deception and vulnerability within the unsettling setting of a care center, unraveling a mystery driven by a false identity and a web of hidden agendas."
+      },
+      "duration_seconds": 59.67788910865784
+    }
+  }
+}

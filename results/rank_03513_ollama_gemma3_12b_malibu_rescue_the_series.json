@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "Malibu Rescue: The Series",
+    "overview": "On the heels of Junior Rescue training, Team Flounder returns to brave the beach in a series of thrilling saves and lighthearted laughs.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2019,
+    "vote_count": 35
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Malibu Rescue: The Series is a lighthearted comedy series centered around a team of junior lifeguards navigating the challenges of rescue work and personal growth. The show blends action and humor, focusing on teamwork, friendship, and overcoming obstacles in a sunny California setting. It aims to provide family-friendly entertainment with a focus on positive values and a breezy, optimistic tone. The series emphasizes the importance of perseverance and the rewards of working together to achieve common goals, appealing to a younger audience and their families.",
+        "spoiler_rich_plot_summary": "The series follows the newly formed Team Flounder, a group of junior lifeguards eager to prove themselves. Initially, they struggle to coordinate and often find themselves in comical situations due to their inexperience. Throughout the series, they face various rescue scenarios, from lost swimmers to dangerous marine life encounters, learning valuable lessons about responsibility and quick thinking. As they gain experience, the team members confront personal challenges and develop stronger bonds, navigating friendships and rivalries. The overarching narrative involves the team striving to earn the respect of their senior colleagues and ultimately proving their worth as a vital part of the Malibu Rescue operation. While facing setbacks and humorous mishaps, the team consistently demonstrates resilience and a commitment to protecting the beach and its visitors, culminating in a greater sense of confidence and camaraderie.",
+        "categorized_keywords": {
+          "themes": [
+            "teamwork",
+            "friendship",
+            "responsibility",
+            "perseverance",
+            "coming-of-age"
+          ],
+          "plot_and_concepts": [
+            "rescue-operation",
+            "beach-setting",
+            "junior-lifeguards",
+            "coming-of-age-story"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "optimistic",
+            "humorous",
+            "family-friendly"
+          ],
+          "genre_and_tropes": [
+            "comedy",
+            "family-comedy",
+            "coming-of-age",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "california-beach",
+            "malibu",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "young-hero",
+            "team-leader",
+            "supportive-friend"
+          ],
+          "narrative_style": [
+            "episodic",
+            "serialized-story"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "rescue-buoy",
+            "lifeguard-tower",
+            "surfboard",
+            "beach-umbrella"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Malibu Rescue: The Series is a lighthearted family comedy about a team of junior lifeguards who learn the importance of teamwork and responsibility while navigating the challenges of rescue work and personal growth on the sunny California beach."
+      },
+      "duration_seconds": 52.901702880859375
+    }
+  }
+}

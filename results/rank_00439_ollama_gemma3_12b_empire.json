@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Empire",
+    "overview": "A powerful family drama about the head of a music empire whose three sons and ex-wife all battle for his throne.",
+    "genres": "Drama",
+    "release_year": 2015,
+    "vote_count": 697
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Empire is a family drama centered on the succession struggle within a powerful music label. The series blends elements of hip-hop culture, crime, and melodrama, exploring themes of ambition, loyalty, and the complexities of familial relationships. It offers a heightened, operatic viewing experience, characterized by intense emotional stakes and a soundtrack of original music. The show examines the intersection of business, power, and personal lives, often blurring the lines between right and wrong.",
+        "spoiler_rich_plot_summary": "The series begins with Lucious Lyon, the ruthless CEO of Empire Entertainment, announcing his intention to retire and name his successor. This sparks a fierce competition among his three sons: Andre, a calculating financial whiz; Jamal, a musically gifted but emotionally fragile young man; and Hakeem, a brash and ambitious rapper. Lucious’s estranged ex-wife, Cookie Lyon, is released from prison and immediately throws her support behind her sons, complicating the succession battle and challenging Lucious’s control. Throughout the series, the Lyon family navigates betrayals, power struggles, and legal battles, all while trying to maintain their empire’s dominance in the music industry. Alliances shift, secrets are revealed, and the characters grapple with their past traumas and present ambitions. The series explores the consequences of Lucious’s choices and the impact they have on his children, ultimately leading to a complex and often tragic resolution where the future of Empire Entertainment hangs in the balance.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "power-struggle",
+            "ambition",
+            "loyalty",
+            "redemption",
+            "legacy",
+            "betrayal",
+            "revenge"
+          ],
+          "plot_and_concepts": [
+            "succession-plot",
+            "music-industry",
+            "crime-drama",
+            "legal-battles",
+            "hip-hop-culture"
+          ],
+          "mood_and_tone": [
+            "melodramatic",
+            "suspenseful",
+            "gritty",
+            "emotional",
+            "operatic"
+          ],
+          "genre_and_tropes": [
+            "family-saga",
+            "crime-procedural",
+            "music-drama",
+            "rags-to-riches"
+          ],
+          "setting": [
+            "modern-day",
+            "chicago-city",
+            "music-label"
+          ],
+          "character_archetypes": [
+            "ruthless-ceo",
+            "estranged-ex-wife",
+            "reluctant-hero",
+            "ambitious-heir"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "music-studio",
+            "courtroom",
+            "prison-cell",
+            "recording-contract"
+          ],
+          "maturity_and_content": [
+            "substance-abuse",
+            "violence",
+            "sexual-content"
+          ]
+        },
+        "keyword_sentence": "Empire is a gritty, emotional drama centered on a powerful family’s struggle for control of a music empire, exploring themes of ambition, loyalty, and betrayal within a modern-day setting."
+      },
+      "duration_seconds": 111.66684079170227
+    }
+  }
+}

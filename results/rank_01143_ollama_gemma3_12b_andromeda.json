@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "Andromeda",
+    "overview": "Captain Dylan Hunt and his crew quest to restore a government that once presided over an extended peace and prosperity.",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2000,
+    "vote_count": 217
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Andromeda is a space opera series centered on Captain Dylan Hunt's decades-long journey to reunite the fragmented systems of the Andromeda Galaxy. Following a catastrophic event that shattered the ruling authority, Hunt emerges from suspended animation to find a galaxy in chaos, plagued by warring factions and technological regression. The series blends action-adventure with political intrigue and philosophical exploration, examining themes of leadership, morality, and the challenges of rebuilding civilization. It offers a blend of large-scale space battles and character-driven narratives, exploring the complexities of restoring order and the sacrifices required to achieve it.",
+        "spoiler_rich_plot_summary": "The series begins with Captain Dylan Hunt, a captain in the Systems Commonwealth Navy, being lost in time after a devastating attack that destroys the Commonwealth and plunges the galaxy into a dark age. He awakens 300 years later to find a fragmented and lawless galaxy, ruled by warring factions and lacking the advanced technology and unified governance he knew. Hunt, accompanied by a diverse crew he gathers along the way, embarks on a quest to find the lost High Guard, the key to restoring the Commonwealth. His journey takes him across numerous star systems, encountering various cultures and confronting powerful adversaries who seek to exploit the chaos for their own gain. As Hunt and his crew work to reunite the systems, they uncover secrets about the Commonwealth's downfall and the true nature of the forces that seek to prevent its restoration. The quest involves difficult choices and moral compromises, as Hunt struggles to balance his ideals with the realities of a fractured galaxy. Ultimately, he faces a reckoning with his past and the legacy of the Commonwealth, paving the way for a potential future, though the path remains fraught with peril and uncertainty.",
+        "categorized_keywords": {
+          "themes": [
+            "leadership",
+            "morality",
+            "rebuilding-civilization",
+            "political-intrigue",
+            "loss",
+            "redemption",
+            "duty",
+            "sacrifice"
+          ],
+          "plot_and_concepts": [
+            "space-opera",
+            "time-travel",
+            "galactic-empire",
+            "lost-technology",
+            "political-reconstruction",
+            "warring-factions"
+          ],
+          "mood_and_tone": [
+            "epic",
+            "hopeful",
+            "somber",
+            "adventurous",
+            "philosophical"
+          ],
+          "genre_and_tropes": [
+            "sci-fi",
+            "action-adventure",
+            "galactic-exploration",
+            "found-family",
+            "hero-journey"
+          ],
+          "setting": [
+            "space",
+            "andromeda-galaxy",
+            "future",
+            "post-apocalyptic"
+          ],
+          "character_archetypes": [
+            "hero",
+            "captain",
+            "mentor",
+            "diverse-crew"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "quest-narrative"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "starship",
+            "advanced-technology",
+            "galactic-map",
+            "diplomatic-negotiations"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Andromeda is a sweeping space opera series that follows a captain's quest to rebuild a shattered galactic empire, blending action-adventure with philosophical themes of leadership and morality in a post-apocalyptic future."
+      },
+      "duration_seconds": 68.16042375564575
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "input_data": {
+    "title": "David Copperfield",
+    "overview": "Charles Dickens' haunting semi-autobiographical tale of a boy who is sent away by his stepfather after his mother dies but manages to triumph over incredible adversities.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 1999,
+    "vote_count": 49
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "David Copperfield is a period drama adaptation of Charles Dickens' semi-autobiographical novel, exploring themes of childhood trauma, social injustice, and the search for identity. The series follows the protagonist's journey from a vulnerable young boy to a struggling adult, navigating complex relationships and enduring hardship. It offers a poignant and often melancholic portrayal of Victorian England, examining the impact of class and circumstance on individual lives. The narrative blends elements of social commentary with a coming-of-age story, creating a deeply emotional and resonant viewing experience.",
+        "spoiler_rich_plot_summary": "The story begins with young David Copperfield's idyllic childhood, abruptly shattered by his mother's death and his subsequent neglect by his cruel stepfather, Mr. Murdstone. He is sent away to work in a bottle factory in London, enduring harsh conditions and exploitation. He is eventually rescued by his eccentric but kind-hearted Aunt Betsey Trotwood, who provides him with education and a home. David experiences a series of romantic entanglements, including a brief engagement to the manipulative Dora Spenlow, whose impracticality leads to their eventual unhappiness. He also develops a complex relationship with his friend James Steerforth, whose reckless behavior leads to tragic consequences. Throughout his life, David confronts social injustices and witnesses the suffering of others, ultimately finding a measure of happiness and professional success as an author, and finding love with Agnes Wickfield, a woman of unwavering moral character.",
+        "categorized_keywords": {
+          "themes": [
+            "childhood-trauma",
+            "social-injustice",
+            "coming-of-age",
+            "loss-and-grief",
+            "redemption",
+            "class-conflict",
+            "moral-development"
+          ],
+          "plot_and_concepts": [
+            "bildungsroman",
+            "romantic-relationships",
+            "social-commentary",
+            "coming-of-age-story"
+          ],
+          "mood_and_tone": [
+            "melancholic",
+            "poignant",
+            "reflective",
+            "somber"
+          ],
+          "genre_and_tropes": [
+            "period-drama",
+            "victorian-era",
+            "bildungsroman"
+          ],
+          "setting": [
+            "victorian-england",
+            "london-england"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "eccentric-mentor",
+            "manipulative-villain",
+            "moral-compass"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "first-person-narration"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "bottle-factory",
+            "wickfield-manor",
+            "agnes-wickfield",
+            "dora-spenlow"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "David Copperfield is a poignant period drama set in Victorian England, exploring themes of childhood trauma, loss, and moral development through the coming-of-age journey of a young man navigating social injustice and complex relationships."
+      },
+      "duration_seconds": 57.13471174240112
+    }
+  }
+}

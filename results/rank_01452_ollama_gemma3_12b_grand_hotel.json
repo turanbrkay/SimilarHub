@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Grand Hotel",
+    "overview": "Santiago Mendoza owns last family-owned hotel in multicultural Miami Beach, while his glamorous second wife, Gigi, and their adult children enjoy the spoils of success.",
+    "genres": [
+      "Drama",
+      "Crime",
+      "Mystery"
+    ],
+    "release_year": 2019,
+    "vote_count": 152
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Grand Hotel is a drama series centered around the Mendoza family, owners of the last family-owned hotel in Miami Beach. The series explores themes of wealth, family secrets, and criminal activity within the opulent setting of a luxury hotel. It blends elements of crime, mystery, and drama, creating a suspenseful atmosphere as the Mendozas navigate personal and professional challenges while concealing a complex web of past events. The show examines the dynamics of a wealthy family and the consequences of their actions, offering a glimpse into the lives of both the owners and the staff of a high-end establishment.",
+        "spoiler_rich_plot_summary": "The series begins with Santiago Mendoza seemingly at the peak of his success, owning the Grand Hotel. However, the idyllic facade quickly crumbles as secrets from his past resurface, threatening to unravel his empire and his family. A former employee, Luisa, returns seeking answers about a past tragedy linked to the hotel, exposing long-buried truths about Santiago's involvement in illegal activities and the circumstances surrounding his first wife's death. As Luisa investigates, she uncovers a network of corruption and deceit within the hotel, involving other family members and staff. Santiago's second wife, Gigi, is revealed to be manipulative and ambitious, actively working to secure her position and influence within the family. The series follows the Mendozas as they grapple with these revelations, facing betrayals, shifting alliances, and the constant threat of exposure. The investigation into the past leads to confrontations and dangerous situations, forcing the characters to make difficult choices that impact their futures and the fate of the Grand Hotel. Ultimately, the series explores the consequences of greed, ambition, and the lengths to which people will go to protect their secrets.",
+        "categorized_keywords": {
+          "themes": [
+            "family-secrets",
+            "wealth-and-power",
+            "corruption",
+            "redemption",
+            "betrayal",
+            "greed"
+          ],
+          "plot_and_concepts": [
+            "crime-drama",
+            "mystery-thriller",
+            "hotel-setting",
+            "investigation",
+            "family-business"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "glamorous",
+            "tense"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "soap-opera",
+            "family-drama"
+          ],
+          "setting": [
+            "miami-beach",
+            "modern-day",
+            "luxury-hotel"
+          ],
+          "character_archetypes": [
+            "corrupt-businessman",
+            "manipulative-wife",
+            "investigative-protagonist",
+            "enigmatic-figure"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "hotel-lobby",
+            "swimming-pool",
+            "penthouse-suite",
+            "security-cameras",
+            "hotel-staff"
+          ],
+          "maturity_and_content": [
+            "crime",
+            "deception"
+          ]
+        },
+        "keyword_sentence": "Grand Hotel is a suspenseful drama series set in a glamorous Miami Beach hotel, exploring themes of family secrets, corruption, and betrayal within a wealthy family’s complex business."
+      },
+      "duration_seconds": 71.74077916145325
+    }
+  }
+}

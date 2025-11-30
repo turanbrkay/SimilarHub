@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Wu-Tang: An American Saga",
+    "overview": "In the early 1990s in New York, during the height of the crack cocaine epidemic, a visionary musician named Bobby Diggs aka The RZA begins to form a super group of a dozen young, black men, who will eventually rise to become one of the unlikeliest success stories in American music history.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2019,
+    "vote_count": 205
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Wu-Tang: An American Saga is a drama series chronicling the formation of the Wu-Tang Clan in early 1990s New York City. The show blends elements of crime drama, music biopic, and coming-of-age story, exploring the social and economic hardships that shaped the group's members and fueled their ambition. It portrays the struggles of young men navigating poverty, violence, and the drug trade while striving for artistic expression and a path to success. The series emphasizes the importance of family, loyalty, and the power of music as a means of escape and empowerment, offering a gritty and authentic portrayal of a pivotal moment in hip-hop history.",
+        "spoiler_rich_plot_summary": "The series begins with Bobby Diggs, later known as RZA, a young man struggling to survive in Staten Island amidst the crack epidemic. He uses music as an outlet, initially selling bootleg tapes and seeking ways to provide for his family. As he connects with other talented individuals – including Raekwon, GZA, Method Man, Ol’ Dirty Bastard, and Ghostface Killah – he begins to envision a collective, a group that can transcend their circumstances. The early episodes focus on the challenges of assembling the crew, navigating conflicts, and finding a unique sound. The group faces numerous obstacles, including rival gangs, police scrutiny, and internal disagreements about their artistic direction and business dealings. As their music gains traction, they encounter both opportunities and betrayals, forcing them to make difficult choices about their future. The series culminates in the group’s initial breakthrough, showcasing their resilience and the power of their shared vision, while hinting at the complexities and potential pitfalls that lie ahead as they transition from obscurity to a burgeoning music empire.",
+        "categorized_keywords": {
+          "themes": [
+            "family-loyalty",
+            "social-economic-struggle",
+            "artistic-expression",
+            "redemption",
+            "ambition",
+            "coming-of-age"
+          ],
+          "plot_and_concepts": [
+            "crime-drama",
+            "music-biopic",
+            "gang-rivalry",
+            "bootlegging",
+            "rise-to-fame"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "authentic",
+            "hopeful",
+            "nostalgic"
+          ],
+          "genre_and_tropes": [
+            "hip-hop",
+            "coming-of-age-story",
+            "underdog-story"
+          ],
+          "setting": [
+            "new-york-city",
+            "staten-island",
+            "1990s"
+          ],
+          "character_archetypes": [
+            "visionary-leader",
+            "struggling-artist",
+            "street-hustler",
+            "mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "bootleg-tapes",
+            "hip-hop-beats",
+            "street-corner",
+            "record-studio"
+          ],
+          "maturity_and_content": [
+            "drug-abuse",
+            "violence",
+            "gang-activity"
+          ]
+        },
+        "keyword_sentence": "Wu-Tang: An American Saga is a gritty and authentic drama series set in 1990s New York City, exploring themes of family loyalty and artistic expression as a group of young men rise from social-economic struggle to hip-hop fame."
+      },
+      "duration_seconds": 69.79996180534363
+    }
+  }
+}

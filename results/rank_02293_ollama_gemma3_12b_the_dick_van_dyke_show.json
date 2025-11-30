@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "The Dick Van Dyke Show",
+    "overview": "The Dick Van Dyke Show centers around the work and home life of television comedy writer Rob Petrie. The plots generally revolve around problems at work, where Rob got into various comedic jams with fellow writers Buddy Sorrell, Sally Rogers and producer Mel Cooley.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 1961,
+    "vote_count": 78
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Dick Van Dyke Show is a classic American sitcom that humorously explores the intersection of professional and personal life. Centered around television comedy writer Rob Petrie, the series deftly balances workplace antics with domestic situations, showcasing the challenges and joys of family and career. The show's enduring appeal lies in its relatable characters, witty writing, and its ability to capture the spirit of 1960s American culture. It established a template for many sitcoms that followed, emphasizing character-driven comedy and observational humor.",
+        "spoiler_rich_plot_summary": "The series begins with Rob Petrie securing a writing position at WJM-TV, a local television station in New York City. He and his wife, Laura, navigate the complexities of their marriage while Rob contends with the eccentric personalities of his colleagues, including the ambitious and often antagonistic Buddy Sorrell and the perpetually exasperated producer, Mel Cooley. Throughout the series, Rob frequently finds himself in comical predicaments stemming from his attempts to balance his professional aspirations with his desire to be a good husband and father. Laura's career as a commercial artist provides another layer of complexity, as she strives for professional fulfillment while supporting Rob's ambitions. The show follows the family as they experience the everyday joys and frustrations of suburban life, dealing with issues like raising children, managing finances, and maintaining a harmonious relationship with their neighbors. While conflicts arise, they are typically resolved through humor and understanding, reinforcing the importance of family and communication. The show concludes with the Petries continuing to face the challenges of life with humor and resilience, their bond strengthened by the shared experiences they're navigating.",
+        "categorized_keywords": {
+          "themes": [
+            "family-life",
+            "marriage",
+            "career",
+            "suburban-life",
+            "communication",
+            "workplace-dynamics"
+          ],
+          "plot_and_concepts": [
+            "sitcom",
+            "workplace-comedy",
+            "domestic-comedy",
+            "misunderstandings",
+            "slapstick-humor"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "optimistic",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "classic-sitcom",
+            "family-sitcom",
+            "workplace-comedy"
+          ],
+          "setting": [
+            "1960s-america",
+            "new-york-city",
+            "suburban-home"
+          ],
+          "character_archetypes": [
+            "loving-husband",
+            "supportive-wife",
+            "eccentric-colleague",
+            "stern-boss"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "television-studio",
+            "suburban-house",
+            "office-cubicle",
+            "dinner-table"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Dick Van Dyke Show is a lighthearted and optimistic family sitcom set in 1960s America, exploring the humorous challenges of marriage, career, and suburban life through an ensemble cast."
+      },
+      "duration_seconds": 63.07895851135254
+    }
+  }
+}

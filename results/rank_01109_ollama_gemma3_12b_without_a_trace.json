@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Without a Trace",
+    "overview": "The series follows the ventures of a Missing Persons Unit of the FBI in New York City.",
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Action & Adventure",
+      "Drama"
+    ],
+    "release_year": 2002,
+    "vote_count": 226
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Without a Trace is a procedural drama series centered on a specialized FBI unit dedicated to locating missing persons in New York City. The show blends elements of crime investigation with emotional storytelling, focusing on the impact of disappearances on families and the dedication of the agents involved. Each episode typically presents a new case, exploring various theories and following leads while maintaining a consistent team dynamic and a focus on the human cost of loss. The series balances suspenseful investigations with character development, creating a compelling and often poignant viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with the introduction of the Missing Persons Unit, led by Jack Malone, a former NYPD detective haunted by a past case. The team, including Martin Bishop, Samantha Whitman, Danny Tower, and Elena Miró, tackles a new disappearance each episode, following leads across the country and often internationally. Recurring themes involve the psychological toll of the work on the agents, the complexities of family relationships, and the ethical dilemmas faced when dealing with desperate individuals. Throughout the series, personal storylines intertwine with the cases, revealing past traumas and shaping the agents' motivations. While each episode presents a standalone mystery, overarching narratives emerge, exploring the team's history and the challenges they face in a world where people vanish without a trace. The series explores the emotional impact of loss on the families of the missing and the dedication of the agents to bring closure, even when the odds are stacked against them. The team faces betrayals and personal sacrifices as they navigate the complexities of their work, ultimately striving to provide answers and solace to those left behind.",
+        "categorized_keywords": {
+          "themes": [
+            "loss",
+            "family-dynamics",
+            "hope",
+            "grief",
+            "justice",
+            "redemption",
+            "mystery"
+          ],
+          "plot_and_concepts": [
+            "missing-person",
+            "police-investigation",
+            "crime-procedural",
+            "serial-mystery",
+            "search-and-rescue"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "melancholy",
+            "poignant",
+            "serious",
+            "dramatic"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "procedural-drama",
+            "mystery-thriller",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "new-york-city",
+            "modern-day",
+            "united-states"
+          ],
+          "character_archetypes": [
+            "detective",
+            "agent",
+            "reluctant-hero",
+            "team-leader"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "missing-persons-file",
+            "crime-scene",
+            "search-warrant",
+            "police-badge"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Without a Trace is a suspenseful crime drama series set in modern-day New York City, following a dedicated team of FBI agents as they investigate missing-person cases and grapple with the emotional toll of their work."
+      },
+      "duration_seconds": 63.70951867103577
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "Jonathan Strange & Mr Norrell",
+    "overview": "With magic long since lost to England, two men are destined to bring it back; the reclusive Mr. Norrell and daring novice Jonathan Strange. So begins a dangerous battle between two great minds.",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2015,
+    "vote_count": 127
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Jonathan Strange & Mr Norrell is a historical fantasy series exploring the return of magic to 19th-century England. The narrative follows the complex relationship between two magicians, Mr. Norrell, a cautious and secretive scholar, and Jonathan Strange, a charismatic and adventurous novice. The series blends meticulous historical detail with fantastical elements, examining themes of ambition, legacy, and the dangers of unchecked power. It offers a slow-burn, atmospheric experience, rich in character development and steeped in a sense of melancholy and wonder.",
+        "spoiler_rich_plot_summary": "The series begins with Mr. Norrell, the last practicing magician in England, attempting to restore magic to the nation after centuries of absence. He hoards magical knowledge and carefully controls its reintroduction, fearing its potential for chaos. Jonathan Strange, a young man initially uninterested in magic, discovers a natural talent and becomes Norrell's pupil. Their partnership is initially successful, but their differing approaches to magic and their ambitions soon create conflict. Strange's growing power and his willingness to delve into darker, more dangerous forms of magic, particularly those connected to the mythical Raven King, lead to a rift between them. Strange's explorations inadvertently unleash ancient forces and draw the attention of the fae, leading to a series of increasingly perilous events. Norrell's attempts to control magic ultimately prove futile, and Strange must confront the consequences of his own actions and the legacy of the Raven King to restore balance and prevent England from falling into darkness. The series culminates in a confrontation that reshapes the magical landscape and leaves a lasting impact on both men.",
+        "categorized_keywords": {
+          "themes": [
+            "magic-and-power",
+            "ambition",
+            "legacy",
+            "identity-quest",
+            "duty-and-responsibility",
+            "loss-and-grief",
+            "historical-context"
+          ],
+          "plot_and_concepts": [
+            "historical-fantasy",
+            "magic-system",
+            "fae-mythology",
+            "alternate-history",
+            "mentor-student-relationship",
+            "political-intrigue"
+          ],
+          "mood_and_tone": [
+            "atmospheric",
+            "melancholy",
+            "slow-burn",
+            "mysterious",
+            "whimsical"
+          ],
+          "genre_and_tropes": [
+            "historical-drama",
+            "fantasy",
+            "coming-of-age",
+            "slow-burn-romance"
+          ],
+          "setting": [
+            "19th-century-england",
+            "london-city",
+            "rural-england",
+            "faerie-realm"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "eccentric-genius",
+            "ambitious-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "character-driven",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "magic-books",
+            "raven-king",
+            "faerie-bargain",
+            "london-streets",
+            "country-estate"
+          ],
+          "maturity_and_content": [
+            "supernatural-horror"
+          ]
+        },
+        "keyword_sentence": "Set in 19th-century England, Jonathan Strange & Mr Norrell is a slow-burn historical fantasy series exploring the return of magic and the complex relationship between two men, steeped in melancholy and rich with atmospheric detail."
+      },
+      "duration_seconds": 73.53745460510254
+    }
+  }
+}

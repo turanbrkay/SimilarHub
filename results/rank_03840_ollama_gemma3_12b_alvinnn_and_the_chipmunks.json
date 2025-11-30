@@ -1,0 +1,70 @@
+{
+  "input_data": {
+    "title": "Alvinnn!!! and The Chipmunks",
+    "overview": "Everyone's favorite chipmunks -- Alvin, Simon and Theodore -- are back in this computer-animated version of the classic animated series. The brothers are famous rock stars who tour around the world with their best friends, the Chipettes.",
+    "genres": [
+      "Animation"
+    ],
+    "release_year": 2015,
+    "vote_count": 30
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Alvinnn!!! and The Chipmunks is a computer-animated series that reimagines the classic animated franchise. The show follows the adventures of Alvin, Simon, and Theodore as they navigate the world of rock stardom alongside their female counterparts, the Chipettes. It's a lighthearted and comedic series geared towards a younger audience, blending music, slapstick humor, and simple storylines. The show emphasizes friendship, teamwork, and the joys of performing, offering a cheerful and accessible entertainment experience.",
+        "spoiler_rich_plot_summary": "The series begins with Alvin, Simon, and Theodore already established as internationally renowned rock stars, managed by their adoptive mother, David Seville. The Chipettes, Brittany, Jeanette, and Eleanor, are introduced as their female counterparts and frequent collaborators. Throughout the series, the Chipmunks and Chipettes embark on various tours and performances, encountering humorous situations and minor conflicts along the way. Episodes often revolve around the Chipmunks' mischievous antics and the challenges of balancing fame with friendship. While the series maintains a generally upbeat tone, occasional episodes explore themes of responsibility and the importance of working together to overcome obstacles. The Chipmunks and Chipettes consistently reaffirm their bond and continue their musical journey, solidifying their status as beloved entertainers.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "music",
+            "family",
+            "teamwork",
+            "fame"
+          ],
+          "plot_and_concepts": [
+            "musical-comedy",
+            "touring-performances",
+            "sibling-rivalry",
+            "animal-characters"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "cheerful"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "childrens-entertainment",
+            "musical-comedy"
+          ],
+          "setting": [
+            "modern-day",
+            "global-locations"
+          ],
+          "character_archetypes": [
+            "mischievous-protagonist",
+            "wise-mentor",
+            "supportive-sibling"
+          ],
+          "narrative_style": [
+            "episodic-storytelling"
+          ],
+          "target_audience": [
+            "children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "microphone",
+            "stage",
+            "tour-bus",
+            "musical-instrument"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "This lighthearted animated series follows the adventures of Alvin, Simon, and Theodore as they navigate the world of music and fame alongside the Chipettes, emphasizing friendship and wholesome family entertainment."
+      },
+      "duration_seconds": 65.51676535606384
+    }
+  }
+}

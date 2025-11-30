@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "The Walking Dead: World Beyond",
+    "overview": "A heroic group of teens sheltered from the dangers of the post-apocalyptic world receive a message that inspires them to leave the safety of the only home they have ever known and embark on a cross-country journey to find the one man who can possibly save the world.",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Mystery"
+    ],
+    "release_year": 2020,
+    "vote_count": 1043
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Walking Dead: World Beyond serves as a spin-off series within the larger Walking Dead universe, focusing on a new generation navigating a post-apocalyptic world. The narrative centers on a group of teenagers who, having grown up in a protected community, venture out on a perilous journey to find a mysterious figure believed to hold the key to saving humanity. The series explores themes of hope, resilience, and the challenges of forging one's own path in a world ravaged by a zombie apocalypse, blending elements of drama, science fiction, and mystery. It offers a more youthful perspective on the established Walking Dead formula, emphasizing character development and the search for a better future.",
+        "spoiler_rich_plot_summary": "The series begins with Hope, Silas, and Elodie living in the walled community of Campus, a seemingly idyllic haven protected from the undead. Their sheltered existence is disrupted when they receive a cryptic message from a man named Felix, a former Campus scientist who left years prior. Driven by a desire to find Felix and uncover the truth behind his departure, the trio, along with their friend Scout, defy the authority of their leader, Elizabeth, and embark on a cross-country journey. Their travels lead them through various dangerous territories, encountering hostile groups and uncovering the dark secrets of the Civic Republic, a seemingly advanced and organized settlement. They discover that the Civic Republic is not the utopia it appears to be, and that Felix’s research holds significant implications for the future of humanity. The group faces betrayals, losses, and moral dilemmas as they navigate the complexities of the post-apocalyptic world, ultimately confronting the consequences of their choices and the true nature of the threat they face. The series culminates in a confrontation with the Civic Republic’s leadership, revealing a larger conspiracy and setting the stage for a potential conflict.",
+        "categorized_keywords": {
+          "themes": [
+            "hope",
+            "resilience",
+            "coming-of-age",
+            "moral-dilemmas",
+            "found-family",
+            "post-apocalyptic-survival"
+          ],
+          "plot_and_concepts": [
+            "post-apocalyptic-zombies",
+            "mystery-quest",
+            "government-conspiracy",
+            "scientific-research",
+            "cross-country-journey"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "hopeful",
+            "tense"
+          ],
+          "genre_and_tropes": [
+            "post-apocalyptic",
+            "coming-of-age-story",
+            "mystery-thriller",
+            "zombie-horror"
+          ],
+          "setting": [
+            "post-apocalyptic-america",
+            "urban-decay",
+            "walled-community"
+          ],
+          "character_archetypes": [
+            "rebellious-teenager",
+            "wise-mentor",
+            "reluctant-hero",
+            "authority-figure"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult"
+          ],
+          "detail_plot": [
+            "walled-community",
+            "cryptic-message",
+            "zombie-herd",
+            "civic-republic-settlement"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "perilous-situations"
+          ]
+        },
+        "keyword_sentence": "The Walking Dead: World Beyond follows a group of young adults as they navigate a perilous, post-apocalyptic America, searching for hope and uncovering dark secrets in a world overrun by zombies and rife with moral dilemmas."
+      },
+      "duration_seconds": 58.246661901474
+    }
+  }
+}

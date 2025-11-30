@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "The New Adventures of Winnie the Pooh",
+    "overview": "An American animated children's television series inspired by A. A. Milne's Winnie-the-Pooh stories.",
+    "genres": [
+      "Family",
+      "Animation",
+      "Comedy",
+      "Kids"
+    ],
+    "release_year": 1988,
+    "vote_count": 212
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The New Adventures of Winnie the Pooh is a charming animated series designed for young children, drawing inspiration from A.A. Milne's classic stories. The show emphasizes friendship, problem-solving, and gentle humor through the adventures of Winnie the Pooh and his companions in the Hundred Acre Wood. It offers a comforting and predictable narrative structure, promoting positive social-emotional learning and providing a safe and engaging viewing experience for preschoolers. The series prioritizes heartwarming interactions and simple lessons over complex storylines, creating a consistently pleasant and accessible program.",
+        "spoiler_rich_plot_summary": "The series follows Winnie the Pooh and his friends – Piglet, Tigger, Eeyore, Rabbit, Owl, and Christopher Robin – as they navigate everyday challenges and adventures in the Hundred Acre Wood. Each episode typically revolves around a simple problem, such as finding honey, rescuing a friend, or preparing for a special event. While the characters occasionally face minor setbacks, these are always resolved through cooperation and kindness. Christopher Robin, a young boy, often provides guidance and support, reinforcing the importance of friendship and responsibility. The overarching narrative focuses on the enduring bonds between the characters and the joy of simple pleasures, culminating in a consistently positive and reassuring conclusion to each episode and season. The series never introduces significant conflict or permanent changes to the status quo, maintaining a consistently lighthearted and optimistic tone.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "problem-solving",
+            "optimism",
+            "kindness",
+            "responsibility",
+            "imagination"
+          ],
+          "plot_and_concepts": [
+            "childrens-adventure",
+            "simple-problem",
+            "rescue-mission",
+            "treasure-hunt"
+          ],
+          "mood_and_tone": [
+            "wholesome",
+            "gentle",
+            "playful",
+            "comforting"
+          ],
+          "genre_and_tropes": [
+            "childrens-tv",
+            "animated-comedy",
+            "found-family",
+            "talking-animals"
+          ],
+          "setting": [
+            "hundred-acre-wood",
+            "fantasy-forest",
+            "childhood-setting"
+          ],
+          "character_archetypes": [
+            "gentle-protagonist",
+            "wise-mentor",
+            "loyal-friend",
+            "optimistic-sidekick"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "serialized-friendship",
+            "simple-narrative"
+          ],
+          "target_audience": [
+            "preschoolers",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "honey-pot",
+            "christopher-robins-house",
+            "piglets-house",
+            "eeyores-tail"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The New Adventures of Winnie the Pooh is a gentle and playful animated series for preschoolers, celebrating friendship and optimism through simple adventures in a whimsical forest setting."
+      },
+      "duration_seconds": 60.38809823989868
+    }
+  }
+}

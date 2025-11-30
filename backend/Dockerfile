@@ -3,23 +3,18 @@ FROM python:3.11-slim
 WORKDIR /app
 
 # Install system dependencies
-# libgomp1 is often needed for faiss/numpy optimizations
+# zlib1g-dev is required for zlib-state
+# libjpeg-dev is required for image processing
 RUN apt-get update && apt-get install -y \
     build-essential \
     libgomp1 \
+    zlib1g-dev \
+    libjpeg-dev \
     && rm -rf /var/lib/apt/lists/*
 
 # Copy requirements and install
 COPY requirements.txt .
-# Add missing dependencies manually for now to ensure they are installed
-RUN pip install --no-cache-dir -r requirements.txt && \
-    pip install --no-cache-dir \
-    flask \
-    gunicorn \
-    numpy \
-    faiss-cpu \
-    rank_bm25 \
-    nltk
+RUN pip install --no-cache-dir -r requirements.txt
 
 # Copy application code
 COPY . .

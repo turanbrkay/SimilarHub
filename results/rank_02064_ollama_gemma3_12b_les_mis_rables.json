@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Les Misérables",
+    "overview": "France, 1815. Jean Valjean, a common thief, is released from prison after having lived a hell in life for 19 years, but a small mistake puts the law again on his trail. Ruthless Inspector Javert pursues him thorough years, driven by a twisted sense of justice, while Valjean reforms himself, thrives and dedicates his life to good deeds. In 1832, while the revolution ravages the streets of Paris, Valjean and Javert cross their paths for the last time.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2018,
+    "vote_count": 91
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Les Misérables is a sprawling historical drama centered on the lives of Jean Valjean and Inspector Javert, set against the backdrop of 19th-century France. The series explores themes of redemption, justice, poverty, and revolution, examining the complexities of morality and the enduring consequences of past actions. It blends elements of a crime procedural with a sweeping epic, offering a poignant portrayal of human struggle and societal upheaval. The narrative is driven by a relentless pursuit and a profound moral conflict, creating a deeply emotional and visually arresting experience.",
+        "spoiler_rich_plot_summary": "The story begins with Jean Valjean's release from prison after serving nineteen years for stealing a loaf of bread. Shown mercy by Bishop Myriel, Valjean breaks his parole and assumes a new identity, determined to live an honest life. However, his past continually threatens to catch up with him, particularly through the relentless pursuit of Inspector Javert, who embodies a rigid and unwavering sense of justice. Valjean finds purpose in protecting Fantine's daughter, Cosette, raising her as his own and shielding her from the harsh realities of poverty. As Cosette grows, Valjean becomes entangled in the revolutionary fervor sweeping Paris in 1832, where he encounters Marius, a young man who captures Cosette’s heart. The escalating conflict between the revolutionaries and the government forces Valjean and Javert to confront each other in a final, devastating encounter, forcing both men to question their deeply held beliefs and the very nature of justice. The revolution ultimately reshapes the lives of all involved, leaving a lasting impact on their destinies.",
+        "categorized_keywords": {
+          "themes": [
+            "redemption",
+            "justice",
+            "poverty",
+            "revolution",
+            "morality",
+            "forgiveness",
+            "social-inequality",
+            "sacrifice"
+          ],
+          "plot_and_concepts": [
+            "parole-violation",
+            "false-identity",
+            "police-procedural",
+            "revolution",
+            "found-family",
+            "pursuit"
+          ],
+          "mood_and_tone": [
+            "melancholy",
+            "epic",
+            "tragic",
+            "somber",
+            "romantic"
+          ],
+          "genre_and_tropes": [
+            "historical-drama",
+            "crime-procedural",
+            "romantic-drama",
+            "epic-narrative"
+          ],
+          "setting": [
+            "france",
+            "19th-century",
+            "paris"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "reluctant-hero",
+            "rigid-authority",
+            "moral-compass"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "prison-cells",
+            "bishop-manor",
+            "paris-streets",
+            "revolutionary-barricades"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "social-injustice"
+          ]
+        },
+        "keyword_sentence": "Set in 19th-century France, Les Misérables is a sweeping historical drama exploring themes of redemption and social injustice through the relentless pursuit of a former convict and a rigid authority figure amidst a backdrop of revolution and poverty."
+      },
+      "duration_seconds": 69.22058773040771
+    }
+  }
+}

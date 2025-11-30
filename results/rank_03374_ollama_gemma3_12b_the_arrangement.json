@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "The Arrangement",
+    "overview": "An aspiring actress is presented with an arrangement that would link her romantically to a big star in Hollywood, but sticking to the details of her contract may not be easy.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2017,
+    "vote_count": 38
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Arrangement is a drama series exploring the complexities of ambition, power, and personal freedom within the high-stakes world of Hollywood. The series centers on a young woman who enters into a prenuptial agreement with a renowned actor, ostensibly for love but with underlying contractual obligations. It examines the blurred lines between genuine connection and strategic manipulation, and the sacrifices individuals make to achieve their dreams. The show blends elements of romance, suspense, and social commentary, offering a glimpse into the lives of the wealthy and famous while questioning the true cost of success.",
+        "spoiler_rich_plot_summary": "The series begins with Ingrid Goffman, a young woman with aspirations of becoming an actress, being introduced to Adam Sterling, a celebrated but troubled actor, by his advisor, Terence. Terence proposes a unique arrangement: Ingrid will enter a marriage of convenience with Adam, fulfilling a contractual obligation for Adam to maintain a public image of stability and happiness. In exchange, Ingrid receives financial support and access to the Hollywood elite, providing a pathway to her acting career. Initially, Ingrid is hesitant, but the allure of fame and fortune proves too strong. As the arrangement progresses, Ingrid finds herself navigating a complex web of secrets, lies, and hidden agendas within Adam’s inner circle. She begins to suspect that Adam’s past is far more troubled than he lets on, and that Terence is manipulating events to serve his own purposes. Ingrid’s attempts to uncover the truth are met with resistance and danger, forcing her to question her own motivations and the true nature of her relationship with Adam. The arrangement itself becomes a source of constant tension, as Ingrid struggles to balance her personal desires with the contractual obligations she has agreed to uphold. The series explores the consequences of these choices, revealing the dark underbelly of Hollywood and the sacrifices individuals make in pursuit of their dreams.",
+        "categorized_keywords": {
+          "themes": [
+            "ambition",
+            "power",
+            "control",
+            "deception",
+            "sacrifice",
+            "identity",
+            "social-climbing"
+          ],
+          "plot_and_concepts": [
+            "marriage-of-convenience",
+            "prenuptial-agreement",
+            "arranged-marriage",
+            "hollywood-intrigue",
+            "contractual-obligation",
+            "arranged-relationship"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dramatic",
+            "tense",
+            "glamorous",
+            "dark"
+          ],
+          "genre_and_tropes": [
+            "drama",
+            "romantic-suspense",
+            "hollywood-drama",
+            "arranged-marriage-trope"
+          ],
+          "setting": [
+            "hollywood",
+            "california",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "aspiring-actress",
+            "troubled-celebrity",
+            "manipulative-advisor",
+            "social-climber"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "red-carpet-events",
+            "premiere-night",
+            "contract-documents",
+            "luxury-mansion",
+            "public-relations-campaign"
+          ],
+          "maturity_and_content": [
+            "sexual-content",
+            "manipulation"
+          ]
+        },
+        "keyword_sentence": "The Arrangement is a dramatic series set in Hollywood, exploring themes of ambition and control as an aspiring actress enters a complex marriage of convenience with a troubled celebrity, navigating a world of deception and sacrifice."
+      },
+      "duration_seconds": 65.13418555259705
+    }
+  }
+}

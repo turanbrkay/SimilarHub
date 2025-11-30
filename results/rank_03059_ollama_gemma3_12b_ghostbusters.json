@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Ghostbusters",
+    "overview": "Jake Kong Jr. and Eddie Spencer Jr. are sons of the original Ghost Busters, and they work alongside Tracy the Gorilla (who also worked with their fathers). Together, they are dedicated to ridding the world of the evil ghost wizard Prime Evil and his cast of henchmen.",
+    "genres": [
+      "Mystery",
+      "Animation"
+    ],
+    "release_year": 1986,
+    "vote_count": 46
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Ghostbusters is a comedic animated series that follows the children of the original Ghostbusters as they continue their family's legacy of paranormal investigation and containment. The show blends elements of mystery, action, and humor, targeting a younger audience while retaining a nostalgic appeal for fans of the original films. The series explores themes of family, responsibility, and the importance of teamwork in the face of supernatural threats, often with a lighthearted and adventurous tone.",
+        "spoiler_rich_plot_summary": "The series begins with Jake Kong Jr. and Eddie Spencer Jr. inheriting their fathers' ghostbusting equipment and responsibilities. They are joined by Tracy the Gorilla, a loyal companion who also worked alongside their fathers in previous adventures. The primary antagonist is Prime Evil, a powerful ghost wizard seeking to unleash chaos upon the world. Throughout the series, Jake, Eddie, and Tracy confront various supernatural entities and thwart Prime Evil's schemes, often relying on their ingenuity and the advanced technology left behind by their fathers. The narrative follows a recurring pattern of investigating paranormal disturbances, battling unique ghosts, and ultimately preventing Prime Evil from achieving his nefarious goals. While the series maintains a generally optimistic tone, it also explores the challenges of living up to a legendary family's reputation and the emotional toll of constantly facing danger. The overarching conflict revolves around Prime Evil's attempts to gain ultimate power, leading to increasingly complex and dangerous encounters for the young ghostbusters.",
+        "categorized_keywords": {
+          "themes": [
+            "family-legacy",
+            "responsibility",
+            "teamwork",
+            "good-vs-evil",
+            "coming-of-age"
+          ],
+          "plot_and_concepts": [
+            "paranormal-investigation",
+            "ghost-hunting",
+            "monster-of-the-week",
+            "supernatural-threats",
+            "legacy-sequel"
+          ],
+          "mood_and_tone": [
+            "comedic",
+            "lighthearted",
+            "adventurous",
+            "nostalgic"
+          ],
+          "genre_and_tropes": [
+            "animated-comedy",
+            "mystery",
+            "action-adventure",
+            "legacy-sequel"
+          ],
+          "setting": [
+            "modern-city",
+            "alternate-timeline"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "loyal-companion",
+            "mentor-figure"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "proton-pack",
+            "ghost-trap",
+            "ectoplasm",
+            "ghostbusters-headquarters"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Ghostbusters is a lighthearted animated comedy series that follows a family legacy of paranormal investigation and action-adventure, targeting a young audience with a nostalgic appeal and a focus on teamwork against supernatural threats."
+      },
+      "duration_seconds": 61.044466495513916
+    }
+  }
+}

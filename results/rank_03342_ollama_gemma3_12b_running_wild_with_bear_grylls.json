@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Running Wild with Bear Grylls",
+    "overview": "The famed survivalist takes A-list celebrities on journeys into the wildest locations around the world, forcing the stars to push their bodies and minds to the limit to successfully complete the adventure of a lifetime.",
+    "genres": [
+      "Action & Adventure",
+      "Reality"
+    ],
+    "release_year": 2014,
+    "vote_count": 39
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Running Wild with Bear Grylls is a reality television series that blends survival expertise with celebrity interaction. Each episode sees Bear Grylls guiding a famous guest through challenging wilderness environments, testing their physical and mental resilience. The show's appeal lies in the combination of breathtaking landscapes, the spectacle of celebrities facing adversity, and Grylls' instructional approach to survival techniques. It offers a mix of adventure, humor, and a glimpse into the limits of human endurance, appealing to audiences interested in both outdoor exploration and celebrity culture.",
+        "spoiler_rich_plot_summary": "Each episode of Running Wild follows a similar structure: Bear Grylls selects a celebrity guest and a remote, often dangerous, location – ranging from tropical islands to arctic tundra. The episode begins with introductions and a brief overview of the survival challenges ahead. Grylls then guides the celebrity through a series of tasks designed to test their limits, including finding food and water, building shelter, navigating treacherous terrain, and overcoming environmental hazards. Throughout the journey, Grylls imparts survival skills and knowledge, while the celebrity reacts to the conditions and their own discomfort. The episodes culminate in a final challenge or a return to civilization, showcasing the celebrity's growth and resilience. While specific locations and challenges vary, the core narrative arc remains consistent: a celebrity confronts the wilderness and emerges transformed.",
+        "categorized_keywords": {
+          "themes": [
+            "survival",
+            "adventure",
+            "celebrity-culture",
+            "human-resilience",
+            "wilderness-exploration"
+          ],
+          "plot_and_concepts": [
+            "survival-challenge",
+            "celebrity-collaboration",
+            "wilderness-trek",
+            "skill-demonstration"
+          ],
+          "mood_and_tone": [
+            "adventurous",
+            "tense",
+            "humorous",
+            "inspiring"
+          ],
+          "genre_and_tropes": [
+            "reality-tv",
+            "adventure-series",
+            "survival-show",
+            "celebrity-challenge"
+          ],
+          "setting": [
+            "remote-locations",
+            "tropical-islands",
+            "arctic-tundra",
+            "mountain-ranges"
+          ],
+          "character_archetypes": [
+            "survival-expert",
+            "celebrity-guest",
+            "reluctant-participant"
+          ],
+          "narrative_style": [
+            "episodic-format",
+            "challenge-based"
+          ],
+          "target_audience": [
+            "adventure-seekers",
+            "celebrity-followers"
+          ],
+          "detail_plot": [
+            "survival-kit",
+            "mountain-range",
+            "remote-island",
+            "survival-shelter"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Running Wild with Bear Grylls is an adventurous reality series that showcases celebrity guests facing challenging survival situations in remote locations around the world."
+      },
+      "duration_seconds": 52.28366160392761
+    }
+  }
+}

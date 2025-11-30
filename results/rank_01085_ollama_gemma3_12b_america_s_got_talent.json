@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "America's Got Talent",
+    "overview": "A weekly talent competition where an array of performers – from singers and dancers, to comedians and novelty acts – vie for a $1 million cash prize.",
+    "genres": [
+      "Reality"
+    ],
+    "release_year": 2006,
+    "vote_count": 234
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "America's Got Talent is a long-running reality competition series showcasing a diverse range of performers vying for a grand prize. The show's appeal lies in its broad scope, welcoming acts from various disciplines and age groups. It offers a family-friendly viewing experience, emphasizing entertainment and audience participation. The format revolves around public voting, creating a dynamic and unpredictable outcome each season. The show's longevity is a testament to its ability to consistently discover and highlight unique talents, providing a platform for aspiring artists to achieve recognition.",
+        "spoiler_rich_plot_summary": "Each season of America's Got Talent begins with open auditions where thousands of hopefuls perform for a panel of judges and a smaller audience. Successful auditioners progress to the next round, which often involves multiple performances to showcase their skills. The judges provide feedback and ultimately decide which acts move forward. As the competition intensifies, acts are eliminated based on audience voting and judge decisions. The show culminates in a live finale where the remaining contestants perform for a national audience, and the winner is determined by a combination of judge scores and audience votes. Throughout the series, unexpected twists and turns often occur, such as surprise guest performances or changes in the judging panel, adding to the excitement and unpredictability of the competition. While some contestants achieve widespread fame and successful careers, others return to their everyday lives, having gained valuable experience and exposure.",
+        "categorized_keywords": {
+          "themes": [
+            "talent-competition",
+            "public-voting",
+            "dreams-and-ambition",
+            "family-entertainment",
+            "pursuit-of-fame"
+          ],
+          "plot_and_concepts": [
+            "elimination-rounds",
+            "judging-panel",
+            "live-performances",
+            "surprise-twists",
+            "audience-participation"
+          ],
+          "mood_and_tone": [
+            "optimistic",
+            "energetic",
+            "uplifting",
+            "exciting",
+            "lighthearted"
+          ],
+          "genre_and_tropes": [
+            "reality-competition",
+            "talent-show",
+            "feel-good-tv",
+            "crowd-pleaser"
+          ],
+          "setting": [
+            "theatre-stage",
+            "modern-day",
+            "television-studio"
+          ],
+          "character_archetypes": [
+            "aspiring-artist",
+            "charismatic-host",
+            "influential-judge"
+          ],
+          "narrative_style": [
+            "serialized-season",
+            "elimination-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "general-viewers"
+          ],
+          "detail_plot": [
+            "stage-lights",
+            "microphone",
+            "judges-table",
+            "voting-booth",
+            "confetti"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "America's Got Talent is a lighthearted reality competition showcasing aspiring artists pursuing their dreams on a brightly lit stage, captivating a general audience with exciting performances and unpredictable eliminations."
+      },
+      "duration_seconds": 61.093421459198
+    }
+  }
+}

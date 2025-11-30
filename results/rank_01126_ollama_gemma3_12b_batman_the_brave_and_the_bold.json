@@ -1,0 +1,72 @@
+{
+  "input_data": {
+    "title": "Batman: The Brave and the Bold",
+    "overview": "The Caped Crusader is teamed up with Blue Beetle, Green Arrow, Aquaman and countless others in his quest to uphold justice.",
+    "genres": [
+      "Animation",
+      "Action & Adventure"
+    ],
+    "release_year": 2008,
+    "vote_count": 221
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Batman: The Brave and the Bold is an animated superhero series that leans heavily into a classic comic book feel, prioritizing adventure and camaraderie over gritty realism. The show features Batman partnering with a rotating cast of DC heroes, often in lighthearted and action-packed scenarios. It's designed to appeal to a younger audience while still capturing the essence of the Batman mythos and the broader DC universe. The series emphasizes teamwork and heroism, presenting a more optimistic and accessible portrayal of the superhero genre.",
+        "spoiler_rich_plot_summary": "The series begins with Batman establishing a base of operations and actively seeking out other heroes to join him in fighting crime and protecting Gotham City. Early episodes introduce a wide range of DC characters, from Green Arrow and Aquaman to Wonder Woman and the Flash, each bringing their unique skills and personalities to the team. Throughout the series, Batman and his allies face off against a variety of villains, including the Joker, Penguin, Riddler, and Two-Face, often in elaborate and comedic schemes. The show explores the importance of friendship and trust as the heroes learn to rely on each other's strengths and overcome their individual weaknesses. While the series maintains a generally lighthearted tone, it also touches on themes of responsibility and sacrifice as the heroes confront increasingly dangerous threats. The show concludes with Batman reaffirming his commitment to protecting Gotham and continuing to work alongside his fellow heroes, solidifying the importance of teamwork and the enduring spirit of heroism.",
+        "categorized_keywords": {
+          "themes": [
+            "heroism",
+            "teamwork",
+            "friendship",
+            "justice",
+            "responsibility"
+          ],
+          "plot_and_concepts": [
+            "superhero-team",
+            "rotating-cast",
+            "villain-of-the-week",
+            "comic-book-adaptation"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "optimistic",
+            "action-adventure",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "superhero-action",
+            "found-family",
+            "comic-book-tropes"
+          ],
+          "setting": [
+            "gotham-city",
+            "dc-universe"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "classic-villain"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "young-adult",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "bat-signal",
+            "batcave",
+            "utility-belt",
+            "joker-gadgets"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Batman: The Brave and the Bold is a lighthearted and action-packed animated series celebrating heroism and teamwork within the vibrant world of the DC universe, featuring a rotating cast of heroes battling classic villains in Gotham City."
+      },
+      "duration_seconds": 59.52305722236633
+    }
+  }
+}

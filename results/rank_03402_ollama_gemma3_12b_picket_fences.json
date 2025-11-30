@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "Picket Fences",
+    "overview": "Picket Fences is an American television drama about the residents of the town of Rome",
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "release_year": 1992,
+    "vote_count": 38
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Picket Fences is a drama series set in the idyllic town of Rome, Wisconsin, which gradually reveals a darker underbelly beneath its seemingly perfect facade. The show explores themes of family, community, and justice through the eyes of the McCallister family, particularly District Attorney Jim McCallister, and his wife, Helen. It blends elements of legal drama, mystery, and dark comedy, creating a unique and often unsettling viewing experience. The series is known for its quirky characters, intricate plots, and exploration of the complexities of small-town life.",
+        "spoiler_rich_plot_summary": "The series begins with the McCallister family settling into their new home in Rome, Wisconsin, a town seemingly untouched by the troubles of the outside world. Jim McCallister, a newly appointed district attorney, quickly discovers that Rome is not as peaceful as it appears, as a series of unsettling events and crimes begin to plague the community. The McCallisters navigate personal and professional challenges while uncovering a web of secrets and corruption within the town. Throughout the series, the family faces numerous threats and mysteries, including suspicious deaths, hidden identities, and complex legal battles. As the McCallisters delve deeper into the town's dark side, they confront powerful adversaries and grapple with the moral implications of their actions. The series culminates in a confrontation with the forces threatening Rome's stability, leaving the McCallisters to rebuild their lives and confront the lasting impact of the events they have witnessed.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "small-town-secrets",
+            "justice-and-corruption",
+            "moral-ambiguity",
+            "community-loyalty"
+          ],
+          "plot_and_concepts": [
+            "legal-drama",
+            "mystery-thriller",
+            "crime-investigation",
+            "whodunit"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "suspenseful",
+            "quirky",
+            "melancholy"
+          ],
+          "genre_and_tropes": [
+            "small-town-drama",
+            "family-drama",
+            "mystery-procedural"
+          ],
+          "setting": [
+            "small-town-usa",
+            "midwest-setting",
+            "idyllic-community"
+          ],
+          "character_archetypes": [
+            "family-man",
+            "district-attorney",
+            "concerned-wife",
+            "eccentric-neighbor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "mcallister-house",
+            "town-square",
+            "courtroom-scene",
+            "police-station"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Set in a seemingly idyllic small town, Picket Fences explores themes of family, justice, and hidden secrets through a darkly comic and suspenseful blend of legal drama and mystery."
+      },
+      "duration_seconds": 55.75038003921509
+    }
+  }
+}

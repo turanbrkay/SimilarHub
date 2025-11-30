@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Clerks",
+    "overview": "The continuing adventures of store clerks Dante and Randal, who try to make the best of their menial labor, with no help from Jay and Silent Bob.",
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "release_year": 2000,
+    "vote_count": 86
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Clerks is a comedic anthology series following the mundane and often absurd lives of convenience store clerks Dante Hicks and Randal Graves. The show utilizes a mockumentary style to explore themes of friendship, existentialism, and the frustrations of dead-end jobs. With a deliberately low-budget aesthetic and a focus on dialogue-driven humor, Clerks offers a cynical yet relatable portrayal of young adulthood and the search for meaning in a seemingly pointless world. The series frequently incorporates meta-humor and pop culture references, creating a unique and irreverent comedic experience.",
+        "spoiler_rich_plot_summary": "The series primarily revolves around Dante and Randal's attempts to navigate their daily routines at the Quick Stop convenience store and Video Store, often clashing with their eccentric customers and the meddling presence of Jay and Silent Bob. Throughout the series, Dante grapples with his aspirations of becoming a filmmaker, while Randal struggles with his own sense of purpose and often resorts to pranks and rebellious behavior. Recurring storylines involve romantic entanglements, professional setbacks, and the ongoing battle to maintain some semblance of order amidst the chaos of their lives. The characters face various personal and professional challenges, often leading to humorous and insightful reflections on the nature of work, relationships, and the pursuit of happiness. While the series maintains a comedic tone, it also explores deeper themes of friendship, loyalty, and the search for meaning in a seemingly absurd world.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "existentialism",
+            "dead-end-jobs",
+            "coming-of-age",
+            "pop-culture",
+            "nihilism"
+          ],
+          "plot_and_concepts": [
+            "mockumentary",
+            "anthology-series",
+            "slice-of-life",
+            "road-trip",
+            "customer-interactions"
+          ],
+          "mood_and_tone": [
+            "comedic",
+            "satirical",
+            "absurdist",
+            "cynical",
+            "irreverent"
+          ],
+          "genre_and_tropes": [
+            "comedy",
+            "animation",
+            "indie-comedy",
+            "found-family"
+          ],
+          "setting": [
+            "new-jersey",
+            "convenience-store",
+            "video-store",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "slacker",
+            "aspiring-filmmaker",
+            "rebellious-youth",
+            "eccentric-customer"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "quick-stop-store",
+            "video-store",
+            "jay-and-silent-bob",
+            "dante-hicks",
+            "randal-graves"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Clerks is a comedic animation series that satirically explores themes of friendship and existentialism through the mundane lives of convenience store clerks in New Jersey."
+      },
+      "duration_seconds": 63.970491886138916
+    }
+  }
+}

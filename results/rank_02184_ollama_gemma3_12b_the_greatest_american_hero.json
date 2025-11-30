@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "The Greatest American Hero",
+    "overview": "The chronicles of  teacher Ralph Hinkley's adventures after a group of aliens gives him a red suit that gives him superhuman abilities. Unfortunately, Ralph, who hates wearing the suit, immediately loses its instruction booklet, and thus has to learn how to use its powers by trial and error, often with comical results.",
+    "genres": [
+      "Action & Adventure",
+      "Comedy",
+      "Crime"
+    ],
+    "release_year": 1981,
+    "vote_count": 85
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Greatest American Hero is a comedic action-adventure series centered on a reluctant hero who gains extraordinary abilities but struggles to control them. The show blends superhero tropes with a lighthearted, self-aware humor, often poking fun at the conventions of the genre. Ralph Hinkley's journey is one of accidental heroism, as he navigates extraordinary situations with a blend of ineptitude and genuine desire to do good. The series explores themes of responsibility, self-acceptance, and the challenges of wielding power, all while maintaining a consistently optimistic and comedic tone.",
+        "spoiler_rich_plot_summary": "The series begins with Ralph Hinkley, a high school teacher, stumbling upon a crashed alien spacecraft. He's approached by aliens who offer him a powerful suit granting superhuman abilities, but he immediately loses the instruction manual. Ralph, initially resistant to the suit and its responsibilities, is pressured by his friends, Bill Maxwell and Pam Davison, to use his powers for good. Throughout the series, Ralph and his team face various threats, often involving alien invasions or attempts to exploit the suit's technology. Ralph's lack of understanding of the suit's functions leads to numerous comical mishaps and near-disasters, requiring quick thinking and improvisation to overcome. While Ralph's abilities grow, his personal life remains a source of ongoing challenges, as he grapples with the demands of being a superhero while trying to maintain a semblance of normalcy. The series maintains a generally upbeat tone, with Ralph ultimately embracing his role as a protector, albeit a flawed and often clumsy one.",
+        "categorized_keywords": {
+          "themes": [
+            "reluctant-heroism",
+            "responsibility",
+            "self-acceptance",
+            "power-and-corruption",
+            "friendship",
+            "optimism"
+          ],
+          "plot_and_concepts": [
+            "superhero-action",
+            "alien-invasion",
+            "lost-technology",
+            "fish-out-of-water",
+            "government-cover-up"
+          ],
+          "mood_and_tone": [
+            "comedic",
+            "lighthearted",
+            "optimistic",
+            "satirical",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "action-adventure",
+            "sitcom",
+            "superhero-genre",
+            "fish-out-of-water-trope"
+          ],
+          "setting": [
+            "modern-day",
+            "american-suburbs",
+            "small-town-usa"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "loyal-friend",
+            "wise-mentor",
+            "bumbling-protagonist"
+          ],
+          "narrative_style": [
+            "episodic-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience"
+          ],
+          "detail_plot": [
+            "red-suit",
+            "alien-spacecraft",
+            "instruction-manual",
+            "superhero-powers"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "The Greatest American Hero is a lighthearted action-adventure series about a reluctant hero who gains extraordinary powers and must learn to use them, blending comedic situations with themes of responsibility and friendship in a wholesome family-friendly setting."
+      },
+      "duration_seconds": 69.34978199005127
+    }
+  }
+}

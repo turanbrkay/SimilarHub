@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Land of the Lost",
+    "overview": "Rick Marshall and his children Will and Holly are on a weekend expedition rafting down a river when an enormous earthquake diverts them to an eclectic alien world inhabited by dinosaurs, chimpanzee-like cavemen called Pakuni, and aggressive, humanoid lizard creatures called Sleestak.",
+    "genres": [
+      "Action & Adventure",
+      "Sci-Fi & Fantasy",
+      "Family"
+    ],
+    "release_year": 1974,
+    "vote_count": 34
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Land of the Lost is a family-oriented action-adventure series blending science fiction and fantasy elements. The show follows an intrepid explorer and his children as they become stranded on a mysterious alien world teeming with dinosaurs, primitive humanoids, and dangerous creatures. The series explores themes of survival, adaptation, and the importance of family in the face of extraordinary challenges, offering a sense of wonder and excitement while maintaining a relatively lighthearted tone. The narrative focuses on the ongoing struggle to understand and escape the alien world, encountering various threats and forming uneasy alliances along the way.",
+        "spoiler_rich_plot_summary": "The series begins with Rick Marshall, his son Will, and daughter Holly accidentally transported to a strange, prehistoric world following an earthquake. They quickly encounter the Pakuni, a tribe of chimpanzee-like humanoids, and the Sleestak, reptilian creatures who seem to control the environment. Initially, the group attempts to find a way back to their own world, but they soon realize the complexities of the alien landscape and the interconnectedness of its inhabitants. Rick, Will, and Holly navigate the dangers of the world, forming a tenuous alliance with the Pakuni while attempting to understand the Sleestak's influence. As the series progresses, they uncover deeper mysteries about the world's origins and the true nature of the Sleestak, discovering that the environment itself is a complex, living entity. The group faces numerous threats, including territorial disputes between the Pakuni and Sleestak, and the constant struggle for survival in a hostile environment. While attempts to return home are ongoing, the characters become increasingly invested in the fate of the alien world and its inhabitants, leading to a complex moral dilemma.",
+        "categorized_keywords": {
+          "themes": [
+            "survival",
+            "family-loyalty",
+            "exploration",
+            "adaptation",
+            "discovery",
+            "moral-dilemma"
+          ],
+          "plot_and_concepts": [
+            "time-travel",
+            "alternate-dimension",
+            "lost-world",
+            "first-contact",
+            "monster-of-the-week"
+          ],
+          "mood_and_tone": [
+            "adventurous",
+            "lighthearted",
+            "optimistic",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "fantasy",
+            "action-adventure",
+            "found-family",
+            "monster-movie"
+          ],
+          "setting": [
+            "prehistoric-world",
+            "alien-planet",
+            "lost-world",
+            "jungle-setting"
+          ],
+          "character_archetypes": [
+            "intrepid-explorer",
+            "resourceful-child",
+            "wise-elder",
+            "primitive-humanoid"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "dinosaurs",
+            "pakuni-tribe",
+            "sleestak-creatures",
+            "raft",
+            "alien-landscape"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Land of the Lost is an adventurous science-fiction series about a family stranded on a prehistoric alien world, where they must navigate dangers and forge alliances while exploring a lost world filled with dinosaurs and strange creatures."
+      },
+      "duration_seconds": 61.46895384788513
+    }
+  }
+}

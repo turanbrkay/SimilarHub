@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Dark Tourist",
+    "overview": "The definition of \"tourism\" is redefined as New Zealand filmmaker David Farrier sets his sights on the world of dark tourism.  From nuclear tourism in Japan to Pablo Escobar-inspired tourism in Columbia to frontier tourism in Turkmenistan, David visits the world’s grisly and offbeat destinations, meeting travelers drawn to them, and the people telling these stories day after day.",
+    "genres": [
+      "Action & Adventure",
+      "Documentary"
+    ],
+    "release_year": 2018,
+    "vote_count": 67
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Dark Tourist is a documentary series that explores the burgeoning phenomenon of dark tourism – travel to sites associated with death, tragedy, or the macabre. New Zealand filmmaker David Farrier acts as a guide, visiting locations ranging from disaster zones to sites of historical atrocities, interviewing both tourists and local residents. The series examines the motivations behind this unusual form of travel, probing questions of human fascination with darkness, the ethics of profiting from tragedy, and the complex relationship between tourism and remembrance. It offers a unique blend of travelogue, social commentary, and psychological exploration, challenging viewers to confront uncomfortable truths about human behavior and the world's darker corners.",
+        "spoiler_rich_plot_summary": "The series follows David Farrier as he journeys across the globe, beginning with a visit to Fukushima, Japan, where he observes the ongoing recovery efforts and the rise of 'nuclear tourism.' He then travels to Colombia, where he investigates the legacy of Pablo Escobar and the proliferation of tours to his former estates and the infamous 'Narco Mansion.' Farrier's investigations lead him to Turkmenistan, a country with a highly restrictive regime and a bizarre, cult-of-personality tourism industry centered around the late dictator Saparmurat Niyazov. He explores the Aral Sea disaster zone, witnessing the devastating environmental consequences of Soviet-era policies and the rise of tourism centered around the tragedy. Throughout his travels, Farrier interviews a diverse range of individuals, from local guides and business owners to tourists and academics, uncovering the complex motivations and ethical considerations surrounding dark tourism.",
+        "categorized_keywords": {
+          "themes": [
+            "tragedy",
+            "human-nature",
+            "ethics",
+            "tourism",
+            "remembrance",
+            "darkness",
+            "morality"
+          ],
+          "plot_and_concepts": [
+            "travelogue",
+            "investigative-journalism",
+            "cultural-exploration",
+            "disaster-tourism",
+            "cult-of-personality"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "thought-provoking",
+            "unsettling",
+            "observational"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "travel-documentary",
+            "investigative-documentary"
+          ],
+          "setting": [
+            "japan",
+            "colombia",
+            "turkmenistan",
+            "aral-sea",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "investigative-journalist",
+            "traveler",
+            "local-guide"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "observational-documentary"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "narco-mansion",
+            "fukushima-exclusion-zone",
+            "aral-sea-ship-graveyard",
+            "golden-eagle-ark",
+            "rub-al-khali-desert"
+          ],
+          "maturity_and_content": [
+            "graphic-imagery",
+            "disturbing-content"
+          ]
+        },
+        "keyword_sentence": "Dark Tourist is a somber and thought-provoking documentary series that explores the ethics and human fascination with tragedy through investigative journeys to unsettling locations around the globe."
+      },
+      "duration_seconds": 66.17865514755249
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Dancing with the Stars",
+    "overview": "The competition sees celebrities perform choreographed dance routines which are judged by a panel of renowned ballroom experts and voted on by viewers. Enjoy sizzling salsas, sambas and spray-tans as they vie for the coveted Mirrorball Trophy.",
+    "genres": [
+      "Family",
+      "Reality"
+    ],
+    "release_year": 2005,
+    "vote_count": 87
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Dancing with the Stars is a long-running reality competition series where celebrities are paired with professional dancers to compete in ballroom and Latin dance routines. Each week, couples perform and are judged by a panel of experts and voted on by viewers, with one couple eliminated until a winner is crowned. The show blends elements of performance, competition, and celebrity culture, offering a lighthearted and often sentimental viewing experience. Its appeal lies in the combination of dance artistry, the personalities of the celebrity contestants, and the emotional journey of learning a new skill under pressure.",
+        "spoiler_rich_plot_summary": "Each season of Dancing with the Stars follows a similar structure: a group of celebrities, ranging from actors and athletes to musicians and reality stars, are announced and paired with professional ballroom dancers. Throughout the season, the couples train intensely and perform choreographed routines, showcasing various dance styles like the waltz, tango, cha-cha, and salsa. A panel of judges provides critiques and scores, while audience voting determines which couple is eliminated each week. As the competition progresses, couples often face challenges, including injuries, creative differences, and the pressure of public scrutiny. The final few couples perform in a grand finale, where the winner, who receives the coveted Mirrorball Trophy, is decided by a combination of judges' scores and audience votes. While individual celebrity journeys vary, the overarching narrative consistently revolves around the pursuit of dance mastery and the thrill of competition.",
+        "categorized_keywords": {
+          "themes": [
+            "competition",
+            "celebrity-culture",
+            "skill-acquisition",
+            "performance",
+            "teamwork",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "elimination-rounds",
+            "judging-panel",
+            "audience-voting",
+            "ballroom-dance",
+            "latin-dance"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "sentimental",
+            "glamorous"
+          ],
+          "genre_and_tropes": [
+            "reality-competition",
+            "dance-competition",
+            "celebrity-show"
+          ],
+          "setting": [
+            "ballroom-studio",
+            "television-studio",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "celebrity-contestant",
+            "professional-dancer",
+            "judging-panelist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "weekly-elimination"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "mirrorball-trophy",
+            "spray-tan",
+            "ballroom-routine",
+            "judges-score"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Dancing with the Stars is a lighthearted reality competition where celebrities and professional dancers showcase ballroom and Latin routines, striving for the coveted Mirrorball Trophy through weekly eliminations and audience voting."
+      },
+      "duration_seconds": 62.286505937576294
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "input_data": {
+    "title": "LEGO City Adventures",
+    "overview": "Welcome to LEGO City, a modern metropolis filled with the fiercest firefighters, the cream of the crop cops, and so many Blockheads. Every citizen will assemble together for the most awesomely awesome adventures.",
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Family",
+      "Comedy"
+    ],
+    "release_year": 2019,
+    "vote_count": 34
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "LEGO City Adventures is a lighthearted, animated action-comedy series geared towards a young audience. The show follows the everyday adventures of the LEGO City residents, showcasing a diverse cast of characters and emphasizing teamwork and problem-solving. With its vibrant visuals and playful humor, the series aims to entertain and inspire creativity in its viewers, celebrating community and the joy of imaginative play. The show's episodic nature and focus on simple narratives make it accessible and engaging for preschoolers and young children.",
+        "spoiler_rich_plot_summary": "The series primarily revolves around the LEGO City police department, led by Chief Michaels, and their interactions with various community members. Each episode typically presents a new challenge or emergency, such as a runaway train, a bank robbery, or a forest fire. The police officers, firefighters, and other specialized teams work together to resolve these situations, often with the help of ordinary citizens. While there are recurring villains and minor conflicts, the series maintains a consistently optimistic tone and avoids complex, overarching storylines. The focus remains on the immediate problem and the collaborative effort to overcome it, reinforcing positive values and demonstrating the importance of community support. The series concludes with the resolution of the immediate crisis, leaving the LEGO City safe and ready for the next adventure.",
+        "categorized_keywords": {
+          "themes": [
+            "community",
+            "teamwork",
+            "problem-solving",
+            "friendship",
+            "heroism",
+            "optimism"
+          ],
+          "plot_and_concepts": [
+            "action-adventure",
+            "crime-solving",
+            "rescue-missions",
+            "episodic-storytelling"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "playful",
+            "energetic"
+          ],
+          "genre_and_tropes": [
+            "childrens-animation",
+            "action-comedy",
+            "found-family"
+          ],
+          "setting": [
+            "modern-city",
+            "lego-world"
+          ],
+          "character_archetypes": [
+            "heroic-police-officer",
+            "brave-firefighter",
+            "resourceful-citizen"
+          ],
+          "narrative_style": [
+            "episodic-format"
+          ],
+          "target_audience": [
+            "young-children",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "police-car",
+            "fire-truck",
+            "lego-building",
+            "city-hall"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "LEGO City Adventures is a lighthearted and energetic children’s animation series set in a vibrant Lego world, celebrating community and teamwork through playful action-comedy adventures."
+      },
+      "duration_seconds": 50.76634073257446
+    }
+  }
+}

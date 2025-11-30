@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "Death in Paradise",
+    "overview": "Comedy detective series set on the fictional Caribbean island of Saint-Marie.  A brilliant but idiosyncratic British detective and his resourceful local team solve baffling murder mysteries.",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2011,
+    "vote_count": 207
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Death in Paradise is a lighthearted British-French crime drama series set on a picturesque Caribbean island. The show follows a succession of detectives, each grappling with the challenges of adapting to a new culture while solving complex murder cases. It blends elements of classic British detective procedurals with the warmth and vibrancy of a tropical setting, offering a comforting and escapist viewing experience. The series emphasizes character interactions and cultural clashes, providing both comedic relief and intriguing mysteries.",
+        "spoiler_rich_plot_summary": "The series begins with DI Richard Dix, a seasoned London detective, being sent to Saint-Marie to investigate a murder. Initially resistant to the island's relaxed pace and unfamiliar customs, he gradually finds himself charmed by the community and the beauty of his surroundings. Following his departure, a new detective arrives, each bringing their own unique skills and personality to the team. Over the seasons, the detectives face increasingly complex cases, often involving tourists, wealthy expats, and long-held secrets within the island's close-knit community. Recurring characters, including the resourceful Sergeant Camille Bordey and the local police chief, provide continuity and a sense of familiarity. While each detective's tenure brings new dynamics, the underlying theme of adapting to a new environment and solving crimes remains constant, culminating in a series of satisfying resolutions for each case and a sense of closure for the departing detective.",
+        "categorized_keywords": {
+          "themes": [
+            "cultural-adaptation",
+            "crime-solving",
+            "island-life",
+            "community",
+            "justice",
+            "redemption"
+          ],
+          "plot_and_concepts": [
+            "crime-procedural",
+            "locked-room-mystery",
+            "fish-out-of-water",
+            "detective-series"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "wholesome",
+            "comedic",
+            "tropical-escape"
+          ],
+          "genre_and_tropes": [
+            "british-comedy",
+            "crime-drama",
+            "detective-noir",
+            "island-setting"
+          ],
+          "setting": [
+            "caribbean-island",
+            "saint-marie",
+            "tropical-climate",
+            "island-paradise"
+          ],
+          "character_archetypes": [
+            "detective",
+            "resourceful-sidekick",
+            "local-authority",
+            "fish-out-of-water-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "case-of-the-week",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "tropical-beach",
+            "police-station",
+            "local-market",
+            "island-resort"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Death in Paradise offers a lighthearted and comforting crime drama series, following a succession of detectives as they adapt to island life and solve mysteries in a picturesque Caribbean setting."
+      },
+      "duration_seconds": 60.704771995544434
+    }
+  }
+}

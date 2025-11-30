@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "The Great Train Robbery",
+    "overview": "8 August 1963: Britain wakes up to news of the biggest robbery in the country’s history. A train has been hijacked and robbed, 35 miles from its arrival in central London. The country is stunned. Who could be behind it? How did they pull off such an audacious raid?",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2013,
+    "vote_count": 50
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Great Train Robbery is a historical drama series that reconstructs the infamous 1963 heist. The series focuses on the meticulous planning and execution of the robbery, as well as the subsequent police investigation and the lives of those involved, both criminals and law enforcement. It explores themes of ambition, desperation, and the allure of a life outside the bounds of the law, set against the backdrop of a rapidly changing Britain. The series aims to portray the event with a degree of realism, examining the social and economic factors that contributed to the crime and the impact it had on the nation.",
+        "spoiler_rich_plot_summary": "The series begins by introducing the key players involved in the planning of the Great Train Robbery, led by Bruce Reynolds, and their motivations for undertaking such a daring crime. The meticulous planning phase is depicted, showcasing the reconnaissance, the recruitment of specialists, and the development of a complex scheme to hijack a Royal Mail train carrying a large sum of money. The robbery itself is portrayed as a chaotic and tense operation, with unexpected challenges and near misses. Following the successful heist, the series focuses on the subsequent police investigation, led by Jack Moss, and the efforts to track down the robbers and recover the stolen money. The robbers attempt to lay low, dividing the loot and dealing with internal conflicts and betrayals. As the police investigation intensifies, the robbers' carefully constructed plans begin to unravel, leading to arrests and convictions. The series concludes with the sentencing of the main perpetrators and a reflection on the lasting impact of the robbery on British society.",
+        "categorized_keywords": {
+          "themes": [
+            "crime",
+            "greed",
+            "social-inequality",
+            "justice",
+            "betrayal",
+            "historical-event"
+          ],
+          "plot_and_concepts": [
+            "heist",
+            "police-investigation",
+            "conspiracy",
+            "historical-crime",
+            "undercover-operation"
+          ],
+          "mood_and_tone": [
+            "tense",
+            "suspenseful",
+            "gritty",
+            "realistic",
+            "dark"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "historical-drama",
+            "heist-movie",
+            "cat-and-mouse"
+          ],
+          "setting": [
+            "1960s-britain",
+            "england",
+            "royal-mail-train"
+          ],
+          "character_archetypes": [
+            "criminal-mastermind",
+            "determined-detective",
+            "opportunistic-thief",
+            "corrupt-official"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "non-linear-timeline"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "royal-mail-train",
+            "robbery-scheme",
+            "police-evidence",
+            "safe-cracking",
+            "underground-hideout"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "criminal-activity"
+          ]
+        },
+        "keyword_sentence": "The Great Train Robbery is a tense and gritty crime drama set in 1960s Britain, exploring themes of greed and social inequality through a meticulously planned heist and the subsequent police investigation."
+      },
+      "duration_seconds": 77.0732216835022
+    }
+  }
+}

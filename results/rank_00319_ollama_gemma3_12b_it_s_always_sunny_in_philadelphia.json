@@ -1,0 +1,80 @@
+{
+  "input_data": {
+    "title": "It's Always Sunny in Philadelphia",
+    "overview": "Four egocentric friends run a neighborhood Irish pub in Philadelphia and try to find their way through the adult world of work and relationships. Unfortunately, their warped views and precarious judgments often lead them to trouble, creating a myriad of uncomfortable situations that usually only get worse before they get better.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2005,
+    "vote_count": 927
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "It's Always Sunny in Philadelphia is a darkly comedic television series centered around a group of self-absorbed friends who own and operate a struggling Irish pub in Philadelphia. The show's humor derives from the characters' consistently poor decisions, their lack of empathy, and their relentless pursuit of personal gain, often at the expense of others. It's a cynical and irreverent exploration of human flaws, presented through a lens of absurd situations and escalating chaos. The series blends elements of sitcom and mockumentary, creating a unique and often uncomfortable viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Dennis Reynolds, Dee Reynolds, Charlie Kelly, Mac McDonald, and Frank Reynolds attempting to run Paddy's Pub, a failing Irish bar. Early seasons focus on their various schemes to improve the bar's business and their personal lives, which invariably backfire due to their incompetence and selfishness. As the series progresses, the characters' flaws are amplified, leading to increasingly outlandish and morally questionable situations. Relationships are strained, alliances shift, and the characters repeatedly engage in manipulative and exploitative behavior. While the core group remains largely unchanged, their individual arcs involve deepening moral decay and a relentless pursuit of fleeting pleasures. The show avoids traditional narrative closure, instead opting to continually escalate the characters' dysfunction and reinforce the cyclical nature of their failures, suggesting that their behavior is an inescapable pattern.",
+        "categorized_keywords": {
+          "themes": [
+            "greed",
+            "moral-decay",
+            "dysfunctional-relationships",
+            "nihilism",
+            "social-commentary",
+            "self-absorption"
+          ],
+          "plot_and_concepts": [
+            "mockumentary",
+            "sitcom",
+            "scheme",
+            "ensemble-cast",
+            "black-comedy"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "cynical",
+            "irreverent",
+            "absurdist",
+            "satirical"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "black-comedy",
+            "ensemble-cast",
+            "mockumentary"
+          ],
+          "setting": [
+            "philadelphia",
+            "irish-pub",
+            "urban-setting"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "manipulative-protagonist",
+            "social-outcast",
+            "egomaniac"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "paddys-pub",
+            "dennis-reynolds-hair",
+            "charlies-rats",
+            "frank-reynolds-money"
+          ],
+          "maturity_and_content": [
+            "sexual-content",
+            "substance-abuse",
+            "graphic-violence"
+          ]
+        },
+        "keyword_sentence": "It's Always Sunny in Philadelphia is a darkly comedic series that satirizes human flaws through the misadventures of a group of self-absorbed friends running a struggling Irish pub in Philadelphia."
+      },
+      "duration_seconds": 58.33838653564453
+    }
+  }
+}

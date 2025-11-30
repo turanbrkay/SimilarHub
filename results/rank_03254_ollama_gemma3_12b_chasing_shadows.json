@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Chasing Shadows",
+    "overview": "Chasing Shadows follows a team of special operatives who are tracking down serial killers.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2014,
+    "vote_count": 41
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Chasing Shadows is a crime drama series centered on a specialized team of operatives dedicated to hunting down elusive serial killers. The show blends procedural elements with a focus on the psychological toll the work takes on the team, exploring themes of obsession, morality, and the blurred lines between hunter and hunted. The series maintains a dark and suspenseful tone, driven by complex character dynamics and a relentless pursuit of justice. While each episode often features a self-contained case, a larger, overarching narrative involving the team's past and a shadowy organization gradually unfolds.",
+        "spoiler_rich_plot_summary": "The series begins with the introduction of the elite task force, assembled to tackle cases that stump conventional law enforcement. Early seasons focus on individual serial killer investigations, each presenting unique challenges and revealing the team's individual strengths and weaknesses. As the team successfully closes cases, they uncover a pattern suggesting a connection between the killers, hinting at a larger conspiracy. A key turning point arrives when a member of the team is revealed to have a personal connection to one of the killers, forcing them to confront their own past and question their loyalties. Later seasons delve deeper into the origins of the task force and the shadowy organization pulling the strings behind the serial killers, revealing a history of corruption and manipulation. The team faces internal conflicts and betrayals as they navigate the dangerous web of deceit, ultimately leading to a final confrontation that tests their resolve and forces them to make difficult choices with far-reaching consequences. While some team members find a measure of closure, the overarching threat lingers, suggesting a cyclical nature to the darkness they fight.",
+        "categorized_keywords": {
+          "themes": [
+            "justice",
+            "obsession",
+            "corruption",
+            "moral-ambiguity",
+            "redemption",
+            "loss",
+            "revenge"
+          ],
+          "plot_and_concepts": [
+            "serial-killer",
+            "police-investigation",
+            "conspiracy",
+            "task-force",
+            "revenge-plot",
+            "undercover-operation"
+          ],
+          "mood_and_tone": [
+            "dark",
+            "suspenseful",
+            "gritty",
+            "intense",
+            "psychological-thriller"
+          ],
+          "genre_and_tropes": [
+            "crime-procedural",
+            "police-drama",
+            "thriller",
+            "cat-and-mouse"
+          ],
+          "setting": [
+            "modern-day",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "reluctant-hero",
+            "damaged-protagonist",
+            "mentor-figure"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "crime-scene",
+            "interrogation-room",
+            "evidence-locker",
+            "police-badge"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "psychological-distress"
+          ]
+        },
+        "keyword_sentence": "Chasing Shadows is a dark and suspenseful crime drama series following an elite task force as they relentlessly pursue elusive serial killers, exploring themes of justice, corruption, and the psychological toll of their dangerous work."
+      },
+      "duration_seconds": 60.21149969100952
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "input_data": {
+    "title": "Invader ZIM",
+    "overview": "Invader Zim is an American animated television series created by Jhonen Vasquez. The show premiered on Nickelodeon on March 30, 2001. The series involves an extraterrestrial named Zim who originates from a planet called Irk, and his ongoing mission to conquer and destroy Earth. His various attempts to subjugate and destroy the human race are invariably undermined by some combination of his own ineptitude, his malfunctioning robot servant GIR, and a young paranormal investigator named Dib, one of the very few people attentive enough to be aware of Zim's identity.",
+    "genres": [
+      "Animation",
+      "Sci-Fi & Fantasy",
+      "Comedy"
+    ],
+    "release_year": 2001,
+    "vote_count": 350
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Invader ZIM is a darkly comedic animated series centered on an incompetent alien tasked with conquering Earth. The show blends science fiction and absurdist humor, creating a unique and often unsettling tone. It satirizes human society through the perspective of an alien observer, exploring themes of alienation, paranoia, and the absurdity of authority. The dynamic between Zim, his robotic assistant GIR, and the skeptical Dib is the core of the show's humor and narrative drive, offering a subversive and imaginative take on the invasion narrative.",
+        "spoiler_rich_plot_summary": "The series begins with Zim's arrival on Earth, sent as an invader to conquer the planet. He is paired with GIR, a malfunctioning robot designed to assist him, but GIR's unpredictable behavior consistently foils Zim's plans. Zim's attempts to conquer Earth are constantly thwarted by Dib, a young boy who believes Zim is an alien and dedicates his life to exposing him. As the series progresses, Zim's motivations and origins are explored, revealing a complex backstory and a deeper sense of loneliness. While Zim never succeeds in his mission, his interactions with humans and his evolving relationship with GIR lead to moments of unexpected connection and a warped sense of belonging. The series ultimately portrays a darkly humorous exploration of ambition, failure, and the search for purpose in a chaotic universe, leaving Zim's ultimate fate ambiguous.",
+        "categorized_keywords": {
+          "themes": [
+            "alienation",
+            "paranoia",
+            "satire",
+            "ambition",
+            "failure",
+            "purpose",
+            "identity-crisis"
+          ],
+          "plot_and_concepts": [
+            "invasion-narrative",
+            "sci-fi-comedy",
+            "absurdist-humor",
+            "robot-assistant",
+            "secret-identity"
+          ],
+          "mood_and_tone": [
+            "darkly-comic",
+            "surreal",
+            "satirical",
+            "whimsical",
+            "unsettling"
+          ],
+          "genre_and_tropes": [
+            "animation",
+            "sci-fi",
+            "comedy",
+            "found-family",
+            "fish-out-of-water"
+          ],
+          "setting": [
+            "earth",
+            "suburban-setting",
+            "alternate-reality"
+          ],
+          "character_archetypes": [
+            "incompetent-villain",
+            "paranoid-protagonist",
+            "loyal-companion",
+            "eccentric-genius"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-storytelling",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult",
+            "teen"
+          ],
+          "detail_plot": [
+            "invasion-suit",
+            "gir-robot",
+            "dibs-lab",
+            "pakmas-ship"
+          ],
+          "maturity_and_content": [
+            "dark-humor",
+            "surreal-violence"
+          ]
+        },
+        "keyword_sentence": "Invader ZIM is a darkly comic animated series that satirizes human society through the lens of an incompetent alien, exploring themes of alienation and paranoia within a surreal and whimsical setting."
+      },
+      "duration_seconds": 59.85944104194641
+    }
+  }
+}

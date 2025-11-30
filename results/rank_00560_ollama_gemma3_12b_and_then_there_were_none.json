@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "And Then There Were None",
+    "overview": "Ten strangers, drawn away from their normal lives to an isolated rock off the Devon coast. But as the mismatched group waits for the arrival of the hosts -- the improbably named Mr. and Mrs. U.N. Owen -- the weather sours and they find themselves cut off from civilization. Very soon, the guests, each struggling with their conscience, will start to die -- one by one, according to the rules of the nursery rhyme 'Ten Little Soldier Boys' -- a rhyme that hangs in every room of the house and ends with the most terrifying words of all: '... and then there were none.",
+    "genres": [
+      "Mystery",
+      "Drama"
+    ],
+    "release_year": 2015,
+    "vote_count": 536
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "And Then There Were None is a suspenseful British mystery drama based on Agatha Christie's novel. The series unfolds on a remote island where ten strangers are lured under false pretenses, only to find themselves trapped and targeted by a mysterious killer. The narrative explores themes of guilt, justice, and the fragility of human relationships as the characters confront their pasts and struggle to survive. The series maintains a claustrophobic atmosphere, driven by the constant threat of violence and the unraveling of trust among the guests. It offers a compelling psychological thriller experience, emphasizing character-driven suspense over action-packed sequences.",
+        "spoiler_rich_plot_summary": "The story begins with ten individuals, each harboring a dark secret and linked to a past crime, summoned to a secluded island by an anonymous host. Upon arrival, they discover a copy of the chilling nursery rhyme 'Ten Little Soldier Boys,' which foreshadows their impending doom. As a storm cuts off the island from the mainland, the guests begin to die, one by one, mirroring the verses of the rhyme. Suspicion and paranoia grip the group as they desperately try to identify the killer among them. The investigation reveals that each guest is connected to a past injustice, and the killer is enacting a twisted form of retribution. As the body count rises, the remaining guests are forced to confront their own culpability and the possibility that one of them is the murderer. The final confrontation exposes the killer's identity and their motive, culminating in a shocking resolution that leaves the audience questioning the nature of justice and the consequences of hidden sins.",
+        "categorized_keywords": {
+          "themes": [
+            "guilt",
+            "justice",
+            "retribution",
+            "secrets",
+            "isolation",
+            "moral-ambiguity"
+          ],
+          "plot_and_concepts": [
+            "whodunit",
+            "locked-room-mystery",
+            "revenge-plot",
+            "nursery-rhyme",
+            "false-pretenses"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "claustrophobic",
+            "tense",
+            "ominous"
+          ],
+          "genre_and_tropes": [
+            "mystery-drama",
+            "crime-thriller",
+            "psychological-thriller",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "remote-island",
+            "devon-coast",
+            "isolated-mansion"
+          ],
+          "character_archetypes": [
+            "morally-gray-protagonist",
+            "suspicious-characters",
+            "victim"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "nursery-rhyme",
+            "isolated-mansion",
+            "storm",
+            "list-of-victims"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "suspense"
+          ]
+        },
+        "keyword_sentence": "Trapped on a remote island, ten strangers with hidden pasts are systematically eliminated, creating a suspenseful mystery drama steeped in guilt, retribution, and the chilling echoes of a nursery rhyme."
+      },
+      "duration_seconds": 59.29781651496887
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Crashing",
+    "overview": "A standup comic discovers that his wife is unfaithful, leading him to reevaluate his life amidst the New York City comedy scene.",
+    "genres": [
+      "Comedy"
+    ],
+    "release_year": 2017,
+    "vote_count": 52
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Crashing is a comedy series that explores the aftermath of a personal and professional crisis for a stand-up comedian. Following the discovery of his wife's infidelity, Pete is forced to confront his life and career, finding solace and unexpected connections within the vibrant New York City comedy circuit. The series blends humor with poignant moments of self-discovery and resilience, offering a relatable portrayal of navigating loss and rebuilding one's identity. It's a character-driven narrative that examines themes of family, relationships, and the pursuit of happiness, all while maintaining a lighthearted and observational tone.",
+        "spoiler_rich_plot_summary": "The series begins with Pete, a successful stand-up comedian, discovering his wife's affair. Devastated, he's forced to leave his comfortable life and move into his sister's tiny apartment in Brooklyn. This upheaval throws him into a new world of struggling comedians and unconventional living situations. As Pete attempts to rebuild his life, he begins performing at open mics and connecting with a diverse group of individuals, each grappling with their own personal challenges. He finds mentorship and friendship in unexpected places, learning about different perspectives and confronting his own shortcomings. Throughout the series, Pete's comedic style evolves as he draws inspiration from his experiences, and he begins to find a renewed sense of purpose and connection. While he navigates the complexities of his past relationship, he also explores new possibilities for his future, ultimately finding a path toward healing and self-acceptance.",
+        "categorized_keywords": {
+          "themes": [
+            "divorce",
+            "self-discovery",
+            "redemption",
+            "family-relationships",
+            "loss",
+            "healing",
+            "second-chances"
+          ],
+          "plot_and_concepts": [
+            "stand-up-comedy",
+            "new-york-city-life",
+            "unexpected-friendships",
+            "rebuilding-life",
+            "coming-of-age"
+          ],
+          "mood_and_tone": [
+            "comedic",
+            "lighthearted",
+            "observational",
+            "poignant",
+            "slice-of-life"
+          ],
+          "genre_and_tropes": [
+            "comedy",
+            "dramedy",
+            "character-driven",
+            "found-family"
+          ],
+          "setting": [
+            "new-york-city",
+            "brooklyn",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "comedian",
+            "reluctant-hero",
+            "mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "open-mic-night",
+            "comedy-club",
+            "brooklyn-apartment"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Crashing is a comedic dramedy set in modern-day New York City, exploring themes of divorce, self-discovery, and unexpected friendships as a comedian rebuilds his life and finds solace within a found-family of fellow performers."
+      },
+      "duration_seconds": 59.21300911903381
+    }
+  }
+}

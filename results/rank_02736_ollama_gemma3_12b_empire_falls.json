@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Empire Falls",
+    "overview": "The humorous, poignant story of a declining New England town and its inhabitants, whose lives are deeply rooted in and influenced by the Knox River and its vacant mills, their class differences, and ghosts of the past.",
+    "genres": [
+      "Drama"
+    ],
+    "release_year": 2005,
+    "vote_count": 57
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Empire Falls is a character-driven drama exploring the complexities of small-town life, economic decline, and generational trauma. The series focuses on Miles Roby, a man tethered to the failing town of Empire Falls and the powerful, enigmatic Knox family. Through a blend of humor and pathos, the show examines themes of loyalty, obligation, and the search for meaning in a community grappling with its past and uncertain future. The narrative unfolds with a deliberate pace, revealing secrets and relationships that shape the lives of its inhabitants, creating a poignant and often bittersweet portrait of a fading American landscape.",
+        "spoiler_rich_plot_summary": "The story centers on Miles Roby, who has spent his life in Empire Falls, working for the Knox family's diner, the Eve. His life is inextricably linked to the Knoxes, particularly Charlotte Knox, who holds significant power over the town and its residents. As a young man, Miles was involved in a tragic event that continues to haunt him and shape his relationship with Charlotte’s son, Peter. The series delves into the history of the Knox River and the mills that once defined Empire Falls, revealing the economic and social forces that have led to the town’s decline. Throughout the narrative, Miles grapples with his sense of obligation to Charlotte and his desire to escape the confines of Empire Falls. The series explores the secrets and betrayals that have shaped the town’s history, revealing the complex web of relationships between the Knox family and the residents of Empire Falls. Ultimately, Miles confronts his past and makes choices that will determine his future and the fate of the town.",
+        "categorized_keywords": {
+          "themes": [
+            "economic-decline",
+            "generational-trauma",
+            "small-town-life",
+            "loyalty",
+            "obligation",
+            "redemption",
+            "class-conflict",
+            "family-secrets"
+          ],
+          "plot_and_concepts": [
+            "small-town-mystery",
+            "family-saga",
+            "economic-disparity",
+            "past-haunting"
+          ],
+          "mood_and_tone": [
+            "poignant",
+            "bittersweet",
+            "melancholy",
+            "reflective"
+          ],
+          "genre_and_tropes": [
+            "drama",
+            "character-driven",
+            "small-town-drama"
+          ],
+          "setting": [
+            "new-england",
+            "small-town-usa",
+            "declining-industry"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "enigmatic-patron",
+            "burdened-protagonist"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "slow-burn",
+            "character-focused"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "eve-diner",
+            "knox-river",
+            "abandoned-mills",
+            "knox-family-estate"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Empire Falls is a poignant drama exploring the complexities of a declining New England town and its inhabitants, grappling with themes of loyalty, economic decline, and the weight of family secrets."
+      },
+      "duration_seconds": 63.406758308410645
+    }
+  }
+}

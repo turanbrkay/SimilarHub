@@ -1,0 +1,77 @@
+{
+  "input_data": {
+    "title": "Better Things",
+    "overview": "Sam Fox is a single, working actor with no filter trying to raise her three daughters – Max, Frankie and Duke – in Los Angeles. She is mom, dad, referee and the cops.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2016,
+    "vote_count": 148
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Better Things is a semi-autobiographical dramedy series that explores the challenges and triumphs of single motherhood and the complexities of family dynamics. The show blends humor and pathos as Sam Fox navigates the demands of her acting career while raising three daughters in Los Angeles. It offers a raw and honest portrayal of everyday struggles, punctuated by moments of unexpected joy and resilience. The series is characterized by its improvisational style and its unflinching look at the realities of modern family life, offering a relatable and often poignant viewing experience.",
+        "spoiler_rich_plot_summary": "The series begins with Sam Fox, a struggling actress, facing the sudden and unexpected death of her husband, Tony. This event throws her and her three daughters, Max, Frankie, and Duke, into a state of grief and uncertainty. Sam must now assume the role of both mother and father, juggling auditions, bills, and the emotional needs of her children. As the seasons progress, the girls grow and face their own challenges, including romantic relationships, school pressures, and identity crises. Sam's career experiences both successes and setbacks, forcing her to confront her own ambitions and insecurities. Throughout the series, the family grapples with the legacy of Tony's absence and the ongoing complexities of their relationships, ultimately finding strength and connection in their shared experiences. The show culminates in a poignant exploration of family bonds and the enduring power of love and acceptance.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "single-parenthood",
+            "grief",
+            "resilience",
+            "mother-daughter-relationships",
+            "loss",
+            "identity-quest"
+          ],
+          "plot_and_concepts": [
+            "coming-of-age",
+            "improvised-dialogue",
+            "semi-autobiographical",
+            "family-drama"
+          ],
+          "mood_and_tone": [
+            "comedic",
+            "dramatic",
+            "realistic",
+            "poignant",
+            "witty"
+          ],
+          "genre_and_tropes": [
+            "family-comedy",
+            "slice-of-life",
+            "ensemble-cast"
+          ],
+          "setting": [
+            "los-angeles",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "single-mother",
+            "reluctant-hero",
+            "teenage-daughter",
+            "child"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "acting-auditions",
+            "family-home",
+            "school-setting"
+          ],
+          "maturity_and_content": [
+            "mature-language",
+            "emotional-themes"
+          ]
+        },
+        "keyword_sentence": "Better Things is a comedic and dramatic series set in modern-day Los Angeles, exploring the poignant realities of single parenthood and the enduring strength of family bonds through a realistic and often witty portrayal of a mother and her three daughters."
+      },
+      "duration_seconds": 63.4574236869812
+    }
+  }
+}

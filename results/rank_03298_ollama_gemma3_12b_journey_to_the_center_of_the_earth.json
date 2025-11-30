@@ -1,0 +1,76 @@
+{
+  "input_data": {
+    "title": "Journey to the Center of the Earth",
+    "overview": "Remake of Jules Verne's classic story finds adventurers seeking a mysterious hidden land. They are joined by the wife of another man, who had previously gone on a similar expedition and disappeared.",
+    "genres": [
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1999,
+    "vote_count": 40
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Journey to the Center of the Earth is a science-fiction adventure film based on Jules Verne's novel. The story follows a team of explorers who embark on a perilous expedition to uncover a hidden world beneath the Earth's surface. The film blends elements of adventure, mystery, and fantasy, creating a visually stunning and action-packed experience. It explores themes of discovery, perseverance, and the unknown, while maintaining a sense of wonder and excitement. The narrative focuses on the dynamics within the expedition team as they face both natural and man-made obstacles in their quest.",
+        "spoiler_rich_plot_summary": "The film begins with Professor Trevor Anderton discovering a coded message left by his deceased colleague, Dr. John Rogers, hinting at a passage to the Earth's interior. Joining Anderton on the expedition are his daughter, Jenny, and a skilled guide, Max. They are unexpectedly joined by Gretchen, the widow of Dr. Rogers, who harbors her own motivations for joining the quest. The team descends into a vast subterranean world filled with prehistoric creatures, ancient civilizations, and dangerous traps. They encounter remnants of a lost civilization, revealing a history of previous expeditions and a complex understanding of the Earth's interior. As they navigate the treacherous landscape, tensions rise within the group, fueled by personal agendas and the constant threat of danger. The team faces numerous challenges, including encounters with hostile creatures and the unraveling of a conspiracy surrounding Dr. Rogers' disappearance. Ultimately, they uncover a hidden truth about the Earth's core and the fate of those who came before them, leading to a climactic confrontation and a perilous escape.",
+        "categorized_keywords": {
+          "themes": [
+            "exploration",
+            "discovery",
+            "perseverance",
+            "lost-civilizations",
+            "scientific-adventure",
+            "family-dynamics"
+          ],
+          "plot_and_concepts": [
+            "underground-world",
+            "lost-expedition",
+            "scientific-mystery",
+            "prehistoric-creatures",
+            "hidden-passage"
+          ],
+          "mood_and_tone": [
+            "adventurous",
+            "suspenseful",
+            "mysterious",
+            "action-packed"
+          ],
+          "genre_and_tropes": [
+            "science-fiction",
+            "adventure-film",
+            "lost-world",
+            "treasure-hunt"
+          ],
+          "setting": [
+            "underground-cave",
+            "prehistoric-era",
+            "remote-location"
+          ],
+          "character_archetypes": [
+            "eccentric-scientist",
+            "resourceful-guide",
+            "determined-daughter",
+            "grieving-widow"
+          ],
+          "narrative_style": [
+            "linear-narrative",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "underground-river",
+            "ancient-ruins",
+            "prehistoric-fossils",
+            "volcanic-vents"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Journey to the Center of the Earth is an adventurous science-fiction film that follows a team of explorers as they uncover a mysterious underground world filled with prehistoric creatures and lost civilizations, blending action and suspense for a family-friendly experience."
+      },
+      "duration_seconds": 60.253464221954346
+    }
+  }
+}

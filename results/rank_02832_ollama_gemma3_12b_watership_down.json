@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Watership Down",
+    "overview": "Fleeing their doomed warren, a group of rabbits struggle to find and defend a new home.",
+    "genres": [
+      "Animation"
+    ],
+    "release_year": 2018,
+    "vote_count": 53
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Watership Down is an animated series that reimagines the classic novel, focusing on a band of rabbits forced to leave their warren and embark on a perilous journey to establish a new home. The series blends adventure, survival, and political intrigue, exploring themes of leadership, community, and the struggle against oppression. It offers a compelling narrative with a focus on character development and the challenges of building a society from scratch, set against a backdrop of natural beauty and danger. The animation style is visually striking, and the story resonates with universal themes of hope and resilience.",
+        "spoiler_rich_plot_summary": "The series begins with Fiver, a young rabbit with prophetic dreams, foreseeing the destruction of his warren, Sandleford. He convinces his brother Hazel and a group of other rabbits to flee, embarking on a dangerous journey to find a safe haven. They face numerous obstacles, including predators, harsh weather, and the threat of Efrafa, a totalitarian warren ruled by the ruthless General Woundwhistle. Hazel and Fiver, along with their companions, encounter various rabbit societies, each with its own unique culture and challenges. They ultimately find refuge in Cowslip’s warren, which initially seems idyllic but is revealed to be a deceptive trap orchestrated by the sinister Cowslip. A final confrontation ensues, leading to the liberation of Cowslip’s warren and the establishment of a new, more equitable society, built on principles of freedom and cooperation. The series concludes with the rabbits facing an uncertain future, but united in their commitment to their new home and the values they represent.",
+        "categorized_keywords": {
+          "themes": [
+            "survival",
+            "leadership",
+            "community",
+            "oppression",
+            "freedom",
+            "hope",
+            "resilience",
+            "nature-vs-civilization"
+          ],
+          "plot_and_concepts": [
+            "quest-narrative",
+            "political-intrigue",
+            "dystopian-society",
+            "founding-of-civilization",
+            "prophecy"
+          ],
+          "mood_and_tone": [
+            "serious",
+            "tense",
+            "hopeful",
+            "melancholy"
+          ],
+          "genre_and_tropes": [
+            "adventure",
+            "animation",
+            "coming-of-age",
+            "political-drama"
+          ],
+          "setting": [
+            "english-countryside",
+            "natural-environment",
+            "warren-society"
+          ],
+          "character_archetypes": [
+            "reluctant-hero",
+            "wise-mentor",
+            "tyrant",
+            "prophet"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "family-audience",
+            "young-adult"
+          ],
+          "detail_plot": [
+            "rabbit-warren",
+            "predator-attack",
+            "underground-tunnel",
+            "rabbit-markings"
+          ],
+          "maturity_and_content": [
+            "violence",
+            "predator-prey"
+          ]
+        },
+        "keyword_sentence": "Watership Down is a serious animated series set in the English countryside, exploring themes of survival, leadership, and the founding of a new society through a quest narrative filled with peril and political intrigue."
+      },
+      "duration_seconds": 64.16809821128845
+    }
+  }
+}

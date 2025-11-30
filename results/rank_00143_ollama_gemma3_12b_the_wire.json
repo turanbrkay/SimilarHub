@@ -1,0 +1,85 @@
+{
+  "input_data": {
+    "title": "The Wire",
+    "overview": "Told from the points of view of both the Baltimore homicide and narcotics detectives and their targets, the series captures a universe in which the national war on drugs has become a permanent, self-sustaining bureaucracy, and distinctions between good and evil are routinely obliterated.",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "release_year": 2002,
+    "vote_count": 1889
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The Wire is a critically acclaimed crime drama that eschews traditional narrative structures to offer a complex and unflinching portrayal of urban decay and systemic failures. The series distinguishes itself by presenting multiple perspectives – from law enforcement to drug dealers, educators, and politicians – revealing the intricate web of corruption and the devastating consequences of institutional negligence. Its realistic tone and nuanced characters explore themes of power, poverty, and the cyclical nature of crime, offering a bleak but compelling commentary on American society. The show's serialized format and lack of clear-cut heroes or villains create a morally ambiguous landscape that challenges viewers to confront uncomfortable truths.",
+        "spoiler_rich_plot_summary": "The Wire begins by focusing on the Baltimore Police Department's efforts to infiltrate a major drug organization led by Avon Barksdale. Detective Jimmy McNulty orchestrates the sting, but the operation's success is compromised by political maneuvering and the desire to avoid accountability. Subsequent seasons shift focus, examining the city's public school system, the docks, and the political machine, each revealing deep-seated problems and the individuals struggling within them. Characters like Omar Little, a notorious robber, and Lester Freamon, a resourceful detective, become central figures, navigating the complex moral landscape. Throughout the series, alliances shift, betrayals occur, and characters face devastating consequences for their actions, highlighting the pervasive nature of corruption and the difficulty of achieving meaningful change. The final season focuses on the city's bureaucracy and the challenges faced by those attempting to maintain order, culminating in a poignant and unresolved conclusion that underscores the cyclical nature of the problems depicted.",
+        "categorized_keywords": {
+          "themes": [
+            "urban-decay",
+            "institutional-corruption",
+            "power-dynamics",
+            "social-inequality",
+            "redemption",
+            "moral-ambiguity",
+            "systemic-failure"
+          ],
+          "plot_and_concepts": [
+            "police-procedural",
+            "serialized-story",
+            "crime-drama",
+            "undercover-operation",
+            "political-thriller",
+            "ensemble-cast"
+          ],
+          "mood_and_tone": [
+            "gritty",
+            "realistic",
+            "bleak",
+            "somber",
+            "cynical"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "police-procedural",
+            "ensemble-cast",
+            "slow-burn-narrative"
+          ],
+          "setting": [
+            "baltimore-city",
+            "modern-day",
+            "urban-environment"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "corrupt-politician",
+            "resourceful-detective",
+            "criminal-mastermind"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast",
+            "multiple-perspectives"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "drug-trade",
+            "police-wiretap",
+            "courtroom-scene",
+            "school-yard",
+            "city-hall"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "drug-abuse",
+            "profanity"
+          ]
+        },
+        "keyword_sentence": "The Wire offers a gritty and realistic portrayal of systemic corruption and social inequality within the urban environment of Baltimore, exploring complex power dynamics through a sprawling ensemble cast and a serialized narrative."
+      },
+      "duration_seconds": 71.40503120422363
+    }
+  }
+}

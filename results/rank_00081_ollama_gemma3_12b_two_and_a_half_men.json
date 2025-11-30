@@ -1,0 +1,75 @@
+{
+  "input_data": {
+    "title": "Two and a Half Men",
+    "overview": "A hedonistic jingle writer's free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "release_year": 2003,
+    "vote_count": 2843
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Two and a Half Men is a sitcom that initially presents a comedic exploration of wealth, family dynamics, and irresponsible behavior. The series follows Charlie Harper, a wealthy and carefree musician, whose life is disrupted by the unexpected arrival of his uptight brother Alan and Alan's son Jake. While the show relies heavily on slapstick and crude humor, it also delves into themes of loneliness, responsibility, and the complexities of familial relationships. Over time, the show evolves, shifting its focus and tone, ultimately examining the consequences of unchecked privilege and the search for genuine connection.",
+        "spoiler_rich_plot_summary": "The series begins with Charlie Harper, a successful jingle writer living a life of luxury and casual relationships, finding his comfortable existence upended when his estranged brother, Alan, a chiropractor struggling with financial and emotional instability, moves in with him along with Alan’s son, Jake. Charlie’s carefree lifestyle clashes with Alan’s neurotic tendencies and Jake’s precocious nature, creating a constant source of comedic conflict. As the series progresses, the characters navigate various romantic relationships, career challenges, and personal growth. Alan’s persistent attempts to find stability and respectability are often thwarted by his own insecurities and Charlie’s influence. Jake matures from a child into a young adult, grappling with identity and ambition. Charlie's relationships are often tumultuous, and he experiences periods of self-reflection and regret. The show explores the evolving dynamics between the three men, highlighting their shared vulnerabilities and the unexpected bonds that form between them. Later seasons see significant cast changes and a shift in the show's overall tone, reflecting the characters' journeys and the changing landscape of television comedy.",
+        "categorized_keywords": {
+          "themes": [
+            "family-dynamics",
+            "wealth-and-privilege",
+            "responsibility",
+            "loneliness",
+            "redemption",
+            "growing-up"
+          ],
+          "plot_and_concepts": [
+            "fish-out-of-water",
+            "sitcom",
+            "found-family",
+            "sibling-rivalry"
+          ],
+          "mood_and_tone": [
+            "crude-humor",
+            "satirical",
+            "lighthearted",
+            "comedic"
+          ],
+          "genre_and_tropes": [
+            "sitcom",
+            "family-comedy"
+          ],
+          "setting": [
+            "california",
+            "beachfront-house",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "hedonist",
+            "neurotic-character",
+            "precocious-child",
+            "uptight-character"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-format"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "beachfront-house",
+            "piano",
+            "pool"
+          ],
+          "maturity_and_content": [
+            "sexual-content",
+            "crude-humor"
+          ]
+        },
+        "keyword_sentence": "Two and a Half Men is a comedic sitcom exploring family dynamics and the complexities of wealth and responsibility, set in a modern California beachfront house."
+      },
+      "duration_seconds": 64.73382377624512
+    }
+  }
+}

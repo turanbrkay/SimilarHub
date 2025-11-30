@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Star Wars: Droids",
+    "overview": "An animated television series that features the exploits of R2-D2 and C-3PO. The series takes place between the events depicted in Star Wars Episode III: Revenge of the Sith and Star Wars Episode IV: A New Hope.",
+    "genres": [
+      "Kids",
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 1985,
+    "vote_count": 70
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Star Wars: Droids is an animated series serving as a bridge between Episodes III and IV of the Star Wars saga. The show follows the adventures of astromech droid R2-D2 and protocol droid C-3PO as they navigate the galaxy, encountering various characters and situations. It offers a lighter, more comedic take on the Star Wars universe, geared towards a younger audience while still maintaining elements of action and adventure. The series explores themes of friendship, loyalty, and survival within the larger context of the galactic conflict.",
+        "spoiler_rich_plot_summary": "The series begins with R2-D2 and C-3PO separated from the Rebel Alliance and stranded on various planets. They become embroiled in local conflicts, often assisting those in need while trying to find a way back to their friends. Throughout their travels, they encounter a colorful cast of characters, both friendly and hostile, and become involved in schemes that often have wider galactic implications. They frequently assist in thwarting Imperial operations and aiding those oppressed by the Empire. The droids' adventures ultimately lead them closer to the events of A New Hope, where they are reunited with Luke Skywalker, Han Solo, and Princess Leia, playing a small but vital role in the Rebellion's fight against the Empire.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship",
+            "loyalty",
+            "survival",
+            "galactic-conflict",
+            "droid-companionship"
+          ],
+          "plot_and_concepts": [
+            "droid-adventure",
+            "galactic-travel",
+            "imperial-oppression",
+            "rebellion-aid",
+            "time-bridge"
+          ],
+          "mood_and_tone": [
+            "lighthearted",
+            "comedic",
+            "adventurous",
+            "wholesome"
+          ],
+          "genre_and_tropes": [
+            "animated-series",
+            "sci-fi-adventure",
+            "found-family",
+            "droid-centric"
+          ],
+          "setting": [
+            "galaxy-far-far-away",
+            "pre-new-hope",
+            "various-planets"
+          ],
+          "character_archetypes": [
+            "astromech-droid",
+            "protocol-droid",
+            "rebel-allies",
+            "imperial-villains"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "episodic-adventure"
+          ],
+          "target_audience": [
+            "kids",
+            "family-audience"
+          ],
+          "detail_plot": [
+            "astromech-droid",
+            "protocol-droid",
+            "imperial-ship",
+            "rebel-base"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Star Wars: Droids is a lighthearted animated series that follows the adventures of two droid companions as they navigate a galaxy far, far away, bridging the gap between the dark times of the Empire and the dawn of the Rebellion."
+      },
+      "duration_seconds": 58.7550253868103
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "input_data": {
+    "title": "The World at War",
+    "overview": "A documentary series that gives a historical account of the events of World War II, from its roots in the 1920s to the aftermath and the lives it profoundly influenced.",
+    "genres": [
+      "Documentary",
+      "War & Politics"
+    ],
+    "release_year": 1973,
+    "vote_count": 130
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "The World at War is a comprehensive documentary series offering a detailed historical account of World War II. Through extensive archival footage, personal testimonies, and expert analysis, it explores the political, social, and military events that shaped the conflict and its lasting impact. The series aims to present a balanced perspective, examining the experiences of individuals and nations on all sides of the war. It is a deeply moving and informative exploration of a pivotal moment in human history, emphasizing the human cost of war and the complexities of international relations.",
+        "spoiler_rich_plot_summary": "The series begins by tracing the roots of the conflict, examining the political and economic instability in Europe following World War I and the rise of totalitarian regimes in Germany, Italy, and Japan. It follows the escalating tensions as Germany, under Adolf Hitler, aggressively expands its territory, culminating in the invasion of Poland in 1939 and the outbreak of war. The documentary chronicles the major campaigns of the war, including the Battle of Britain, the invasion of the Soviet Union, and the war in the Pacific. It details the key turning points, such as the Battle of Stalingrad and the D-Day landings, and explores the strategies and technologies employed by both sides. The series also examines the Holocaust, the systematic genocide of Jews and other minorities by the Nazi regime, and the devastating impact of the atomic bombings of Hiroshima and Nagasaki. Following the unconditional surrender of Germany and Japan, the documentary explores the immediate aftermath of the war, including the Nuremberg trials, the rebuilding of Europe, and the beginning of the Cold War.",
+        "categorized_keywords": {
+          "themes": [
+            "war-crimes",
+            "political-instability",
+            "totalitarianism",
+            "human-cost",
+            "international-relations",
+            "genocide",
+            "post-war-reconstruction"
+          ],
+          "plot_and_concepts": [
+            "military-campaigns",
+            "political-propaganda",
+            "aerial-warfare",
+            "naval-blockade",
+            "resistance-movements"
+          ],
+          "mood_and_tone": [
+            "somber",
+            "reflective",
+            "historical",
+            "unflinching"
+          ],
+          "genre_and_tropes": [
+            "documentary",
+            "historical-account",
+            "war-politics"
+          ],
+          "setting": [
+            "europe",
+            "pacific-theater",
+            "world-war-ii",
+            "1930s",
+            "1940s"
+          ],
+          "character_archetypes": [
+            "military-leaders",
+            "political-figures",
+            "resistance-fighters",
+            "ordinary-citizens"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "chronological-account"
+          ],
+          "target_audience": [
+            "adult-viewers",
+            "history-enthusiasts"
+          ],
+          "detail_plot": [
+            "nuremberg-trials",
+            "d-day-landings",
+            "hiroshima-bombing",
+            "auschwitz-concentration-camp",
+            "atlantic-convoys"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "genocide-themes",
+            "war-crimes"
+          ]
+        },
+        "keyword_sentence": "The World at War is a somber and unflinching documentary series that chronicles the political and military events of World War II, exploring themes of genocide, war crimes, and the profound human cost of a global conflict."
+      },
+      "duration_seconds": 72.11962795257568
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "input_data": {
+    "title": "Sherlock",
+    "overview": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2010,
+    "vote_count": 4716
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Sherlock reimagines the legendary detective in a razor‑sharp, tech‑savvy London, pairing Holmes’s razor‑sharp logic with Watson’s grounded humanity. The series balances cerebral puzzle‑solving with dark, often violent crime, while exploring themes of friendship, identity, and the psychological toll of obsession. Its fast‑paced, stylized tone blends sharp wit with intense suspense, presenting a modern myth of the lone genius and his loyal sidekick.",
+        "spoiler_rich_plot_summary": "The series opens with a modern take on the classic detective duo, where Sherlock Holmes (Benedict Cumberbatch) and Dr. John Watson (Martin Freeman) solve a series of complex crimes in 21st‑century London. Each episode presents a self‑contained mystery, often involving high‑tech clues, while a larger narrative threads through the seasons: Holmes’s battle with his own mental health, his rivalry with Moriarty, and his complicated relationship with his brother Mycroft. In season three, Holmes is presumed dead after a fall at Reichenbach Falls, but returns in season four to confront a new Moriarty and to face the consequences of his past actions. The series concludes with Holmes and Watson embarking on a new chapter outside London, hinting at a future beyond the city’s shadows.",
+        "categorized_keywords": {
+          "themes": [
+            "logic-vs-emotion",
+            "friendship",
+            "identity-crisis",
+            "mental-health",
+            "moral-ambiguity"
+          ],
+          "plot_and_concepts": [
+            "modern-sleuth",
+            "deductive-reasoning",
+            "crime-solving",
+            "baker-street",
+            "moriarty",
+            "john-watson",
+            "reichenbach-fall",
+            "modern-technology"
+          ],
+          "mood_and_tone": [
+            "intense",
+            "dark",
+            "witty",
+            "intellectual"
+          ],
+          "genre_and_tropes": [
+            "crime-drama",
+            "mystery",
+            "detective",
+            "partner-relationship",
+            "superhero-logic"
+          ],
+          "setting": [
+            "modern-london",
+            "present-day"
+          ],
+          "character_archetypes": [
+            "detective",
+            "sidekick",
+            "arch-nemesis",
+            "mentor"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "fast-paced",
+            "episodic"
+          ],
+          "target_audience": [
+            "mature-audiences",
+            "crime-fans",
+            "british-drama"
+          ],
+          "detail_plot": [
+            "baker-street",
+            "reichenbach-fall",
+            "modern-technology",
+            "moriarty-crypt",
+            "sherlock-holmes"
+          ]
+        },
+        "keyword_sentence": "Sherlock is a modern-sleuth series that blends intense, witty crime-solving with themes of logic-vs-emotion and identity-crisis, set in present-day london and featuring iconic elements like baker-street, reichenbach-fall, and a dynamic detective-sidekick partnership."
+      },
+      "duration_seconds": 118.24541974067688
+    }
+  }
+}

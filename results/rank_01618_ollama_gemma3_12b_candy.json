@@ -1,0 +1,79 @@
+{
+  "input_data": {
+    "title": "Candy",
+    "overview": "Candy Montgomery is a 1980s housewife and mother who did everything right — but when the pressure of conformity builds within her, her actions scream for just a bit of freedom. Until someone tells her to shush. With deadly results.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "release_year": 2022,
+    "vote_count": 129
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Candy is a true-crime drama series exploring the seemingly idyllic life of Candy Montgomery, a 1980s Texas housewife whose carefully constructed facade crumbles under the weight of societal expectations and repressed desires. The series delves into the complexities of suburban life, the pressures on women, and the potential for darkness lurking beneath a veneer of perfection. Through a blend of psychological suspense and character-driven storytelling, Candy examines the motivations behind a shocking crime and the ripple effects it has on a community. The narrative unfolds with a deliberate pace, building tension and exploring the nuances of human relationships.",
+        "spoiler_rich_plot_summary": "The series begins by introducing Candy Montgomery, a popular and seemingly perfect housewife in Wylie, Texas. She and her husband, Allan, appear to have a loving marriage and a comfortable life. However, Candy feels stifled by the constraints of her role and yearns for something more. She begins an affair with Allan’s friend, Betty Gore, a woman who is also a mother and a pillar of the community. The relationship between Candy and Betty is complex, marked by both intimacy and underlying tensions. The narrative then shifts dramatically when Betty is found murdered in her home, and Candy becomes the prime suspect. The subsequent investigation and trial expose the secrets and lies within the community, revealing the fragility of appearances and the destructive power of repressed emotions. The series culminates in a courtroom drama where Candy's guilt or innocence is debated, leaving the audience to grapple with the ambiguity of human nature and the complexities of justice.",
+        "categorized_keywords": {
+          "themes": [
+            "suburban-life",
+            "repressed-desires",
+            "marital-discord",
+            "female-agency",
+            "social-expectations",
+            "guilt-and-innocence",
+            "true-crime"
+          ],
+          "plot_and_concepts": [
+            "affair",
+            "murder-mystery",
+            "courtroom-drama",
+            "investigation",
+            "false-image"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "psychological-thriller",
+            "unsettling"
+          ],
+          "genre_and_tropes": [
+            "true-crime-drama",
+            "domestic-thriller",
+            "1980s-setting"
+          ],
+          "setting": [
+            "1980s-texas",
+            "suburban-community"
+          ],
+          "character_archetypes": [
+            "suburban-housewife",
+            "unfaithful-partner",
+            "victim",
+            "accused"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "character-driven"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "suburban-home",
+            "courtroom",
+            "police-investigation",
+            "1980s-fashion"
+          ],
+          "maturity_and_content": [
+            "graphic-violence",
+            "marital-affair",
+            "sexual-content"
+          ]
+        },
+        "keyword_sentence": "Candy is a suspenseful true-crime drama set in 1980s Texas, exploring the dark underbelly of suburban life and the consequences of repressed desires through the story of a seemingly perfect housewife accused of a shocking crime."
+      },
+      "duration_seconds": 69.09836554527283
+    }
+  }
+}

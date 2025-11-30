@@ -1,0 +1,78 @@
+{
+  "input_data": {
+    "title": "Fantasy Island",
+    "overview": "This contemporary version of the classic drama series delves into the “what if” questions that keep us awake at night. Each episode tells emotional, provocative stories about people who walk in with a desire, but end up reborn to themselves through the magical realism of Fantasy Island.",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_year": 2021,
+    "vote_count": 55
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Fantasy Island is a contemporary reimagining of the classic anthology series, exploring the human condition through fantastical scenarios. Each episode presents individuals seeking to fulfill a desire, only to confront deeper truths about themselves and their lives through the island's magical interventions. The show blends drama with elements of science fiction and fantasy, offering a reflective and often emotionally resonant experience that examines personal growth and the consequences of choices. It leans into themes of self-discovery and the exploration of 'what if' scenarios, offering a unique blend of escapism and introspection.",
+        "spoiler_rich_plot_summary": "The series centers around Elena Roarke, a modern iteration of the original Mr. Roarke, who runs a mysterious island resort catering to guests seeking to fulfill their deepest desires. Each guest arrives with a specific request, believing it will bring them happiness or resolution. However, the island's magic often reveals unexpected consequences and forces them to confront uncomfortable truths about themselves and their pasts. The island's magic isn't simply about granting wishes; it's about facilitating profound personal transformations. Guests often find that the reality of their desires is far more complex than they initially imagined, and the island's interventions frequently lead to unexpected emotional journeys and altered perspectives. The series explores the idea that true fulfillment often lies not in achieving a specific outcome, but in the process of self-discovery and acceptance.",
+        "categorized_keywords": {
+          "themes": [
+            "self-discovery",
+            "desire",
+            "regret",
+            "redemption",
+            "fate",
+            "consequences",
+            "acceptance"
+          ],
+          "plot_and_concepts": [
+            "wish-fulfillment",
+            "alternate-reality",
+            "anthology-series",
+            "magical-realism",
+            "moral-dilemma"
+          ],
+          "mood_and_tone": [
+            "reflective",
+            "melancholy",
+            "hopeful",
+            "mysterious",
+            "thought-provoking"
+          ],
+          "genre_and_tropes": [
+            "fantasy",
+            "drama",
+            "anthology",
+            "wish-granting",
+            "moral-exploration"
+          ],
+          "setting": [
+            "tropical-island",
+            "alternate-timeline",
+            "liminal-space"
+          ],
+          "character_archetypes": [
+            "enigmatic-host",
+            "seeking-guest",
+            "moral-guide"
+          ],
+          "narrative_style": [
+            "episodic",
+            "standalone-episodes"
+          ],
+          "target_audience": [
+            "adult-viewers"
+          ],
+          "detail_plot": [
+            "island-resort",
+            "magical-intervention",
+            "guest-request",
+            "roarke-estate"
+          ],
+          "maturity_and_content": []
+        },
+        "keyword_sentence": "Fantasy Island explores themes of self-discovery and regret through episodic stories set on a mysterious tropical island, where guests confront their deepest desires and undergo transformative experiences guided by an enigmatic host."
+      },
+      "duration_seconds": 54.38836359977722
+    }
+  }
+}

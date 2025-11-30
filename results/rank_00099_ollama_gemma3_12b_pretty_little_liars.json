@@ -1,0 +1,81 @@
+{
+  "input_data": {
+    "title": "Pretty Little Liars",
+    "overview": "Based on the Pretty Little Liars series of young adult novels by Sara Shepard, the series follows the lives of four girls — Spencer, Hanna, Aria, and Emily — whose clique falls apart after the disappearance of their queen bee, Alison. One year later, they begin receiving messages from someone using the name \"A\" who threatens to expose their secrets — including long-hidden ones they thought only Alison knew.",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "release_year": 2010,
+    "vote_count": 2425
+  },
+  "llm_outputs": {
+    "ollama": {
+      "response": {
+        "analytical_summary": "Pretty Little Liars is a teen drama and mystery series centered on a group of friends grappling with the reappearance of a manipulative figure from their past. The show blends suspense, romance, and social intrigue, exploring themes of friendship, betrayal, and the burden of secrets. Its narrative structure relies heavily on cliffhangers and red herrings, creating a consistently unsettling atmosphere and keeping viewers guessing about the identity and motives of the mysterious 'A'. The series offers a compelling exploration of adolescence, social dynamics, and the lengths to which people will go to protect their reputations.",
+        "spoiler_rich_plot_summary": "The series begins a year after Alison DiLaurentis mysteriously disappears, leaving her four closest friends – Spencer Hastings, Hanna Marin, Aria Montgomery, and Emily Fields – reeling from the loss and burdened by secrets Alison knew. Soon after, they begin receiving cryptic messages from someone calling themselves 'A,' who threatens to expose their darkest secrets. The initial seasons focus on uncovering clues about Alison’s disappearance and identifying 'A,' with numerous suspects and elaborate schemes. As the girls investigate, they uncover a web of lies, betrayals, and hidden relationships within their town. Multiple iterations of 'A' are revealed, each with increasingly complex motives and connections to the girls' pasts. The series progresses through several 'big reveals,' with each iteration of 'A' leading to further layers of mystery and a larger conspiracy. The girls face constant danger and manipulation, testing the limits of their friendship and forcing them to confront their own flaws. The final seasons delve into the origins of the 'A' game and the true extent of the conspiracy, ultimately revealing a complex family connection and a desire for revenge rooted in past grievances. While the girls manage to expose the final 'A' and bring them to justice, the experience leaves a lasting impact on their lives and their understanding of the darkness that can exist within seemingly ordinary communities.",
+        "categorized_keywords": {
+          "themes": [
+            "friendship-betrayal",
+            "secrets-and-lies",
+            "revenge",
+            "social-status",
+            "identity-quest",
+            "manipulation"
+          ],
+          "plot_and_concepts": [
+            "mystery-thriller",
+            "cat-and-mouse",
+            "red-herring",
+            "secret-society",
+            "whodunit"
+          ],
+          "mood_and_tone": [
+            "suspenseful",
+            "dark",
+            "tense",
+            "gothic"
+          ],
+          "genre_and_tropes": [
+            "teen-drama",
+            "mystery-procedural",
+            "whodunit",
+            "cliffhanger"
+          ],
+          "setting": [
+            "small-town-usa",
+            "modern-day"
+          ],
+          "character_archetypes": [
+            "anti-hero",
+            "manipulative-villain",
+            "reluctant-hero",
+            "gossip-girl"
+          ],
+          "narrative_style": [
+            "serialized-story",
+            "ensemble-cast"
+          ],
+          "target_audience": [
+            "young-adult"
+          ],
+          "detail_plot": [
+            "secret-passcode",
+            "text-message",
+            "abandoned-mansion",
+            "gossip-mill",
+            "diaril"
+          ],
+          "maturity_and_content": [
+            "bullying",
+            "stalking",
+            "sexual-content",
+            "graphic-violence"
+          ]
+        },
+        "keyword_sentence": "Pretty Little Liars is a suspenseful teen drama set in a small town, where a group of friends are relentlessly manipulated and threatened by a mysterious figure, exploring themes of friendship, betrayal, and the dark secrets that can unravel even the closest communities."
+      },
+      "duration_seconds": 76.52767634391785
+    }
+  }
+}
