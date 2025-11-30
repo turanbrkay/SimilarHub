@@ -63,6 +63,8 @@
     align-items: flex-start;
     left: clamp(18rem, 40vw, 35rem);
     top: 1.5rem;
+    overflow: hidden;
+    height: 3.5rem;
 }
 
 .ranked-grid-title span {
@@ -83,12 +85,39 @@
     }
 }
 
+/* Animated title text */
+.ranked-grid-title-text {
+    font-size: 1.25rem;
+    font-weight: 700;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+    color: rgb(255, 255, 255);
+    line-height: 1.75rem;
+    font-family: Montserrat, 'Montserrat Fallback', sans-serif;
+    font-style: normal;
+
+    /* Slide down + fade in animation */
+    animation: slideDownFadeIn 500ms ease-out;
+}
+
+@keyframes slideDownFadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-100%);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
 /* Dropdown Wrapper */
 .ranked-dropdown-wrapper {
     position: absolute;
     top: -5.5rem;
     right: 1rem;
     z-index: 20;
+    animation: none !important;
 }
 
 /* Dropdown Button */
@@ -206,6 +235,23 @@
     justify-content: center;
     padding: 1.5rem 1rem;
     overflow: hidden;
+}
+
+/* Card enter animation with stagger */
+.ranked-grid-item[data-card] {
+    animation: slideRightFadeIn 500ms ease-out backwards;
+    animation-delay: calc(var(--stagger-index, 0) * 50ms);
+}
+
+@keyframes slideRightFadeIn {
+    from {
+        opacity: 0;
+        transform: translateX(100px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
 }
 
 /* Grid cell borders using pseudo-elements */
