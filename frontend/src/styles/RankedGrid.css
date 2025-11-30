@@ -11,7 +11,7 @@
     display: flex;
     justify-content: flex-start;
     align-items: flex-start;
-    height: clamp(8rem, 12vw, 10rem);
+    height: clamp(6rem, 10vw, 8rem);
 }
 
 /* Blur effect below header - only under TODAY'S text */
