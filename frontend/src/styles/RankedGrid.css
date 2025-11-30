@@ -12,6 +12,7 @@
     justify-content: flex-start;
     align-items: flex-start;
     height: clamp(6rem, 10vw, 8rem);
+    margin-bottom: -2rem;
 }
 
 /* Blur effect below header - only under TODAY'S text */
