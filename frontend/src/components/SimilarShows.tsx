@@ -123,152 +123,148 @@ const SimilarShows: React.FC<SimilarShowsProps> = ({ showId, onBack, onShowClick
 
     const displayName = getDisplayName(sourceShow);
     const year = getYear(sourceShow);
-    const backgroundImage = sourceShow.backdrop_path || sourceShow.poster_path;
+    // const backgroundImage = sourceShow.backdrop_path || sourceShow.poster_path; // Background image logic removed from hero
 
     return (
         <div className="similar-detail-page">
             {/* Section 2: Detail Hero */}
             <div className="detail-hero">
-                <div
-                    className="detail-hero-background"
-                    style={{
-                        backgroundImage: backgroundImage
-                            ? `url(https://image.tmdb.org/t/p/original${backgroundImage})`
-                            : 'none',
-                    }}
-                />
-
-                < div className="detail-hero-content" >
-                    {/* Left: Poster */}
-                    < div className="detail-hero-poster" >
-                        <img
-                            src={`https://image.tmdb.org/t/p/w500${sourceShow.poster_path}`}
-                            alt={displayName}
-                        />
-                    </div >
-
-                    {/* Right: Metadata */}
-                    < div className="detail-hero-metadata" >
-                        <h1 className="detail-hero-title">{displayName}</h1>
-
-                        <div className="detail-hero-subtitle">
-                            {year && <span>{year}</span>}
-                            {sourceShow.number_of_seasons && (
-                                <span>{sourceShow.number_of_seasons} Season{sourceShow.number_of_seasons > 1 ? 's' : ''}</span>
-                            )}
-                            {sourceShow.genres && sourceShow.genres.length > 0 && (
-                                <span>{sourceShow.genres.join(', ')}</span>
-                            )}
+                <div className="page-content-width">
+                    <div className="detail-hero-content">
+                        {/* Left: Poster */}
+                        <div className="detail-hero-poster">
+                            <img
+                                src={`https://image.tmdb.org/t/p/w500${sourceShow.poster_path}`}
+                                alt={displayName}
+                            />
                         </div>
 
-                        {/* Badges */}
-                        < div className="detail-hero-badges" >
-                            {
-                                sourceShow.vote_average && (
-                                    <div className="detail-hero-badge score">
-                                        <span className="detail-hero-badge-icon">⭐</span>
-                                        <span>{sourceShow.vote_average.toFixed(1)}</span>
-                                    </div>
-                                )
-                            }
-                            {
-                                sourceShow.vote_count && (
-                                    <div className="detail-hero-badge">
-                                        <span>{formatVoteCount(sourceShow.vote_count)} votes</span>
-                                    </div>
-                                )
-                            }
-                            {
-                                sourceShow.number_of_episodes && (
-                                    <div className="detail-hero-badge">
-                                        <span>{sourceShow.number_of_episodes} Episodes</span>
-                                    </div>
-                                )
-                            }
-                        </div >
+                        {/* Right: Metadata */}
+                        <div className="detail-hero-metadata">
+                            <h1 className="detail-hero-title">{displayName}</h1>
 
-                        {/* Overview */}
-                        {
-                            sourceShow.overview && (
-                                <p className="detail-hero-overview">{sourceShow.overview}</p>
-                            )
-                        }
-                    </div >
-                </div >
-            </div >
+                            <div className="detail-hero-subtitle">
+                                {year && <span>{year}</span>}
+                                {sourceShow.number_of_seasons && (
+                                    <span>{sourceShow.number_of_seasons} Season{sourceShow.number_of_seasons > 1 ? 's' : ''}</span>
+                                )}
+                                {sourceShow.genres && sourceShow.genres.length > 0 && (
+                                    <span>{sourceShow.genres.join(', ')}</span>
+                                )}
+                            </div>
+
+                            {/* Badges */}
+                            <div className="detail-hero-badges">
+                                {
+                                    sourceShow.vote_average && (
+                                        <div className="detail-hero-badge score">
+                                            <span className="detail-hero-badge-icon">⭐</span>
+                                            <span>{sourceShow.vote_average.toFixed(1)}</span>
+                                        </div>
+                                    )
+                                }
+                                {
+                                    sourceShow.vote_count && (
+                                        <div className="detail-hero-badge">
+                                            <span>{formatVoteCount(sourceShow.vote_count)} votes</span>
+                                        </div>
+                                    )
+                                }
+                                {
+                                    sourceShow.number_of_episodes && (
+                                        <div className="detail-hero-badge">
+                                            <span>{sourceShow.number_of_episodes} Episodes</span>
+                                        </div>
+                                    )
+                                }
+                            </div>
+
+                            {/* Overview */}
+                            {
+                                sourceShow.overview && (
+                                    <p className="detail-hero-overview">{sourceShow.overview}</p>
+                                )
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
 
             {/* Section 3: Visual Similarity Map - Uses top 40 from allSimilarShows for the visualization */}
             {
                 allSimilarShows.length > 0 && (
-                    <SimilarMap
-                        sourceShow={sourceShow}
-                        similarShows={allSimilarShows.slice(0, 40)}
-                        onShowClick={onShowClick}
-                    />
+                    <div className="page-content-width">
+                        <SimilarMap
+                            sourceShow={sourceShow}
+                            similarShows={allSimilarShows.slice(0, 40)}
+                            onShowClick={onShowClick}
+                        />
+                    </div>
                 )
             }
 
             {/* Section 4: "More Like This" Grid - Infinite Scroll Enabled */}
-            < div className="similar-grid-section" >
-                <h2 className="similar-grid-title">More Like This</h2>
+            <div className="similar-grid-section">
+                <div className="page-content-width">
+                    <h2 className="similar-grid-title">More Like This</h2>
 
-                {
-                    visibleShows.length === 0 ? (
-                        <div style={{ color: 'var(--color-text-muted)', padding: '2rem', textAlign: 'center' }}>
-                            No similar shows found.
-                        </div>
-                    ) : (
-                        <div className="similar-grid-container">
-                            {visibleShows.map((show) => {
-                                const showDisplayName = getDisplayName(show);
+                    {
+                        visibleShows.length === 0 ? (
+                            <div style={{ color: 'var(--color-text-muted)', padding: '2rem', textAlign: 'center' }}>
+                                No similar shows found.
+                            </div>
+                        ) : (
+                            <div className="similar-grid-container">
+                                {visibleShows.map((show) => {
+                                    const showDisplayName = getDisplayName(show);
 
-                                return (
-                                    <div
-                                        key={show.id}
-                                        className="similar-grid-card"
-                                        onClick={() => onShowClick(show.id)}
-                                    >
-                                        <div className="similar-grid-card-poster">
-                                            {show.similarity_percent && (
-                                                <div className="similar-grid-card-badge">
-                                                    <div
-                                                        className={`radial-progress ${
-                                                            show.similarity_percent >= 70 ? 'text-green' :
-                                                            show.similarity_percent >= 40 ? 'text-yellow' :
-                                                            'text-red'
-                                                        }`}
-                                                        style={{
-                                                            '--value': show.similarity_percent,
-                                                            '--size': '36px',
-                                                            '--thickness': '2.5px'
-                                                        } as React.CSSProperties}
-                                                    >
-                                                        <span className="radial-progress-text">
-                                                            {Math.round(show.similarity_percent)}%
-                                                        </span>
+                                    return (
+                                        <div
+                                            key={show.id}
+                                            className="similar-grid-card"
+                                            onClick={() => onShowClick(show.id)}
+                                        >
+                                            <div className="similar-grid-card-poster">
+                                                {show.similarity_percent && (
+                                                    <div className="similar-grid-card-badge">
+                                                        <div
+                                                            className={`radial-progress ${show.similarity_percent >= 70 ? 'text-green' :
+                                                                    show.similarity_percent >= 40 ? 'text-yellow' :
+                                                                        'text-red'
+                                                                }`}
+                                                            style={{
+                                                                '--value': show.similarity_percent,
+                                                                '--size': '36px',
+                                                                '--thickness': '2.5px'
+                                                            } as React.CSSProperties}
+                                                        >
+                                                            <span className="radial-progress-text">
+                                                                {Math.round(show.similarity_percent)}%
+                                                            </span>
+                                                        </div>
                                                     </div>
-                                                </div>
-                                            )}
-                                            <img
-                                                src={`https://image.tmdb.org/t/p/w500${show.poster_path}`}
-                                                alt={showDisplayName}
-                                            />
-                                        </div>
+                                                )}
+                                                <img
+                                                    src={`https://image.tmdb.org/t/p/w500${show.poster_path}`}
+                                                    alt={showDisplayName}
+                                                />
+                                            </div>
 
-                                        <div className="similar-grid-card-info">
-                                            <h3>{showDisplayName}</h3>
-                                            <div className="similar-grid-card-meta">
-                                                <span>{show.source_type === 'movie' ? 'Movie' : 'TV Show'}</span>
+                                            <div className="similar-grid-card-info">
+                                                <h3>{showDisplayName}</h3>
+                                                <div className="similar-grid-card-meta">
+                                                    <span>{show.source_type === 'movie' ? 'Movie' : 'TV Show'}</span>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
-                                );
-                            })}
-                        </div>
-                    )
-                }
-            </div >
-        </div >
+                                    );
+                                })}
+                            </div>
+                        )
+                    }
+                </div>
+            </div>
+        </div>
     );
 };
 

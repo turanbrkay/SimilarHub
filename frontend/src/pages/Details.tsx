@@ -16,7 +16,7 @@ const Details: React.FC = () => {
     };
 
     return (
-        <div style={{ paddingTop: '80px' }}>
+        <div>
             <SimilarShows
                 showId={showId}
                 onBack={() => navigate(-1)}
