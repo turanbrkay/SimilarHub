@@ -78,18 +78,55 @@
   align-items: center;
 }
 
+/* Aggressively remove any border/outline/shadow from the logo link */
+.header .wrap-head .head-logo a {
+  display: block;
+  border: none !important;
+  outline: none !important;
+  box-shadow: none !important;
+  text-decoration: none !important;
+  background: transparent !important;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.header .wrap-head .head-logo a:hover,
+.header .wrap-head .head-logo a:focus,
+.header .wrap-head .head-logo a:active,
+.header .wrap-head .head-logo a:visited {
+  border: none !important;
+  outline: none !important;
+  box-shadow: none !important;
+  background: transparent !important;
+}
+
 .header .wrap-head .head-logo img {
   vertical-align: middle;
-  border-style: none;
+  border: none !important;
+  outline: none !important;
+  box-shadow: none !important;
+  filter: none !important;
   height: auto;
   max-height: 3.5rem;
   width: auto;
   transition: transform 0.3s ease;
   display: block;
+  background: transparent !important;
+  -webkit-box-shadow: none !important;
+  -moz-box-shadow: none !important;
+  /* Ensure no ring or similar effects */
+  --tw-ring-color: transparent !important;
+  --tw-ring-offset-shadow: none !important;
+  --tw-ring-shadow: none !important;
 }
 
-.header .wrap-head .head-logo img:hover {
+.header .wrap-head .head-logo img:hover,
+.header .wrap-head .head-logo img:focus,
+.header .wrap-head .head-logo img:active {
   transform: scale(1.05);
+  border: none !important;
+  outline: none !important;
+  box-shadow: none !important;
+  filter: none !important;
 }
 
 /* Center Navigation - Pill Style */
