@@ -7,26 +7,53 @@
   position: fixed;
   top: 0;
   z-index: 1000;
-  transition: background 0.2s ease,
-              backdrop-filter 0.2s ease,
-              box-shadow 0.2s ease;
+  transition: box-shadow 0.3s ease;
   font-family: 'Montserrat', sans-serif;
   border-bottom: none;
   box-shadow: none;
 }
 
-.header.scrolled {
+/* Pseudo-element for the smooth scrolled gradient AND blur */
+.header::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+
+  /* The premium gradient using requested variables with fallbacks */
   background: linear-gradient(to bottom,
-    rgba(10, 10, 15, 0.98) 0%,
-    rgba(10, 10, 15, 0.85) 30%,
-    rgba(10, 10, 15, 0.50) 60%,
-    rgba(10, 10, 15, 0.20) 85%,
-    rgba(10, 10, 15, 0) 100%
-  );
+      var(--fallback-b3, rgba(10, 10, 15, 0.95)) 0%,
+      var(--fallback-b3, rgba(10, 10, 15, 0.8)) 50%,
+      var(--fallback-b3, rgba(10, 10, 15, 0)) 100%);
+
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
+
+  /* Mask to fade out the blur and background together */
+  /* Keeps 100% opacity until 60%, then fades to 0% at 100% */
+  mask-image: linear-gradient(to bottom,
+      black 0%,
+      black 70%,
+      transparent 100%);
+  -webkit-mask-image: linear-gradient(to bottom,
+      black 0%,
+      black 70%,
+      transparent 100%);
+}
+
+.header.scrolled {
+  /* No direct background change, just shadow */
+  box-shadow: none;
   border-bottom: none;
-  box-shadow: 0 2px 20px rgba(0, 0, 0, 0.3);
+}
+
+.header.scrolled::before {
+  opacity: 1;
 }
 
 /* Container specifically for header to avoid conflicts */
