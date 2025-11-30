@@ -27,6 +27,10 @@
     z-index: 10;
 }
 
+.horizontal-row-scroll-area {
+    position: relative;
+}
+
 .horizontal-row-container {
     display: flex;
     gap: 1rem;
@@ -147,10 +151,23 @@
 }
 
 /* Navigation arrows - Modern minimal style (RankedGrid Dropdown Match) */
+.horizontal-row-navigation {
+    display: flex;
+    justify-content: flex-end;
+    gap: 0.5rem;
+    margin-top: 0.5rem;
+    /* padding-right removed to align with card edge */
+    width: 100%;
+    z-index: 20;
+    position: relative;
+}
+
 .horizontal-row-arrow {
-    position: absolute;
-    top: -4rem;
-    /* Aligned with header title area */
+    /* Position relative to flex container */
+    position: relative;
+    top: auto;
+    right: auto;
+
     background: rgba(43, 217, 198, 0.1);
     backdrop-filter: blur(10px);
     border: 1px solid rgba(43, 217, 198, 0.3);
@@ -178,14 +195,6 @@
     border-color: rgba(43, 217, 198, 0.5);
     box-shadow: 0 4px 12px rgba(43, 217, 198, 0.2);
     transform: translateY(-2px);
-}
-
-.horizontal-row-arrow-left {
-    right: 4rem;
-}
-
-.horizontal-row-arrow-right {
-    right: 1rem;
 }
 
 /* Edge blur overlays - show when there's more content */
@@ -258,15 +267,6 @@
         width: 42px;
         height: 42px;
         font-size: 1.6rem;
-        top: -3rem;
-    }
-
-    .horizontal-row-arrow-left {
-        right: 3rem;
-    }
-
-    .horizontal-row-arrow-right {
-        right: 0.5rem;
     }
 }
 
@@ -293,15 +293,6 @@
         width: 38px;
         height: 38px;
         font-size: 1.5rem;
-        top: -2.5rem;
-    }
-
-    .horizontal-row-arrow-left {
-        right: 2.5rem;
-    }
-
-    .horizontal-row-arrow-right {
-        right: 0.5rem;
     }
 }
 
@@ -309,6 +300,7 @@
 .horizontal-row-card.selected {
     transform: scale(1.05);
     box-shadow: 0 0 20px rgba(43, 217, 198, 0.6), 0 0 40px rgba(43, 217, 198, 0.3);
+
     border: 2px solid #2bd9c6;
     z-index: 20;
 }
@@ -317,6 +309,7 @@
     content: '';
     position: absolute;
     top: 0;
+
     left: 0;
     right: 0;
     bottom: 0;
