@@ -151,8 +151,11 @@
 
 /* Dropdowns Container - single dropdown on the right */
 .most-loved-dropdowns {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
     display: flex;
-    flex: 1;
     align-items: center;
     justify-content: flex-end;
     gap: 0;
