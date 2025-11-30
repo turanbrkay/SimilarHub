@@ -13,12 +13,17 @@ const FavoriteGrid: React.FC<FavoriteGridProps> = ({ onShowClick }) => {
     const [selectedType, setSelectedType] = useState<ContentType>('MOVIES');
     const [shows, setShows] = useState<Show[]>([]);
     const [isDropdownOpen, setIsDropdownOpen] = useState(false);
+    const [gridKey, setGridKey] = useState(0);
+    const [isInitialLoad, setIsInitialLoad] = useState(true);
 
     useEffect(() => {
-        fetchContentByType(selectedType);
+        fetchContentByType(selectedType, !isInitialLoad);
+        if (isInitialLoad) {
+            setIsInitialLoad(false);
+        }
     }, [selectedType]);
 
-    const fetchContentByType = async (type: ContentType) => {
+    const fetchContentByType = async (type: ContentType, triggerAnimation: boolean = false) => {
         try {
             let newShows: Show[] = [];
 
@@ -31,6 +36,11 @@ const FavoriteGrid: React.FC<FavoriteGridProps> = ({ onShowClick }) => {
             }
 
             setShows(newShows.slice(0, 5));
+
+            // Veri geldikten sonra animasyonu tetikle
+            if (triggerAnimation) {
+                setGridKey(prev => prev + 1);
+            }
         } catch (error) {
             console.error('Failed to fetch content:', error);
         }
@@ -41,6 +51,11 @@ const FavoriteGrid: React.FC<FavoriteGridProps> = ({ onShowClick }) => {
             setSelectedType(type);
         }
         setIsDropdownOpen(false);
+    };
+
+    const handleReload = () => {
+        // Aynı kategoriden farklı içerikler getir (animasyonlu)
+        fetchContentByType(selectedType, true);
     };
 
     const getDisplayName = (show: Show): string => {
@@ -82,7 +97,7 @@ const FavoriteGrid: React.FC<FavoriteGridProps> = ({ onShowClick }) => {
                 <div className="favorite-controls-wrapper">
                     <button
                         className="favorite-reload-button"
-                        onClick={() => fetchContentByType(selectedType)}
+                        onClick={handleReload}
                         title="Reload"
                     >
                         <svg
@@ -136,7 +151,7 @@ const FavoriteGrid: React.FC<FavoriteGridProps> = ({ onShowClick }) => {
                 </div>
             </div>
 
-            <div className="favorite-grid-container">
+            <div key={gridKey} className="favorite-grid-container">
                 {featuredShow && (
                     <div
                         className="favorite-grid-item favorite-grid-item-featured"
