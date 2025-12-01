@@ -51,47 +51,33 @@ const DetailConnectionMap: React.FC<DetailConnectionMapProps> = React.memo(({ so
     }, []);
 
     // Calculate initial node positions with bottom-left origin
+    // Calculate initial node positions with center origin of the poster
     const { positionMap, canvasWidth, canvasHeight, originX, originY } = useMemo(() => {
         const containerWidth = canvasDimensions.width;
         const containerHeight = canvasDimensions.height;
-        const padding = 40;
-        const canvasW = containerWidth - padding;
-        const canvasH = containerHeight - padding;
 
-        // Origin at bottom-left (accounting for dock poster position)
-        // Dock poster is now 140x210px at bottom: 2.5rem, left: 2.5rem
-        const originX = 40 + 70; // Left margin (2.5rem = ~40px) + half dock width (70px)
-        const originY = canvasH - 40 - 105; // Canvas height - bottom margin - half dock height (105px)
+        // Use full container dimensions for the canvas coordinate system
+        const canvasW = containerWidth;
+        const canvasH = containerHeight;
+
+        // Poster Dimensions & Position (CSS values)
+        const posterWidth = 140;
+        const posterHeight = 210;
+        const posterLeft = 40; // 2.5rem
+        const posterBottom = 40; // 2.5rem
+
+        // Origin at CENTER of the dock poster
+        // X = Left margin + half width
+        const originX = posterLeft + posterWidth / 2;
+        // Y = Container Height - Bottom margin - half height
+        const originY = canvasH - posterBottom - posterHeight / 2;
 
         const cardWidth = 60;
         const cardHeight = 90;
 
         // Max float amplitude (must match animation loop)
-        const maxFloatAmplitude = 9; // 6 (sin) + 3 (cos)
-        const safetyMargin = 5;
-
-        // Main poster exclusion zone (don't place nodes here)
-        const posterWidth = 140;
-        const posterHeight = 210;
-        const posterLeft = 40; // 2.5rem
-        const posterBottom = 40; // 2.5rem
-        const posterExclusionMargin = 30; // Extra margin around poster
-
-        const isPosterOverlap = (absX: number, absY: number): boolean => {
-            // Check if node overlaps with poster area (with margin)
-            const nodeLeft = absX - cardWidth / 2;
-            const nodeRight = absX + cardWidth / 2;
-            const nodeTop = absY - cardHeight / 2;
-            const nodeBottom = absY + cardHeight / 2;
-
-            const posterRight = posterLeft + posterWidth + posterExclusionMargin;
-            const posterTop = canvasH - posterBottom - posterHeight - posterExclusionMargin;
-
-            return !(nodeRight < posterLeft - posterExclusionMargin ||
-                    nodeLeft > posterRight ||
-                    nodeBottom < posterTop ||
-                    nodeTop > canvasH - posterBottom + posterExclusionMargin);
-        };
+        const maxFloatAmplitude = 9;
+        const safetyMargin = 15;
 
         // STEP 1: SORT by similarity (descending: highest first)
         const sortedShows = limitedShows.slice().sort((a, b) =>
@@ -103,7 +89,7 @@ const DetailConnectionMap: React.FC<DetailConnectionMapProps> = React.memo(({ so
 
         // Minimum distance for anti-collision
         const nodeDiagonal = Math.sqrt(cardWidth ** 2 + cardHeight ** 2);
-        const minNodeDistance = nodeDiagonal * 1.1;
+        const minNodeDistance = nodeDiagonal * 1.05;
 
         const isOverlapping = (newX: number, newY: number): boolean => {
             return positions.some(pos => {
@@ -118,23 +104,26 @@ const DetailConnectionMap: React.FC<DetailConnectionMapProps> = React.memo(({ so
         const shuffledIndices = Array.from({ length: N }, (_, i) => i)
             .sort(() => Math.random() - 0.5);
 
-        // Radius band for organic spread - use full canvas
-        const innerRadius = 180; // Start farther from poster
+        // Radius band for organic spread
+        // Distance from center to poster corner is approx 126px. 
+        // Start at 200px to give clear separation.
+        const innerRadius = 200;
         const outerRadius = Math.min(
-            Math.sqrt((canvasW - originX) ** 2 + originY ** 2), // Max distance to top-right
-            800
+            Math.sqrt((canvasW - originX) ** 2 + originY ** 2),
+            900
         );
         const radiusRange = outerRadius - innerRadius;
 
-        // Angular constraints - 90-degree fan opening to top-right quadrant ONLY
-        // 0° points right, 90° points up (standard math coordinates)
-        const minAngle = 0;           // 0deg (straight right)
-        const maxAngle = Math.PI / 2; // 90deg (straight up)
+        // Angular constraints - 90-degree fan opening to top-right quadrant
+        // Origin is Center of poster.
+        // 0 degrees is Right. -90 degrees is Up.
+        const minAngle = -Math.PI / 2; // Up
+        const maxAngle = 0;            // Right
         const angleRange = maxAngle - minAngle;
 
         // STEP 2: ASSIGN RADIUS BY RANK and distribute organically
         sortedShows.forEach((show, index) => {
-            // Rank-based t: 0 for most similar (index 0), 1 for least similar (index N-1)
+            // Rank-based t: 0 for most similar, 1 for least similar
             const t = N > 1 ? index / (N - 1) : 0;
 
             // Base radius from rank
@@ -145,10 +134,10 @@ const DetailConnectionMap: React.FC<DetailConnectionMapProps> = React.memo(({ so
             const shuffledIndex = shuffledIndices[index];
             let baseAngle = minAngle + (angleRange * shuffledIndex) / N;
 
-            // Add slight random jitter to angle for organic distribution (±5 degrees)
-            // Ensure jitter stays within the 0-90° quadrant
-            const angleJitter = (Math.random() - 0.5) * (Math.PI / 18);
+            // Add slight random jitter
+            const angleJitter = (Math.random() - 0.5) * (Math.PI / 12);
             let angle = baseAngle + angleJitter;
+
             // Clamp angle to stay within top-right quadrant
             angle = Math.max(minAngle, Math.min(maxAngle, angle));
 
@@ -160,15 +149,14 @@ const DetailConnectionMap: React.FC<DetailConnectionMapProps> = React.memo(({ so
             let absX = originX + x;
             let absY = originY + y;
 
-            // Anti-collision: adjust angle only, avoid poster overlap
-            // Keep angle within top-right quadrant (0° to 90°)
+            // Anti-collision: adjust angle only
             let attempts = 0;
-            const maxAttempts = 100;
-            const angleIncrement = Math.PI / 36; // 5 degrees
+            const maxAttempts = 150;
+            const angleIncrement = Math.PI / 60; // 3 degrees
 
-            while ((isOverlapping(absX, absY) || isPosterOverlap(absX, absY)) && attempts < maxAttempts) {
+            while (isOverlapping(absX, absY) && attempts < maxAttempts) {
                 angle += angleIncrement;
-                // Wrap around within the quadrant if we exceed maxAngle
+                // Bounce back if out of bounds
                 if (angle > maxAngle) {
                     angle = minAngle + (angle - maxAngle);
                 }
@@ -181,11 +169,9 @@ const DetailConnectionMap: React.FC<DetailConnectionMapProps> = React.memo(({ so
                 attempts++;
             }
 
-            // If still overlapping after max attempts, try different radius
-            if (isPosterOverlap(absX, absY) && attempts >= maxAttempts) {
-                radius = Math.max(radius + 100, innerRadius + 100);
-                // Try a different angle in the quadrant
-                angle = minAngle + Math.random() * angleRange;
+            // If still overlapping, try increasing radius
+            if (isOverlapping(absX, absY)) {
+                radius += 80;
                 x = radius * Math.cos(angle);
                 y = radius * Math.sin(angle);
                 absX = originX + x;
@@ -193,21 +179,30 @@ const DetailConnectionMap: React.FC<DetailConnectionMapProps> = React.memo(({ so
             }
 
             // HARD CLAMP to container bounds
-            absX = Math.max(cardWidth / 2 + maxFloatAmplitude + safetyMargin,
-                           Math.min(canvasW - cardWidth / 2 - maxFloatAmplitude - safetyMargin, absX));
-            absY = Math.max(cardHeight / 2 + maxFloatAmplitude + safetyMargin,
-                           Math.min(canvasH - cardHeight / 2 - maxFloatAmplitude - safetyMargin, absY));
+            // Ensure we don't go off-screen
+            absX = Math.max(cardWidth / 2 + safetyMargin,
+                Math.min(canvasW - cardWidth / 2 - safetyMargin, absX));
+            absY = Math.max(cardHeight / 2 + safetyMargin,
+                Math.min(canvasH - cardHeight / 2 - safetyMargin, absY));
 
-            // Additional check: ensure node is strictly to the right and above the poster
-            // Poster right edge is at posterLeft + posterWidth
-            // Poster top edge is at canvasH - posterBottom - posterHeight
-            const minX = posterLeft + posterWidth + posterExclusionMargin + cardWidth / 2;
-            const maxY = canvasH - posterBottom - posterHeight - posterExclusionMargin - cardHeight / 2;
+            // CRITICAL: Ensure node is strictly above/right of poster
+            // Since origin is Center, and angle is -90 to 0, it should naturally be there.
+            // But we must ensure it doesn't overlap the poster itself.
+            // Poster bounds:
+            const pTop = canvasH - posterBottom - posterHeight;
+            const pRight = posterLeft + posterWidth;
 
-            absX = Math.max(minX, absX); // Must be right of poster
-            absY = Math.min(maxY, absY); // Must be above poster
+            // If node is within poster area + margin
+            if (absX < pRight + safetyMargin && absY > pTop - safetyMargin) {
+                // Push it out
+                if (Math.abs(absX - pRight) < Math.abs(absY - pTop)) {
+                    absX = pRight + safetyMargin + cardWidth / 2;
+                } else {
+                    absY = pTop - safetyMargin - cardHeight / 2;
+                }
+            }
 
-            // Store as relative position to origin
+            // Recalculate relative pos
             x = absX - originX;
             y = absY - originY;
 
