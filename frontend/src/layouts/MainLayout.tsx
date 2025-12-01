@@ -19,6 +19,9 @@ const ScrollToTop = () => {
 };
 
 const MainLayout: React.FC = () => {
+    const location = useLocation();
+    const isDetailPage = location.pathname.startsWith('/details/');
+
     return (
         <div className="atmospheric-bg-wrapper" style={{ display: 'flex', flexDirection: 'column', minHeight: '100vh' }}>
             <ScrollToTop />
@@ -26,7 +29,7 @@ const MainLayout: React.FC = () => {
             <div style={{ flex: 1 }}>
                 <Outlet />
             </div>
-            <Footer />
+            {!isDetailPage && <Footer />}
         </div>
     );
 };
