@@ -54,9 +54,9 @@ const SimilarShows: React.FC<SimilarShowsProps> = ({ showId, onBack, onShowClick
             return;
         }
 
-        // Check if we are near bottom of the page (within 400px)
+        // Check if we are near bottom of the page (within 1000px)
         const scrolledToBottom =
-            window.innerHeight + window.scrollY >= document.documentElement.offsetHeight - 400;
+            window.innerHeight + window.scrollY >= document.documentElement.offsetHeight - 1000;
 
         if (scrolledToBottom) {
             // Append exactly one row
@@ -73,7 +73,7 @@ const SimilarShows: React.FC<SimilarShowsProps> = ({ showId, onBack, onShowClick
             timeoutId = setTimeout(() => {
                 handleScroll();
                 timeoutId = undefined as any;
-            }, 100);
+            }, 20); // Reduced from 100ms
         };
 
         window.addEventListener('scroll', onScroll);
@@ -89,11 +89,8 @@ const SimilarShows: React.FC<SimilarShowsProps> = ({ showId, onBack, onShowClick
     };
 
     const getYear = (show: Show): string => {
-        if (show.year) return String(show.year);
-        if (show.first_air_date) {
-            return show.first_air_date.substring(0, 4);
-        }
-        return '';
+        const date = show.release_date || show.first_air_date;
+        return date ? new Date(date).getFullYear().toString() : '';
     };
 
     const formatVoteCount = (count: number): string => {
@@ -341,6 +338,20 @@ const SimilarShows: React.FC<SimilarShowsProps> = ({ showId, onBack, onShowClick
                             </div>
                         )
                     }
+
+                    {/* Loading Spacer / Buffer to prevent footer jump */}
+                    {visibleRows < MAX_ROWS && (visibleRows * ITEMS_PER_ROW) < allSimilarShows.length && (
+                        <div style={{
+                            height: '100px',
+                            display: 'flex',
+                            justifyContent: 'center',
+                            alignItems: 'center',
+                            color: 'var(--color-text-muted)',
+                            opacity: 0.7
+                        }}>
+                            <span>Loading more...</span>
+                        </div>
+                    )}
                 </div>
             </div>
         </div>
