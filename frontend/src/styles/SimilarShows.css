@@ -620,10 +620,21 @@
 }
 
 .similar-grid-title {
-    font-size: 2rem;
+    margin-bottom: 2rem;
+    font-size: 1.25rem;
+    line-height: 1.75rem;
     font-weight: 700;
-    color: var(--color-text);
-    margin: 0 0 2rem 0;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+@media (min-width: 640px) {
+    .similar-grid-title {
+        font-size: 1.5rem;
+        line-height: 2rem;
+    }
 }
 
 .similar-grid-container {
