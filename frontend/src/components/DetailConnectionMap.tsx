@@ -70,6 +70,29 @@ const DetailConnectionMap: React.FC<DetailConnectionMapProps> = React.memo(({ so
         const maxFloatAmplitude = 9; // 6 (sin) + 3 (cos)
         const safetyMargin = 5;
 
+        // Main poster exclusion zone (don't place nodes here)
+        const posterWidth = 140;
+        const posterHeight = 210;
+        const posterLeft = 40; // 2.5rem
+        const posterBottom = 40; // 2.5rem
+        const posterExclusionMargin = 30; // Extra margin around poster
+
+        const isPosterOverlap = (absX: number, absY: number): boolean => {
+            // Check if node overlaps with poster area (with margin)
+            const nodeLeft = absX - cardWidth / 2;
+            const nodeRight = absX + cardWidth / 2;
+            const nodeTop = absY - cardHeight / 2;
+            const nodeBottom = absY + cardHeight / 2;
+
+            const posterRight = posterLeft + posterWidth + posterExclusionMargin;
+            const posterTop = canvasH - posterBottom - posterHeight - posterExclusionMargin;
+
+            return !(nodeRight < posterLeft - posterExclusionMargin ||
+                    nodeLeft > posterRight ||
+                    nodeBottom < posterTop ||
+                    nodeTop > canvasH - posterBottom + posterExclusionMargin);
+        };
+
         // STEP 1: SORT by similarity (descending: highest first)
         const sortedShows = limitedShows.slice().sort((a, b) =>
             (b.similarity_percent || 50) - (a.similarity_percent || 50)
@@ -95,14 +118,18 @@ const DetailConnectionMap: React.FC<DetailConnectionMapProps> = React.memo(({ so
         const shuffledIndices = Array.from({ length: N }, (_, i) => i)
             .sort(() => Math.random() - 0.5);
 
-        // Radius band for organic spread - fill more of the canvas
-        const innerRadius = 150; // Start farther from the small poster
-        const outerRadius = Math.min(canvasW - originX - 80, canvasH - 80, 700);
+        // Radius band for organic spread - use full canvas
+        const innerRadius = 180; // Start farther from poster
+        const outerRadius = Math.min(
+            Math.sqrt((canvasW - originX) ** 2 + originY ** 2), // Max distance to top-right
+            800
+        );
         const radiusRange = outerRadius - innerRadius;
 
-        // Angular constraints for organic spread across hero space
-        const minAngle = -Math.PI / 4;  // -45deg (left and up)
-        const maxAngle = Math.PI / 2;   // 90deg (straight up)
+        // Angular constraints - 90-degree fan opening to top-right quadrant ONLY
+        // 0° points right, 90° points up (standard math coordinates)
+        const minAngle = 0;           // 0deg (straight right)
+        const maxAngle = Math.PI / 2; // 90deg (straight up)
         const angleRange = maxAngle - minAngle;
 
         // STEP 2: ASSIGN RADIUS BY RANK and distribute organically
@@ -119,8 +146,11 @@ const DetailConnectionMap: React.FC<DetailConnectionMapProps> = React.memo(({ so
             let baseAngle = minAngle + (angleRange * shuffledIndex) / N;
 
             // Add slight random jitter to angle for organic distribution (±5 degrees)
+            // Ensure jitter stays within the 0-90° quadrant
             const angleJitter = (Math.random() - 0.5) * (Math.PI / 18);
             let angle = baseAngle + angleJitter;
+            // Clamp angle to stay within top-right quadrant
+            angle = Math.max(minAngle, Math.min(maxAngle, angle));
 
             // Convert to Cartesian (relative to origin)
             let x = radius * Math.cos(angle);
@@ -130,13 +160,20 @@ const DetailConnectionMap: React.FC<DetailConnectionMapProps> = React.memo(({ so
             let absX = originX + x;
             let absY = originY + y;
 
-            // Anti-collision: adjust angle only
+            // Anti-collision: adjust angle only, avoid poster overlap
+            // Keep angle within top-right quadrant (0° to 90°)
             let attempts = 0;
-            const maxAttempts = 50;
-            const angleIncrement = Math.PI * (3 - Math.sqrt(5)); // Golden angle
+            const maxAttempts = 100;
+            const angleIncrement = Math.PI / 36; // 5 degrees
 
-            while (isOverlapping(absX, absY) && attempts < maxAttempts) {
+            while ((isOverlapping(absX, absY) || isPosterOverlap(absX, absY)) && attempts < maxAttempts) {
                 angle += angleIncrement;
+                // Wrap around within the quadrant if we exceed maxAngle
+                if (angle > maxAngle) {
+                    angle = minAngle + (angle - maxAngle);
+                }
+                angle = Math.max(minAngle, Math.min(maxAngle, angle));
+
                 x = radius * Math.cos(angle);
                 y = radius * Math.sin(angle);
                 absX = originX + x;
@@ -144,11 +181,31 @@ const DetailConnectionMap: React.FC<DetailConnectionMapProps> = React.memo(({ so
                 attempts++;
             }
 
+            // If still overlapping after max attempts, try different radius
+            if (isPosterOverlap(absX, absY) && attempts >= maxAttempts) {
+                radius = Math.max(radius + 100, innerRadius + 100);
+                // Try a different angle in the quadrant
+                angle = minAngle + Math.random() * angleRange;
+                x = radius * Math.cos(angle);
+                y = radius * Math.sin(angle);
+                absX = originX + x;
+                absY = originY + y;
+            }
+
             // HARD CLAMP to container bounds
             absX = Math.max(cardWidth / 2 + maxFloatAmplitude + safetyMargin,
                            Math.min(canvasW - cardWidth / 2 - maxFloatAmplitude - safetyMargin, absX));
             absY = Math.max(cardHeight / 2 + maxFloatAmplitude + safetyMargin,
                            Math.min(canvasH - cardHeight / 2 - maxFloatAmplitude - safetyMargin, absY));
+
+            // Additional check: ensure node is strictly to the right and above the poster
+            // Poster right edge is at posterLeft + posterWidth
+            // Poster top edge is at canvasH - posterBottom - posterHeight
+            const minX = posterLeft + posterWidth + posterExclusionMargin + cardWidth / 2;
+            const maxY = canvasH - posterBottom - posterHeight - posterExclusionMargin - cardHeight / 2;
+
+            absX = Math.max(minX, absX); // Must be right of poster
+            absY = Math.min(maxY, absY); // Must be above poster
 
             // Store as relative position to origin
             x = absX - originX;
