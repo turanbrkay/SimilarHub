@@ -12,7 +12,8 @@
       "Bash(docker-compose up:*)",
       "Bash(docker-compose build:*)",
       "Bash(docker-compose restart:*)",
-      "Bash(docker system prune:*)"
+      "Bash(docker system prune:*)",
+      "Bash(npm run dev:*)"
     ],
     "deny": [],
     "ask": []
