@@ -76,7 +76,6 @@ const DetailConnectionMap: React.FC<DetailConnectionMapProps> = React.memo(({ so
         const cardHeight = 90;
 
         // Max float amplitude (must match animation loop)
-        const maxFloatAmplitude = 9;
         const safetyMargin = 15;
 
         // STEP 1: SORT by similarity (descending: highest first)
