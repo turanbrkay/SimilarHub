@@ -59,8 +59,9 @@ const DetailConnectionMap: React.FC<DetailConnectionMapProps> = React.memo(({ so
         const canvasH = containerHeight - padding;
 
         // Origin at bottom-left (accounting for dock poster position)
-        const originX = 150; // Left margin + half dock width (~125px)
-        const originY = canvasH - 150; // Bottom margin + offset
+        // Dock poster is now 140x210px at bottom: 2.5rem, left: 2.5rem
+        const originX = 40 + 70; // Left margin (2.5rem = ~40px) + half dock width (70px)
+        const originY = canvasH - 40 - 105; // Canvas height - bottom margin - half dock height (105px)
 
         const cardWidth = 60;
         const cardHeight = 90;
@@ -94,9 +95,9 @@ const DetailConnectionMap: React.FC<DetailConnectionMapProps> = React.memo(({ so
         const shuffledIndices = Array.from({ length: N }, (_, i) => i)
             .sort(() => Math.random() - 0.5);
 
-        // Radius band for organic spread
-        const innerRadius = 120;
-        const outerRadius = Math.min(canvasW - originX - 100, canvasH - 100, 600);
+        // Radius band for organic spread - fill more of the canvas
+        const innerRadius = 150; // Start farther from the small poster
+        const outerRadius = Math.min(canvasW - originX - 80, canvasH - 80, 700);
         const radiusRange = outerRadius - innerRadius;
 
         // Angular constraints for organic spread across hero space
