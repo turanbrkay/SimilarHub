@@ -14,6 +14,21 @@ const Search: React.FC<SearchProps> = ({ onSearchSelect, onSearchSubmit }) => {
     const [showDropdown, setShowDropdown] = useState(false);
     const [isLoading, setIsLoading] = useState(false);
 
+    const searchRef = React.useRef<HTMLDivElement>(null);
+
+    useEffect(() => {
+        const handleClickOutside = (event: MouseEvent) => {
+            if (searchRef.current && !searchRef.current.contains(event.target as Node)) {
+                setShowDropdown(false);
+            }
+        };
+
+        document.addEventListener('mousedown', handleClickOutside);
+        return () => {
+            document.removeEventListener('mousedown', handleClickOutside);
+        };
+    }, []);
+
     useEffect(() => {
         const searchTimeout = setTimeout(async () => {
             if (query.length > 1) {
@@ -47,7 +62,7 @@ const Search: React.FC<SearchProps> = ({ onSearchSelect, onSearchSubmit }) => {
     };
 
     return (
-        <div className="nav-search">
+        <div className="nav-search" ref={searchRef}>
             <div className="nav-search-input-wrap">
                 <span className="material-icons nav-search-icon">search</span>
                 <input
