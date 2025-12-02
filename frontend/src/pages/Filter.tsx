@@ -4,6 +4,7 @@ import { getPopularMovies, type Show } from '../services/api';
 import '../styles/Filter.css';
 import '../styles/SimilarShows.css';
 import '../styles/Dashboard.css';
+import FilterBar from '../components/FilterBar';
 
 const ITEMS_PER_ROW = 7;
 const INITIAL_ROWS = 3;
@@ -15,6 +16,28 @@ const Filter: React.FC = () => {
 
     // visibleRows controls how many rows (chunks of 7) are currently rendered
     const [visibleRows, setVisibleRows] = useState(INITIAL_ROWS);
+    const [activeCategory, setActiveCategory] = useState('All');
+    const [filterState, setFilterState] = useState({
+        genres: [] as string[],
+        yearRange: [1900, 2025] as [number, number],
+        rating: 0
+    });
+
+    const handleCategoryChange = (category: string) => {
+        setActiveCategory(category);
+    };
+
+    const handleFilterChange = (key: string, value: any) => {
+        setFilterState(prev => ({ ...prev, [key]: value }));
+    };
+
+    const handleReset = () => {
+        setFilterState({
+            genres: [],
+            yearRange: [1900, 2025],
+            rating: 0
+        });
+    };
 
     useEffect(() => {
         // Simulating fetching filtered data. 
@@ -79,46 +102,13 @@ const Filter: React.FC = () => {
         <div className="dashboard-container-netflix filter-page-view">
             <div className="page-content-width">
                 {/* Filter Bar */}
-                <div className="filter-bar-container">
-                    <div className="filter-bar-left">
-                        <div className="filter-type-selector">
-                            <button className="filter-type-btn active">All</button>
-                            <button className="filter-type-btn">Movies</button>
-                            <button className="filter-type-btn">TV Shows</button>
-                            <button className="filter-type-btn">Books</button>
-                        </div>
-                    </div>
-
-                    <div className="filter-bar-right">
-                        <div className="filter-dropdowns">
-                            <button className="filter-chip">
-                                Release year <i className="fas fa-chevron-down"></i>
-                            </button>
-                            <button className="filter-chip">
-                                Genres <i className="fas fa-chevron-down"></i>
-                            </button>
-                            <button className="filter-chip">
-                                Price <i className="fas fa-chevron-down"></i>
-                            </button>
-                            <button className="filter-chip">
-                                Rating <i className="fas fa-chevron-down"></i>
-                            </button>
-                            <button className="filter-chip">
-                                Country <i className="fas fa-chevron-down"></i>
-                            </button>
-                            <button className="filter-chip">
-                                Runtime <i className="fas fa-chevron-down"></i>
-                            </button>
-                            <button className="filter-chip">
-                                Age <i className="fas fa-chevron-down"></i>
-                            </button>
-                        </div>
-
-                        <button className="filter-reset-btn">
-                            <i className="fas fa-times"></i> Reset
-                        </button>
-                    </div>
-                </div>
+                <FilterBar
+                    activeCategory={activeCategory}
+                    onCategoryChange={handleCategoryChange}
+                    filters={filterState}
+                    onFilterChange={handleFilterChange}
+                    onReset={handleReset}
+                />
 
                 {/* Content Grid - Using similar-grid-container for consistency */}
                 <div className="similar-grid-section" style={{ padding: 0, background: 'transparent' }}>
