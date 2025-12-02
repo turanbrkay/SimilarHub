@@ -1,120 +1,124 @@
-.filter-page-container {
-    padding-top: 9rem;
-    /* Increased to avoid overlap with fixed navbar */
+/* Filter Page Styles */
+
+.filter-page-view {
+    padding-top: 7rem;
+    /* Match Dashboard category view padding */
     min-height: 100vh;
-    background: linear-gradient(to bottom, #0a0a0f 0%, #12121a 50%, #0a0a0f 100%);
-    color: #fff;
 }
 
+.filter-page-container {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Filter Bar Styles - Keeping these as they are specific to the filter bar */
 .filter-bar-seo__additional {
     display: flex;
     align-items: center;
-    gap: 15px;
-    padding: 20px 4%;
+    gap: 1rem;
     flex-wrap: wrap;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    margin-bottom: 2rem;
 }
 
 .filter-bar-content-type-seo {
-    display: flex;
-    align-items: center;
+    flex-shrink: 0;
 }
 
 .hidden-horizontal-scrollbar__items {
     display: flex;
-    gap: 20px;
-    align-items: center;
+    gap: 1rem;
+    overflow-x: auto;
+    padding-bottom: 5px;
 }
 
 .filter-bar-content-type__item a {
-    color: #808080;
+    color: #aaa;
     text-decoration: none;
-    font-size: 1.2rem;
     font-weight: 600;
-    transition: color 0.3s;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    transition: all 0.3s ease;
+    background: rgba(255, 255, 255, 0.05);
 }
 
 .filter-bar-content-type__item.active a,
 .filter-bar-content-type__item a:hover {
     color: #fff;
-    border-bottom: 2px solid #e50914;
-    /* Netflix red or app accent */
-    padding-bottom: 5px;
+    background: rgba(255, 255, 255, 0.15);
+}
+
+.filter-bar-seo__additional__heading {
+    color: #fff;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
 }
 
 .chip-button button {
-    background: transparent;
-    border: 1px solid rgba(255, 255, 255, 0.3);
-    color: #fff;
-    padding: 5px 15px;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    color: #ccc;
+    padding: 0.5rem 1rem;
     border-radius: 20px;
     cursor: pointer;
     display: flex;
     align-items: center;
-    gap: 8px;
-    font-size: 0.9rem;
-    transition: all 0.3s;
+    gap: 0.5rem;
+    transition: all 0.3s ease;
 }
 
 .chip-button button:hover {
     background: rgba(255, 255, 255, 0.1);
-    border-color: #fff;
-}
-
-.filter-bar-seo__additional__heading {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    font-weight: 600;
-    color: #808080;
-    text-transform: uppercase;
-    font-size: 0.9rem;
-    margin-left: 10px;
-    margin-right: 10px;
+    color: #fff;
+    border-color: rgba(255, 255, 255, 0.2);
 }
 
 .filter-bar__reset-button {
+    color: #aaa;
+    cursor: pointer;
     display: flex;
     align-items: center;
-    gap: 5px;
-    color: #808080;
-    cursor: pointer;
-    font-size: 0.8rem;
-    text-transform: uppercase;
+    gap: 0.5rem;
+    transition: color 0.3s;
 }
 
 .filter-bar__reset-button:hover {
     color: #fff;
 }
 
-.svg-inline--fa {
-    height: 1em;
-}
-
-.filter-content-grid {
-    padding: 20px 4%;
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    gap: 20px;
-}
-
+/* Show More Button */
 .show-more-container {
     display: flex;
     justify-content: center;
-    padding: 40px 0;
+    margin-top: 2rem;
 }
 
 .show-more-btn {
-    background-color: rgba(109, 109, 110, 0.7);
-    color: white;
+    background: var(--color-accent, #2bd9c6);
+    color: #000;
     border: none;
-    padding: 10px 30px;
-    font-size: 1.1rem;
+    padding: 0.8rem 2rem;
+    border-radius: 30px;
+    font-weight: 700;
     cursor: pointer;
-    border-radius: 4px;
-    transition: background-color 0.2s;
+    transition: transform 0.2s, box-shadow 0.2s;
 }
 
 .show-more-btn:hover {
-    background-color: rgba(109, 109, 110, 0.4);
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(43, 217, 198, 0.4);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .filter-bar-seo__additional {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .hidden-horizontal-scrollbar__items {
+        flex-wrap: wrap;
+    }
 }
