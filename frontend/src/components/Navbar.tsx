@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link, NavLink } from 'react-router-dom';
+import { Link, NavLink, useNavigate } from 'react-router-dom';
 import Search from './Search';
 import type { Show } from '../services/api';
 import '../styles/Navbar.css';
@@ -27,6 +27,12 @@ const Navbar: React.FC<NavbarProps> = ({ onSearchSelect }) => {
             window.removeEventListener('scroll', handleScroll);
         };
     }, []);
+
+    const navigate = useNavigate();
+
+    const handleSearchSubmit = (query: string) => {
+        navigate(`/search?query=${encodeURIComponent(query)}`);
+    };
 
     return (
         <header className={`header ${scrolled ? 'scrolled' : ''}`}>
@@ -108,7 +114,10 @@ const Navbar: React.FC<NavbarProps> = ({ onSearchSelect }) => {
 
                     {/* Right Head - Search & User */}
                     <div className="r-head">
-                        <Search onSearchSelect={onSearchSelect || (() => { })} />
+                        <Search
+                            onSearchSelect={onSearchSelect || (() => { })}
+                            onSearchSubmit={handleSearchSubmit}
+                        />
                     </div>
                 </div>
             </div>

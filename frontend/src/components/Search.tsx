@@ -5,9 +5,10 @@ import '../styles/Navbar.css';
 
 interface SearchProps {
     onSearchSelect: (show: Show) => void;
+    onSearchSubmit?: (query: string) => void;
 }
 
-const Search: React.FC<SearchProps> = ({ onSearchSelect }) => {
+const Search: React.FC<SearchProps> = ({ onSearchSelect, onSearchSubmit }) => {
     const [query, setQuery] = useState('');
     const [suggestions, setSuggestions] = useState<Show[]>([]);
     const [showDropdown, setShowDropdown] = useState(false);
@@ -36,6 +37,15 @@ const Search: React.FC<SearchProps> = ({ onSearchSelect }) => {
         onSearchSelect(show);
     };
 
+    const handleKeyDown = (e: React.KeyboardEvent<HTMLInputElement>) => {
+        if (e.key === 'Enter' && query.trim().length > 0) {
+            setShowDropdown(false);
+            if (onSearchSubmit) {
+                onSearchSubmit(query);
+            }
+        }
+    };
+
     return (
         <div className="nav-search">
             <div className="nav-search-input-wrap">
@@ -45,6 +55,7 @@ const Search: React.FC<SearchProps> = ({ onSearchSelect }) => {
                     placeholder="Search TV shows..."
                     value={query}
                     onChange={(e) => setQuery(e.target.value)}
+                    onKeyDown={handleKeyDown}
                     className="nav-search-input"
                     aria-label="Search TV shows"
                 />
