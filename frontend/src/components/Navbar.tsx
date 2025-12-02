@@ -44,7 +44,7 @@ const Navbar: React.FC<NavbarProps> = ({ onSearchSelect }) => {
                         <div className="head-logo">
                             <Link to="/home">
                                 <img
-                                    src="/assets/img/logo.png"
+                                    src="/assets/img/logo2.png"
                                     alt="SimilarHub Logo"
                                 />
                             </Link>
