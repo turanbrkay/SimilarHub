@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import HorizontalRow from '../components/HorizontalRow';
 import RankedGrid from '../components/RankedGrid';
+import TrendingHero from '../components/TrendingHero';
 import {
     getPopularBooks,
     getByGenre,
@@ -85,6 +86,15 @@ const Books: React.FC = () => {
                         contentType="books"
                     />
                 </div>
+
+                {popularBooks.length > 0 && (
+                    <div className="page-content-width">
+                        <TrendingHero
+                            show={popularBooks[0]}
+                            onShowClick={handleShowClick}
+                        />
+                    </div>
+                )}
 
                 <div className="page-content-width">
                     <HorizontalRow
