@@ -85,6 +85,7 @@ const Filter: React.FC = () => {
                             <button className="filter-type-btn active">All</button>
                             <button className="filter-type-btn">Movies</button>
                             <button className="filter-type-btn">TV Shows</button>
+                            <button className="filter-type-btn">Books</button>
                         </div>
                     </div>
 
@@ -137,8 +138,8 @@ const Filter: React.FC = () => {
                                             <div className="similar-grid-card-badge">
                                                 <div
                                                     className={`radial-progress ${show.vote_average >= 7 ? 'text-green' :
-                                                            show.vote_average >= 5 ? 'text-yellow' :
-                                                                'text-red'
+                                                        show.vote_average >= 5 ? 'text-yellow' :
+                                                            'text-red'
                                                         }`}
                                                     style={{
                                                         '--value': show.vote_average * 10,
