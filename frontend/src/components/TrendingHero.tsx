@@ -181,12 +181,11 @@ const ConnectionMap: React.FC<{ similarShows: Show[], onShowClick: (id: number) 
         const N = limitedShows.length;
 
         // Configuration
-        const safePadding = 80; // Increased safe padding
-        const centralExclusionRadiusX = 160; // Wider exclusion around main poster
-        const centralExclusionRadiusY = 220; // Taller exclusion around main poster
+        const safePadding = 120; // Increased safe padding (was 80)
+        const centralExclusionRadiusX = 160;
+        const centralExclusionRadiusY = 220;
 
-        // Vertical Clamping: Nodes should stay within a band relative to the main poster
-        // Main poster is approx 312px tall. Let's allow a band of ~400px height centered.
+        // Vertical Clamping
         const verticalBandHeight = 400;
         const maxVerticalOffset = verticalBandHeight / 2;
 
@@ -196,24 +195,18 @@ const ConnectionMap: React.FC<{ similarShows: Show[], onShowClick: (id: number) 
             let x = 0, y = 0, angle = 0, radius = 0;
 
             // Distribute only on Left and Right sectors
-            // Left: PI - spread to PI + spread
-            // Right: -spread to +spread
-            const spread = 0.5; // Radians (approx 30 degrees each way from horizontal)
+            const spread = 0.5;
 
             while (!validPosition && attempt < 50) {
-                // Alternate left/right based on index
                 const isLeft = i % 2 === 0;
                 const baseAngle = isLeft ? Math.PI : 0;
 
-                // Random angle within the sector
                 const angleOffset = (Math.random() - 0.5) * 2 * spread;
                 angle = baseAngle + angleOffset;
 
-                // Radius: Start outside exclusion, go up to container bounds
                 const minRadius = centralExclusionRadiusX;
                 const maxRadius = width / 2 - safePadding;
 
-                // Distribute items: earlier items closer, later items further
                 const rNorm = (i + 1) / N;
                 const rRandom = rNorm + (Math.random() * 0.2);
                 radius = minRadius + (maxRadius - minRadius) * Math.min(rRandom, 1);
@@ -221,16 +214,12 @@ const ConnectionMap: React.FC<{ similarShows: Show[], onShowClick: (id: number) 
                 x = Math.cos(angle) * radius;
                 y = Math.sin(angle) * radius;
 
-                // Clamp Y to the vertical band
-                // This flattens the distribution vertically
                 if (Math.abs(y) > maxVerticalOffset) {
                     y = Math.sign(y) * (maxVerticalOffset - Math.random() * 50);
                 }
 
-                // Check Central Exclusion (Ellipse)
                 const inExclusion = (x * x) / (centralExclusionRadiusX * centralExclusionRadiusX) + (y * y) / (centralExclusionRadiusY * centralExclusionRadiusY) < 1;
 
-                // Check Safe Area (Container Bounds)
                 const inBounds =
                     (originX + x) > safePadding &&
                     (originX + x) < (width - safePadding) &&
@@ -244,19 +233,19 @@ const ConnectionMap: React.FC<{ similarShows: Show[], onShowClick: (id: number) 
                 }
             }
 
-            // Fallback: Force to a safe spot if placement failed
             if (!validPosition) {
                 const isLeft = i % 2 === 0;
                 const safeX = isLeft ? -(centralExclusionRadiusX + 50) : (centralExclusionRadiusX + 50);
                 x = safeX;
-                y = (Math.random() - 0.5) * 100; // Small vertical jitter
+                y = (Math.random() - 0.5) * 100;
             }
 
             const pos: NodePosition = {
                 x, y,
                 angle, radius,
                 showId: show.id,
-                floatSpeed: 0.0002 + Math.random() * 0.0003, // Very slow float
+                // Increased float speed range (was 0.0002 + 0.0003)
+                floatSpeed: 0.0005 + Math.random() * 0.0008,
                 floatOffset: Math.random() * 1000,
                 floatPhase: Math.random() * Math.PI * 2
             };
@@ -281,8 +270,9 @@ const ConnectionMap: React.FC<{ similarShows: Show[], onShowClick: (id: number) 
 
                 if (nodeEl) {
                     const speed = elapsed * pos.floatSpeed;
-                    const floatX = Math.sin(speed + pos.floatOffset) * 5; // Subtle float
-                    const floatY = Math.cos(speed + pos.floatOffset) * 5;
+                    // Increased float amplitude (was 5)
+                    const floatX = Math.sin(speed + pos.floatOffset) * 15;
+                    const floatY = Math.cos(speed + pos.floatOffset) * 15;
 
                     const currentX = originX + pos.x + floatX;
                     const currentY = originY + pos.y + floatY;
@@ -290,17 +280,15 @@ const ConnectionMap: React.FC<{ similarShows: Show[], onShowClick: (id: number) 
                     nodeEl.style.transform = `translate(-50%, -50%) translate(${currentX}px, ${currentY}px)`;
 
                     // Smart Hover Card Positioning
-                    // Check if node is too close to edges and adjust hover card class/style
-                    // We'll use a data attribute to tell CSS how to align the card
                     const distToRight = dimensions.width - currentX;
                     const distToLeft = currentX;
 
-                    if (distToRight < 300) { // Card width ~260px + padding
+                    if (distToRight < 300) {
                         nodeEl.setAttribute('data-align', 'left');
                     } else if (distToLeft < 300) {
                         nodeEl.setAttribute('data-align', 'right');
                     } else {
-                        nodeEl.removeAttribute('data-align'); // Default (center/bottom)
+                        nodeEl.removeAttribute('data-align');
                     }
 
                     if (lineEl) {

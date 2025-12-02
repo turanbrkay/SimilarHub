@@ -50,7 +50,7 @@
     position: absolute;
     inset: 0;
     z-index: 1;
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0.4) 50%, rgba(0, 0, 0, 0.6) 100%);
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0.4) 50%, rgba(0, 0, 0, 0.2) 100%);
 }
 
 @media (min-width: 768px) {
@@ -85,8 +85,8 @@
 /* Poster Wrapper with Neon Gradient Glow */
 .trending-hero-poster-wrapper {
     position: relative;
-    width: 208px;
-    height: 312px;
+    width: 150px;
+    height: 225px;
     border-radius: 15px;
     transition: transform 0.3s ease;
     z-index: 10;
@@ -158,12 +158,12 @@
     overflow: hidden;
     /* 
        Soft Spotlight Effect:
-       The mask goes from fully opaque (black) at the mouse cursor to semi-transparent (rgba(0,0,0,0.3)) at the edges.
-       This ensures the map is ALWAYS visible (dimmed) but brightens smoothly near the mouse.
-       We use a large radius (800px) for a very soft falloff.
+       Increased base visibility from 0.3 to 0.6 so the map is never too dark.
+       The center (mouse) is fully opaque (black in mask terms = visible), 
+       fading to 60% visibility at the edges.
     */
-    mask-image: radial-gradient(circle 800px at var(--mouse-x, 50%) var(--mouse-y, 50%), black 20%, rgba(0, 0, 0, 0.3) 100%);
-    -webkit-mask-image: radial-gradient(circle 800px at var(--mouse-x, 50%) var(--mouse-y, 50%), black 20%, rgba(0, 0, 0, 0.3) 100%);
+    mask-image: radial-gradient(circle 800px at var(--mouse-x, 50%) var(--mouse-y, 50%), black 30%, rgba(0, 0, 0, 0.6) 100%);
+    -webkit-mask-image: radial-gradient(circle 800px at var(--mouse-x, 50%) var(--mouse-y, 50%), black 30%, rgba(0, 0, 0, 0.6) 100%);
     transition: mask-image 0.3s ease;
 }
 
@@ -201,15 +201,14 @@
     overflow: hidden;
     border: 1px solid rgba(43, 217, 198, 0.3);
     transition: all 0.25s ease;
-    /* Smooth 250ms transition */
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
     background: #000;
     /* 
-       Base opacity: 0.5 (readable but atmospheric)
-       Grayscale: 40% (slightly muted)
+       Base opacity increased to 0.7 for better visibility.
+       Grayscale reduced to 20% to keep colors more vibrant.
     */
-    opacity: 0.5;
-    filter: grayscale(40%);
+    opacity: 0.7;
+    filter: grayscale(20%);
 }
 
 /* Hover State: Brighten and Scale */
@@ -218,9 +217,7 @@
     box-shadow: 0 0 15px rgba(43, 217, 198, 0.6);
     transform: scale(1.2);
     opacity: 1;
-    /* Fully visible */
     filter: grayscale(0%);
-    /* Full color */
 }
 
 .trending-hero-node-poster img {
