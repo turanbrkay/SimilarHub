@@ -61,10 +61,10 @@ const DetailConnectionMap: React.FC<DetailConnectionMapProps> = React.memo(({ so
         const canvasH = containerHeight;
 
         // Poster Dimensions & Position (CSS values)
-        const posterWidth = 140;
-        const posterHeight = 210;
-        const posterLeft = 40; // 2.5rem
-        const posterBottom = 40; // 2.5rem
+        const posterWidth = 160;
+        const posterHeight = 240;
+        const posterLeft = 32; // 2rem
+        const posterBottom = 32; // 2rem
 
         // Origin at CENTER of the dock poster
         // X = Left margin + half width

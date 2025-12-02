@@ -204,76 +204,78 @@ const SimilarShows: React.FC<SimilarShowsProps> = ({ showId, onBack, onShowClick
                 <div className="detail-hero-card-wrapper">
                     {/* Inner Card Container (Rounded & Shadowed) */}
                     <div className="detail-hero-inner-card">
-                        {/* Left: Map Area */}
-                        <div className="detail-hero-left">
-                            {allSimilarShows.length > 0 && (
-                                <DetailConnectionMap
-                                    sourceShow={sourceShow}
-                                    similarShows={allSimilarShows.slice(0, 40)}
-                                    onShowClick={onShowClick}
-                                />
-                            )}
-                        </div>
-
-                        {/* Right: Sidebar */}
-                        <div className="detail-hero-right">
-                            {/* Header with title */}
-                            <div className="detail-sidebar-header">
-                                <h1 className="detail-sidebar-title">{displayName}</h1>
-                                <div className="detail-sidebar-meta">
-                                    {year && <span>{year}</span>}
-                                    {sourceShow.number_of_seasons && (
-                                        <span>{sourceShow.number_of_seasons} Season{sourceShow.number_of_seasons > 1 ? 's' : ''}</span>
-                                    )}
-                                    {sourceShow.source_type && (
-                                        <span>{sourceShow.source_type === 'movie' ? 'Movie' : 'TV Show'}</span>
-                                    )}
+                        {/* Inner Content Wrapper for Clipping */}
+                        <div className="detail-hero-inner-content">
+                            {/* Left: Map Area */}
+                            <div className="detail-hero-left">
+                                {allSimilarShows.length > 0 && (
+                                    <DetailConnectionMap
+                                        sourceShow={sourceShow}
+                                        similarShows={allSimilarShows.slice(0, 40)}
+                                        onShowClick={onShowClick}
+                                    />
+                                )}
+                                {/* Dock Poster - Now inside detail-hero-left for alignment */}
+                                <div
+                                    className="detail-hero-dock-poster"
+                                    onClick={() => onShowClick(sourceShow.id)}
+                                >
+                                    <div className="dock-poster-inner">
+                                        <img
+                                            src={`https://image.tmdb.org/t/p/w500${sourceShow.poster_path}`}
+                                            alt={displayName}
+                                        />
+                                    </div>
                                 </div>
                             </div>
 
-                            {/* Tabs */}
-                            <div className="detail-sidebar-tabs">
-                                <button
-                                    className={`detail-sidebar-tab ${activeTab === 'overview' ? 'active' : ''}`}
-                                    onClick={() => setActiveTab('overview')}
-                                >
-                                    Overview
-                                </button>
-                                <button
-                                    className={`detail-sidebar-tab ${activeTab === 'casts' ? 'active' : ''}`}
-                                    onClick={() => setActiveTab('casts')}
-                                >
-                                    Casts
-                                </button>
-                                <button
-                                    className={`detail-sidebar-tab ${activeTab === 'reviews' ? 'active' : ''}`}
-                                    onClick={() => setActiveTab('reviews')}
-                                >
-                                    Reviews
-                                </button>
-                                <button
-                                    className={`detail-sidebar-tab ${activeTab === 'related' ? 'active' : ''}`}
-                                    onClick={() => setActiveTab('related')}
-                                >
-                                    Related
-                                </button>
+                            {/* Right: Sidebar */}
+                            <div className="detail-hero-right">
+                                {/* Header with title */}
+                                <div className="detail-sidebar-header">
+                                    <h1 className="detail-sidebar-title">{displayName}</h1>
+                                    <div className="detail-sidebar-meta">
+                                        {year && <span>{year}</span>}
+                                        {sourceShow.number_of_seasons && (
+                                            <span>{sourceShow.number_of_seasons} Season{sourceShow.number_of_seasons > 1 ? 's' : ''}</span>
+                                        )}
+                                        {sourceShow.source_type && (
+                                            <span>{sourceShow.source_type === 'movie' ? 'Movie' : 'TV Show'}</span>
+                                        )}
+                                    </div>
+                                </div>
+
+                                {/* Tabs */}
+                                <div className="detail-sidebar-tabs">
+                                    <button
+                                        className={`detail-sidebar-tab ${activeTab === 'overview' ? 'active' : ''}`}
+                                        onClick={() => setActiveTab('overview')}
+                                    >
+                                        Overview
+                                    </button>
+                                    <button
+                                        className={`detail-sidebar-tab ${activeTab === 'casts' ? 'active' : ''}`}
+                                        onClick={() => setActiveTab('casts')}
+                                    >
+                                        Casts
+                                    </button>
+                                    <button
+                                        className={`detail-sidebar-tab ${activeTab === 'reviews' ? 'active' : ''}`}
+                                        onClick={() => setActiveTab('reviews')}
+                                    >
+                                        Reviews
+                                    </button>
+                                    <button
+                                        className={`detail-sidebar-tab ${activeTab === 'related' ? 'active' : ''}`}
+                                        onClick={() => setActiveTab('related')}
+                                    >
+                                        Related
+                                    </button>
+                                </div>
+
+                                {/* Tab Content */}
+                                {renderTabContent()}
                             </div>
-
-                            {/* Tab Content */}
-                            {renderTabContent()}
-                        </div>
-                    </div>
-
-                    {/* Dock Poster - Now outside the inner card to "break out" */}
-                    <div
-                        className="detail-hero-dock-poster"
-                        onClick={() => onShowClick(sourceShow.id)}
-                    >
-                        <div className="dock-poster-inner">
-                            <img
-                                src={`https://image.tmdb.org/t/p/w500${sourceShow.poster_path}`}
-                                alt={displayName}
-                            />
                         </div>
                     </div>
                 </div>
