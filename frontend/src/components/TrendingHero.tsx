@@ -1,5 +1,5 @@
-import React, { useEffect, useRef } from 'react';
-import type { Show } from '../services/api';
+import React, { useEffect, useRef, useMemo, useState } from 'react';
+import { getSimilarMap, type Show } from '../services/api';
 import '../styles/TrendingHero.css';
 
 interface TrendingHeroProps {
@@ -7,6 +7,12 @@ interface TrendingHeroProps {
     onShowClick: (showId: number) => void;
 }
 
+// Extended interface for local use
+interface HeroShow extends Show {
+    similar?: Show[];
+}
+
+// ==================== STARFIELD FALLBACK ====================
 interface Star {
     x: number;
     y: number;
@@ -16,13 +22,12 @@ interface Star {
     vy: number;
 }
 
-const TrendingHero: React.FC<TrendingHeroProps> = ({ show, onShowClick }) => {
+const StarfieldCanvas: React.FC = () => {
     const containerRef = useRef<HTMLDivElement>(null);
     const canvasRef = useRef<HTMLCanvasElement>(null);
     const requestRef = useRef<number>(0);
     const starsRef = useRef<Star[]>([]);
 
-    // Initialize stars
     useEffect(() => {
         if (!canvasRef.current || !containerRef.current) return;
 
@@ -32,7 +37,7 @@ const TrendingHero: React.FC<TrendingHeroProps> = ({ show, onShowClick }) => {
         canvas.width = width;
         canvas.height = height;
 
-        const starCount = Math.floor((width * height) / 4000); // Density
+        const starCount = Math.floor((width * height) / 4000);
         const stars: Star[] = [];
 
         for (let i = 0; i < starCount; i++) {
@@ -58,7 +63,6 @@ const TrendingHero: React.FC<TrendingHeroProps> = ({ show, onShowClick }) => {
         return () => window.removeEventListener('resize', handleResize);
     }, []);
 
-    // Animation Loop
     useEffect(() => {
         const canvas = canvasRef.current;
         if (!canvas) return;
@@ -72,30 +76,24 @@ const TrendingHero: React.FC<TrendingHeroProps> = ({ show, onShowClick }) => {
             const width = canvas.width;
             const height = canvas.height;
 
-            // Update and Draw Stars
             ctx.fillStyle = '#fff';
             starsRef.current.forEach(star => {
-                // Move
                 star.x += star.vx;
                 star.y += star.vy;
 
-                // Wrap
                 if (star.x < 0) star.x = width;
                 if (star.x > width) star.x = 0;
                 if (star.y < 0) star.y = height;
                 if (star.y > height) star.y = 0;
 
-                // Draw Star
                 ctx.beginPath();
                 ctx.arc(star.x, star.y, star.radius, 0, Math.PI * 2);
                 ctx.fillStyle = `rgba(255, 255, 255, ${star.opacity})`;
                 ctx.fill();
             });
 
-            // Draw Connections
             ctx.strokeStyle = 'rgba(255, 255, 255, 0.15)';
             ctx.lineWidth = 0.5;
-
             const connectionDist = 100;
 
             for (let i = 0; i < starsRef.current.length; i++) {
@@ -114,7 +112,6 @@ const TrendingHero: React.FC<TrendingHeroProps> = ({ show, onShowClick }) => {
                     }
                 }
             }
-
             requestRef.current = requestAnimationFrame(animate);
         };
 
@@ -122,47 +119,8 @@ const TrendingHero: React.FC<TrendingHeroProps> = ({ show, onShowClick }) => {
         return () => cancelAnimationFrame(requestRef.current);
     }, []);
 
-    const handleMouseMove = (e: React.MouseEvent<HTMLDivElement>) => {
-        if (containerRef.current) {
-            const rect = containerRef.current.getBoundingClientRect();
-            const x = e.clientX - rect.left;
-            const y = e.clientY - rect.top;
-
-            // Update CSS variables for mask
-            containerRef.current.style.setProperty('--mouse-x', `${x}px`);
-            containerRef.current.style.setProperty('--mouse-y', `${y}px`);
-        }
-    };
-
-    const handleMouseLeave = () => {
-        // Optional: Hide mask or move it away
-    };
-
-    if (!show) return null;
-
-    const releaseYear = show.release_date ? new Date(show.release_date).getFullYear() :
-        show.first_air_date ? new Date(show.first_air_date).getFullYear() : 'N/A';
-
-    const rating = show.vote_average ? show.vote_average.toFixed(1) : 'NR';
-
     return (
-        <div
-            className="trending-hero-container"
-            ref={containerRef}
-            onMouseMove={handleMouseMove}
-            onMouseLeave={handleMouseLeave}
-            style={{
-                // Inline mask style to ensure it works with dynamic variables
-            } as React.CSSProperties}
-        >
-            {/* Background */}
-            <div
-                className="trending-hero-bg"
-                style={{ backgroundImage: `url(https://image.tmdb.org/t/p/original${show.backdrop_path})` }}
-            />
-            <div className="trending-hero-overlay" />
-
-            {/* Map Canvas with Mask */}
+        <div ref={containerRef} className="trending-hero-map-container">
             <canvas
                 ref={canvasRef}
                 className="trending-hero-map-canvas"
@@ -171,42 +129,266 @@ const TrendingHero: React.FC<TrendingHeroProps> = ({ show, onShowClick }) => {
                     WebkitMaskImage: `radial-gradient(circle 350px at var(--mouse-x, -1000px) var(--mouse-y, -1000px), black 0%, transparent 100%)`
                 }}
             />
+        </div>
+    );
+};
+
+// ==================== CONNECTION MAP IMPLEMENTATION ====================
+
+interface NodePosition {
+    x: number;
+    y: number;
+    floatSpeed: number;
+    floatOffset: number;
+    floatPhase: number;
+    angle: number;
+    radius: number;
+    showId: number;
+}
+
+const ConnectionMap: React.FC<{ similarShows: Show[], onShowClick: (id: number) => void }> = ({ similarShows, onShowClick }) => {
+    const [dimensions, setDimensions] = useState({ width: 1000, height: 500 });
+    const containerRef = useRef<HTMLDivElement>(null);
+
+    const nodeRefs = useRef<Map<number, HTMLDivElement>>(new Map());
+    const lineRefs = useRef<Map<number, SVGLineElement>>(new Map());
+
+    // Limit nodes for performance and aesthetics
+    const limitedShows = useMemo(() => similarShows.slice(0, 15), [similarShows]);
+
+    useEffect(() => {
+        const updateDimensions = () => {
+            if (containerRef.current) {
+                setDimensions({
+                    width: containerRef.current.clientWidth,
+                    height: containerRef.current.clientHeight
+                });
+            }
+        };
+        updateDimensions();
+        window.addEventListener('resize', updateDimensions);
+        return () => window.removeEventListener('resize', updateDimensions);
+    }, []);
+
+    const { positionMap, originX, originY } = useMemo(() => {
+        const { width, height } = dimensions;
+        // Center origin
+        const originX = width / 2;
+        const originY = height / 2;
+
+        const positions: NodePosition[] = [];
+        const posMap = new Map<number, NodePosition>();
+
+        const N = limitedShows.length;
+        const innerRadius = Math.min(width, height) * 0.3; // Clear space for content
+        const outerRadius = Math.max(width, height) * 0.6;
+
+        limitedShows.forEach((show, i) => {
+            // Distribute only on left and right sides to avoid vertical overflow
+            // Left sector: PI - 0.6 to PI + 0.6
+            // Right sector: -0.6 to +0.6
+            const isLeft = i % 2 === 0;
+            const baseAngle = isLeft ? Math.PI : 0;
+            const spread = 0.8; // Spread angle in radians (approx 45 degrees each way)
+            const randomOffset = (Math.random() - 0.5) * spread * 2;
+            const angle = baseAngle + randomOffset;
+
+            // Elliptical radius: wider on X, narrower on Y
+            const radiusX = innerRadius + Math.random() * (outerRadius - innerRadius);
+            const radiusY = radiusX * 0.4; // Flatten vertically
+
+            const x = Math.cos(angle) * radiusX;
+            const y = Math.sin(angle) * radiusY;
+
+            const pos: NodePosition = {
+                x, y,
+                angle, radius: radiusX,
+                showId: show.id,
+                floatSpeed: 0.0005 + Math.random() * 0.001,
+                floatOffset: Math.random() * 1000,
+                floatPhase: Math.random() * Math.PI * 2
+            };
+            positions.push(pos);
+            posMap.set(show.id, pos);
+        });
+
+        return { positionMap: posMap, originX, originY };
+    }, [limitedShows, dimensions]);
+
+    // Animation Loop
+    useEffect(() => {
+        let frameId: number;
+        const startTime = performance.now();
+
+        const animate = (time: number) => {
+            const elapsed = time - startTime;
+
+            positionMap.forEach((pos) => {
+                const nodeEl = nodeRefs.current.get(pos.showId);
+                const lineEl = lineRefs.current.get(pos.showId);
+
+                if (nodeEl) {
+                    const speed = elapsed * pos.floatSpeed;
+                    const floatX = Math.sin(speed + pos.floatOffset) * 10;
+                    const floatY = Math.cos(speed + pos.floatOffset) * 10;
+
+                    const currentX = originX + pos.x + floatX;
+                    const currentY = originY + pos.y + floatY;
+
+                    nodeEl.style.transform = `translate(-50%, -50%) translate(${currentX}px, ${currentY}px)`;
+
+                    if (lineEl) {
+                        lineEl.setAttribute('x2', String(currentX));
+                        lineEl.setAttribute('y2', String(currentY));
+                    }
+                }
+            });
+            frameId = requestAnimationFrame(animate);
+        };
+
+        frameId = requestAnimationFrame(animate);
+        return () => cancelAnimationFrame(frameId);
+    }, [positionMap, originX, originY]);
+
+    return (
+        <div ref={containerRef} className="trending-hero-map-container">
+            <svg className="trending-hero-connections">
+                <defs>
+                    <linearGradient id="heroConnectionGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+                        <stop offset="0%" style={{ stopColor: '#2bd9c6', stopOpacity: 0.4 }} />
+                        <stop offset="100%" style={{ stopColor: '#2bd9c6', stopOpacity: 0.1 }} />
+                    </linearGradient>
+                </defs>
+                {limitedShows.map(show => {
+                    const pos = positionMap.get(show.id);
+                    if (!pos) return null;
+                    return (
+                        <line
+                            key={`line-${show.id}`}
+                            ref={el => { if (el) lineRefs.current.set(show.id, el); }}
+                            x1={originX}
+                            y1={originY}
+                            x2={originX + pos.x}
+                            y2={originY + pos.y}
+                            stroke="url(#heroConnectionGradient)"
+                            strokeWidth="1"
+                        />
+                    );
+                })}
+            </svg>
+
+            {limitedShows.map(show => {
+                const pos = positionMap.get(show.id);
+                if (!pos) return null;
+
+                return (
+                    <div
+                        key={`node-${show.id}`}
+                        ref={el => { if (el) nodeRefs.current.set(show.id, el); }}
+                        className="trending-hero-node"
+                        style={{ width: '50px', height: '75px' }}
+                        onClick={(e) => {
+                            e.stopPropagation();
+                            onShowClick(show.id);
+                        }}
+                    >
+                        <div className="trending-hero-node-poster">
+                            <img src={`https://image.tmdb.org/t/p/w200${show.poster_path}`} alt="" />
+                        </div>
+
+                        {/* Hover Card */}
+                        <div className="trending-hero-hover-card">
+                            <div className="trending-hero-hover-card-content">
+                                <div className="trending-hero-hover-card-poster-small">
+                                    <img src={`https://image.tmdb.org/t/p/w200${show.poster_path}`} alt="" />
+                                </div>
+                                <div className="trending-hero-hover-card-info">
+                                    <h3>{show.title || show.name}</h3>
+                                    <div className="trending-hero-hover-card-meta">
+                                        <span className="trending-hero-hover-card-rating">
+                                            ★ {show.vote_average?.toFixed(1)}
+                                        </span>
+                                        <span>{show.release_date ? show.release_date.substring(0, 4) : ''}</span>
+                                    </div>
+                                    {show.overview && (
+                                        <p className="trending-hero-hover-card-overview">{show.overview}</p>
+                                    )}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                );
+            })}
+        </div>
+    );
+};
+
+// ==================== MAIN COMPONENT ====================
+
+const TrendingHero: React.FC<TrendingHeroProps> = ({ show, onShowClick }) => {
+    const containerRef = useRef<HTMLDivElement>(null);
+    const [fetchedSimilar, setFetchedSimilar] = useState<Show[]>([]);
+
+    useEffect(() => {
+        if (!show) return;
+
+        const heroShow = show as HeroShow;
+        if (heroShow.similar && heroShow.similar.length > 0) {
+            setFetchedSimilar(heroShow.similar);
+        } else {
+            // Fetch similar if not provided
+            getSimilarMap(show.id).then(data => {
+                if (data.similar_items && data.similar_items.length > 0) {
+                    setFetchedSimilar(data.similar_items);
+                }
+            }).catch(err => console.error("Failed to fetch similar for hero", err));
+        }
+    }, [show]);
+
+    const handleMouseMove = (e: React.MouseEvent<HTMLDivElement>) => {
+        if (containerRef.current) {
+            const rect = containerRef.current.getBoundingClientRect();
+            const x = e.clientX - rect.left;
+            const y = e.clientY - rect.top;
+            containerRef.current.style.setProperty('--mouse-x', `${x}px`);
+            containerRef.current.style.setProperty('--mouse-y', `${y}px`);
+        }
+    };
+
+    if (!show) return null;
+
+    const hasSimilar = fetchedSimilar.length > 0;
+
+
+    return (
+        <div
+            className="trending-hero-container"
+            ref={containerRef}
+            onMouseMove={handleMouseMove}
+        >
+            {/* Background */}
+            <div
+                className="trending-hero-bg"
+                style={{ backgroundImage: `url(https://image.tmdb.org/t/p/original${show.backdrop_path})` }}
+            />
+            <div className="trending-hero-overlay" />
+
+            {/* Map or Fallback */}
+            {hasSimilar ? (
+                <ConnectionMap similarShows={fetchedSimilar} onShowClick={onShowClick} />
+            ) : (
+                <StarfieldCanvas />
+            )}
 
             {/* Content */}
             <div className="trending-hero-content">
-                {/* Poster */}
                 <div className="trending-hero-poster-wrapper" onClick={() => onShowClick(show.id)} style={{ cursor: 'pointer' }}>
                     <img
                         src={`https://image.tmdb.org/t/p/w500${show.poster_path}`}
                         alt={show.title || show.name}
                         className="trending-hero-poster"
                     />
-                    {/* Capsule */}
-                    <div className="trending-hero-capsule">
-                        <span className="capsule-rating">
-                            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" />
-                            </svg>
-                            {rating}
-                        </span>
-                        <span className="capsule-divider"></span>
-                        <span>{releaseYear}</span>
-                    </div>
-                </div>
-
-                {/* Info */}
-                <div className="trending-hero-info">
-                    <h2 className="trending-hero-title">{show.title || show.name}</h2>
-
-                    <div className="trending-hero-meta">
-                        <span className="trending-hero-tag">Trending Now</span>
-                        {show.original_language && (
-                            <span className="trending-hero-tag">{show.original_language.toUpperCase()}</span>
-                        )}
-                        {/* Add more tags if available */}
-                    </div>
-
-                    <p className="trending-hero-description">{show.overview}</p>
+                    {/* Compact Info Card Removed */}
                 </div>
             </div>
         </div>
