@@ -21,6 +21,8 @@ interface NodePosition {
 
 const SimilarMap: React.FC<SimilarMapProps> = React.memo(({ sourceShow, similarShows, onShowClick }) => {
     const [hoveredShowId, setHoveredShowId] = useState<number | null>(null);
+    const [dimensions, setDimensions] = useState({ width: 1400, height: 700 });
+    const containerRef = useRef<HTMLDivElement>(null);
 
     // Refs for direct DOM manipulation (performance)
     const nodeRefs = useRef<Map<number, HTMLDivElement>>(new Map());
@@ -31,10 +33,35 @@ const SimilarMap: React.FC<SimilarMapProps> = React.memo(({ sourceShow, similarS
         return similarShows.slice(0, 40);
     }, [similarShows]);
 
+    useEffect(() => {
+        const updateDimensions = () => {
+            if (containerRef.current) {
+                const { clientWidth, clientHeight } = containerRef.current;
+                if (clientWidth > 0 && clientHeight > 0) {
+                    setDimensions({ width: clientWidth, height: clientHeight });
+                }
+            }
+        };
+
+        updateDimensions();
+
+        const observer = new ResizeObserver(updateDimensions);
+        if (containerRef.current) {
+            observer.observe(containerRef.current);
+        }
+
+        window.addEventListener('resize', updateDimensions);
+
+        return () => {
+            observer.disconnect();
+            window.removeEventListener('resize', updateDimensions);
+        };
+    }, []);
+
     // Calculate initial node positions
     const { positionMap, canvasWidth, canvasHeight } = useMemo(() => {
-        const containerWidth = 1400;
-        const containerHeight = 700;
+        const containerWidth = dimensions.width;
+        const containerHeight = dimensions.height;
         const padding = 40;
         const canvasW = containerWidth - padding;
         const canvasH = containerHeight - padding;
@@ -148,7 +175,7 @@ const SimilarMap: React.FC<SimilarMapProps> = React.memo(({ sourceShow, similarS
         positions.forEach(pos => posMap.set(pos.showId, pos));
 
         return { positionMap: posMap, canvasWidth: canvasW, canvasHeight: canvasH };
-    }, [sourceShow.id, limitedShows]);
+    }, [sourceShow.id, limitedShows, dimensions]);
 
     // Animation Loop
     useEffect(() => {
@@ -268,7 +295,7 @@ const SimilarMap: React.FC<SimilarMapProps> = React.memo(({ sourceShow, similarS
     return (
         <div className="similar-map-section">
 
-            <div className="similar-map-container">
+            <div className="similar-map-container" ref={containerRef}>
                 <div className="similar-map-canvas">
                     <svg
                         key={`connections-${sourceShow.id}`}
