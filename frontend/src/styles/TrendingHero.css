@@ -2,14 +2,23 @@
     position: relative;
     width: 100%;
     overflow: hidden;
-    border-radius: 1.5rem;
-    background-color: #000;
+    /* Remove strict borders and backgrounds */
+    border-radius: 0;
+    background: transparent;
     color: white;
     display: flex;
     flex-direction: column;
     padding: 2rem;
     margin: 2rem 0;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+    /* Fade out all 4 sides to blend with site */
+    mask-image:
+        linear-gradient(to bottom, transparent 0%, black 10%, black 85%, transparent 100%),
+        linear-gradient(to right, transparent 0%, black 10%, black 85%, transparent 100%);
+    -webkit-mask-image:
+        linear-gradient(to bottom, transparent 0%, black 10%, black 85%, transparent 100%),
+        linear-gradient(to right, transparent 0%, black 10%, black 85%, transparent 100%);
+    mask-composite: intersect;
+    -webkit-mask-composite: source-in;
     transition: transform 0.3s ease;
 }
 
@@ -19,7 +28,7 @@
         border-radius: 3rem;
         padding: 3rem;
         align-items: center;
-        min-height: 500px;
+        min-height: 600px;
     }
 }
 
