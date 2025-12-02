@@ -93,6 +93,16 @@ const Navbar: React.FC<NavbarProps> = ({ onSearchSelect }) => {
                                     BOOKS
                                 </NavLink>
                             </li>
+                            <li>
+                                <NavLink
+                                    to="/filter"
+                                    className={({ isActive }) =>
+                                        isActive ? 'nav-link active' : 'nav-link'
+                                    }
+                                >
+                                    FILTER
+                                </NavLink>
+                            </li>
                         </ul>
                     </nav>
 

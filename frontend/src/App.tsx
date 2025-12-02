@@ -6,6 +6,7 @@ import Movies from './pages/Movies';
 import TVShows from './pages/TVShows';
 import Books from './pages/Books';
 import Details from './pages/Details';
+import Filter from './pages/Filter';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
           <Route path="/tv-shows" element={<TVShows />} />
           <Route path="/books" element={<Books />} />
           <Route path="/details/:id" element={<Details />} />
+          <Route path="/filter" element={<Filter />} />
           {/* Redirect legacy dashboard route */}
           <Route path="/dashboard" element={<Navigate to="/home" replace />} />
         </Route>
