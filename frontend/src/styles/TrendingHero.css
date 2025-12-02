@@ -86,11 +86,8 @@
 .trending-hero-poster-wrapper {
     position: relative;
     width: 208px;
-    /* From snippet */
     height: 312px;
-    /* From snippet */
     border-radius: 15px;
-    /* From snippet */
     transition: transform 0.3s ease;
     z-index: 10;
     display: flex;
@@ -98,7 +95,6 @@
     justify-content: center;
     pointer-events: auto;
     background: #000;
-    /* Ensure opaque background behind poster */
 }
 
 /* Neon Gradient Animation */
@@ -117,10 +113,8 @@
 
 .trending-hero-poster-wrapper::after {
     filter: blur(50px);
-    /* Create the glow */
     opacity: 0.8;
     z-index: -2;
-    /* Behind the border layer */
 }
 
 @keyframes background-position-spin {
@@ -162,9 +156,15 @@
     inset: 0;
     z-index: 2;
     overflow: hidden;
-    /* Mask to fade out edges if needed, similar to original starfield */
-    mask-image: radial-gradient(circle 800px at var(--mouse-x, 50%) var(--mouse-y, 50%), black 40%, transparent 100%);
-    -webkit-mask-image: radial-gradient(circle 800px at var(--mouse-x, 50%) var(--mouse-y, 50%), black 40%, transparent 100%);
+    /* 
+       Soft Spotlight Effect:
+       The mask goes from fully opaque (black) at the mouse cursor to semi-transparent (rgba(0,0,0,0.3)) at the edges.
+       This ensures the map is ALWAYS visible (dimmed) but brightens smoothly near the mouse.
+       We use a large radius (800px) for a very soft falloff.
+    */
+    mask-image: radial-gradient(circle 800px at var(--mouse-x, 50%) var(--mouse-y, 50%), black 20%, rgba(0, 0, 0, 0.3) 100%);
+    -webkit-mask-image: radial-gradient(circle 800px at var(--mouse-x, 50%) var(--mouse-y, 50%), black 20%, rgba(0, 0, 0, 0.3) 100%);
+    transition: mask-image 0.3s ease;
 }
 
 .trending-hero-connections {
@@ -175,6 +175,10 @@
     height: 100%;
     pointer-events: none;
     z-index: 0;
+}
+
+.trending-hero-connection-line {
+    transition: stroke-opacity 0.3s ease, stroke-width 0.3s ease;
 }
 
 .trending-hero-node {
@@ -196,27 +200,34 @@
     border-radius: 6px;
     overflow: hidden;
     border: 1px solid rgba(43, 217, 198, 0.3);
-    transition: all 0.3s ease;
+    transition: all 0.25s ease;
+    /* Smooth 250ms transition */
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
     background: #000;
+    /* 
+       Base opacity: 0.5 (readable but atmospheric)
+       Grayscale: 40% (slightly muted)
+    */
+    opacity: 0.5;
+    filter: grayscale(40%);
 }
 
+/* Hover State: Brighten and Scale */
 .trending-hero-node:hover .trending-hero-node-poster {
     border-color: #2bd9c6;
     box-shadow: 0 0 15px rgba(43, 217, 198, 0.6);
     transform: scale(1.2);
+    opacity: 1;
+    /* Fully visible */
+    filter: grayscale(0%);
+    /* Full color */
 }
 
 .trending-hero-node-poster img {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    opacity: 0.8;
     transition: opacity 0.3s;
-}
-
-.trending-hero-node:hover .trending-hero-node-poster img {
-    opacity: 1;
 }
 
 /* Hover Card */
@@ -231,18 +242,55 @@
     width: 260px;
     opacity: 0;
     pointer-events: none;
-    transition: opacity 0.2s ease;
+    transition: opacity 0.2s ease, transform 0.2s ease;
     box-shadow: 0 8px 32px rgba(0, 0, 0, 0.8), 0 0 0 1px rgba(43, 217, 198, 0.15);
     z-index: 1000;
+
+    /* Default Positioning (Center Bottom) */
     left: 50%;
-    transform: translateX(-50%);
+    transform: translateX(-50%) translateY(10px);
     bottom: 100%;
     margin-bottom: 15px;
 }
 
+/* Smart Positioning based on data-align attribute set by JS */
+.trending-hero-node[data-align="left"] .trending-hero-hover-card {
+    left: auto;
+    right: 100%;
+    /* Show to the left of the node */
+    bottom: 50%;
+    transform: translateY(50%) translateX(-15px);
+    margin-bottom: 0;
+}
+
+.trending-hero-node[data-align="right"] .trending-hero-hover-card {
+    left: 100%;
+    /* Show to the right of the node */
+    right: auto;
+    bottom: 50%;
+    transform: translateY(50%) translateX(15px);
+    margin-bottom: 0;
+}
+
 .trending-hero-node:hover .trending-hero-hover-card {
     opacity: 1;
+    pointer-events: auto;
 }
+
+/* Adjust transform for active state based on alignment */
+.trending-hero-node:hover .trending-hero-hover-card {
+    /* Default */
+    transform: translateX(-50%) translateY(0);
+}
+
+.trending-hero-node[data-align="left"]:hover .trending-hero-hover-card {
+    transform: translateY(50%) translateX(-10px);
+}
+
+.trending-hero-node[data-align="right"]:hover .trending-hero-hover-card {
+    transform: translateY(50%) translateX(10px);
+}
+
 
 .trending-hero-hover-card-content {
     display: flex;
