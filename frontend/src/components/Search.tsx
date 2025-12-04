@@ -5,13 +5,29 @@ import '../styles/Navbar.css';
 
 interface SearchProps {
     onSearchSelect: (show: Show) => void;
+    onSearchSubmit?: (query: string) => void;
 }
 
-const Search: React.FC<SearchProps> = ({ onSearchSelect }) => {
+const Search: React.FC<SearchProps> = ({ onSearchSelect, onSearchSubmit }) => {
     const [query, setQuery] = useState('');
     const [suggestions, setSuggestions] = useState<Show[]>([]);
     const [showDropdown, setShowDropdown] = useState(false);
     const [isLoading, setIsLoading] = useState(false);
+
+    const searchRef = React.useRef<HTMLDivElement>(null);
+
+    useEffect(() => {
+        const handleClickOutside = (event: MouseEvent) => {
+            if (searchRef.current && !searchRef.current.contains(event.target as Node)) {
+                setShowDropdown(false);
+            }
+        };
+
+        document.addEventListener('mousedown', handleClickOutside);
+        return () => {
+            document.removeEventListener('mousedown', handleClickOutside);
+        };
+    }, []);
 
     useEffect(() => {
         const searchTimeout = setTimeout(async () => {
@@ -36,8 +52,17 @@ const Search: React.FC<SearchProps> = ({ onSearchSelect }) => {
         onSearchSelect(show);
     };
 
+    const handleKeyDown = (e: React.KeyboardEvent<HTMLInputElement>) => {
+        if (e.key === 'Enter' && query.trim().length > 0) {
+            setShowDropdown(false);
+            if (onSearchSubmit) {
+                onSearchSubmit(query);
+            }
+        }
+    };
+
     return (
-        <div className="nav-search">
+        <div className="nav-search" ref={searchRef}>
             <div className="nav-search-input-wrap">
                 <span className="material-icons nav-search-icon">search</span>
                 <input
@@ -45,6 +70,7 @@ const Search: React.FC<SearchProps> = ({ onSearchSelect }) => {
                     placeholder="Search TV shows..."
                     value={query}
                     onChange={(e) => setQuery(e.target.value)}
+                    onKeyDown={handleKeyDown}
                     className="nav-search-input"
                     aria-label="Search TV shows"
                 />

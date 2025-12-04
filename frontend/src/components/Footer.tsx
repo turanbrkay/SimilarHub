@@ -8,7 +8,7 @@ const Footer: React.FC = () => {
             <div className="footer-container">
                 <div className="footer-left">
                     <div className="f-logo">
-                        <img src="/assets/img/logo.png" alt="SimilarHub" />
+                        <img src="/assets/img/logo2.png" alt="SimilarHub" />
                     </div>
                     <p className="f-disclaimer">
                         SimilarHub does not store any movies, TV shows or files on its server.

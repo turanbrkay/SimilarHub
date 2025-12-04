@@ -3,8 +3,6 @@
     width: 100%;
     height: 100vh;
     /* Fill the viewport */
-    max-height: 1000px;
-    /* Cap height on very tall screens */
     min-height: 700px;
     /* Minimum height for usability */
     position: relative;
@@ -18,15 +16,20 @@
 .map-stack-container {
     width: 28%;
     /* Approx 25-30% */
-    height: 100%;
+    height: 580px;
+    /* Constrained height for 5 visible cards + arrows */
     position: relative;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-between;
+    /* Arrows at top/bottom */
     align-items: center;
     padding-left: 0;
     z-index: 10;
     /* Above map lines if they cross over */
+    top: 50%;
+    transform: translateY(-50%);
+    /* Center vertically in the section */
 }
 
 .map-stack-card {
@@ -122,6 +125,39 @@
     width: 100%;
 }
 
+/* Map Stack Arrows - Refined Style */
+.map-stack-arrow {
+    background: rgba(43, 217, 198, 0.05);
+    /* More transparent */
+    backdrop-filter: blur(4px);
+    border: 1px solid rgba(43, 217, 198, 0.2);
+    color: var(--color-accent);
+    /* #2bd9c6 */
+    width: 32px;
+    /* Smaller size */
+    height: 32px;
+    border-radius: 50%;
+    /* Circle instead of rounded rect for cleaner look in vertical stack */
+    font-size: 1.2rem;
+    cursor: pointer;
+    z-index: 200;
+    transition: all 200ms ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 1;
+    padding: 0;
+    opacity: 0.6;
+    /* Lower default opacity */
+}
+
+.map-stack-arrow:hover {
+    opacity: 1;
+    background: rgba(43, 217, 198, 0.15);
+    border-color: rgba(43, 217, 198, 0.5);
+    transform: scale(1.1);
+}
+
 /* Responsive adjustments */
 @media (max-width: 1024px) {
     .similar-map-section {
@@ -138,6 +174,8 @@
         overflow-x: auto;
         padding: 1rem;
         justify-content: flex-start;
+        top: auto;
+        transform: none;
     }
 
     .map-stack-card {
@@ -159,5 +197,10 @@
     .dashboard-map-container {
         width: 100%;
         height: 500px;
+    }
+
+    /* Hide vertical arrows on mobile/horizontal layout if needed, or adjust */
+    .map-stack-arrow {
+        display: none;
     }
 }

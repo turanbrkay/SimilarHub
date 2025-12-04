@@ -1215,3 +1215,22 @@
 .dashboard-map-container canvas {
   display: block;
 }
+
+/* Custom Header for TV Shows on Air */
+.custom-header-tv-on-air {
+  margin-bottom: 0.5rem;
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 10px;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+}
+
+@media (min-width: 640px) {
+  .custom-header-tv-on-air {
+    font-size: 1.5rem;
+    line-height: 2rem;
+  }
+}

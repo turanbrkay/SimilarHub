@@ -1,26 +1,15 @@
-// src/components/Navbar.tsx
 import React from 'react';
-import { Link } from 'react-router-dom';
+import { Link, NavLink, useNavigate } from 'react-router-dom';
 import Search from './Search';
 import type { Show } from '../services/api';
 import '../styles/Navbar.css';
 
 interface NavbarProps {
-    onSearchSelect: (show: Show) => void;
-    activeCategory: 'home' | 'movies' | 'tvshows' | 'books';
-    onCategoryChange: (category: 'home' | 'movies' | 'tvshows' | 'books') => void;
-    onMyListClick: () => void;
+    onSearchSelect?: (show: Show) => void;
 }
 
-const Navbar: React.FC<NavbarProps> = ({
-    onSearchSelect,
-    activeCategory,
-    onCategoryChange,
-    onMyListClick
-}) => {
-    const [showProfileMenu, setShowProfileMenu] = React.useState(false);
+const Navbar: React.FC<NavbarProps> = ({ onSearchSelect }) => {
     const [showMobileNav, setShowMobileNav] = React.useState(false);
-
     const [scrolled, setScrolled] = React.useState(false);
 
     React.useEffect(() => {
@@ -39,6 +28,12 @@ const Navbar: React.FC<NavbarProps> = ({
         };
     }, []);
 
+    const navigate = useNavigate();
+
+    const handleSearchSubmit = (query: string) => {
+        navigate(`/search?query=${encodeURIComponent(query)}`);
+    };
+
     return (
         <header className={`header ${scrolled ? 'scrolled' : ''}`}>
             <div className="container">
@@ -53,9 +48,9 @@ const Navbar: React.FC<NavbarProps> = ({
                         </div>
 
                         <div className="head-logo">
-                            <Link to="/">
+                            <Link to="/home">
                                 <img
-                                    src="/assets/img/logo.png"
+                                    src="/assets/img/logo2.png"
                                     alt="SimilarHub Logo"
                                 />
                             </Link>
@@ -65,75 +60,64 @@ const Navbar: React.FC<NavbarProps> = ({
                     <nav id="head-nav" className={showMobileNav ? 'show' : ''}>
                         <ul>
                             <li>
-                                <a
-                                    href="#"
-                                    onClick={(e) => {
-                                        e.preventDefault();
-                                        onCategoryChange('home');
-                                    }}
-                                    className={
-                                        activeCategory === 'home'
-                                            ? 'nav-link active'
-                                            : 'nav-link'
+                                <NavLink
+                                    to="/home"
+                                    className={({ isActive }) =>
+                                        isActive ? 'nav-link active' : 'nav-link'
                                     }
                                 >
                                     HOME
-                                </a>
+                                </NavLink>
                             </li>
                             <li>
-                                <a
-                                    href="#"
-                                    onClick={(e) => {
-                                        e.preventDefault();
-                                        onCategoryChange('movies');
-                                    }}
-                                    className={
-                                        activeCategory === 'movies'
-                                            ? 'nav-link active'
-                                            : 'nav-link'
+                                <NavLink
+                                    to="/movies"
+                                    className={({ isActive }) =>
+                                        isActive ? 'nav-link active' : 'nav-link'
                                     }
                                 >
                                     MOVIES
-                                </a>
+                                </NavLink>
                             </li>
                             <li>
-                                <a
-                                    href="#"
-                                    onClick={(e) => {
-                                        e.preventDefault();
-                                        onCategoryChange('tvshows');
-                                    }}
-                                    className={
-                                        activeCategory === 'tvshows'
-                                            ? 'nav-link active'
-                                            : 'nav-link'
+                                <NavLink
+                                    to="/tv-shows"
+                                    className={({ isActive }) =>
+                                        isActive ? 'nav-link active' : 'nav-link'
                                     }
                                 >
                                     TV SHOWS
-                                </a>
+                                </NavLink>
                             </li>
                             <li>
-                                <a
-                                    href="#"
-                                    onClick={(e) => {
-                                        e.preventDefault();
-                                        onCategoryChange('books');
-                                    }}
-                                    className={
-                                        activeCategory === 'books'
-                                            ? 'nav-link active'
-                                            : 'nav-link'
+                                <NavLink
+                                    to="/books"
+                                    className={({ isActive }) =>
+                                        isActive ? 'nav-link active' : 'nav-link'
                                     }
                                 >
                                     BOOKS
-                                </a>
+                                </NavLink>
+                            </li>
+                            <li>
+                                <NavLink
+                                    to="/filter"
+                                    className={({ isActive }) =>
+                                        isActive ? 'nav-link active' : 'nav-link'
+                                    }
+                                >
+                                    FILTER
+                                </NavLink>
                             </li>
                         </ul>
                     </nav>
 
                     {/* Right Head - Search & User */}
                     <div className="r-head">
-                        <Search onSearchSelect={onSearchSelect} />
+                        <Search
+                            onSearchSelect={onSearchSelect || (() => { })}
+                            onSearchSubmit={handleSearchSubmit}
+                        />
                     </div>
                 </div>
             </div>

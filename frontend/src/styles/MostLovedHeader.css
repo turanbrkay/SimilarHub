@@ -1,0 +1,309 @@
+/* Most-Loved WATCH Section Styling */
+
+.most-loved-header-container {
+    position: relative;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 2rem;
+    padding: 4rem 0 0rem 0;
+    margin-bottom: 1rem;
+    min-height: clamp(10rem, 15vw, 14rem);
+}
+
+@media (max-width: 639px) {
+    .most-loved-header-container {
+        padding: 1rem 1rem;
+    }
+}
+
+/* Left container for text */
+.most-loved-left-section {
+    position: relative;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 100%;
+}
+
+/* Background "WATCH" Text - exactly like TODAY'S */
+.most-loved-background {
+    position: absolute;
+    top: -1rem;
+    left: 0;
+    font-size: clamp(6rem, 15vw, 9rem);
+    font-weight: 800;
+    letter-spacing: -0.05em;
+    line-height: 0.8;
+    background: linear-gradient(to bottom, #2bd9c6 0%, #323437 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    opacity: 0.5;
+    z-index: 0;
+    pointer-events: none;
+    text-transform: uppercase;
+    white-space: pre-wrap;
+    font-family: Montserrat, 'Montserrat Fallback', sans-serif;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/* Foreground Container with Dynamic Text */
+.most-loved-foreground {
+    position: relative;
+    z-index: 10;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 3.5rem;
+    margin-top: 2.5rem;
+}
+
+/* Text Lines Container */
+.most-loved-text-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+    margin-bottom: 1rem;
+}
+
+/* Text Lines */
+.most-loved-line1,
+.most-loved-line2 {
+    font-family: Montserrat, 'Montserrat Fallback', sans-serif;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    font-weight: 700;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+    color: #ffffff;
+    margin: 0;
+    white-space: nowrap;
+}
+
+/* Normal text without glow */
+.most-loved-text-normal {
+    color: #ffffff;
+}
+
+/* Glowing text with primary color - same as ranked number hover */
+.most-loved-text-glow {
+    color: var(--color-accent);
+    -webkit-text-fill-color: var(--color-accent);
+    text-shadow: 0 0 10px rgba(43, 217, 198, 0.6),
+        0 4px 10px rgba(43, 217, 198, 0.4);
+}
+
+/* Dynamic Text with Animation */
+.most-loved-dynamic-text {
+    display: inline-block;
+    animation: slideDownFadeIn 500ms ease-out;
+}
+
+/* Slide Down Animation (same as RankedGrid) */
+@keyframes slideDownFadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-100%);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Platform Logo - positioned below the text lines */
+.most-loved-platform-logo {
+    height: 2.5rem;
+    width: auto;
+    max-width: 10rem;
+    object-fit: contain;
+    display: block;
+    vertical-align: middle;
+    position: relative;
+    z-index: 15;
+    filter: brightness(1) drop-shadow(0 0 8px rgba(43, 217, 198, 0.3));
+    transition: all 300ms ease;
+    opacity: 0.95;
+    margin-left: 0.5rem;
+}
+
+.most-loved-platform-logo:hover {
+    filter: brightness(1.1) drop-shadow(0 0 12px rgba(43, 217, 198, 0.5));
+    transform: scale(1.05);
+    opacity: 1;
+}
+
+@media (min-width: 640px) {
+    .most-loved-platform-logo {
+        height: 3.5rem;
+    }
+}
+
+@media (min-width: 1024px) {
+    .most-loved-platform-logo {
+        height: 4rem;
+    }
+}
+
+/* Dropdowns Container - single dropdown on the right */
+.most-loved-dropdowns {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 0;
+    z-index: 20;
+}
+
+@media (min-width: 640px) {
+    .most-loved-dropdowns {
+        justify-content: flex-end;
+    }
+}
+
+/* Individual Dropdown Wrapper */
+.most-loved-dropdown {
+    position: relative;
+}
+
+/* Dropdown Button (same style as RankedGrid) */
+.most-loved-dropdown-button {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.75rem 1.25rem;
+    background: rgba(43, 217, 198, 0.1);
+    border: 1px solid rgba(43, 217, 198, 0.3);
+    border-radius: 8px;
+    color: var(--color-accent);
+    font-family: Montserrat, 'Montserrat Fallback', sans-serif;
+    font-size: 0.875rem;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all 200ms ease;
+    backdrop-filter: blur(10px);
+    white-space: nowrap;
+}
+
+.most-loved-dropdown-button:hover {
+    background: rgba(43, 217, 198, 0.15);
+    border-color: rgba(43, 217, 198, 0.5);
+    box-shadow: 0 4px 12px rgba(43, 217, 198, 0.2);
+}
+
+/* Dropdown Arrow */
+.most-loved-dropdown-arrow {
+    transition: transform 200ms ease;
+}
+
+.most-loved-dropdown-arrow.open {
+    transform: rotate(180deg);
+}
+
+/* Dropdown Menu */
+.most-loved-dropdown-menu {
+    position: absolute;
+    top: calc(100% + 0.5rem);
+    right: 0;
+    min-width: 12rem;
+    background: rgba(31, 33, 37, 0.95);
+    border: 1px solid rgba(43, 217, 198, 0.2);
+    border-radius: 8px;
+    overflow: hidden;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+    animation: dropdownSlideIn 200ms ease;
+    z-index: 30;
+}
+
+@keyframes dropdownSlideIn {
+    from {
+        opacity: 0;
+        transform: translateY(-8px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Dropdown Item */
+.most-loved-dropdown-item {
+    width: 100%;
+    padding: 0.875rem 1.25rem;
+    background: transparent;
+    border: none;
+    color: #ffffff;
+    font-family: Montserrat, 'Montserrat Fallback', sans-serif;
+    font-size: 0.875rem;
+    font-weight: 500;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: left;
+    cursor: pointer;
+    transition: all 150ms ease;
+    border-bottom: 1px solid rgba(43, 217, 198, 0.1);
+}
+
+.most-loved-dropdown-item:last-child {
+    border-bottom: none;
+}
+
+.most-loved-dropdown-item:hover {
+    background: rgba(43, 217, 198, 0.1);
+    color: var(--color-accent);
+    padding-left: 1.5rem;
+}
+
+.most-loved-dropdown-item.active {
+    background: rgba(43, 217, 198, 0.15);
+    color: var(--color-accent);
+    font-weight: 700;
+}
+
+/* Responsive adjustments */
+@media (max-width: 1024px) {
+    .most-loved-dropdowns {
+        gap: 0.5rem;
+    }
+
+    .most-loved-dropdown-button {
+        padding: 0.6rem 1rem;
+        font-size: 0.75rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .most-loved-header-container {
+        flex-direction: column;
+        align-items: flex-start;
+        height: auto;
+        gap: 1.5rem;
+        padding-bottom: 1rem;
+    }
+
+    .most-loved-dropdowns {
+        position: relative;
+        right: auto;
+        top: auto;
+        transform: none;
+    }
+
+    .most-loved-platform-logo {
+        position: relative;
+        right: auto;
+        top: auto;
+        transform: none;
+        margin-top: 1rem;
+    }
+}
