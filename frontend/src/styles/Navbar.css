@@ -59,8 +59,8 @@
 /* Container specifically for header to avoid conflicts */
 .header>.container {
   width: 100%;
-  padding-right: 2rem;
-  padding-left: 2rem;
+  padding-right: 3.5rem;
+  padding-left: 3.5rem;
 }
 
 .header .wrap-head {
@@ -78,18 +78,55 @@
   align-items: center;
 }
 
+/* Aggressively remove any border/outline/shadow from the logo link */
+.header .wrap-head .head-logo a {
+  display: block;
+  border: none !important;
+  outline: none !important;
+  box-shadow: none !important;
+  text-decoration: none !important;
+  background: transparent !important;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.header .wrap-head .head-logo a:hover,
+.header .wrap-head .head-logo a:focus,
+.header .wrap-head .head-logo a:active,
+.header .wrap-head .head-logo a:visited {
+  border: none !important;
+  outline: none !important;
+  box-shadow: none !important;
+  background: transparent !important;
+}
+
 .header .wrap-head .head-logo img {
   vertical-align: middle;
-  border-style: none;
+  border: none !important;
+  outline: none !important;
+  box-shadow: none !important;
+  filter: none !important;
   height: auto;
   max-height: 3.5rem;
   width: auto;
   transition: transform 0.3s ease;
   display: block;
+  background: transparent !important;
+  -webkit-box-shadow: none !important;
+  -moz-box-shadow: none !important;
+  /* Ensure no ring or similar effects */
+  --tw-ring-color: transparent !important;
+  --tw-ring-offset-shadow: none !important;
+  --tw-ring-shadow: none !important;
 }
 
-.header .wrap-head .head-logo img:hover {
+.header .wrap-head .head-logo img:hover,
+.header .wrap-head .head-logo img:focus,
+.header .wrap-head .head-logo img:active {
   transform: scale(1.05);
+  border: none !important;
+  outline: none !important;
+  box-shadow: none !important;
+  filter: none !important;
 }
 
 /* Center Navigation - Pill Style */
@@ -312,6 +349,13 @@
   }
 }
 
+@media (max-width: 991px) {
+  .header>.container {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+}
+
 @media (max-width: 768px) {
   .header .wrap-head {
     flex-wrap: wrap;
@@ -321,8 +365,8 @@
   }
 
   .header>.container {
-    padding-left: 0.5rem;
-    padding-right: 0.5rem;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
   }
 
   .header .wrap-head .l-head {

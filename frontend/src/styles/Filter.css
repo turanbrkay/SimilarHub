@@ -1,0 +1,478 @@
+/* Filter Page Styles - Creative HUD Edition */
+
+.filter-page-view {
+    padding-top: 7rem;
+    min-height: 100vh;
+}
+
+.filter-page-container {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* =========================================
+   CREATIVE HUD FILTER BAR
+   ========================================= */
+
+.filter-bar-container.creative-hud {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
+    margin-bottom: 2.5rem;
+    margin-top: 1rem;
+
+    /* Futuristic Glass Panel */
+    background: rgba(10, 11, 16, 0.85);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    padding: 0.75rem 1rem;
+    border-radius: 24px;
+    border: 1px solid rgba(43, 217, 198, 0.15);
+    box-shadow:
+        0 8px 32px rgba(0, 0, 0, 0.4),
+        0 0 0 1px rgba(43, 217, 198, 0.05) inset;
+
+    position: relative;
+    z-index: 100;
+    transition: all 0.3s ease;
+}
+
+.filter-bar-container.creative-hud:hover {
+    border-color: rgba(43, 217, 198, 0.3);
+    box-shadow:
+        0 12px 40px rgba(0, 0, 0, 0.5),
+        0 0 15px rgba(43, 217, 198, 0.1);
+}
+
+/* --- Left Side: Sliding Tabs --- */
+.filter-bar-left {
+    flex-shrink: 0;
+}
+
+.filter-tabs-wrapper {
+    display: flex;
+    position: relative;
+    background: rgba(0, 0, 0, 0.3);
+    padding: 0.35rem;
+    border-radius: 16px;
+    border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.filter-tab-indicator {
+    position: absolute;
+    top: 0.35rem;
+    bottom: 0.35rem;
+    left: 0.35rem;
+    background: linear-gradient(135deg, #208e79 0%, #105c4d 100%);
+    border-radius: 12px;
+    transition: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
+    z-index: 0;
+    box-shadow: 0 2px 10px rgba(43, 217, 198, 0.4);
+}
+
+.filter-tab-btn {
+    position: relative;
+    z-index: 1;
+    background: transparent;
+    border: none;
+    color: rgba(255, 255, 255, 0.6);
+    padding: 0.6rem 1.5rem;
+    border-radius: 12px;
+    font-size: 0.95rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: color 0.3s ease;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.filter-tab-btn:hover {
+    color: #fff;
+}
+
+.filter-tab-btn.active {
+    color: #000;
+    font-weight: 800;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.2);
+}
+
+/* --- Right Side: Neon Controls --- */
+.filter-bar-right {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    flex-grow: 1;
+    justify-content: flex-end;
+}
+
+.filter-controls {
+    display: flex;
+    gap: 0.8rem;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+
+.filter-control-group {
+    position: relative;
+}
+
+.filter-hud-btn {
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    color: rgba(255, 255, 255, 0.7);
+    padding: 0.6rem 1.2rem;
+    border-radius: 14px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+    position: relative;
+    overflow: hidden;
+}
+
+.filter-hud-btn::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(45deg, transparent, rgba(43, 217, 198, 0.1), transparent);
+    transform: translateX(-100%);
+    transition: transform 0.5s;
+}
+
+.filter-hud-btn:hover::before {
+    transform: translateX(100%);
+}
+
+.filter-hud-btn:hover,
+.filter-hud-btn.active {
+    border-color: #2bd9c6;
+    color: #2bd9c6;
+    background: rgba(43, 217, 198, 0.08);
+    box-shadow: 0 0 15px rgba(43, 217, 198, 0.15);
+    transform: translateY(-2px);
+}
+
+.btn-icon {
+    font-size: 0.9rem;
+    opacity: 0.8;
+}
+
+.chevron-icon {
+    font-size: 0.7rem;
+    opacity: 0.6;
+    transition: transform 0.3s;
+}
+
+.filter-hud-btn.active .chevron-icon {
+    transform: rotate(180deg);
+}
+
+.hud-badge {
+    background: #2bd9c6;
+    color: #000;
+    font-size: 0.7rem;
+    font-weight: 800;
+    padding: 0.15rem 0.5rem;
+    border-radius: 8px;
+    min-width: 20px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(43, 217, 198, 0.5);
+}
+
+/* --- Reset Button --- */
+.filter-reset-hud-btn {
+    background: transparent;
+    border: 1px solid rgba(239, 68, 68, 0.3);
+    color: rgba(239, 68, 68, 0.7);
+    padding: 0.6rem 1.2rem;
+    border-radius: 14px;
+    font-size: 0.8rem;
+    font-weight: 700;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    transition: all 0.3s;
+    letter-spacing: 0.05em;
+}
+
+.filter-reset-hud-btn:hover {
+    background: rgba(239, 68, 68, 0.1);
+    border-color: #ef4444;
+    color: #ef4444;
+    box-shadow: 0 0 15px rgba(239, 68, 68, 0.2);
+}
+
+/* --- HUD Dropdowns --- */
+.hud-dropdown {
+    position: absolute;
+    top: calc(100% + 0.8rem);
+    right: 0;
+    /* Align right for right-side items */
+    min-width: 260px;
+    background: #0f1016;
+    border: 1px solid rgba(43, 217, 198, 0.3);
+    border-radius: 16px;
+    padding: 0;
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.6);
+    z-index: 200;
+    animation: hudSlideIn 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    overflow: hidden;
+}
+
+.genres-hud {
+    width: 340px;
+    right: auto;
+    /* Align left for genres if needed, or keep right */
+    left: 0;
+}
+
+@keyframes hudSlideIn {
+    from {
+        opacity: 0;
+        transform: translateY(-10px) scale(0.95);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0) scale(1);
+    }
+}
+
+.hud-dropdown-header {
+    background: rgba(43, 217, 198, 0.1);
+    padding: 0.8rem 1rem;
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: #2bd9c6;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    border-bottom: 1px solid rgba(43, 217, 198, 0.1);
+}
+
+/* Genres Grid */
+.hud-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.2rem;
+    padding: 0.8rem;
+    max-height: 300px;
+    overflow-y: auto;
+}
+
+/* Custom Scrollbar for HUD */
+.hud-grid::-webkit-scrollbar {
+    width: 6px;
+}
+
+.hud-grid::-webkit-scrollbar-track {
+    background: rgba(255, 255, 255, 0.02);
+}
+
+.hud-grid::-webkit-scrollbar-thumb {
+    background: rgba(43, 217, 198, 0.3);
+    border-radius: 3px;
+}
+
+.hud-checkbox {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    padding: 0.5rem;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+.hud-checkbox:hover {
+    background: rgba(255, 255, 255, 0.05);
+}
+
+.hud-checkbox input {
+    display: none;
+}
+
+.hud-checkmark {
+    width: 18px;
+    height: 18px;
+    border: 2px solid rgba(255, 255, 255, 0.3);
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s;
+    position: relative;
+}
+
+.hud-checkbox:hover .hud-checkmark {
+    border-color: #2bd9c6;
+    box-shadow: 0 0 8px rgba(43, 217, 198, 0.3);
+}
+
+.hud-checkbox input:checked+.hud-checkmark {
+    background: #2bd9c6;
+    border-color: #2bd9c6;
+    box-shadow: 0 0 10px rgba(43, 217, 198, 0.5);
+}
+
+.hud-checkbox input:checked+.hud-checkmark::after {
+    content: '';
+    width: 5px;
+    height: 9px;
+    border: solid #000;
+    border-width: 0 2px 2px 0;
+    transform: rotate(45deg);
+    margin-top: -2px;
+}
+
+.hud-label-text {
+    font-size: 0.85rem;
+    color: rgba(255, 255, 255, 0.8);
+    font-weight: 500;
+}
+
+.hud-checkbox input:checked~.hud-label-text {
+    color: #fff;
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.5);
+}
+
+/* Range Inputs */
+.hud-range-inputs {
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+    padding: 1rem;
+}
+
+.hud-input-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+}
+
+.hud-input-group label {
+    font-size: 0.7rem;
+    color: rgba(255, 255, 255, 0.5);
+    text-transform: uppercase;
+}
+
+.hud-input-group input {
+    background: rgba(0, 0, 0, 0.3);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 8px;
+    padding: 0.5rem;
+    color: #2bd9c6;
+    width: 80px;
+    font-family: inherit;
+    font-weight: 700;
+    text-align: center;
+}
+
+.hud-input-group input:focus {
+    outline: none;
+    border-color: #2bd9c6;
+    box-shadow: 0 0 10px rgba(43, 217, 198, 0.2);
+}
+
+.hud-separator {
+    width: 10px;
+    height: 2px;
+    background: rgba(255, 255, 255, 0.2);
+    margin-top: 1rem;
+}
+
+/* Slider */
+.hud-slider-wrapper {
+    padding: 1rem 1.5rem;
+    position: relative;
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.hud-slider {
+    -webkit-appearance: none;
+    width: 100%;
+    height: 6px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 3px;
+    outline: none;
+    position: relative;
+    z-index: 2;
+}
+
+.hud-slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: #2bd9c6;
+    cursor: pointer;
+    box-shadow: 0 0 15px rgba(43, 217, 198, 0.8);
+    border: 2px solid #fff;
+    transition: transform 0.1s;
+}
+
+.hud-slider::-webkit-slider-thumb:hover {
+    transform: scale(1.2);
+}
+
+.hud-slider-track {
+    position: absolute;
+    left: 1.5rem;
+    /* Match padding */
+    top: 50%;
+    transform: translateY(-50%);
+    height: 6px;
+    background: #2bd9c6;
+    border-radius: 3px;
+    pointer-events: none;
+    z-index: 1;
+    box-shadow: 0 0 10px rgba(43, 217, 198, 0.5);
+}
+
+.accent-text {
+    color: #fff;
+}
+
+/* Responsive */
+@media (max-width: 1024px) {
+    .filter-bar-container.creative-hud {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 1.5rem;
+        padding: 1.5rem;
+    }
+
+    .filter-bar-left,
+    .filter-bar-right {
+        width: 100%;
+    }
+
+    .filter-tabs-wrapper {
+        width: 100%;
+        overflow-x: auto;
+        padding-bottom: 0.35rem;
+    }
+
+    .filter-tab-btn {
+        white-space: nowrap;
+    }
+
+    .filter-bar-right {
+        justify-content: flex-start;
+    }
+
+    .filter-controls {
+        justify-content: flex-start;
+    }
+}

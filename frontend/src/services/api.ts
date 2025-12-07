@@ -17,8 +17,10 @@ export interface Show {
     number_of_seasons?: number;
     number_of_episodes?: number;
     first_air_date?: string;
+    release_date?: string;
     backdrop_path?: string;
     source_type?: string; // 'tv' or 'movie'
+    original_language?: string;
 }
 
 // Search for shows or return popular if query is too short
@@ -159,6 +161,25 @@ export async function getByGenre(genre: string, type?: 'movie' | 'tv'): Promise<
         return await response.json();
     } catch (error) {
         console.error(`Genre ${genre} error:`, error);
+        return [];
+    }
+}
+
+// Get most-loved content by platform and type
+export async function getMostLoved(
+    platform: string = 'Netflix',
+    type: 'Movies' | 'Series' = 'Movies'
+): Promise<Show[]> {
+    try {
+        const params = new URLSearchParams({ platform, type });
+        const response = await fetch(`${API_BASE}/most-loved?${params}`);
+        if (!response.ok) {
+            console.error('Failed to fetch most-loved content');
+            return [];
+        }
+        return await response.json();
+    } catch (error) {
+        console.error('Most-loved fetch error:', error);
         return [];
     }
 }

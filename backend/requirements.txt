@@ -28,3 +28,6 @@ requests>=2.31.0
 
 # Retry Logic
 tenacity>=8.2.3
+
+# Rate Limiting
+Flask-Limiter>=3.5.0

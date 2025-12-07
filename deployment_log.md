@@ -355,3 +355,84 @@ docker-compose exec backend python scripts/process_embeddings.py --limit 100
 - Drama dizileri için: analytical düşük, plot yüksek
 - Sitcom'lar için: keywords daha önemli (genre matching)
 - Genel kullanım: analytical=0.3, plot=0.45, keywords=0.25
+
+
+
+
+🎯 Özet
+Attribution footer:
+
+✅ Yasal zorunluluk (TMDB ToS)
+✅ Güven verir (kullanıcılara şeffaflık)
+✅ Koruma (ticari kullanımda)
+⚠️ Yoksa API kapatılabilir
+
+
+
+
+🔴 KRİTİK (Hemen yapılmalı - Production'a alamazsın):
+1. Connection Pool Kullanımı ❌
+
+Durum: Pool init edilmiş AMA 8 endpoint hala eski 
+get_db_connection()
+ kullanıyor
+Risk: Connection leak → Pool exhausted → Server crash
+Etkilenen: /popular-tv, /by_genre, /popular-movies, /popular-books, /top-rated, /simple-similar, /similar-map
+Süre: 1-2 saat
+
+
+YES ✅ Confidence Level: 95%
+
+Remaining 5%:
+
+Monitoring/alerting not set up (optional)
+Load testing not done (recommended but not critical)
+
+
+
+
+
+2. Rate Limiting (Endpoint'lerde) ❌
+
+Durum: Limiter tanımlı ama sadece 1 endpoint'te kullanılıyor (@limiter.limit())
+Risk: DDoS, abuse, server overload
+Yapılacak: Her endpoint'e @limiter.limit() decorator ekle
+Süre: 30 dakika
+
+
+3. Error Handling (Endpoint'lerde) ❌
+
+Durum: Sadece /search endpoint'inde var, diğerlerinde yok
+Risk: Hata olunca server crash, 500 error
+Yapılacak: Tüm endpoint'lere try-except + error_response()
+Süre: 1 saat
+🟡 ÖNEMLİ (Production öncesi yapılmalı):
+4. Input Validation ⚠️
+
+Durum: Validator fonksiyonlar var (utils/validators.py) ama hiçbir endpoint'te kullanılmıyor
+Risk: Bad input, SQL injection riski
+Yapılacak: validate_query(), validate_id(), validate_limit() ekle
+Süre: 45 dakika
+5. Cleanup Handler ❌
+
+Durum: close_connection_pool() çağrılmıyor
+Risk: Shutdown'da connection leak
+Yapılacak: if __name__ == '__main__' bloğuna finally ekle
+Süre: 5 dakika
+🟢 TEST (Deploy öncesi):
+6. Health Endpoints Test ❌
+
+Test: /health, /health/ready, /health/live
+Süre: 15 dakika
+7. Connection Pool Verification ❌
+
+100+ concurrent request testi
+Süre: 30 dakika
+8. Load Test ❌
+
+Rate limiting test
+Süre: 15 dakika
+9. Docker Rebuild ❌
+
+requirements.txt güncel mi kontrol
+Süre: 20 dakika

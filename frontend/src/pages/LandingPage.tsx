@@ -1,11 +1,18 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
+import Search from '../components/Search';
+import type { Show } from '../services/api';
 import '../styles/LandingPage.css';
 
 const LandingPage: React.FC = () => {
-    const handleSubmit = (e: React.FormEvent) => {
-        e.preventDefault();
-        // Search logic would go here
+    const navigate = useNavigate();
+
+    const handleSearchSelect = (show: Show) => {
+        navigate(`/details/${show.id}`);
+    };
+
+    const handleSearchSubmit = (query: string) => {
+        navigate(`/search?query=${encodeURIComponent(query)}`);
     };
 
     return (
@@ -27,36 +34,15 @@ const LandingPage: React.FC = () => {
 
                                     <div id="head-search" className="head-search">
                                         <div id="search-wrapper" className="search-wrapper">
-                                            <form
-                                                autoComplete="off"
-                                                onSubmit={handleSubmit}
-                                                className="search-form"
-                                            >
-                                                <button
-                                                    type="button"
-                                                    className="filter-btn"
-                                                    aria-label="Filter results"
-                                                >
-                                                    <span className="material-icons">filter_list</span>
-                                                    <span>Filter</span>
-                                                </button>
-
-                                                <input
-                                                    type="text"
-                                                    placeholder="Type a title you like…"
-                                                    name="keyword"
-                                                    aria-label="Search titles"
-                                                />
-
-                                                <button type="submit" className="search-submit">
-                                                    <span className="material-icons">search</span>
-                                                </button>
-                                            </form>
+                                            <Search
+                                                onSearchSelect={handleSearchSelect}
+                                                onSearchSubmit={handleSearchSubmit}
+                                            />
                                         </div>
                                     </div>
                                 </header>
 
-                                <Link className="btn-homepage" to="/dashboard">
+                                <Link className="btn-homepage" to="/home">
                                     <span>GO TO DASHBOARD</span>
                                     <span className="material-icons">arrow_forward</span>
                                 </Link>

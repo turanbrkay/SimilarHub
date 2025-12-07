@@ -5,18 +5,26 @@ import '../styles/RankedGrid.css';
 
 interface RankedGridProps {
     onShowClick: (showId: number) => void;
+    fixedType?: ContentType;
 }
 
 type ContentType = 'MOVIES' | 'TV SHOWS' | 'BOOKS';
 
-const RankedGrid: React.FC<RankedGridProps> = ({ onShowClick }) => {
-    const [selectedType, setSelectedType] = useState<ContentType>('MOVIES');
+const RankedGrid: React.FC<RankedGridProps> = ({ onShowClick, fixedType }) => {
+    const [selectedType, setSelectedType] = useState<ContentType>(fixedType || 'MOVIES');
     const [shows, setShows] = useState<Show[]>([]);
     const [isDropdownOpen, setIsDropdownOpen] = useState(false);
 
     useEffect(() => {
         fetchContentByType(selectedType);
     }, [selectedType]);
+
+    // Update selectedType if fixedType changes
+    useEffect(() => {
+        if (fixedType) {
+            setSelectedType(fixedType);
+        }
+    }, [fixedType]);
 
     const fetchContentByType = async (type: ContentType) => {
         try {
@@ -73,38 +81,40 @@ const RankedGrid: React.FC<RankedGridProps> = ({ onShowClick }) => {
             </div>
 
             <div className="ranked-grid-container">
-                <div className="ranked-dropdown-wrapper">
-                    <button
-                        className="ranked-dropdown-button"
-                        onClick={() => setIsDropdownOpen(!isDropdownOpen)}
-                    >
-                        {selectedType}
-                        <svg
-                            className={`ranked-dropdown-arrow ${isDropdownOpen ? 'open' : ''}`}
-                            width="16"
-                            height="16"
-                            viewBox="0 0 24 24"
-                            fill="none"
-                            stroke="currentColor"
-                            strokeWidth="2"
+                {!fixedType && (
+                    <div className="ranked-dropdown-wrapper">
+                        <button
+                            className="ranked-dropdown-button"
+                            onClick={() => setIsDropdownOpen(!isDropdownOpen)}
                         >
-                            <polyline points="6 9 12 15 18 9" />
-                        </svg>
-                    </button>
-                    {isDropdownOpen && (
-                        <div className="ranked-dropdown-menu">
-                            {contentTypes.map((type) => (
-                                <button
-                                    key={type}
-                                    className={`ranked-dropdown-item ${selectedType === type ? 'active' : ''}`}
-                                    onClick={() => handleTypeChange(type)}
-                                >
-                                    {type}
-                                </button>
-                            ))}
-                        </div>
-                    )}
-                </div>
+                            {selectedType}
+                            <svg
+                                className={`ranked-dropdown-arrow ${isDropdownOpen ? 'open' : ''}`}
+                                width="16"
+                                height="16"
+                                viewBox="0 0 24 24"
+                                fill="none"
+                                stroke="currentColor"
+                                strokeWidth="2"
+                            >
+                                <polyline points="6 9 12 15 18 9" />
+                            </svg>
+                        </button>
+                        {isDropdownOpen && (
+                            <div className="ranked-dropdown-menu">
+                                {contentTypes.map((type) => (
+                                    <button
+                                        key={type}
+                                        className={`ranked-dropdown-item ${selectedType === type ? 'active' : ''}`}
+                                        onClick={() => handleTypeChange(type)}
+                                    >
+                                        {type}
+                                    </button>
+                                ))}
+                            </div>
+                        )}
+                    </div>
+                )}
 
                 {topTenShows.map((show, index) => {
                     const displayName = getDisplayName(show);

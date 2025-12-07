@@ -1,7 +1,9 @@
-# General
+# General - macOS & OS files
 .DS_Store
 .AppleDouble
 .LSOverride
+Thumbs.db
+Desktop.ini
 
 # Python
 __pycache__/
@@ -28,10 +30,13 @@ venv/
 .venv/
 env/
 .env
+*.pyc
 
 # Node.js / Frontend
+node_modules/
 frontend/node_modules/
 frontend/dist/
+frontend/build/
 frontend/.env
 frontend/.env.local
 frontend/.env.development.local
@@ -40,6 +45,25 @@ frontend/.env.production.local
 frontend/npm-debug.log*
 frontend/yarn-debug.log*
 frontend/yarn-error.log*
+
+# Lock files (optional - uncomment if you don't want to commit them)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Log files
+*.log
+logs/
+*.log.*
+import_log.txt
+
+# Build artifacts & Cache
+dist/
+build/
+.cache/
+.parcel-cache/
+.next/
+out/
 
 # Database
 database/*.csv
@@ -50,16 +74,29 @@ database/*.csv
 embeddings/*.index
 embeddings/*.pkl
 embeddings/*.npy
-# If you want to keep small ones, adjust above. But user has large files here.
+embeds/
+
+# Result & Output files
+results/
+sonuclar.txt
+*_results.txt
+*_similarities.txt
+top_5_*.txt
+*.resolved
+
+# Generated/Temporary JSON files (keep package.json, tsconfig.json, etc.)
+solution_plan.json
 
 # IDEs
 .idea/
 .vscode/
 *.swp
 *.swo
+*.sublime-*
 
 # Docker
 .docker/
 
+# Scripts (Windows batch files)
 start-project.bat
 stop-project.bat

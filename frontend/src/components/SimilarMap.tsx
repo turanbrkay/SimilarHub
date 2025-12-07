@@ -1,5 +1,8 @@
-import React, { useMemo, useState, useEffect, useRef } from 'react';
+import React, { useMemo, useState, useRef } from 'react';
 import type { Show } from '../services/api';
+import { useIntersectionObserver } from '../hooks/useIntersectionObserver';
+import { useThrottledAnimationFrame } from '../hooks/useThrottledAnimationFrame';
+import { useScrollDetection } from '../hooks/useScrollDetection';
 
 interface SimilarMapProps {
     sourceShow: Show;
@@ -21,10 +24,17 @@ interface NodePosition {
 
 const SimilarMap: React.FC<SimilarMapProps> = React.memo(({ sourceShow, similarShows, onShowClick }) => {
     const [hoveredShowId, setHoveredShowId] = useState<number | null>(null);
+    const containerRef = useRef<HTMLDivElement>(null);
 
     // Refs for direct DOM manipulation (performance)
     const nodeRefs = useRef<Map<number, HTMLDivElement>>(new Map());
     const lineRefs = useRef<Map<number, SVGLineElement>>(new Map());
+
+    // Intersection Observer - pause animation when not visible
+    const [intersectionRef, isVisible] = useIntersectionObserver({ threshold: 0.1 });
+
+    // Scroll detection - pause animation during scroll
+    const isScrolling = useScrollDetection(150);
 
     // OPTIMIZATION: Cap the number of nodes to 40 to prevent performance bottlenecks
     const limitedShows = useMemo(() => {
@@ -150,69 +160,53 @@ const SimilarMap: React.FC<SimilarMapProps> = React.memo(({ sourceShow, similarS
         return { positionMap: posMap, canvasWidth: canvasW, canvasHeight: canvasH };
     }, [sourceShow.id, limitedShows]);
 
-    // Animation Loop
-    useEffect(() => {
-        const startTime = performance.now();
+    // Throttled animation at 30fps instead of 60fps
+    useThrottledAnimationFrame((time) => {
         const centerX = canvasWidth / 2;
         const centerY = canvasHeight / 2;
 
-        let animationFrameId: number;
+        // Optimize: Use for...of or regular loop instead of forEach for better performance in hot path
+        const posIterator = positionMap.values();
+        let result = posIterator.next();
 
-        const animate = (time: number) => {
-            const elapsed = time - startTime;
+        while (!result.done) {
+            const pos = result.value;
+            const showId = pos.showId;
+            const nodeEl = nodeRefs.current.get(showId);
+            const lineEl = lineRefs.current.get(showId);
 
-            // Optimize: Use for...of or regular loop instead of forEach for better performance in hot path
-            // Converting Map values to iterator
-            const posIterator = positionMap.values();
-            let result = posIterator.next();
+            if (nodeEl) {
+                // Calculate organic float movement
+                const speed = time * pos.floatSpeed;
+                const phase = pos.floatPhase;
+                const offset = pos.floatOffset;
 
-            while (!result.done) {
-                const pos = result.value;
-                const showId = pos.showId;
-                const nodeEl = nodeRefs.current.get(showId);
-                const lineEl = lineRefs.current.get(showId);
+                // Reduced amplitude for better performance (was 6 and 3)
+                const floatX = Math.sin(speed + offset) * 5 +
+                    Math.cos(speed * 0.5 + phase) * 2.5;
 
-                if (nodeEl) {
-                    // Calculate organic float movement
-                    // Pre-calculate common terms if possible, but these depend on pos-specifics
-                    const speed = elapsed * pos.floatSpeed;
-                    const phase = pos.floatPhase;
-                    const offset = pos.floatOffset;
+                const floatY = Math.cos(speed + offset) * 5 +
+                    Math.sin(speed * 0.5 + phase) * 2.5;
 
-                    const floatX = Math.sin(speed + offset) * 6 +
-                        Math.cos(speed * 0.5 + phase) * 3;
+                const currentX = pos.x + floatX;
+                const currentY = pos.y + floatY;
 
-                    const floatY = Math.cos(speed + offset) * 6 +
-                        Math.sin(speed * 0.5 + phase) * 3;
+                // Update Node Position
+                nodeEl.style.transform = `translate(-50%, -50%) translate(${currentX}px, ${currentY}px)`;
 
-                    const currentX = pos.x + floatX;
-                    const currentY = pos.y + floatY;
+                // Update Line Position (if exists)
+                if (lineEl) {
+                    // Line ends at the center of the card
+                    const lineEndX = centerX + currentX;
+                    const lineEndY = centerY + currentY;
 
-                    // Update Node Position
-                    nodeEl.style.transform = `translate(-50%, -50%) translate(${currentX}px, ${currentY}px)`;
-
-                    // Update Line Position (if exists)
-                    if (lineEl) {
-                        // Line ends at the center of the card
-                        const lineEndX = centerX + currentX;
-                        const lineEndY = centerY + currentY;
-
-                        lineEl.setAttribute('x2', String(lineEndX));
-                        lineEl.setAttribute('y2', String(lineEndY));
-                    }
+                    lineEl.setAttribute('x2', String(lineEndX));
+                    lineEl.setAttribute('y2', String(lineEndY));
                 }
-                result = posIterator.next();
             }
-
-            animationFrameId = requestAnimationFrame(animate);
-        };
-
-        animationFrameId = requestAnimationFrame(animate);
-
-        return () => {
-            cancelAnimationFrame(animationFrameId);
-        };
-    }, [positionMap, canvasWidth, canvasHeight]);
+            result = posIterator.next();
+        }
+    }, 30, isVisible, isScrolling); // 30fps, pause when not visible or scrolling
 
     const getDisplayName = (show: Show): string => show.title || show.name || 'Unknown';
 
@@ -266,7 +260,15 @@ const SimilarMap: React.FC<SimilarMapProps> = React.memo(({ sourceShow, similarS
     };
 
     return (
-        <div className="similar-map-section">
+        <div
+            ref={(node) => {
+                if (node) {
+                    containerRef.current = node;
+                    intersectionRef(node);
+                }
+            }}
+            className="similar-map-section"
+        >
 
             <div className="similar-map-container">
                 <div className="similar-map-canvas">
@@ -352,7 +354,11 @@ const SimilarMap: React.FC<SimilarMapProps> = React.memo(({ sourceShow, similarS
                     >
                         <div className="similar-map-node-poster">
                             <img
-                                src={`https://image.tmdb.org/t/p/w200${sourceShow.poster_path}`}
+                                src={
+                                    sourceShow.poster_path?.startsWith('http')
+                                        ? sourceShow.poster_path
+                                        : `https://image.tmdb.org/t/p/w200${sourceShow.poster_path}`
+                                }
                                 alt={getDisplayName(sourceShow)}
                             />
                         </div>
@@ -389,7 +395,11 @@ const SimilarMap: React.FC<SimilarMapProps> = React.memo(({ sourceShow, similarS
                             >
                                 <div className="similar-map-node-poster">
                                     <img
-                                        src={`https://image.tmdb.org/t/p/w200${show.poster_path}`}
+                                        src={
+                                            show.poster_path?.startsWith('http')
+                                                ? show.poster_path
+                                                : `https://image.tmdb.org/t/p/w200${show.poster_path}`
+                                        }
                                         alt={displayName}
                                     />
                                 </div>
@@ -399,11 +409,27 @@ const SimilarMap: React.FC<SimilarMapProps> = React.memo(({ sourceShow, similarS
                                     style={hoverCardStyle}
                                 >
                                     <div className="similar-map-hover-card-content">
-                                        <div className="similar-map-hover-card-poster-small">
+                                        <div className="show-card-poster">
                                             <img
-                                                src={`https://image.tmdb.org/t/p/w200${show.poster_path}`}
-                                                alt={displayName}
+                                                src={
+                                                    show.poster_path?.startsWith('http')
+                                                        ? show.poster_path
+                                                        : `https://image.tmdb.org/t/p/w200${show.poster_path}`
+                                                }
+                                                alt={show.title || 'Show poster'}
+                                                loading="lazy"
                                             />
+                                            <div className="show-card-overlay">
+                                                <img
+                                                    src={
+                                                        show.poster_path?.startsWith('http')
+                                                            ? show.poster_path
+                                                            : `https://image.tmdb.org/t/p/w200${show.poster_path}`
+                                                    }
+                                                    alt=""
+                                                    loading="lazy"
+                                                />
+                                            </div>
                                         </div>
                                         <div className="similar-map-hover-card-info">
                                             <h3>{displayName}</h3>

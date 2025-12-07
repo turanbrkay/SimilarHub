@@ -1,0 +1,378 @@
+.trending-hero-container {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    /* Remove strict borders and backgrounds */
+    border-radius: 0;
+    /* Explicitly set background to site background so the 'hole' reveals this color */
+
+    color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    margin: 2rem 0;
+    /* Fade out all 4 sides to blend with site */
+    mask-image:
+        linear-gradient(to bottom, transparent 0%, black 10%, black 85%, transparent 100%),
+        linear-gradient(to right, transparent 0%, black 10%, black 85%, transparent 100%);
+    -webkit-mask-image:
+        linear-gradient(to bottom, transparent 0%, black 10%, black 85%, transparent 100%),
+        linear-gradient(to right, transparent 0%, black 10%, black 85%, transparent 100%);
+    mask-composite: intersect;
+    -webkit-mask-composite: source-in;
+    transition: transform 0.3s ease;
+}
+
+@media (min-width: 768px) {
+    .trending-hero-container {
+        flex-direction: row;
+        border-radius: 3rem;
+        padding: 3rem;
+        align-items: center;
+        min-height: 600px;
+    }
+}
+
+/* Glow Effect */
+.trending-hero-container::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    z-index: 5;
+    background: radial-gradient(circle 400px at var(--mouse-x, -1000px) var(--mouse-y, -1000px), rgba(0, 0, 0, 0.15) 0%, transparent 60%);
+    mix-blend-mode: screen;
+}
+
+/* Background Image */
+.trending-hero-bg {
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    opacity: 0.4;
+    filter: blur(30px) brightness(0.6);
+    background-size: cover;
+    background-position: center;
+    transform: scale(1.1);
+    /* Eraser Effect: Hide background at mouse position */
+    mask-image: radial-gradient(circle 250px at var(--mouse-x, -1000px) var(--mouse-y, -1000px), transparent 0%, black 100%);
+    -webkit-mask-image: radial-gradient(circle 250px at var(--mouse-x, -1000px) var(--mouse-y, -1000px), transparent 0%, black 100%);
+}
+
+/* Gradient Overlay */
+.trending-hero-overlay {
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0.4) 50%, rgba(0, 0, 0, 0.2) 100%);
+    /* Eraser Effect: Hide overlay at mouse position */
+    mask-image: radial-gradient(circle 250px at var(--mouse-x, -1000px) var(--mouse-y, -1000px), transparent 0%, black 100%);
+    -webkit-mask-image: radial-gradient(circle 250px at var(--mouse-x, -1000px) var(--mouse-y, -1000px), transparent 0%, black 100%);
+}
+
+@media (min-width: 768px) {
+    .trending-hero-overlay {
+        background: linear-gradient(to right, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0.5) 50%, rgba(0, 0, 0, 0.8) 100%);
+    }
+}
+
+/* Starry Map Canvas */
+.trending-hero-map-canvas {
+    position: absolute;
+    inset: 0;
+    z-index: 2;
+    pointer-events: none;
+    mix-blend-mode: screen;
+}
+
+/* Content Wrapper */
+.trending-hero-content {
+    position: relative;
+    z-index: 10;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    pointer-events: none;
+    /* Allow clicks to pass through to the map */
+}
+
+/* Poster Wrapper with Neon Gradient Glow */
+.trending-hero-poster-wrapper {
+    position: relative;
+    width: 150px;
+    height: 225px;
+    border-radius: 15px;
+    transition: transform 0.3s ease;
+    z-index: 10;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    pointer-events: auto;
+    background: #000;
+}
+
+/* Neon Gradient Animation - Optimized for GPU */
+.trending-hero-poster-wrapper::before,
+.trending-hero-poster-wrapper::after {
+    content: "";
+    position: absolute;
+    inset: -2px;
+    z-index: -1;
+    border-radius: 15px;
+    background: linear-gradient(0deg, #ff00aa, #00FFF1);
+    background-size: 100% 200%;
+    /* Only apply will-change when active for better performance */
+    animation: background-position-spin 4s linear infinite;
+}
+
+.trending-hero-poster-wrapper::after {
+    filter: blur(50px);
+    opacity: 0.8;
+    z-index: -2;
+}
+
+/* Optimized keyframes - simpler calculation */
+@keyframes background-position-spin {
+    0% {
+        background-position: 0% 0%;
+    }
+    100% {
+        background-position: 0% 200%;
+    }
+}
+
+.trending-hero-poster-wrapper:hover {
+    transform: scale(1.02);
+}
+
+.trending-hero-poster {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 15px;
+    position: relative;
+    z-index: 2;
+    background: #000;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+    .trending-hero-poster-wrapper {
+        width: 160px;
+        height: 240px;
+    }
+}
+
+/* ==================== NEW: CONNECTION MAP STYLES ==================== */
+
+.trending-hero-map-container {
+    position: absolute;
+    inset: 0;
+    z-index: 2;
+    overflow: hidden;
+    /* 
+       Soft Spotlight Effect:
+       Increased base visibility from 0.3 to 0.6 so the map is never too dark.
+       The center (mouse) is fully opaque (black in mask terms = visible), 
+       fading to 60% visibility at the edges.
+    */
+    mask-image: radial-gradient(circle 800px at var(--mouse-x, 50%) var(--mouse-y, 50%), black 30%, rgba(0, 0, 0, 0.6) 100%);
+    -webkit-mask-image: radial-gradient(circle 800px at var(--mouse-x, 50%) var(--mouse-y, 50%), black 30%, rgba(0, 0, 0, 0.6) 100%);
+    transition: mask-image 0.3s ease;
+}
+
+.trending-hero-connections {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 0;
+}
+
+.trending-hero-connection-line {
+    transition: stroke-opacity 0.3s ease, stroke-width 0.3s ease;
+}
+
+.trending-hero-node {
+    position: absolute;
+    cursor: pointer;
+    transition: transform 0.3s ease, z-index 0s 0.3s;
+    /* Use transform for GPU acceleration */
+    will-change: transform;
+    z-index: 10;
+}
+
+.trending-hero-node:hover {
+    z-index: 100;
+    transition: transform 0.3s ease, z-index 0s 0s;
+}
+
+.trending-hero-node-poster {
+    width: 100%;
+    height: 100%;
+    border-radius: 6px;
+    overflow: hidden;
+    border: 1px solid rgba(43, 217, 198, 0.3);
+    transition: all 0.25s ease;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    background: #000;
+    /* 
+       Base opacity increased to 0.7 for better visibility.
+       Grayscale reduced to 20% to keep colors more vibrant.
+    */
+    opacity: 0.7;
+    filter: grayscale(20%);
+}
+
+/* Hover State: Brighten and Scale */
+.trending-hero-node:hover .trending-hero-node-poster {
+    border-color: #2bd9c6;
+    box-shadow: 0 0 15px rgba(43, 217, 198, 0.6);
+    transform: scale(1.2);
+    opacity: 1;
+    filter: grayscale(0%);
+}
+
+.trending-hero-node-poster img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: opacity 0.3s;
+}
+
+/* Hover Card */
+.trending-hero-hover-card {
+    position: absolute;
+    background: rgba(10, 12, 16, 0.95);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(43, 217, 198, 0.3);
+    border-radius: 10px;
+    padding: 0;
+    width: 260px;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.2s ease, transform 0.2s ease;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.8), 0 0 0 1px rgba(43, 217, 198, 0.15);
+    z-index: 1000;
+
+    /* Default Positioning (Center Bottom) */
+    left: 50%;
+    transform: translateX(-50%) translateY(10px);
+    bottom: 100%;
+    margin-bottom: 15px;
+}
+
+/* Smart Positioning based on data-align attribute set by JS */
+.trending-hero-node[data-align="left"] .trending-hero-hover-card {
+    left: auto;
+    right: 100%;
+    /* Show to the left of the node */
+    bottom: 50%;
+    transform: translateY(50%) translateX(-15px);
+    margin-bottom: 0;
+}
+
+.trending-hero-node[data-align="right"] .trending-hero-hover-card {
+    left: 100%;
+    /* Show to the right of the node */
+    right: auto;
+    bottom: 50%;
+    transform: translateY(50%) translateX(15px);
+    margin-bottom: 0;
+}
+
+.trending-hero-node:hover .trending-hero-hover-card {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+/* Adjust transform for active state based on alignment */
+.trending-hero-node:hover .trending-hero-hover-card {
+    /* Default */
+    transform: translateX(-50%) translateY(0);
+}
+
+.trending-hero-node[data-align="left"]:hover .trending-hero-hover-card {
+    transform: translateY(50%) translateX(-10px);
+}
+
+.trending-hero-node[data-align="right"]:hover .trending-hero-hover-card {
+    transform: translateY(50%) translateX(10px);
+}
+
+
+.trending-hero-hover-card-content {
+    display: flex;
+    gap: 0.75rem;
+    padding: 0.75rem;
+}
+
+.trending-hero-hover-card-poster-small {
+    flex-shrink: 0;
+    width: 60px;
+    height: 90px;
+    border-radius: 4px;
+    overflow: hidden;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.trending-hero-hover-card-poster-small img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.trending-hero-hover-card-info {
+    flex: 1;
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    text-align: left;
+}
+
+.trending-hero-hover-card-info h3 {
+    margin: 0;
+    font-size: 0.9rem;
+    color: #fff;
+    font-weight: 600;
+    line-height: 1.3;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+
+.trending-hero-hover-card-meta {
+    font-size: 0.75rem;
+    color: rgba(255, 255, 255, 0.6);
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.trending-hero-hover-card-rating {
+    color: #ffd700;
+    font-weight: 600;
+}
+
+.trending-hero-hover-card-overview {
+    font-size: 0.7rem;
+    color: rgba(255, 255, 255, 0.5);
+    line-height: 1.4;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    -webkit-box-orient: vertical;
+    margin-top: 0.25rem;
+}

@@ -15,22 +15,6 @@ export default defineConfig({
         changeOrigin: true,
         rewrite: (path) => path.replace(/^\/api/, ''),
       },
-      '/similar': {
-        target: 'http://backend:5000',
-        changeOrigin: true,
-      },
-      '/search': {
-        target: 'http://backend:5000',
-        changeOrigin: true,
-      },
-      '/get-weights': {
-        target: 'http://backend:5000',
-        changeOrigin: true,
-      },
-      '/update-weights': {
-        target: 'http://backend:5000',
-        changeOrigin: true,
-      },
     },
   },
   plugins: [react()],

@@ -13,12 +13,17 @@ const FavoriteGrid: React.FC<FavoriteGridProps> = ({ onShowClick }) => {
     const [selectedType, setSelectedType] = useState<ContentType>('MOVIES');
     const [shows, setShows] = useState<Show[]>([]);
     const [isDropdownOpen, setIsDropdownOpen] = useState(false);
+    const [gridKey, setGridKey] = useState(0);
+    const [isInitialLoad, setIsInitialLoad] = useState(true);
 
     useEffect(() => {
-        fetchContentByType(selectedType);
+        fetchContentByType(selectedType, !isInitialLoad);
+        if (isInitialLoad) {
+            setIsInitialLoad(false);
+        }
     }, [selectedType]);
 
-    const fetchContentByType = async (type: ContentType) => {
+    const fetchContentByType = async (type: ContentType, triggerAnimation: boolean = false) => {
         try {
             let newShows: Show[] = [];
 
@@ -31,6 +36,11 @@ const FavoriteGrid: React.FC<FavoriteGridProps> = ({ onShowClick }) => {
             }
 
             setShows(newShows.slice(0, 5));
+
+            // Veri geldikten sonra animasyonu tetikle
+            if (triggerAnimation) {
+                setGridKey(prev => prev + 1);
+            }
         } catch (error) {
             console.error('Failed to fetch content:', error);
         }
@@ -43,6 +53,11 @@ const FavoriteGrid: React.FC<FavoriteGridProps> = ({ onShowClick }) => {
         setIsDropdownOpen(false);
     };
 
+    const handleReload = () => {
+        // Aynı kategoriden farklı içerikler getir (animasyonlu)
+        fetchContentByType(selectedType, true);
+    };
+
     const getDisplayName = (show: Show): string => {
         return show.title || show.name || 'Unknown';
     };
@@ -53,6 +68,10 @@ const FavoriteGrid: React.FC<FavoriteGridProps> = ({ onShowClick }) => {
             return show.first_air_date.substring(0, 4);
         }
         return '';
+    };
+
+    const getRandomRating = (): number => {
+        return Number((Math.random() * (10 - 5) + 5).toFixed(1));
     };
 
     const featuredShow = shows.length > 0 ? shows[0] : null;
@@ -75,41 +94,64 @@ const FavoriteGrid: React.FC<FavoriteGridProps> = ({ onShowClick }) => {
                     </span>
                 </div>
 
-                <div className="favorite-dropdown-wrapper">
+                <div className="favorite-controls-wrapper">
                     <button
-                        className="favorite-dropdown-button"
-                        onClick={() => setIsDropdownOpen(!isDropdownOpen)}
+                        className="favorite-reload-button"
+                        onClick={handleReload}
+                        title="Reload"
                     >
-                        {selectedType}
                         <svg
-                            className={`favorite-dropdown-arrow ${isDropdownOpen ? 'open' : ''}`}
-                            width="16"
-                            height="16"
+                            width="18"
+                            height="18"
                             viewBox="0 0 24 24"
                             fill="none"
                             stroke="currentColor"
                             strokeWidth="2"
+                            strokeLinecap="round"
+                            strokeLinejoin="round"
                         >
-                            <polyline points="6 9 12 15 18 9" />
+                            <polyline points="23 4 23 10 17 10"></polyline>
+                            <polyline points="1 20 1 14 7 14"></polyline>
+                            <path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"></path>
                         </svg>
                     </button>
-                    {isDropdownOpen && (
-                        <div className="favorite-dropdown-menu">
-                            {contentTypes.map((type) => (
-                                <button
-                                    key={type}
-                                    className={`favorite-dropdown-item ${selectedType === type ? 'active' : ''}`}
-                                    onClick={() => handleTypeChange(type)}
-                                >
-                                    {type}
-                                </button>
-                            ))}
-                        </div>
-                    )}
+
+                    <div className="favorite-dropdown-wrapper">
+                        <button
+                            className="favorite-dropdown-button"
+                            onClick={() => setIsDropdownOpen(!isDropdownOpen)}
+                        >
+                            {selectedType}
+                            <svg
+                                className={`favorite-dropdown-arrow ${isDropdownOpen ? 'open' : ''}`}
+                                width="16"
+                                height="16"
+                                viewBox="0 0 24 24"
+                                fill="none"
+                                stroke="currentColor"
+                                strokeWidth="2"
+                            >
+                                <polyline points="6 9 12 15 18 9" />
+                            </svg>
+                        </button>
+                        {isDropdownOpen && (
+                            <div className="favorite-dropdown-menu">
+                                {contentTypes.map((type) => (
+                                    <button
+                                        key={type}
+                                        className={`favorite-dropdown-item ${selectedType === type ? 'active' : ''}`}
+                                        onClick={() => handleTypeChange(type)}
+                                    >
+                                        {type}
+                                    </button>
+                                ))}
+                            </div>
+                        )}
+                    </div>
                 </div>
             </div>
 
-            <div className="favorite-grid-container">
+            <div key={gridKey} className="favorite-grid-container">
                 {featuredShow && (
                     <div
                         className="favorite-grid-item favorite-grid-item-featured"
@@ -140,21 +182,22 @@ const FavoriteGrid: React.FC<FavoriteGridProps> = ({ onShowClick }) => {
                             </div>
 
                             <div className="favorite-featured-info">
-                                <h2 className="favorite-featured-title">
+                                <p className="favorite-featured-title">
                                     {getDisplayName(featuredShow)}
-                                </h2>
+                                </p>
 
                                 <div className="favorite-featured-meta">
-                                    {featuredShow.vote_average && (
-                                        <div className="favorite-featured-rating">
-                                            <svg stroke="currentColor" fill="yellow" strokeWidth="0" viewBox="0 0 24 24" height="20" width="20" xmlns="http://www.w3.org/2000/svg">
-                                                <path fill="none" d="M0 0h24v24H0z"></path>
-                                                <path d="M14.43 10 12 2l-2.43 8H2l6.18 4.41L5.83 22 12 17.31 18.18 22l-2.35-7.59L22 10z"></path>
-                                            </svg>
-                                            <span>{featuredShow.vote_average.toFixed(1)}</span>
-                                        </div>
-                                    )}
-                                    <span className="favorite-featured-year">{getYear(featuredShow)}</span>
+                                    <div className="favorite-featured-rating">
+                                        <svg stroke="currentColor" fill="yellow" strokeWidth="0" viewBox="0 0 24 24" height="20" width="20" xmlns="http://www.w3.org/2000/svg">
+                                            <path fill="none" d="M0 0h24v24H0z"></path>
+                                            <path d="M14.43 10 12 2l-2.43 8H2l6.18 4.41L5.83 22 12 17.31 18.18 22l-2.35-7.59L22 10z"></path>
+                                        </svg>
+                                        <p className="favorite-rating-value">
+                                            {featuredShow.vote_average ? featuredShow.vote_average.toFixed(1) : getRandomRating()}
+                                        </p>
+                                    </div>
+                                    <div className="favorite-featured-divider"></div>
+                                    <p className="favorite-featured-year">{getYear(featuredShow)}</p>
                                 </div>
 
                                 {featuredShow.overview && (
@@ -162,15 +205,6 @@ const FavoriteGrid: React.FC<FavoriteGridProps> = ({ onShowClick }) => {
                                         {featuredShow.overview}
                                     </p>
                                 )}
-
-                                <button className="favorite-featured-button">
-                                    <span className="favorite-button-icon">
-                                        <svg stroke="currentColor" fill="currentColor" strokeWidth="0" viewBox="0 0 384 512" height="18" width="18" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M73 39c-14.8-9.1-33.4-9.4-48.5-.9S0 62.6 0 80L0 432c0 17.4 9.4 33.4 24.5 41.9s33.7 8.1 48.5-.9L361 297c14.3-8.7 23-24.2 23-41s-8.7-32.2-23-41L73 39z"></path>
-                                        </svg>
-                                    </span>
-                                    <span className="favorite-button-text">Start Watching</span>
-                                </button>
                             </div>
                         </div>
                     </div>
@@ -195,20 +229,20 @@ const FavoriteGrid: React.FC<FavoriteGridProps> = ({ onShowClick }) => {
                         <div className="favorite-card-overlay" />
 
                         <div className="favorite-card-content">
-                            <h3 className="favorite-card-title">
+                            <p className="favorite-card-title">
                                 {getDisplayName(show)}
-                            </h3>
+                            </p>
                             <div className="favorite-card-meta">
-                                {show.vote_average && (
-                                    <div className="favorite-card-rating">
-                                        <svg stroke="currentColor" fill="yellow" strokeWidth="0" viewBox="0 0 24 24" height="20" width="20" xmlns="http://www.w3.org/2000/svg">
-                                            <path fill="none" d="M0 0h24v24H0z"></path>
-                                            <path d="M14.43 10 12 2l-2.43 8H2l6.18 4.41L5.83 22 12 17.31 18.18 22l-2.35-7.59L22 10z"></path>
-                                        </svg>
-                                        <span>{show.vote_average.toFixed(1)}</span>
-                                    </div>
-                                )}
-                                <span>{getYear(show)}</span>
+                                <div className="favorite-card-rating">
+                                    <svg stroke="currentColor" fill="yellow" strokeWidth="0" viewBox="0 0 24 24" height="20" width="20" xmlns="http://www.w3.org/2000/svg">
+                                        <path fill="none" d="M0 0h24v24H0z"></path>
+                                        <path d="M14.43 10 12 2l-2.43 8H2l6.18 4.41L5.83 22 12 17.31 18.18 22l-2.35-7.59L22 10z"></path>
+                                    </svg>
+                                    <p className="favorite-rating-value">
+                                        {show.vote_average ? show.vote_average.toFixed(1) : getRandomRating()}
+                                    </p>
+                                </div>
+                                <p className="favorite-card-year">{getYear(show)}</p>
                             </div>
                         </div>
                     </div>

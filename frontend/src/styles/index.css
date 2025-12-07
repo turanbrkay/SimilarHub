@@ -96,21 +96,21 @@ body {
    ============================================ */
 .page-content-width {
   width: 100%;
-  padding-left: 2rem;
-  padding-right: 2rem;
+  padding-left: 3.5rem;
+  padding-right: 3.5rem;
 }
 
 /* Responsive breakpoints */
 @media (max-width: 991px) {
   .page-content-width {
-    padding-left: 1rem;
-    padding-right: 1rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
   }
 }
 
 @media (max-width: 767px) {
   .page-content-width {
-    padding-left: 0.5rem;
-    padding-right: 0.5rem;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
   }
 }
